@@ -1,0 +1,31 @@
+.row {
+    display: table-row;
+}
+
+.row .cell {
+  display: inline-block;
+  vertical-align: middle;
+  visibility: hidden;
+  font-size: 25px;
+  padding: 10px;
+  color: blue;
+}
+
+.cell.alive {
+ visibility: visible
+}
+
+.cell-container {
+  display: table-cell;
+  border: 1px solid black;
+  border-collapse:collapse;
+}
+
+.row {
+  line-height:0;
+ }
+ 
+ #content {
+   display: table;
+   border-collapse: collapse;
+ }
