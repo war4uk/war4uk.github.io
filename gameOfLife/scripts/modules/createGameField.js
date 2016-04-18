@@ -1,7 +1,5 @@
 LifeApp.createGameField = (function () {
-  return createField;
-
-  function createField(dimensions, initialState) {
+  return function createField(dimensions, initialState) {
     if (!dimensions || !initialState || dimensions.x * dimensions.y !== initialState.length) {
       throw new Error("incorrect initialState");
     }
