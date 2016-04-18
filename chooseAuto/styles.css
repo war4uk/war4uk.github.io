@@ -39,6 +39,10 @@
     vertical-align: middle !important;
 }
 
+.car-info-description {
+    text-align: left !important;
+}
+
 .main-container {
     text-align: center;
 }

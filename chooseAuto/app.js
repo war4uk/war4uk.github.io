@@ -358,7 +358,7 @@ __p+='<td class="car-info-cell preview-on-hover">\r\n    <img src="'+
 ((__t=( vendor ))==null?'':_.escape(__t))+
 ' '+
 ((__t=( model ))==null?'':_.escape(__t))+
-'\r\n</td>\r\n<td class="car-info-cell">\r\n    '+
+'\r\n</td>\r\n<td class="car-info-cell car-info-description">\r\n    '+
 ((__t=( description ))==null?'':_.escape(__t))+
 '\r\n</td>\r\n<td class="car-info-cell">\r\n    <button class="btn do-action '+
 ((__t=( (favourite && (action === "add")) ? "disabled" : "" ))==null?'':_.escape(__t))+
