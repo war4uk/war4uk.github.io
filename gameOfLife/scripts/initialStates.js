@@ -1,3 +1,4 @@
+"use strict";
 LifeApp.initialStates = (function () {
   return [
     {

@@ -1,3 +1,4 @@
+"use strict";
 LifeApp.getVisualizer = function (gameFieldCreator, coordsHelper) {
   return {
     initializeField: initializeField,

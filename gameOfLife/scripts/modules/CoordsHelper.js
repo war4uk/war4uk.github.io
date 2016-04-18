@@ -1,3 +1,4 @@
+"use strict";
 LifeApp.CoordsHelper = (function () {
   return {
     getNeighbourValues: getNeighbourValues,

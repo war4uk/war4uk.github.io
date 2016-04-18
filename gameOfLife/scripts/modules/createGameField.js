@@ -1,3 +1,4 @@
+"use strict";
 LifeApp.createGameField = (function () {
   return function createField(dimensions, initialState) {
     if (!dimensions || !initialState || dimensions.x * dimensions.y !== initialState.length) {

@@ -1,3 +1,4 @@
+"use strict";
 (function (getStartGame, initialStates, coordsHelper, gameFieldCreator, getRunIteration, getVisualizer, window) {
   // emulate dependency injection
   var runIteration = getRunIteration(coordsHelper);

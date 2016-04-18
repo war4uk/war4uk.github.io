@@ -1,5 +1,5 @@
+"use strict";
 describe("CoordsHelper", function () {
-
   var coordsHelper;
 
   beforeAll(function () {

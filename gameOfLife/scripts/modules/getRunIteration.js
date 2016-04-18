@@ -1,3 +1,4 @@
+"use strict";
 LifeApp.getRunIteration = function (coordsHelper) {
   return function runIteration(field) {
     field.currentState = field.currentState.map(function (isCurrentCellAlive, index) {

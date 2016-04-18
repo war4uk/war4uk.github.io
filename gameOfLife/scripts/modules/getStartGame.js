@@ -1,3 +1,4 @@
+"use strict";
 LifeApp.getStartGame = function (createGameField, runIteration, visualizer, setInterval, clearInterval) {
   var interval;
   return function startGame(dimensions, initialState) {

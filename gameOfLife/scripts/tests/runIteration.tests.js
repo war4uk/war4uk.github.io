@@ -1,3 +1,4 @@
+"use strict";
 describe("Run iteration", function () {
   var iterationRunner;
 
