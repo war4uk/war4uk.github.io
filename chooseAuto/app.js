@@ -325,7 +325,8 @@ var Router = Marionette.AppRouter.extend({
     'list': 'carInfo',
     'list/:model': 'carInfo',
     'fav': 'carFavs',
-    'stats': 'carStats'
+    'stats': 'carStats',
+    '': 'carInfo'
   },
 
   /** Initialize our controller with the options passed into the application,
