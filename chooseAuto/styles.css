@@ -1,0 +1,55 @@
+.car-info-image-preview {
+    position: absolute;
+    top: -20px;
+    left: 250px;
+    display: none;
+    border-radius: 5px;
+    background: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5); 
+    padding: 5px; 
+}
+
+.car-info-image-preview img {
+     height: 200px;
+}
+
+.car-info-image-thumb {
+    height: 100px;
+}
+
+.preview-on-hover {
+    position: relative;
+    width: 250px;
+}
+
+.car-info-header {
+    text-align: center;
+}
+
+.car-info-header th {
+    text-align: center; 
+}
+
+.car-info-table {
+    text-align: center;
+}
+
+.car-info-cell {
+    text-align: center;
+    vertical-align: middle !important;
+}
+
+.main-container {
+    text-align: center;
+}
+
+.nav-tabs.centered > li, .nav-pills.centered > li {
+    float:none;
+    display:inline-block;
+    *display:inline; /* ie7 fix */
+     zoom:1; /* hasLayout ie7 trigger */
+}
+
+.nav-tabs.centered, .nav-pills.centered {
+    text-align:center;
+}
