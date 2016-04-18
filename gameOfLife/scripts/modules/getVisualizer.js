@@ -9,7 +9,8 @@ LifeApp.getVisualizer = function (gameFieldCreator, coordsHelper) {
     createFieldStructure(gameField.dimensions);
 
     gameField.currentState.forEach(function (value, index) {
-      updateCell(value, index, gameField.dimensions);
+      var createdCell = updateCell(value, index, gameField.dimensions);
+      createdCell.innerHTML = '&#9679';
     });
   }
 
@@ -25,7 +26,8 @@ LifeApp.getVisualizer = function (gameFieldCreator, coordsHelper) {
     var cellElement = document.getElementById(cellId);
 
     cellElement.className = !isAlive ? "cell" : "cell alive";
-    cellElement.innerHTML = '&#9679';
+    return cellElement;
+
   }
 
   function createFieldStructure(dimensions) {
