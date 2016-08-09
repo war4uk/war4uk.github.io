@@ -1,0 +1,11 @@
+<div class="editor-container" ui-sortable="$ctrl.cancelOptions" ng-model="$ctrl.lines">
+    <div class="editor-field" ng-repeat="line in $ctrl.lines track by $index">
+        <div class="editor-input">
+            <cm:editor-input class="todo" text="$ctrl.lines[$index]" on-text-changed="$ctrl.onEditorChanged($index, changedText)"></cm:editor-input>
+        </div>
+        <div class="actions">
+            <button class="add" ng-click="$ctrl.addEditorAtIndex($index)"><span class="caption">+</span></button>
+            <button class="delete" ng-disabled="$ctrl.lines.length < 2" ng-click="$ctrl.removeEditorAtIndex($index)"><span class="caption">-</span></button>
+        </div>
+    </div>
+</div>

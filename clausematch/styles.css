@@ -1,0 +1,79 @@
+.editor {
+    display: inline-flex;
+    width: 100%;
+}
+
+.previewer {
+    margin-left: 25px;
+    min-width: 350px;
+    min-height: 150px;
+    background-color: #000;
+    color: #eee;
+    white-space: pre-wrap;
+    font-family: 'Lucida Console', Monaco, monospace;
+    font-size: smaller;
+    flex-grow: 1;
+    word-break: break-all;
+}
+
+
+/* todo - poor naming */
+
+.editor-container {
+    display: inline-flex;
+    flex-direction: column;
+}
+
+.editor-field {
+    display: inline-flex;
+    flex-direction: row;
+    margin-bottom: 5px;
+    background-color: #EEE;
+    cursor: pointer;
+}
+
+.editor-field .editor-input {
+    display: inline-flex;
+    width: 450px;
+}
+
+.editor-field .editor-input .todo {
+    outline: 0px solid transparent;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    word-break: break-all;
+    white-space: normal;
+    padding-right: 15px;
+    margin: 15px;
+    cursor: text;
+    display: inline-block;
+}
+
+.editor-field .actions {
+    display: inline-flex;
+}
+
+.editor-field .actions button {
+    width: 30px;
+    display: inline-flex;
+    background: none;
+    border: none;
+    outline: none;
+}
+
+.editor-field .actions button .caption {
+    margin: auto;
+    color: white;
+}
+
+.editor-field .actions .add {
+    background-color: #A6C541;
+}
+
+.editor-field .actions .delete {
+    background-color: #C15C44;
+}
+
+.editor-field .actions .delete:disabled {
+    background-color: #CCC;
+}
