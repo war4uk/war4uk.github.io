@@ -1,6 +1,10 @@
 export default class EditorAppController {
   constructor() {
-    this.lines = ['test1', 'test2', 'test3'];
+    this.lines = [
+      'There can be more >1 element',
+      '<b>This one is bold</b>',
+      '<i>This one is italic</i>',
+    ];
   }
 
   onLinesChanged(lines) {

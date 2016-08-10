@@ -16,9 +16,6 @@
     word-break: break-all;
 }
 
-
-/* todo - poor naming */
-
 .editor-container {
     display: inline-flex;
     flex-direction: column;
@@ -32,12 +29,12 @@
     cursor: pointer;
 }
 
-.editor-field .editor-input {
+.editor-field .editor-wrapper {
     display: inline-flex;
     width: 450px;
 }
 
-.editor-field .editor-input .todo {
+.editor-field .editor-wrapper .editor-input {
     outline: 0px solid transparent;
     word-wrap: break-word;
     overflow-wrap: break-word;
@@ -47,6 +44,8 @@
     margin: 15px;
     cursor: text;
     display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
 }
 
 .editor-field .actions {
@@ -59,6 +58,8 @@
     background: none;
     border: none;
     outline: none;
+    font-weight: bold;
+    font-size: 20px;
 }
 
 .editor-field .actions button .caption {
