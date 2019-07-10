@@ -26,6 +26,18 @@
                   <td>{{entry.appliedTo1medSportivnoe ? "1 мед спортивное" : ""}}</td>                                                 
                 </tr>
               </table>
+
+              <hr />
+              <h1> Первый мед - спортивное  </h1> 
+              <table>
+                      <tr v-for="(entry,index) in firstMedSportivnoe">
+                        <td>{{index}}</td>                       
+                        <td>{{entry.name}}</td>
+                        <td>{{entry.result}}</td>
+                        <td>{{entry.almazovOriginal ? "оригинал в" : ""}} {{entry.appliedToAlmazov ? "Алмазова" : ""}} {{entry.almazovAgreed ? "(согласие)": ""  }}</td>   
+                        <td>{{entry.appliedTo1medLechebnoe ? "1 мед лечебное" : ""}}</td>                                                 
+                      </tr>
+                    </table>              
         </div>
     </body>
 </html>

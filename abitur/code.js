@@ -28,7 +28,8 @@ async function parser() {
         el: '#app-4',
         data: {
             ALmazovEntries: participantArray.filter(entry => entry.appliedToAlmazov), 
-            firstMedLechebnoe: participantArray.filter(entry => entry.appliedTo1medLechebnoe)
+            firstMedLechebnoe: participantArray.filter(entry => entry.appliedTo1medLechebnoe),
+            firstMedSportivnoe: participantArray.filter(entry => entry.appliedTo1medSportivnoe),
         }
       })
 
