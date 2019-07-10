@@ -12,7 +12,9 @@
                 <td>{{entry.result}}</td>
                 <td>{{entry.almazovAgreed ? "согласие" : ""}} {{entry.almazovOriginal ? "(оригинал)" : ""}} </td>
                 <td>{{entry.appliedTo1medLechebnoe ? "1 мед лечебное" : ""}}</td>
-                <td>{{entry.appliedTo1medSportivnoe ? "1 мед спортивное" : ""}}</td>                                                    
+                <td>{{entry.appliedTo1medSportivnoe ? "1 мед спортивное" : ""}}</td>                                                                     
+                <td>{{entry.appliedTospbuMed ? ("СПБГУ лечебное #" + entry.spbuMedNumber) : ""}} {{entry.spbuMedOriginal ? "(оригинал)": ""}}</td>   
+                <td>{{entry.appliedToSpbuBio ? ("СПБГУ Биология #" + entry.spbuBioNumber) : ""}} {{entry.spbuBioOriginal ? "(оригинал)": ""}}</td>   
               </tr>
             </table>
         <hr />
@@ -23,7 +25,9 @@
                   <td>{{entry.name}}</td>
                   <td>{{entry.result}}</td>
                   <td>{{entry.almazovOriginal ? "оригинал в" : ""}} {{entry.appliedToAlmazov ? "Алмазова" : ""}} {{entry.almazovAgreed ? "(согласие)": ""  }}</td>   
-                  <td>{{entry.appliedTo1medSportivnoe ? "1 мед спортивное" : ""}}</td>                                                 
+                  <td>{{entry.appliedTo1medSportivnoe ? "1 мед спортивное" : ""}}</td>    
+                  <td>{{entry.appliedTospbuMed ? ("СПБГУ лечебное #" + entry.spbuMedNumber) : ""}} {{entry.spbuMedOriginal ? "(оригинал)": ""}}</td>   
+                  <td>{{entry.appliedToSpbuBio ? ("СПБГУ Биология #" + entry.spbuBioNumber) : ""}} {{entry.spbuBioOriginal ? "(оригинал)": ""}}</td>   
                 </tr>
               </table>
 
@@ -35,9 +39,38 @@
                         <td>{{entry.name}}</td>
                         <td>{{entry.result}}</td>
                         <td>{{entry.almazovOriginal ? "оригинал в" : ""}} {{entry.appliedToAlmazov ? "Алмазова" : ""}} {{entry.almazovAgreed ? "(согласие)": ""  }}</td>   
-                        <td>{{entry.appliedTo1medLechebnoe ? "1 мед лечебное" : ""}}</td>                                                 
+                        <td>{{entry.appliedTo1medLechebnoe ? "1 мед лечебное" : ""}}</td>     
+                        <td>{{entry.appliedTospbuMed ? ("СПБГУ лечебное #" + entry.spbuMedNumber) : ""}} {{entry.spbuMedOriginal ? "(оригинал)": ""}}</td>   
+                        <td>{{entry.appliedToSpbuBio ? ("СПБГУ Биология #" + entry.spbuBioNumber) : ""}} {{entry.spbuBioOriginal ? "(оригинал)": ""}}</td>  
                       </tr>
-                    </table>              
+                    </table>         
+                    <hr />
+                    <h1> СПбГУ - лечебное  </h1> 
+                    <table>
+                          <tr v-for="(entry,index) in spbuMed">
+                            <td>{{entry.spbuMedNumber}}</td>                       
+                            <td>{{entry.name}}</td>
+                            <td>{{entry.result}}</td>
+                            <td>{{entry.spbuMedOriginal ? "(оригинал)": ""}}</td>   
+                            <td>{{entry.appliedToSpbuBio ? ("СПБГУ Биология #" + entry.spbuBioNumber) : ""}} {{entry.spbuBioOriginal ? "(оригинал)": ""}}</td>   
+                            <td>{{entry.almazovOriginal ? "оригинал в" : ""}} {{entry.appliedToAlmazov ? "Алмазова" : ""}} {{entry.almazovAgreed ? "(согласие)": ""  }}</td>   
+                            <td>{{entry.appliedTo1medLechebnoe ? "1 мед лечебное" : ""}}</td>    
+                            <td>{{entry.appliedTo1medSportivnoe ? "1 мед спортивное" : ""}}</td>                                 
+                          </tr>
+                        </table>     
+                        <h1> СПбГУ - биология  </h1> 
+                        <table>
+                              <tr v-for="(entry,index) in spbuBio">
+                                <td>{{entry.spbuBioNumber}}</td>                       
+                                <td>{{entry.name}}</td>
+                                <td>{{entry.result}}</td>
+                                <td>{{entry.spbuBioOriginal ? "(оригинал)": ""}}</td>   
+                                <td>{{entry.appliedTospbuMed ? ("СПБГУ лечебное #" + entry.spbuMedNumber) : ""}} {{entry.spbuMedOriginal ? "(оригинал)": ""}}</td>   
+                                <td>{{entry.almazovOriginal ? "оригинал в" : ""}} {{entry.appliedToAlmazov ? "Алмазова" : ""}} {{entry.almazovAgreed ? "(согласие)": ""  }}</td>   
+                                <td>{{entry.appliedTo1medLechebnoe ? "1 мед лечебное" : ""}}</td>    
+                                <td>{{entry.appliedTo1medSportivnoe ? "1 мед спортивное" : ""}}</td>                                 
+                              </tr>
+                            </table>                        
         </div>
     </body>
 </html>
