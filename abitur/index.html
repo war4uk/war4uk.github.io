@@ -1,0 +1,31 @@
+<html>
+    <body>
+        <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+        <script src="code.js"></script>
+        <div id="app-4">
+            <h1> Алмазова (но там на первом месте странный товарищ)</h1> 
+            <table>
+              <tr v-for="(entry, index) in ALmazovEntries">
+                <td>{{index}}</td>                  
+                <td>{{entry.name}}</td>
+                <td>{{entry.result}}</td>
+                <td>{{entry.almazovAgreed ? "согласие" : ""}} {{entry.almazovOriginal ? "(оригинал)" : ""}} </td>
+                <td>{{entry.appliedTo1medLechebnoe ? "1 мед лечебное" : ""}}</td>
+                <td>{{entry.appliedTo1medSportivnoe ? "1 мед спортивное" : ""}}</td>                                                    
+              </tr>
+            </table>
+        <hr />
+        <h1> Первый мед - лечебное  </h1> 
+        <table>
+                <tr v-for="(entry,index) in firstMedLechebnoe">
+                  <td>{{index}}</td>                       
+                  <td>{{entry.name}}</td>
+                  <td>{{entry.result}}</td>
+                  <td>{{entry.almazovOriginal ? "оригинал в" : ""}} {{entry.appliedToAlmazov ? "Алмазова" : ""}} {{entry.almazovAgreed ? "(согласие)": ""  }}</td>   
+                  <td>{{entry.appliedTo1medSportivnoe ? "1 мед спортивное" : ""}}</td>                                                 
+                </tr>
+              </table>
+        </div>
+    </body>
+</html>
