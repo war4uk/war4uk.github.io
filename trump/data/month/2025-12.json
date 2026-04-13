@@ -1,5 +1,32 @@
 {
   "month": "2025-12",
-  "days": [],
-  "generatedAt": "2025-10-12T00:00:00Z"
+  "days": [
+    {
+      "date": "2025-12-30",
+      "counts": {
+        "positive": 7,
+        "neutral": 8,
+        "negative": 3
+      },
+      "summary": "positive:7 neutral:8 negative:3",
+      "topics": [],
+      "postsCount": 18,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T07:50:51.147Z"
+    },
+    {
+      "date": "2025-12-31",
+      "counts": {
+        "positive": 5,
+        "neutral": 1,
+        "negative": 11
+      },
+      "summary": "positive:5 neutral:1 negative:11",
+      "topics": [],
+      "postsCount": 17,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T07:51:18.183Z"
+    }
+  ],
+  "generatedAt": "2026-04-13T07:51:18.183Z"
 }

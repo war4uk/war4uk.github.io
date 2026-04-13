@@ -28,7 +28,7 @@
         "Border security praise and tariffs defense",
         "Health exam bragging"
       ],
-      "postsCount": 9,
+      "postsCount": 12,
       "hasDetail": true,
       "generatedAt": "2026-01-07T10:17:53.414Z"
     },
@@ -44,7 +44,7 @@
         "Venezuela strike and Maduro capture",
         "Naval transfer updates"
       ],
-      "postsCount": 24,
+      "postsCount": 73,
       "hasDetail": true,
       "generatedAt": "2026-01-07T10:17:55.398Z"
     },
@@ -72,7 +72,7 @@
       "topics": [
         "Sparse updates and reposts"
       ],
-      "postsCount": 25,
+      "postsCount": 96,
       "hasDetail": true,
       "generatedAt": "2026-01-18T12:20:17.165Z"
     },
@@ -89,7 +89,7 @@
         "California corruption accusations",
         "Kennedy Center and GOP remarks"
       ],
-      "postsCount": 14,
+      "postsCount": 15,
       "hasDetail": true,
       "generatedAt": "2026-01-18T12:20:17.639Z"
     },
@@ -118,7 +118,11 @@
         "negative": 2
       },
       "summary": "positive:3 neutral:2 negative:2",
-      "topics": [],
+      "topics": [
+        "Economic Success and Trade Deficit",
+        "Housing Market Initiatives",
+        "National Security and Defense Concerns"
+      ],
       "postsCount": 7,
       "hasDetail": true,
       "generatedAt": "2026-01-18T12:20:18.539Z"
@@ -131,8 +135,12 @@
         "negative": 1
       },
       "summary": "positive:6 neutral:6 negative:1",
-      "topics": [],
-      "postsCount": 13,
+      "topics": [
+        "Support for Megan Degenfelder's Gubernatorial Campaign",
+        "Economic Growth and Energy Policies",
+        "U.S.-Venezuela Relations and Oil Infrastructure"
+      ],
+      "postsCount": 18,
       "hasDetail": true,
       "generatedAt": "2026-01-18T12:20:18.993Z"
     },
@@ -144,8 +152,12 @@
         "negative": 2
       },
       "summary": "positive:12 neutral:8 negative:2",
-      "topics": [],
-      "postsCount": 22,
+      "topics": [
+        "Political Prisoners in Venezuela",
+        "Endorsement of Jon Maples",
+        "Housing Affordability Initiatives"
+      ],
+      "postsCount": 24,
       "hasDetail": true,
       "generatedAt": "2026-01-18T12:20:19.438Z"
     },
@@ -157,8 +169,12 @@
         "negative": 2
       },
       "summary": "positive:2 neutral:4 negative:2",
-      "topics": [],
-      "postsCount": 8,
+      "topics": [
+        "Mar-a-Lago Entrance",
+        "Judicial Overreach and Indictments",
+        "Healthcare Policy and ObamaCare"
+      ],
+      "postsCount": 17,
       "hasDetail": true,
       "generatedAt": "2026-01-18T12:20:19.895Z"
     },
@@ -170,7 +186,11 @@
         "negative": 5
       },
       "summary": "positive:3 neutral:2 negative:5",
-      "topics": [],
+      "topics": [
+        "Utility Bills and Data Centers",
+        "Congestion Pricing in NYC",
+        "Tariffs on Iran"
+      ],
       "postsCount": 10,
       "hasDetail": true,
       "generatedAt": "2026-01-18T12:20:20.351Z"
@@ -183,8 +203,12 @@
         "negative": 4
       },
       "summary": "positive:5 neutral:1 negative:4",
-      "topics": [],
-      "postsCount": 10,
+      "topics": [
+        "Economic Growth and Investment",
+        "Minnesota Political Controversy",
+        "Tribute to Scott Adams"
+      ],
+      "postsCount": 11,
       "hasDetail": true,
       "generatedAt": "2026-01-18T12:20:20.876Z"
     },
@@ -196,7 +220,11 @@
         "negative": 5
       },
       "summary": "positive:3 neutral:1 negative:5",
-      "topics": [],
+      "topics": [
+        "Venezuela Partnership",
+        "National Security Concerns",
+        "Trade Deficit Success"
+      ],
       "postsCount": 9,
       "hasDetail": true,
       "generatedAt": "2026-01-18T12:20:21.329Z"
@@ -209,7 +237,11 @@
         "negative": 3
       },
       "summary": "positive:4 neutral:1 negative:3",
-      "topics": [],
+      "topics": [
+        "Formation of the Board of Peace",
+        "Strong Financial Performance",
+        "Concerns Over Minnesota Politics"
+      ],
       "postsCount": 8,
       "hasDetail": true,
       "generatedAt": "2026-01-18T12:20:21.779Z"
@@ -222,7 +254,11 @@
         "negative": 1
       },
       "summary": "positive:4 neutral:1 negative:1",
-      "topics": [],
+      "topics": [
+        "Iran Hanging Cancellations",
+        "Healthcare Reform Meeting",
+        "Gaza Peace Plan Progress"
+      ],
       "postsCount": 6,
       "hasDetail": true,
       "generatedAt": "2026-01-18T12:20:22.221Z"
@@ -235,8 +271,12 @@
         "negative": 4
       },
       "summary": "positive:1 neutral:1 negative:4",
-      "topics": [],
-      "postsCount": 6,
+      "topics": [
+        "Autopen Controversy",
+        "Claims of Media Misinformation",
+        "Radical Left Accusations"
+      ],
+      "postsCount": 7,
       "hasDetail": true,
       "generatedAt": "2026-01-18T12:20:22.671Z"
     },
@@ -248,11 +288,236 @@
         "negative": 3
       },
       "summary": "positive:6 neutral:0 negative:3",
-      "topics": [],
+      "topics": [
+        "Endorsements for Senate Candidates",
+        "Defense of American Traditions",
+        "Critique of Immigration Policies"
+      ],
       "postsCount": 9,
       "hasDetail": true,
       "generatedAt": "2026-01-18T12:20:26.156Z"
+    },
+    {
+      "date": "2026-01-19",
+      "counts": {
+        "positive": 8,
+        "neutral": 3,
+        "negative": 7
+      },
+      "summary": "positive:8 neutral:3 negative:7",
+      "topics": [
+        "Trump's Focus on Affordability",
+        "Mortgage Rates Drop",
+        "Corruption and Election Integrity Issues"
+      ],
+      "postsCount": 18,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T07:51:53.732Z"
+    },
+    {
+      "date": "2026-01-20",
+      "counts": {
+        "positive": 6,
+        "neutral": 34,
+        "negative": 4
+      },
+      "summary": "positive:6 neutral:34 negative:4",
+      "topics": [
+        "Trump's Influence on Christmas",
+        "NATO and National Security Concerns",
+        "Crime and Immigration Issues"
+      ],
+      "postsCount": 44,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T07:52:33.560Z"
+    },
+    {
+      "date": "2026-01-21",
+      "counts": {
+        "positive": 4,
+        "neutral": 7,
+        "negative": 1
+      },
+      "summary": "positive:4 neutral:7 negative:1",
+      "topics": [
+        "FCC Equal Time Rules",
+        "Trump's Arctic Deal",
+        "Davos Representation"
+      ],
+      "postsCount": 12,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T07:52:47.761Z"
+    },
+    {
+      "date": "2026-01-22",
+      "counts": {
+        "positive": 3,
+        "neutral": 42,
+        "negative": 8
+      },
+      "summary": "positive:3 neutral:42 negative:8",
+      "topics": [
+        "Economic Growth and Investment",
+        "Criticism of Polling and Media",
+        "World Expo 2035 Announcement"
+      ],
+      "postsCount": 53,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T07:53:41.378Z"
+    },
+    {
+      "date": "2026-01-23",
+      "counts": {
+        "positive": 34,
+        "neutral": 58,
+        "negative": 8
+      },
+      "summary": "positive:34 neutral:58 negative:8",
+      "topics": [
+        "International Peace Efforts",
+        "Support for Congressional Candidates",
+        "Severe Weather Preparedness"
+      ],
+      "postsCount": 100,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T07:55:08.309Z"
+    },
+    {
+      "date": "2026-01-24",
+      "counts": {
+        "positive": 3,
+        "neutral": 6,
+        "negative": 5
+      },
+      "summary": "positive:3 neutral:6 negative:5",
+      "topics": [
+        "Emergency Declarations for Winter Storms",
+        "Minnesota Corruption Accusations",
+        "China-Canada Trade Concerns"
+      ],
+      "postsCount": 14,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T07:55:23.077Z"
+    },
+    {
+      "date": "2026-01-25",
+      "counts": {
+        "positive": 3,
+        "neutral": 0,
+        "negative": 4
+      },
+      "summary": "positive:3 neutral:0 negative:4",
+      "topics": [
+        "Border Security and Deportation Efforts",
+        "China-Canada Trade Concerns",
+        "Minnesota Corruption Accusations"
+      ],
+      "postsCount": 7,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T07:55:33.245Z"
+    },
+    {
+      "date": "2026-01-26",
+      "counts": {
+        "positive": 7,
+        "neutral": 2,
+        "negative": 6
+      },
+      "summary": "positive:7 neutral:2 negative:6",
+      "topics": [
+        "Minnesota Political Controversy",
+        "Political Prisoners in Venezuela",
+        "Trade Deal Tariff Increases"
+      ],
+      "postsCount": 15,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T07:55:48.885Z"
+    },
+    {
+      "date": "2026-01-27",
+      "counts": {
+        "positive": 1,
+        "neutral": 2,
+        "negative": 1
+      },
+      "summary": "positive:1 neutral:2 negative:1",
+      "topics": [
+        "Iraq Political Concerns",
+        "Endorsement of Tracey Powell",
+        "Indiana Redistricting Issues"
+      ],
+      "postsCount": 4,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T07:55:55.536Z"
+    },
+    {
+      "date": "2026-01-28",
+      "counts": {
+        "positive": 10,
+        "neutral": 6,
+        "negative": 3
+      },
+      "summary": "positive:10 neutral:6 negative:3",
+      "topics": [
+        "Election Integrity and Fraud Enforcement",
+        "Military Action and Iran",
+        "Endorsements for State Candidates"
+      ],
+      "postsCount": 19,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T07:56:15.363Z"
+    },
+    {
+      "date": "2026-01-29",
+      "counts": {
+        "positive": 4,
+        "neutral": 84,
+        "negative": 2
+      },
+      "summary": "positive:4 neutral:84 negative:2",
+      "topics": [
+        "Canada Aircraft Certification Dispute",
+        "Government Funding and Shutdown Concerns",
+        "National Fraud Enforcement Initiatives"
+      ],
+      "postsCount": 90,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T07:57:58.820Z"
+    },
+    {
+      "date": "2026-01-30",
+      "counts": {
+        "positive": 5,
+        "neutral": 3,
+        "negative": 1
+      },
+      "summary": "positive:5 neutral:3 negative:1",
+      "topics": [
+        "Federal Reserve Chairman Nomination",
+        "Endorsement of State Senate Candidate",
+        "ICE Officer Incident"
+      ],
+      "postsCount": 9,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T07:58:09.515Z"
+    },
+    {
+      "date": "2026-01-31",
+      "counts": {
+        "positive": 8,
+        "neutral": 12,
+        "negative": 2
+      },
+      "summary": "positive:8 neutral:12 negative:2",
+      "topics": [
+        "Texas Senate Election Endorsement",
+        "MELANIA Film Promotion",
+        "Minnesota Fraud Allegations"
+      ],
+      "postsCount": 22,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T07:58:33.838Z"
     }
   ],
-  "generatedAt": "2026-01-18T12:20:26.156Z"
+  "generatedAt": "2026-04-13T07:58:33.838Z"
 }

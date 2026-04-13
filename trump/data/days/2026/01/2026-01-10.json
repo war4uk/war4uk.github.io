@@ -7,7 +7,11 @@
   },
   "summary": "positive:12 neutral:8 negative:2",
   "generatedAt": "2026-01-18T12:20:19.438Z",
-  "topics": [],
+  "topics": [
+    "Political Prisoners in Venezuela",
+    "Endorsement of Jon Maples",
+    "Housing Affordability Initiatives"
+  ],
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34505",
@@ -82,6 +86,24 @@
       }
     },
     {
+      "id": "https://www.trumpstruth.org/statuses/34925",
+      "publishedAt": "2026-01-10T01:31:03.000Z",
+      "title": "[No Title] - Post from January 10, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/34925",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from January 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/34925",
+        "pubDate": "Sat, 10 Jan 2026 01:31:03 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/34925",
+        "isoDate": "2026-01-10T01:31:03.000Z"
+      }
+    },
+    {
       "id": "https://www.trumpstruth.org/statuses/34509",
       "publishedAt": "2026-01-10T01:33:18.000Z",
       "title": "Venom and Valor Earns Prestigious Recognition as Best Leadership and Resilience Book of 2025:",
@@ -115,6 +137,24 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34510",
         "isoDate": "2026-01-10T01:35:25.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/34924",
+      "publishedAt": "2026-01-10T01:50:41.000Z",
+      "title": "[No Title] - Post from January 10, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/34924",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from January 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/34924",
+        "pubDate": "Sat, 10 Jan 2026 01:50:41 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/34924",
+        "isoDate": "2026-01-10T01:50:41.000Z"
       }
     },
     {

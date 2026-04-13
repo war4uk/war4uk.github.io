@@ -7,7 +7,11 @@
   },
   "summary": "positive:5 neutral:1 negative:4",
   "generatedAt": "2026-01-18T12:20:20.876Z",
-  "topics": [],
+  "topics": [
+    "Economic Growth and Investment",
+    "Minnesota Political Controversy",
+    "Tribute to Scott Adams"
+  ],
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34545",
@@ -43,6 +47,24 @@
         "contentSnippet": "Patel fired 'corrupt' FBI agents in anti-Trump Arctic Frost inquiry who 'weaponized' law enforcement: https://justthenews.com/government/courts-law/patel-fired-corrupt-fbi-agents-anti-trump-arctic-frost-inquiry-who-weaponized/",
         "guid": "https://www.trumpstruth.org/statuses/34546",
         "isoDate": "2026-01-13T10:36:24.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/34914",
+      "publishedAt": "2026-01-13T12:32:23.000Z",
+      "title": "[No Title] - Post from January 13, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/34914",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from January 13, 2026",
+        "link": "https://www.trumpstruth.org/statuses/34914",
+        "pubDate": "Tue, 13 Jan 2026 12:32:23 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/34914",
+        "isoDate": "2026-01-13T12:32:23.000Z"
       }
     },
     {

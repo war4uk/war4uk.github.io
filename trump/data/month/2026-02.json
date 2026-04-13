@@ -1,0 +1,478 @@
+{
+  "month": "2026-02",
+  "days": [
+    {
+      "date": "2026-02-01",
+      "counts": {
+        "positive": 12,
+        "neutral": 12,
+        "negative": 0
+      },
+      "summary": "positive:12 neutral:12 negative:0",
+      "topics": [
+        "Steel Production Achievement",
+        "Endorsements for Indiana Senate Candidates",
+        "Melania Trump Film Success"
+      ],
+      "postsCount": 24,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T07:58:58.278Z"
+    },
+    {
+      "date": "2026-02-02",
+      "counts": {
+        "positive": 5,
+        "neutral": 9,
+        "negative": 5
+      },
+      "summary": "positive:5 neutral:9 negative:5",
+      "topics": [
+        "Thomas Massie Criticism",
+        "Government Funding and Shutdown Concerns",
+        "Iran and Middle East Relations"
+      ],
+      "postsCount": 19,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T07:59:19.682Z"
+    },
+    {
+      "date": "2026-02-03",
+      "counts": {
+        "positive": 2,
+        "neutral": 4,
+        "negative": 5
+      },
+      "summary": "positive:2 neutral:4 negative:5",
+      "topics": [
+        "White House Ballroom Announcement",
+        "Harvard University Controversy",
+        "Diplomacy with Iran and Cuba"
+      ],
+      "postsCount": 11,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T07:59:30.748Z"
+    },
+    {
+      "date": "2026-02-04",
+      "counts": {
+        "positive": 3,
+        "neutral": 1,
+        "negative": 0
+      },
+      "summary": "positive:3 neutral:1 negative:0",
+      "topics": [
+        "Endorsement of Clay Fuller",
+        "China-U.S. Relations Discussion",
+        "Whistleblower Complaint Confirmation"
+      ],
+      "postsCount": 4,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T07:59:35.985Z"
+    },
+    {
+      "date": "2026-02-05",
+      "counts": {
+        "positive": 20,
+        "neutral": 22,
+        "negative": 3
+      },
+      "summary": "positive:20 neutral:22 negative:3",
+      "topics": [
+        "Election Integrity and Voter ID",
+        "Endorsements for Congressional Candidates",
+        "National Security and Military Strength"
+      ],
+      "postsCount": 45,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:00:31.339Z"
+    },
+    {
+      "date": "2026-02-06",
+      "counts": {
+        "positive": 9,
+        "neutral": 81,
+        "negative": 3
+      },
+      "summary": "positive:9 neutral:81 negative:3",
+      "topics": [
+        "January 6th Investigation Controversy",
+        "Stock Market Milestone",
+        "Healthcare Price Reductions"
+      ],
+      "postsCount": 94,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:02:50.225Z"
+    },
+    {
+      "date": "2026-02-07",
+      "counts": {
+        "positive": 6,
+        "neutral": 4,
+        "negative": 0
+      },
+      "summary": "positive:6 neutral:4 negative:0",
+      "topics": [
+        "Stock Market Milestone",
+        "Border Security and Deportation Efforts",
+        "Media Competition and Regulation"
+      ],
+      "postsCount": 10,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:03:02.009Z"
+    },
+    {
+      "date": "2026-02-08",
+      "counts": {
+        "positive": 6,
+        "neutral": 2,
+        "negative": 2
+      },
+      "summary": "positive:6 neutral:2 negative:2",
+      "topics": [
+        "Super Bowl Celebration",
+        "Stock Market and Tariffs",
+        "Election Integrity and Voter ID"
+      ],
+      "postsCount": 10,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:03:13.664Z"
+    },
+    {
+      "date": "2026-02-09",
+      "counts": {
+        "positive": 2,
+        "neutral": 4,
+        "negative": 2
+      },
+      "summary": "positive:2 neutral:4 negative:2",
+      "topics": [
+        "Canada-U.S. Relations and Trade",
+        "California Governor Race Controversy",
+        "Super Bowl Halftime Show Criticism"
+      ],
+      "postsCount": 8,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:03:24.087Z"
+    },
+    {
+      "date": "2026-02-10",
+      "counts": {
+        "positive": 8,
+        "neutral": 12,
+        "negative": 3
+      },
+      "summary": "positive:8 neutral:12 negative:3",
+      "topics": [
+        "Congressional Endorsements in Florida",
+        "Border Security and Migrant Crime",
+        "Federal Court Rulings on Migrant Protections"
+      ],
+      "postsCount": 23,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:03:53.726Z"
+    },
+    {
+      "date": "2026-02-11",
+      "counts": {
+        "positive": 5,
+        "neutral": 31,
+        "negative": 5
+      },
+      "summary": "positive:5 neutral:31 negative:5",
+      "topics": [
+        "Oklahoma Governor Election Controversy",
+        "Trade Tariffs and Economic Security",
+        "Middle East Peace Negotiations"
+      ],
+      "postsCount": 41,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:04:38.706Z"
+    },
+    {
+      "date": "2026-02-12",
+      "counts": {
+        "positive": 9,
+        "neutral": 6,
+        "negative": 1
+      },
+      "summary": "positive:9 neutral:6 negative:1",
+      "topics": [
+        "Manufacturing and Economic Recovery",
+        "U.S.-Venezuela Relations and Oil",
+        "Judicial Nominations and Legal Integrity"
+      ],
+      "postsCount": 16,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:05:00.212Z"
+    },
+    {
+      "date": "2026-02-13",
+      "counts": {
+        "positive": 2,
+        "neutral": 3,
+        "negative": 4
+      },
+      "summary": "positive:2 neutral:3 negative:4",
+      "topics": [
+        "Election Security in Arizona",
+        "Voter ID and Election Integrity",
+        "Crime and Public Safety in North Carolina"
+      ],
+      "postsCount": 9,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:05:14.096Z"
+    },
+    {
+      "date": "2026-02-14",
+      "counts": {
+        "positive": 0,
+        "neutral": 1,
+        "negative": 0
+      },
+      "summary": "positive:0 neutral:1 negative:0",
+      "topics": [],
+      "postsCount": 1,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:05:20.231Z"
+    },
+    {
+      "date": "2026-02-15",
+      "counts": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "positive:1 neutral:0 negative:0",
+      "topics": [
+        "Board of Peace Formation",
+        "Gaza Humanitarian Aid Efforts",
+        "International Peace Initiatives"
+      ],
+      "postsCount": 1,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:05:24.143Z"
+    },
+    {
+      "date": "2026-02-16",
+      "counts": {
+        "positive": 2,
+        "neutral": 0,
+        "negative": 4
+      },
+      "summary": "positive:2 neutral:0 negative:4",
+      "topics": [
+        "Ecological Disaster in Potomac River",
+        "Voter ID and Election Integrity",
+        "Infrastructure Project Concerns"
+      ],
+      "postsCount": 6,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:05:36.924Z"
+    },
+    {
+      "date": "2026-02-17",
+      "counts": {
+        "positive": 50,
+        "neutral": 19,
+        "negative": 1
+      },
+      "summary": "positive:50 neutral:19 negative:1",
+      "topics": [
+        "Trade Deal with Japan",
+        "Endorsements for Congressional Candidates",
+        "Environmental Concerns in Potomac River"
+      ],
+      "postsCount": 70,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:06:57.009Z"
+    },
+    {
+      "date": "2026-02-18",
+      "counts": {
+        "positive": 2,
+        "neutral": 16,
+        "negative": 2
+      },
+      "summary": "positive:2 neutral:16 negative:2",
+      "topics": [
+        "White House Ballroom Announcement",
+        "Diego Garcia Lease Concerns",
+        "Election Integrity and Control Issues"
+      ],
+      "postsCount": 20,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:07:14.988Z"
+    },
+    {
+      "date": "2026-02-19",
+      "counts": {
+        "positive": 8,
+        "neutral": 2,
+        "negative": 0
+      },
+      "summary": "positive:8 neutral:2 negative:0",
+      "topics": [
+        "Tariffs and Economic Impact",
+        "Voter ID and Election Integrity",
+        "Judicial Nominations and Legal Integrity"
+      ],
+      "postsCount": 10,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:07:27.586Z"
+    },
+    {
+      "date": "2026-02-20",
+      "counts": {
+        "positive": 4,
+        "neutral": 8,
+        "negative": 2
+      },
+      "summary": "positive:4 neutral:8 negative:2",
+      "topics": [
+        "Global Tariff Announcement",
+        "Economic Recovery Efforts",
+        "Environmental Pollution Concerns"
+      ],
+      "postsCount": 14,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:07:46.048Z"
+    },
+    {
+      "date": "2026-02-21",
+      "counts": {
+        "positive": 7,
+        "neutral": 10,
+        "negative": 5
+      },
+      "summary": "positive:7 neutral:10 negative:5",
+      "topics": [
+        "Tariffs and Economic Policy",
+        "Endorsements for Political Candidates",
+        "Environmental Concerns in Utah"
+      ],
+      "postsCount": 22,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:08:14.037Z"
+    },
+    {
+      "date": "2026-02-22",
+      "counts": {
+        "positive": 5,
+        "neutral": 0,
+        "negative": 1
+      },
+      "summary": "positive:5 neutral:0 negative:1",
+      "topics": [
+        "Olympic Gold Medal Achievements",
+        "Illinois Library Funding Controversy",
+        "Healthcare Initiatives in Greenland"
+      ],
+      "postsCount": 6,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:08:25.291Z"
+    },
+    {
+      "date": "2026-02-23",
+      "counts": {
+        "positive": 4,
+        "neutral": 16,
+        "negative": 4
+      },
+      "summary": "positive:4 neutral:16 negative:4",
+      "topics": [
+        "Environmental Concerns in Utah",
+        "Iran Military Strategy Discussion",
+        "SNAP-EBT Fraud in Massachusetts"
+      ],
+      "postsCount": 24,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:08:52.587Z"
+    },
+    {
+      "date": "2026-02-24",
+      "counts": {
+        "positive": 2,
+        "neutral": 5,
+        "negative": 1
+      },
+      "summary": "positive:2 neutral:5 negative:1",
+      "topics": [
+        "Democrat Shutdown Impact",
+        "Gavin Newsom Presidential Race Dropout",
+        "Save America Act Support"
+      ],
+      "postsCount": 8,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:09:00.948Z"
+    },
+    {
+      "date": "2026-02-25",
+      "counts": {
+        "positive": 6,
+        "neutral": 0,
+        "negative": 1
+      },
+      "summary": "positive:6 neutral:0 negative:1",
+      "topics": [
+        "Indiana State Senate Endorsements",
+        "Criticism of Ilhan Omar and Rashida Tlaib",
+        "FIFA Leadership Praise"
+      ],
+      "postsCount": 7,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:09:11.264Z"
+    },
+    {
+      "date": "2026-02-26",
+      "counts": {
+        "positive": 1,
+        "neutral": 3,
+        "negative": 2
+      },
+      "summary": "positive:1 neutral:3 negative:2",
+      "topics": [
+        "White House Ballroom Construction",
+        "Midterm Election Battle Lines",
+        "Criticism of Democrats"
+      ],
+      "postsCount": 6,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:09:19.814Z"
+    },
+    {
+      "date": "2026-02-27",
+      "counts": {
+        "positive": 41,
+        "neutral": 30,
+        "negative": 6
+      },
+      "summary": "positive:41 neutral:30 negative:6",
+      "topics": [
+        "Supreme Court Tariff Decision",
+        "Military Technology Controversy",
+        "Texas Congressional Endorsements"
+      ],
+      "postsCount": 77,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:10:30.040Z"
+    },
+    {
+      "date": "2026-02-28",
+      "counts": {
+        "positive": 4,
+        "neutral": 7,
+        "negative": 2
+      },
+      "summary": "positive:4 neutral:7 negative:2",
+      "topics": [
+        "Iranian Leadership Change",
+        "Minnesota Autism Payments Investigation",
+        "Texas Political Endorsements"
+      ],
+      "postsCount": 13,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:10:43.735Z"
+    }
+  ],
+  "generatedAt": "2026-04-13T08:10:43.735Z"
+}

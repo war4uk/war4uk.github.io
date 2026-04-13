@@ -1,0 +1,515 @@
+{
+  "month": "2026-03",
+  "days": [
+    {
+      "date": "2026-03-01",
+      "counts": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 3
+      },
+      "summary": "positive:10 neutral:20 negative:3",
+      "topics": [
+        "Trump's Leadership and Legacy",
+        "Iran Military Actions",
+        "Immigration and Crime Issues"
+      ],
+      "postsCount": 33,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:11:20.517Z"
+    },
+    {
+      "date": "2026-03-02",
+      "counts": {
+        "positive": 3,
+        "neutral": 13,
+        "negative": 2
+      },
+      "summary": "positive:3 neutral:13 negative:2",
+      "topics": [
+        "Melania Trump at UN Security Council",
+        "Trump's Iran Strike Support",
+        "Healthcare Affordability Initiatives"
+      ],
+      "postsCount": 18,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:11:37.514Z"
+    },
+    {
+      "date": "2026-03-03",
+      "counts": {
+        "positive": 7,
+        "neutral": 12,
+        "negative": 7
+      },
+      "summary": "positive:7 neutral:12 negative:7",
+      "topics": [
+        "Operation Epic Fury Updates",
+        "Military Readiness and Arms Supply",
+        "Election Integrity and Voter ID"
+      ],
+      "postsCount": 26,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:12:00.348Z"
+    },
+    {
+      "date": "2026-03-04",
+      "counts": {
+        "positive": 6,
+        "neutral": 50,
+        "negative": 0
+      },
+      "summary": "positive:6 neutral:50 negative:0",
+      "topics": [
+        "Trump Kennedy Center Restoration",
+        "Texas Senate Race Endorsement",
+        "Venezuela Oil Relations"
+      ],
+      "postsCount": 56,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:12:50.808Z"
+    },
+    {
+      "date": "2026-03-05",
+      "counts": {
+        "positive": 16,
+        "neutral": 9,
+        "negative": 3
+      },
+      "summary": "positive:16 neutral:9 negative:3",
+      "topics": [
+        "Save America Act Initiatives",
+        "Border Security and Migrant Crime",
+        "Trump Administration Actions and Endorsements"
+      ],
+      "postsCount": 28,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:13:17.513Z"
+    },
+    {
+      "date": "2026-03-06",
+      "counts": {
+        "positive": 13,
+        "neutral": 6,
+        "negative": 10
+      },
+      "summary": "positive:13 neutral:6 negative:10",
+      "topics": [
+        "Defense Manufacturing Expansion",
+        "Immigration and Crime Issues",
+        "Iran Relations and Policy"
+      ],
+      "postsCount": 29,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:13:43.756Z"
+    },
+    {
+      "date": "2026-03-07",
+      "counts": {
+        "positive": 2,
+        "neutral": 13,
+        "negative": 3
+      },
+      "summary": "positive:2 neutral:13 negative:3",
+      "topics": [
+        "Iran Military Actions",
+        "Middle East Relations",
+        "Save America Act Focus"
+      ],
+      "postsCount": 18,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:13:58.606Z"
+    },
+    {
+      "date": "2026-03-08",
+      "counts": {
+        "positive": 2,
+        "neutral": 1,
+        "negative": 1
+      },
+      "summary": "positive:2 neutral:1 negative:1",
+      "topics": [
+        "Iran Nuclear Threat and Oil Prices",
+        "Save America Act Advocacy",
+        "Voter ID and Election Integrity"
+      ],
+      "postsCount": 4,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:14:06.016Z"
+    },
+    {
+      "date": "2026-03-09",
+      "counts": {
+        "positive": 4,
+        "neutral": 8,
+        "negative": 2
+      },
+      "summary": "positive:4 neutral:8 negative:2",
+      "topics": [
+        "Save America Act Initiatives",
+        "Iran National Women's Soccer Team Asylum",
+        "Election Records Seizure in Arizona"
+      ],
+      "postsCount": 14,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:14:22.625Z"
+    },
+    {
+      "date": "2026-03-10",
+      "counts": {
+        "positive": 5,
+        "neutral": 2,
+        "negative": 3
+      },
+      "summary": "positive:5 neutral:2 negative:3",
+      "topics": [
+        "Crime and Public Safety in Memphis",
+        "Energy Dominance and New Oil Refinery",
+        "Iran Military Threat and Response"
+      ],
+      "postsCount": 10,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:14:33.359Z"
+    },
+    {
+      "date": "2026-03-11",
+      "counts": {
+        "positive": 7,
+        "neutral": 15,
+        "negative": 6
+      },
+      "summary": "positive:7 neutral:15 negative:6",
+      "topics": [
+        "Gavin Newsom Presidential Nomination Critique",
+        "Endorsements for Congressional Candidates",
+        "Election Integrity and Voter ID"
+      ],
+      "postsCount": 28,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:15:07.246Z"
+    },
+    {
+      "date": "2026-03-12",
+      "counts": {
+        "positive": 1,
+        "neutral": 2,
+        "negative": 2
+      },
+      "summary": "positive:1 neutral:2 negative:2",
+      "topics": [
+        "FIFA World Cup Hosting",
+        "Federal Reserve Interest Rates",
+        "Iran Nuclear Threat and Soccer Team"
+      ],
+      "postsCount": 5,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:15:15.006Z"
+    },
+    {
+      "date": "2026-03-13",
+      "counts": {
+        "positive": 9,
+        "neutral": 8,
+        "negative": 1
+      },
+      "summary": "positive:9 neutral:8 negative:1",
+      "topics": [
+        "Iran Military Actions",
+        "Endorsements for Political Candidates",
+        "Trump Kennedy Center Developments"
+      ],
+      "postsCount": 18,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:15:35.095Z"
+    },
+    {
+      "date": "2026-03-14",
+      "counts": {
+        "positive": 16,
+        "neutral": 7,
+        "negative": 2
+      },
+      "summary": "positive:16 neutral:7 negative:2",
+      "topics": [
+        "Iran Military Actions",
+        "Trump Endorsements and Support",
+        "Women's History Month Recognition"
+      ],
+      "postsCount": 25,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:16:08.574Z"
+    },
+    {
+      "date": "2026-03-16",
+      "counts": {
+        "positive": 7,
+        "neutral": 6,
+        "negative": 2
+      },
+      "summary": "positive:7 neutral:6 negative:2",
+      "topics": [
+        "Trump at College Football Championship",
+        "Jack Smith J6 Probe Developments",
+        "Support for Susie Wiles"
+      ],
+      "postsCount": 15,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:16:30.164Z"
+    },
+    {
+      "date": "2026-03-17",
+      "counts": {
+        "positive": 3,
+        "neutral": 2,
+        "negative": 1
+      },
+      "summary": "positive:3 neutral:2 negative:1",
+      "topics": [
+        "NATO and Military Operations",
+        "Save America Act Advocacy",
+        "Venezuela Baseball Success"
+      ],
+      "postsCount": 6,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:16:38.335Z"
+    },
+    {
+      "date": "2026-03-18",
+      "counts": {
+        "positive": 2,
+        "neutral": 14,
+        "negative": 5
+      },
+      "summary": "positive:2 neutral:14 negative:5",
+      "topics": [
+        "Tina Peters Case and Political Corruption",
+        "Iran Military Threat and U.S. Allies",
+        "Trump's Energy Policy and Statehood"
+      ],
+      "postsCount": 21,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:16:54.777Z"
+    },
+    {
+      "date": "2026-03-19",
+      "counts": {
+        "positive": 7,
+        "neutral": 4,
+        "negative": 8
+      },
+      "summary": "positive:7 neutral:4 negative:8",
+      "topics": [
+        "Trump's Influence on Manufacturing",
+        "Iran Military Threat and Response",
+        "Save America Act Advocacy"
+      ],
+      "postsCount": 19,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:17:14.525Z"
+    },
+    {
+      "date": "2026-03-20",
+      "counts": {
+        "positive": 3,
+        "neutral": 2,
+        "negative": 2
+      },
+      "summary": "positive:3 neutral:2 negative:2",
+      "topics": [
+        "Tina Peters Incarceration Controversy",
+        "Military Strategy Against Iran",
+        "Support for Congressional Candidates"
+      ],
+      "postsCount": 7,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:17:24.495Z"
+    },
+    {
+      "date": "2026-03-21",
+      "counts": {
+        "positive": 1,
+        "neutral": 2,
+        "negative": 6
+      },
+      "summary": "positive:1 neutral:2 negative:6",
+      "topics": [
+        "Iran Military Threat and Response",
+        "Border Security and Deportation Efforts",
+        "Support for Congressional Candidates"
+      ],
+      "postsCount": 9,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:17:36.479Z"
+    },
+    {
+      "date": "2026-03-22",
+      "counts": {
+        "positive": 3,
+        "neutral": 8,
+        "negative": 6
+      },
+      "summary": "positive:3 neutral:8 negative:6",
+      "topics": [
+        "Border Security and ICE Operations",
+        "Democrat Candidate Criticism",
+        "Election Integrity and Fraud Claims"
+      ],
+      "postsCount": 17,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:17:55.647Z"
+    },
+    {
+      "date": "2026-03-23",
+      "counts": {
+        "positive": 6,
+        "neutral": 11,
+        "negative": 6
+      },
+      "summary": "positive:6 neutral:11 negative:6",
+      "topics": [
+        "Florida State House Election Endorsement",
+        "Border Security and Immigration Policies",
+        "Iran-U.S. Relations and Military Strategy"
+      ],
+      "postsCount": 23,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:18:20.549Z"
+    },
+    {
+      "date": "2026-03-24",
+      "counts": {
+        "positive": 19,
+        "neutral": 3,
+        "negative": 1
+      },
+      "summary": "positive:19 neutral:3 negative:1",
+      "topics": [
+        "Endorsements for Indiana Senate Candidates",
+        "Support for Viktor Orbán",
+        "Border Security and Immigration Policies"
+      ],
+      "postsCount": 23,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:18:44.367Z"
+    },
+    {
+      "date": "2026-03-25",
+      "counts": {
+        "positive": 7,
+        "neutral": 3,
+        "negative": 6
+      },
+      "summary": "positive:7 neutral:3 negative:6",
+      "topics": [
+        "China-U.S. Relations and Diplomacy",
+        "FISA Reauthorization and Intelligence",
+        "Immigration and ICE Operations"
+      ],
+      "postsCount": 16,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:19:05.235Z"
+    },
+    {
+      "date": "2026-03-26",
+      "counts": {
+        "positive": 3,
+        "neutral": 6,
+        "negative": 9
+      },
+      "summary": "positive:3 neutral:6 negative:9",
+      "topics": [
+        "Border Security and Immigration Policies",
+        "Iran Military Strategy Discussion",
+        "Filibuster Termination Advocacy"
+      ],
+      "postsCount": 18,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:19:31.432Z"
+    },
+    {
+      "date": "2026-03-27",
+      "counts": {
+        "positive": 3,
+        "neutral": 0,
+        "negative": 2
+      },
+      "summary": "positive:3 neutral:0 negative:2",
+      "topics": [
+        "Letitia James Criminal Prosecution",
+        "Ukraine Government Messages Interception",
+        "Trump's Economic Speech and Military Operations"
+      ],
+      "postsCount": 5,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:19:38.112Z"
+    },
+    {
+      "date": "2026-03-28",
+      "counts": {
+        "positive": 2,
+        "neutral": 1,
+        "negative": 2
+      },
+      "summary": "positive:2 neutral:1 negative:2",
+      "topics": [
+        "TrumpRX Growth and MAHA Doubters",
+        "Letitia James Criminal Prosecution",
+        "Iran Military Strategy Discussion"
+      ],
+      "postsCount": 5,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:19:46.306Z"
+    },
+    {
+      "date": "2026-03-29",
+      "counts": {
+        "positive": 1,
+        "neutral": 10,
+        "negative": 1
+      },
+      "summary": "positive:1 neutral:10 negative:1",
+      "topics": [
+        "Healthcare Reform Advocacy",
+        "Justice for Sheridan Gorman"
+      ],
+      "postsCount": 12,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:19:59.016Z"
+    },
+    {
+      "date": "2026-03-30",
+      "counts": {
+        "positive": 5,
+        "neutral": 16,
+        "negative": 2
+      },
+      "summary": "positive:5 neutral:16 negative:2",
+      "topics": [
+        "Iran Military Operations",
+        "Letitia James Criminal Referrals",
+        "Political Prisoners in Belarus"
+      ],
+      "postsCount": 23,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:20:21.620Z"
+    },
+    {
+      "date": "2026-03-31",
+      "counts": {
+        "positive": 2,
+        "neutral": 7,
+        "negative": 7
+      },
+      "summary": "positive:2 neutral:7 negative:7",
+      "topics": [
+        "White House Ballroom Controversy",
+        "California Wildfire Insurance Issues",
+        "International Relations and Military Supplies"
+      ],
+      "postsCount": 16,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T08:20:39.448Z"
+    }
+  ],
+  "generatedAt": "2026-04-13T08:20:39.448Z"
+}

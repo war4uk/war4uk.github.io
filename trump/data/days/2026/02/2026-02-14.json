@@ -1,0 +1,39 @@
+{
+  "date": "2026-02-14",
+  "counts": {
+    "positive": 0,
+    "neutral": 1,
+    "negative": 0
+  },
+  "summary": "positive:0 neutral:1 negative:0",
+  "generatedAt": "2026-04-13T08:05:20.231Z",
+  "topics": [],
+  "posts": [
+    {
+      "id": "https://www.trumpstruth.org/statuses/36707",
+      "publishedAt": "2026-02-14T15:05:21.000Z",
+      "title": "[No Title] - Post from February 14, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/36707",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from February 14, 2026",
+        "link": "https://www.trumpstruth.org/statuses/36707",
+        "pubDate": "Sat, 14 Feb 2026 15:05:21 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/36707",
+        "isoDate": "2026-02-14T15:05:21.000Z"
+      }
+    }
+  ],
+  "sentiments": [
+    {
+      "postId": "https://www.trumpstruth.org/statuses/36707",
+      "label": "neutral",
+      "rationale": "The text contains no content or sentiment, making it neutral.",
+      "analyzedAt": "2026-04-13T08:05:20.230Z"
+    }
+  ]
+}
