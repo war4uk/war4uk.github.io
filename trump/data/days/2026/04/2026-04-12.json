@@ -6,12 +6,8 @@
     "negative": 2
   },
   "summary": "positive:2 neutral:5 negative:2",
-  "generatedAt": "2026-04-13T08:24:11.974Z",
-  "topics": [
-    "UFC Fight Congratulations",
-    "Golf Championship Praise",
-    "Iran Naval Blockade Announcement"
-  ],
+  "generatedAt": "2026-04-13T08:54:35.623Z",
+  "topics": [],
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37716",
@@ -181,55 +177,55 @@
       "postId": "https://www.trumpstruth.org/statuses/37716",
       "label": "neutral",
       "rationale": "The text discusses a naval blockade but does not express a clear positive or negative sentiment.",
-      "analyzedAt": "2026-04-13T08:24:11.970Z"
+      "analyzedAt": "2026-04-13T08:54:35.621Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37717",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:24:11.970Z"
+      "analyzedAt": "2026-04-13T08:54:35.621Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37718",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not provide any sentiment on its own.",
-      "analyzedAt": "2026-04-13T08:24:11.970Z"
+      "rationale": "The text is a retweet reference and does not provide any sentiment on its own.",
+      "analyzedAt": "2026-04-13T08:54:35.621Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37719",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:24:11.970Z"
+      "analyzedAt": "2026-04-13T08:54:35.621Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37721",
       "label": "negative",
-      "rationale": "Similar to the previous entry, this text discusses military action and threats against Iran, indicating a negative sentiment towards the situation.",
-      "analyzedAt": "2026-04-13T08:24:11.970Z"
+      "rationale": "Similar to the previous entry, this text discusses military threats and a blockade against Iran, conveying a negative and aggressive sentiment.",
+      "analyzedAt": "2026-04-13T08:54:35.621Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37723",
       "label": "negative",
-      "rationale": "The text discusses military action and threats against Iran, expressing a confrontational and aggressive stance.",
-      "analyzedAt": "2026-04-13T08:24:11.970Z"
+      "rationale": "The text discusses military action and threats against Iran, expressing a hostile sentiment and framing the situation as extortion.",
+      "analyzedAt": "2026-04-13T08:54:35.621Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37724",
       "label": "neutral",
-      "rationale": "The text is a question about Bruce Springsteen and does not convey a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:24:11.970Z"
+      "rationale": "The text is a question about Bruce Springsteen and does not express a clear sentiment.",
+      "analyzedAt": "2026-04-13T08:54:35.621Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37725",
       "label": "positive",
-      "rationale": "The text expresses congratulations and positive sentiments towards Paulo Costa's performance in the UFC, indicating a belief in his future success.",
-      "analyzedAt": "2026-04-13T08:24:11.970Z"
+      "rationale": "The text expresses congratulations and positive sentiments towards Paulo Costa's performance, indicating a belief in his future success.",
+      "analyzedAt": "2026-04-13T08:54:35.621Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37726",
       "label": "positive",
-      "rationale": "The text conveys congratulations to Rory McIlroy and praises his performance, highlighting his growing status as a legend in golf.",
-      "analyzedAt": "2026-04-13T08:24:11.970Z"
+      "rationale": "The text conveys congratulations and admiration for Rory McIlroy's performance, highlighting his legendary status and the quality of professional golfers.",
+      "analyzedAt": "2026-04-13T08:54:35.621Z"
     }
   ]
 }
