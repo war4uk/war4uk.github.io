@@ -1,0 +1,32 @@
+{
+  "month": "2025-10",
+  "days": [
+    {
+      "date": "2025-10-11",
+      "counts": {
+        "positive": 1,
+        "neutral": 3,
+        "negative": 1
+      },
+      "summary": "",
+      "topics": [],
+      "postsCount": 5,
+      "hasDetail": true,
+      "generatedAt": "2025-10-12T00:00:00Z"
+    },
+    {
+      "date": "2025-10-12",
+      "counts": {
+        "positive": 2,
+        "neutral": 0,
+        "negative": 2
+      },
+      "summary": "positive:2 neutral:0 negative:2",
+      "topics": [],
+      "postsCount": 4,
+      "hasDetail": true,
+      "generatedAt": "2026-04-13T06:56:11.943Z"
+    }
+  ],
+  "generatedAt": "2026-04-13T06:56:11.943Z"
+}

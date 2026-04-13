@@ -1,0 +1,258 @@
+{
+  "month": "2026-01",
+  "days": [
+    {
+      "date": "2026-01-01",
+      "counts": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "positive:1 neutral:0 negative:0",
+      "topics": [
+        "Lawfare book promotion"
+      ],
+      "postsCount": 1,
+      "hasDetail": true,
+      "generatedAt": "2026-01-07T10:17:51.419Z"
+    },
+    {
+      "date": "2026-01-02",
+      "counts": {
+        "positive": 5,
+        "neutral": 2,
+        "negative": 2
+      },
+      "summary": "positive:5 neutral:2 negative:2",
+      "topics": [
+        "Border security praise and tariffs defense",
+        "Health exam bragging"
+      ],
+      "postsCount": 9,
+      "hasDetail": true,
+      "generatedAt": "2026-01-07T10:17:53.414Z"
+    },
+    {
+      "date": "2026-01-03",
+      "counts": {
+        "positive": 3,
+        "neutral": 21,
+        "negative": 0
+      },
+      "summary": "positive:3 neutral:21 negative:0",
+      "topics": [
+        "Venezuela strike and Maduro capture",
+        "Naval transfer updates"
+      ],
+      "postsCount": 24,
+      "hasDetail": true,
+      "generatedAt": "2026-01-07T10:17:55.398Z"
+    },
+    {
+      "date": "2026-01-04",
+      "counts": {
+        "positive": 0,
+        "neutral": 1,
+        "negative": 0
+      },
+      "summary": "positive:0 neutral:1 negative:0",
+      "topics": [],
+      "postsCount": 1,
+      "hasDetail": true,
+      "generatedAt": "2026-01-18T12:20:16.688Z"
+    },
+    {
+      "date": "2026-01-05",
+      "counts": {
+        "positive": 2,
+        "neutral": 19,
+        "negative": 4
+      },
+      "summary": "positive:2 neutral:19 negative:4",
+      "topics": [
+        "Sparse updates and reposts"
+      ],
+      "postsCount": 25,
+      "hasDetail": true,
+      "generatedAt": "2026-01-18T12:20:17.165Z"
+    },
+    {
+      "date": "2026-01-06",
+      "counts": {
+        "positive": 10,
+        "neutral": 3,
+        "negative": 1
+      },
+      "summary": "positive:10 neutral:3 negative:1",
+      "topics": [
+        "Market highs credited to tariffs",
+        "California corruption accusations",
+        "Kennedy Center and GOP remarks"
+      ],
+      "postsCount": 14,
+      "hasDetail": true,
+      "generatedAt": "2026-01-18T12:20:17.639Z"
+    },
+    {
+      "date": "2026-01-07",
+      "counts": {
+        "positive": 6,
+        "neutral": 0,
+        "negative": 3
+      },
+      "summary": "positive:6 neutral:0 negative:3",
+      "topics": [
+        "NATO spending credit and military strength",
+        "Housing affordability and investor ban",
+        "Sports coaching endorsement and memorial"
+      ],
+      "postsCount": 9,
+      "hasDetail": true,
+      "generatedAt": "2026-01-18T12:20:18.101Z"
+    },
+    {
+      "date": "2026-01-08",
+      "counts": {
+        "positive": 3,
+        "neutral": 2,
+        "negative": 2
+      },
+      "summary": "positive:3 neutral:2 negative:2",
+      "topics": [],
+      "postsCount": 7,
+      "hasDetail": true,
+      "generatedAt": "2026-01-18T12:20:18.539Z"
+    },
+    {
+      "date": "2026-01-09",
+      "counts": {
+        "positive": 6,
+        "neutral": 6,
+        "negative": 1
+      },
+      "summary": "positive:6 neutral:6 negative:1",
+      "topics": [],
+      "postsCount": 13,
+      "hasDetail": true,
+      "generatedAt": "2026-01-18T12:20:18.993Z"
+    },
+    {
+      "date": "2026-01-10",
+      "counts": {
+        "positive": 12,
+        "neutral": 8,
+        "negative": 2
+      },
+      "summary": "positive:12 neutral:8 negative:2",
+      "topics": [],
+      "postsCount": 22,
+      "hasDetail": true,
+      "generatedAt": "2026-01-18T12:20:19.438Z"
+    },
+    {
+      "date": "2026-01-11",
+      "counts": {
+        "positive": 2,
+        "neutral": 4,
+        "negative": 2
+      },
+      "summary": "positive:2 neutral:4 negative:2",
+      "topics": [],
+      "postsCount": 8,
+      "hasDetail": true,
+      "generatedAt": "2026-01-18T12:20:19.895Z"
+    },
+    {
+      "date": "2026-01-12",
+      "counts": {
+        "positive": 3,
+        "neutral": 2,
+        "negative": 5
+      },
+      "summary": "positive:3 neutral:2 negative:5",
+      "topics": [],
+      "postsCount": 10,
+      "hasDetail": true,
+      "generatedAt": "2026-01-18T12:20:20.351Z"
+    },
+    {
+      "date": "2026-01-13",
+      "counts": {
+        "positive": 5,
+        "neutral": 1,
+        "negative": 4
+      },
+      "summary": "positive:5 neutral:1 negative:4",
+      "topics": [],
+      "postsCount": 10,
+      "hasDetail": true,
+      "generatedAt": "2026-01-18T12:20:20.876Z"
+    },
+    {
+      "date": "2026-01-14",
+      "counts": {
+        "positive": 3,
+        "neutral": 1,
+        "negative": 5
+      },
+      "summary": "positive:3 neutral:1 negative:5",
+      "topics": [],
+      "postsCount": 9,
+      "hasDetail": true,
+      "generatedAt": "2026-01-18T12:20:21.329Z"
+    },
+    {
+      "date": "2026-01-15",
+      "counts": {
+        "positive": 4,
+        "neutral": 1,
+        "negative": 3
+      },
+      "summary": "positive:4 neutral:1 negative:3",
+      "topics": [],
+      "postsCount": 8,
+      "hasDetail": true,
+      "generatedAt": "2026-01-18T12:20:21.779Z"
+    },
+    {
+      "date": "2026-01-16",
+      "counts": {
+        "positive": 4,
+        "neutral": 1,
+        "negative": 1
+      },
+      "summary": "positive:4 neutral:1 negative:1",
+      "topics": [],
+      "postsCount": 6,
+      "hasDetail": true,
+      "generatedAt": "2026-01-18T12:20:22.221Z"
+    },
+    {
+      "date": "2026-01-17",
+      "counts": {
+        "positive": 1,
+        "neutral": 1,
+        "negative": 4
+      },
+      "summary": "positive:1 neutral:1 negative:4",
+      "topics": [],
+      "postsCount": 6,
+      "hasDetail": true,
+      "generatedAt": "2026-01-18T12:20:22.671Z"
+    },
+    {
+      "date": "2026-01-18",
+      "counts": {
+        "positive": 6,
+        "neutral": 0,
+        "negative": 3
+      },
+      "summary": "positive:6 neutral:0 negative:3",
+      "topics": [],
+      "postsCount": 9,
+      "hasDetail": true,
+      "generatedAt": "2026-01-18T12:20:26.156Z"
+    }
+  ],
+  "generatedAt": "2026-01-18T12:20:26.156Z"
+}
