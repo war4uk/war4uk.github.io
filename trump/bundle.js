@@ -666,6 +666,7 @@ function snippetFromPost(post) {
   const at = slice.lastIndexOf(" ");
   return `${(at > 80 ? slice.slice(0, at) : slice).trim()}\u2026`;
 }
+var UNTITLED_POST_LABEL = "Untitled post";
 function listDayPosts(posts, sentiments = []) {
   const byId = /* @__PURE__ */ new Map();
   for (const s of sentiments) {
@@ -676,8 +677,9 @@ function listDayPosts(posts, sentiments = []) {
   }
   const out = [];
   for (const post of dedupePosts(posts)) {
-    const title = cleanTitle(post.title || post.raw?.title || "") || snippetFromPost(post);
-    if (!title) continue;
+    const cleaned = cleanTitle(post.title || post.raw?.title || "");
+    const snippet = snippetFromPost(post);
+    const title = cleaned || snippet || UNTITLED_POST_LABEL;
     const id = String(post.id || post.url || postDedupeKey(post));
     const url = String(post.url || post.raw?.link || post.id || "");
     const key = postDedupeKey(post);
@@ -686,7 +688,7 @@ function listDayPosts(posts, sentiments = []) {
       id,
       url,
       title,
-      snippet: snippetFromPost(post) || title,
+      snippet: snippet && snippet !== title ? snippet : "",
       publishedAt: post.publishedAt,
       ...sentiment ? { sentiment } : {}
     });
@@ -803,9 +805,10 @@ function renderDayDetail(runtime, summary) {
   const secondaryRows = board.secondary.length ? board.secondary.map((s) => `<li><div><span class="hl-label">Topic</span> <span class="day-story-topic">${escapeHtml(s.topic)}</span></div><div><span class="hl-label">Name</span> <span class="day-story-name">${escapeHtml(s.name || "\u2014")}</span></div></li>`).join("") : '<li class="day-empty">No additional stories</li>';
   const postRows = board.posts.length ? board.posts.map((p) => {
     const label = escapeHtml(p.title);
+    const snippet = p.snippet && p.snippet !== p.title ? `<span class="day-post-snippet">${escapeHtml(p.snippet)}</span>` : "";
     const meta = [formatPostTime(p.publishedAt), p.sentiment].filter(Boolean).join(" \xB7 ");
     const href = p.url ? ` href="${escapeHtml(p.url)}" target="_blank" rel="noopener noreferrer"` : "";
-    return `<li class="day-post"><a class="day-post-link"${href}><span class="day-post-title">${label}</span><span class="day-post-snippet">${escapeHtml(p.snippet)}</span><span class="day-post-meta">${escapeHtml(meta)}</span></a></li>`;
+    return `<li class="day-post"><a class="day-post-link"${href}><span class="day-post-title">${label}</span>${snippet}<span class="day-post-meta">${escapeHtml(meta)}</span></a></li>`;
   }).join("") : '<li class="day-empty">No posts for this day</li>';
   title.textContent = summary.date;
   body.innerHTML = `
