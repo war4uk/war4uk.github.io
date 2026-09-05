@@ -1864,7 +1864,20 @@
       "analyzedAt": "2026-04-13T08:09:47.308Z"
     }
   ],
-  "trendingTopic": "Congressman Pete Sessions is a Tremendous Champion for Texas’ 17th Congressional District!",
-  "trendingName": "Pete Sessions",
-  "selfPraiseCount": 2
+  "trendingTopic": "It is my Great Honor to endorse",
+  "selfPraiseCount": 2,
+  "secondaryHighlights": [
+    {
+      "topic": "Congressman Pete Sessions is a Tremendous Champion for Texas’ 17th Congressional District!",
+      "name": "Pete Sessions"
+    },
+    {
+      "topic": "I am proud to once again endorse Texas Lieutenant Governor, Dan Patrick, for Re-Election",
+      "name": "Dan Patrick"
+    },
+    {
+      "topic": "Congressman Michael Cloud is a Tremendous Advocate for the Great People of Texas’ 27th Congressional District!",
+      "name": "Michael Cloud"
+    }
+  ]
 }

@@ -1120,7 +1120,20 @@
       "analyzedAt": "2026-09-05T07:49:06.441Z"
     }
   ],
-  "trendingTopic": "Senator Dan Sullivan is doing a fantastic job representing the Great State of Alaska!",
-  "trendingName": "Dan Sullivan",
-  "selfPraiseCount": 8
+  "trendingTopic": "Save America Act",
+  "selfPraiseCount": 8,
+  "secondaryHighlights": [
+    {
+      "topic": "Senator Dan Sullivan is doing a fantastic job representing the Great State of Alaska!",
+      "name": "Dan Sullivan"
+    },
+    {
+      "topic": "State Representative Bill Conerly is an America First Patriot doing a fantastic job representing Florida’s 72nd State House District!",
+      "name": "Bill Conerly"
+    },
+    {
+      "topic": "State Representative Jon Albert is doing a tremendous job representing the wonderful people of Florida’s 48th State House District!",
+      "name": "Jon Albert"
+    }
+  ]
 }

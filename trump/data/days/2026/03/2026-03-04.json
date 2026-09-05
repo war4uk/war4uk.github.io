@@ -1360,7 +1360,19 @@
       "analyzedAt": "2026-04-13T08:12:50.804Z"
     }
   ],
-  "trendingTopic": "House Oversight Committee concludes Tim Walz' administration knew of fraud, failed to act",
-  "trendingName": "Tim Walz",
-  "selfPraiseCount": 0
+  "trendingTopic": "Bill Pulte Highlights How Falling Mortgage Rates Are Restoring Buyer Confidence",
+  "trendingName": "Bill Pulte",
+  "selfPraiseCount": 0,
+  "secondaryHighlights": [
+    {
+      "topic": "House Oversight Committee concludes Tim Walz' administration knew of fraud, failed to act",
+      "name": "Tim Walz"
+    },
+    {
+      "topic": "Trump will attend White House Correspondents’ Dinner in stunning twist"
+    },
+    {
+      "topic": "Trump Honored on Behalf of Coal Miners as ‘Undisputed Champion of Beautiful, Clean Coal’"
+    }
+  ]
 }

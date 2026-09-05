@@ -519,6 +519,20 @@
       "analyzedAt": "2026-09-05T07:47:28.624Z"
     }
   ],
-  "trendingTopic": "This is big news!",
-  "selfPraiseCount": 4
+  "trendingTopic": "It is my Great Honor to endorse",
+  "selfPraiseCount": 4,
+  "trendingName": "Michael Alfonso",
+  "secondaryHighlights": [
+    {
+      "topic": "Congressman Pete Stauber is doing a fantastic job representing the wonderful people of Minnesota’s 8th Congressional District!",
+      "name": "Pete Stauber"
+    },
+    {
+      "topic": "Congressman Tom Emmer is an America First Patriot who is a fantastic Champion for Minnesota’s 6th Congressional District!",
+      "name": "Tom Emmer"
+    },
+    {
+      "topic": "Congressman Bryan Steil is a Tremendous Advocate for the Wonderful People of Wisconsin’s 1st Congressional District!"
+    }
+  ]
 }

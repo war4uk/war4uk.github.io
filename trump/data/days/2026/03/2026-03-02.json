@@ -450,5 +450,17 @@
   ],
   "trendingTopic": "Everybody watch Sean Hannity tonight at 9 P.M. Bibi Netanyahu will be interviewed!",
   "trendingName": "Sean Hannity",
-  "selfPraiseCount": 1
+  "selfPraiseCount": 1,
+  "secondaryHighlights": [
+    {
+      "topic": "Melania Trump to take the gavel at UN Security Council in historic first",
+      "name": "Melania Trump"
+    },
+    {
+      "topic": "EDITORIAL: TrumpRx is a massive win for affordability"
+    },
+    {
+      "topic": "‘These people are crazy’ is the campaign Democrats should fear"
+    }
+  ]
 }

@@ -688,7 +688,20 @@
       "analyzedAt": "2026-04-13T08:13:17.509Z"
     }
   ],
-  "trendingTopic": "Steve Daines, of Montana, is one of our truly Great United States Senators",
-  "trendingName": "Steve Daines",
-  "selfPraiseCount": 1
+  "trendingTopic": "THE SAVE AMERICA ACT!1",
+  "selfPraiseCount": 1,
+  "secondaryHighlights": [
+    {
+      "topic": "Steve Daines, of Montana, is one of our truly Great United States Senators",
+      "name": "Steve Daines"
+    },
+    {
+      "topic": "Melania Trump makes history presiding over UN Security Council",
+      "name": "Melania Trump"
+    },
+    {
+      "topic": "Miranda Devine: Trump debunking Al Gore’s climate fears has made the world a better place",
+      "name": "Miranda Devine"
+    }
+  ]
 }

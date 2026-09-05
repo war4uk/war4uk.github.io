@@ -711,7 +711,18 @@
       "analyzedAt": "2026-09-05T08:47:20.600Z"
     }
   ],
-  "trendingTopic": "Cryin’ Chuck Schumer should resign over this",
-  "trendingName": "Chuck Schumer",
-  "selfPraiseCount": 0
+  "trendingTopic": "This is the Reflecting Pool at The Lincoln Memorial",
+  "selfPraiseCount": 0,
+  "secondaryHighlights": [
+    {
+      "topic": "The first time Lafayette Park Fountains, opposite the White House, have worked in decades"
+    },
+    {
+      "topic": "Cryin’ Chuck Schumer should resign over this",
+      "name": "Chuck Schumer"
+    },
+    {
+      "topic": "Trump admin live updates: Prez announces Israel-Lebanon cease-fire extended by 3 weeks"
+    }
+  ]
 }

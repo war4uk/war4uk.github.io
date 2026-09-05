@@ -1576,7 +1576,20 @@
       "analyzedAt": "2026-09-05T08:33:15.347Z"
     }
   ],
-  "trendingTopic": "Pete Hegseth’s anti-DEI speech at West Point is a template to save American lives",
-  "trendingName": "Pete Hegseth",
-  "selfPraiseCount": 6
+  "trendingTopic": "It is my Great Honor to endorse",
+  "selfPraiseCount": 6,
+  "secondaryHighlights": [
+    {
+      "topic": "Pete Hegseth’s anti-DEI speech at West Point is a template to save American lives",
+      "name": "Pete Hegseth"
+    },
+    {
+      "topic": "Great job by highly decorated Navy Seal Officer, Mike Sarraille, on Jesse Watters",
+      "name": "Mike Sarraille"
+    },
+    {
+      "topic": "CALIFORNIA: Vote today for Steve Hilton for Governor.",
+      "name": "Steve Hilton"
+    }
+  ]
 }

@@ -450,5 +450,16 @@
   ],
   "trendingTopic": "I had a great meeting with Mr. Nate Morris, of Kentucky, yesterday",
   "selfPraiseCount": 4,
-  "trendingName": "Nate Morris"
+  "trendingName": "Nate Morris",
+  "secondaryHighlights": [
+    {
+      "topic": "Save America Act"
+    },
+    {
+      "topic": "To the incredible Patriots in Indiana’s"
+    },
+    {
+      "topic": "To the amazing Patriots in Indiana’s"
+    }
+  ]
 }

@@ -232,5 +232,16 @@
     }
   ],
   "trendingTopic": "I will be interviewed on 60 Minutes tonight at 7 P.M. EST",
-  "selfPraiseCount": 0
+  "selfPraiseCount": 0,
+  "secondaryHighlights": [
+    {
+      "topic": "Quite an evening in D.C. Secret Service and Law Enforcement did a fantastic job"
+    },
+    {
+      "topic": "Law Enforcement has requested that we leave the premises, consistent with protocol, which we will do, immediately."
+    },
+    {
+      "topic": "liberal polling group"
+    }
+  ]
 }

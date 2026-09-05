@@ -495,7 +495,20 @@
       "analyzedAt": "2026-09-05T08:26:33.478Z"
     }
   ],
-  "trendingTopic": "Congressman Mike Carey is a Fantastic Advocate for Ohio’s 15th Congressional District!",
-  "trendingName": "Mike Carey",
-  "selfPraiseCount": 1
+  "trendingTopic": "Congressman Max Miller is a fantastic Champion for the Great People of Ohio’s 1st Congressional District!",
+  "selfPraiseCount": 1,
+  "secondaryHighlights": [
+    {
+      "topic": "Jon Husted is doing an incredible job as Senator for the Great State of Ohio!",
+      "name": "Jon Husted"
+    },
+    {
+      "topic": "Congressman Mike Carey is a Fantastic Advocate for Ohio’s 15th Congressional District!",
+      "name": "Mike Carey"
+    },
+    {
+      "topic": "Vivek Ramaswamy is running for Governor of the Great State of Ohio, a place I love and WON BIG, THREE TIMES, in 2016, 2020, and 2024!",
+      "name": "Vivek Ramaswamy"
+    }
+  ]
 }

@@ -272,6 +272,12 @@ var DaySummaryService = class {
       postId: String(s?.postId || ""),
       label: s?.label === "positive" || s?.label === "negative" || s?.label === "neutral" ? s.label : void 0
     })).filter((s) => !!s.postId && !!s.label) : [];
+    const secondaryHighlights = Array.isArray(payload.secondaryHighlights) ? payload.secondaryHighlights.map((item) => {
+      const topic = typeof item?.topic === "string" ? item.topic.trim() : "";
+      if (!topic) return void 0;
+      const name = typeof item?.name === "string" && item.name.trim() ? item.name.trim() : void 0;
+      return name ? { topic, name } : { topic };
+    }).filter((item) => !!item) : [];
     const normalized = {
       date: payload.date ?? date,
       summary: summaryText,
@@ -283,7 +289,8 @@ var DaySummaryService = class {
       posts,
       postSentiments,
       source: "static",
-      fallbackMessage: payload.fallbackMessage ?? summaryText
+      fallbackMessage: payload.fallbackMessage ?? summaryText,
+      ...secondaryHighlights.length ? { secondaryHighlights } : {}
     };
     this.cache.set(date, normalized);
     return normalized;
@@ -475,7 +482,7 @@ function monthSoFarHighlights(days, month, now) {
 }
 
 // src/app/utils/day-stories.ts
-var GENERIC_TOPIC = /^(economic growth|political commentary|endorsements and support|international relations|legal proceedings|general news|controversies|disaster recovery)/i;
+var GENERIC_TOPIC = /^(economic growth|political commentary|endorsements and support|international relations|legal proceedings|general news|controversies)/i;
 var SKIP_NAME = /* @__PURE__ */ new Set([
   "united states",
   "truth social",
@@ -653,9 +660,9 @@ function extractName(text) {
   return name;
 }
 function headlineFromPost(post) {
-  const title = compactHeadline(cleanTitle(post.title || post.raw?.title || ""));
-  if (title) return title;
-  return compactHeadline(cleanTitle(post.raw?.contentSnippet || stripHtml(post.text || "")));
+  const title = cleanTitle(post.title || post.raw?.title || "");
+  const body = cleanTitle(post.raw?.contentSnippet || stripHtml(post.text || ""));
+  return compactHeadline(title) || compactHeadline(body) || title || body;
 }
 function snippetFromPost(post) {
   const snippet = stripHtml(post.raw?.contentSnippet || post.text || "");
@@ -711,6 +718,25 @@ function listDayPosts(posts, sentiments = []) {
 function sameStory(a, b) {
   return a.topic.trim().toLowerCase() === b.topic.trim().toLowerCase();
 }
+function openingKey(text) {
+  const tokens = text.toLowerCase().replace(/['’]/g, "").replace(/[^a-z0-9]+/g, " ").split(/\s+/).filter(Boolean);
+  return tokens.slice(0, 6).join(" ");
+}
+function sharedPrefixHeadline(headlines) {
+  const tokenized = headlines.map((h) => h.replace(/\s+/g, " ").trim().split(/\s+/).filter(Boolean)).filter((tokens) => tokens.length);
+  if (!tokenized.length) return "";
+  const prefix = [];
+  for (let i = 0; i < tokenized[0].length; i++) {
+    const word = tokenized[0][i];
+    if (tokenized.every((tokens) => tokens[i] && tokens[i].toLowerCase() === word.toLowerCase())) {
+      prefix.push(word);
+    } else {
+      break;
+    }
+  }
+  const label = prefix.join(" ");
+  return isCompleteHeadline2(label) ? label : "";
+}
 function buildDayStoryBoard(input) {
   const posts = listDayPosts(input.posts || [], input.sentiments || []);
   const ranked = [];
@@ -725,12 +751,32 @@ function buildDayStoryBoard(input) {
     input.trendingTopic ? { topic: input.trendingTopic, ...input.trendingName ? { name: input.trendingName } : {} } : void 0
   );
   for (const extra of input.secondaryHighlights || []) push(extra);
+  const clusters = /* @__PURE__ */ new Map();
   for (const post of dedupePosts(input.posts || [])) {
     const topic = headlineFromPost(post);
     if (!topic) continue;
     const name = extractName(`${cleanTitle(post.title || "")} ${post.raw?.contentSnippet || stripHtml(post.text || "")}`);
-    push({ topic, ...name ? { name } : {} });
+    const key = openingKey(topic) || topic.toLowerCase();
+    const prev = clusters.get(key);
+    if (prev) {
+      prev.headlines.push(topic);
+      if (name) prev.names.push(name);
+    } else {
+      clusters.set(key, { headlines: [topic], names: name ? [name] : [] });
+    }
   }
+  const clustered = Array.from(clusters.values()).map((group) => {
+    const clusteredLabel = group.headlines.length >= 2 ? sharedPrefixHeadline(group.headlines) : "";
+    const topic = clusteredLabel || group.headlines[0];
+    const unanimous = group.names.length > 0 && group.names.every((n) => n.toLowerCase() === group.names[0].toLowerCase());
+    const name = unanimous ? group.names[0] : void 0;
+    return {
+      topic,
+      count: group.headlines.length,
+      ...name ? { name } : {}
+    };
+  }).sort((a, b) => b.count - a.count);
+  for (const group of clustered) push(group);
   const primary = ranked[0] || { topic: "" };
   const secondary = ranked.filter((s) => !sameStory(s, primary)).slice(0, 3);
   return { primary, secondary, posts };
@@ -811,7 +857,8 @@ function renderDayDetail(runtime, summary) {
     posts: summary.posts,
     sentiments: summary.postSentiments,
     trendingTopic: summary.trendingTopic,
-    trendingName: summary.trendingName
+    trendingName: summary.trendingName,
+    secondaryHighlights: summary.secondaryHighlights
   });
   const primaryTopic = board.primary.topic || summary.trendingTopic || "\u2014";
   const primaryName = board.primary.name || summary.trendingName || "\u2014";

@@ -402,5 +402,18 @@
   ],
   "trendingTopic": "Christopher Maccio, the Great Opera Singer, was AMAZING at the World Cup today",
   "trendingName": "Christopher Maccio",
-  "selfPraiseCount": 0
+  "selfPraiseCount": 0,
+  "secondaryHighlights": [
+    {
+      "topic": "Great words of wisdom from Highly Respected James Carafano",
+      "name": "James Carafano"
+    },
+    {
+      "topic": "Benjamin Netanyahu will not be arrested, in any way, shape, or form, while in the United States of America.",
+      "name": "Benjamin Netanyahu"
+    },
+    {
+      "topic": "Every time Iran kills an American Soldier they will pay for that killing many times over!"
+    }
+  ]
 }

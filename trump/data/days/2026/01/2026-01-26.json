@@ -378,5 +378,17 @@
   ],
   "trendingTopic": "I am sending Tom Homan to Minnesota tonight",
   "trendingName": "Tom Homan",
-  "selfPraiseCount": 3
+  "selfPraiseCount": 3,
+  "secondaryHighlights": [
+    {
+      "topic": "Appeals court finds evidence to charge Don Lemon over church protest, but won’t force arrest warrant",
+      "name": "Don Lemon"
+    },
+    {
+      "topic": "I can’t watch the new NFL Kickoff"
+    },
+    {
+      "topic": "Fake and Fraudulent Polling should be, virtually, a criminal offense"
+    }
+  ]
 }

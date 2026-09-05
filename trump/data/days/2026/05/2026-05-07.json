@@ -472,7 +472,20 @@
       "analyzedAt": "2026-09-05T08:26:59.252Z"
     }
   ],
-  "trendingTopic": "I had a great call with The President of the European Commission, Ursula von der Leyen",
-  "trendingName": "Ursula von der Leyen",
-  "selfPraiseCount": 1
+  "trendingTopic": "Lilly commits additional $4.5 billion across Indiana manufacturing sites, opens first dedicated genetic medicine facility",
+  "selfPraiseCount": 1,
+  "secondaryHighlights": [
+    {
+      "topic": "Chuck Devore, Army Intelligence, was fantastic tonight on Jesse Watters",
+      "name": "Chuck Devore"
+    },
+    {
+      "topic": "A highly accurate depiction of the Sleepy Joe Biden Administration",
+      "name": "Joe Biden"
+    },
+    {
+      "topic": "I had a great call with The President of the European Commission, Ursula von der Leyen",
+      "name": "Ursula von der Leyen"
+    }
+  ]
 }

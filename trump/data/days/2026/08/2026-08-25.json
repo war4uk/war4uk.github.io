@@ -760,7 +760,20 @@
       "analyzedAt": "2026-09-05T07:51:22.035Z"
     }
   ],
-  "trendingTopic": "Gavin Newsom hails Trump Accounts as ‘best’ thing the prez has ever done in rare lovefest",
-  "trendingName": "Gavin Newsom",
-  "selfPraiseCount": 2
+  "trendingTopic": "Secretary Sean Duffy: My job is to get my daughter into heaven, not Harvard",
+  "trendingName": "Sean Duffy",
+  "selfPraiseCount": 2,
+  "secondaryHighlights": [
+    {
+      "topic": "Gavin Newsom hails Trump Accounts as ‘best’ thing the prez has ever done in rare lovefest",
+      "name": "Gavin Newsom"
+    },
+    {
+      "topic": "Donald Trump, Dave McCormick, and Jamie Dimon unveil a massive manufacturing push in Pennsylvania",
+      "name": "Jamie Dimon"
+    },
+    {
+      "topic": "Lake Ontario renamed Lake America"
+    }
+  ]
 }

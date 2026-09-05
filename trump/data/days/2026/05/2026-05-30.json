@@ -1671,7 +1671,18 @@
       "analyzedAt": "2026-09-05T08:32:41.018Z"
     }
   ],
-  "trendingTopic": "Watch Lara Trump tonight on FoxNews at 9 P.M. EST. She interviews me for the entire Show!",
-  "trendingName": "Lara Trump",
-  "selfPraiseCount": 3
+  "trendingTopic": "Thank you Jaxson!",
+  "selfPraiseCount": 3,
+  "secondaryHighlights": [
+    {
+      "topic": "The DronePort on the roof of the White House Ballroom!"
+    },
+    {
+      "topic": "See, they have a Ballroom"
+    },
+    {
+      "topic": "Tom Brady is a great player, and great guy!",
+      "name": "Tom Brady"
+    }
+  ]
 }

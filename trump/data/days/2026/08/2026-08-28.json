@@ -1408,7 +1408,18 @@
       "analyzedAt": "2026-09-05T08:06:02.855Z"
     }
   ],
-  "trendingTopic": "Gregg Jarrett was GREAT on Sean Hannity tonight. He really gets it",
-  "trendingName": "Sean Hannity",
-  "selfPraiseCount": 0
+  "trendingTopic": ". did warn you... .@realdonaldtrump did warn you",
+  "selfPraiseCount": 0,
+  "secondaryHighlights": [
+    {
+      "topic": "Gregg Jarrett was GREAT on Sean Hannity tonight. He really gets it",
+      "name": "Sean Hannity"
+    },
+    {
+      "topic": "Ranchers and Farmers have always been a number one priority for me"
+    },
+    {
+      "topic": "Congressman Mike Lawler of New York was fantastic on FoxBusiness today"
+    }
+  ]
 }

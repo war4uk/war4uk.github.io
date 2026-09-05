@@ -184,7 +184,18 @@
       "analyzedAt": "2026-09-05T08:03:34.211Z"
     }
   ],
-  "trendingTopic": "GREAT new song by Steve Gruber & The Freedom Project!",
-  "trendingName": "Steve Gruber",
-  "selfPraiseCount": 1
+  "trendingTopic": "Today, the Board of Peace reached a HISTORIC agreement for the COMPLETE DISARMAMENT of Hamas and all other armed groups in Gaza.",
+  "selfPraiseCount": 1,
+  "secondaryHighlights": [
+    {
+      "topic": "GREAT new song by Steve Gruber & The Freedom Project!",
+      "name": "Steve Gruber"
+    },
+    {
+      "topic": "Todd Blanche is a STAR, and everyone knows it!"
+    },
+    {
+      "topic": "Thank you Abe!"
+    }
+  ]
 }

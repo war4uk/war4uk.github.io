@@ -808,7 +808,19 @@
       "analyzedAt": "2026-04-13T08:11:20.507Z"
     }
   ],
-  "trendingTopic": "Joe Abruzzo says Trump ‘cares’ for Palm Beach County",
-  "trendingName": "Joe Abruzzo",
-  "selfPraiseCount": 3
+  "trendingTopic": "Iran just stated that they are going to hit very hard today, harder than they have ever",
+  "selfPraiseCount": 3,
+  "secondaryHighlights": [
+    {
+      "topic": "Joe Abruzzo says Trump ‘cares’ for Palm Beach County",
+      "name": "Joe Abruzzo"
+    },
+    {
+      "topic": "Michael Goodwin: The death of Ayatollah Khamenei instantly makes the world a better place",
+      "name": "Michael Goodwin"
+    },
+    {
+      "topic": "MADE, PROMISES KEPT. ⒻⒶⒻⓄ RT @DanScavinoPROMISES MADE, PROMISES KEPT. ⒻⒶⒻⓄ"
+    }
+  ]
 }

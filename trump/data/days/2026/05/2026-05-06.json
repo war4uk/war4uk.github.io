@@ -904,7 +904,18 @@
       "analyzedAt": "2026-09-05T08:26:48.739Z"
     }
   ],
-  "trendingTopic": "Ted Turner, one of the Greats of All Time, just died",
-  "trendingName": "Ted Turner",
-  "selfPraiseCount": 0
+  "trendingTopic": "Top DOJ official predicts Supreme Court will declare AR-15 rifles legal everywhere in America",
+  "selfPraiseCount": 0,
+  "secondaryHighlights": [
+    {
+      "topic": "Ted Turner, one of the Greats of All Time, just died",
+      "name": "Ted Turner"
+    },
+    {
+      "topic": "The White House Ballroom is going up rapidly on the East side of the White House"
+    },
+    {
+      "topic": "Trump’s new culture of government reform delivers more life-saving benefits to veterans"
+    }
+  ]
 }
