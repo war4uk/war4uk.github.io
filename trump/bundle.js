@@ -285,6 +285,45 @@ function sentimentClass(s) {
       return "sentiment-mixed";
   }
 }
+var SENTIMENT_GRADIENT_COLORS = {
+  negative: "#e24b4b",
+  neutral: "#b4b8be",
+  positive: "#3db86a"
+};
+function clampCount(n) {
+  return Number.isFinite(n) && n > 0 ? n : 0;
+}
+function formatPct(value) {
+  const rounded = Math.round(value * 10) / 10;
+  return Number.isInteger(rounded) ? String(rounded) : rounded.toFixed(1);
+}
+function sentimentGradient(s) {
+  const negative = clampCount(s.negative);
+  const neutral = clampCount(s.neutral);
+  const positive = clampCount(s.positive);
+  const total = negative + neutral + positive;
+  if (total === 0) return "";
+  const bands = [
+    { color: SENTIMENT_GRADIENT_COLORS.negative, count: negative },
+    { color: SENTIMENT_GRADIENT_COLORS.neutral, count: neutral },
+    { color: SENTIMENT_GRADIENT_COLORS.positive, count: positive }
+  ].filter((band) => band.count > 0);
+  if (bands.length === 1) {
+    const color = bands[0].color;
+    return `linear-gradient(to bottom, ${color} 0%, ${color} 100%)`;
+  }
+  const stops = [];
+  let cursor = 0;
+  bands.forEach((band, index) => {
+    const share = band.count / total * 100;
+    const mid = cursor + share / 2;
+    if (index === 0) stops.push(`${band.color} 0%`);
+    stops.push(`${band.color} ${formatPct(mid)}%`);
+    if (index === bands.length - 1) stops.push(`${band.color} 100%`);
+    cursor += share;
+  });
+  return `linear-gradient(to bottom, ${stops.join(", ")})`;
+}
 
 // src/main.ts
 var popover = ensurePopover();
@@ -407,9 +446,11 @@ async function loadMonth(runtime, view) {
     grid.hidden = false;
     days.forEach((d) => {
       const triple = formatTriple(d.sentiments);
-      const cls = sentimentClass(d.sentiments);
+      const gradient = sentimentGradient(d.sentiments);
+      const cls = gradient ? "sentiment-blend" : sentimentClass(d.sentiments);
       const cell = runtime.document.createElement("div");
       cell.className = `day ${cls}`;
+      if (gradient) cell.style.setProperty("--day-blend", gradient);
       cell.dataset.date = d.date;
       cell.tabIndex = 0;
       cell.setAttribute("role", "button");
