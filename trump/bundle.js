@@ -165,6 +165,9 @@ function resolveDataRoot(options) {
   const candidate = explicit || envUrl || globalUrl || "/data";
   return trimTrailingSlash(candidate);
 }
+function asOptionalString(value) {
+  return typeof value === "string" && value.trim() ? value.trim() : void 0;
+}
 var MonthDataService = class {
   fetchFn;
   dataRoot;
@@ -183,7 +186,9 @@ var MonthDataService = class {
     const fetchFn = this.fetchFn;
     const resp = await fetchFn(url);
     if (resp.status === 404) {
-      return [];
+      const empty = { month: monthStr, days: [] };
+      this.cache.set(cacheKey, empty);
+      return empty;
     }
     if (!resp.ok) {
       logger.error("Month data request failed", { status: resp.status, statusText: resp.statusText });
@@ -196,10 +201,20 @@ var MonthDataService = class {
       sentiments: d.counts ?? { positive: 0, neutral: 0, negative: 0 },
       summary: d.summary ?? "",
       hasDetail: d.hasDetail ?? true,
-      generatedAt: d.generatedAt ?? ""
+      generatedAt: d.generatedAt ?? "",
+      topics: Array.isArray(d.topics) ? d.topics.filter((t) => typeof t === "string") : [],
+      trendingTopic: asOptionalString(d.trendingTopic),
+      trendingName: asOptionalString(d.trendingName),
+      selfPraiseCount: Number.isFinite(Number(d.selfPraiseCount)) ? Math.max(0, Math.trunc(Number(d.selfPraiseCount))) : 0
     }));
-    this.cache.set(cacheKey, mapped);
-    return mapped;
+    const view = {
+      month: payload?.month || monthStr,
+      days: mapped,
+      trendingTopic: asOptionalString(payload?.trendingTopic),
+      trendingName: asOptionalString(payload?.trendingName)
+    };
+    this.cache.set(cacheKey, view);
+    return view;
   }
 };
 
@@ -244,6 +259,9 @@ var DaySummaryService = class {
       summary: summaryText,
       sentiments,
       topics: normalizedTopics,
+      trendingTopic: typeof payload.trendingTopic === "string" && payload.trendingTopic.trim() ? payload.trendingTopic.trim() : void 0,
+      trendingName: typeof payload.trendingName === "string" && payload.trendingName.trim() ? payload.trendingName.trim() : void 0,
+      selfPraiseCount: Number.isFinite(Number(payload.selfPraiseCount)) ? Math.max(0, Math.trunc(Number(payload.selfPraiseCount))) : 0,
       source: "static",
       fallbackMessage: payload.fallbackMessage ?? summaryText
     };
@@ -325,8 +343,59 @@ function sentimentGradient(s) {
   return `linear-gradient(to bottom, ${stops.join(", ")})`;
 }
 
+// src/app/utils/month-highlights.ts
+function utcToday(now) {
+  if (typeof now === "string") return now.slice(0, 10);
+  return now.toISOString().slice(0, 10);
+}
+function pickFrequent(items) {
+  const map = /* @__PURE__ */ new Map();
+  for (const item of items) {
+    const key = item.value.toLowerCase();
+    const prev = map.get(key);
+    if (!prev) {
+      map.set(key, { count: 1, date: item.date, weight: item.weight, value: item.value });
+    } else {
+      prev.count += 1;
+      if (item.date > prev.date) prev.date = item.date;
+      prev.weight = Math.max(prev.weight, item.weight);
+    }
+  }
+  let best;
+  for (const stats of map.values()) {
+    if (!best) {
+      best = stats;
+      continue;
+    }
+    if (stats.count > best.count) best = stats;
+    else if (stats.count === best.count) {
+      if (stats.date > best.date) best = stats;
+      else if (stats.date === best.date && stats.weight > best.weight) best = stats;
+      else if (stats.date === best.date && stats.weight === best.weight && stats.value.localeCompare(best.value) < 0) best = stats;
+    }
+  }
+  return best?.value;
+}
+function monthSoFarDays(days, month, now) {
+  const today = utcToday(now);
+  if (today.startsWith(month)) return days.filter((d) => d.date <= today);
+  return days;
+}
+function monthSoFarHighlights(days, month, now) {
+  const scoped = monthSoFarDays(days, month, now);
+  const topic = pickFrequent(
+    scoped.filter((d) => d.trendingTopic).map((d) => ({ value: d.trendingTopic, date: d.date, weight: d.postsCount || 0 }))
+  );
+  const name = pickFrequent(
+    scoped.filter((d) => d.trendingName).map((d) => ({ value: d.trendingName, date: d.date, weight: d.postsCount || 0 }))
+  );
+  return {
+    ...topic ? { trendingTopic: topic } : {},
+    ...name ? { trendingName: name } : {}
+  };
+}
+
 // src/main.ts
-var popover = ensurePopover();
 var activePopoverDate = null;
 var loadGeneration = 0;
 var calendar = null;
@@ -345,15 +414,18 @@ function ensurePopover() {
 }
 function positionPopover(target) {
   const rect = target.getBoundingClientRect();
+  const popover = ensurePopover();
   popover.style.left = `${rect.left + window.scrollX}px`;
   popover.style.top = `${rect.bottom + window.scrollY + 8}px`;
 }
 function showPopoverContent(target, content) {
   positionPopover(target);
+  const popover = ensurePopover();
   popover.innerHTML = content;
   popover.hidden = false;
 }
 function hidePopover() {
+  const popover = ensurePopover();
   popover.hidden = true;
   popover.innerHTML = "";
   activePopoverDate = null;
@@ -366,15 +438,39 @@ function showPopoverError(target, date, errorMessage) {
   activePopoverDate = date;
   showPopoverContent(target, `<div class="popover-title">${date}</div><div class="popover-error">Error: ${errorMessage}</div>`);
 }
+function escapeHtml(value) {
+  return value.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+}
 function renderPopoverSummary(target, summary) {
   activePopoverDate = summary.date;
-  const topics = summary.topics.length > 0 ? summary.topics.map((t) => `<li>${t}</li>`).join("") : "";
+  const topics = summary.topics.length > 0 ? summary.topics.map((t) => `<li>${escapeHtml(t)}</li>`).join("") : "";
   const sentiments = summary.sentiments ? `Sentiments: ${formatTriple(summary.sentiments)}` : "";
-  const content = summary.topics.length > 0 ? `<ul class="popover-topics">${topics}</ul>` : `<div class="popover-row">${summary.summary || summary.fallbackMessage || "No summary available"}</div>`;
+  const topicLine = `<div class="popover-row"><span class="popover-label">Trending topic</span> ${escapeHtml(summary.trendingTopic || "\u2014")}</div>`;
+  const nameLine = `<div class="popover-row"><span class="popover-label">Trending name</span> ${escapeHtml(summary.trendingName || "\u2014")}</div>`;
+  const praiseLine = `<div class="popover-row"><span class="popover-label">Self-praise posts</span> ${summary.selfPraiseCount ?? 0}</div>`;
+  const content = summary.topics.length > 0 ? `<ul class="popover-topics">${topics}</ul>` : `<div class="popover-row">${escapeHtml(summary.summary || summary.fallbackMessage || "No summary available")}</div>`;
   showPopoverContent(
     target,
-    `<div class="popover-title">${summary.date}</div>${content}${sentiments ? `<div class="popover-row">${sentiments}</div>` : ""}`
+    `<div class="popover-title">${escapeHtml(summary.date)}</div>${topicLine}${nameLine}${praiseLine}${content}${sentiments ? `<div class="popover-row">${escapeHtml(sentiments)}</div>` : ""}`
   );
+}
+function monthKey(view) {
+  return `${view.year}-${String(view.month).padStart(2, "0")}`;
+}
+function renderMonthHighlights(runtime, view, days) {
+  const section = runtime.document.getElementById("month-highlights");
+  const heading = runtime.document.getElementById("month-highlights-heading");
+  const topicEl = runtime.document.getElementById("month-trending-topic");
+  const nameEl = runtime.document.getElementById("month-trending-name");
+  if (!section || !topicEl || !nameEl) return;
+  const today = (runtime.now ?? (() => /* @__PURE__ */ new Date()))().toISOString().slice(0, 10);
+  const key = monthKey(view);
+  const highlights = monthSoFarHighlights(days, key, today);
+  const isCurrent = today.startsWith(key);
+  if (heading) heading.textContent = isCurrent ? "Month so far" : "This month";
+  topicEl.textContent = highlights.trendingTopic || "\u2014";
+  nameEl.textContent = highlights.trendingName || "\u2014";
+  section.hidden = days.length === 0;
 }
 function writeMonthUrl(runtime, view, mode) {
   const next = hrefForMonth(runtime.location.pathname, view);
@@ -425,11 +521,13 @@ async function loadMonth(runtime, view) {
     statusEl.textContent = "Loading month data...";
     if (emptyEl) emptyEl.hidden = true;
     grid.hidden = true;
-    const days = await runtime.monthDataService.getMonth(view.year, view.month);
+    const month = await runtime.monthDataService.getMonth(view.year, view.month);
     if (gen !== loadGeneration) return;
+    const days = month.days;
     calendar.setData(days);
     calendar.setLoading(false);
     syncNav(runtime, view);
+    renderMonthHighlights(runtime, view, days);
     statusEl.textContent = "";
     grid.innerHTML = "";
     if (calendar.isEmpty()) {
@@ -455,12 +553,14 @@ async function loadMonth(runtime, view) {
       cell.tabIndex = 0;
       cell.setAttribute("role", "button");
       cell.setAttribute("aria-haspopup", "dialog");
-      cell.setAttribute("aria-label", `Open details for ${d.date}`);
+      const n = Number(d.selfPraiseCount) || 0;
+      const praiseLabel = n === 1 ? "self-praise" : "self-praises";
       const topicPreview = runtime.document.createElement("div");
       topicPreview.className = "topic-preview";
-      topicPreview.textContent = d.summary ? `Summary: ${d.summary}` : "Summary: unavailable";
-      cell.innerHTML = `<strong>${d.date}</strong><br/>Posts: ${d.postsCount}<br/>${triple}`;
+      topicPreview.textContent = d.trendingTopic || (d.summary ? `Summary: ${d.summary}` : "Summary: unavailable");
+      cell.innerHTML = `<div class="self-praise"><div class="self-praise-count">${n}</div><div class="self-praise-label">${praiseLabel}</div></div><strong>${d.date}</strong><div class="day-line">Posts: ${d.postsCount}</div><div class="day-line">${triple}</div>`;
       cell.appendChild(topicPreview);
+      cell.setAttribute("aria-label", `Open details for ${d.date}, ${n} ${praiseLabel}`);
       const showDetail = async () => {
         showPopoverLoading(cell, d.date);
         try {
@@ -486,6 +586,7 @@ async function loadMonth(runtime, view) {
     syncNav(runtime, view);
     statusEl.textContent = `Error loading data: ${e instanceof Error ? e.message : "Unknown error"}`;
     logger.error("Failed to load month data", { error: e instanceof Error ? e.message : String(e) });
+    renderMonthHighlights(runtime, view, []);
   }
 }
 function goToMonth(runtime, view, mode) {

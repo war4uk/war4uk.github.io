@@ -12,7 +12,8 @@
       "topics": [],
       "postsCount": 5,
       "hasDetail": true,
-      "generatedAt": "2025-10-12T00:00:00Z"
+      "generatedAt": "2025-10-12T00:00:00Z",
+      "selfPraiseCount": 0
     },
     {
       "date": "2025-10-12",
@@ -25,8 +26,13 @@
       "topics": [],
       "postsCount": 4,
       "hasDetail": true,
-      "generatedAt": "2026-04-13T06:56:11.943Z"
+      "generatedAt": "2026-04-13T06:56:11.943Z",
+      "trendingTopic": "I am pleased to announce that the great Dan Scavino, in addition to remaining Deputy Chief of Staff of the Trump",
+      "trendingName": "Dan Scavino",
+      "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-04-13T06:56:11.943Z"
+  "generatedAt": "2026-04-13T06:56:11.943Z",
+  "trendingTopic": "I am pleased to announce that the great Dan Scavino, in addition to remaining Deputy Chief of Staff of the Trump",
+  "trendingName": "Dan Scavino"
 }
