@@ -12,6 +12,20 @@
     "Disaster Recovery and Assistance",
     "Economic Growth and Job Creation"
   ],
+  "trendingTopic": "Great words and wisdom by Robert Greenway, Heritage Foundation Allison Center Director, on the Mark Levin Show tonight.",
+  "trendingName": "Robert Greenway",
+  "secondaryHighlights": [
+    {
+      "topic": "Thank you to the Great Gregg Jarrett"
+    },
+    {
+      "topic": "Trump, Iran and the Bottom Line for American Interests"
+    },
+    {
+      "topic": "McLaughlin Poll: Voters Back Trump on Iran"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37889",
@@ -1046,20 +1060,6 @@
       "label": "neutral",
       "rationale": "The text contains a link without any sentiment expressed.",
       "analyzedAt": "2026-09-05T08:46:12.186Z"
-    }
-  ],
-  "trendingTopic": "Great words and wisdom by Robert Greenway, Heritage Foundation Allison Center Director, on the Mark Levin Show tonight.",
-  "selfPraiseCount": 0,
-  "trendingName": "Robert Greenway",
-  "secondaryHighlights": [
-    {
-      "topic": "Thank you to the Great Gregg Jarrett"
-    },
-    {
-      "topic": "Trump, Iran and the Bottom Line for American Interests"
-    },
-    {
-      "topic": "McLaughlin Poll: Voters Back Trump on Iran"
     }
   ]
 }

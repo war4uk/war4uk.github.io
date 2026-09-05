@@ -12,6 +12,20 @@
     "Endorsements and Support for Candidates",
     "Disaster Recovery and Assistance"
   ],
+  "trendingTopic": "It is my Great Honor to endorse America First Patriot, Dan Green, who is running to represent the fantastic people of Florida’s 9th Congressional District!",
+  "secondaryHighlights": [
+    {
+      "topic": "The United States is, as we speak, striking Iranian Targets near the Strait of Hormuz."
+    },
+    {
+      "topic": "Jon Voight stopped by the White House in order to support the Movie and Television Industry in America!",
+      "name": "Jon Voight"
+    },
+    {
+      "topic": "A great Senator and a great golfer!!!"
+    }
+  ],
+  "selfPraiseCount": 8,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41439",
@@ -926,20 +940,6 @@
       "label": "positive",
       "rationale": "The text expresses positive sentiments about productive conversations, the strength of North Carolina, and the speaker's commitment to the state, highlighting achievements and gratitude.",
       "analyzedAt": "2026-09-05T07:41:31.208Z"
-    }
-  ],
-  "trendingTopic": "It is my Great Honor to endorse",
-  "selfPraiseCount": 8,
-  "secondaryHighlights": [
-    {
-      "topic": "The United States is, as we speak, striking Iranian Targets near the Strait of Hormuz."
-    },
-    {
-      "topic": "Jon Voight stopped by the White House in order to support the Movie and Television Industry in America!",
-      "name": "Jon Voight"
-    },
-    {
-      "topic": "A great Senator and a great golfer!!!"
     }
   ]
 }

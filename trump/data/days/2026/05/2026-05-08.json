@@ -12,6 +12,20 @@
     "Endorsements and Support for Candidates",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "Hakeem Jeffries doubles down on 'maximum warfare' rhetoric, tells critics 'I don't give a damn'",
+  "trendingName": "Hakeem Jeffries",
+  "secondaryHighlights": [
+    {
+      "topic": "Huge win for the Republican Party, and America, in Virginia"
+    },
+    {
+      "topic": "Bryson DeChambeau and Gary Player doing 50 Push Ups at the White House for the reinstatement of the Presidential Fitness Test!"
+    },
+    {
+      "topic": "Amazing — Bryson doing 30 Pull Ups at the White House for the reinstatement of the Presidential Fitness Test!"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38267",
@@ -422,20 +436,6 @@
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:27:08.930Z"
-    }
-  ],
-  "trendingTopic": "Hakeem Jeffries doubles down on 'maximum warfare' rhetoric, tells critics 'I don't give a damn'",
-  "selfPraiseCount": 0,
-  "trendingName": "Hakeem Jeffries",
-  "secondaryHighlights": [
-    {
-      "topic": "Huge win for the Republican Party, and America, in Virginia"
-    },
-    {
-      "topic": "Bryson DeChambeau and Gary Player doing 50 Push Ups at the White House for the reinstatement of the Presidential Fitness Test!"
-    },
-    {
-      "topic": "Amazing — Bryson doing 30 Pull Ups at the White House for the reinstatement of the Presidential Fitness Test!"
     }
   ]
 }

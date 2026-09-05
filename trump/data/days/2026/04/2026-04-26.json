@@ -11,6 +11,19 @@
     "Political Commentary and Controversies",
     "Disaster Recovery and Assistance"
   ],
+  "trendingTopic": "I will be interviewed on 60 Minutes tonight at 7 P.M. EST",
+  "secondaryHighlights": [
+    {
+      "topic": "Quite an evening in D.C. Secret Service and Law Enforcement did a fantastic job"
+    },
+    {
+      "topic": "Law Enforcement has requested that we leave the premises, consistent with protocol, which we will do, immediately."
+    },
+    {
+      "topic": "liberal polling group"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38056",
@@ -229,19 +242,6 @@
       "label": "neutral",
       "rationale": "The text reports on a political action without expressing a clear positive or negative sentiment.",
       "analyzedAt": "2026-09-05T08:47:36.927Z"
-    }
-  ],
-  "trendingTopic": "I will be interviewed on 60 Minutes tonight at 7 P.M. EST",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Quite an evening in D.C. Secret Service and Law Enforcement did a fantastic job"
-    },
-    {
-      "topic": "Law Enforcement has requested that we leave the premises, consistent with protocol, which we will do, immediately."
-    },
-    {
-      "topic": "liberal polling group"
     }
   ]
 }

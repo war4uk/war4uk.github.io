@@ -6,12 +6,29 @@
     "negative": 6
   },
   "summary": "positive:23 neutral:5 negative:6",
-  "generatedAt": "2026-09-05T08:36:13.940Z",
+  "generatedAt": "2026-09-05T19:45:02.914Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies",
-    "Disaster Recovery and Assistance"
+    "Trump secures peace deal with Iran",
+    "Upcoming elections and endorsements",
+    "Celebration of American Independence events"
   ],
+  "trendingTopic": "Trump scores once-elusive peace deal with Iran, easing oil prices ahead of elections",
+  "secondaryHighlights": [
+    {
+      "topic": "Barry Moore running for Senate in Alabama",
+      "name": "Barry Moore"
+    },
+    {
+      "topic": "Burt Jones running for Governor of Georgia",
+      "name": "Burt Jones"
+    },
+    {
+      "topic": "Mike Mazzei running for Governor of Oklahoma",
+      "name": "Mike Mazzei"
+    }
+  ],
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v3:34:db064ec10927fc58b59bf812",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39261",
@@ -830,20 +847,6 @@
       "label": "positive",
       "rationale": "The statement expresses agreement with Iran's decision regarding nuclear weapons and dismisses claims of financial payments as fake news, reflecting a positive sentiment towards the situation.",
       "analyzedAt": "2026-09-05T08:36:10.617Z"
-    }
-  ],
-  "trendingTopic": "It is my Great Honor to endorse",
-  "trendingName": "Mike Mazzei",
-  "selfPraiseCount": 4,
-  "secondaryHighlights": [
-    {
-      "topic": "The UFC at the White House last night was incredible"
-    },
-    {
-      "topic": "Trump scores once-elusive peace deal with Iran, easing oil prices ahead of elections"
-    },
-    {
-      "topic": "Wednesday, June 24th, will be the “kick off” of our summer long Celebration of 250 Years of American Independence!"
     }
   ]
 }

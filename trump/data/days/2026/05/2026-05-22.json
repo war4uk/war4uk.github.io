@@ -12,6 +12,20 @@
     "Endorsements and Support for Candidates",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "Unfortunately, after having done a great job, Tulsi Gabbard will be leaving the Administration on June 30th",
+  "trendingName": "Tulsi Gabbard",
+  "secondaryHighlights": [
+    {
+      "topic": "Colbert is finally finished at CBS. Amazing that he lasted so long!"
+    },
+    {
+      "topic": "Glenn Jacobs has a BIG political future in Tennessee - A great guy!!!"
+    },
+    {
+      "topic": "Stop playing games and PASS THE SAVE AMERICA ACT!"
+    }
+  ],
+  "selfPraiseCount": 1,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38701",
@@ -446,20 +460,6 @@
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:30:39.169Z"
-    }
-  ],
-  "trendingTopic": "Unfortunately, after having done a great job, Tulsi Gabbard will be leaving the Administration on June 30th",
-  "selfPraiseCount": 1,
-  "trendingName": "Tulsi Gabbard",
-  "secondaryHighlights": [
-    {
-      "topic": "Colbert is finally finished at CBS. Amazing that he lasted so long!"
-    },
-    {
-      "topic": "Glenn Jacobs has a BIG political future in Tennessee - A great guy!!!"
-    },
-    {
-      "topic": "Stop playing games and PASS THE SAVE AMERICA ACT!"
     }
   ]
 }

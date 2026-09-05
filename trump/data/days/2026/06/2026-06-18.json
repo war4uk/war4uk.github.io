@@ -6,12 +6,23 @@
     "negative": 4
   },
   "summary": "positive:17 neutral:15 negative:4",
-  "generatedAt": "2026-09-05T08:36:51.143Z",
+  "generatedAt": "2026-09-05T19:45:16.810Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Economic Growth and Job Creation",
-    "Political Commentary and Controversies"
+    "Trump endorses Mike Mazzei for Oklahoma Governor",
+    "Calls to terminate the filibuster and pass the Save America Act",
+    "Support for U.S.-Iran peace deal and economic growth"
   ],
+  "trendingTopic": "Trump endorses Mike Mazzei for Governor of Oklahoma amid criticism of opponent",
+  "secondaryHighlights": [
+    {
+      "topic": "Calls to terminate the filibuster and pass the Save America Act"
+    },
+    {
+      "topic": "Support for U.S.-Iran peace deal and economic growth"
+    }
+  ],
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v3:36:1da3c6d11a82508be090b67c",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39320",
@@ -878,22 +889,6 @@
       "label": "positive",
       "rationale": "The text expresses strong support for Mike Mazzei and highlights positive achievements in Oklahoma.",
       "analyzedAt": "2026-09-05T08:36:51.138Z"
-    }
-  ],
-  "trendingTopic": "It is my Great Honor to endorse",
-  "trendingName": "Mike Kennedy",
-  "selfPraiseCount": 3,
-  "secondaryHighlights": [
-    {
-      "topic": "THE SAVE AMERICA ACT!1"
-    },
-    {
-      "topic": "Thank you to Great Republican Senator, Eric Schmitt!",
-      "name": "Eric Schmitt"
-    },
-    {
-      "topic": "State Representative Don Chapman is doing a terrific job representing the wonderful people of South Carolina's8th State House District!",
-      "name": "Don Chapman"
     }
   ]
 }

@@ -12,6 +12,22 @@
     "Economic Growth and Job Creation",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place.",
+  "trendingName": "Lindsey Graham",
+  "secondaryHighlights": [
+    {
+      "topic": "Melania Trump links up with IndyCar for foster kid scholarships",
+      "name": "Melania Trump"
+    },
+    {
+      "topic": "Work on Trump White House ballroom can continue, Supreme Court Chief Justice John Roberts rules",
+      "name": "John Roberts"
+    },
+    {
+      "topic": "Trump Is Right: Judges Can’t Be Construction Foremen"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41040",
@@ -1886,21 +1902,6 @@
       "label": "positive",
       "rationale": "The text discusses a booming economy and criticizes media narratives, indicating a positive sentiment.",
       "analyzedAt": "2026-09-05T07:50:25.831Z"
-    }
-  ],
-  "trendingTopic": "Melania Trump links up with IndyCar for foster kid scholarships",
-  "trendingName": "Melania Trump",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Work on Trump White House ballroom can continue, Supreme Court Chief Justice John Roberts rules",
-      "name": "John Roberts"
-    },
-    {
-      "topic": "Trump Is Right: Judges Can’t Be Construction Foremen"
-    },
-    {
-      "topic": "MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed"
     }
   ]
 }

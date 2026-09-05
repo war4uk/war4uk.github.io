@@ -12,6 +12,20 @@
     "Political Commentary and Controversies",
     "Economic Growth and Job Creation"
   ],
+  "trendingTopic": "It is my Great Honor to endorse America First Patriot, Jon Maples, who is running to represent the fantastic people of Florida’s 87th State House District!",
+  "secondaryHighlights": [
+    {
+      "topic": "Save America Act"
+    },
+    {
+      "topic": ". : \"You're very disrespectful in front of this young man... You're a loud, boisterous person."
+    },
+    {
+      "topic": "Senator Dan Sullivan is doing a fantastic job representing the Great State of Alaska!",
+      "name": "Dan Sullivan"
+    }
+  ],
+  "selfPraiseCount": 8,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40907",
@@ -1118,22 +1132,6 @@
       "label": "positive",
       "rationale": "The text expresses support for a valid Photo ID requirement in elections and advocates for the SAVE AMERICA ACT, indicating a positive sentiment towards election integrity.",
       "analyzedAt": "2026-09-05T07:49:06.441Z"
-    }
-  ],
-  "trendingTopic": "Save America Act",
-  "selfPraiseCount": 8,
-  "secondaryHighlights": [
-    {
-      "topic": "Senator Dan Sullivan is doing a fantastic job representing the Great State of Alaska!",
-      "name": "Dan Sullivan"
-    },
-    {
-      "topic": "State Representative Bill Conerly is an America First Patriot doing a fantastic job representing Florida’s 72nd State House District!",
-      "name": "Bill Conerly"
-    },
-    {
-      "topic": "State Representative Jon Albert is doing a tremendous job representing the wonderful people of Florida’s 48th State House District!",
-      "name": "Jon Albert"
     }
   ]
 }

@@ -11,6 +11,21 @@
     "Endorsements and Support for Candidates",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "I am pleased to nominate Daniel Ballou to serve as Judge on the United States District Court for the Eastern District of Kentucky.",
+  "trendingName": "Daniel Ballou",
+  "secondaryHighlights": [
+    {
+      "topic": "I am pleased to nominate Robert (Bobby) Long to serve as Judge on the U.S. District Court for the Middle District of Florida.",
+      "name": "Robert Long"
+    },
+    {
+      "topic": "Florida, Vote for Byron Donalds for Governor."
+    },
+    {
+      "topic": "The Senate must vote on the NO MORE CHANGING THE CLOCKS ACT as soon as possible"
+    }
+  ],
+  "selfPraiseCount": 3,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40953",
@@ -1069,21 +1084,6 @@
       "label": "neutral",
       "rationale": "The text is empty.",
       "analyzedAt": "2026-09-05T07:49:31.690Z"
-    }
-  ],
-  "trendingTopic": "I am pleased to nominate Daniel Ballou to serve as Judge on the United States District Court for the Eastern District of Kentucky.",
-  "selfPraiseCount": 3,
-  "trendingName": "Daniel Ballou",
-  "secondaryHighlights": [
-    {
-      "topic": "I am pleased to nominate Robert (Bobby) Long to serve as Judge on the U.S. District Court for the Middle District of Florida.",
-      "name": "Robert Long"
-    },
-    {
-      "topic": "Florida, Vote for Byron Donalds for Governor."
-    },
-    {
-      "topic": "The Senate must vote on the NO MORE CHANGING THE CLOCKS ACT as soon as possible"
     }
   ]
 }

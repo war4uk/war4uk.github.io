@@ -11,6 +11,19 @@
     "Economic Growth and Job Creation",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "BIG NEWS! My Administration is delivering another fantastic America First Victory",
+  "secondaryHighlights": [
+    {
+      "topic": "Republicans, look what I just found!"
+    },
+    {
+      "topic": "Heading to beautiful Mount Rushmore to speak, shortly"
+    },
+    {
+      "topic": "Has anyone ever seen a Happy Dumocrat?"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39678",
@@ -565,19 +578,6 @@
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T07:57:47.633Z"
-    }
-  ],
-  "trendingTopic": "BIG NEWS! My Administration is delivering another fantastic America First Victory",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Republicans, look what I just found!"
-    },
-    {
-      "topic": "Heading to beautiful Mount Rushmore to speak, shortly"
-    },
-    {
-      "topic": "Has anyone ever seen a Happy Dumocrat?"
     }
   ]
 }

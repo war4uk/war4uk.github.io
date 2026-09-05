@@ -12,6 +12,20 @@
     "Economic Growth and Job Creation",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "I had a great meeting with Mr. Nate Morris, of Kentucky, yesterday",
+  "trendingName": "Nate Morris",
+  "secondaryHighlights": [
+    {
+      "topic": "Save America Act"
+    },
+    {
+      "topic": "To the incredible Patriots in Indiana’s 11th State Senate District: PLEASE GET OUT AND VOTE for a wonderful Candidate, Dr. Brian Schmutzler, a Highly Respected Anesthesiologist, and REAL Republican, who has my Complete and Total Endorsement."
+    },
+    {
+      "topic": "It is my Great Honor to endorse America First Patriot, Ralph Alvarado, M.D., who is running to represent the incredible people of Kentucky’s 6th Congressional District."
+    }
+  ],
+  "selfPraiseCount": 4,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38111",
@@ -446,20 +460,6 @@
       "label": "positive",
       "rationale": "The text describes a positive meeting with Nate Morris and expresses optimism about his future role, indicating a positive sentiment.",
       "analyzedAt": "2026-09-05T08:25:47.555Z"
-    }
-  ],
-  "trendingTopic": "I had a great meeting with Mr. Nate Morris, of Kentucky, yesterday",
-  "selfPraiseCount": 4,
-  "trendingName": "Nate Morris",
-  "secondaryHighlights": [
-    {
-      "topic": "Save America Act"
-    },
-    {
-      "topic": "To the incredible Patriots in Indiana’s"
-    },
-    {
-      "topic": "To the amazing Patriots in Indiana’s"
     }
   ]
 }

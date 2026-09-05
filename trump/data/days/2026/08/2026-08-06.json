@@ -11,6 +11,23 @@
     "Endorsements and Support for Candidates",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "Congressman Tim Burchett is an America First Patriot who is doing a fantastic job representing Tennessee’s 2nd Congressional District!",
+  "trendingName": "Tim Burchett",
+  "secondaryHighlights": [
+    {
+      "topic": "Congressman Chuck Fleischmann is a terrific Representative for the incredible people of Tennessee’s 3rd Congressional District!",
+      "name": "Chuck Fleischmann"
+    },
+    {
+      "topic": "Congressman David Kustoff is a Tremendous Champion for Tennessee’s 8th Congressional District!",
+      "name": "David Kustoff"
+    },
+    {
+      "topic": "I am proud to, once again, endorse the GREAT Congressman from Tennessee’s 7th Congressional District, Matt Van Epps.",
+      "name": "Matt Van"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40596",
@@ -421,23 +438,6 @@
       "label": "neutral",
       "rationale": "The text discusses a political strategy without expressing a clear positive or negative sentiment.",
       "analyzedAt": "2026-09-05T07:46:40.223Z"
-    }
-  ],
-  "trendingTopic": "Congressman Tim Burchett is an America First Patriot who is doing a fantastic job representing Tennessee’s 2nd Congressional District!",
-  "selfPraiseCount": 0,
-  "trendingName": "Tim Burchett",
-  "secondaryHighlights": [
-    {
-      "topic": "Congressman Chuck Fleischmann is a terrific Representative for the incredible people of Tennessee’s 3rd Congressional District!",
-      "name": "Chuck Fleischmann"
-    },
-    {
-      "topic": "Congressman David Kustoff is a Tremendous Champion for Tennessee’s 8th Congressional District!",
-      "name": "David Kustoff"
-    },
-    {
-      "topic": "I am proud to, once again, endorse the GREAT Congressman from Tennessee’s 7th Congressional District, Matt Van Epps.",
-      "name": "Matt Van"
     }
   ]
 }

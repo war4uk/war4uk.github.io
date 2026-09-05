@@ -10,6 +10,16 @@
   "topics": [
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "‘A GIFT TO AMERICA’: Trump Says New Ballroom Will Protect Presidents For Generations",
+  "secondaryHighlights": [
+    {
+      "topic": "Trump Says Ballroom Roof Will Host ‘Drone Empire’ to Defend D.C"
+    },
+    {
+      "topic": "Save America Act"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38657",
@@ -996,16 +1006,6 @@
       "label": "neutral",
       "rationale": "The statement is factual and does not express a clear positive or negative sentiment.",
       "analyzedAt": "2026-09-05T08:30:15.004Z"
-    }
-  ],
-  "trendingTopic": "‘A GIFT TO AMERICA’: Trump Says New Ballroom Will Protect Presidents For Generations",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Trump Says Ballroom Roof Will Host ‘Drone Empire’ to Defend D.C"
-    },
-    {
-      "topic": "Save America Act"
     }
   ]
 }

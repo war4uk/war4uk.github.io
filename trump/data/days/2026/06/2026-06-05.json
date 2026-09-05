@@ -6,12 +6,27 @@
     "negative": 2
   },
   "summary": "positive:9 neutral:11 negative:2",
-  "generatedAt": "2026-09-05T08:34:14.281Z",
+  "generatedAt": "2026-09-05T19:44:18.046Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Economic Growth and Job Creation",
-    "Political Commentary and Controversies"
+    "Barry Moore's Senate campaign in Alabama",
+    "Job growth in May",
+    "New book releases by Eric Metaxas and Ainsley Earhardt"
   ],
+  "trendingTopic": "Barry Moore receives Donald Trump's endorsement for U.S. Senate in Alabama",
+  "trendingName": "Barry Moore",
+  "secondaryHighlights": [
+    {
+      "topic": "Job growth in May exceeds expectations"
+    },
+    {
+      "topic": "Eric Metaxas releases book honoring American Patriots"
+    },
+    {
+      "topic": "Ainsley Earhardt's new book encourages patriotism"
+    }
+  ],
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v3:22:055aa257c3cd3806cbd190c4",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39100",
@@ -542,19 +557,6 @@
       "label": "positive",
       "rationale": "The text celebrates job growth and economic success, portraying a positive outlook on the economy despite political opposition.",
       "analyzedAt": "2026-09-05T08:34:14.277Z"
-    }
-  ],
-  "trendingTopic": "Watch California, everybody!",
-  "selfPraiseCount": 2,
-  "secondaryHighlights": [
-    {
-      "topic": "The Ballroom is coming along fantastically well"
-    },
-    {
-      "topic": "With a great Jobs Report, like just announced, stocks should go up, not down"
-    },
-    {
-      "topic": "A great new book by fabulous Ainsley Earhardt, “America, I’m So Glad You Were Born,” is out now"
     }
   ]
 }

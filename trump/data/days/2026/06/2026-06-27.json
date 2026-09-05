@@ -6,12 +6,23 @@
     "negative": 6
   },
   "summary": "positive:6 neutral:14 negative:6",
-  "generatedAt": "2026-09-05T08:38:53.571Z",
+  "generatedAt": "2026-09-05T19:45:58.263Z",
   "topics": [
-    "Political Commentary and Controversies",
-    "Endorsements and Support for Candidates",
-    "Disaster Recovery and Assistance"
+    "U.S. strikes Iranian military sites for ceasefire violations",
+    "Trump endorses Mike Mazzei for Oklahoma Governor",
+    "Trump nominates Lance Schroyer as ICE Director"
   ],
+  "trendingTopic": "U.S. aircraft strike Iranian military sites for violating ceasefire agreement",
+  "secondaryHighlights": [
+    {
+      "topic": "Trump endorses Mike Mazzei for Oklahoma Governor"
+    },
+    {
+      "topic": "Trump nominates Lance Schroyer as ICE Director"
+    }
+  ],
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v3:26:5fd5544a2504bdcaf1ba7f64",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39555",
@@ -638,20 +649,6 @@
       "label": "negative",
       "rationale": "The text expresses frustration and hostility towards Iran, suggesting a willingness to resort to military action, which conveys a negative sentiment.",
       "analyzedAt": "2026-09-05T08:38:53.567Z"
-    }
-  ],
-  "trendingTopic": "John Bolton, a very dumb, unbalanced, and unskilled former representative of the United States of America, just pleads guilty!",
-  "selfPraiseCount": 2,
-  "trendingName": "John Bolton",
-  "secondaryHighlights": [
-    {
-      "topic": "Good Morning from the Pool!"
-    },
-    {
-      "topic": "Good Evening from the Pool!"
-    },
-    {
-      "topic": "Other Polls have my Approval Rating at 65%, and more!"
     }
   ]
 }

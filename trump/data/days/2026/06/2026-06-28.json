@@ -6,11 +6,24 @@
     "negative": 6
   },
   "summary": "positive:6 neutral:5 negative:6",
-  "generatedAt": "2026-09-05T08:39:03.468Z",
+  "generatedAt": "2026-09-05T19:46:02.989Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Deportations increase under Secretary Mullin",
+    "Trump's influence in Louisiana Senate runoff",
+    "Concerns over Janeese Lewis George's policies"
   ],
+  "trendingTopic": "Deportations are way up as Secretary Mullin marks 100 days at DHS",
+  "trendingName": "Secretary Mullin",
+  "secondaryHighlights": [
+    {
+      "topic": "Trump celebrates Julia Letlow's Senate victory in Louisiana"
+    },
+    {
+      "topic": "Trump warns against Janeese Lewis George's potential policies for D.C."
+    }
+  ],
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v3:17:a4a83fa0945f5a83d8178031",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39581",
@@ -421,19 +434,6 @@
       "label": "neutral",
       "rationale": "The statement presents factual information about deportation statistics without expressing a clear positive or negative sentiment.",
       "analyzedAt": "2026-09-05T08:39:03.465Z"
-    }
-  ],
-  "trendingTopic": "Trump’s election run continues as Letlow wins GOP runoff for Louisiana Senate seat",
-  "selfPraiseCount": 2,
-  "secondaryHighlights": [
-    {
-      "topic": "Reeling Democratic establishment accuses socialists of exploiting ballot access"
-    },
-    {
-      "topic": "Trump’s national carry push gets SCOTUS boost as Hawaii’s rule is knocked down"
-    },
-    {
-      "topic": "Supreme Court immigration rulings cement Trump as foremost border security guardian"
     }
   ]
 }

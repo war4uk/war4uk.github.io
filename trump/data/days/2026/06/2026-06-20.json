@@ -6,11 +6,23 @@
     "negative": 8
   },
   "summary": "positive:4 neutral:9 negative:8",
-  "generatedAt": "2026-09-05T08:37:19.003Z",
+  "generatedAt": "2026-09-05T19:45:25.827Z",
   "topics": [
-    "Disaster Recovery and Assistance",
-    "Political Commentary and Controversies"
+    "Vandalism at the Reflecting Pool",
+    "Iran military situation",
+    "Political commentary on ICE"
   ],
+  "trendingTopic": "Multiple arrests made for vandalizing the Reflecting Pool in Washington, D.C.",
+  "secondaryHighlights": [
+    {
+      "topic": "Iran's military defeat and political implications"
+    },
+    {
+      "topic": "Discussion on renaming ICE to NICE"
+    }
+  ],
+  "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v3:21:7c39dc86e8c067e452191933",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39385",
@@ -517,19 +529,6 @@
       "label": "negative",
       "rationale": "The text discusses vandalism of a national monument, describing it as a serious crime and expressing disapproval of the actions taken by individuals.",
       "analyzedAt": "2026-09-05T08:37:18.997Z"
-    }
-  ],
-  "trendingTopic": "Italian Prime Minister Giorgia Meloni asked, over and over, for a picture with me during the G-7 meeting in France.",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "The United States Park Police have arrested multiple individuals for vandalizing our Nations magnificent Reflecting"
-    },
-    {
-      "topic": "Trump holds the cards in Netanyahu’s shaky reelection chances"
-    },
-    {
-      "topic": "Years after Pulitzer prize, New York Times gets Russia collusion story wrong once again"
     }
   ]
 }

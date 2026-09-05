@@ -12,6 +12,20 @@
     "Political Commentary and Controversies",
     "Disaster Recovery and Assistance"
   ],
+  "trendingTopic": "From Greg Wischer at the United States Department of the Interior: “After 6 long years, the original cannons that previously surrounded the Andrew Jackson statue in Lafayette Park but were damaged in the 2020 riots have been returned to their rightful location around the statue.The four cannons—El Witiza, El Egica, El Apolo, and El Aristeo—were captured by Andrew Jackson from the Spanish in his Pensacola Campaign in 1818.",
+  "trendingName": "Andrew Jackson",
+  "secondaryHighlights": [
+    {
+      "topic": "The Crowd at 7:05 in the evening was 422,000 people!"
+    },
+    {
+      "topic": "Dr. John G. Trump, of MIT!"
+    },
+    {
+      "topic": "My father and mentor, Fred C. Trump!"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39724",
@@ -2414,19 +2428,6 @@
       "label": "neutral",
       "rationale": "The text is empty, making it neutral.",
       "analyzedAt": "2026-09-05T07:58:22.190Z"
-    }
-  ],
-  "trendingTopic": "The Crowd at 7:05 in the evening was 422,000 people!",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Dr. John G. Trump, of MIT!"
-    },
-    {
-      "topic": "My father and mentor, Fred C. Trump!"
-    },
-    {
-      "topic": "My father, grandparents, uncle, and aunt!"
     }
   ]
 }

@@ -6,12 +6,26 @@
     "negative": 4
   },
   "summary": "positive:2 neutral:5 negative:4",
-  "generatedAt": "2026-09-05T08:35:24.733Z",
+  "generatedAt": "2026-09-05T19:44:44.860Z",
   "topics": [
-    "Political Commentary and Controversies",
-    "Economic Growth and Job Creation",
-    "Disaster Recovery and Assistance"
+    "Trump's criticism of Jamie Raskin and impeachment efforts",
+    "Announcement of Jay Clayton as Director of National Intelligence",
+    "Military budget proposal and Save America Act"
   ],
+  "trendingTopic": "Trump criticizes Jamie Raskin's impeachment attempts and calls for his expulsion from Congress",
+  "secondaryHighlights": [
+    {
+      "topic": "Weapons seized from Mexican Cartels harming Americans"
+    },
+    {
+      "topic": "Cancellation of military strikes against Iran after high-level discussions"
+    },
+    {
+      "topic": "Call for $350 billion military budget and election integrity measures"
+    }
+  ],
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v3:11:b72339e7af99fd8372adde91",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39211",
@@ -278,16 +292,6 @@
       "label": "negative",
       "rationale": "The text expresses strong negative sentiments towards Jamie Raskin, calling him a 'Loser in Life' and criticizing his actions during Trump's presidency. The language used is derogatory and dismissive.",
       "analyzedAt": "2026-09-05T08:35:24.730Z"
-    }
-  ],
-  "trendingTopic": "The United States of America cannot live with the shackles of Birthright Citizenship",
-  "selfPraiseCount": 1,
-  "secondaryHighlights": [
-    {
-      "topic": "These are the weapons we are seizing from Mexican Cartels"
-    },
-    {
-      "topic": "Save America Act"
     }
   ]
 }

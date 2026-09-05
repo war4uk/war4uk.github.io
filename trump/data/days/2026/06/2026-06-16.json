@@ -6,11 +6,27 @@
     "negative": 2
   },
   "summary": "positive:2 neutral:0 negative:2",
-  "generatedAt": "2026-09-05T08:36:21.122Z",
+  "generatedAt": "2026-09-05T19:45:07.514Z",
   "topics": [
-    "Political Commentary and Controversies",
-    "Economic Growth and Job Creation"
+    "Biden DOJ targets parents at school board meetings",
+    "FBI thwarts terror plot at UFC event",
+    "Voter fraud investigation in California"
   ],
+  "trendingTopic": "Biden DOJ targeted parents at school board meetings despite objections from FBI and sheriffs",
+  "trendingName": "Joe Biden",
+  "secondaryHighlights": [
+    {
+      "topic": "FBI stops alleged terror plot to attack UFC 250 event"
+    },
+    {
+      "topic": "US attorney in California anticipates voter fraud charges"
+    },
+    {
+      "topic": "Former Trump economist predicts economic boom from Iran deal"
+    }
+  ],
+  "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v3:4:4520b5cc88b4fc38efaad79e",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39297",
@@ -109,16 +125,6 @@
       "label": "positive",
       "rationale": "The FBI's action in stopping a terror plot is presented positively, highlighting a successful intervention to protect public safety.",
       "analyzedAt": "2026-09-05T08:36:21.119Z"
-    }
-  ],
-  "trendingTopic": "US attorney in California suspects voter fraud investigation will result in charges",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "FBI stopped alleged terror plot to attack UFC 250 event with drones and snipers, officials said"
-    },
-    {
-      "topic": "Biden DOJ targeted parents at school board meetings despite FBI, sheriffs' objections, memos show"
     }
   ]
 }

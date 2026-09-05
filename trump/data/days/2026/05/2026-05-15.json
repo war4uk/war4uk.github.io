@@ -11,6 +11,20 @@
     "Endorsements and Support for Candidates",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "Henry Clay and the architecture of American strength",
+  "secondaryHighlights": [
+    {
+      "topic": "Congratulations to Rachel Campos-Duffy on her new book, “All American Patriotism: Celebrating 250 Years of America’s Greatness!” By sharing personal stories of Patriotism, along with those of her FOX colleagues, Rachel reveals the true Spirit of the U.S.A., how to end this crazy and wrong hatred for America, and renew pride in our GREAT Country, our shared history, and people.",
+      "name": "Rachel Campos-duffy"
+    },
+    {
+      "topic": "I am proud to announce the site of the NATIONAL GARDEN OF AMERICAN HEROES. This magnificent exhibition of statues will be located in West Potomac Park, which we are transforming into one of the World's most beautiful public spaces."
+    },
+    {
+      "topic": "This is a statue, now standing at Doral, that was commissioned by a large group of political supporters who just wanted a statue of yours truly."
+    }
+  ],
+  "selfPraiseCount": 2,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38454",
@@ -254,7 +268,5 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:28:34.958Z"
     }
-  ],
-  "trendingTopic": "Henry Clay and the architecture of American strength",
-  "selfPraiseCount": 2
+  ]
 }

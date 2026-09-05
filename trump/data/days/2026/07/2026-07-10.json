@@ -12,6 +12,21 @@
     "Endorsements and Support for Candidates",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "It is my Great Honor to endorse MAGA Warrior Mark Lamb, who is running to represent the Great People of Arizona’s 5th Congressional District.",
+  "trendingName": "Mark Lamb",
+  "secondaryHighlights": [
+    {
+      "topic": "Congressman Paul Gosar, D.D.S., is an America First Patriot, who is doing a fantastic job representing Arizona’s 9th Congressional District!",
+      "name": "Paul Gosar"
+    },
+    {
+      "topic": "The Base of the Magnificent White House Face, around the Column area, at its front door"
+    },
+    {
+      "topic": "Micron Accelerates U.S. Investments, Pours First Concrete at New York Fab"
+    }
+  ],
+  "selfPraiseCount": 3,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39914",
@@ -470,21 +485,6 @@
       "label": "negative",
       "rationale": "The phrase 'crooked right from the beginning' indicates a negative sentiment towards the situation being discussed.",
       "analyzedAt": "2026-09-05T07:59:19.942Z"
-    }
-  ],
-  "trendingTopic": "It is my Great Honor to endorse",
-  "selfPraiseCount": 3,
-  "trendingName": "Mark Lamb",
-  "secondaryHighlights": [
-    {
-      "topic": "Congressman Paul Gosar, D.D.S., is an America First Patriot, who is doing a fantastic job representing Arizona’s 9th Congressional District!",
-      "name": "Paul Gosar"
-    },
-    {
-      "topic": "The Base of the Magnificent White House Face, around the Column area, at its front door"
-    },
-    {
-      "topic": "Micron Accelerates U.S. Investments, Pours First Concrete at New York Fab"
     }
   ]
 }

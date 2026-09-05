@@ -11,6 +11,16 @@
     "Disaster Recovery and Assistance",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "I just cancelled the trip of my representatives going is Islamabad, Pakistan, to meet with the Iranians",
+  "secondaryHighlights": [
+    {
+      "topic": "Save America Act"
+    },
+    {
+      "topic": "Once again, The Failing New York Times has attempted to grossly mischaracterize what should be hailed as the restoration of Beauty and Grandeur to our Nation’s Capital as something else completely."
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38051",
@@ -133,13 +143,6 @@
       "label": "positive",
       "rationale": "The text praises the restoration of Lafayette Park and highlights successful improvements, indicating a positive sentiment.",
       "analyzedAt": "2026-09-05T08:47:28.882Z"
-    }
-  ],
-  "trendingTopic": "I just cancelled the trip of my representatives going",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Save America Act"
     }
   ]
 }

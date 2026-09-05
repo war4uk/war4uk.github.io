@@ -11,6 +11,22 @@
     "Endorsements and Support for Candidates",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "A Crooked Politician!!! RT @realDonaldTrumpA Crooked Politician!!!",
+  "secondaryHighlights": [
+    {
+      "topic": "Congratulations to Ken Paxton on such a tremendous win, and to John Cornyn for having run a strong and powerful race but, more importantly, having had a truly great career.",
+      "name": "John Cornyn"
+    },
+    {
+      "topic": "Joe Biden sues DOJ to stop release of audio recordings connected to special counsel probe",
+      "name": "Joe Biden"
+    },
+    {
+      "topic": "I am pleased to announce the nomination of Matthew Byrne to serve as Judge on the U.S. District Court for the Southern District of Ohio.",
+      "name": "Matthew Byrne"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38816",
@@ -589,21 +605,6 @@
       "label": "positive",
       "rationale": "The text expresses strong support for Prime Minister Nikol Pashinyan and highlights positive developments for Armenia and the U.S., indicating a hopeful and optimistic sentiment.",
       "analyzedAt": "2026-09-05T08:31:45.777Z"
-    }
-  ],
-  "trendingTopic": "A Crooked Politician!!!",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Joe Biden sues DOJ to stop release of audio recordings connected to special counsel probe",
-      "name": "Joe Biden"
-    },
-    {
-      "topic": "I am pleased to announce the nomination of Matthew Byrne to serve as Judge on the U.S. District Court for the Southern District of Ohio.",
-      "name": "Matthew Byrne"
-    },
-    {
-      "topic": "Thank you America for this unprecedented support!!!"
     }
   ]
 }

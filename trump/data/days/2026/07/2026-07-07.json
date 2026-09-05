@@ -11,6 +11,19 @@
     "Economic Growth and Job Creation",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "The United States Military has never been stronger, or more powerful",
+  "secondaryHighlights": [
+    {
+      "topic": "ROCK STAR: Trump Returns to Mount Rushmore For America’s 250th Birthday Bash"
+    },
+    {
+      "topic": "Defying The Odds: President Trump Just Put On The Greatest Show On Earth"
+    },
+    {
+      "topic": "Trump Gives 4th of July Speech for the Ages on America’s 250th Birthday"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39865",
@@ -325,19 +338,6 @@
       "label": "positive",
       "rationale": "The text expresses gratitude and highlights a positive outcome regarding NATO's strength due to Trump's demands.",
       "analyzedAt": "2026-09-05T07:58:49.568Z"
-    }
-  ],
-  "trendingTopic": "The United States Military has never been stronger, or more powerful",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "ROCK STAR: Trump Returns to Mount Rushmore For America’s 250th Birthday Bash"
-    },
-    {
-      "topic": "Defying The Odds: President Trump Just Put On The Greatest Show On Earth"
-    },
-    {
-      "topic": "Trump Gives 4th of July Speech for the Ages on America’s 250th Birthday"
     }
   ]
 }

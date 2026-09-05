@@ -6,12 +6,23 @@
     "negative": 2
   },
   "summary": "positive:23 neutral:3 negative:2",
-  "generatedAt": "2026-09-05T08:39:32.577Z",
+  "generatedAt": "2026-09-05T19:46:12.047Z",
   "topics": [
-    "Disaster Recovery and Assistance",
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Disaster funding approvals for multiple states",
+    "Supreme Court rulings on citizenship and political spending",
+    "Support for Republican candidates in Colorado"
   ],
+  "trendingTopic": "Disaster funding approved for Georgia, Michigan, Louisiana, Wisconsin, Missouri, Idaho, Mississippi, and Kansas",
+  "secondaryHighlights": [
+    {
+      "topic": "Supreme Court upholds birthright citizenship and political spending"
+    },
+    {
+      "topic": "Support for Republican candidates Gabe Evans, Jeff Crank, and Jeff Hurd in Colorado"
+    }
+  ],
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v3:28:2f542d9052fbe0ac18cb10f0",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39624",
@@ -686,22 +697,6 @@
       "label": "positive",
       "rationale": "The announcement of funding for disaster relief in Georgia is framed positively, expressing love for the people of Georgia and gratitude for their attention.",
       "analyzedAt": "2026-09-05T08:39:32.570Z"
-    }
-  ],
-  "trendingTopic": "I am pleased to announce the nomination of Jason Manion to the United States Sentencing Commission",
-  "selfPraiseCount": 1,
-  "trendingName": "Jason Manion",
-  "secondaryHighlights": [
-    {
-      "topic": "Congressman Jeff Hurd is an incredible Representative for the Great People of Colorado’s 3rd Congressional District!",
-      "name": "Jeff Hurd"
-    },
-    {
-      "topic": "Congressman Jeff Crank is doing a truly fantastic job representing the Great People of Colorado’s 5th Congressional District!",
-      "name": "Jeff Crank"
-    },
-    {
-      "topic": "A Golden Gift to the White House for its 250th Birthday Year!"
     }
   ]
 }

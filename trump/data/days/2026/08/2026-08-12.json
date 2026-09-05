@@ -11,6 +11,21 @@
     "Endorsements and Support for Candidates",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "It is my Great Honor to endorse America First Patriot, Jon Maples, who is running to represent the fantastic people of Florida’s 87th State House District!",
+  "secondaryHighlights": [
+    {
+      "topic": "Our wonderful White House Press Secretary, and one of my most trusted aides, Karoline Leavitt, will be departing her role at the end of the month so she can spend more time with her beautiful young children and family, a decision I totally understand and respect!"
+    },
+    {
+      "topic": "Trey Gowdy wrote a GREAT new book, “THE SOUND OF REGRET,” which is flying off the shelves",
+      "name": "Trey Gowdy"
+    },
+    {
+      "topic": "Congressman Brian Mast is a MAGA Warrior and Fantastic Advocate for Florida’s 21st Congressional District!",
+      "name": "Brian Mast"
+    }
+  ],
+  "selfPraiseCount": 4,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40736",
@@ -1189,23 +1204,6 @@
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
       "analyzedAt": "2026-09-05T07:47:49.078Z"
-    }
-  ],
-  "trendingTopic": "Trey Gowdy wrote a GREAT new book, “THE SOUND OF REGRET,” which is flying off the shelves",
-  "trendingName": "Trey Gowdy",
-  "selfPraiseCount": 4,
-  "secondaryHighlights": [
-    {
-      "topic": "Congressman Brian Mast is a MAGA Warrior and Fantastic Advocate for Florida’s 21st Congressional District!",
-      "name": "Brian Mast"
-    },
-    {
-      "topic": "Greg Steube is a tremendous Representative for the Great People of Florida’s 17th Congressional District!",
-      "name": "Greg Steube"
-    },
-    {
-      "topic": "Congressman Mike Haridopolos is an America First Patriot who is doing a fantastic job representing Florida’s 8th Congressional District!",
-      "name": "Mike Haridopolos"
     }
   ]
 }

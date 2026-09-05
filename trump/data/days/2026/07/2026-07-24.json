@@ -12,6 +12,19 @@
     "Economic Growth and Job Creation",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "What a great guy, and baseball player!!!",
+  "secondaryHighlights": [
+    {
+      "topic": "Thank you Prime Minister Radev!"
+    },
+    {
+      "topic": "The European Union is at it again and, as usual, taking direct aim at GREAT American Companies!"
+    },
+    {
+      "topic": "Very good!!!"
+    }
+  ],
+  "selfPraiseCount": 1,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40226",
@@ -326,19 +339,6 @@
       "label": "positive",
       "rationale": "The text expresses strong support for Kurt Alme, describing him as a 'terrific candidate' and a 'Great American Patriot', while criticizing his opponent in a negative light.",
       "analyzedAt": "2026-09-05T08:02:17.897Z"
-    }
-  ],
-  "trendingTopic": "What a great guy, and baseball player!!!",
-  "selfPraiseCount": 1,
-  "secondaryHighlights": [
-    {
-      "topic": "Thank you Prime Minister Radev!"
-    },
-    {
-      "topic": "The European Union is at it again and, as usual, taking direct aim at GREAT American Companies!"
-    },
-    {
-      "topic": "Very good!!!"
     }
   ]
 }

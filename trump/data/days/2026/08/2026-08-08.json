@@ -11,6 +11,21 @@
     "Endorsements and Support for Candidates",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "Eric Schmitt is a STAR!!!",
+  "trendingName": "Eric Schmitt",
+  "secondaryHighlights": [
+    {
+      "topic": "MIKE DAVIS: Chuck Grassley's behind-the-scenes work proved decisive in Todd Blanche confirmation fight",
+      "name": "Chuck Grassley"
+    },
+    {
+      "topic": "Donald Trump Won The Iran War"
+    },
+    {
+      "topic": "New evidence further undermines claim that 2020 election was ‘most secure’ in history"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40641",
@@ -685,21 +700,6 @@
       "label": "neutral",
       "rationale": "The text is informational about a piece without expressing a sentiment.",
       "analyzedAt": "2026-09-05T07:47:02.991Z"
-    }
-  ],
-  "trendingTopic": "Eric Schmitt is a STAR!!!",
-  "trendingName": "Eric Schmitt",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "MIKE DAVIS: Chuck Grassley's behind-the-scenes work proved decisive in Todd Blanche confirmation fight",
-      "name": "Chuck Grassley"
-    },
-    {
-      "topic": "Donald Trump Won The Iran War"
-    },
-    {
-      "topic": "New evidence further undermines claim that 2020 election was ‘most secure’ in history"
     }
   ]
 }

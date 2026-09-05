@@ -6,12 +6,24 @@
     "negative": 3
   },
   "summary": "positive:5 neutral:7 negative:3",
-  "generatedAt": "2026-09-05T08:38:26.700Z",
+  "generatedAt": "2026-09-05T19:45:49.186Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Disaster Recovery and Assistance",
-    "Political Commentary and Controversies"
+    "Chris Klomp nominated as Deputy Secretary of HHS",
+    "Massive earthquakes in Venezuela",
+    "Senate vote on Iran"
   ],
+  "trendingTopic": "Chris Klomp nominated as Deputy Secretary of Health and Human Services",
+  "trendingName": "Chris Klomp",
+  "secondaryHighlights": [
+    {
+      "topic": "U.S. readiness to assist Venezuela after earthquakes"
+    },
+    {
+      "topic": "Senate changes vote on Iran, signaling a shift in stance"
+    }
+  ],
+  "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v3:15:7bfd06f698961d5fa30d76ca",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39517",
@@ -374,20 +386,6 @@
       "label": "positive",
       "rationale": "The text expresses a strong endorsement of Chris Klomp, highlighting his qualities as a leader and the positive impact he is expected to have on healthcare.",
       "analyzedAt": "2026-09-05T08:38:26.695Z"
-    }
-  ],
-  "trendingTopic": "It is my Great Honor to announce the nomination of Chris Klomp @1klomp as our next Deputy Secretary of Health and Human Services (HHS)!",
-  "selfPraiseCount": 0,
-  "trendingName": "Chris Klomp",
-  "secondaryHighlights": [
-    {
-      "topic": "After testy exchange, Senate hands Trump win by rejecting bill to rein in his war on Iran"
-    },
-    {
-      "topic": "The Crowd was incredible last night, packed to the brim"
-    },
-    {
-      "topic": "House Republicans should unify, and stop voting down “Rules” or, threatening to do so"
     }
   ]
 }

@@ -12,6 +12,22 @@
     "Economic Growth and Job Creation",
     "Disaster Recovery and Assistance"
   ],
+  "trendingTopic": "Christopher Maccio, the Great Opera Singer, was AMAZING at the World Cup today",
+  "trendingName": "Christopher Maccio",
+  "secondaryHighlights": [
+    {
+      "topic": "Great words of wisdom from Highly Respected James Carafano",
+      "name": "James Carafano"
+    },
+    {
+      "topic": "Benjamin Netanyahu will not be arrested, in any way, shape, or form, while in the United States of America.",
+      "name": "Benjamin Netanyahu"
+    },
+    {
+      "topic": "Every time Iran kills an American Soldier they will pay for that killing many times over!"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40146",
@@ -398,22 +414,6 @@
       "label": "positive",
       "rationale": "The text expresses a positive sentiment about a good conversation with the Prime Minister and optimism for future cooperation.",
       "analyzedAt": "2026-09-05T08:01:23.803Z"
-    }
-  ],
-  "trendingTopic": "Christopher Maccio, the Great Opera Singer, was AMAZING at the World Cup today",
-  "trendingName": "Christopher Maccio",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Great words of wisdom from Highly Respected James Carafano",
-      "name": "James Carafano"
-    },
-    {
-      "topic": "Benjamin Netanyahu will not be arrested, in any way, shape, or form, while in the United States of America.",
-      "name": "Benjamin Netanyahu"
-    },
-    {
-      "topic": "Every time Iran kills an American Soldier they will pay for that killing many times over!"
     }
   ]
 }

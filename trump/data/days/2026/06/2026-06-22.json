@@ -6,11 +6,23 @@
     "negative": 4
   },
   "summary": "positive:22 neutral:11 negative:4",
-  "generatedAt": "2026-09-05T08:37:46.948Z",
+  "generatedAt": "2026-09-05T19:45:35.409Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Endorsements for Republican candidates in New York and Michigan",
+    "Support for candidates in South Carolina and Alabama",
+    "Comments on Iran and vandalism of public property"
   ],
+  "trendingTopic": "Donald Trump endorses multiple Republican candidates ahead of primaries",
+  "secondaryHighlights": [
+    {
+      "topic": "Support for candidates in South Carolina and Alabama"
+    },
+    {
+      "topic": "Comments on Iran and vandalism of public property"
+    }
+  ],
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v3:37:c113385a4c84747b293d9953",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39420",
@@ -901,21 +913,6 @@
       "label": "positive",
       "rationale": "The endorsement of Mike LiPetri is enthusiastic and highlights his qualifications and commitment to the community, indicating a strong positive sentiment.",
       "analyzedAt": "2026-09-05T08:37:45.445Z"
-    }
-  ],
-  "trendingTopic": "It is my Great Honor to endorse",
-  "selfPraiseCount": 2,
-  "secondaryHighlights": [
-    {
-      "topic": "Everybody is fully aware that Iran will agree to have Major Weapons Inspections in order to ensure “Nuclear Honesty” long into the future."
-    },
-    {
-      "topic": "Congresswoman Nicole Malliotakis is a Tremendous Champion for New York’s 11th Congressional District!",
-      "name": "Nicole Malliotakis"
-    },
-    {
-      "topic": "Congressman Nick Langworthy is an America First Patriot, who is doing a fantastic job representing New York’s 23rd Congressional District!",
-      "name": "Nick Langworthy"
     }
   ]
 }

@@ -12,6 +12,20 @@
     "Political Commentary and Controversies",
     "Disaster Recovery and Assistance"
   ],
+  "trendingTopic": "Jared Isaacman, the Head of NASA, yesterday, at NASA Mission Control!",
+  "trendingName": "Jared Isaacman",
+  "secondaryHighlights": [
+    {
+      "topic": "Our deal with Venezuela is the biggest oil deal, by far, in World history!"
+    },
+    {
+      "topic": "Lake Ontario renamed Lake America"
+    },
+    {
+      "topic": "Trump is winning the Iran war— stay the course"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41357",
@@ -446,20 +460,6 @@
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:06:15.965Z"
-    }
-  ],
-  "trendingTopic": "Jared Isaacman, the Head of NASA, yesterday, at NASA Mission Control!",
-  "trendingName": "Jared Isaacman",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Our deal with Venezuela is the biggest oil deal, by far, in World history!"
-    },
-    {
-      "topic": "Lake Ontario renamed Lake America"
-    },
-    {
-      "topic": "Trump is winning the Iran war— stay the course"
     }
   ]
 }

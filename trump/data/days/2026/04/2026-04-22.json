@@ -11,6 +11,20 @@
     "Endorsements and Support for Candidates",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "Iran is collapsing financially!",
+  "secondaryHighlights": [
+    {
+      "topic": "Great job of explaining USA “winning” by Jim Hanson of “Middle East Forum” on Jesse Watters Primetime!",
+      "name": "Jim Hanson"
+    },
+    {
+      "topic": "Salena Zito: Trump has a way with Pennsylvania."
+    },
+    {
+      "topic": "US intel secretly flagged major 2020 election vulnerabilities, including voter data, memo"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37965",
@@ -853,20 +867,6 @@
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
       "analyzedAt": "2026-09-05T08:46:55.965Z"
-    }
-  ],
-  "trendingTopic": "Iran is collapsing financially!",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Great job of explaining USA “winning” by Jim Hanson of “Middle East Forum” on Jesse Watters Primetime!",
-      "name": "Jim Hanson"
-    },
-    {
-      "topic": "Salena Zito: Trump has a way with Pennsylvania."
-    },
-    {
-      "topic": "US intel secretly flagged major 2020 election vulnerabilities, including voter data, memo"
     }
   ]
 }

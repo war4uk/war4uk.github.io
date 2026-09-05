@@ -6,11 +6,23 @@
     "negative": 8
   },
   "summary": "positive:4 neutral:13 negative:8",
-  "generatedAt": "2026-09-05T08:33:59.851Z",
+  "generatedAt": "2026-09-05T19:44:13.434Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Approval of the Great Triumphal Arch in D.C.",
+    "Concerns over election integrity in California",
+    "Upcoming rally celebrating U.S. history"
   ],
+  "trendingTopic": "Great Triumphal Arch approved for construction at Arlington Memorial Bridge",
+  "secondaryHighlights": [
+    {
+      "topic": "Concerns over election integrity in California"
+    },
+    {
+      "topic": "Upcoming rally celebrating U.S. history"
+    }
+  ],
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v3:25:bea58143ac20d663b8746290",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39074",
@@ -613,19 +625,6 @@
       "label": "positive",
       "rationale": "The text describes an upcoming rally in enthusiastic terms, highlighting its significance and the quality of performances, which conveys a positive sentiment.",
       "analyzedAt": "2026-09-05T08:33:59.847Z"
-    }
-  ],
-  "trendingTopic": "Save America Act",
-  "selfPraiseCount": 1,
-  "secondaryHighlights": [
-    {
-      "topic": "THE SAVE AMERICA ACT!1"
-    },
-    {
-      "topic": "The Dumocrats are at it again!"
-    },
-    {
-      "topic": "There’s BIG cheating by the Dumocrats in California"
     }
   ]
 }

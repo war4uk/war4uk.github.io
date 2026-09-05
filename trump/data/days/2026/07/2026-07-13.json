@@ -11,6 +11,20 @@
     "Endorsements and Support for Candidates",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "It is my Great Honor to endorse America First Patriot, Dr. John Cowan, who is running to represent the Wonderful People of Georgia’s 11th Congressional District!",
+  "secondaryHighlights": [
+    {
+      "topic": "So sad!!! RT @realDonaldTrumpSo sad!!! President DJT"
+    },
+    {
+      "topic": "59% Approval Rating"
+    },
+    {
+      "topic": "In honor of Senator Lindsey Graham, a big supporter, the U.S. Senate should pass the Clarity Act",
+      "name": "Lindsey Graham"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39966",
@@ -1237,20 +1251,6 @@
       "label": "neutral",
       "rationale": "The text is a neutral statement about Lindsey Graham without expressing a clear positive or negative sentiment.",
       "analyzedAt": "2026-09-05T07:59:59.750Z"
-    }
-  ],
-  "trendingTopic": "It is my Great Honor to endorse",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "So sad!!! RT @realDonaldTrumpSo sad!!! President DJT"
-    },
-    {
-      "topic": "59% Approval Rating"
-    },
-    {
-      "topic": "In honor of Senator Lindsey Graham, a big supporter, the U.S. Senate should pass the Clarity Act",
-      "name": "Lindsey Graham"
     }
   ]
 }

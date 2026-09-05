@@ -6,11 +6,23 @@
     "negative": 7
   },
   "summary": "positive:5 neutral:24 negative:7",
-  "generatedAt": "2026-09-05T08:38:15.945Z",
+  "generatedAt": "2026-09-05T19:45:44.474Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "SAVE AMERICA ACT cancellation",
+    "Trump's poll numbers surge",
+    "Primary election results"
   ],
+  "trendingTopic": "President Trump cancels Housing News Conference until SAVE AMERICA ACT is passed",
+  "secondaryHighlights": [
+    {
+      "topic": "Trump claims record high poll numbers"
+    },
+    {
+      "topic": "Trump celebrates primary election victories and criticizes opponents"
+    }
+  ],
+  "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v3:36:7f233972d823f59c3b24ef1a",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39482",
@@ -877,19 +889,6 @@
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
       "analyzedAt": "2026-09-05T08:38:15.940Z"
-    }
-  ],
-  "trendingTopic": "Many Communists running in badly failing Blue States",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "America the Beautiful will NEVER be a Communist Country!!!"
-    },
-    {
-      "topic": "Big Rally tonight on the National Mall"
-    },
-    {
-      "topic": "MY REAL POLL NUMBERS ARE THE HIGHEST THEY HAVE EVER BEEN. THANK YOU!!! President DJT"
     }
   ]
 }

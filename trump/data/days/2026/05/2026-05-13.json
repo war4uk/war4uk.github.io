@@ -11,6 +11,13 @@
     "Economic Growth and Job Creation",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "CNBC incorrectly reported that the Great Jensen Huang, of Nvidia, was not invited to the incredible gathering of the World’s Greatest Businessmen/women proudly going to China.",
+  "secondaryHighlights": [
+    {
+      "topic": "Save America Act"
+    }
+  ],
+  "selfPraiseCount": 3,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38436",
@@ -398,7 +405,5 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:28:21.503Z"
     }
-  ],
-  "trendingTopic": "Save America Act",
-  "selfPraiseCount": 3
+  ]
 }

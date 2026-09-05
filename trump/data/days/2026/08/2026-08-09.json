@@ -12,6 +12,19 @@
     "Economic Growth and Job Creation",
     "Endorsements and Support for Candidates"
   ],
+  "trendingTopic": "EXCLUSIVE: White House Launches Fraud Website To Highlight Successes Of Task Force",
+  "secondaryHighlights": [
+    {
+      "topic": "Jobless Claims Remain Below 200,000 For Third Straight Week—First Time in 57 Years"
+    },
+    {
+      "topic": "Trump's Vegas Visit Hammers Tax Wins"
+    },
+    {
+      "topic": "Gary Player at Trump Turnberry!"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40668",
@@ -782,19 +795,6 @@
       "label": "neutral",
       "rationale": "The text presents information about a migration control operation without expressing a clear positive or negative sentiment.",
       "analyzedAt": "2026-09-05T07:47:16.066Z"
-    }
-  ],
-  "trendingTopic": "EXCLUSIVE: White House Launches Fraud Website To Highlight Successes Of Task Force",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Jobless Claims Remain Below 200,000 For Third Straight Week—First Time in 57 Years"
-    },
-    {
-      "topic": "Trump's Vegas Visit Hammers Tax Wins"
-    },
-    {
-      "topic": "Gary Player at Trump Turnberry!"
     }
   ]
 }

@@ -10,6 +10,8 @@
   "topics": [
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "Alaska removes thousands from state’s active voter list, erroneously flagging some citizens",
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40238",
@@ -85,7 +87,5 @@
       "rationale": "The text contains no content to express any sentiment.",
       "analyzedAt": "2026-09-05T08:02:23.684Z"
     }
-  ],
-  "selfPraiseCount": 0,
-  "trendingTopic": "Alaska removes thousands from state’s active voter list, erroneously flagging some citizens"
+  ]
 }

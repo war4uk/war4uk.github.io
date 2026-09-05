@@ -12,6 +12,19 @@
     "Endorsements and Support for Candidates",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "UAW: 'Strategic' Tariffs Prompt Industry Hiring Surge",
+  "secondaryHighlights": [
+    {
+      "topic": "US steel production exceeds Japan's for first time in 26 years"
+    },
+    {
+      "topic": "FIRST ON FOX: Trump to open direct line with military families in ground-up readiness push"
+    },
+    {
+      "topic": "American Manufacturing Expands At Fastest Pace Since 2022"
+    }
+  ],
+  "selfPraiseCount": 3,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40512",
@@ -1070,19 +1083,6 @@
       "label": "positive",
       "rationale": "The text congratulates Brandon Beach and praises his contributions, indicating a positive sentiment.",
       "analyzedAt": "2026-09-05T07:46:12.630Z"
-    }
-  ],
-  "trendingTopic": "UAW: 'Strategic' Tariffs Prompt Industry Hiring Surge",
-  "selfPraiseCount": 3,
-  "secondaryHighlights": [
-    {
-      "topic": "US steel production exceeds Japan's for first time in 26 years"
-    },
-    {
-      "topic": "FIRST ON FOX: Trump to open direct line with military families in ground-up readiness push"
-    },
-    {
-      "topic": "American Manufacturing Expands At Fastest Pace Since 2022"
     }
   ]
 }

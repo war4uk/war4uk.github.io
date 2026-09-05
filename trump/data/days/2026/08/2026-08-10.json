@@ -11,6 +11,23 @@
     "Endorsements and Support for Candidates",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "It is my Great Honor to endorse MAGA Warrior, Michael Alfonso, a young “STAR” who is running to represent the incredible people of Wisconsin’s 7th Congressional District.",
+  "trendingName": "Michael Alfonso",
+  "secondaryHighlights": [
+    {
+      "topic": "Congressman Pete Stauber is doing a fantastic job representing the wonderful people of Minnesota’s 8th Congressional District!",
+      "name": "Pete Stauber"
+    },
+    {
+      "topic": "Congressman Tom Emmer is an America First Patriot who is a fantastic Champion for Minnesota’s 6th Congressional District!",
+      "name": "Tom Emmer"
+    },
+    {
+      "topic": "Highly Respected America First Congressman, Tom Tiffany, is running to be the next Governor of the GREAT State of Wisconsin, a very special place to me in that we had a BIG Presidential Election Win on November 5, 2024!",
+      "name": "Tom Tiffany"
+    }
+  ],
+  "selfPraiseCount": 4,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40700",
@@ -517,22 +534,6 @@
       "label": "positive",
       "rationale": "The text praises Congressman Tom Emmer as a 'fantastic Champion' and highlights his efforts in Congress, culminating in a strong endorsement for his re-election.",
       "analyzedAt": "2026-09-05T07:47:28.624Z"
-    }
-  ],
-  "trendingTopic": "It is my Great Honor to endorse",
-  "selfPraiseCount": 4,
-  "trendingName": "Michael Alfonso",
-  "secondaryHighlights": [
-    {
-      "topic": "Congressman Pete Stauber is doing a fantastic job representing the wonderful people of Minnesota’s 8th Congressional District!",
-      "name": "Pete Stauber"
-    },
-    {
-      "topic": "Congressman Tom Emmer is an America First Patriot who is a fantastic Champion for Minnesota’s 6th Congressional District!",
-      "name": "Tom Emmer"
-    },
-    {
-      "topic": "Congressman Bryan Steil is a Tremendous Advocate for the Wonderful People of Wisconsin’s 1st Congressional District!"
     }
   ]
 }

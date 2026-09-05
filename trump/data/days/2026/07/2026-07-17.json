@@ -12,6 +12,19 @@
     "Endorsements and Support for Candidates",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "Great reviews on speech last night",
+  "secondaryHighlights": [
+    {
+      "topic": "Election integrity documents are available for review here"
+    },
+    {
+      "topic": "For decades, horrible politicians allowed our Industrial Base to move overseas"
+    },
+    {
+      "topic": "BIG WIN in Court for the American People!"
+    }
+  ],
+  "selfPraiseCount": 1,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40089",
@@ -326,19 +339,6 @@
       "label": "positive",
       "rationale": "The text expresses optimism about economic improvements and achievements, highlighting positive statistics and a sense of pride.",
       "analyzedAt": "2026-09-05T08:00:48.781Z"
-    }
-  ],
-  "trendingTopic": "Great reviews on speech last night",
-  "selfPraiseCount": 1,
-  "secondaryHighlights": [
-    {
-      "topic": "Election integrity documents are available for review here"
-    },
-    {
-      "topic": "For decades, horrible politicians allowed our Industrial Base to move overseas"
-    },
-    {
-      "topic": "BIG WIN in Court for the American People!"
     }
   ]
 }

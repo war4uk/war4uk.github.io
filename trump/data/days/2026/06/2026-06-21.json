@@ -6,12 +6,23 @@
     "negative": 8
   },
   "summary": "positive:2 neutral:4 negative:8",
-  "generatedAt": "2026-09-05T08:37:28.268Z",
+  "generatedAt": "2026-09-05T19:45:30.453Z",
   "topics": [
-    "Political Commentary and Controversies",
-    "Disaster Recovery and Assistance",
-    "Economic Growth and Job Creation"
+    "Criticism of New York Times coverage of Iran",
+    "Vandalism of the Reflecting Pool",
+    "Keir Starmer's resignation as UK Prime Minister"
   ],
+  "trendingTopic": "President Trump criticizes New York Times for misleading coverage of Iran's situation",
+  "secondaryHighlights": [
+    {
+      "topic": "Immediate repairs planned for vandalized Reflecting Pool"
+    },
+    {
+      "topic": "Keir Starmer resigns as Prime Minister over immigration and energy issues"
+    }
+  ],
+  "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v3:14:f0f530f8c726e109c8d7152a",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39406",
@@ -350,20 +361,6 @@
       "label": "negative",
       "rationale": "The text expresses strong negative sentiments towards the New York Times, calling them 'Corrupt and Failing' and accusing them of treasonous behavior.",
       "analyzedAt": "2026-09-05T08:37:28.265Z"
-    }
-  ],
-  "trendingTopic": "Keir Starmer will resign as Prime Minister of The United Kingdom",
-  "trendingName": "Keir Starmer",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Lots of Killing going on in Chicago. 22 people shot, at least 4 Dead"
-    },
-    {
-      "topic": "Iran must immediately stop their highly paid PROXIES in Lebanon from causing trouble"
-    },
-    {
-      "topic": "Work will begin immediately on fixing the seriously vandalized Reflecting Pool"
     }
   ]
 }

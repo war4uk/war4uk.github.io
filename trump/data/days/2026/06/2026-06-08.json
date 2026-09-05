@@ -6,12 +6,23 @@
     "negative": 8
   },
   "summary": "positive:19 neutral:3 negative:8",
-  "generatedAt": "2026-09-05T08:34:51.396Z",
+  "generatedAt": "2026-09-05T19:44:31.498Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies",
-    "Disaster Recovery and Assistance"
+    "Endorsements for South Carolina candidates",
+    "Concerns over election integrity",
+    "Support for voter ID laws in Ohio"
   ],
+  "trendingTopic": "Trump endorses multiple candidates in South Carolina ahead of elections",
+  "secondaryHighlights": [
+    {
+      "topic": "Trump expresses concerns about election integrity in California"
+    },
+    {
+      "topic": "Ohio Senate passes voter ID resolution with Trump's support"
+    }
+  ],
+  "selfPraiseCount": 6,
+  "topicsCacheKey": "day-themes-v3:30:dfe40d204b47e878d4605061",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39135",
@@ -734,21 +745,6 @@
       "label": "positive",
       "rationale": "The endorsement of Wes Climer is enthusiastic, praising his dedication and capabilities, and encourages support for his candidacy.",
       "analyzedAt": "2026-09-05T08:34:46.899Z"
-    }
-  ],
-  "trendingTopic": "It is my Great Honor to endorse",
-  "selfPraiseCount": 6,
-  "trendingName": "David Flippo",
-  "secondaryHighlights": [
-    {
-      "topic": "Congressman William Timmons is doing a truly fantastic job representing the wonderful people of South Carolina’s 4th Congressional District!",
-      "name": "William Timmons"
-    },
-    {
-      "topic": "Has anybody been watching the CROOKED Election going on in California"
-    },
-    {
-      "topic": "No way this could have happened"
     }
   ]
 }

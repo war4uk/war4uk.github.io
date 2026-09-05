@@ -12,6 +12,21 @@
     "Endorsements and Support for Candidates",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "Prime Minister Bibi Netanyahu of Israel, along with myself and Representatives.",
+  "trendingName": "Bibi Netanyahu",
+  "secondaryHighlights": [
+    {
+      "topic": "Many more people died of Covid under the Biden Administration than under the Trump Administration",
+      "name": "Joe Biden"
+    },
+    {
+      "topic": "Great Honor to meet with President Zelenskyy of Ukraine."
+    },
+    {
+      "topic": "Fauci told everyone he was a great basketball player, so I assumed that he would be easily able to throw a ball to Home Plate."
+    }
+  ],
+  "selfPraiseCount": 1,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40386",
@@ -230,21 +245,6 @@
       "label": "positive",
       "rationale": "The text highlights the profitability of the Export-Import Bank and its positive impact on American jobs and innovation, indicating a favorable sentiment.",
       "analyzedAt": "2026-09-05T08:03:26.962Z"
-    }
-  ],
-  "trendingTopic": "Prime Minister Bibi Netanyahu of Israel, along with myself and Representatives.",
-  "selfPraiseCount": 1,
-  "trendingName": "Bibi Netanyahu",
-  "secondaryHighlights": [
-    {
-      "topic": "Many more people died of Covid under the Biden Administration than under the Trump Administration",
-      "name": "Joe Biden"
-    },
-    {
-      "topic": "Great Honor to meet with President Zelenskyy of Ukraine."
-    },
-    {
-      "topic": "Fauci told everyone he was a great basketball player, so I assumed that he would be easily able to throw a ball to Home Plate."
     }
   ]
 }

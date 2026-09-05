@@ -12,6 +12,21 @@
     "Political Commentary and Controversies",
     "Economic Growth and Job Creation"
   ],
+  "trendingTopic": "Senator Dan Sullivan is doing a fantastic job representing the Great State of Alaska!",
+  "trendingName": "Dan Sullivan",
+  "secondaryHighlights": [
+    {
+      "topic": "I am proud to announce that Kevin Rideout, a wonderful Christian Missionary, is back in United States Custody",
+      "name": "Kevin Rideout"
+    },
+    {
+      "topic": "Bessent to Newsmax: US to Hit Iran With Unprecedented Economic Isolation"
+    },
+    {
+      "topic": "Our beautiful World War II Memorial was just hit by Spray Painting Vandals"
+    }
+  ],
+  "selfPraiseCount": 3,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40815",
@@ -398,21 +413,6 @@
       "label": "positive",
       "rationale": "The text praises Senator Dan Sullivan's performance and contributions to Alaska, emphasizing his positive impact and endorsing him for re-election.",
       "analyzedAt": "2026-09-05T07:48:23.432Z"
-    }
-  ],
-  "trendingTopic": "Senator Dan Sullivan is doing a fantastic job representing the Great State of Alaska!",
-  "trendingName": "Dan Sullivan",
-  "selfPraiseCount": 3,
-  "secondaryHighlights": [
-    {
-      "topic": "I am proud to announce that Kevin Rideout, a wonderful Christian Missionary, is back in United States Custody",
-      "name": "Kevin Rideout"
-    },
-    {
-      "topic": "Bessent to Newsmax: US to Hit Iran With Unprecedented Economic Isolation"
-    },
-    {
-      "topic": "Our beautiful World War II Memorial was just hit by Spray Painting Vandals"
     }
   ]
 }

@@ -11,6 +11,18 @@
     "Endorsements and Support for Candidates",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "Thank you to Ben Domenech, for all of the great things he has been saying",
+  "secondaryHighlights": [
+    {
+      "topic": "In honor of the remarkable life and achievements of Senator Lindsey Graham, a dear friend of mine, and a truly great man, who achieved so much for our Country, and his beloved Home State of South Carolina, I am ordering all American Flags throughout the United States lowered to Half Mast until Saturday evening at 6 P.M. GOD BLESS YOU LINDSEY!",
+      "name": "Lindsey Graham"
+    },
+    {
+      "topic": "Senator Lindsey Graham, one of the greatest people and Senators I have ever known, is dead!",
+      "name": "Lindsey Graham"
+    }
+  ],
+  "selfPraiseCount": 1,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39956",
@@ -253,14 +265,6 @@
       "label": "neutral",
       "rationale": "The text is a link to a YouTube video without any sentiment expressed.",
       "analyzedAt": "2026-09-05T07:59:40.268Z"
-    }
-  ],
-  "trendingTopic": "Thank you to Ben Domenech, for all of the great things he has been saying",
-  "selfPraiseCount": 1,
-  "secondaryHighlights": [
-    {
-      "topic": "Senator Lindsey Graham, one of the greatest people and Senators I have ever known, is dead!",
-      "name": "Lindsey Graham"
     }
   ]
 }

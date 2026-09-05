@@ -12,6 +12,20 @@
     "Economic Growth and Job Creation",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "Top DOJ official predicts Supreme Court will declare AR-15 rifles legal everywhere in America",
+  "secondaryHighlights": [
+    {
+      "topic": "Ted Turner, one of the Greats of All Time, just died",
+      "name": "Ted Turner"
+    },
+    {
+      "topic": "The White House Ballroom is going up rapidly on the East side of the White House"
+    },
+    {
+      "topic": "Trump’s new culture of government reform delivers more life-saving benefits to veterans"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38227",
@@ -902,20 +916,6 @@
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:26:48.739Z"
-    }
-  ],
-  "trendingTopic": "Top DOJ official predicts Supreme Court will declare AR-15 rifles legal everywhere in America",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Ted Turner, one of the Greats of All Time, just died",
-      "name": "Ted Turner"
-    },
-    {
-      "topic": "The White House Ballroom is going up rapidly on the East side of the White House"
-    },
-    {
-      "topic": "Trump’s new culture of government reform delivers more life-saving benefits to veterans"
     }
   ]
 }

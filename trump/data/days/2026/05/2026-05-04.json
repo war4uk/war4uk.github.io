@@ -12,6 +12,20 @@
     "Economic Growth and Job Creation",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "I am proud to once again endorse Texas Lieutenant Governor, Dan Patrick, for Re-Election",
+  "trendingName": "Dan Patrick",
+  "secondaryHighlights": [
+    {
+      "topic": "TERMINATE THE FILIBUSTER, AND WIN!!! President DJT"
+    },
+    {
+      "topic": "Rent Check Test: How Trump's Policy Shift Is Easing Home Prices"
+    },
+    {
+      "topic": "Kennedy Center Rep to Newsmax: Previous Management Ran Facility Into Ground"
+    }
+  ],
+  "selfPraiseCount": 1,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38158",
@@ -830,20 +844,6 @@
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:26:21.322Z"
-    }
-  ],
-  "trendingTopic": "I am proud to once again endorse Texas Lieutenant Governor, Dan Patrick, for Re-Election",
-  "trendingName": "Dan Patrick",
-  "selfPraiseCount": 1,
-  "secondaryHighlights": [
-    {
-      "topic": "TERMINATE THE FILIBUSTER, AND WIN!!! President DJT"
-    },
-    {
-      "topic": "Rent Check Test: How Trump's Policy Shift Is Easing Home Prices"
-    },
-    {
-      "topic": "Kennedy Center Rep to Newsmax: Previous Management Ran Facility Into Ground"
     }
   ]
 }

@@ -12,6 +12,22 @@
     "Political Commentary and Controversies",
     "Disaster Recovery and Assistance"
   ],
+  "trendingTopic": "The Reflecting Pool between the Lincoln Memorial and the Washington Monument, approximately 2,030 feet, versus the tallest buildings in the U.S.A. Obama and Biden spent more than 100 Million Dollars trying to fix it.",
+  "secondaryHighlights": [
+    {
+      "topic": "John Solomon unpacks a bombshell revelation about James Comey",
+      "name": "John Solomon"
+    },
+    {
+      "topic": "Senator Bill Cassidy of Louisiana is a disloyal disaster",
+      "name": "Bill Cassidy"
+    },
+    {
+      "topic": "Is anyone interested in running against Weak Minded Lauren Boebert in Colorado’s Fourth Congressional District?",
+      "name": "Lauren Boebert"
+    }
+  ],
+  "selfPraiseCount": 2,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38465",
@@ -1454,22 +1470,6 @@
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:28:58.534Z"
-    }
-  ],
-  "trendingTopic": "John Solomon unpacks a bombshell revelation about James Comey",
-  "trendingName": "John Solomon",
-  "selfPraiseCount": 2,
-  "secondaryHighlights": [
-    {
-      "topic": "Senator Bill Cassidy of Louisiana is a disloyal disaster",
-      "name": "Bill Cassidy"
-    },
-    {
-      "topic": "Is anyone interested in running against Weak Minded Lauren Boebert in Colorado’s Fourth Congressional District?",
-      "name": "Lauren Boebert"
-    },
-    {
-      "topic": "One Nation Under Fraud: Trump administration uncovers massive welfare, citizenship abuses"
     }
   ]
 }

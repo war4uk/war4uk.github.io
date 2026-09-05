@@ -12,6 +12,19 @@
     "Endorsements and Support for Candidates",
     "Disaster Recovery and Assistance"
   ],
+  "trendingTopic": "Will be interviewed tomorrow morning by Maria B. FoxBusiness",
+  "secondaryHighlights": [
+    {
+      "topic": "NATO wasn’t there for us, and they won’t be there for us in the future!"
+    },
+    {
+      "topic": "Trump could move to expunge 2019 impeachment after release of bombshell evidence"
+    },
+    {
+      "topic": "Biden administration weaponized law to infringe rights of pro-life activists, DOJ says"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37771",
@@ -494,19 +507,6 @@
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:45:10.045Z"
-    }
-  ],
-  "trendingTopic": "Will be interviewed tomorrow morning by Maria B. FoxBusiness",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "NATO wasn’t there for us, and they won’t be there for us in the future!"
-    },
-    {
-      "topic": "Trump could move to expunge 2019 impeachment after release of bombshell evidence"
-    },
-    {
-      "topic": "Biden administration weaponized law to infringe rights of pro-life activists, DOJ says"
     }
   ]
 }

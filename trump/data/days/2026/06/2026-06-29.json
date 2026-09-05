@@ -6,12 +6,23 @@
     "negative": 3
   },
   "summary": "positive:9 neutral:13 negative:3",
-  "generatedAt": "2026-09-05T08:39:16.634Z",
+  "generatedAt": "2026-09-05T19:46:07.660Z",
   "topics": [
-    "Economic Growth and Job Creation",
-    "Political Commentary and Controversies",
-    "Disaster Recovery and Assistance"
+    "Gas prices must drop immediately",
+    "Supreme Court rulings increase presidential power",
+    "Nomination of Keith E. Sonderling as Labor Secretary"
   ],
+  "trendingTopic": "Gasoline retailers urged to lower prices as oil costs decline",
+  "secondaryHighlights": [
+    {
+      "topic": "Supreme Court ruling enhances presidential authority"
+    },
+    {
+      "topic": "Keith E. Sonderling nominated as permanent Labor Secretary"
+    }
+  ],
+  "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v3:25:1c7c99ce0c38871afe944abe",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39600",
@@ -614,19 +625,6 @@
       "label": "negative",
       "rationale": "The text expresses frustration over high gasoline prices and heavy taxes, indicating a negative sentiment towards retailers and government actions.",
       "analyzedAt": "2026-09-05T08:39:16.630Z"
-    }
-  ],
-  "trendingTopic": "Great painting!! President DJT",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Highest Poll Numbers Ever"
-    },
-    {
-      "topic": "GAS PRICES COMING DOWN, FAST! REPORT ANY ABUSES AT RETAIL LEVEL!!! President DJT"
-    },
-    {
-      "topic": "WTI CRUDE - $69, and heading down"
     }
   ]
 }

@@ -6,11 +6,19 @@
     "negative": 2
   },
   "summary": "positive:3 neutral:1 negative:2",
-  "generatedAt": "2026-09-05T08:32:59.395Z",
+  "generatedAt": "2026-09-05T19:43:59.898Z",
   "topics": [
-    "Disaster Recovery and Assistance",
-    "Political Commentary and Controversies"
+    "Israel and Hezbollah ceasefire agreement",
+    "Ongoing negotiations with Iran"
   ],
+  "trendingTopic": "Israel and Hezbollah agree to ceasefire after talks facilitated by Donald Trump",
+  "secondaryHighlights": [
+    {
+      "topic": "Iran expresses desire for a favorable deal"
+    }
+  ],
+  "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v3:6:67d46114aabc0cc7163690f6",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38975",
@@ -157,20 +165,6 @@
       "label": "positive",
       "rationale": "The text expresses gratitude towards Bibi Netanyahu for turning troops around and mentions a hopeful outcome for peace, indicating a positive sentiment.",
       "analyzedAt": "2026-09-05T08:32:59.392Z"
-    }
-  ],
-  "trendingTopic": "I had a conversation with Bibi Netanyahu today, asking him not to go into a major raid of Beirut, Lebanon",
-  "selfPraiseCount": 0,
-  "trendingName": "Bibi Netanyahu",
-  "secondaryHighlights": [
-    {
-      "topic": "Has anyone ever seen a happy Dumocrat???"
-    },
-    {
-      "topic": "Talks are continuing, at a rapid pace, with the Islamic Republic of Iran."
-    },
-    {
-      "topic": "Iran really wants to make a deal, and it will be a good one for the U.S.A. and those that are with us"
     }
   ]
 }

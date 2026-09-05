@@ -12,6 +12,22 @@
     "Economic Growth and Job Creation",
     "Endorsements and Support for Candidates"
   ],
+  "trendingTopic": "Secretary Sean Duffy: My job is to get my daughter into heaven, not Harvard",
+  "trendingName": "Sean Duffy",
+  "secondaryHighlights": [
+    {
+      "topic": "Gavin Newsom hails Trump Accounts as ‘best’ thing the prez has ever done in rare lovefest",
+      "name": "Gavin Newsom"
+    },
+    {
+      "topic": "Donald Trump, Dave McCormick, and Jamie Dimon unveil a massive manufacturing push in Pennsylvania",
+      "name": "Jamie Dimon"
+    },
+    {
+      "topic": "Lake Ontario renamed Lake America"
+    }
+  ],
+  "selfPraiseCount": 2,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41181",
@@ -758,22 +774,6 @@
       "label": "negative",
       "rationale": "The text expresses sadness over the passing of Dolly Parton, indicating a loss felt by many.",
       "analyzedAt": "2026-09-05T07:51:22.035Z"
-    }
-  ],
-  "trendingTopic": "Secretary Sean Duffy: My job is to get my daughter into heaven, not Harvard",
-  "trendingName": "Sean Duffy",
-  "selfPraiseCount": 2,
-  "secondaryHighlights": [
-    {
-      "topic": "Gavin Newsom hails Trump Accounts as ‘best’ thing the prez has ever done in rare lovefest",
-      "name": "Gavin Newsom"
-    },
-    {
-      "topic": "Donald Trump, Dave McCormick, and Jamie Dimon unveil a massive manufacturing push in Pennsylvania",
-      "name": "Jamie Dimon"
-    },
-    {
-      "topic": "Lake Ontario renamed Lake America"
     }
   ]
 }

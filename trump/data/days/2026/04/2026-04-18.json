@@ -11,6 +11,19 @@
     "Political Commentary and Controversies",
     "Economic Growth and Job Creation"
   ],
+  "trendingTopic": "'Charlie's voice is not silenced, it's roaring'",
+  "secondaryHighlights": [
+    {
+      "topic": "Trump: Tax Deductions Deliver 'Biggest Refunds' for Tipped Workers"
+    },
+    {
+      "topic": "Trump: Policies Like No Tax on Tips, Overtime Show GOP Is Party of Working Class"
+    },
+    {
+      "topic": "Trump touts ‘historic’ $300B Texas refinery as first new US plant in nearly 50 years"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37850",
@@ -949,19 +962,6 @@
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:45:55.061Z"
-    }
-  ],
-  "trendingTopic": "'Charlie's voice is not silenced, it's roaring'",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Trump: Tax Deductions Deliver 'Biggest Refunds' for Tipped Workers"
-    },
-    {
-      "topic": "Trump: Policies Like No Tax on Tips, Overtime Show GOP Is Party of Working Class"
-    },
-    {
-      "topic": "Trump touts ‘historic’ $300B Texas refinery as first new US plant in nearly 50 years"
     }
   ]
 }

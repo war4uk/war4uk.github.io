@@ -11,6 +11,17 @@
     "Political Commentary and Controversies",
     "Endorsements and Support for Candidates"
   ],
+  "trendingTopic": "Congratulations to John Swinney on winning his Re-Election for First Minister of Scotland.",
+  "trendingName": "John Swinney",
+  "secondaryHighlights": [
+    {
+      "topic": "FBI searches Fulton County election hub in criminal probe of 2020 election"
+    },
+    {
+      "topic": "Very important"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38284",
@@ -469,17 +480,6 @@
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:27:18.137Z"
-    }
-  ],
-  "trendingTopic": "Congratulations to John Swinney on winning his Re-Election for First Minister of Scotland.",
-  "selfPraiseCount": 0,
-  "trendingName": "John Swinney",
-  "secondaryHighlights": [
-    {
-      "topic": "FBI searches Fulton County election hub in criminal probe of 2020 election"
-    },
-    {
-      "topic": "Very important"
     }
   ]
 }

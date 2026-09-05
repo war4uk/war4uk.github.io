@@ -11,6 +11,17 @@
     "Endorsements and Support for Candidates",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "Congratulations to Alexander Kolodin for his great win in Arizona’s race for Secretary of State.",
+  "trendingName": "Alexander Kolodin",
+  "secondaryHighlights": [
+    {
+      "topic": "The all Republican Senators!"
+    },
+    {
+      "topic": "Thank you to Highly Respected Mohammed VI, the King of Morocco — Such a Great Honor!"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40241",
@@ -1405,17 +1416,6 @@
       "label": "neutral",
       "rationale": "The text is empty.",
       "analyzedAt": "2026-09-05T08:02:41.695Z"
-    }
-  ],
-  "trendingTopic": "Congratulations to Alexander Kolodin for his great win in Arizona’s race for Secretary of State.",
-  "selfPraiseCount": 0,
-  "trendingName": "Alexander Kolodin",
-  "secondaryHighlights": [
-    {
-      "topic": "The all Republican Senators!"
-    },
-    {
-      "topic": "Thank you to Highly Respected Mohammed VI, the King of Morocco — Such a Great Honor!"
     }
   ]
 }

@@ -12,6 +12,22 @@
     "Economic Growth and Job Creation",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "Maria Bartiromo is FANTASTIC!!!",
+  "trendingName": "Maria Bartiromo",
+  "secondaryHighlights": [
+    {
+      "topic": "Trump donates $1 million to Mike Johnson for recordbreaking fundraiser",
+      "name": "Mike Johnson"
+    },
+    {
+      "topic": "Trump says he stopped California from rigging the gubernatorial race against Steve Hilton",
+      "name": "Steve Hilton"
+    },
+    {
+      "topic": "Exclusive: Israel's Foreign Minister Saar Praises Trump, Remarkable Leadership"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40019",
@@ -950,22 +966,6 @@
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:00:20.313Z"
-    }
-  ],
-  "trendingTopic": "Maria Bartiromo is FANTASTIC!!!",
-  "trendingName": "Maria Bartiromo",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Trump donates $1 million to Mike Johnson for recordbreaking fundraiser",
-      "name": "Mike Johnson"
-    },
-    {
-      "topic": "Trump says he stopped California from rigging the gubernatorial race against Steve Hilton",
-      "name": "Steve Hilton"
-    },
-    {
-      "topic": "Exclusive: Israel's Foreign Minister Saar Praises Trump, Remarkable Leadership"
     }
   ]
 }

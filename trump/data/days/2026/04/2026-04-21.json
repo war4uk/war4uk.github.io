@@ -12,6 +12,19 @@
     "Endorsements and Support for Candidates",
     "Economic Growth and Job Creation"
   ],
+  "trendingTopic": "Thank you to Senator Rick Scott",
+  "secondaryHighlights": [
+    {
+      "topic": "Trump Economy: Retail sales and housing suggest a resilient consumer"
+    },
+    {
+      "topic": "Trump’s historic rating with seniors boosted by tax deductions"
+    },
+    {
+      "topic": "Iran has Violated the Cease Fire numerous times!"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37948",
@@ -422,19 +435,6 @@
       "label": "negative",
       "rationale": "The text expresses strong criticism of The Wall Street Journal and its editorial board, using derogatory terms like 'IDIOT' and 'MORON', indicating a negative sentiment.",
       "analyzedAt": "2026-09-05T08:46:37.906Z"
-    }
-  ],
-  "trendingTopic": "Thank you to Senator Rick Scott",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Trump Economy: Retail sales and housing suggest a resilient consumer"
-    },
-    {
-      "topic": "Trump’s historic rating with seniors boosted by tax deductions"
-    },
-    {
-      "topic": "Iran has Violated the Cease Fire numerous times!"
     }
   ]
 }

@@ -6,11 +6,23 @@
     "negative": 8
   },
   "summary": "positive:4 neutral:17 negative:8",
-  "generatedAt": "2026-09-05T08:37:05.248Z",
+  "generatedAt": "2026-09-05T19:45:21.325Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Trump endorses Pam Evette and Alan Wilson for South Carolina Governor",
+    "Lindsey Graham receives Trump's endorsement for re-election",
+    "Trump criticizes Iran and the Democrats"
   ],
+  "trendingTopic": "Trump endorses both Pam Evette and Alan Wilson in South Carolina Governor runoff",
+  "secondaryHighlights": [
+    {
+      "topic": "Lindsey Graham endorsed by Trump for Senate re-election"
+    },
+    {
+      "topic": "Trump attacks Iran and Democrats over recent events"
+    }
+  ],
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v3:29:79ee14452f76e6bd50c36bca",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39356",
@@ -709,19 +721,6 @@
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:37:05.243Z"
-    }
-  ],
-  "trendingTopic": "The War has diminished Iran!",
-  "selfPraiseCount": 1,
-  "secondaryHighlights": [
-    {
-      "topic": "We didn’t meet out of desperation, Iran did"
-    },
-    {
-      "topic": "The Dumocrats are better at one thing than the Republicans"
-    },
-    {
-      "topic": "Very popular agreement, except for the Fake News and their partner, the Dumocrats!"
     }
   ]
 }

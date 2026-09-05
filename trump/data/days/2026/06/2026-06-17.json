@@ -6,12 +6,24 @@
     "negative": 1
   },
   "summary": "positive:7 neutral:12 negative:1",
-  "generatedAt": "2026-09-05T08:36:34.302Z",
+  "generatedAt": "2026-09-05T19:45:12.254Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Economic Growth and Job Creation",
-    "Political Commentary and Controversies"
+    "Mark Tedford endorsed for Oklahoma's 1st Congressional District",
+    "Rick Jackson wins Georgia Governor race",
+    "Trump's successful European trip and economic updates"
   ],
+  "trendingTopic": "Mark Tedford receives full endorsement from Trump for Oklahoma's 1st Congressional District",
+  "secondaryHighlights": [
+    {
+      "topic": "Rick Jackson wins Georgia Governor race with Trump support",
+      "name": "Rick Jackson"
+    },
+    {
+      "topic": "Trump reports success in Europe and positive U.S. economic indicators"
+    }
+  ],
+  "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v3:20:063788b684dc74c61ec2f929",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39310",
@@ -494,19 +506,6 @@
       "label": "positive",
       "rationale": "The text expresses appreciation for Jackson Lahmeyer's hard work and endorses Mark Tedford positively, highlighting his qualities and commitment.",
       "analyzedAt": "2026-09-05T08:36:34.298Z"
-    }
-  ],
-  "trendingTopic": "I HAD A LOT OF BIG ELECTION WINS LAST NIGHT. THANK YOU TO ALL!!! President DJT",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Rick Jackson ran a great TRUMP Campaign"
-    },
-    {
-      "topic": "So happy for highly respected Congressman Mike Collins"
-    },
-    {
-      "topic": "Jesse Watters: Trump knows when you run the room, you set the volume"
     }
   ]
 }

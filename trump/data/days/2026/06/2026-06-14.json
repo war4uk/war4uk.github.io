@@ -6,12 +6,23 @@
     "negative": 4
   },
   "summary": "positive:6 neutral:3 negative:4",
-  "generatedAt": "2026-09-05T08:35:53.040Z",
+  "generatedAt": "2026-09-05T19:44:58.401Z",
   "topics": [
-    "Disaster Recovery and Assistance",
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Peace Deal with Iran and Strait of Hormuz",
+    "Support for John Wahl in Alabama",
+    "Condemnation of Senator Jack Reed"
   ],
+  "trendingTopic": "President Trump announces completion of Peace Deal with Iran and opening of the Strait of Hormuz",
+  "secondaryHighlights": [
+    {
+      "topic": "Support for John Wahl's campaign for Lieutenant Governor of Alabama"
+    },
+    {
+      "topic": "Condemnation of Senator Jack Reed's comments on the Iran Deal"
+    }
+  ],
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v3:13:bd4eb3e2b0e85f93fae86ccc",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39247",
@@ -326,22 +337,6 @@
       "label": "positive",
       "rationale": "The text expresses optimism about a deal bringing peace and security, highlighting the success of the president in achieving something previous leaders could not.",
       "analyzedAt": "2026-09-05T08:35:53.038Z"
-    }
-  ],
-  "trendingTopic": "A few Dumocrats are against FISA, with or without Bill Pulte going to DNI, as Acting",
-  "trendingName": "Bill Pulte",
-  "selfPraiseCount": 1,
-  "secondaryHighlights": [
-    {
-      "topic": "Why are the Dumocrats so afraid of of Bill Pulte at DNI??? He would only be Acting!",
-      "name": "Bill Pulte"
-    },
-    {
-      "topic": "John Wahl, the Highly Respected former Chairman of the Alabama GOP, is running for Lieutenant Governor of Alabama.",
-      "name": "John Wahl"
-    },
-    {
-      "topic": "What do they have to be afraid of."
     }
   ]
 }

@@ -6,12 +6,29 @@
     "negative": 5
   },
   "summary": "positive:6 neutral:27 negative:5",
-  "generatedAt": "2026-09-05T08:35:16.135Z",
+  "generatedAt": "2026-09-05T19:44:40.381Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies",
-    "Economic Growth and Job Creation"
+    "U.S. military success in Strait of Hormuz",
+    "Abelardo de la Espriella wins Colombian election",
+    "Nikol Pashinyan re-elected in Armenia"
   ],
+  "trendingTopic": "U.S. military secures Strait of Hormuz, facilitating oil transport",
+  "secondaryHighlights": [
+    {
+      "topic": "Abelardo de la Espriella wins first round of Colombian Presidential Election",
+      "name": "Abelardo de la Espriella"
+    },
+    {
+      "topic": "Nikol Pashinyan wins re-election in Armenia",
+      "name": "Nikol Pashinyan"
+    },
+    {
+      "topic": "Lindsey Graham wins primary election in South Carolina",
+      "name": "Lindsey Graham"
+    }
+  ],
+  "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v3:38:e5fd98f3c30c1385ce69acc1",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39179",
@@ -926,20 +943,6 @@
       "label": "positive",
       "rationale": "The announcement of a successful military mission and the control over the Strait of Hormuz is framed positively, emphasizing success and defeat of Iran.",
       "analyzedAt": "2026-09-05T08:35:16.131Z"
-    }
-  ],
-  "trendingTopic": "JD Vance refers evidence of Minnesota fraud, Walz inaction to DOJ for criminal inquiry",
-  "trendingName": "JD Vance",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Key senator presses to term limit parliamentarian, clear possible path for election law"
-    },
-    {
-      "topic": "Stephen A. Smith is an arrogant fool, a low IQ individual"
-    },
-    {
-      "topic": "Iran’s Military is a complete and total mess"
     }
   ]
 }

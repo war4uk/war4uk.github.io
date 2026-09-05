@@ -6,11 +6,23 @@
     "negative": 2
   },
   "summary": "positive:3 neutral:8 negative:2",
-  "generatedAt": "2026-09-05T08:34:25.315Z",
+  "generatedAt": "2026-09-05T19:44:22.557Z",
   "topics": [
-    "Political Commentary and Controversies",
-    "Endorsements and Support for Candidates"
+    "Judge nominations to D.C. Court of Appeals",
+    "Renovation of Joint Base Andrews Golf Courses",
+    "Reflecting Pool restoration at Lincoln Memorial"
   ],
+  "trendingTopic": "Trump nominates James Crowell and Stuart Nash to D.C. Court of Appeals",
+  "secondaryHighlights": [
+    {
+      "topic": "Governor Wes Moore halts renovation of Joint Base Andrews Golf Courses"
+    },
+    {
+      "topic": "Restoration of Reflecting Pool at Lincoln Memorial completed"
+    }
+  ],
+  "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v3:13:ad23c0a34bd53b58a39c3bbc",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39123",
@@ -325,19 +337,6 @@
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:34:25.313Z"
-    }
-  ],
-  "trendingTopic": "I am pleased to announce the nomination of Stuart Nash to the District of Columbia Court of Appeals!",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "The Barack Hussein Obama Library, in 10 years, when fully matured!"
-    },
-    {
-      "topic": "This will someday save Washington"
-    },
-    {
-      "topic": "All work is complete!"
     }
   ]
 }

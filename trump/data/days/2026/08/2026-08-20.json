@@ -11,6 +11,21 @@
     "Endorsements and Support for Candidates",
     "Political Commentary and Controversies"
   ],
+  "trendingTopic": "James Braid, our Director of Legislative Affairs, will be leaving the White House in September",
+  "trendingName": "James Braid",
+  "secondaryHighlights": [
+    {
+      "topic": "I am pleased to nominate Phil Axt to the U.S. District Court for the District of North Dakota",
+      "name": "Phil Axt"
+    },
+    {
+      "topic": "MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed"
+    },
+    {
+      "topic": "Trump’s support ‘empowers’ law enforcement to make the country safer: Former FBI agent"
+    }
+  ],
+  "selfPraiseCount": 1,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41019",
@@ -493,21 +508,6 @@
       "label": "neutral",
       "rationale": "The text is a retweet link without any additional commentary or sentiment.",
       "analyzedAt": "2026-09-05T07:49:53.404Z"
-    }
-  ],
-  "trendingTopic": "James Braid, our Director of Legislative Affairs, will be leaving the White House in September",
-  "selfPraiseCount": 1,
-  "trendingName": "James Braid",
-  "secondaryHighlights": [
-    {
-      "topic": "I am pleased to nominate Phil Axt to the U.S. District Court for the District of North Dakota",
-      "name": "Phil Axt"
-    },
-    {
-      "topic": "MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed"
-    },
-    {
-      "topic": "Trump’s support ‘empowers’ law enforcement to make the country safer: Former FBI agent"
     }
   ]
 }

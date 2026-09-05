@@ -12,6 +12,22 @@
     "Economic Growth and Job Creation",
     "Endorsements and Support for Candidates"
   ],
+  "trendingTopic": "Lilly commits additional $4.5 billion across Indiana manufacturing sites, opens first dedicated genetic medicine facility",
+  "secondaryHighlights": [
+    {
+      "topic": "Chuck Devore, Army Intelligence, was fantastic tonight on Jesse Watters",
+      "name": "Chuck Devore"
+    },
+    {
+      "topic": "A highly accurate depiction of the Sleepy Joe Biden Administration",
+      "name": "Joe Biden"
+    },
+    {
+      "topic": "I had a great call with The President of the European Commission, Ursula von der Leyen",
+      "name": "Ursula von der Leyen"
+    }
+  ],
+  "selfPraiseCount": 1,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38248",
@@ -470,22 +486,6 @@
       "label": "positive",
       "rationale": "The text describes a successful military operation with no damage to American destroyers and the destruction of Iranian attackers, portraying a strong and victorious image.",
       "analyzedAt": "2026-09-05T08:26:59.252Z"
-    }
-  ],
-  "trendingTopic": "Lilly commits additional $4.5 billion across Indiana manufacturing sites, opens first dedicated genetic medicine facility",
-  "selfPraiseCount": 1,
-  "secondaryHighlights": [
-    {
-      "topic": "Chuck Devore, Army Intelligence, was fantastic tonight on Jesse Watters",
-      "name": "Chuck Devore"
-    },
-    {
-      "topic": "A highly accurate depiction of the Sleepy Joe Biden Administration",
-      "name": "Joe Biden"
-    },
-    {
-      "topic": "I had a great call with The President of the European Commission, Ursula von der Leyen",
-      "name": "Ursula von der Leyen"
     }
   ]
 }

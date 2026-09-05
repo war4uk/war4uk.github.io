@@ -12,6 +12,23 @@
     "Economic Growth and Job Creation",
     "Endorsements and Support for Candidates"
   ],
+  "trendingTopic": "Speaker of the House, Mike Johnson, is GREAT. He gets it done!!!",
+  "trendingName": "Mike Johnson",
+  "secondaryHighlights": [
+    {
+      "topic": "JD Vance, Ohio Figures Give Rousing Middletown Speech on Manufacturing Investments",
+      "name": "JD Vance"
+    },
+    {
+      "topic": "Ralph Norman had the look of a good Congressman (Not great, but good), but ruined his career when he endorsed Nikki Haley.",
+      "name": "Nikki Haley"
+    },
+    {
+      "topic": "Mike Waltz Takes Cuba to School: https://www.wsj.com/opinion/mike-waltz-takes-cuba-to-school-25912dc2",
+      "name": "Mike Waltz"
+    }
+  ],
+  "selfPraiseCount": 2,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41214",
@@ -1214,23 +1231,6 @@
       "label": "negative",
       "rationale": "The text expresses anger and blame towards Joe Biden and the Democrats for the deaths of American servicemen, describing it as a catastrophe and incompetence.",
       "analyzedAt": "2026-09-05T07:57:17.011Z"
-    }
-  ],
-  "trendingTopic": "Speaker of the House, Mike Johnson, is GREAT. He gets it done!!!",
-  "trendingName": "Mike Johnson",
-  "selfPraiseCount": 2,
-  "secondaryHighlights": [
-    {
-      "topic": "JD Vance, Ohio Figures Give Rousing Middletown Speech on Manufacturing Investments",
-      "name": "JD Vance"
-    },
-    {
-      "topic": "Ralph Norman had the look of a good Congressman (Not great, but good), but ruined his career when he endorsed Nikki Haley.",
-      "name": "Nikki Haley"
-    },
-    {
-      "topic": "Mike Waltz Takes Cuba to School: https://www.wsj.com/opinion/mike-waltz-takes-cuba-to-school-25912dc2",
-      "name": "Mike Waltz"
     }
   ]
 }

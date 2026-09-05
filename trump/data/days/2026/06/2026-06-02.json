@@ -1,17 +1,28 @@
 {
   "date": "2026-06-02",
   "counts": {
-    "positive": 33,
+    "positive": 34,
     "neutral": 25,
     "negative": 6
   },
-  "summary": "positive:33 neutral:25 negative:6",
-  "generatedAt": "2026-09-05T08:33:32.846Z",
+  "summary": "positive:34 neutral:25 negative:6",
+  "generatedAt": "2026-09-05T19:44:04.477Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies",
-    "Economic Growth and Job Creation"
+    "Trump's endorsements for various candidates on Election Day",
+    "Trump's Executive Order targeting illegal immigration and financial fraud",
+    "Rescheduling of the White House Correspondents’ Dinner"
   ],
+  "trendingTopic": "Trump endorses multiple candidates ahead of Election Day",
+  "secondaryHighlights": [
+    {
+      "topic": "Trump signs Executive Order to combat illegal immigration and financial fraud"
+    },
+    {
+      "topic": "White House Correspondents’ Dinner rescheduled for July 24th"
+    }
+  ],
+  "selfPraiseCount": 6,
+  "topicsCacheKey": "day-themes-v3:65:ceef7ca0475ebf2fb5f08d33",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38984",
@@ -1574,22 +1585,6 @@
       "label": "positive",
       "rationale": "The statement expresses a strong sentiment of support for Texas and implies a call to action, reflecting a positive outlook.",
       "analyzedAt": "2026-09-05T08:33:15.347Z"
-    }
-  ],
-  "trendingTopic": "It is my Great Honor to endorse",
-  "selfPraiseCount": 6,
-  "secondaryHighlights": [
-    {
-      "topic": "Pete Hegseth’s anti-DEI speech at West Point is a template to save American lives",
-      "name": "Pete Hegseth"
-    },
-    {
-      "topic": "Great job by highly decorated Navy Seal Officer, Mike Sarraille, on Jesse Watters",
-      "name": "Mike Sarraille"
-    },
-    {
-      "topic": "CALIFORNIA: Vote today for Steve Hilton for Governor.",
-      "name": "Steve Hilton"
     }
   ]
 }
