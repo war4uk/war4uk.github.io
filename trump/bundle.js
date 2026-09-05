@@ -666,6 +666,19 @@ function snippetFromPost(post) {
   const at = slice.lastIndexOf(" ");
   return `${(at > 80 ? slice.slice(0, at) : slice).trim()}\u2026`;
 }
+function normalizeForCompare(s) {
+  return s.replace(/…/g, " ").replace(/\.{2,}/g, " ").replace(/President DONALD J\.?\s*TRUMP/gi, " ").replace(/President DJT/gi, " ").replace(/[^a-z0-9]+/gi, " ").replace(/\s+/g, " ").trim().toLowerCase();
+}
+function isRedundantSnippet(title, snippet) {
+  const a = normalizeForCompare(title);
+  const b = normalizeForCompare(snippet);
+  if (!b) return true;
+  if (!a) return false;
+  if (a === b) return true;
+  if (a.startsWith(b) || b.startsWith(a)) return true;
+  const n = Math.min(a.length, b.length);
+  return n >= 32 && a.slice(0, n) === b.slice(0, n);
+}
 var UNTITLED_POST_LABEL = "Untitled post";
 function listDayPosts(posts, sentiments = []) {
   const byId = /* @__PURE__ */ new Map();
@@ -688,7 +701,7 @@ function listDayPosts(posts, sentiments = []) {
       id,
       url,
       title,
-      snippet: snippet && snippet !== title ? snippet : "",
+      snippet: isRedundantSnippet(title, snippet) ? "" : snippet,
       publishedAt: post.publishedAt,
       ...sentiment ? { sentiment } : {}
     });
@@ -805,7 +818,7 @@ function renderDayDetail(runtime, summary) {
   const secondaryRows = board.secondary.length ? board.secondary.map((s) => `<li><div><span class="hl-label">Topic</span> <span class="day-story-topic">${escapeHtml(s.topic)}</span></div><div><span class="hl-label">Name</span> <span class="day-story-name">${escapeHtml(s.name || "\u2014")}</span></div></li>`).join("") : '<li class="day-empty">No additional stories</li>';
   const postRows = board.posts.length ? board.posts.map((p) => {
     const label = escapeHtml(p.title);
-    const snippet = p.snippet && p.snippet !== p.title ? `<span class="day-post-snippet">${escapeHtml(p.snippet)}</span>` : "";
+    const snippet = p.snippet ? `<span class="day-post-snippet">${escapeHtml(p.snippet)}</span>` : "";
     const meta = [formatPostTime(p.publishedAt), p.sentiment].filter(Boolean).join(" \xB7 ");
     const href = p.url ? ` href="${escapeHtml(p.url)}" target="_blank" rel="noopener noreferrer"` : "";
     return `<li class="day-post"><a class="day-post-link"${href}><span class="day-post-title">${label}</span>${snippet}<span class="day-post-meta">${escapeHtml(meta)}</span></a></li>`;
