@@ -2,6 +2,45 @@
   "month": "2026-09",
   "days": [
     {
+      "date": "2026-09-01",
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "",
+      "topics": [],
+      "postsCount": 0,
+      "hasDetail": false,
+      "generatedAt": "2026-08-01T00:00:00Z"
+    },
+    {
+      "date": "2026-09-02",
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "",
+      "topics": [],
+      "postsCount": 0,
+      "hasDetail": false,
+      "generatedAt": "2026-08-01T00:00:00Z"
+    },
+    {
+      "date": "2026-09-03",
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "",
+      "topics": [],
+      "postsCount": 0,
+      "hasDetail": false,
+      "generatedAt": "2026-08-01T00:00:00Z"
+    },
+    {
       "date": "2026-09-04",
       "counts": {
         "positive": 11,
