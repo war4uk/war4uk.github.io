@@ -1,0 +1,515 @@
+{
+  "month": "2026-07",
+  "days": [
+    {
+      "date": "2026-07-01",
+      "counts": {
+        "positive": 3,
+        "neutral": 3,
+        "negative": 1
+      },
+      "summary": "positive:3 neutral:3 negative:1",
+      "topics": [
+        "Economic Growth and Job Creation",
+        "Political Commentary and Controversies",
+        "Disaster Recovery and Assistance"
+      ],
+      "postsCount": 7,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T07:57:17.015Z"
+    },
+    {
+      "date": "2026-07-02",
+      "counts": {
+        "positive": 4,
+        "neutral": 5,
+        "negative": 2
+      },
+      "summary": "positive:4 neutral:5 negative:2",
+      "topics": [
+        "Economic Growth and Job Creation",
+        "Political Commentary and Controversies"
+      ],
+      "postsCount": 11,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T07:57:28.688Z"
+    },
+    {
+      "date": "2026-07-03",
+      "counts": {
+        "positive": 3,
+        "neutral": 3,
+        "negative": 2
+      },
+      "summary": "positive:3 neutral:3 negative:2",
+      "topics": [
+        "Political Commentary and Controversies",
+        "Disaster Recovery and Assistance",
+        "Economic Growth and Job Creation"
+      ],
+      "postsCount": 8,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T07:57:35.393Z"
+    },
+    {
+      "date": "2026-07-04",
+      "counts": {
+        "positive": 5,
+        "neutral": 14,
+        "negative": 4
+      },
+      "summary": "positive:5 neutral:14 negative:4",
+      "topics": [
+        "Economic Growth and Job Creation",
+        "Political Commentary and Controversies"
+      ],
+      "postsCount": 23,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T07:57:47.635Z"
+    },
+    {
+      "date": "2026-07-05",
+      "counts": {
+        "positive": 23,
+        "neutral": 63,
+        "negative": 10
+      },
+      "summary": "positive:23 neutral:63 negative:10",
+      "topics": [
+        "Endorsements and Support for Candidates",
+        "Political Commentary and Controversies",
+        "Disaster Recovery and Assistance"
+      ],
+      "postsCount": 100,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T07:58:22.193Z"
+    },
+    {
+      "date": "2026-07-06",
+      "counts": {
+        "positive": 11,
+        "neutral": 34,
+        "negative": 4
+      },
+      "summary": "positive:11 neutral:34 negative:4",
+      "topics": [
+        "Economic Growth and Job Creation",
+        "Endorsements and Support for Candidates",
+        "Political Commentary and Controversies"
+      ],
+      "postsCount": 49,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T07:58:42.199Z"
+    },
+    {
+      "date": "2026-07-07",
+      "counts": {
+        "positive": 6,
+        "neutral": 7,
+        "negative": 0
+      },
+      "summary": "positive:6 neutral:7 negative:0",
+      "topics": [
+        "Economic Growth and Job Creation",
+        "Political Commentary and Controversies"
+      ],
+      "postsCount": 13,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T07:58:49.570Z"
+    },
+    {
+      "date": "2026-07-08",
+      "counts": {
+        "positive": 8,
+        "neutral": 22,
+        "negative": 4
+      },
+      "summary": "positive:8 neutral:22 negative:4",
+      "topics": [
+        "Political Commentary and Controversies",
+        "Economic Growth and Job Creation",
+        "Disaster Recovery and Assistance"
+      ],
+      "postsCount": 34,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T07:59:04.795Z"
+    },
+    {
+      "date": "2026-07-09",
+      "counts": {
+        "positive": 1,
+        "neutral": 2,
+        "negative": 0
+      },
+      "summary": "positive:1 neutral:2 negative:0",
+      "topics": [
+        "Economic Growth and Job Creation"
+      ],
+      "postsCount": 3,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T07:59:09.321Z"
+    },
+    {
+      "date": "2026-07-10",
+      "counts": {
+        "positive": 13,
+        "neutral": 4,
+        "negative": 2
+      },
+      "summary": "positive:13 neutral:4 negative:2",
+      "topics": [
+        "Economic Growth and Job Creation",
+        "Endorsements and Support for Candidates",
+        "Political Commentary and Controversies"
+      ],
+      "postsCount": 19,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T07:59:19.944Z"
+    },
+    {
+      "date": "2026-07-11",
+      "counts": {
+        "positive": 4,
+        "neutral": 12,
+        "negative": 5
+      },
+      "summary": "positive:4 neutral:12 negative:5",
+      "topics": [
+        "Political Commentary and Controversies",
+        "Economic Growth and Job Creation"
+      ],
+      "postsCount": 22,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T07:59:30.373Z"
+    },
+    {
+      "date": "2026-07-12",
+      "counts": {
+        "positive": 4,
+        "neutral": 5,
+        "negative": 1
+      },
+      "summary": "positive:4 neutral:5 negative:1",
+      "topics": [
+        "Endorsements and Support for Candidates",
+        "Political Commentary and Controversies"
+      ],
+      "postsCount": 10,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T07:59:40.270Z"
+    },
+    {
+      "date": "2026-07-13",
+      "counts": {
+        "positive": 18,
+        "neutral": 30,
+        "negative": 3
+      },
+      "summary": "positive:18 neutral:30 negative:3",
+      "topics": [
+        "Endorsements and Support for Candidates",
+        "Political Commentary and Controversies"
+      ],
+      "postsCount": 51,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T07:59:59.754Z"
+    },
+    {
+      "date": "2026-07-14",
+      "counts": {
+        "positive": 12,
+        "neutral": 25,
+        "negative": 2
+      },
+      "summary": "positive:12 neutral:25 negative:2",
+      "topics": [
+        "Endorsements and Support for Candidates",
+        "Economic Growth and Job Creation",
+        "Political Commentary and Controversies"
+      ],
+      "postsCount": 39,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T08:00:20.317Z"
+    },
+    {
+      "date": "2026-07-15",
+      "counts": {
+        "positive": 7,
+        "neutral": 1,
+        "negative": 2
+      },
+      "summary": "positive:7 neutral:1 negative:2",
+      "topics": [
+        "Endorsements and Support for Candidates",
+        "Economic Growth and Job Creation",
+        "Political Commentary and Controversies"
+      ],
+      "postsCount": 10,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T08:00:29.469Z"
+    },
+    {
+      "date": "2026-07-16",
+      "counts": {
+        "positive": 4,
+        "neutral": 17,
+        "negative": 0
+      },
+      "summary": "positive:4 neutral:17 negative:0",
+      "topics": [
+        "Economic Growth and Job Creation",
+        "Endorsements and Support for Candidates"
+      ],
+      "postsCount": 21,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T08:00:39.967Z"
+    },
+    {
+      "date": "2026-07-17",
+      "counts": {
+        "positive": 6,
+        "neutral": 5,
+        "negative": 2
+      },
+      "summary": "positive:6 neutral:5 negative:2",
+      "topics": [
+        "Economic Growth and Job Creation",
+        "Endorsements and Support for Candidates",
+        "Political Commentary and Controversies"
+      ],
+      "postsCount": 13,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T08:00:48.783Z"
+    },
+    {
+      "date": "2026-07-18",
+      "counts": {
+        "positive": 1,
+        "neutral": 1,
+        "negative": 2
+      },
+      "summary": "positive:1 neutral:1 negative:2",
+      "topics": [
+        "Endorsements and Support for Candidates",
+        "Political Commentary and Controversies"
+      ],
+      "postsCount": 4,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T08:00:54.135Z"
+    },
+    {
+      "date": "2026-07-19",
+      "counts": {
+        "positive": 14,
+        "neutral": 23,
+        "negative": 5
+      },
+      "summary": "positive:14 neutral:23 negative:5",
+      "topics": [
+        "Economic Growth and Job Creation",
+        "Political Commentary and Controversies"
+      ],
+      "postsCount": 42,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T08:01:14.127Z"
+    },
+    {
+      "date": "2026-07-20",
+      "counts": {
+        "positive": 6,
+        "neutral": 7,
+        "negative": 3
+      },
+      "summary": "positive:6 neutral:7 negative:3",
+      "topics": [
+        "Political Commentary and Controversies",
+        "Economic Growth and Job Creation",
+        "Disaster Recovery and Assistance"
+      ],
+      "postsCount": 16,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T08:01:23.805Z"
+    },
+    {
+      "date": "2026-07-21",
+      "counts": {
+        "positive": 6,
+        "neutral": 10,
+        "negative": 5
+      },
+      "summary": "positive:6 neutral:10 negative:5",
+      "topics": [
+        "Economic Growth and Job Creation",
+        "Political Commentary and Controversies"
+      ],
+      "postsCount": 21,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T08:01:39.924Z"
+    },
+    {
+      "date": "2026-07-22",
+      "counts": {
+        "positive": 6,
+        "neutral": 22,
+        "negative": 4
+      },
+      "summary": "positive:6 neutral:22 negative:4",
+      "topics": [
+        "Endorsements and Support for Candidates",
+        "Political Commentary and Controversies"
+      ],
+      "postsCount": 32,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T08:01:56.418Z"
+    },
+    {
+      "date": "2026-07-23",
+      "counts": {
+        "positive": 4,
+        "neutral": 6,
+        "negative": 0
+      },
+      "summary": "positive:4 neutral:6 negative:0",
+      "topics": [
+        "Endorsements and Support for Candidates",
+        "Political Commentary and Controversies"
+      ],
+      "postsCount": 10,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T08:02:08.862Z"
+    },
+    {
+      "date": "2026-07-24",
+      "counts": {
+        "positive": 5,
+        "neutral": 7,
+        "negative": 1
+      },
+      "summary": "positive:5 neutral:7 negative:1",
+      "topics": [
+        "Endorsements and Support for Candidates",
+        "Economic Growth and Job Creation",
+        "Political Commentary and Controversies"
+      ],
+      "postsCount": 13,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T08:02:17.899Z"
+    },
+    {
+      "date": "2026-07-25",
+      "counts": {
+        "positive": 0,
+        "neutral": 2,
+        "negative": 1
+      },
+      "summary": "positive:0 neutral:2 negative:1",
+      "topics": [
+        "Political Commentary and Controversies"
+      ],
+      "postsCount": 3,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T08:02:23.687Z"
+    },
+    {
+      "date": "2026-07-26",
+      "counts": {
+        "positive": 2,
+        "neutral": 55,
+        "negative": 1
+      },
+      "summary": "positive:2 neutral:55 negative:1",
+      "topics": [
+        "Endorsements and Support for Candidates",
+        "Political Commentary and Controversies"
+      ],
+      "postsCount": 58,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T08:02:41.698Z"
+    },
+    {
+      "date": "2026-07-27",
+      "counts": {
+        "positive": 2,
+        "neutral": 30,
+        "negative": 8
+      },
+      "summary": "positive:2 neutral:30 negative:8",
+      "topics": [
+        "Political Commentary and Controversies",
+        "Endorsements and Support for Candidates",
+        "Economic Growth and Job Creation"
+      ],
+      "postsCount": 40,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T08:02:59.438Z"
+    },
+    {
+      "date": "2026-07-28",
+      "counts": {
+        "positive": 11,
+        "neutral": 30,
+        "negative": 5
+      },
+      "summary": "positive:11 neutral:30 negative:5",
+      "topics": [
+        "Endorsements and Support for Candidates",
+        "Economic Growth and Job Creation",
+        "Political Commentary and Controversies"
+      ],
+      "postsCount": 46,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T08:03:19.273Z"
+    },
+    {
+      "date": "2026-07-29",
+      "counts": {
+        "positive": 5,
+        "neutral": 1,
+        "negative": 3
+      },
+      "summary": "positive:5 neutral:1 negative:3",
+      "topics": [
+        "Economic Growth and Job Creation",
+        "Endorsements and Support for Candidates",
+        "Political Commentary and Controversies"
+      ],
+      "postsCount": 9,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T08:03:26.964Z"
+    },
+    {
+      "date": "2026-07-30",
+      "counts": {
+        "positive": 5,
+        "neutral": 1,
+        "negative": 1
+      },
+      "summary": "positive:5 neutral:1 negative:1",
+      "topics": [
+        "Disaster Recovery and Assistance",
+        "Economic Growth and Job Creation",
+        "Endorsements and Support for Candidates"
+      ],
+      "postsCount": 7,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T08:03:34.214Z"
+    },
+    {
+      "date": "2026-07-31",
+      "counts": {
+        "positive": 1,
+        "neutral": 3,
+        "negative": 2
+      },
+      "summary": "positive:1 neutral:3 negative:2",
+      "topics": [
+        "Endorsements and Support for Candidates",
+        "Political Commentary and Controversies"
+      ],
+      "postsCount": 6,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T08:03:40.799Z"
+    }
+  ],
+  "generatedAt": "2026-09-05T08:03:40.799Z"
+}

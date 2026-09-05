@@ -1,0 +1,89 @@
+{
+  "date": "2026-07-25",
+  "counts": {
+    "positive": 0,
+    "neutral": 2,
+    "negative": 1
+  },
+  "summary": "positive:0 neutral:2 negative:1",
+  "generatedAt": "2026-09-05T08:02:23.687Z",
+  "topics": [
+    "Political Commentary and Controversies"
+  ],
+  "posts": [
+    {
+      "id": "https://www.trumpstruth.org/statuses/40238",
+      "publishedAt": "2026-07-25T03:21:29.000Z",
+      "title": "Alaska removes thousands from state’s active voter list, erroneously flagging some citizens:",
+      "text": "<p>Alaska removes thousands from state’s active voter list, erroneously flagging some citizens: <a href=\"https://alaskabeacon.com/2026/07/23/alaska-removes-thousands-from-states-active-voter-list-erroneously-flagging-some-citizens/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">alaskabeacon.com/2026/07/23/al</span><span class=\"invisible\">aska-removes-thousands-from-states-active-voter-list-erroneously-flagging-some-citizens/</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/40238",
+      "raw": {
+        "creator": "",
+        "title": "Alaska removes thousands from state’s active voter list, erroneously flagging some citizens:",
+        "link": "https://www.trumpstruth.org/statuses/40238",
+        "pubDate": "Sat, 25 Jul 2026 03:21:29 +0000",
+        "author": "",
+        "content": "<p>Alaska removes thousands from state’s active voter list, erroneously flagging some citizens: <a href=\"https://alaskabeacon.com/2026/07/23/alaska-removes-thousands-from-states-active-voter-list-erroneously-flagging-some-citizens/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">alaskabeacon.com/2026/07/23/al</span><span class=\"invisible\">aska-removes-thousands-from-states-active-voter-list-erroneously-flagging-some-citizens/</span></a></p>",
+        "contentSnippet": "Alaska removes thousands from state’s active voter list, erroneously flagging some citizens: https://alaskabeacon.com/2026/07/23/alaska-removes-thousands-from-states-active-voter-list-erroneously-flagging-some-citizens/",
+        "guid": "https://www.trumpstruth.org/statuses/40238",
+        "isoDate": "2026-07-25T03:21:29.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/40239",
+      "publishedAt": "2026-07-25T03:32:47.000Z",
+      "title": "[No Title] - Post from July 25, 2026",
+      "text": "<p><a href=\"https://x.com/lauraloomer/status/2080657818466586812?s=46\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/lauraloomer/status/20806</span><span class=\"invisible\">57818466586812?s=46</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/40239",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from July 25, 2026",
+        "link": "https://www.trumpstruth.org/statuses/40239",
+        "pubDate": "Sat, 25 Jul 2026 03:32:47 +0000",
+        "author": "",
+        "content": "<p><a href=\"https://x.com/lauraloomer/status/2080657818466586812?s=46\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/lauraloomer/status/20806</span><span class=\"invisible\">57818466586812?s=46</span></a></p>",
+        "contentSnippet": "https://x.com/lauraloomer/status/2080657818466586812?s=46",
+        "guid": "https://www.trumpstruth.org/statuses/40239",
+        "isoDate": "2026-07-25T03:32:47.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/40240",
+      "publishedAt": "2026-07-25T15:16:09.000Z",
+      "title": "[No Title] - Post from July 25, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/40240",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from July 25, 2026",
+        "link": "https://www.trumpstruth.org/statuses/40240",
+        "pubDate": "Sat, 25 Jul 2026 15:16:09 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/40240",
+        "isoDate": "2026-07-25T15:16:09.000Z"
+      }
+    }
+  ],
+  "sentiments": [
+    {
+      "postId": "https://www.trumpstruth.org/statuses/40238",
+      "label": "negative",
+      "rationale": "The text discusses a negative event where citizens are erroneously flagged and removed from the voter list.",
+      "analyzedAt": "2026-09-05T08:02:23.684Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/40239",
+      "label": "neutral",
+      "rationale": "The text is a link without any additional context or sentiment.",
+      "analyzedAt": "2026-09-05T08:02:23.684Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/40240",
+      "label": "neutral",
+      "rationale": "The text contains no content to express any sentiment.",
+      "analyzedAt": "2026-09-05T08:02:23.684Z"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "date": "2026-07-09",
+  "counts": {
+    "positive": 1,
+    "neutral": 2,
+    "negative": 0
+  },
+  "summary": "positive:1 neutral:2 negative:0",
+  "generatedAt": "2026-09-05T07:59:09.321Z",
+  "topics": [
+    "Economic Growth and Job Creation"
+  ],
+  "posts": [
+    {
+      "id": "https://www.trumpstruth.org/statuses/39912",
+      "publishedAt": "2026-07-09T00:16:17.000Z",
+      "title": "[No Title] - Post from July 9, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/39912",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from July 9, 2026",
+        "link": "https://www.trumpstruth.org/statuses/39912",
+        "pubDate": "Thu, 09 Jul 2026 00:16:17 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/39912",
+        "isoDate": "2026-07-09T00:16:17.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/39911",
+      "publishedAt": "2026-07-09T00:16:30.000Z",
+      "title": "[No Title] - Post from July 9, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/39911",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from July 9, 2026",
+        "link": "https://www.trumpstruth.org/statuses/39911",
+        "pubDate": "Thu, 09 Jul 2026 00:16:30 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/39911",
+        "isoDate": "2026-07-09T00:16:30.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/39913",
+      "publishedAt": "2026-07-09T01:39:05.000Z",
+      "title": "Thank you to the brilliant and highly respected Gwynne Shotwell, and her husband, Robert, for their extreme Generosity in helping children to attain the ever magnificent American Dream! Their Gift of 325 Million Dollars of SpaceX Stock is greatly appreciated by all. Thousands of children have just been given a better life. Thank you Gwynne and Robert, and continued Great Success! President DONALD J. TRUMP",
+      "text": "<p>Thank you to the brilliant and highly respected Gwynne Shotwell, and her husband, Robert, for their extreme Generosity in helping children to attain the ever magnificent American Dream! Their Gift of 325 Million Dollars of SpaceX Stock is greatly appreciated by all. Thousands of children have just been given a better life. Thank you Gwynne and Robert, and continued Great Success! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/39913",
+      "raw": {
+        "creator": "",
+        "title": "Thank you to the brilliant and highly respected Gwynne Shotwell, and her husband, Robert, for their extreme Generosity in helping children to attain the ever magnificent American Dream! Their Gift of 325 Million Dollars of SpaceX Stock is greatly appreciated by all. Thousands of children have just been given a better life. Thank you Gwynne and Robert, and continued Great Success! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/39913",
+        "pubDate": "Thu, 09 Jul 2026 01:39:05 +0000",
+        "author": "",
+        "content": "<p>Thank you to the brilliant and highly respected Gwynne Shotwell, and her husband, Robert, for their extreme Generosity in helping children to attain the ever magnificent American Dream! Their Gift of 325 Million Dollars of SpaceX Stock is greatly appreciated by all. Thousands of children have just been given a better life. Thank you Gwynne and Robert, and continued Great Success! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Thank you to the brilliant and highly respected Gwynne Shotwell, and her husband, Robert, for their extreme Generosity in helping children to attain the ever magnificent American Dream! Their Gift of 325 Million Dollars of SpaceX Stock is greatly appreciated by all. Thousands of children have just been given a better life. Thank you Gwynne and Robert, and continued Great Success! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/39913",
+        "isoDate": "2026-07-09T01:39:05.000Z"
+      }
+    }
+  ],
+  "sentiments": [
+    {
+      "postId": "https://www.trumpstruth.org/statuses/39911",
+      "label": "neutral",
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-05T07:59:09.320Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/39912",
+      "label": "neutral",
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-05T07:59:09.320Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/39913",
+      "label": "positive",
+      "rationale": "The text expresses gratitude and appreciation for Gwynne Shotwell and her husband for their generous donation, highlighting the positive impact on children's lives and the American Dream.",
+      "analyzedAt": "2026-09-05T07:59:09.320Z"
+    }
+  ]
+}
