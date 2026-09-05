@@ -6,23 +6,24 @@
     "negative": 1
   },
   "summary": "positive:5 neutral:7 negative:1",
-  "generatedAt": "2026-09-05T19:44:53.831Z",
+  "generatedAt": "2026-09-05T21:00:02.934Z",
   "topics": [
-    "Donald Trump announces appointment of James M. McDonald as U.S. Attorney",
-    "Trump's military strike against Tren De Aragua leader Niño Guerrero",
-    "Team USA wins 4-1 against Paraguay"
+    "Announces intent to appoint James M. McDonald as U.S. Attorney for Southern District of New York",
+    "Celebrates Team USA's victory over Paraguay in international soccer",
+    "Critiques Obama's Iran Deal and praises his own agreement"
   ],
-  "trendingTopic": "Donald Trump announces James M. McDonald as new U.S. Attorney for Southern District of New York",
+  "trendingTopic": "Announces intent to appoint James M. McDonald as U.S. Attorney for Southern District of New York",
+  "trendingName": "James M. McDonald",
   "secondaryHighlights": [
     {
-      "topic": "Trump's military action against Tren De Aragua leader Niño Guerrero"
+      "topic": "Celebrates Team USA's victory over Paraguay in international soccer"
     },
     {
-      "topic": "Team USA's victory over Paraguay"
+      "topic": "Critiques Obama's Iran Deal and praises his own agreement"
     }
   ],
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v3:13:ae68f02645ac373800aeb657",
+  "topicsCacheKey": "day-themes-v5:13:ae68f02645ac373800aeb657",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39234",

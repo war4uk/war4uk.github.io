@@ -6,23 +6,26 @@
     "negative": 3
   },
   "summary": "positive:5 neutral:20 negative:3",
-  "generatedAt": "2026-09-05T19:44:09.048Z",
+  "generatedAt": "2026-09-05T20:59:47.830Z",
   "topics": [
-    "Donald Trump endorses Steve Hilton for California Governor",
-    "Donald Trump endorses Adriana Guzmán Fralick for Nevada Attorney General",
-    "Donald Trump congratulates Abelardo de la Espriella on Colombian election victory"
+    "Endorses Adriana Guzmán Fralick for Attorney General in Nevada",
+    "Congratulates Steve Hilton on winning the California Governor primary",
+    "Celebrates Abelardo de la Espriella's victory in the Colombian Presidential Election"
   ],
-  "trendingTopic": "Donald Trump endorses Steve Hilton for California Governor",
+  "trendingTopic": "Endorses Adriana Guzmán Fralick for Attorney General in Nevada",
+  "trendingName": "Adriana Guzmán Fralick",
   "secondaryHighlights": [
     {
-      "topic": "Donald Trump endorses Adriana Guzmán Fralick for Nevada Attorney General"
+      "topic": "Congratulates Steve Hilton on winning the California Governor primary",
+      "name": "Steve Hilton"
     },
     {
-      "topic": "Donald Trump congratulates Abelardo de la Espriella on Colombian election victory"
+      "topic": "Celebrates Abelardo de la Espriella's victory in the Colombian Presidential Election",
+      "name": "Abelardo de la Espriella"
     }
   ],
   "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v3:28:c98b09d3f4d31d999b33a3b0",
+  "topicsCacheKey": "day-themes-v5:28:c98b09d3f4d31d999b33a3b0",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39048",

@@ -6,26 +6,25 @@
     "negative": 4
   },
   "summary": "positive:2 neutral:5 negative:4",
-  "generatedAt": "2026-09-05T19:44:44.860Z",
+  "generatedAt": "2026-09-05T20:59:59.867Z",
   "topics": [
-    "Trump's criticism of Jamie Raskin and impeachment efforts",
-    "Announcement of Jay Clayton as Director of National Intelligence",
-    "Military budget proposal and Save America Act"
+    "Announces nomination of Jay Clayton for a prominent position",
+    "Discusses military actions and negotiations with Iran",
+    "Critiques Jamie Raskin's impeachment efforts"
   ],
-  "trendingTopic": "Trump criticizes Jamie Raskin's impeachment attempts and calls for his expulsion from Congress",
+  "trendingTopic": "Discusses military actions and negotiations with Iran",
   "secondaryHighlights": [
     {
-      "topic": "Weapons seized from Mexican Cartels harming Americans"
+      "topic": "Announces nomination of Jay Clayton for a prominent position",
+      "name": "Jay Clayton"
     },
     {
-      "topic": "Cancellation of military strikes against Iran after high-level discussions"
-    },
-    {
-      "topic": "Call for $350 billion military budget and election integrity measures"
+      "topic": "Critiques Jamie Raskin's impeachment efforts",
+      "name": "Jamie Raskin"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v3:11:b72339e7af99fd8372adde91",
+  "topicsCacheKey": "day-themes-v5:11:b72339e7af99fd8372adde91",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39211",

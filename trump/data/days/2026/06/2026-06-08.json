@@ -6,23 +6,24 @@
     "negative": 8
   },
   "summary": "positive:19 neutral:3 negative:8",
-  "generatedAt": "2026-09-05T19:44:31.498Z",
+  "generatedAt": "2026-09-05T20:58:00.319Z",
   "topics": [
-    "Endorsements for South Carolina candidates",
-    "Concerns over election integrity",
-    "Support for voter ID laws in Ohio"
+    "Endorses multiple America First candidates in South Carolina and Nevada",
+    "Supports early voting and endorses Burt Jones for Governor of Georgia",
+    "Congratulates Ohio Senate for passing Voter I.D. legislation"
   ],
-  "trendingTopic": "Trump endorses multiple candidates in South Carolina ahead of elections",
+  "trendingTopic": "Endorses multiple America First candidates in South Carolina and Nevada",
   "secondaryHighlights": [
     {
-      "topic": "Trump expresses concerns about election integrity in California"
+      "topic": "Supports early voting and endorses Burt Jones for Governor of Georgia",
+      "name": "Burt Jones"
     },
     {
-      "topic": "Ohio Senate passes voter ID resolution with Trump's support"
+      "topic": "Congratulates Ohio Senate for passing Voter I.D. legislation"
     }
   ],
   "selfPraiseCount": 6,
-  "topicsCacheKey": "day-themes-v3:30:dfe40d204b47e878d4605061",
+  "topicsCacheKey": "day-themes-v5:30:dfe40d204b47e878d4605061",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39135",

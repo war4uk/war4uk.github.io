@@ -6,23 +6,24 @@
     "negative": 6
   },
   "summary": "positive:6 neutral:14 negative:6",
-  "generatedAt": "2026-09-05T19:45:58.263Z",
+  "generatedAt": "2026-09-05T21:00:24.181Z",
   "topics": [
-    "U.S. strikes Iranian military sites for ceasefire violations",
-    "Trump endorses Mike Mazzei for Oklahoma Governor",
-    "Trump nominates Lance Schroyer as ICE Director"
+    "Celebrates a packed rally with 45,000 attendees and plans for July 4th event",
+    "Announces nomination of Lance Schroyer as next ICE Director",
+    "Endorses Mike Mazzei for Governor of Oklahoma"
   ],
-  "trendingTopic": "U.S. aircraft strike Iranian military sites for violating ceasefire agreement",
+  "trendingTopic": "Celebrates a packed rally with 45,000 attendees and plans for July 4th event",
   "secondaryHighlights": [
     {
-      "topic": "Trump endorses Mike Mazzei for Oklahoma Governor"
+      "topic": "Announces nomination of Lance Schroyer as next ICE Director"
     },
     {
-      "topic": "Trump nominates Lance Schroyer as ICE Director"
+      "topic": "Endorses Mike Mazzei for Governor of Oklahoma",
+      "name": "Mike Mazzei"
     }
   ],
   "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v3:26:5fd5544a2504bdcaf1ba7f64",
+  "topicsCacheKey": "day-themes-v5:26:5fd5544a2504bdcaf1ba7f64",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39555",

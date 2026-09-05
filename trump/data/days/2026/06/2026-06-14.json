@@ -6,23 +6,24 @@
     "negative": 4
   },
   "summary": "positive:6 neutral:3 negative:4",
-  "generatedAt": "2026-09-05T19:44:58.401Z",
+  "generatedAt": "2026-09-05T21:00:04.503Z",
   "topics": [
-    "Peace Deal with Iran and Strait of Hormuz",
-    "Support for John Wahl in Alabama",
-    "Condemnation of Senator Jack Reed"
+    "Announces completion of a peace deal with Iran",
+    "Supports John Wahl for Lieutenant Governor of Alabama",
+    "Critiques Democrats' stance on FISA and nominations"
   ],
-  "trendingTopic": "President Trump announces completion of Peace Deal with Iran and opening of the Strait of Hormuz",
+  "trendingTopic": "Announces completion of a peace deal with Iran",
   "secondaryHighlights": [
     {
-      "topic": "Support for John Wahl's campaign for Lieutenant Governor of Alabama"
+      "topic": "Supports John Wahl for Lieutenant Governor of Alabama",
+      "name": "John Wahl"
     },
     {
-      "topic": "Condemnation of Senator Jack Reed's comments on the Iran Deal"
+      "topic": "Critiques Democrats' stance on FISA and nominations"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v3:13:bd4eb3e2b0e85f93fae86ccc",
+  "topicsCacheKey": "day-themes-v5:13:bd4eb3e2b0e85f93fae86ccc",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39247",
