@@ -2,22 +2,72 @@
   "month": "2026-09",
   "days": [
     {
+      "date": "2026-09-01",
+      "counts": {
+        "positive": 29,
+        "neutral": 3,
+        "negative": 5
+      },
+      "summary": "positive:29 neutral:3 negative:5",
+      "topics": [
+        "Political Commentary and Controversies",
+        "Endorsements and Support for Candidates",
+        "Disaster Recovery and Assistance"
+      ],
+      "postsCount": 38,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T07:41:35.958Z"
+    },
+    {
+      "date": "2026-09-02",
+      "counts": {
+        "positive": 5,
+        "neutral": 4,
+        "negative": 2
+      },
+      "summary": "positive:5 neutral:4 negative:2",
+      "topics": [
+        "Political Commentary and Controversies",
+        "Endorsements and Support for Candidates",
+        "Disaster Recovery and Assistance"
+      ],
+      "postsCount": 11,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T07:41:43.649Z"
+    },
+    {
+      "date": "2026-09-03",
+      "counts": {
+        "positive": 3,
+        "neutral": 2,
+        "negative": 6
+      },
+      "summary": "positive:3 neutral:2 negative:6",
+      "topics": [
+        "Political Commentary and Controversies",
+        "Endorsements and Support for Candidates"
+      ],
+      "postsCount": 11,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T07:41:50.804Z"
+    },
+    {
       "date": "2026-09-04",
       "counts": {
-        "positive": 11,
-        "neutral": 8,
-        "negative": 4
+        "positive": 22,
+        "neutral": 16,
+        "negative": 8
       },
-      "summary": "positive:11 neutral:8 negative:4",
+      "summary": "positive:22 neutral:16 negative:8",
       "topics": [
         "Economic Growth and Job Creation",
-        "Travel and Tourism Impact",
-        "Political Commentary and Controversies"
+        "Political Commentary and Controversies",
+        "Endorsements and Support for Candidates"
       ],
-      "postsCount": 23,
+      "postsCount": 46,
       "hasDetail": true,
-      "generatedAt": "2026-09-05T07:21:05.208Z"
+      "generatedAt": "2026-09-05T07:42:04.590Z"
     }
   ],
-  "generatedAt": "2026-09-05T07:21:05.208Z"
+  "generatedAt": "2026-09-05T07:42:04.590Z"
 }
