@@ -1,0 +1,23 @@
+{
+  "month": "2026-09",
+  "days": [
+    {
+      "date": "2026-09-04",
+      "counts": {
+        "positive": 11,
+        "neutral": 7,
+        "negative": 4
+      },
+      "summary": "positive:11 neutral:7 negative:4",
+      "topics": [
+        "Economic Growth and Job Creation",
+        "Travel and Tourism Impact",
+        "Political Commentary and Controversies"
+      ],
+      "postsCount": 23,
+      "hasDetail": true,
+      "generatedAt": "2026-09-05T06:40:27.016Z"
+    }
+  ],
+  "generatedAt": "2026-09-05T06:40:27.016Z"
+}
