@@ -8,6 +8,129 @@ var AppComponent = class {
   // R1,R2
 };
 
+// src/app/utils/month-nav.ts
+var MONTH_NAMES = [
+  "January",
+  "February",
+  "March",
+  "April",
+  "May",
+  "June",
+  "July",
+  "August",
+  "September",
+  "October",
+  "November",
+  "December"
+];
+function utcYearMonth(now = /* @__PURE__ */ new Date()) {
+  return { year: now.getUTCFullYear(), month: now.getUTCMonth() + 1 };
+}
+function isValidYearMonth(year, month) {
+  return Number.isInteger(year) && Number.isInteger(month) && year >= 2e3 && year <= 2100 && month >= 1 && month <= 12;
+}
+function parseViewMonth(search, now = /* @__PURE__ */ new Date()) {
+  const params = new URLSearchParams(search.startsWith("?") ? search.slice(1) : search);
+  const year = Number.parseInt(params.get("year") || "", 10);
+  const month = Number.parseInt(params.get("month") || "", 10);
+  if (isValidYearMonth(year, month)) return { year, month };
+  return utcYearMonth(now);
+}
+function shiftMonth(view, delta) {
+  const d = new Date(Date.UTC(view.year, view.month - 1 + delta, 1));
+  return { year: d.getUTCFullYear(), month: d.getUTCMonth() + 1 };
+}
+function compareYearMonth(a, b) {
+  return a.year === b.year ? a.month - b.month : a.year - b.year;
+}
+function canGoToPreviousMonth(view) {
+  return compareYearMonth(view, { year: 2e3, month: 1 }) > 0;
+}
+function canGoToNextMonth(view, now = /* @__PURE__ */ new Date()) {
+  return compareYearMonth(view, utcYearMonth(now)) < 0;
+}
+function formatMonthTitle(view) {
+  const name = MONTH_NAMES[view.month - 1] || "Unknown";
+  return `${name} ${view.year}`;
+}
+function monthQueryString(view) {
+  return `year=${view.year}&month=${view.month}`;
+}
+function hrefForMonth(pathname, view) {
+  return `${pathname}?${monthQueryString(view)}`;
+}
+
+// src/app/calendar-month/calendar-month.component.ts
+var CalendarMonthComponent = class {
+  // T11
+  constructor(year, month, now = () => /* @__PURE__ */ new Date()) {
+    this.now = now;
+    const d = this.now();
+    this.year = year ?? d.getUTCFullYear();
+    this.month = month ?? d.getUTCMonth() + 1;
+  }
+  days = [];
+  // R1,R11
+  year;
+  month;
+  // 1-12
+  loading = false;
+  view() {
+    return { year: this.year, month: this.month };
+  }
+  setView(view) {
+    this.year = view.year;
+    this.month = view.month;
+  }
+  setData(days) {
+    this.days = days;
+  }
+  cellCount() {
+    return this.days.length;
+  }
+  // R1
+  sentimentTriple(day) {
+    const s = day.sentiments;
+    return `${s.positive}:${s.neutral}:${s.negative}`;
+  }
+  // T11: Loading state management
+  isLoading() {
+    return this.loading;
+  }
+  setLoading(value) {
+    this.loading = value;
+  }
+  // T11: Empty state detection (R11)
+  isEmpty() {
+    return this.days.length === 0;
+  }
+  emptyStateMessage() {
+    return "No data available for this month";
+  }
+  // T11: Accessibility helpers (R11)
+  ariaBusy() {
+    return this.loading ? "true" : "false";
+  }
+  ariaLabel() {
+    return `Calendar for ${this.monthTitle()}`;
+  }
+  monthTitle() {
+    return formatMonthTitle(this.view());
+  }
+  previousMonth() {
+    return shiftMonth(this.view(), -1);
+  }
+  nextMonth() {
+    return shiftMonth(this.view(), 1);
+  }
+  canGoPrevious() {
+    return canGoToPreviousMonth(this.view());
+  }
+  canGoNext() {
+    return canGoToNextMonth(this.view(), this.now());
+  }
+};
+
 // src/logging/logger.ts
 function log(level, msg, meta) {
   const payload = {
@@ -59,6 +182,9 @@ var MonthDataService = class {
     const url = `${this.dataRoot}/month/${monthStr}.json`;
     const fetchFn = this.fetchFn;
     const resp = await fetchFn(url);
+    if (resp.status === 404) {
+      return [];
+    }
     if (!resp.ok) {
       logger.error("Month data request failed", { status: resp.status, statusText: resp.statusText });
       throw new Error(`Month data request failed (${resp.status} ${resp.statusText})`);
@@ -161,10 +287,10 @@ function sentimentClass(s) {
 }
 
 // src/main.ts
-var monthDataService = new MonthDataService();
-var daySummaryService = new DaySummaryService();
 var popover = ensurePopover();
 var activePopoverDate = null;
+var loadGeneration = 0;
+var calendar = null;
 function ensurePopover() {
   const existing = document.getElementById("day-popover");
   if (existing) {
@@ -211,33 +337,85 @@ function renderPopoverSummary(target, summary) {
     `<div class="popover-title">${summary.date}</div>${content}${sentiments ? `<div class="popover-row">${sentiments}</div>` : ""}`
   );
 }
-async function loadMonth() {
-  const statusEl = document.getElementById("status");
-  const grid = document.getElementById("grid");
+function writeMonthUrl(runtime, view, mode) {
+  const next = hrefForMonth(runtime.location.pathname, view);
+  const url = `${next}${runtime.location.hash || ""}`;
+  if (mode === "push") {
+    runtime.history.pushState(view, "", url);
+  } else {
+    runtime.history.replaceState(view, "", url);
+  }
+}
+function syncNav(runtime, view) {
+  const label = runtime.document.getElementById("month-label");
+  const prev = runtime.document.getElementById("prev-month");
+  const next = runtime.document.getElementById("next-month");
+  const grid = runtime.document.getElementById("grid");
+  if (!calendar) {
+    calendar = new CalendarMonthComponent(view.year, view.month, runtime.now);
+  } else {
+    calendar.setView(view);
+  }
+  if (label) label.textContent = calendar.monthTitle();
+  if (grid) {
+    grid.setAttribute("aria-label", calendar.ariaLabel());
+    grid.setAttribute("aria-busy", calendar.ariaBusy());
+  }
+  if (prev) {
+    prev.disabled = !calendar.canGoPrevious();
+    prev.setAttribute("aria-disabled", prev.disabled ? "true" : "false");
+  }
+  if (next) {
+    next.disabled = !calendar.canGoNext();
+    next.setAttribute("aria-disabled", next.disabled ? "true" : "false");
+  }
+}
+async function loadMonth(runtime, view) {
+  const statusEl = runtime.document.getElementById("status");
+  const grid = runtime.document.getElementById("grid");
+  const emptyEl = runtime.document.getElementById("empty-state");
   if (!statusEl || !grid) return;
-  const url = new URL(window.location.href);
-  const yearParam = url.searchParams.get("year");
-  const monthParam = url.searchParams.get("month");
-  const now = /* @__PURE__ */ new Date();
-  const year = yearParam ? parseInt(yearParam, 10) : now.getUTCFullYear();
-  const month = monthParam ? parseInt(monthParam, 10) : now.getUTCMonth() + 1;
+  const gen = ++loadGeneration;
+  hidePopover();
+  if (!calendar) {
+    calendar = new CalendarMonthComponent(view.year, view.month, runtime.now);
+  }
+  calendar.setLoading(true);
+  syncNav(runtime, view);
   try {
     statusEl.textContent = "Loading month data...";
-    const days = await monthDataService.getMonth(year, month);
+    if (emptyEl) emptyEl.hidden = true;
+    grid.hidden = true;
+    const days = await runtime.monthDataService.getMonth(view.year, view.month);
+    if (gen !== loadGeneration) return;
+    calendar.setData(days);
+    calendar.setLoading(false);
+    syncNav(runtime, view);
     statusEl.textContent = "";
-    grid.hidden = false;
     grid.innerHTML = "";
+    if (calendar.isEmpty()) {
+      if (emptyEl) {
+        emptyEl.textContent = calendar.emptyStateMessage();
+        emptyEl.hidden = false;
+      } else {
+        statusEl.textContent = calendar.emptyStateMessage();
+      }
+      grid.hidden = true;
+      return;
+    }
+    if (emptyEl) emptyEl.hidden = true;
+    grid.hidden = false;
     days.forEach((d) => {
       const triple = formatTriple(d.sentiments);
       const cls = sentimentClass(d.sentiments);
-      const cell = document.createElement("div");
+      const cell = runtime.document.createElement("div");
       cell.className = `day ${cls}`;
       cell.dataset.date = d.date;
       cell.tabIndex = 0;
       cell.setAttribute("role", "button");
       cell.setAttribute("aria-haspopup", "dialog");
       cell.setAttribute("aria-label", `Open details for ${d.date}`);
-      const topicPreview = document.createElement("div");
+      const topicPreview = runtime.document.createElement("div");
       topicPreview.className = "topic-preview";
       topicPreview.textContent = d.summary ? `Summary: ${d.summary}` : "Summary: unavailable";
       cell.innerHTML = `<strong>${d.date}</strong><br/>Posts: ${d.postsCount}<br/>${triple}`;
@@ -245,7 +423,7 @@ async function loadMonth() {
       const showDetail = async () => {
         showPopoverLoading(cell, d.date);
         try {
-          const summary = await daySummaryService.getSummary(d.date);
+          const summary = await runtime.daySummaryService.getSummary(d.date);
           if (activePopoverDate !== d.date) return;
           renderPopoverSummary(cell, summary);
         } catch (e) {
@@ -262,15 +440,71 @@ async function loadMonth() {
       grid.appendChild(cell);
     });
   } catch (e) {
+    if (gen !== loadGeneration) return;
+    calendar.setLoading(false);
+    syncNav(runtime, view);
     statusEl.textContent = `Error loading data: ${e instanceof Error ? e.message : "Unknown error"}`;
     logger.error("Failed to load month data", { error: e instanceof Error ? e.message : String(e) });
   }
 }
+function goToMonth(runtime, view, mode) {
+  if (mode !== "none") writeMonthUrl(runtime, view, mode);
+  return loadMonth(runtime, view);
+}
+function defaultRuntime() {
+  return {
+    document,
+    location,
+    history,
+    monthDataService: new MonthDataService(),
+    // R1,R5
+    daySummaryService: new DaySummaryService()
+    // R1.1,R5.1
+  };
+}
+function initCalendar(runtime = defaultRuntime()) {
+  const now = runtime.now ?? (() => /* @__PURE__ */ new Date());
+  calendar = new CalendarMonthComponent(void 0, void 0, now);
+  const initial = parseViewMonth(runtime.location.search, now());
+  writeMonthUrl(runtime, initial, "replace");
+  const prev = runtime.document.getElementById("prev-month");
+  const next = runtime.document.getElementById("next-month");
+  prev?.addEventListener("click", () => {
+    if (!calendar?.canGoPrevious()) return;
+    void goToMonth(runtime, calendar.previousMonth(), "push");
+  });
+  next?.addEventListener("click", () => {
+    if (!calendar?.canGoNext()) return;
+    void goToMonth(runtime, calendar.nextMonth(), "push");
+  });
+  runtime.document.addEventListener("keydown", (event) => {
+    const target = event.target;
+    if (target && (target.tagName === "INPUT" || target.tagName === "TEXTAREA" || target.isContentEditable)) return;
+    if (event.key === "ArrowLeft" && calendar?.canGoPrevious()) {
+      event.preventDefault();
+      void goToMonth(runtime, calendar.previousMonth(), "push");
+    }
+    if (event.key === "ArrowRight" && calendar?.canGoNext()) {
+      event.preventDefault();
+      void goToMonth(runtime, calendar.nextMonth(), "push");
+    }
+  });
+  runtime.document.defaultView?.addEventListener("popstate", () => {
+    const view = parseViewMonth(runtime.location.search, now());
+    void goToMonth(runtime, view, "none");
+  });
+  void goToMonth(runtime, initial, "none");
+  return calendar;
+}
 function bootstrap() {
   return new AppComponent();
 }
-loadMonth();
+var isJest = typeof process !== "undefined" && !!process.env.JEST_WORKER_ID;
+if (!isJest && document.getElementById("grid")) {
+  initCalendar();
+}
 export {
-  bootstrap
+  bootstrap,
+  initCalendar
 };
 //# sourceMappingURL=bundle.js.map
