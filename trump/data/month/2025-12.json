@@ -28,6 +28,17 @@
       "hasDetail": true,
       "generatedAt": "2026-04-13T07:50:51.147Z",
       "trendingTopic": "Amazon to invest up to $50B to build AI infrastructure for US government agencies",
+      "secondaryHighlights": [
+        {
+          "topic": "Kennedy Center to Be Renamed Trump-Kennedy Center"
+        },
+        {
+          "topic": "Board votes Kennedy Center to be renamed 'Trump-Kennedy Center'"
+        },
+        {
+          "topic": "Kennedy Center Board Votes Unanimously to Add Donald Trump’s Name to Iconic D.C. Venue"
+        }
+      ],
       "selfPraiseCount": 0
     },
     {
@@ -44,10 +55,32 @@
       "generatedAt": "2026-04-13T07:51:18.183Z",
       "trendingTopic": "Tim Waltz of Minnesota is a Crooked Governor!!!",
       "trendingName": "Tim Waltz",
+      "secondaryHighlights": [
+        {
+          "topic": "The polls are rigged even more than the writers"
+        },
+        {
+          "topic": "There is more FRAUD in California than there is in Minnesota, if that is even possible"
+        },
+        {
+          "topic": "Douglas Murray: Trump cleaned up crime in DC"
+        }
+      ],
       "selfPraiseCount": 0
     }
   ],
   "generatedAt": "2026-04-13T07:51:18.183Z",
-  "trendingTopic": "Tim Waltz of Minnesota is a Crooked Governor!!!",
-  "trendingName": "Tim Waltz"
+  "trendingTopic": "Amazon to invest up to $50B to build AI infrastructure for US government agencies",
+  "secondaryHighlights": [
+    {
+      "topic": "Tim Waltz of Minnesota is a Crooked Governor!!!",
+      "name": "Tim Waltz"
+    },
+    {
+      "topic": "Kennedy Center to Be Renamed Trump-Kennedy Center"
+    },
+    {
+      "topic": "Board votes Kennedy Center to be renamed 'Trump-Kennedy Center'"
+    }
+  ]
 }

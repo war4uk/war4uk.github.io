@@ -18,6 +18,18 @@
       "hasDetail": true,
       "generatedAt": "2026-09-05T07:41:35.958Z",
       "trendingTopic": "It is my Great Honor to endorse",
+      "secondaryHighlights": [
+        {
+          "topic": "The United States is, as we speak, striking Iranian Targets near the Strait of Hormuz."
+        },
+        {
+          "topic": "Jon Voight stopped by the White House in order to support the Movie and Television Industry in America!",
+          "name": "Jon Voight"
+        },
+        {
+          "topic": "A great Senator and a great golfer!!!"
+        }
+      ],
       "selfPraiseCount": 8
     },
     {
@@ -37,6 +49,17 @@
       "hasDetail": true,
       "generatedAt": "2026-09-05T07:41:43.649Z",
       "trendingTopic": "I’m not trying to force Iran to the bargaining table, as ABC Fake News reported",
+      "secondaryHighlights": [
+        {
+          "topic": "Trump is winning the Iran war— stay the course"
+        },
+        {
+          "topic": "9 Weeks Left: Reframe Election to 'Capitalism vs. Socialism' for a Win"
+        },
+        {
+          "topic": "Woman is indicted over World War II Memorial vandalism incident"
+        }
+      ],
       "selfPraiseCount": 0
     },
     {
@@ -56,6 +79,17 @@
       "generatedAt": "2026-09-05T07:41:50.804Z",
       "trendingTopic": "Miranda Devine: AG Letitia James turns evil eye on Trump",
       "trendingName": "Letitia James",
+      "secondaryHighlights": [
+        {
+          "topic": "The people and Media Outlets that keep harping on the fact that we have no ammunition (And they are 100% wrong!), are actually treasonous."
+        },
+        {
+          "topic": "The Missouri Supreme Court just ridiculously ruled in favor of changing the maps back to what they were a long time ago."
+        },
+        {
+          "topic": "A Nice Man!!!"
+        }
+      ],
       "selfPraiseCount": 0
     },
     {
@@ -76,10 +110,34 @@
       "generatedAt": "2026-09-05T07:42:04.590Z",
       "trendingTopic": "Trump at His Finest: President Delivers Touching Eulogy for Lindsey Graham",
       "trendingName": "Lindsey Graham",
+      "secondaryHighlights": [
+        {
+          "topic": "I can’t believe Maria Bartiromo is no longer going to have her great show(s) on FoxNews/Business",
+          "name": "Maria Bartiromo"
+        },
+        {
+          "topic": "How Trump turned a frozen conflict into a model for peace"
+        },
+        {
+          "topic": "How Trump can help Ukraine build its own Patriot missiles"
+        }
+      ],
       "selfPraiseCount": 4
     }
   ],
   "generatedAt": "2026-09-05T07:42:04.590Z",
   "trendingTopic": "Trump at His Finest: President Delivers Touching Eulogy for Lindsey Graham",
-  "trendingName": "Lindsey Graham"
+  "trendingName": "Lindsey Graham",
+  "secondaryHighlights": [
+    {
+      "topic": "It is my Great Honor to endorse"
+    },
+    {
+      "topic": "I’m not trying to force Iran to the bargaining table, as ABC Fake News reported"
+    },
+    {
+      "topic": "Miranda Devine: AG Letitia James turns evil eye on Trump",
+      "name": "Letitia James"
+    }
+  ]
 }

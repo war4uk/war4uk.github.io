@@ -41,6 +41,16 @@
       background: #f8fafc;
     }
     #month-highlights h3 { margin: 0 0 0.45rem; font-size: 0.95rem; }
+    #month-highlights h4 { margin: 0.65rem 0 0.35rem; font-size: 0.9rem; }
+    #month-secondary-list { margin: 0; padding: 0; list-style: none; }
+    #month-secondary-list li {
+      display: grid;
+      gap: 0.15rem;
+      padding: 0.45rem 0 0.35rem;
+      border-top: 1px solid #e6eaf0;
+    }
+    .month-story-topic { font-weight: 600; }
+    .month-story-name { color: #555; font-size: 0.9rem; }
     .hl-row { margin: 0.2rem 0; font-size: 0.95rem; }
     .hl-label, .popover-label { color: #555; margin-right: 0.4rem; font-weight: 600; }
     #grid { display: grid; grid-template-columns: repeat(auto-fill,minmax(140px,1fr)); gap: 8px; }
@@ -158,10 +168,14 @@
     <h3 id="month-highlights-heading">Month so far</h3>
     <p class="hl-row"><span class="hl-label">Trending topic</span> <span id="month-trending-topic">—</span></p>
     <p class="hl-row"><span class="hl-label">Trending name</span> <span id="month-trending-name">—</span></p>
+    <div id="month-secondary" hidden>
+      <h4>Also trending</h4>
+      <ol id="month-secondary-list"></ol>
+    </div>
   </section>
   <div id="status">Loading…</div>
   <p id="empty-state" hidden>No data available for this month</p>
   <div id="grid" hidden></div>
-  <script type="module" src="./bundle.js?v=day-themes-1"></script>
+  <script type="module" src="./bundle.js?v=month-themes-3"></script>
 </body>
 </html>

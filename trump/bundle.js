@@ -174,6 +174,16 @@ function resolveDataRoot(options) {
 function asOptionalString(value) {
   return typeof value === "string" && value.trim() ? value.trim() : void 0;
 }
+function asHighlightList(value) {
+  if (!Array.isArray(value)) return [];
+  return value.map((item) => {
+    if (!item || typeof item !== "object") return void 0;
+    const topic = asOptionalString(item.topic);
+    if (!topic) return void 0;
+    const name = asOptionalString(item.name);
+    return name ? { topic, name } : { topic };
+  }).filter((item) => !!item);
+}
 var MonthDataService = class {
   fetchFn;
   dataRoot;
@@ -201,23 +211,29 @@ var MonthDataService = class {
       throw new Error(`Month data request failed (${resp.status} ${resp.statusText})`);
     }
     const payload = await resp.json();
-    const mapped = (payload?.days || []).map((d) => ({
-      date: d.date,
-      postsCount: d.postsCount,
-      sentiments: d.counts ?? { positive: 0, neutral: 0, negative: 0 },
-      summary: d.summary ?? "",
-      hasDetail: d.hasDetail ?? true,
-      generatedAt: d.generatedAt ?? "",
-      topics: Array.isArray(d.topics) ? d.topics.filter((t) => typeof t === "string") : [],
-      trendingTopic: asOptionalString(d.trendingTopic),
-      trendingName: asOptionalString(d.trendingName),
-      selfPraiseCount: Number.isFinite(Number(d.selfPraiseCount)) ? Math.max(0, Math.trunc(Number(d.selfPraiseCount))) : 0
-    }));
+    const mapped = (payload?.days || []).map((d) => {
+      const secondaryHighlights = asHighlightList(d.secondaryHighlights);
+      return {
+        date: d.date,
+        postsCount: d.postsCount,
+        sentiments: d.counts ?? { positive: 0, neutral: 0, negative: 0 },
+        summary: d.summary ?? "",
+        hasDetail: d.hasDetail ?? true,
+        generatedAt: d.generatedAt ?? "",
+        topics: Array.isArray(d.topics) ? d.topics.filter((t) => typeof t === "string") : [],
+        trendingTopic: asOptionalString(d.trendingTopic),
+        trendingName: asOptionalString(d.trendingName),
+        selfPraiseCount: Number.isFinite(Number(d.selfPraiseCount)) ? Math.max(0, Math.trunc(Number(d.selfPraiseCount))) : 0,
+        ...secondaryHighlights.length ? { secondaryHighlights } : {}
+      };
+    });
+    const monthSecondaries = asHighlightList(payload?.secondaryHighlights);
     const view = {
       month: payload?.month || monthStr,
       days: mapped,
       trendingTopic: asOptionalString(payload?.trendingTopic),
-      trendingName: asOptionalString(payload?.trendingName)
+      trendingName: asOptionalString(payload?.trendingName),
+      ...monthSecondaries.length ? { secondaryHighlights: monthSecondaries } : {}
     };
     this.cache.set(cacheKey, view);
     return view;
@@ -371,7 +387,6 @@ function sentimentGradient(s) {
 }
 
 // src/app/utils/month-highlights.ts
-var TRAILING_INCOMPLETE = /\b(the|a|an|of|and|or|to|for|in|on|at|by|with|from|as|that|throughout|who|which|whom|whose|people of|for the|in the|of the|and the|and who|who is|from the|throughout the)\s*$/i;
 var HISTORICAL_NAMES = /* @__PURE__ */ new Set([
   "thomas jefferson",
   "george washington",
@@ -383,21 +398,14 @@ var HISTORICAL_NAMES = /* @__PURE__ */ new Set([
   "teddy roosevelt",
   "franklin roosevelt"
 ]);
-function isCompleteHeadline(topic) {
-  if (!topic) return false;
-  const t = topic.replace(/\s+/g, " ").trim();
-  if (t.length < 12 || t.length > 140) return false;
-  if (/^[A-Z0-9 .,'’:-]+$/.test(t) && t === t.toUpperCase() && t.length < 40) return false;
-  if (TRAILING_INCOMPLETE.test(t)) return false;
-  if (/\b(u\.s\.a|u\.s|lt|st|mr|dr|gen|gov|sen)\.?$/i.test(t)) return false;
-  if (/[,:;]$/.test(t)) return false;
-  if ((t.match(/["“”]/g) || []).length % 2 === 1) return false;
-  if (/\bI$/.test(t)) return false;
-  if (/\b(represent|including)\s*$/i.test(t)) return false;
-  if (/\b(where|who|whom|whose|which|that|and|or|for|with|from|under|of|to|our|my)\s+[A-Z][A-Za-z'’]*$/.test(t)) return false;
-  if (/^https?:/i.test(t) || /^RT:?\s/i.test(t)) return false;
-  if (/\/statuses\//i.test(t) || /truthsocial\.com/i.test(t)) return false;
-  return true;
+var GENERIC_TOPIC = /^(economic growth|political commentary|endorsements and support|international relations|legal proceedings|general news|controversies)\b/i;
+function acceptModelHeadline(topic) {
+  const t = (topic || "").replace(/\s+/g, " ").trim();
+  if (!t) return void 0;
+  if (/^https?:/i.test(t) || /^RT:?\s/i.test(t)) return void 0;
+  if (/\/statuses\//i.test(t) || /truthsocial\.com/i.test(t)) return void 0;
+  if (GENERIC_TOPIC.test(t)) return void 0;
+  return t;
 }
 function nameMentionsTopic(name, topic) {
   if (!name || !topic) return false;
@@ -410,79 +418,94 @@ function utcToday(now) {
   if (typeof now === "string") return now.slice(0, 10);
   return now.toISOString().slice(0, 10);
 }
-function pickFrequent(items) {
-  const map = /* @__PURE__ */ new Map();
-  for (const item of items) {
-    const key = item.value.toLowerCase();
-    const prev = map.get(key);
-    if (!prev) {
-      map.set(key, { count: 1, date: item.date, weight: item.weight, value: item.value });
-    } else {
-      prev.count += 1;
-      if (item.date > prev.date) prev.date = item.date;
-      prev.weight = Math.max(prev.weight, item.weight);
-    }
-  }
-  let best;
-  for (const stats of map.values()) {
-    if (!best) {
-      best = stats;
-      continue;
-    }
-    if (stats.count > best.count) best = stats;
-    else if (stats.count === best.count) {
-      if (stats.date > best.date) best = stats;
-      else if (stats.date === best.date && stats.weight > best.weight) best = stats;
-      else if (stats.date === best.date && stats.weight === best.weight && stats.value.localeCompare(best.value) < 0) best = stats;
-    }
-  }
-  return best?.value;
-}
-function topicQuality(topic, name, postsCount = 0) {
-  let score = isCompleteHeadline(topic) ? 8 : -12;
-  const len = topic.length;
-  if (len >= 28 && len <= 90) score += 4;
-  else if (len >= 18 && len <= 110) score += 2;
-  if (nameMentionsTopic(name, topic)) score += 5;
-  if (/[—:]/.test(topic)) score += 1;
-  score += Math.min(4, Math.floor((postsCount || 0) / 15));
-  return score;
-}
 function usableName(name) {
   if (!name) return false;
   return !HISTORICAL_NAMES.has(name.toLowerCase());
+}
+function openingKey(text) {
+  const tokens = text.toLowerCase().replace(/['’]/g, "").replace(/[^a-z0-9]+/g, " ").split(/\s+/).filter(Boolean);
+  return tokens.slice(0, 6).join(" ");
+}
+function clusterHeadline(members) {
+  return [...members].sort((a, b) => b.posts - a.posts || b.headline.length - a.headline.length)[0].headline;
 }
 function monthSoFarDays(days, month, now) {
   const today = utcToday(now);
   if (today.startsWith(month)) return days.filter((d) => d.date <= today);
   return days;
 }
-function monthSoFarHighlights(days, month, now) {
-  const scoped = monthSoFarDays(days, month, now);
-  const coherent = scoped.filter((d) => isCompleteHeadline(d.trendingTopic));
-  const namedWithTopic = coherent.filter(
-    (d) => usableName(d.trendingName) && nameMentionsTopic(d.trendingName, d.trendingTopic)
-  );
-  const namedDays = namedWithTopic.length ? namedWithTopic : coherent.filter((d) => usableName(d.trendingName));
-  const name = pickFrequent(
-    namedDays.map((d) => ({ value: d.trendingName, date: d.date, weight: d.postsCount || 0 }))
-  );
-  const topicPool = name ? coherent.filter((d) => d.trendingName && d.trendingName.toLowerCase() === name.toLowerCase()) : coherent;
-  const topicDays = topicPool.length ? topicPool : coherent;
-  let bestTopic;
-  for (const day of topicDays) {
-    const value = day.trendingTopic;
-    const score = topicQuality(value, name, day.postsCount);
-    if (!bestTopic || score > bestTopic.score) bestTopic = { score, value };
+function rankMonthThemes(days) {
+  const clusters = /* @__PURE__ */ new Map();
+  const push = (headline, name, posts) => {
+    const topic = acceptModelHeadline(headline);
+    if (!topic) return;
+    const key = openingKey(topic);
+    if (!key) return;
+    const member = {
+      headline: topic,
+      ...usableName(name) ? { name } : {},
+      posts
+    };
+    const prev = clusters.get(key);
+    if (prev) prev.push(member);
+    else clusters.set(key, [member]);
+  };
+  for (const day of days) {
+    const posts = day.postsCount || 0;
+    push(day.trendingTopic, day.trendingName, posts);
+    for (const extra of day.secondaryHighlights || []) {
+      push(extra.topic, extra.name, 0);
+    }
   }
+  const ranked = Array.from(clusters.values()).map((members) => {
+    const clustered = members.length >= 2;
+    const topic = clustered ? clusterHeadline(members) : members[0].headline;
+    const names = members.map((m) => m.name).filter((name2) => !!name2);
+    const unanimous = names.length > 0 && names.every((name2) => name2.toLowerCase() === names[0].toLowerCase());
+    const candidate = clustered ? unanimous && names.length === members.length ? names[0] : void 0 : names[0];
+    const name = nameMentionsTopic(candidate, topic) ? candidate : void 0;
+    const posts = members.reduce((sum, m) => sum + m.posts, 0);
+    return {
+      topic,
+      count: members.length,
+      posts,
+      ...name ? { name } : {}
+    };
+  }).filter((theme) => acceptModelHeadline(theme.topic));
+  ranked.sort((a, b) => b.count - a.count || b.posts - a.posts);
+  return ranked;
+}
+function monthSoFarHighlights(days, month, now) {
+  const ranked = rankMonthThemes(monthSoFarDays(days, month, now));
+  const best = ranked[0];
+  const secondaryHighlights = ranked.slice(1).filter((theme) => theme.topic.toLowerCase() !== (best?.topic || "").toLowerCase()).slice(0, 3).map((theme) => ({ topic: theme.topic, ...theme.name ? { name: theme.name } : {} }));
   return {
-    ...bestTopic && bestTopic.score > 0 ? { trendingTopic: bestTopic.value } : {},
-    ...name ? { trendingName: name } : {}
+    ...best ? { trendingTopic: best.topic } : {},
+    ...best?.name ? { trendingName: best.name } : {},
+    ...secondaryHighlights.length ? { secondaryHighlights } : {}
+  };
+}
+function cleanHighlight(item, primary) {
+  const topic = acceptModelHeadline(item?.topic);
+  if (!topic) return void 0;
+  if (primary && topic.toLowerCase() === primary.toLowerCase()) return void 0;
+  const name = usableName(item?.name) ? item.name : void 0;
+  return name ? { topic, name } : { topic };
+}
+function resolveMonthHighlights(stored, fallback) {
+  const topic = acceptModelHeadline(stored?.trendingTopic);
+  if (!topic) return fallback;
+  const name = usableName(stored?.trendingName) && nameMentionsTopic(stored.trendingName, topic) ? stored.trendingName : void 0;
+  const secondaryHighlights = (stored?.secondaryHighlights || []).map((item) => cleanHighlight(item, topic)).filter((item) => !!item).slice(0, 3);
+  return {
+    trendingTopic: topic,
+    ...name ? { trendingName: name } : {},
+    ...secondaryHighlights.length ? { secondaryHighlights } : {}
   };
 }
 
 // src/app/utils/day-stories.ts
-var GENERIC_TOPIC = /^(economic growth|political commentary|endorsements and support|international relations|legal proceedings|general news|controversies)/i;
+var GENERIC_TOPIC2 = /^(economic growth|political commentary|endorsements and support|international relations|legal proceedings|general news|controversies)/i;
 var SKIP_NAME = /* @__PURE__ */ new Set([
   "united states",
   "truth social",
@@ -618,11 +641,12 @@ function cleanTitle(raw) {
   if (/^https?:\/\//i.test(t) || t.length < 8) return "";
   return t;
 }
-function isCompleteHeadline2(topic) {
+function isCompleteHeadline(topic) {
   const t = topic.replace(/\s+/g, " ").trim();
   if (t.length < 12 || t.length > 140) return false;
-  if (GENERIC_TOPIC.test(t)) return false;
+  if (GENERIC_TOPIC2.test(t)) return false;
   if (/\b(the|a|an|of|and|or|to|for|in|on|at|by|with|from|as|that|throughout|who|which|like|then|when)\s*$/i.test(t)) return false;
+  if (/\bto\s+[A-Za-z][A-Za-z'-]*$/i.test(t)) return false;
   if (/\b(u\.s\.a|u\.s|lt)\.?$/i.test(t)) return false;
   if (/^https?:/i.test(t) || /^RT:?\s/i.test(t)) return false;
   return true;
@@ -631,15 +655,15 @@ function compactHeadline(raw, max = 110) {
   const t = raw.replace(/\s+/g, " ").trim();
   if (!t) return "";
   const dash = t.split(/\s+[—–]\s+/)[0]?.trim();
-  if (dash && dash !== t && isCompleteHeadline2(dash) && dash.length <= max) return dash;
-  if (isCompleteHeadline2(t) && t.length <= max) return t;
+  if (dash && dash !== t && isCompleteHeadline(dash) && dash.length <= max) return dash;
+  if (isCompleteHeadline(t) && t.length <= max) return t;
   if (t.length > max) {
     const slice = t.slice(0, max);
     const at = slice.lastIndexOf(" ");
     const cut = (at > 40 ? slice.slice(0, at) : slice).trim().replace(/[,:;.-]+$/, "");
-    if (isCompleteHeadline2(cut)) return cut;
+    if (isCompleteHeadline(cut)) return cut;
   }
-  return isCompleteHeadline2(t) ? t : "";
+  return isCompleteHeadline(t) ? t : "";
 }
 function extractName(text) {
   const hay = stripHtml(text);
@@ -718,32 +742,23 @@ function listDayPosts(posts, sentiments = []) {
 function sameStory(a, b) {
   return a.topic.trim().toLowerCase() === b.topic.trim().toLowerCase();
 }
-function openingKey(text) {
+function acceptStoredHeadline(topic) {
+  const t = (topic || "").replace(/\s+/g, " ").trim();
+  if (!t || GENERIC_TOPIC2.test(t)) return void 0;
+  if (/^https?:/i.test(t) || /^RT:?\s/i.test(t)) return void 0;
+  return t;
+}
+function openingKey2(text) {
   const tokens = text.toLowerCase().replace(/['’]/g, "").replace(/[^a-z0-9]+/g, " ").split(/\s+/).filter(Boolean);
   return tokens.slice(0, 6).join(" ");
-}
-function sharedPrefixHeadline(headlines) {
-  const tokenized = headlines.map((h) => h.replace(/\s+/g, " ").trim().split(/\s+/).filter(Boolean)).filter((tokens) => tokens.length);
-  if (!tokenized.length) return "";
-  const prefix = [];
-  for (let i = 0; i < tokenized[0].length; i++) {
-    const word = tokenized[0][i];
-    if (tokenized.every((tokens) => tokens[i] && tokens[i].toLowerCase() === word.toLowerCase())) {
-      prefix.push(word);
-    } else {
-      break;
-    }
-  }
-  const label = prefix.join(" ");
-  return isCompleteHeadline2(label) ? label : "";
 }
 function buildDayStoryBoard(input) {
   const posts = listDayPosts(input.posts || [], input.sentiments || []);
   const ranked = [];
   const seen = /* @__PURE__ */ new Set();
   const push = (pair) => {
-    const topic = pair?.topic?.replace(/\s+/g, " ").trim();
-    if (!topic || !isCompleteHeadline2(topic) || seen.has(topic.toLowerCase())) return;
+    const topic = acceptStoredHeadline(pair?.topic);
+    if (!topic || seen.has(topic.toLowerCase())) return;
     seen.add(topic.toLowerCase());
     ranked.push({ topic, ...pair?.name ? { name: pair.name } : {} });
   };
@@ -756,7 +771,7 @@ function buildDayStoryBoard(input) {
     const topic = headlineFromPost(post);
     if (!topic) continue;
     const name = extractName(`${cleanTitle(post.title || "")} ${post.raw?.contentSnippet || stripHtml(post.text || "")}`);
-    const key = openingKey(topic) || topic.toLowerCase();
+    const key = openingKey2(topic) || topic.toLowerCase();
     const prev = clusters.get(key);
     if (prev) {
       prev.headlines.push(topic);
@@ -766,8 +781,7 @@ function buildDayStoryBoard(input) {
     }
   }
   const clustered = Array.from(clusters.values()).map((group) => {
-    const clusteredLabel = group.headlines.length >= 2 ? sharedPrefixHeadline(group.headlines) : "";
-    const topic = clusteredLabel || group.headlines[0];
+    const topic = [...group.headlines].sort((a, b) => b.length - a.length)[0];
     const unanimous = group.names.length > 0 && group.names.every((n) => n.toLowerCase() === group.names[0].toLowerCase());
     const name = unanimous ? group.names[0] : void 0;
     return {
@@ -915,19 +929,34 @@ async function openDayDetail(runtime, date, mode) {
 function monthKey(view) {
   return `${view.year}-${String(view.month).padStart(2, "0")}`;
 }
-function renderMonthHighlights(runtime, view, days) {
+function renderMonthHighlights(runtime, view, month) {
   const section = runtime.document.getElementById("month-highlights");
   const heading = runtime.document.getElementById("month-highlights-heading");
   const topicEl = runtime.document.getElementById("month-trending-topic");
   const nameEl = runtime.document.getElementById("month-trending-name");
+  const secondaryWrap = runtime.document.getElementById("month-secondary");
+  const secondaryList = runtime.document.getElementById("month-secondary-list");
   if (!section || !topicEl || !nameEl) return;
+  const days = month.days || [];
   const today = (runtime.now ?? (() => /* @__PURE__ */ new Date()))().toISOString().slice(0, 10);
   const key = monthKey(view);
-  const highlights = monthSoFarHighlights(days, key, today);
+  const highlights = resolveMonthHighlights(
+    {
+      trendingTopic: month.trendingTopic,
+      trendingName: month.trendingName,
+      secondaryHighlights: month.secondaryHighlights
+    },
+    monthSoFarHighlights(days, key, today)
+  );
   const isCurrent = today.startsWith(key);
   if (heading) heading.textContent = isCurrent ? "Month so far" : "This month";
   topicEl.textContent = highlights.trendingTopic || "\u2014";
   nameEl.textContent = highlights.trendingName || "\u2014";
+  const extras = highlights.secondaryHighlights || [];
+  if (secondaryList) {
+    secondaryList.innerHTML = extras.length ? extras.map((item) => `<li><div><span class="hl-label">Topic</span> <span class="month-story-topic">${escapeHtml(item.topic)}</span></div><div><span class="hl-label">Name</span> <span class="month-story-name">${escapeHtml(item.name || "\u2014")}</span></div></li>`).join("") : "";
+  }
+  if (secondaryWrap) secondaryWrap.hidden = extras.length === 0;
   section.hidden = days.length === 0;
 }
 function syncNav(runtime, view) {
@@ -976,7 +1005,7 @@ async function loadMonth(runtime, view) {
     calendar.setData(days);
     calendar.setLoading(false);
     syncNav(runtime, view);
-    renderMonthHighlights(runtime, view, days);
+    renderMonthHighlights(runtime, view, month);
     statusEl.textContent = "";
     grid.innerHTML = "";
     if (calendar.isEmpty()) {
@@ -1033,7 +1062,7 @@ async function loadMonth(runtime, view) {
     syncNav(runtime, view);
     statusEl.textContent = `Error loading data: ${e instanceof Error ? e.message : "Unknown error"}`;
     logger.error("Failed to load month data", { error: e instanceof Error ? e.message : String(e) });
-    renderMonthHighlights(runtime, view, []);
+    renderMonthHighlights(runtime, view, { days: [] });
   }
 }
 function goToMonth(runtime, view, mode) {
