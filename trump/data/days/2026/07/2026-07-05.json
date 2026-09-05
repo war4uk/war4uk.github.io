@@ -2,30 +2,28 @@
   "date": "2026-07-05",
   "counts": {
     "positive": 23,
-    "neutral": 63,
+    "neutral": 67,
     "negative": 10
   },
-  "summary": "positive:23 neutral:63 negative:10",
-  "generatedAt": "2026-09-05T07:58:22.193Z",
+  "summary": "positive:23 neutral:67 negative:10",
+  "generatedAt": "2026-09-05T19:55:31.871Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies",
-    "Disaster Recovery and Assistance"
+    "Justin Gaethje wins UFC World Championship",
+    "Massive crowd at White House event despite weather",
+    "Spectacular fireworks show praised by Trump"
   ],
-  "trendingTopic": "From Greg Wischer at the United States Department of the Interior: “After 6 long years, the original cannons that previously surrounded the Andrew Jackson statue in Lafayette Park but were damaged in the 2020 riots have been returned to their rightful location around the statue.The four cannons—El Witiza, El Egica, El Apolo, and El Aristeo—were captured by Andrew Jackson from the Spanish in his Pensacola Campaign in 1818.",
-  "trendingName": "Andrew Jackson",
+  "trendingTopic": "Justin Gaethje celebrated at the White House after winning the UFC World Championship",
+  "trendingName": "Justin Gaethje",
   "secondaryHighlights": [
     {
-      "topic": "The Crowd at 7:05 in the evening was 422,000 people!"
+      "topic": "Massive crowd at White House event despite weather"
     },
     {
-      "topic": "Dr. John G. Trump, of MIT!"
-    },
-    {
-      "topic": "My father and mentor, Fred C. Trump!"
+      "topic": "Spectacular fireworks show praised by Trump"
     }
   ],
   "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v3:100:a2d20af234ee193ec5acff7d",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39724",

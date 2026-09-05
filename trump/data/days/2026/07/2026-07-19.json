@@ -6,25 +6,24 @@
     "negative": 5
   },
   "summary": "positive:14 neutral:23 negative:5",
-  "generatedAt": "2026-09-05T08:01:14.127Z",
+  "generatedAt": "2026-09-05T19:56:35.151Z",
   "topics": [
-    "Economic Growth and Job Creation",
-    "Political Commentary and Controversies"
+    "Andy Burnham opens North Sea Oil in Scotland",
+    "Trump highlights $10 billion in defense investments",
+    "Republicans push for Iran sanctions"
   ],
-  "trendingTopic": "Republicans should add Iran to the Russian Sanctions Bill",
+  "trendingTopic": "Andy Burnham's decision to open North Sea Oil sparks celebration in Scotland",
+  "trendingName": "Andy Burnham",
   "secondaryHighlights": [
     {
-      "topic": "The People of Aberdeen, in Scotland, are dancing in the streets because the new Prime Minister, Andy Burnham, has stated that he will be opening up, all the way, the invaluable North Sea Oil!"
+      "topic": "Trump announces nearly $10 billion in defense contracts"
     },
     {
-      "topic": "They do this, and the Republican Party is DEAD!Key House caucus leaders target Supreme Court, Senate filibuster"
-    },
-    {
-      "topic": "GUILTY!Jack Smith spied on me in Congress",
-      "name": "Jack Smith"
+      "topic": "Republicans advocate for adding Iran to sanctions bill"
     }
   ],
   "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v3:42:b40ded26ccf0686ca3b7d2db",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40106",
