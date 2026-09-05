@@ -1,0 +1,546 @@
+{
+  "date": "2026-05-10",
+  "counts": {
+    "positive": 6,
+    "neutral": 8,
+    "negative": 8
+  },
+  "summary": "positive:6 neutral:8 negative:8",
+  "generatedAt": "2026-09-05T08:27:30.382Z",
+  "topics": [
+    "Economic Growth and Job Creation",
+    "Political Commentary and Controversies"
+  ],
+  "posts": [
+    {
+      "id": "https://www.trumpstruth.org/statuses/38303",
+      "publishedAt": "2026-05-10T00:22:14.000Z",
+      "title": "Pathetic!!!",
+      "text": "<p>Pathetic!!!</p>",
+      "url": "https://www.trumpstruth.org/statuses/38303",
+      "raw": {
+        "creator": "",
+        "title": "Pathetic!!!",
+        "link": "https://www.trumpstruth.org/statuses/38303",
+        "pubDate": "Sun, 10 May 2026 00:22:14 +0000",
+        "author": "",
+        "content": "<p>Pathetic!!!</p>",
+        "contentSnippet": "Pathetic!!!",
+        "guid": "https://www.trumpstruth.org/statuses/38303",
+        "isoDate": "2026-05-10T00:22:14.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/38305",
+      "publishedAt": "2026-05-10T00:25:13.000Z",
+      "title": "Does anybody believe this guy??? A Dirty Cop!!!",
+      "text": "<p>Does anybody believe this guy??? A Dirty Cop!!!</p>",
+      "url": "https://www.trumpstruth.org/statuses/38305",
+      "raw": {
+        "creator": "",
+        "title": "Does anybody believe this guy??? A Dirty Cop!!!",
+        "link": "https://www.trumpstruth.org/statuses/38305",
+        "pubDate": "Sun, 10 May 2026 00:25:13 +0000",
+        "author": "",
+        "content": "<p>Does anybody believe this guy??? A Dirty Cop!!!</p>",
+        "contentSnippet": "Does anybody believe this guy??? A Dirty Cop!!!",
+        "guid": "https://www.trumpstruth.org/statuses/38305",
+        "isoDate": "2026-05-10T00:25:13.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/38304",
+      "publishedAt": "2026-05-10T00:26:28.000Z",
+      "title": "[No Title] - Post from May 10, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/38304",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from May 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/38304",
+        "pubDate": "Sun, 10 May 2026 00:26:28 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/38304",
+        "isoDate": "2026-05-10T00:26:28.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/38307",
+      "publishedAt": "2026-05-10T01:32:26.000Z",
+      "title": "[No Title] - Post from May 10, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/38307",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from May 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/38307",
+        "pubDate": "Sun, 10 May 2026 01:32:26 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/38307",
+        "isoDate": "2026-05-10T01:32:26.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/38306",
+      "publishedAt": "2026-05-10T01:33:43.000Z",
+      "title": "[No Title] - Post from May 10, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/38306",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from May 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/38306",
+        "pubDate": "Sun, 10 May 2026 01:33:43 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/38306",
+        "isoDate": "2026-05-10T01:33:43.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/38309",
+      "publishedAt": "2026-05-10T12:37:41.000Z",
+      "title": "[No Title] - Post from May 10, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/38309",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from May 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/38309",
+        "pubDate": "Sun, 10 May 2026 12:37:41 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/38309",
+        "isoDate": "2026-05-10T12:37:41.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/38308",
+      "publishedAt": "2026-05-10T12:39:41.000Z",
+      "title": "[No Title] - Post from May 10, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/38308",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from May 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/38308",
+        "pubDate": "Sun, 10 May 2026 12:39:41 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/38308",
+        "isoDate": "2026-05-10T12:39:41.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/38310",
+      "publishedAt": "2026-05-10T12:40:28.000Z",
+      "title": "[No Title] - Post from May 10, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/38310",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from May 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/38310",
+        "pubDate": "Sun, 10 May 2026 12:40:28 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/38310",
+        "isoDate": "2026-05-10T12:40:28.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/38311",
+      "publishedAt": "2026-05-10T12:45:36.000Z",
+      "title": "Exclusive: Israel's Foreign Minister Saar Praises Trump, Remarkable Leadership:",
+      "text": "<p>Exclusive: Israel's Foreign Minister Saar Praises Trump, Remarkable Leadership: <a href=\"https://www.newsmax.com/newsmax-tv/israel-gideon-saar-donald-trump/2026/03/08/id/1248756/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/newsmax-tv/israel-</span><span class=\"invisible\">gideon-saar-donald-trump/2026/03/08/id/1248756/</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/38311",
+      "raw": {
+        "creator": "",
+        "title": "Exclusive: Israel's Foreign Minister Saar Praises Trump, Remarkable Leadership:",
+        "link": "https://www.trumpstruth.org/statuses/38311",
+        "pubDate": "Sun, 10 May 2026 12:45:36 +0000",
+        "author": "",
+        "content": "<p>Exclusive: Israel's Foreign Minister Saar Praises Trump, Remarkable Leadership: <a href=\"https://www.newsmax.com/newsmax-tv/israel-gideon-saar-donald-trump/2026/03/08/id/1248756/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/newsmax-tv/israel-</span><span class=\"invisible\">gideon-saar-donald-trump/2026/03/08/id/1248756/</span></a></p>",
+        "contentSnippet": "Exclusive: Israel's Foreign Minister Saar Praises Trump, Remarkable Leadership: https://www.newsmax.com/newsmax-tv/israel-gideon-saar-donald-trump/2026/03/08/id/1248756/",
+        "guid": "https://www.trumpstruth.org/statuses/38311",
+        "isoDate": "2026-05-10T12:45:36.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/38312",
+      "publishedAt": "2026-05-10T17:52:46.000Z",
+      "title": "Iran has been playing games with the United States, and the rest of the World, for 47 years (DELAY, DELAY, DELAY!), and then finally hit “pay dirt” when Barack Hussein Obama became President. He was not only good to them, he was great, actually going to their side, jettisoning Israel, and all other Allies, and giving Iran a major and very powerful new lease on life. Hundreds of Billions of Dollars, and 1.7 Billion Dollars in green cash, flown into Tehran, was handed to them on a silver platter. Every Bank in D.C., Virginia, and Maryland was emptied out — It was so much money that when it arrived, the Iranian Thugs had no idea what to do with it. They had never seen money like this, and never will again. It was taken off the plane in suitcases and satchels, and the Iranians couldn’t believe their luck. They finally found the greatest SUCKER of them all, in the form of a weak and stupid American President. He was a disaster as our “Leader,” but not as bad as Sleepy Joe Biden! For 47 years the Iranians have been “tapping” us along, keeping us waiting, killing our people with their roadside bombs, destroying protests, and recently wiping out 42,000 innocent, unarmed protestors, and laughing at our now GREAT AGAIN Country. They will be laughing no longer! President DONALD J. TRUMP",
+      "text": "<p>Iran has been playing games with the United States, and the rest of the World, for 47 years (DELAY, DELAY, DELAY!), and then finally hit “pay dirt” when Barack Hussein Obama became President. He was not only good to them, he was great, actually going to their side, jettisoning Israel, and all other Allies, and giving Iran a major and very powerful new lease on life. Hundreds of Billions of Dollars, and 1.7 Billion Dollars in green cash, flown into Tehran, was handed to them on a silver platter. Every Bank in D.C., Virginia, and Maryland was emptied out — It was so much money that when it arrived, the Iranian Thugs had no idea what to do with it. They had never seen money like this, and never will again. It was taken off the plane in suitcases and satchels, and the Iranians couldn’t believe their luck. They finally found the greatest SUCKER of them all, in the form of a weak and stupid American President. He was a disaster as our “Leader,” but not as bad as Sleepy Joe Biden! For 47 years the Iranians have been “tapping” us along, keeping us waiting, killing our people with their roadside bombs, destroying protests, and recently wiping out 42,000 innocent, unarmed protestors, and laughing at our now GREAT AGAIN Country. They will be laughing no longer! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/38312",
+      "raw": {
+        "creator": "",
+        "title": "Iran has been playing games with the United States, and the rest of the World, for 47 years (DELAY, DELAY, DELAY!), and then finally hit “pay dirt” when Barack Hussein Obama became President. He was not only good to them, he was great, actually going to their side, jettisoning Israel, and all other Allies, and giving Iran a major and very powerful new lease on life. Hundreds of Billions of Dollars, and 1.7 Billion Dollars in green cash, flown into Tehran, was handed to them on a silver platter. Every Bank in D.C., Virginia, and Maryland was emptied out — It was so much money that when it arrived, the Iranian Thugs had no idea what to do with it. They had never seen money like this, and never will again. It was taken off the plane in suitcases and satchels, and the Iranians couldn’t believe their luck. They finally found the greatest SUCKER of them all, in the form of a weak and stupid American President. He was a disaster as our “Leader,” but not as bad as Sleepy Joe Biden! For 47 years the Iranians have been “tapping” us along, keeping us waiting, killing our people with their roadside bombs, destroying protests, and recently wiping out 42,000 innocent, unarmed protestors, and laughing at our now GREAT AGAIN Country. They will be laughing no longer! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/38312",
+        "pubDate": "Sun, 10 May 2026 17:52:46 +0000",
+        "author": "",
+        "content": "<p>Iran has been playing games with the United States, and the rest of the World, for 47 years (DELAY, DELAY, DELAY!), and then finally hit “pay dirt” when Barack Hussein Obama became President. He was not only good to them, he was great, actually going to their side, jettisoning Israel, and all other Allies, and giving Iran a major and very powerful new lease on life. Hundreds of Billions of Dollars, and 1.7 Billion Dollars in green cash, flown into Tehran, was handed to them on a silver platter. Every Bank in D.C., Virginia, and Maryland was emptied out — It was so much money that when it arrived, the Iranian Thugs had no idea what to do with it. They had never seen money like this, and never will again. It was taken off the plane in suitcases and satchels, and the Iranians couldn’t believe their luck. They finally found the greatest SUCKER of them all, in the form of a weak and stupid American President. He was a disaster as our “Leader,” but not as bad as Sleepy Joe Biden! For 47 years the Iranians have been “tapping” us along, keeping us waiting, killing our people with their roadside bombs, destroying protests, and recently wiping out 42,000 innocent, unarmed protestors, and laughing at our now GREAT AGAIN Country. They will be laughing no longer! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Iran has been playing games with the United States, and the rest of the World, for 47 years (DELAY, DELAY, DELAY!), and then finally hit “pay dirt” when Barack Hussein Obama became President. He was not only good to them, he was great, actually going to their side, jettisoning Israel, and all other Allies, and giving Iran a major and very powerful new lease on life. Hundreds of Billions of Dollars, and 1.7 Billion Dollars in green cash, flown into Tehran, was handed to them on a silver platter. Every Bank in D.C., Virginia, and Maryland was emptied out — It was so much money that when it arrived, the Iranian Thugs had no idea what to do with it. They had never seen money like this, and never will again. It was taken off the plane in suitcases and satchels, and the Iranians couldn’t believe their luck. They finally found the greatest SUCKER of them all, in the form of a weak and stupid American President. He was a disaster as our “Leader,” but not as bad as Sleepy Joe Biden! For 47 years the Iranians have been “tapping” us along, keeping us waiting, killing our people with their roadside bombs, destroying protests, and recently wiping out 42,000 innocent, unarmed protestors, and laughing at our now GREAT AGAIN Country. They will be laughing no longer! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/38312",
+        "isoDate": "2026-05-10T17:52:46.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/38314",
+      "publishedAt": "2026-05-10T18:42:44.000Z",
+      "title": "Palestinian Chuck Schumer is hiring Eric Holder, famous for handing guns to Mexican cartels under the Barack Hussein Obama administration, as part of a Democrat-led \"Election Integrity Group\" that will no doubt try to suppress Republican voters, and interfere in our Elections. Furthermore, Marc Elias, a terrible lawyer with a horrible track record, is also involved. This is the same disgusting individual who was responsible for the fake Russia dossier from a foreign nation to meddle in the 2016 Election, which I won in historic fashion. The Democrats are totally unhinged and we will not allow them to threaten the integrity of our Elections.During my Historic Election in 2024, when I won every single Swing State, and decisively won both the Electoral and Popular votes by wide margins, the Republicans had an Election Integrity Army in every single State to preserve the sanctity of each legal vote. We will be doing the same again in 2026, but it will be much bigger and stronger. All Americans should have their voices be heard by casting a vote. Be assured this Election will be fair! President DONALD J. TRUMP",
+      "text": "<p>Palestinian Chuck Schumer is hiring Eric Holder, famous for handing guns to Mexican cartels under the Barack Hussein Obama administration, as part of a Democrat-led \"Election Integrity Group\" that will no doubt try to suppress Republican voters, and interfere in our Elections. Furthermore, Marc Elias, a terrible lawyer with a horrible track record, is also involved. This is the same disgusting individual who was responsible for the fake Russia dossier from a foreign nation to meddle in the 2016 Election, which I won in historic fashion. The Democrats are totally unhinged and we will not allow them to threaten the integrity of our Elections.</p><p>During my Historic Election in 2024, when I won every single Swing State, and decisively won both the Electoral and Popular votes by wide margins, the Republicans had an Election Integrity Army in every single State to preserve the sanctity of each legal vote. We will be doing the same again in 2026, but it will be much bigger and stronger. All Americans should have their voices be heard by casting a vote. Be assured this Election will be fair! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/38314",
+      "raw": {
+        "creator": "",
+        "title": "Palestinian Chuck Schumer is hiring Eric Holder, famous for handing guns to Mexican cartels under the Barack Hussein Obama administration, as part of a Democrat-led \"Election Integrity Group\" that will no doubt try to suppress Republican voters, and interfere in our Elections. Furthermore, Marc Elias, a terrible lawyer with a horrible track record, is also involved. This is the same disgusting individual who was responsible for the fake Russia dossier from a foreign nation to meddle in the 2016 Election, which I won in historic fashion. The Democrats are totally unhinged and we will not allow them to threaten the integrity of our Elections.During my Historic Election in 2024, when I won every single Swing State, and decisively won both the Electoral and Popular votes by wide margins, the Republicans had an Election Integrity Army in every single State to preserve the sanctity of each legal vote. We will be doing the same again in 2026, but it will be much bigger and stronger. All Americans should have their voices be heard by casting a vote. Be assured this Election will be fair! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/38314",
+        "pubDate": "Sun, 10 May 2026 18:42:44 +0000",
+        "author": "",
+        "content": "<p>Palestinian Chuck Schumer is hiring Eric Holder, famous for handing guns to Mexican cartels under the Barack Hussein Obama administration, as part of a Democrat-led \"Election Integrity Group\" that will no doubt try to suppress Republican voters, and interfere in our Elections. Furthermore, Marc Elias, a terrible lawyer with a horrible track record, is also involved. This is the same disgusting individual who was responsible for the fake Russia dossier from a foreign nation to meddle in the 2016 Election, which I won in historic fashion. The Democrats are totally unhinged and we will not allow them to threaten the integrity of our Elections.</p><p>During my Historic Election in 2024, when I won every single Swing State, and decisively won both the Electoral and Popular votes by wide margins, the Republicans had an Election Integrity Army in every single State to preserve the sanctity of each legal vote. We will be doing the same again in 2026, but it will be much bigger and stronger. All Americans should have their voices be heard by casting a vote. Be assured this Election will be fair! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Palestinian Chuck Schumer is hiring Eric Holder, famous for handing guns to Mexican cartels under the Barack Hussein Obama administration, as part of a Democrat-led \"Election Integrity Group\" that will no doubt try to suppress Republican voters, and interfere in our Elections. Furthermore, Marc Elias, a terrible lawyer with a horrible track record, is also involved. This is the same disgusting individual who was responsible for the fake Russia dossier from a foreign nation to meddle in the 2016 Election, which I won in historic fashion. The Democrats are totally unhinged and we will not allow them to threaten the integrity of our Elections.\nDuring my Historic Election in 2024, when I won every single Swing State, and decisively won both the Electoral and Popular votes by wide margins, the Republicans had an Election Integrity Army in every single State to preserve the sanctity of each legal vote. We will be doing the same again in 2026, but it will be much bigger and stronger. All Americans should have their voices be heard by casting a vote. Be assured this Election will be fair! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/38314",
+        "isoDate": "2026-05-10T18:42:44.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/38313",
+      "publishedAt": "2026-05-10T18:43:57.000Z",
+      "title": "ALL FEDERAL AGENCIES MUST BUY AMERICAN — NO EXCUSES! For decades, Washington politicians sent your Taxpayer Dollars overseas, and let Foreign Countries rip us off while our Workers, Factories, and Supply Chains were left behind. That betrayal is OVER. My Administration is strengthening MADE IN AMERICA Laws, ENDING Waiver Loopholes, and STOPPING the Federal Government from buying Foreign Products when Great American Products are available — And to the D.C. Bureaucrats: NO MORE handing out Waivers like candy! No more rubber-stamping exceptions for Foreign Products while American Workers get shafted. We are putting American Workers, American Factories, and American Supply Chains FIRST — Bigger, better, and stronger than ever before! I already signed EO 14392 to crack down on fake “MADE IN AMERICA” claims, and we are enforcing it HARD. No more games. No more fake labels. No more ripping off the American Taxpayer. AMERICA FIRST means BUY AMERICAN! President DONALD J. TRUMP",
+      "text": "<p>ALL FEDERAL AGENCIES MUST BUY AMERICAN — NO EXCUSES! For decades, Washington politicians sent your Taxpayer Dollars overseas, and let Foreign Countries rip us off while our Workers, Factories, and Supply Chains were left behind. That betrayal is OVER. My Administration is strengthening MADE IN AMERICA Laws, ENDING Waiver Loopholes, and STOPPING the Federal Government from buying Foreign Products when Great American Products are available — And to the D.C. Bureaucrats: NO MORE handing out Waivers like candy! No more rubber-stamping exceptions for Foreign Products while American Workers get shafted. We are putting American Workers, American Factories, and American Supply Chains FIRST — Bigger, better, and stronger than ever before! I already signed EO 14392 to crack down on fake “MADE IN AMERICA” claims, and we are enforcing it HARD. No more games. No more fake labels. No more ripping off the American Taxpayer. AMERICA FIRST means BUY AMERICAN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/38313",
+      "raw": {
+        "creator": "",
+        "title": "ALL FEDERAL AGENCIES MUST BUY AMERICAN — NO EXCUSES! For decades, Washington politicians sent your Taxpayer Dollars overseas, and let Foreign Countries rip us off while our Workers, Factories, and Supply Chains were left behind. That betrayal is OVER. My Administration is strengthening MADE IN AMERICA Laws, ENDING Waiver Loopholes, and STOPPING the Federal Government from buying Foreign Products when Great American Products are available — And to the D.C. Bureaucrats: NO MORE handing out Waivers like candy! No more rubber-stamping exceptions for Foreign Products while American Workers get shafted. We are putting American Workers, American Factories, and American Supply Chains FIRST — Bigger, better, and stronger than ever before! I already signed EO 14392 to crack down on fake “MADE IN AMERICA” claims, and we are enforcing it HARD. No more games. No more fake labels. No more ripping off the American Taxpayer. AMERICA FIRST means BUY AMERICAN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/38313",
+        "pubDate": "Sun, 10 May 2026 18:43:57 +0000",
+        "author": "",
+        "content": "<p>ALL FEDERAL AGENCIES MUST BUY AMERICAN — NO EXCUSES! For decades, Washington politicians sent your Taxpayer Dollars overseas, and let Foreign Countries rip us off while our Workers, Factories, and Supply Chains were left behind. That betrayal is OVER. My Administration is strengthening MADE IN AMERICA Laws, ENDING Waiver Loopholes, and STOPPING the Federal Government from buying Foreign Products when Great American Products are available — And to the D.C. Bureaucrats: NO MORE handing out Waivers like candy! No more rubber-stamping exceptions for Foreign Products while American Workers get shafted. We are putting American Workers, American Factories, and American Supply Chains FIRST — Bigger, better, and stronger than ever before! I already signed EO 14392 to crack down on fake “MADE IN AMERICA” claims, and we are enforcing it HARD. No more games. No more fake labels. No more ripping off the American Taxpayer. AMERICA FIRST means BUY AMERICAN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "ALL FEDERAL AGENCIES MUST BUY AMERICAN — NO EXCUSES! For decades, Washington politicians sent your Taxpayer Dollars overseas, and let Foreign Countries rip us off while our Workers, Factories, and Supply Chains were left behind. That betrayal is OVER. My Administration is strengthening MADE IN AMERICA Laws, ENDING Waiver Loopholes, and STOPPING the Federal Government from buying Foreign Products when Great American Products are available — And to the D.C. Bureaucrats: NO MORE handing out Waivers like candy! No more rubber-stamping exceptions for Foreign Products while American Workers get shafted. We are putting American Workers, American Factories, and American Supply Chains FIRST — Bigger, better, and stronger than ever before! I already signed EO 14392 to crack down on fake “MADE IN AMERICA” claims, and we are enforcing it HARD. No more games. No more fake labels. No more ripping off the American Taxpayer. AMERICA FIRST means BUY AMERICAN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/38313",
+        "isoDate": "2026-05-10T18:43:57.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/38316",
+      "publishedAt": "2026-05-10T18:46:40.000Z",
+      "title": "[No Title] - Post from May 10, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/38316",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from May 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/38316",
+        "pubDate": "Sun, 10 May 2026 18:46:40 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/38316",
+        "isoDate": "2026-05-10T18:46:40.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/38315",
+      "publishedAt": "2026-05-10T18:46:47.000Z",
+      "title": "[No Title] - Post from May 10, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/38315",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from May 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/38315",
+        "pubDate": "Sun, 10 May 2026 18:46:47 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/38315",
+        "isoDate": "2026-05-10T18:46:47.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/38317",
+      "publishedAt": "2026-05-10T20:00:57.000Z",
+      "title": "We just secured the release of three Polish, and two Moldovan, prisoners from Belarusian and Russian detention. Thanks to my Special Presidential Envoy, John Coale, we were able to push hard to make this release happen. My friend, President Karol Nawrocki, of Poland, met with me last September, and asked me to help secure Andrzej Poczobut from Belarusian prison. Today, Poczobut is free due to our efforts. The United States delivers for our Allies, and Friends. Thank you to President Aleksandr Lukashenko for his cooperation and friendship. So nice! President DONALD J. TRUMP",
+      "text": "<p>We just secured the release of three Polish, and two Moldovan, prisoners from Belarusian and Russian detention. Thanks to my Special Presidential Envoy, John Coale, we were able to push hard to make this release happen. My friend, President Karol Nawrocki, of Poland, met with me last September, and asked me to help secure Andrzej Poczobut from Belarusian prison. Today, Poczobut is free due to our efforts. The United States delivers for our Allies, and Friends. Thank you to President Aleksandr Lukashenko for his cooperation and friendship. So nice! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/38317",
+      "raw": {
+        "creator": "",
+        "title": "We just secured the release of three Polish, and two Moldovan, prisoners from Belarusian and Russian detention. Thanks to my Special Presidential Envoy, John Coale, we were able to push hard to make this release happen. My friend, President Karol Nawrocki, of Poland, met with me last September, and asked me to help secure Andrzej Poczobut from Belarusian prison. Today, Poczobut is free due to our efforts. The United States delivers for our Allies, and Friends. Thank you to President Aleksandr Lukashenko for his cooperation and friendship. So nice! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/38317",
+        "pubDate": "Sun, 10 May 2026 20:00:57 +0000",
+        "author": "",
+        "content": "<p>We just secured the release of three Polish, and two Moldovan, prisoners from Belarusian and Russian detention. Thanks to my Special Presidential Envoy, John Coale, we were able to push hard to make this release happen. My friend, President Karol Nawrocki, of Poland, met with me last September, and asked me to help secure Andrzej Poczobut from Belarusian prison. Today, Poczobut is free due to our efforts. The United States delivers for our Allies, and Friends. Thank you to President Aleksandr Lukashenko for his cooperation and friendship. So nice! President DONALD J. TRUMP</p>",
+        "contentSnippet": "We just secured the release of three Polish, and two Moldovan, prisoners from Belarusian and Russian detention. Thanks to my Special Presidential Envoy, John Coale, we were able to push hard to make this release happen. My friend, President Karol Nawrocki, of Poland, met with me last September, and asked me to help secure Andrzej Poczobut from Belarusian prison. Today, Poczobut is free due to our efforts. The United States delivers for our Allies, and Friends. Thank you to President Aleksandr Lukashenko for his cooperation and friendship. So nice! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/38317",
+        "isoDate": "2026-05-10T20:00:57.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/38319",
+      "publishedAt": "2026-05-10T20:07:56.000Z",
+      "title": "The Sleazebag, Radical Left Congressman from the failed State of California, Ro Khanna, should not be allowed on FoxNews unless you have an “anchor” who is capable of disputing his lies, one after another, and closing down his FAKE (Bullshit!) narrative. He is similar, but worse than Hakeem Jeffries, only with a somewhat higher IQ. This morning he tried, on behalf of the Dumacrats, to take credit for the Steel Industry pouring back into the U.S., knowing full well that the Dumbs virtually destroyed it, and I SAVED IT, through strong Tariffs (PLUS!). Our Country was DEAD during the last “Administration,” and now it is hotter than ever before. We can’t allow the Dumacrats to take credit for this. If elected, they will fully destroy our thriving, and now very respected, Nation. I will NOT let that happen!!! President DONALD J. TRUMP",
+      "text": "<p>The Sleazebag, Radical Left Congressman from the failed State of California, Ro Khanna, should not be allowed on FoxNews unless you have an “anchor” who is capable of disputing his lies, one after another, and closing down his FAKE (Bullshit!) narrative. He is similar, but worse than Hakeem Jeffries, only with a somewhat higher IQ. This morning he tried, on behalf of the Dumacrats, to take credit for the Steel Industry pouring back into the U.S., knowing full well that the Dumbs virtually destroyed it, and I SAVED IT, through strong Tariffs (PLUS!). Our Country was DEAD during the last “Administration,” and now it is hotter than ever before. We can’t allow the Dumacrats to take credit for this. If elected, they will fully destroy our thriving, and now very respected, Nation. I will NOT let that happen!!! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/38319",
+      "raw": {
+        "creator": "",
+        "title": "The Sleazebag, Radical Left Congressman from the failed State of California, Ro Khanna, should not be allowed on FoxNews unless you have an “anchor” who is capable of disputing his lies, one after another, and closing down his FAKE (Bullshit!) narrative. He is similar, but worse than Hakeem Jeffries, only with a somewhat higher IQ. This morning he tried, on behalf of the Dumacrats, to take credit for the Steel Industry pouring back into the U.S., knowing full well that the Dumbs virtually destroyed it, and I SAVED IT, through strong Tariffs (PLUS!). Our Country was DEAD during the last “Administration,” and now it is hotter than ever before. We can’t allow the Dumacrats to take credit for this. If elected, they will fully destroy our thriving, and now very respected, Nation. I will NOT let that happen!!! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/38319",
+        "pubDate": "Sun, 10 May 2026 20:07:56 +0000",
+        "author": "",
+        "content": "<p>The Sleazebag, Radical Left Congressman from the failed State of California, Ro Khanna, should not be allowed on FoxNews unless you have an “anchor” who is capable of disputing his lies, one after another, and closing down his FAKE (Bullshit!) narrative. He is similar, but worse than Hakeem Jeffries, only with a somewhat higher IQ. This morning he tried, on behalf of the Dumacrats, to take credit for the Steel Industry pouring back into the U.S., knowing full well that the Dumbs virtually destroyed it, and I SAVED IT, through strong Tariffs (PLUS!). Our Country was DEAD during the last “Administration,” and now it is hotter than ever before. We can’t allow the Dumacrats to take credit for this. If elected, they will fully destroy our thriving, and now very respected, Nation. I will NOT let that happen!!! President DONALD J. TRUMP</p>",
+        "contentSnippet": "The Sleazebag, Radical Left Congressman from the failed State of California, Ro Khanna, should not be allowed on FoxNews unless you have an “anchor” who is capable of disputing his lies, one after another, and closing down his FAKE (Bullshit!) narrative. He is similar, but worse than Hakeem Jeffries, only with a somewhat higher IQ. This morning he tried, on behalf of the Dumacrats, to take credit for the Steel Industry pouring back into the U.S., knowing full well that the Dumbs virtually destroyed it, and I SAVED IT, through strong Tariffs (PLUS!). Our Country was DEAD during the last “Administration,” and now it is hotter than ever before. We can’t allow the Dumacrats to take credit for this. If elected, they will fully destroy our thriving, and now very respected, Nation. I will NOT let that happen!!! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/38319",
+        "isoDate": "2026-05-10T20:07:56.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/38318",
+      "publishedAt": "2026-05-10T20:09:12.000Z",
+      "title": "Exclusive — Kurdish Leader: Trump Is ‘Master of the Deal,’ Can Land Major Deal to End Iran War and Create Worldwide Economic Boom:",
+      "text": "<p>Exclusive — Kurdish Leader: Trump Is ‘Master of the Deal,’ Can Land Major Deal to End Iran War and Create Worldwide Economic Boom: <a href=\"https://www.breitbart.com/politics/2026/05/10/exclusive-kurdish-leader-trump-is-master-of-the-deal-can-land-major-deal-to-end-iran-war-and-create-worldwide-economic-boom/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/05</span><span class=\"invisible\">/10/exclusive-kurdish-leader-trump-is-master-of-the-deal-can-land-major-deal-to-end-iran-war-and-create-worldwide-economic-boom/</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/38318",
+      "raw": {
+        "creator": "",
+        "title": "Exclusive — Kurdish Leader: Trump Is ‘Master of the Deal,’ Can Land Major Deal to End Iran War and Create Worldwide Economic Boom:",
+        "link": "https://www.trumpstruth.org/statuses/38318",
+        "pubDate": "Sun, 10 May 2026 20:09:12 +0000",
+        "author": "",
+        "content": "<p>Exclusive — Kurdish Leader: Trump Is ‘Master of the Deal,’ Can Land Major Deal to End Iran War and Create Worldwide Economic Boom: <a href=\"https://www.breitbart.com/politics/2026/05/10/exclusive-kurdish-leader-trump-is-master-of-the-deal-can-land-major-deal-to-end-iran-war-and-create-worldwide-economic-boom/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/05</span><span class=\"invisible\">/10/exclusive-kurdish-leader-trump-is-master-of-the-deal-can-land-major-deal-to-end-iran-war-and-create-worldwide-economic-boom/</span></a></p>",
+        "contentSnippet": "Exclusive — Kurdish Leader: Trump Is ‘Master of the Deal,’ Can Land Major Deal to End Iran War and Create Worldwide Economic Boom: https://www.breitbart.com/politics/2026/05/10/exclusive-kurdish-leader-trump-is-master-of-the-deal-can-land-major-deal-to-end-iran-war-and-create-worldwide-economic-boom/",
+        "guid": "https://www.trumpstruth.org/statuses/38318",
+        "isoDate": "2026-05-10T20:09:12.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/38320",
+      "publishedAt": "2026-05-10T20:12:33.000Z",
+      "title": "I have just read the response from Iran’s so-called “Representatives.” I don’t like it — TOTALLY UNACCEPTABLE! Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "text": "<p>I have just read the response from Iran’s so-called “Representatives.” I don’t like it — TOTALLY UNACCEPTABLE! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/38320",
+      "raw": {
+        "creator": "",
+        "title": "I have just read the response from Iran’s so-called “Representatives.” I don’t like it — TOTALLY UNACCEPTABLE! Thank you for your attention to this matter. President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/38320",
+        "pubDate": "Sun, 10 May 2026 20:12:33 +0000",
+        "author": "",
+        "content": "<p>I have just read the response from Iran’s so-called “Representatives.” I don’t like it — TOTALLY UNACCEPTABLE! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+        "contentSnippet": "I have just read the response from Iran’s so-called “Representatives.” I don’t like it — TOTALLY UNACCEPTABLE! Thank you for your attention to this matter. President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/38320",
+        "isoDate": "2026-05-10T20:12:33.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/38321",
+      "publishedAt": "2026-05-10T20:42:17.000Z",
+      "title": "The Radical Left Dumacrats must fail — Our Country is at stake! President DONALD J. TRUMP",
+      "text": "<p>The Radical Left Dumacrats must fail — Our Country is at stake! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/38321",
+      "raw": {
+        "creator": "",
+        "title": "The Radical Left Dumacrats must fail — Our Country is at stake! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/38321",
+        "pubDate": "Sun, 10 May 2026 20:42:17 +0000",
+        "author": "",
+        "content": "<p>The Radical Left Dumacrats must fail — Our Country is at stake! President DONALD J. TRUMP</p>",
+        "contentSnippet": "The Radical Left Dumacrats must fail — Our Country is at stake! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/38321",
+        "isoDate": "2026-05-10T20:42:17.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/38322",
+      "publishedAt": "2026-05-10T20:48:26.000Z",
+      "title": "“Any money paid to the United States of America does not have to be paid back” — That sentence, if added by the Supreme Court to its highly disputed Tariff decision, would have saved America 159 Billion Dollars! President DONALD J. TRUMP",
+      "text": "<p>“Any money paid to the United States of America does not have to be paid back” — That sentence, if added by the Supreme Court to its highly disputed Tariff decision, would have saved America 159 Billion Dollars! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/38322",
+      "raw": {
+        "creator": "",
+        "title": "“Any money paid to the United States of America does not have to be paid back” — That sentence, if added by the Supreme Court to its highly disputed Tariff decision, would have saved America 159 Billion Dollars! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/38322",
+        "pubDate": "Sun, 10 May 2026 20:48:26 +0000",
+        "author": "",
+        "content": "<p>“Any money paid to the United States of America does not have to be paid back” — That sentence, if added by the Supreme Court to its highly disputed Tariff decision, would have saved America 159 Billion Dollars! President DONALD J. TRUMP</p>",
+        "contentSnippet": "“Any money paid to the United States of America does not have to be paid back” — That sentence, if added by the Supreme Court to its highly disputed Tariff decision, would have saved America 159 Billion Dollars! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/38322",
+        "isoDate": "2026-05-10T20:48:26.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/38324",
+      "publishedAt": "2026-05-10T22:13:09.000Z",
+      "title": "You could listen to FoxNews all day long, absolutely devour it, but then, when you hear SLEAZEBAGS, like Congressman Ro Khanna, “a wolf in sheep’s clothing,” LIE, LIE, LIE, AND LIE AGAIN, without any pushback, or competent rebuttal from an anchor, in this case, Jacqui Heinrich, the entire Common Sense dialogue that has been going on all day at Fox is completely obliterated! Why would Fox put SCUM like this on, or others, such as Low Rated Bill Maher, who gains “credibility” by constant referral to him as though he were a Liberal source of “Wisdom,” or very Low IQ Hakeem Jeffries, who considers the Supreme Court “illegitimate,” and probably hates our Country. No matter how “Fair and Balanced” the day’s News at Fox may be, the end result is destroyed by professional Liars, Conmen, and Liberal, Crooked Politicians. This is why MAGA Republicans, who are actually close to 100% of the Party, hate Fox, despite the wonderful contributions made by so many of their great anchors and commentators. Hard to win Elections like this! President DONALD J. TRUMP",
+      "text": "<p>You could listen to FoxNews all day long, absolutely devour it, but then, when you hear SLEAZEBAGS, like Congressman Ro Khanna, “a wolf in sheep’s clothing,” LIE, LIE, LIE, AND LIE AGAIN, without any pushback, or competent rebuttal from an anchor, in this case, Jacqui Heinrich, the entire Common Sense dialogue that has been going on all day at Fox is completely obliterated! Why would Fox put SCUM like this on, or others, such as Low Rated Bill Maher, who gains “credibility” by constant referral to him as though he were a Liberal source of “Wisdom,” or very Low IQ Hakeem Jeffries, who considers the Supreme Court “illegitimate,” and probably hates our Country. No matter how “Fair and Balanced” the day’s News at Fox may be, the end result is destroyed by professional Liars, Conmen, and Liberal, Crooked Politicians. This is why MAGA Republicans, who are actually close to 100% of the Party, hate Fox, despite the wonderful contributions made by so many of their great anchors and commentators. Hard to win Elections like this! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/38324",
+      "raw": {
+        "creator": "",
+        "title": "You could listen to FoxNews all day long, absolutely devour it, but then, when you hear SLEAZEBAGS, like Congressman Ro Khanna, “a wolf in sheep’s clothing,” LIE, LIE, LIE, AND LIE AGAIN, without any pushback, or competent rebuttal from an anchor, in this case, Jacqui Heinrich, the entire Common Sense dialogue that has been going on all day at Fox is completely obliterated! Why would Fox put SCUM like this on, or others, such as Low Rated Bill Maher, who gains “credibility” by constant referral to him as though he were a Liberal source of “Wisdom,” or very Low IQ Hakeem Jeffries, who considers the Supreme Court “illegitimate,” and probably hates our Country. No matter how “Fair and Balanced” the day’s News at Fox may be, the end result is destroyed by professional Liars, Conmen, and Liberal, Crooked Politicians. This is why MAGA Republicans, who are actually close to 100% of the Party, hate Fox, despite the wonderful contributions made by so many of their great anchors and commentators. Hard to win Elections like this! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/38324",
+        "pubDate": "Sun, 10 May 2026 22:13:09 +0000",
+        "author": "",
+        "content": "<p>You could listen to FoxNews all day long, absolutely devour it, but then, when you hear SLEAZEBAGS, like Congressman Ro Khanna, “a wolf in sheep’s clothing,” LIE, LIE, LIE, AND LIE AGAIN, without any pushback, or competent rebuttal from an anchor, in this case, Jacqui Heinrich, the entire Common Sense dialogue that has been going on all day at Fox is completely obliterated! Why would Fox put SCUM like this on, or others, such as Low Rated Bill Maher, who gains “credibility” by constant referral to him as though he were a Liberal source of “Wisdom,” or very Low IQ Hakeem Jeffries, who considers the Supreme Court “illegitimate,” and probably hates our Country. No matter how “Fair and Balanced” the day’s News at Fox may be, the end result is destroyed by professional Liars, Conmen, and Liberal, Crooked Politicians. This is why MAGA Republicans, who are actually close to 100% of the Party, hate Fox, despite the wonderful contributions made by so many of their great anchors and commentators. Hard to win Elections like this! President DONALD J. TRUMP</p>",
+        "contentSnippet": "You could listen to FoxNews all day long, absolutely devour it, but then, when you hear SLEAZEBAGS, like Congressman Ro Khanna, “a wolf in sheep’s clothing,” LIE, LIE, LIE, AND LIE AGAIN, without any pushback, or competent rebuttal from an anchor, in this case, Jacqui Heinrich, the entire Common Sense dialogue that has been going on all day at Fox is completely obliterated! Why would Fox put SCUM like this on, or others, such as Low Rated Bill Maher, who gains “credibility” by constant referral to him as though he were a Liberal source of “Wisdom,” or very Low IQ Hakeem Jeffries, who considers the Supreme Court “illegitimate,” and probably hates our Country. No matter how “Fair and Balanced” the day’s News at Fox may be, the end result is destroyed by professional Liars, Conmen, and Liberal, Crooked Politicians. This is why MAGA Republicans, who are actually close to 100% of the Party, hate Fox, despite the wonderful contributions made by so many of their great anchors and commentators. Hard to win Elections like this! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/38324",
+        "isoDate": "2026-05-10T22:13:09.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/38323",
+      "publishedAt": "2026-05-10T22:14:44.000Z",
+      "title": "The Magnificent Ballroom, under construction, and ahead of schedule, at the White House! President DONALD J. TRUMP",
+      "text": "<p>The Magnificent Ballroom, under construction, and ahead of schedule, at the White House! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/38323",
+      "raw": {
+        "creator": "",
+        "title": "The Magnificent Ballroom, under construction, and ahead of schedule, at the White House! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/38323",
+        "pubDate": "Sun, 10 May 2026 22:14:44 +0000",
+        "author": "",
+        "content": "<p>The Magnificent Ballroom, under construction, and ahead of schedule, at the White House! President DONALD J. TRUMP</p>",
+        "contentSnippet": "The Magnificent Ballroom, under construction, and ahead of schedule, at the White House! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/38323",
+        "isoDate": "2026-05-10T22:14:44.000Z"
+      }
+    }
+  ],
+  "sentiments": [
+    {
+      "postId": "https://www.trumpstruth.org/statuses/38303",
+      "label": "negative",
+      "rationale": "The word 'Pathetic' conveys a strong negative sentiment.",
+      "analyzedAt": "2026-09-05T08:27:30.378Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/38304",
+      "label": "neutral",
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-05T08:27:30.378Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/38305",
+      "label": "negative",
+      "rationale": "The statement expresses a strong negative sentiment towards an individual, labeling them as a 'Dirty Cop'.",
+      "analyzedAt": "2026-09-05T08:27:30.378Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/38306",
+      "label": "neutral",
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-05T08:27:30.378Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/38307",
+      "label": "neutral",
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-05T08:27:30.378Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/38308",
+      "label": "neutral",
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-05T08:27:30.378Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/38309",
+      "label": "neutral",
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-05T08:27:30.378Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/38310",
+      "label": "neutral",
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-05T08:27:30.378Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/38311",
+      "label": "positive",
+      "rationale": "The statement reflects praise from Israel's Foreign Minister, indicating a positive sentiment towards Trump's leadership.",
+      "analyzedAt": "2026-09-05T08:27:30.378Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/38312",
+      "label": "negative",
+      "rationale": "The statement is highly critical of past administrations and expresses anger towards Iran, conveying a negative sentiment.",
+      "analyzedAt": "2026-09-05T08:27:30.378Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/38313",
+      "label": "positive",
+      "rationale": "The statement promotes 'Buy American' policies and emphasizes the importance of supporting American workers, which conveys a positive sentiment.",
+      "analyzedAt": "2026-09-05T08:27:30.378Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/38314",
+      "label": "negative",
+      "rationale": "The text expresses strong negative sentiments towards Democrats and their actions, using derogatory language.",
+      "analyzedAt": "2026-09-05T08:27:30.378Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/38315",
+      "label": "neutral",
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-05T08:27:30.378Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/38316",
+      "label": "neutral",
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-05T08:27:30.378Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/38317",
+      "label": "positive",
+      "rationale": "The statement highlights a successful diplomatic effort resulting in the release of prisoners, which is framed positively.",
+      "analyzedAt": "2026-09-05T08:27:30.378Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/38318",
+      "label": "positive",
+      "rationale": "The statement praises Trump as a 'Master of the Deal' and suggests a potential positive outcome for ending a war and creating economic growth.",
+      "analyzedAt": "2026-09-05T08:27:30.378Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/38319",
+      "label": "negative",
+      "rationale": "The text uses derogatory language to describe political opponents and expresses a strong negative sentiment towards their actions.",
+      "analyzedAt": "2026-09-05T08:27:30.378Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/38320",
+      "label": "negative",
+      "rationale": "The text expresses strong disapproval of Iran's response, labeling it as 'totally unacceptable', which conveys a negative sentiment.",
+      "analyzedAt": "2026-09-05T08:27:30.378Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/38321",
+      "label": "negative",
+      "rationale": "The statement conveys a sense of urgency and negativity towards the 'Radical Left Dumacrats', suggesting a dire situation for the country.",
+      "analyzedAt": "2026-09-05T08:27:30.378Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/38322",
+      "label": "positive",
+      "rationale": "The statement suggests a significant financial benefit for America, indicating a positive outcome if a certain decision is made.",
+      "analyzedAt": "2026-09-05T08:27:30.378Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/38323",
+      "label": "positive",
+      "rationale": "The statement expresses a positive sentiment about the construction progress at the White House, highlighting it as 'magnificent' and 'ahead of schedule'.",
+      "analyzedAt": "2026-09-05T08:27:30.378Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/38324",
+      "label": "negative",
+      "rationale": "The text is filled with strong negative language, criticizing various individuals and media outlets, and expressing frustration with the political situation.",
+      "analyzedAt": "2026-09-05T08:27:30.378Z"
+    }
+  ]
+}
