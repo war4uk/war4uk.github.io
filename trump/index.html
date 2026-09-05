@@ -83,11 +83,67 @@
     .sentiment-empty { background:#fafafa; color:#888; }
     #status { margin-bottom: 1rem; min-height: 1.2em; }
     #empty-state { margin: 0 0 1rem; color: #555; }
-    #day-popover { position: absolute; background: #fff; border: 1px solid #ccc; border-radius: 6px; padding: 8px 10px; box-shadow: 0 8px 20px rgba(0,0,0,0.08); min-width: 220px; max-width: 28rem; font-size: 12px; z-index: 10; }
-    .popover-title { font-weight: 600; margin-bottom: 4px; }
-    .popover-row { margin: 2px 0; }
-    .popover-loading { color: #555; }
-    .popover-error { color: #b30000; }
+    body.day-detail-open { overflow: hidden; }
+    #day-detail {
+      position: fixed;
+      inset: 0;
+      z-index: 20;
+      display: flex;
+      align-items: flex-start;
+      justify-content: center;
+      padding: 1.25rem 1rem;
+    }
+    #day-detail[hidden] { display: none; }
+    .day-detail-backdrop {
+      position: absolute;
+      inset: 0;
+      background: rgba(15, 23, 42, 0.45);
+    }
+    .day-detail-panel {
+      position: relative;
+      z-index: 1;
+      width: min(44rem, 100%);
+      max-height: calc(100vh - 2.5rem);
+      overflow: auto;
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 16px 40px rgba(0,0,0,0.18);
+      padding: 1rem 1.15rem 1.25rem;
+    }
+    .day-detail-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 0.85rem;
+    }
+    .day-detail-header h2 { margin: 0; font-size: 1.2rem; }
+    #day-detail-close {
+      border: 1px solid #bbb;
+      background: #fff;
+      border-radius: 6px;
+      font: inherit;
+      padding: 0.35rem 0.7rem;
+      cursor: pointer;
+    }
+    .day-detail-body section { margin: 0 0 1rem; }
+    .day-detail-body h3 { margin: 0 0 0.45rem; font-size: 0.95rem; }
+    .day-primary { padding: 0.65rem 0.75rem; background: #f8fafc; border: 1px solid #d0d5dd; border-radius: 8px; }
+    #day-secondary-list, #day-posts-list { margin: 0; padding: 0; list-style: none; }
+    #day-secondary-list li, .day-post {
+      display: grid;
+      gap: 0.15rem;
+      padding: 0.55rem 0.15rem;
+      border-bottom: 1px solid #eee;
+    }
+    .day-story-topic, .day-post-title { font-weight: 600; }
+    .day-story-name, .day-post-meta { color: #555; font-size: 0.9rem; }
+    .day-post-snippet { color: #333; font-size: 0.9rem; }
+    .day-post-link { color: inherit; text-decoration: none; display: grid; gap: 0.15rem; }
+    .day-post-link:hover .day-post-title { text-decoration: underline; }
+    .day-post-count { color: #666; font-weight: 500; }
+    .day-empty, .day-detail-loading { color: #555; }
+    .day-detail-error { color: #b30000; }
   </style>
 <script>globalThis.__STATIC_DATA_URL__ = "/trump/data";</script>
 </head>
@@ -106,6 +162,6 @@
   <div id="status">Loading…</div>
   <p id="empty-state" hidden>No data available for this month</p>
   <div id="grid" hidden></div>
-  <script type="module" src="./bundle.js"></script>
+  <script type="module" src="./bundle.js?v=day-detail-2"></script>
 </body>
 </html>

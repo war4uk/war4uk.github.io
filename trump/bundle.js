@@ -36,6 +36,11 @@ function parseViewMonth(search, now = /* @__PURE__ */ new Date()) {
   if (isValidYearMonth(year, month)) return { year, month };
   return utcYearMonth(now);
 }
+function parseViewDay(search) {
+  const params = new URLSearchParams(search.startsWith("?") ? search.slice(1) : search);
+  const day = (params.get("day") || "").trim();
+  return /^\d{4}-\d{2}-\d{2}$/.test(day) ? day : void 0;
+}
 function shiftMonth(view, delta) {
   const d = new Date(Date.UTC(view.year, view.month - 1 + delta, 1));
   return { year: d.getUTCFullYear(), month: d.getUTCMonth() + 1 };
@@ -56,8 +61,9 @@ function formatMonthTitle(view) {
 function monthQueryString(view) {
   return `year=${view.year}&month=${view.month}`;
 }
-function hrefForMonth(pathname, view) {
-  return `${pathname}?${monthQueryString(view)}`;
+function hrefForMonth(pathname, view, day) {
+  const query = day && /^\d{4}-\d{2}-\d{2}$/.test(day) ? `${monthQueryString(view)}&day=${day}` : monthQueryString(view);
+  return `${pathname}?${query}`;
 }
 
 // src/app/calendar-month/calendar-month.component.ts
@@ -254,6 +260,18 @@ var DaySummaryService = class {
     const normalizedTopics = Array.isArray(payload.topics) ? payload.topics.map((t) => typeof t === "string" ? t : String(t?.phrase ?? t?.topic ?? "")).filter(Boolean) : [];
     const sentiments = payload.counts ?? payload.sentiments ?? { positive: 0, neutral: 0, negative: 0 };
     const summaryText = payload.summary ?? payload.fallbackMessage ?? "No summary available";
+    const posts = Array.isArray(payload.posts) ? payload.posts.map((p) => ({
+      id: String(p?.id || p?.url || ""),
+      url: String(p?.url || p?.raw?.link || p?.id || ""),
+      title: typeof p?.title === "string" ? p.title : "",
+      text: typeof p?.text === "string" ? p.text : "",
+      publishedAt: typeof p?.publishedAt === "string" ? p.publishedAt : void 0,
+      raw: p?.raw && typeof p.raw === "object" ? p.raw : void 0
+    })).filter((p) => p.id || p.url) : [];
+    const postSentiments = Array.isArray(payload.sentiments) ? payload.sentiments.map((s) => ({
+      postId: String(s?.postId || ""),
+      label: s?.label === "positive" || s?.label === "negative" || s?.label === "neutral" ? s.label : void 0
+    })).filter((s) => !!s.postId && !!s.label) : [];
     const normalized = {
       date: payload.date ?? date,
       summary: summaryText,
@@ -262,6 +280,8 @@ var DaySummaryService = class {
       trendingTopic: typeof payload.trendingTopic === "string" && payload.trendingTopic.trim() ? payload.trendingTopic.trim() : void 0,
       trendingName: typeof payload.trendingName === "string" && payload.trendingName.trim() ? payload.trendingName.trim() : void 0,
       selfPraiseCount: Number.isFinite(Number(payload.selfPraiseCount)) ? Math.max(0, Math.trunc(Number(payload.selfPraiseCount))) : 0,
+      posts,
+      postSentiments,
       source: "static",
       fallbackMessage: payload.fallbackMessage ?? summaryText
     };
@@ -454,64 +474,380 @@ function monthSoFarHighlights(days, month, now) {
   };
 }
 
+// src/app/utils/day-stories.ts
+var GENERIC_TOPIC = /^(economic growth|political commentary|endorsements and support|international relations|legal proceedings|general news|controversies|disaster recovery)/i;
+var SKIP_NAME = /* @__PURE__ */ new Set([
+  "united states",
+  "truth social",
+  "white house",
+  "supreme court",
+  "new york",
+  "fox news",
+  "donald trump",
+  "president trump",
+  "save america",
+  "great patriot",
+  "thomas jefferson",
+  "george washington",
+  "abraham lincoln",
+  "barack hussein",
+  "lake ontario",
+  "lake america",
+  "data center"
+]);
+var SKIP_LAST = /* @__PURE__ */ new Set([
+  "alongside",
+  "columns",
+  "house",
+  "report",
+  "news",
+  "times",
+  "trump",
+  "america",
+  "states",
+  "social",
+  "court",
+  "hussein",
+  "jefferson",
+  "left",
+  "like",
+  "when",
+  "then",
+  "from",
+  "with",
+  "that"
+]);
+var KNOWN_FIRST = /* @__PURE__ */ new Set([
+  "adam",
+  "alvin",
+  "ashley",
+  "barack",
+  "bill",
+  "brian",
+  "chuck",
+  "dan",
+  "elon",
+  "eric",
+  "gavin",
+  "hakeem",
+  "jared",
+  "joe",
+  "john",
+  "kathy",
+  "lara",
+  "letitia",
+  "lindsey",
+  "marco",
+  "maria",
+  "mark",
+  "melania",
+  "michael",
+  "mike",
+  "nancy",
+  "pete",
+  "ro",
+  "ron",
+  "sean",
+  "ted",
+  "trey",
+  "tucker"
+]);
+var KNOWN_FIGURES = [
+  "Kathy Hochul",
+  "Lindsey Graham",
+  "Michael Cohen",
+  "Maria Bartiromo",
+  "Letitia James",
+  "Alvin Bragg",
+  "Ashley Hinson",
+  "Gavin Newsom",
+  "Marco Rubio",
+  "JD Vance",
+  "Joe Biden",
+  "Barack Obama",
+  "Dan Sullivan",
+  "Trey Gowdy",
+  "Ro Khanna",
+  "Hakeem Jeffries",
+  "Bill Maher",
+  "Mark Levin",
+  "Sean Hannity",
+  "Melania Trump",
+  "Lara Trump",
+  "Dan Patrick",
+  "Ron Estes",
+  "Chuck Schumer"
+];
+function stripHtml(html) {
+  return html.replace(/<br\s*\/?>/gi, " ").replace(/<[^>]+>/g, " ").replace(/&nbsp;/gi, " ").replace(/&amp;/gi, "&").replace(/&quot;/gi, '"').replace(/&#39;/g, "'").replace(/&apos;/gi, "'").replace(/\s+/g, " ").trim();
+}
+function postDedupeKey(post) {
+  const url = String(post.url || post.id || post.raw?.link || "");
+  const status = url.match(/\/statuses\/(\d+)/);
+  if (status) return status[1];
+  return url.replace(/^https?:\/\/(www\.)?/i, "").replace(/\/$/, "") || String(post.id || "");
+}
+function dedupePosts(posts) {
+  const seen = /* @__PURE__ */ new Set();
+  const out = [];
+  for (const post of posts) {
+    const key = postDedupeKey(post);
+    if (!key || seen.has(key)) continue;
+    seen.add(key);
+    out.push(post);
+  }
+  return out;
+}
+function cleanTitle(raw) {
+  let t = stripHtml(raw);
+  t = t.replace(/^\[No Title\].*$/i, "");
+  t = t.replace(/@realDonaldTrump/gi, " ");
+  t = t.replace(/^RT\s+/i, "");
+  t = t.replace(/^@[A-Za-z0-9_.]+\s*/i, "");
+  t = t.replace(/https?:\/\/\S+/gi, "");
+  t = t.replace(/\s*President DONALD J\.?\s*TRUMP\s*$/i, "");
+  t = t.replace(/\s*President DJT\s*$/i, "");
+  t = t.replace(/\s+/g, " ").replace(/[:：]\s*$/, "").trim();
+  if (/^https?:\/\//i.test(t) || t.length < 8) return "";
+  return t;
+}
+function isCompleteHeadline2(topic) {
+  const t = topic.replace(/\s+/g, " ").trim();
+  if (t.length < 12 || t.length > 140) return false;
+  if (GENERIC_TOPIC.test(t)) return false;
+  if (/\b(the|a|an|of|and|or|to|for|in|on|at|by|with|from|as|that|throughout|who|which|like|then|when)\s*$/i.test(t)) return false;
+  if (/\b(u\.s\.a|u\.s|lt)\.?$/i.test(t)) return false;
+  if (/^https?:/i.test(t) || /^RT:?\s/i.test(t)) return false;
+  return true;
+}
+function compactHeadline(raw, max = 110) {
+  const t = raw.replace(/\s+/g, " ").trim();
+  if (!t) return "";
+  const dash = t.split(/\s+[—–]\s+/)[0]?.trim();
+  if (dash && dash !== t && isCompleteHeadline2(dash) && dash.length <= max) return dash;
+  if (isCompleteHeadline2(t) && t.length <= max) return t;
+  if (t.length > max) {
+    const slice = t.slice(0, max);
+    const at = slice.lastIndexOf(" ");
+    const cut = (at > 40 ? slice.slice(0, at) : slice).trim().replace(/[,:;.-]+$/, "");
+    if (isCompleteHeadline2(cut)) return cut;
+  }
+  return isCompleteHeadline2(t) ? t : "";
+}
+function extractName(text) {
+  const hay = stripHtml(text);
+  for (const figure of KNOWN_FIGURES) {
+    if (new RegExp(`\\b${figure.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`, "i").test(hay)) {
+      return figure === "J.D. Vance" ? "JD Vance" : figure;
+    }
+  }
+  const match = hay.match(/\b([A-Z][a-z]+(?:-[A-Z][a-z]+)?\s+[A-Z][a-z]+(?:-[A-Z][a-z]+)?)\b/);
+  if (!match) return void 0;
+  const name = match[1].replace(/\s+/g, " ").trim();
+  const key = name.toLowerCase();
+  if (SKIP_NAME.has(key) || /\b(trump|donald)\b/i.test(name)) return void 0;
+  const parts = name.split(/\s+/);
+  const first = parts[0].toLowerCase();
+  const last = parts[parts.length - 1].toLowerCase();
+  if (SKIP_LAST.has(last) || !KNOWN_FIRST.has(first)) return void 0;
+  return name;
+}
+function headlineFromPost(post) {
+  const title = compactHeadline(cleanTitle(post.title || post.raw?.title || ""));
+  if (title) return title;
+  return compactHeadline(cleanTitle(post.raw?.contentSnippet || stripHtml(post.text || "")));
+}
+function snippetFromPost(post) {
+  const snippet = stripHtml(post.raw?.contentSnippet || post.text || "");
+  const title = cleanTitle(post.title || post.raw?.title || "");
+  const body = snippet || title;
+  if (body.length <= 180) return body;
+  const slice = body.slice(0, 180);
+  const at = slice.lastIndexOf(" ");
+  return `${(at > 80 ? slice.slice(0, at) : slice).trim()}\u2026`;
+}
+function listDayPosts(posts, sentiments = []) {
+  const byId = /* @__PURE__ */ new Map();
+  for (const s of sentiments) {
+    if (!s.postId || s.label !== "positive" && s.label !== "neutral" && s.label !== "negative") continue;
+    byId.set(s.postId, s.label);
+    const status = String(s.postId).match(/\/statuses\/(\d+)/);
+    if (status) byId.set(status[1], s.label);
+  }
+  const out = [];
+  for (const post of dedupePosts(posts)) {
+    const title = cleanTitle(post.title || post.raw?.title || "") || snippetFromPost(post);
+    if (!title) continue;
+    const id = String(post.id || post.url || postDedupeKey(post));
+    const url = String(post.url || post.raw?.link || post.id || "");
+    const key = postDedupeKey(post);
+    const sentiment = byId.get(id) || byId.get(key) || byId.get(url);
+    out.push({
+      id,
+      url,
+      title,
+      snippet: snippetFromPost(post) || title,
+      publishedAt: post.publishedAt,
+      ...sentiment ? { sentiment } : {}
+    });
+  }
+  return out.sort((a, b) => String(b.publishedAt || "").localeCompare(String(a.publishedAt || "")));
+}
+function sameStory(a, b) {
+  return a.topic.trim().toLowerCase() === b.topic.trim().toLowerCase();
+}
+function buildDayStoryBoard(input) {
+  const posts = listDayPosts(input.posts || [], input.sentiments || []);
+  const ranked = [];
+  const seen = /* @__PURE__ */ new Set();
+  const push = (pair) => {
+    const topic = pair?.topic?.replace(/\s+/g, " ").trim();
+    if (!topic || !isCompleteHeadline2(topic) || seen.has(topic.toLowerCase())) return;
+    seen.add(topic.toLowerCase());
+    ranked.push({ topic, ...pair?.name ? { name: pair.name } : {} });
+  };
+  push(
+    input.trendingTopic ? { topic: input.trendingTopic, ...input.trendingName ? { name: input.trendingName } : {} } : void 0
+  );
+  for (const extra of input.secondaryHighlights || []) push(extra);
+  for (const post of dedupePosts(input.posts || [])) {
+    const topic = headlineFromPost(post);
+    if (!topic) continue;
+    const name = extractName(`${cleanTitle(post.title || "")} ${post.raw?.contentSnippet || stripHtml(post.text || "")}`);
+    push({ topic, ...name ? { name } : {} });
+  }
+  const primary = ranked[0] || { topic: "" };
+  const secondary = ranked.filter((s) => !sameStory(s, primary)).slice(0, 3);
+  return { primary, secondary, posts };
+}
+
 // src/main.ts
-var activePopoverDate = null;
+var activeDayDate = null;
 var loadGeneration = 0;
 var calendar = null;
-function ensurePopover() {
-  const existing = document.getElementById("day-popover");
-  if (existing) {
-    return existing;
-  }
-  const el = document.createElement("div");
-  el.id = "day-popover";
-  el.setAttribute("role", "dialog");
-  el.setAttribute("aria-live", "polite");
-  el.hidden = true;
-  document.body.appendChild(el);
-  return el;
-}
-function positionPopover(target) {
-  const rect = target.getBoundingClientRect();
-  const popover = ensurePopover();
-  popover.style.left = `${rect.left + window.scrollX}px`;
-  popover.style.top = `${rect.bottom + window.scrollY + 8}px`;
-}
-function showPopoverContent(target, content) {
-  positionPopover(target);
-  const popover = ensurePopover();
-  popover.innerHTML = content;
-  popover.hidden = false;
-}
-function hidePopover() {
-  const popover = ensurePopover();
-  popover.hidden = true;
-  popover.innerHTML = "";
-  activePopoverDate = null;
-}
-function showPopoverLoading(target, date) {
-  activePopoverDate = date;
-  showPopoverContent(target, `<div class="popover-title">${date}</div><div class="popover-loading">Loading day summary...</div>`);
-}
-function showPopoverError(target, date, errorMessage) {
-  activePopoverDate = date;
-  showPopoverContent(target, `<div class="popover-title">${date}</div><div class="popover-error">Error: ${errorMessage}</div>`);
-}
+var lastFocusedCell = null;
 function escapeHtml(value) {
   return value.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
-function renderPopoverSummary(target, summary) {
-  activePopoverDate = summary.date;
-  const topics = summary.topics.length > 0 ? summary.topics.map((t) => `<li>${escapeHtml(t)}</li>`).join("") : "";
-  const sentiments = summary.sentiments ? `Sentiments: ${formatTriple(summary.sentiments)}` : "";
-  const topicLine = `<div class="popover-row"><span class="popover-label">Trending topic</span> ${escapeHtml(summary.trendingTopic || "\u2014")}</div>`;
-  const nameLine = `<div class="popover-row"><span class="popover-label">Trending name</span> ${escapeHtml(summary.trendingName || "\u2014")}</div>`;
-  const praiseLine = `<div class="popover-row"><span class="popover-label">Self-praise posts</span> ${summary.selfPraiseCount ?? 0}</div>`;
-  const content = summary.topics.length > 0 ? `<ul class="popover-topics">${topics}</ul>` : `<div class="popover-row">${escapeHtml(summary.summary || summary.fallbackMessage || "No summary available")}</div>`;
-  showPopoverContent(
-    target,
-    `<div class="popover-title">${escapeHtml(summary.date)}</div>${topicLine}${nameLine}${praiseLine}${content}${sentiments ? `<div class="popover-row">${escapeHtml(sentiments)}</div>` : ""}`
-  );
+function formatPostTime(iso) {
+  if (!iso) return "";
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return iso.slice(11, 16);
+  return d.toISOString().slice(11, 16) + " UTC";
+}
+function ensureDayDetail(runtime) {
+  const doc = runtime.document;
+  let root = doc.getElementById("day-detail");
+  if (root) return root;
+  root = doc.createElement("div");
+  root.id = "day-detail";
+  root.hidden = true;
+  root.innerHTML = `
+    <div class="day-detail-backdrop" data-day-detail-close="true"></div>
+    <article class="day-detail-panel" role="dialog" aria-modal="true" aria-labelledby="day-detail-title">
+      <header class="day-detail-header">
+        <h2 id="day-detail-title">Day</h2>
+        <button type="button" id="day-detail-close" aria-label="Close day view">Close</button>
+      </header>
+      <div id="day-detail-body" class="day-detail-body"></div>
+    </article>
+  `;
+  doc.body.appendChild(root);
+  root.addEventListener("click", (event) => {
+    const target = event.target;
+    if (target?.getAttribute("data-day-detail-close") === "true" || target?.id === "day-detail-close") {
+      closeDayDetail(runtime, "push");
+    }
+  });
+  return root;
+}
+function currentView(runtime) {
+  return parseViewMonth(runtime.location.search, (runtime.now ?? (() => /* @__PURE__ */ new Date()))());
+}
+function writeViewUrl(runtime, view, mode, day) {
+  const next = hrefForMonth(runtime.location.pathname, view, day);
+  const url = `${next}${runtime.location.hash || ""}`;
+  if (mode === "push") {
+    runtime.history.pushState({ ...view, day }, "", url);
+  } else {
+    runtime.history.replaceState({ ...view, day }, "", url);
+  }
+}
+function closeDayDetail(runtime, mode) {
+  const root = runtime.document.getElementById("day-detail");
+  if (root) {
+    root.hidden = true;
+    const body = runtime.document.getElementById("day-detail-body");
+    if (body) body.innerHTML = "";
+  }
+  runtime.document.body.classList.remove("day-detail-open");
+  activeDayDate = null;
+  if (mode !== "none") {
+    writeViewUrl(runtime, currentView(runtime), mode);
+    lastFocusedCell?.focus();
+  }
+}
+function renderDayDetail(runtime, summary) {
+  const root = ensureDayDetail(runtime);
+  const title = runtime.document.getElementById("day-detail-title");
+  const body = runtime.document.getElementById("day-detail-body");
+  if (!title || !body) return;
+  const board = buildDayStoryBoard({
+    posts: summary.posts,
+    sentiments: summary.postSentiments,
+    trendingTopic: summary.trendingTopic,
+    trendingName: summary.trendingName
+  });
+  const primaryTopic = board.primary.topic || summary.trendingTopic || "\u2014";
+  const primaryName = board.primary.name || summary.trendingName || "\u2014";
+  const secondaryRows = board.secondary.length ? board.secondary.map((s) => `<li><div><span class="hl-label">Topic</span> <span class="day-story-topic">${escapeHtml(s.topic)}</span></div><div><span class="hl-label">Name</span> <span class="day-story-name">${escapeHtml(s.name || "\u2014")}</span></div></li>`).join("") : '<li class="day-empty">No additional stories</li>';
+  const postRows = board.posts.length ? board.posts.map((p) => {
+    const label = escapeHtml(p.title);
+    const meta = [formatPostTime(p.publishedAt), p.sentiment].filter(Boolean).join(" \xB7 ");
+    const href = p.url ? ` href="${escapeHtml(p.url)}" target="_blank" rel="noopener noreferrer"` : "";
+    return `<li class="day-post"><a class="day-post-link"${href}><span class="day-post-title">${label}</span><span class="day-post-snippet">${escapeHtml(p.snippet)}</span><span class="day-post-meta">${escapeHtml(meta)}</span></a></li>`;
+  }).join("") : '<li class="day-empty">No posts for this day</li>';
+  title.textContent = summary.date;
+  body.innerHTML = `
+    <section class="day-primary">
+      <p class="hl-row"><span class="hl-label">Trending topic</span> <span id="day-trending-topic">${escapeHtml(primaryTopic)}</span></p>
+      <p class="hl-row"><span class="hl-label">Trending name</span> <span id="day-trending-name">${escapeHtml(primaryName)}</span></p>
+    </section>
+    <section class="day-secondary">
+      <h3>Also trending</h3>
+      <ol id="day-secondary-list">${secondaryRows}</ol>
+    </section>
+    <section class="day-posts">
+      <h3>Posts <span class="day-post-count">${board.posts.length}</span></h3>
+      <ul id="day-posts-list">${postRows}</ul>
+    </section>
+  `;
+  root.hidden = false;
+  runtime.document.body.classList.add("day-detail-open");
+  activeDayDate = summary.date;
+  runtime.document.getElementById("day-detail-close")?.focus();
+}
+async function openDayDetail(runtime, date, mode) {
+  const root = ensureDayDetail(runtime);
+  const title = runtime.document.getElementById("day-detail-title");
+  const body = runtime.document.getElementById("day-detail-body");
+  if (title) title.textContent = date;
+  if (body) body.innerHTML = '<p class="day-detail-loading">Loading day\u2026</p>';
+  root.hidden = false;
+  runtime.document.body.classList.add("day-detail-open");
+  activeDayDate = date;
+  if (mode !== "none") writeViewUrl(runtime, currentView(runtime), mode, date);
+  try {
+    const summary = await runtime.daySummaryService.getSummary(date);
+    if (activeDayDate !== date) return;
+    renderDayDetail(runtime, summary);
+  } catch (e) {
+    if (activeDayDate !== date) return;
+    if (body) {
+      body.innerHTML = `<p class="day-detail-error">Error: ${escapeHtml(e instanceof Error ? e.message : "Unknown error")}</p>`;
+    }
+    logger.error("Failed to load day summary", { error: e instanceof Error ? e.message : String(e), date });
+  }
 }
 function monthKey(view) {
   return `${view.year}-${String(view.month).padStart(2, "0")}`;
@@ -530,15 +866,6 @@ function renderMonthHighlights(runtime, view, days) {
   topicEl.textContent = highlights.trendingTopic || "\u2014";
   nameEl.textContent = highlights.trendingName || "\u2014";
   section.hidden = days.length === 0;
-}
-function writeMonthUrl(runtime, view, mode) {
-  const next = hrefForMonth(runtime.location.pathname, view);
-  const url = `${next}${runtime.location.hash || ""}`;
-  if (mode === "push") {
-    runtime.history.pushState(view, "", url);
-  } else {
-    runtime.history.replaceState(view, "", url);
-  }
 }
 function syncNav(runtime, view) {
   const label = runtime.document.getElementById("month-label");
@@ -570,7 +897,7 @@ async function loadMonth(runtime, view) {
   const emptyEl = runtime.document.getElementById("empty-state");
   if (!statusEl || !grid) return;
   const gen = ++loadGeneration;
-  hidePopover();
+  closeDayDetail(runtime, "none");
   if (!calendar) {
     calendar = new CalendarMonthComponent(view.year, view.month, runtime.now);
   }
@@ -620,25 +947,23 @@ async function loadMonth(runtime, view) {
       cell.innerHTML = `<div class="self-praise"><div class="self-praise-count">${n}</div><div class="self-praise-label">${praiseLabel}</div></div><strong>${d.date}</strong><div class="day-line">Posts: ${d.postsCount}</div><div class="day-line">${triple}</div>`;
       cell.appendChild(topicPreview);
       cell.setAttribute("aria-label", `Open details for ${d.date}, ${n} ${praiseLabel}`);
-      const showDetail = async () => {
-        showPopoverLoading(cell, d.date);
-        try {
-          const summary = await runtime.daySummaryService.getSummary(d.date);
-          if (activePopoverDate !== d.date) return;
-          renderPopoverSummary(cell, summary);
-        } catch (e) {
-          logger.error("Failed to load day summary", { error: e instanceof Error ? e.message : String(e), date: d.date });
-          showPopoverError(cell, d.date, e instanceof Error ? e.message : "Unknown error");
-        }
+      const showDetail = () => {
+        lastFocusedCell = cell;
+        void openDayDetail(runtime, d.date, "push");
       };
       cell.addEventListener("click", showDetail);
-      cell.addEventListener("mouseenter", showDetail);
-      cell.addEventListener("focus", showDetail);
-      cell.addEventListener("mouseleave", () => {
-        hidePopover();
+      cell.addEventListener("keydown", (event) => {
+        if (event.key === "Enter" || event.key === " ") {
+          event.preventDefault();
+          showDetail();
+        }
       });
       grid.appendChild(cell);
     });
+    const requestedDay = parseViewDay(runtime.location.search);
+    if (requestedDay && days.some((d) => d.date === requestedDay)) {
+      void openDayDetail(runtime, requestedDay, "none");
+    }
   } catch (e) {
     if (gen !== loadGeneration) return;
     calendar.setLoading(false);
@@ -649,7 +974,7 @@ async function loadMonth(runtime, view) {
   }
 }
 function goToMonth(runtime, view, mode) {
-  if (mode !== "none") writeMonthUrl(runtime, view, mode);
+  if (mode !== "none") writeViewUrl(runtime, view, mode);
   return loadMonth(runtime, view);
 }
 function defaultRuntime() {
@@ -667,7 +992,7 @@ function initCalendar(runtime = defaultRuntime()) {
   const now = runtime.now ?? (() => /* @__PURE__ */ new Date());
   calendar = new CalendarMonthComponent(void 0, void 0, now);
   const initial = parseViewMonth(runtime.location.search, now());
-  writeMonthUrl(runtime, initial, "replace");
+  writeViewUrl(runtime, initial, "replace", parseViewDay(runtime.location.search));
   const prev = runtime.document.getElementById("prev-month");
   const next = runtime.document.getElementById("next-month");
   prev?.addEventListener("click", () => {
@@ -681,6 +1006,12 @@ function initCalendar(runtime = defaultRuntime()) {
   runtime.document.addEventListener("keydown", (event) => {
     const target = event.target;
     if (target && (target.tagName === "INPUT" || target.tagName === "TEXTAREA" || target.isContentEditable)) return;
+    if (event.key === "Escape" && activeDayDate) {
+      event.preventDefault();
+      closeDayDetail(runtime, "push");
+      return;
+    }
+    if (activeDayDate) return;
     if (event.key === "ArrowLeft" && calendar?.canGoPrevious()) {
       event.preventDefault();
       void goToMonth(runtime, calendar.previousMonth(), "push");
