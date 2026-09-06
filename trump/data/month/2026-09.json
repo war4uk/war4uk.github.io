@@ -122,7 +122,7 @@
       ],
       "postsCount": 14,
       "hasDetail": true,
-      "generatedAt": "2026-09-06T05:29:40.949Z",
+      "generatedAt": "2026-09-06T19:01:18.745Z",
       "trendingTopic": "Announces participation in a major rally in Dallas",
       "secondaryHighlights": [
         {
@@ -134,38 +134,40 @@
     {
       "date": "2026-09-06",
       "counts": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 2
+        "positive": 1,
+        "neutral": 23,
+        "negative": 6
       },
-      "summary": "positive:0 neutral:0 negative:2",
+      "summary": "positive:1 neutral:23 negative:6",
       "topics": [
-        "Criticism of Spain's border control"
+        "Critiques Spain's border control issues",
+        "Comments on Canada's currency imbalance with the U.S.",
+        "Calls for Voter I.D. approval"
       ],
-      "postsCount": 2,
+      "postsCount": 30,
       "hasDetail": true,
-      "generatedAt": "2026-09-06T05:29:41.888Z",
-      "trendingTopic": "Criticism of Spain's border control amid ongoing issues",
+      "generatedAt": "2026-09-06T19:01:47.867Z",
+      "trendingTopic": "Critiques Spain's border control issues",
       "secondaryHighlights": [
         {
-          "topic": "So sad what is happening in Spain, a country with ZERO control of its Border"
+          "topic": "Comments on Canada's currency imbalance with the U.S."
+        },
+        {
+          "topic": "Calls for Voter I.D. approval"
         }
       ],
       "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-06T08:08:16.970Z",
+  "generatedAt": "2026-09-06T19:01:47.867Z",
   "trendingTopic": "Endorses multiple America First candidates across various states including Iowa, Florida, and Texas",
   "secondaryHighlights": [
     {
       "topic": "Approves significant disaster recovery funding for states affected by severe storms and flooding"
     },
     {
-      "topic": "Comments on military operations and ammunition supply in Iran"
-    },
-    {
-      "topic": "Criticism of Spain's border control amid ongoing issues"
+      "topic": "Critiques Spain's border control issues"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:6:b23f70fdef0812c1362f51f4"
+  "topicsCacheKey": "month-themes-v5:6:40cf90224df090b816081ca4"
 }
