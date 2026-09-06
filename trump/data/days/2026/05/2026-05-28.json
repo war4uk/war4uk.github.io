@@ -6,14 +6,15 @@
     "negative": 1
   },
   "summary": "positive:1 neutral:6 negative:1",
-  "generatedAt": "2026-09-05T08:31:52.865Z",
+  "generatedAt": "2026-09-06T07:50:05.162Z",
   "topics": [
-    "Political Commentary and Controversies"
+    "Calls for the release of Biden tapes for public transparency",
+    "Claims the first Trump impeachment was fraudulent based on new documents"
   ],
-  "trendingTopic": "GREGG JARRETT: Release the Biden tapes and let Americans hear the truth for themselves",
+  "trendingTopic": "Calls for the release of Biden tapes for public transparency",
   "secondaryHighlights": [
     {
-      "topic": "GREGG JARRETT: Long-hidden documents reveal first Trump impeachment was a total fraud"
+      "topic": "Claims the first Trump impeachment was fraudulent based on new documents"
     }
   ],
   "selfPraiseCount": 0,
@@ -212,5 +213,7 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:31:52.863Z"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:8:4e8c6a1daf884a9202eca3b8",
+  "trendingName": "Gregg Jarrett"
 }

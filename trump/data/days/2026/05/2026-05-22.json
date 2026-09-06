@@ -6,23 +6,20 @@
     "negative": 5
   },
   "summary": "positive:6 neutral:7 negative:5",
-  "generatedAt": "2026-09-05T08:30:39.171Z",
+  "generatedAt": "2026-09-06T07:49:56.783Z",
   "topics": [
-    "Disaster Recovery and Assistance",
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Celebrates new stock market record",
+    "Comments on Stephen Colbert's departure from CBS",
+    "Mourns the passing of NASCAR driver Kyle Busch"
   ],
-  "trendingTopic": "Unfortunately, after having done a great job, Tulsi Gabbard will be leaving the Administration on June 30th",
-  "trendingName": "Tulsi Gabbard",
+  "trendingTopic": "Celebrates new stock market record",
   "secondaryHighlights": [
     {
-      "topic": "Colbert is finally finished at CBS. Amazing that he lasted so long!"
+      "topic": "Comments on Stephen Colbert's departure from CBS",
+      "name": "Stephen Colbert"
     },
     {
-      "topic": "Glenn Jacobs has a BIG political future in Tennessee - A great guy!!!"
-    },
-    {
-      "topic": "Stop playing games and PASS THE SAVE AMERICA ACT!"
+      "topic": "Mourns the passing of NASCAR driver Kyle Busch"
     }
   ],
   "selfPraiseCount": 1,
@@ -461,5 +458,6 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:30:39.169Z"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:18:ef82663447d3e740ef551424"
 }

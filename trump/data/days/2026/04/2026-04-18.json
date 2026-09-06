@@ -6,19 +6,21 @@
     "negative": 4
   },
   "summary": "positive:10 neutral:25 negative:4",
-  "generatedAt": "2026-09-06T07:42:05.261Z",
+  "generatedAt": "2026-09-05T08:45:55.065Z",
   "topics": [
-    "Trump reveals upcoming release of top secret government UFO files",
-    "Trump highlights Las Vegas as birthplace of no tax on tips policy and potential refunds for workers",
-    "Trump discusses the significance of a new Texas refinery and its impact on the economy"
+    "Political Commentary and Controversies",
+    "Economic Growth and Job Creation"
   ],
-  "trendingTopic": "Trump reveals upcoming release of top secret government UFO files",
+  "trendingTopic": "'Charlie's voice is not silenced, it's roaring'",
   "secondaryHighlights": [
     {
-      "topic": "Trump highlights Las Vegas as birthplace of no tax on tips policy and potential refunds for workers"
+      "topic": "Trump: Tax Deductions Deliver 'Biggest Refunds' for Tipped Workers"
     },
     {
-      "topic": "Trump discusses the significance of a new Texas refinery and its impact on the economy"
+      "topic": "Trump: Policies Like No Tax on Tips, Overtime Show GOP Is Party of Working Class"
+    },
+    {
+      "topic": "Trump touts ‘historic’ $300B Texas refinery as first new US plant in nearly 50 years"
     }
   ],
   "selfPraiseCount": 0,
@@ -961,6 +963,5 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:45:55.061Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:39:c58105b17acb87f22aa12b26"
+  ]
 }

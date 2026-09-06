@@ -6,22 +6,19 @@
     "negative": 3
   },
   "summary": "positive:9 neutral:13 negative:3",
-  "generatedAt": "2026-09-05T08:32:07.657Z",
+  "generatedAt": "2026-09-06T07:50:06.709Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Claude Lemieux passes away, remembered as a fierce competitor and Trump supporter",
+    "Endorses David Flippo for Nevada's 2nd Congressional District and Mike Mazzei for Governor of Oklahoma",
+    "Judge clears Trump's voter citizenship checks and mail-in voting crackdown"
   ],
-  "trendingTopic": "It is my Great Honor to endorse America First Patriot, David Flippo, who is running to represent the fantastic people of Nevada’s 2nd Congressional District!",
+  "trendingTopic": "Claude Lemieux passes away, remembered as a fierce competitor and Trump supporter",
   "secondaryHighlights": [
     {
-      "topic": "Iran must agree that they will never have a Nuclear Weapon or Bomb."
+      "topic": "Endorses David Flippo for Nevada's 2nd Congressional District and Mike Mazzei for Governor of Oklahoma"
     },
     {
-      "topic": "Highly Respected American First Congressman, Randy Feenstra, is running for Governor of Iowa, a place I love and WON BIG in 2016, 2020, and 2024, getting the highest Vote in the History of Iowa."
-    },
-    {
-      "topic": "John Solomon unpacks a bombshell revelation about James Comey",
-      "name": "John Solomon"
+      "topic": "Judge clears Trump's voter citizenship checks and mail-in voting crackdown"
     }
   ],
   "selfPraiseCount": 6,
@@ -628,5 +625,7 @@
       "rationale": "The endorsement of Mike Mazzei is presented with enthusiasm and confidence, highlighting his qualifications and the positive impact he will have as Governor.",
       "analyzedAt": "2026-09-05T08:32:07.653Z"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:25:14c72e1f04231efa1834ddeb",
+  "trendingName": "Claude Lemieux"
 }

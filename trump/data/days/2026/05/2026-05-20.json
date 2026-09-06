@@ -6,17 +6,15 @@
     "negative": 1
   },
   "summary": "positive:1 neutral:39 negative:1",
-  "generatedAt": "2026-09-05T08:30:15.009Z",
+  "generatedAt": "2026-09-06T07:49:53.770Z",
   "topics": [
-    "Political Commentary and Controversies"
+    "Criticism of Republican Parliamentarian Elizabeth MacDonough",
+    "Trump discusses new ballroom's protective features for future presidents"
   ],
-  "trendingTopic": "‘A GIFT TO AMERICA’: Trump Says New Ballroom Will Protect Presidents For Generations",
+  "trendingTopic": "Trump discusses new ballroom's protective features for future presidents",
   "secondaryHighlights": [
     {
-      "topic": "Trump Says Ballroom Roof Will Host ‘Drone Empire’ to Defend D.C"
-    },
-    {
-      "topic": "Save America Act"
+      "topic": "Criticism of Republican Parliamentarian Elizabeth MacDonough"
     }
   ],
   "selfPraiseCount": 0,
@@ -1007,5 +1005,6 @@
       "rationale": "The statement is factual and does not express a clear positive or negative sentiment.",
       "analyzedAt": "2026-09-05T08:30:15.004Z"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:41:739c9b0e73ac6f0d777a8585"
 }

@@ -6,24 +6,20 @@
     "negative": 1
   },
   "summary": "positive:17 neutral:2 negative:1",
-  "generatedAt": "2026-09-05T08:26:33.480Z",
+  "generatedAt": "2026-09-06T07:49:33.717Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Endorses multiple America First candidates in Ohio's Congressional Districts",
+    "Vivek Ramaswamy announces candidacy for Governor of Ohio",
+    "Celebrates the official logo for Donald J. Trump International Airport"
   ],
-  "trendingTopic": "Congressman Max Miller is a fantastic Champion for the Great People of Ohio’s 1st Congressional District!",
+  "trendingTopic": "Endorses multiple America First candidates in Ohio's Congressional Districts",
   "secondaryHighlights": [
     {
-      "topic": "Jon Husted is doing an incredible job as Senator for the Great State of Ohio!",
-      "name": "Jon Husted"
-    },
-    {
-      "topic": "Congressman Mike Carey is a Fantastic Advocate for Ohio’s 15th Congressional District!",
-      "name": "Mike Carey"
-    },
-    {
-      "topic": "Vivek Ramaswamy is running for Governor of the Great State of Ohio, a place I love and WON BIG, THREE TIMES, in 2016, 2020, and 2024!",
+      "topic": "Vivek Ramaswamy announces candidacy for Governor of Ohio",
       "name": "Vivek Ramaswamy"
+    },
+    {
+      "topic": "Celebrates the official logo for Donald J. Trump International Airport"
     }
   ],
   "selfPraiseCount": 1,
@@ -510,5 +506,6 @@
       "rationale": "The text indicates voter support for a policy and aligns with the endorsement of Senate Republicans, suggesting a positive sentiment towards election integrity.",
       "analyzedAt": "2026-09-05T08:26:33.478Z"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:20:b9def356136aa4a878b2a5a7"
 }

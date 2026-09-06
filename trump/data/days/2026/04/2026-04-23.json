@@ -6,19 +6,21 @@
     "negative": 5
   },
   "summary": "positive:7 neutral:10 negative:5",
-  "generatedAt": "2026-09-06T07:42:12.628Z",
+  "generatedAt": "2026-09-05T08:47:08.483Z",
   "topics": [
-    "Trump's actions lead to the release of 8 women from Iran's death row",
-    "Trump meets with Los Angeles officials to discuss fire recovery efforts",
-    "Trump's administration focuses on military readiness and naval strength"
+    "Disaster Recovery and Assistance",
+    "Political Commentary and Controversies"
   ],
-  "trendingTopic": "Trump's actions lead to the release of 8 women from Iran's death row",
+  "trendingTopic": "DAVE BOSSIE: One Year Since Taking Office, Trump Is Decimating Failed DC Status Quo",
   "secondaryHighlights": [
     {
-      "topic": "Trump meets with Los Angeles officials to discuss fire recovery efforts"
+      "topic": "Federal government must step up for election integrity"
     },
     {
-      "topic": "Trump's administration focuses on military readiness and naval strength"
+      "topic": "DAVE BOSSIE: Senate Republicans Must Stand Tall And Pass SAVE America Act"
+    },
+    {
+      "topic": "DAVE BOSSIE: At Trump’s War Department, The Arsenal Of Freedom Roars Again"
     }
   ],
   "selfPraiseCount": 1,
@@ -553,6 +555,5 @@
       "rationale": "The text expresses gratitude and acknowledges progress made in addressing the aftermath of the fires, highlighting positive actions taken by insurance companies.",
       "analyzedAt": "2026-09-05T08:47:08.478Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:22:76033d50195584658dc5db42"
+  ]
 }

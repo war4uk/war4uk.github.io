@@ -6,15 +6,16 @@
     "negative": 1
   },
   "summary": "positive:3 neutral:12 negative:1",
-  "generatedAt": "2026-09-05T08:28:21.505Z",
+  "generatedAt": "2026-09-06T07:49:44.217Z",
   "topics": [
-    "Economic Growth and Job Creation",
-    "Political Commentary and Controversies"
+    "Jensen Huang attends gathering of business leaders in China",
+    "Mitch McConnell embarrassed during hearing by unexpected interruption"
   ],
-  "trendingTopic": "CNBC incorrectly reported that the Great Jensen Huang, of Nvidia, was not invited to the incredible gathering of the World’s Greatest Businessmen/women proudly going to China.",
+  "trendingTopic": "Jensen Huang attends gathering of business leaders in China",
   "secondaryHighlights": [
     {
-      "topic": "Save America Act"
+      "topic": "Mitch McConnell embarrassed during hearing by unexpected interruption",
+      "name": "Mitch McConnell"
     }
   ],
   "selfPraiseCount": 3,
@@ -405,5 +406,7 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:28:21.503Z"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:16:75076558d37157c5fd6cfbf9",
+  "trendingName": "Jensen Huang"
 }

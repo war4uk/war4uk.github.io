@@ -6,11 +6,11 @@
     "negative": 3
   },
   "summary": "positive:30 neutral:8 negative:3",
-  "generatedAt": "2026-09-06T07:41:49.734Z",
+  "generatedAt": "2026-04-13T08:22:55.380Z",
   "topics": [
-    "Encourages voting for Clay Fuller in Georgia's 14th Congressional District Special Election",
-    "Endorses multiple America First candidates for Indiana State Senate and House Districts",
-    "Comments on the Save America Act and media coverage"
+    "Iran Ceasefire Agreement",
+    "Indiana State Senate Endorsements",
+    "Georgia Special Election Advocacy"
   ],
   "posts": [
     {
@@ -1000,16 +1000,19 @@
       "analyzedAt": "2026-04-13T08:22:37.559Z"
     }
   ],
-  "trendingTopic": "Encourages voting for Clay Fuller in Georgia's 14th Congressional District Special Election",
+  "trendingTopic": "It is my Great Honor to endorse Dr. Brian Schmutzler, a MAGA Warrior and REAL Republican running for Indiana's 11th State Senate District, against RINO incumbent Linda Rogers!",
   "selfPraiseCount": 5,
   "secondaryHighlights": [
     {
-      "topic": "Endorses multiple America First candidates for Indiana State Senate and House Districts"
+      "topic": "Two more major pharmaceutical companies to launch products through TrumpRx"
     },
     {
-      "topic": "Comments on the Save America Act and media coverage"
+      "topic": "State Representative Jim Pressel is a Tremendous Champion for the incredible people of Indiana’s 20th State House District!",
+      "name": "Jim Pressel"
+    },
+    {
+      "topic": "State Representative Jeff Thompson is doing a tremendous job representing the Great People of Indiana’s 28th State House District!",
+      "name": "Jeff Thompson"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:41:bd728b0db9b7bc6fcb973911",
-  "trendingName": "Clay Fuller"
+  ]
 }

@@ -6,19 +6,23 @@
     "negative": 2
   },
   "summary": "positive:3 neutral:1 negative:2",
-  "generatedAt": "2026-09-06T07:42:21.978Z",
+  "generatedAt": "2026-09-05T08:48:02.719Z",
   "topics": [
-    "Supreme Court rules in favor of Equal Protection under the Law in Callais case",
-    "U.S. reviewing potential troop reduction in Germany",
-    "Intel Stock rises significantly due to recent performance"
+    "Endorsements and Support for Candidates",
+    "Economic Growth and Job Creation",
+    "Political Commentary and Controversies"
   ],
-  "trendingTopic": "Supreme Court rules in favor of Equal Protection under the Law in Callais case",
+  "trendingTopic": "Iran can’t get their act together",
   "secondaryHighlights": [
     {
-      "topic": "U.S. reviewing potential troop reduction in Germany"
+      "topic": "Jerome “Too Late” Powell wants to stay at the Fed because he can’t get a job anywhere else"
     },
     {
-      "topic": "Intel Stock rises significantly due to recent performance"
+      "topic": "Intel Stock continues to rise"
+    },
+    {
+      "topic": "Robert Hardman has written an amazing book about the incredible life of the beloved and deeply respected Queen Elizabeth II. In his research, Robert discovers many interesting things about the Queen, King Charles, and other members of the Royal Family.",
+      "name": "Robert Hardman"
     }
   ],
   "selfPraiseCount": 0,
@@ -169,7 +173,5 @@
       "rationale": "The text expresses admiration for Robert Hardman's book about Queen Elizabeth II, calling it 'amazing' and a 'MUST READ', indicating a positive sentiment.",
       "analyzedAt": "2026-09-05T08:48:02.716Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:6:f3954a0065d73929b3583262",
-  "trendingName": "Samuel Alito"
+  ]
 }

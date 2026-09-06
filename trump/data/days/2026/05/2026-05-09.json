@@ -6,19 +6,16 @@
     "negative": 0
   },
   "summary": "positive:2 neutral:17 negative:0",
-  "generatedAt": "2026-09-05T08:27:18.139Z",
+  "generatedAt": "2026-09-06T07:49:39.019Z",
   "topics": [
-    "Political Commentary and Controversies",
-    "Endorsements and Support for Candidates"
+    "Congratulates John Swinney on winning re-election as First Minister of Scotland",
+    "FBI searches Fulton County election hub in criminal probe of 2020 election"
   ],
-  "trendingTopic": "Congratulations to John Swinney on winning his Re-Election for First Minister of Scotland.",
+  "trendingTopic": "Congratulates John Swinney on winning re-election as First Minister of Scotland",
   "trendingName": "John Swinney",
   "secondaryHighlights": [
     {
       "topic": "FBI searches Fulton County election hub in criminal probe of 2020 election"
-    },
-    {
-      "topic": "Very important"
     }
   ],
   "selfPraiseCount": 0,
@@ -481,5 +478,6 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:27:18.137Z"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:19:2d18f9681c2894b7b41801b9"
 }

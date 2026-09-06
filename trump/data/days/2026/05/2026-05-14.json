@@ -6,11 +6,11 @@
     "negative": 1
   },
   "summary": "positive:0 neutral:2 negative:1",
-  "generatedAt": "2026-09-05T08:28:27.206Z",
+  "generatedAt": "2026-09-06T07:49:45.137Z",
   "topics": [
-    "Political Commentary and Controversies"
+    "Critiques President Xi's comments on the U.S. as a declining nation"
   ],
-  "trendingTopic": "When President Xi very elegantly referred to the United States as perhaps being a declining nation, he was referring to the tremendous damage we suffered during the four years of Sleepy Joe Biden and the Biden Administration, and on that score, he was 100% correct.",
+  "trendingTopic": "Critiques President Xi's comments on the U.S. as a declining nation",
   "trendingName": "Joe Biden",
   "selfPraiseCount": 0,
   "posts": [
@@ -87,6 +87,13 @@
       "label": "negative",
       "rationale": "The text expresses a negative sentiment towards the Biden Administration and highlights various issues attributed to it, while contrasting it with a positive view of the Trump Administration.",
       "analyzedAt": "2026-09-05T08:28:27.202Z"
+    }
+  ],
+  "topicsCacheKey": "day-themes-v8:3:0625783b7b1b789d7dc5a7ff",
+  "secondaryHighlights": [
+    {
+      "topic": "When President Xi very elegantly referred to the United States as perhaps being a declining nation, he was referring to the tremendous damage we suffered during the four years of Sleepy Joe Biden and the Biden Administration, and on that score, he was 100% correct.",
+      "name": "Joe Biden"
     }
   ]
 }

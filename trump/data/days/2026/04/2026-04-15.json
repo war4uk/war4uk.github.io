@@ -6,20 +6,22 @@
     "negative": 6
   },
   "summary": "positive:5 neutral:9 negative:6",
-  "generatedAt": "2026-09-06T07:42:00.864Z",
+  "generatedAt": "2026-09-05T08:45:10.048Z",
   "topics": [
-    "Condemns Iran for killing protesters and nuclear ambitions",
-    "Critiques NATO's reliability and U.S. foreign policy",
-    "Discusses potential impeachment expungement and legal issues"
+    "Political Commentary and Controversies",
+    "Endorsements and Support for Candidates",
+    "Disaster Recovery and Assistance"
   ],
-  "trendingTopic": "Condemns Iran for killing protesters and nuclear ambitions",
+  "trendingTopic": "Will be interviewed tomorrow morning by Maria B. FoxBusiness",
   "secondaryHighlights": [
     {
-      "topic": "Critiques NATO's reliability and U.S. foreign policy"
+      "topic": "NATO wasn’t there for us, and they won’t be there for us in the future!"
     },
     {
-      "topic": "Discusses potential impeachment expungement and legal issues",
-      "name": "Alan Dershowitz"
+      "topic": "Trump could move to expunge 2019 impeachment after release of bombshell evidence"
+    },
+    {
+      "topic": "Biden administration weaponized law to infringe rights of pro-life activists, DOJ says"
     }
   ],
   "selfPraiseCount": 0,
@@ -506,6 +508,5 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:45:10.045Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:20:42bf5fcb2c9c3442ce8b4088"
+  ]
 }

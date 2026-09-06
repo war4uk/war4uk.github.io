@@ -6,23 +6,20 @@
     "negative": 2
   },
   "summary": "positive:7 neutral:13 negative:2",
-  "generatedAt": "2026-09-05T08:32:52.491Z",
+  "generatedAt": "2026-09-06T07:50:09.352Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Announces Tom Barrack as Special Presidential Envoy to Syria and Iraq",
+    "Reports excellent results from physical examination and cognitive test",
+    "Congratulates Congressman Gus Bilirakis for his support of MAGA"
   ],
-  "trendingTopic": "I am pleased to announce that United States Ambassador to Türkiye, Tom Barrack, who has done an outstanding job, will be named Special Presidential Envoy to Syria and, likewise, Special Presidential Envoy to Iraq, as we advance our strategic cooperation with the Governments of Syria and Iraq, our relationship with them continues to grow!",
-  "trendingName": "Tom Barrack",
+  "trendingTopic": "Announces Tom Barrack as Special Presidential Envoy to Syria and Iraq",
   "secondaryHighlights": [
     {
-      "topic": "Dhillon wants judge who allegedly attended a Fani Willis event off Georgia election integrity case",
-      "name": "Fani Willis"
+      "topic": "Reports excellent results from physical examination and cognitive test"
     },
     {
-      "topic": "Cotton over chemicals: How Trump’s USDA is Making America’s Fabric Great Again"
-    },
-    {
-      "topic": "Congratulations to Congressman Gus Bilirakis, a great guy"
+      "topic": "Congratulates Congressman Gus Bilirakis for his support of MAGA",
+      "name": "Gus Bilirakis"
     }
   ],
   "selfPraiseCount": 0,
@@ -557,5 +554,6 @@
       "rationale": "The message expresses joy and celebration for Justo Betancourt's freedom, highlighting a positive personal reunion.",
       "analyzedAt": "2026-09-05T08:32:52.488Z"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:22:58e410e283106c3c4a9298e5"
 }

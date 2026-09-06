@@ -6,20 +6,22 @@
     "negative": 2
   },
   "summary": "positive:12 neutral:5 negative:2",
-  "generatedAt": "2026-09-06T07:41:59.461Z",
+  "generatedAt": "2026-09-05T08:44:58.183Z",
   "topics": [
-    "Endorses multiple candidates for Congress across various states",
-    "Discusses potential impeachment expungement for Trump",
-    "Critiques Biden administration's actions regarding pro-life activists"
+    "Endorsements and Support for Candidates",
+    "Political Commentary and Controversies"
   ],
-  "trendingTopic": "Endorses multiple candidates for Congress across various states",
+  "trendingTopic": "It is my Great Honor to endorse Highly Respected San Diego County Supervisor, Jim Desmond, who is running to represent the tremendous people of California’s 48th Congressional District.A Brave U.S. Navy Veteran, Jim knows the Wisdom and Courage required to Defend our Country, Support our incredible Military/Veterans, and Ensure PEACE THROUGH STRENGTH. A Successful Businessman, Pilot, and Highly Respected Mayor of San Marcos, prior to becoming a distinguished San Diego County Supervisor, Jim has dedicated his life to serving his Community.",
   "secondaryHighlights": [
     {
-      "topic": "Discusses potential impeachment expungement for Trump",
-      "name": "Alan Dershowitz"
+      "topic": "Georgia lawmaker wants Fani Willis to answer questions about $2 million grant from Biden DOJ",
+      "name": "Fani Willis"
     },
     {
-      "topic": "Critiques Biden administration's actions regarding pro-life activists"
+      "topic": "Trump could move to expunge 2019 impeachment after release of bombshell evidence"
+    },
+    {
+      "topic": "Biden administration weaponized law to infringe rights of pro-life activists, DOJ says"
     }
   ],
   "selfPraiseCount": 0,
@@ -482,6 +484,5 @@
       "rationale": "The text expresses strong support for Trump and highlights positive achievements regarding border control.",
       "analyzedAt": "2026-09-05T08:44:58.179Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:19:2611e7b8f1108d42f9639278"
+  ]
 }

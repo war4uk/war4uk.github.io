@@ -6,22 +6,20 @@
     "negative": 2
   },
   "summary": "positive:7 neutral:25 negative:2",
-  "generatedAt": "2026-09-05T08:31:33.073Z",
+  "generatedAt": "2026-09-06T07:50:02.525Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Concerns raised by Biden DOJ official about FBI's Mar-a-Lago raid",
+    "U.S. attorney in Miami indicts ex-prosecutor sending message to deep state",
+    "Byron Donalds announces run for Governor of Florida"
   ],
-  "trendingTopic": "Exclusive: Key Biden DOJ official raised red flags about FBI’s Mar-a-Lago raid, memo shows",
+  "trendingTopic": "Concerns raised by Biden DOJ official about FBI's Mar-a-Lago raid",
   "secondaryHighlights": [
     {
-      "topic": "U.S. attorney in Miami sends ‘message’ to deep state with indictment against ex-prosecutor"
+      "topic": "U.S. attorney in Miami indicts ex-prosecutor sending message to deep state"
     },
     {
-      "topic": "Great job on FoxNews by Alex Gray",
-      "name": "Alex Gray"
-    },
-    {
-      "topic": "Texas, Vote for Ken Paxton, our Country’s BEST Attorney General!"
+      "topic": "Byron Donalds announces run for Governor of Florida",
+      "name": "Byron Donalds"
     }
   ],
   "selfPraiseCount": 1,
@@ -844,5 +842,7 @@
       "rationale": "The text expresses strong support for the CFTC and its leadership, emphasizing the importance of maintaining authority over Prediction Markets and praising Mike Selig's performance.",
       "analyzedAt": "2026-09-05T08:31:33.067Z"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:34:193c804b5c6f479f5843e24f",
+  "trendingName": "Joe Biden"
 }

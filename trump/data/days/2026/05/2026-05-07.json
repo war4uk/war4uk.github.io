@@ -6,25 +6,19 @@
     "negative": 3
   },
   "summary": "positive:11 neutral:5 negative:3",
-  "generatedAt": "2026-09-05T08:26:59.256Z",
+  "generatedAt": "2026-09-06T07:49:36.465Z",
   "topics": [
-    "Disaster Recovery and Assistance",
-    "Economic Growth and Job Creation",
-    "Endorsements and Support for Candidates"
+    "Endorses Barry Moore for reelection and Senate in Alabama",
+    "Discusses international relations with Brazil and the European Commission",
+    "Highlights stock market reaching an all-time high"
   ],
-  "trendingTopic": "Lilly commits additional $4.5 billion across Indiana manufacturing sites, opens first dedicated genetic medicine facility",
+  "trendingTopic": "Endorses Barry Moore for reelection and Senate in Alabama",
   "secondaryHighlights": [
     {
-      "topic": "Chuck Devore, Army Intelligence, was fantastic tonight on Jesse Watters",
-      "name": "Chuck Devore"
+      "topic": "Discusses international relations with Brazil and the European Commission"
     },
     {
-      "topic": "A highly accurate depiction of the Sleepy Joe Biden Administration",
-      "name": "Joe Biden"
-    },
-    {
-      "topic": "I had a great call with The President of the European Commission, Ursula von der Leyen",
-      "name": "Ursula von der Leyen"
+      "topic": "Highlights stock market reaching an all-time high"
     }
   ],
   "selfPraiseCount": 1,
@@ -487,5 +481,7 @@
       "rationale": "The text describes a successful military operation with no damage to American destroyers and the destruction of Iranian attackers, portraying a strong and victorious image.",
       "analyzedAt": "2026-09-05T08:26:59.252Z"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:19:a7c5500b3b4cd8c472a67e66",
+  "trendingName": "Barry Moore"
 }
