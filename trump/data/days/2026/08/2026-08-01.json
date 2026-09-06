@@ -6,19 +6,21 @@
     "negative": 5
   },
   "summary": "positive:9 neutral:31 negative:5",
-  "generatedAt": "2026-09-06T08:02:45.083Z",
+  "generatedAt": "2026-09-05T08:03:44.297Z",
   "topics": [
-    "Federal Appeals Court rejects bid to block Trump's mail voting restrictions",
-    "Crowd at UFC fights in Serbia cheers for Trump sign",
-    "Trump's influence on oil exports and White House renovations"
+    "Endorsements and Support for Candidates",
+    "Political Commentary and Controversies"
   ],
-  "trendingTopic": "Federal Appeals Court rejects bid to block Trump's mail voting restrictions",
+  "trendingTopic": "Look for yourselves at the VANDALISM that took place at The Reflecting Pool",
   "secondaryHighlights": [
     {
-      "topic": "Crowd at UFC fights in Serbia cheers for Trump sign"
+      "topic": "the @ufc fights in Serbia the crowd goes wild for a sign flung open by the crowd…"
     },
     {
-      "topic": "Trump's influence on oil exports and White House renovations"
+      "topic": "Great job by Chairman Rick Crawford on FoxNews interview - A total Pro!!!"
+    },
+    {
+      "topic": "The Triumphal Arch, prior to affixing the magnificent Statues and Artwork!"
     }
   ],
   "selfPraiseCount": 0,
@@ -1105,6 +1107,5 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T07:23:30.586Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:45:324dc1ed9996aad5a76a47b0"
+  ]
 }

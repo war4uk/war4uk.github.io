@@ -6,19 +6,23 @@
     "negative": 15
   },
   "summary": "positive:14 neutral:7 negative:15",
-  "generatedAt": "2026-09-06T08:03:44.701Z",
+  "generatedAt": "2026-09-05T08:06:45.849Z",
   "topics": [
-    "Criticizes Governor Kathy Hochul for releasing criminals in New York",
-    "Discusses Iran's economic struggles and status as a failed nation",
-    "Highlights Trump's policies and their impact on the national beef herd"
+    "Economic Growth and Job Creation",
+    "Political Commentary and Controversies"
   ],
-  "trendingTopic": "Criticizes Governor Kathy Hochul for releasing criminals in New York",
+  "trendingTopic": "Iran is officially a Failed Nation",
   "secondaryHighlights": [
     {
-      "topic": "Discusses Iran's economic struggles and status as a failed nation"
+      "topic": "Data centers for jobs and growth"
     },
     {
-      "topic": "Highlights Trump's policies and their impact on the national beef herd"
+      "topic": "Governor Kathy Hochul just released 7000 hard core criminals onto the streets on New York",
+      "name": "Kathy Hochul"
+    },
+    {
+      "topic": "Being interviewed by Trey Gowdy, NOW!",
+      "name": "Trey Gowdy"
     }
   ],
   "selfPraiseCount": 1,
@@ -889,7 +893,5 @@
       "rationale": "The text expresses concern about political corruption, indicating a negative sentiment.",
       "analyzedAt": "2026-09-05T08:06:45.846Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:36:f536d132e91ea01d824391cc",
-  "trendingName": "Kathy Hochul"
+  ]
 }

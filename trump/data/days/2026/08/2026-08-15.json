@@ -6,20 +6,25 @@
     "negative": 0
   },
   "summary": "positive:5 neutral:51 negative:0",
-  "generatedAt": "2026-09-06T08:03:11.995Z",
+  "generatedAt": "2026-09-05T08:04:34.477Z",
   "topics": [
-    "Calls for secure facilities for presidential operations from military and intelligence leaders",
-    "President Trump comforts parents of a shooting victim during New York speech",
-    "Texas Governor Abbott's actions against DFW Airport's Islamic foot-washing station plan"
+    "Endorsements and Support for Candidates",
+    "Economic Growth and Job Creation",
+    "Political Commentary and Controversies"
   ],
-  "trendingTopic": "Calls for secure facilities for presidential operations from military and intelligence leaders",
+  "trendingTopic": "Secretary of State Marco Rubio: “In my work with heads of state and foreign ministers, I am frequently hosted in reception facilities that are visually impressive and reflective of the wealth and beauty of the nations I am visiting.",
   "trendingName": "Marco Rubio",
   "secondaryHighlights": [
     {
-      "topic": "President Trump comforts parents of a shooting victim during New York speech"
+      "topic": "Dan Caine, Chairman of the Joint Chiefs of Staff: “I declare there is a valid military requirement for a secure, state-of-the-art facility that provides for the physical protection of the President and the command, control, and communication capabilities necessary for the President to carry out his Commander-in-Chief responsibilities over the United States Armed Forces anywhere across the globe at any time.”",
+      "name": "Dan Caine"
     },
     {
-      "topic": "Texas Governor Abbott's actions against DFW Airport's Islamic foot-washing station plan"
+      "topic": "Jay Clayton, Director of National Intelligence: “The Project is critical for ensuring the White House can serve as a secure location for the gathering of the President, gathering of senior government officials, and gatherings that further the interests of the United States."
+    },
+    {
+      "topic": "Jim Jordan blasts FBI Round River as 'operation to protect Joe Biden', obstruct Congress",
+      "name": "Joe Biden"
     }
   ],
   "selfPraiseCount": 0,
@@ -1370,6 +1375,5 @@
       "rationale": "The text highlights Bill Conerly's patriotism and efforts in the State House, reflecting a positive sentiment.",
       "analyzedAt": "2026-09-05T07:48:42.815Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:56:fdaf86419483ed9f6696eedb"
+  ]
 }

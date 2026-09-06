@@ -6,19 +6,23 @@
     "negative": 0
   },
   "summary": "positive:4 neutral:16 negative:0",
-  "generatedAt": "2026-09-06T08:03:23.080Z",
+  "generatedAt": "2026-09-05T08:04:52.769Z",
   "topics": [
-    "Nominates Jesus Osete and Phil Axt for federal judgeships",
-    "Calls for SCOTUS to allow construction at the White House",
-    "Comments on law enforcement empowerment"
+    "Endorsements and Support for Candidates",
+    "Political Commentary and Controversies"
   ],
-  "trendingTopic": "Nominates Jesus Osete and Phil Axt for federal judgeships",
+  "trendingTopic": "James Braid, our Director of Legislative Affairs, will be leaving the White House in September",
+  "trendingName": "James Braid",
   "secondaryHighlights": [
     {
-      "topic": "Calls for SCOTUS to allow construction at the White House"
+      "topic": "I am pleased to nominate Phil Axt to the U.S. District Court for the District of North Dakota",
+      "name": "Phil Axt"
     },
     {
-      "topic": "Comments on law enforcement empowerment"
+      "topic": "MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed"
+    },
+    {
+      "topic": "Trump’s support ‘empowers’ law enforcement to make the country safer: Former FBI agent"
     }
   ],
   "selfPraiseCount": 1,
@@ -505,6 +509,5 @@
       "rationale": "The text is a retweet link without any additional commentary or sentiment.",
       "analyzedAt": "2026-09-05T07:49:53.404Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:20:b20080720d189a9c3bca6321"
+  ]
 }

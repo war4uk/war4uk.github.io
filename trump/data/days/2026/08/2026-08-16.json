@@ -6,19 +6,24 @@
     "negative": 4
   },
   "summary": "positive:9 neutral:4 negative:4",
-  "generatedAt": "2026-09-06T08:03:14.196Z",
+  "generatedAt": "2026-09-05T08:04:38.177Z",
   "topics": [
-    "Calls for Senate vote on the NO MORE CHANGING THE CLOCKS ACT to end daylight saving time",
-    "FBI reports significant crime reduction in DC under Trump's crackdown",
-    "Trump wins legal battle to maintain tariffs on cheap imports"
+    "Political Commentary and Controversies",
+    "Economic Growth and Job Creation",
+    "Disaster Recovery and Assistance"
   ],
-  "trendingTopic": "Calls for Senate vote on the NO MORE CHANGING THE CLOCKS ACT to end daylight saving time",
+  "trendingTopic": "Michael Kratsios: The case for overhauling American science",
+  "trendingName": "Michael Kratsios",
   "secondaryHighlights": [
     {
-      "topic": "FBI reports significant crime reduction in DC under Trump's crackdown"
+      "topic": "Peter Navarro: It Was a Great Scam While It Lasted",
+      "name": "Peter Navarro"
     },
     {
-      "topic": "Trump wins legal battle to maintain tariffs on cheap imports"
+      "topic": "The Senate must vote on the NO MORE CHANGING THE CLOCKS ACT as soon as possible"
+    },
+    {
+      "topic": "Trump wins legal battle to keep cheap imports subject to tariffs"
     }
   ],
   "selfPraiseCount": 1,
@@ -433,6 +438,5 @@
       "rationale": "The text expresses happiness and congratulates the leadership of Saudi Arabia, Turkey, and Pakistan, indicating a positive sentiment.",
       "analyzedAt": "2026-09-05T07:48:54.118Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:17:0ea1e0746c1e55a523a48b31"
+  ]
 }

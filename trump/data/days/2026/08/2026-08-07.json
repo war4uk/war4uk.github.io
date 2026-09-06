@@ -6,19 +6,21 @@
     "negative": 2
   },
   "summary": "positive:3 neutral:21 negative:2",
-  "generatedAt": "2026-09-06T08:02:55.050Z",
+  "generatedAt": "2026-09-05T08:04:06.157Z",
   "topics": [
-    "Marsha Blackburn wins Governor race in Tennessee against John Rose",
-    "Endorsements lead to a successful night for Trump candidates",
-    "Concerns raised over vandalism at The Reflecting Pool"
+    "Endorsements and Support for Candidates",
+    "Political Commentary and Controversies"
   ],
-  "trendingTopic": "Marsha Blackburn wins Governor race in Tennessee against John Rose",
+  "trendingTopic": "Donald Trump Won The Iran War",
   "secondaryHighlights": [
     {
-      "topic": "Endorsements lead to a successful night for Trump candidates"
+      "topic": "New evidence further undermines claim that 2020 election was ‘most secure’ in history"
     },
     {
-      "topic": "Concerns raised over vandalism at The Reflecting Pool"
+      "topic": "Now that people are able to see it up close, they are reporting pure VANDALISM at The Reflecting Pool"
+    },
+    {
+      "topic": "THE PROTECT COLLEGE SPORTS ACT is a great Bill, and the Senate will hopefully stay in D.C. until it passes"
     }
   ],
   "selfPraiseCount": 1,
@@ -649,7 +651,5 @@
       "rationale": "The text expresses strong discontent with judicial rulings and describes them as a 'National Security Threat' and a 'National Disgrace'.",
       "analyzedAt": "2026-09-05T07:46:51.101Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:26:162b4cf62554e58ed4bf8447",
-  "trendingName": "Marsha Blackburn"
+  ]
 }

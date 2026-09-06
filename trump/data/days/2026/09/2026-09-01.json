@@ -6,23 +6,19 @@
     "negative": 5
   },
   "summary": "positive:29 neutral:3 negative:5",
-  "generatedAt": "2026-09-05T07:41:35.958Z",
+  "generatedAt": "2026-09-06T08:08:12.560Z",
   "topics": [
-    "Political Commentary and Controversies",
-    "Endorsements and Support for Candidates",
-    "Disaster Recovery and Assistance"
+    "Endorses multiple America First candidates across various states including Iowa, Florida, and Texas",
+    "Approves significant disaster recovery funding for states affected by severe storms and flooding",
+    "Calls attention to unchecked violence in Chicago and criticizes local leadership"
   ],
-  "trendingTopic": "It is my Great Honor to endorse America First Patriot, Dan Green, who is running to represent the fantastic people of Florida’s 9th Congressional District!",
+  "trendingTopic": "Endorses multiple America First candidates across various states including Iowa, Florida, and Texas",
   "secondaryHighlights": [
     {
-      "topic": "The United States is, as we speak, striking Iranian Targets near the Strait of Hormuz."
+      "topic": "Approves significant disaster recovery funding for states affected by severe storms and flooding"
     },
     {
-      "topic": "Jon Voight stopped by the White House in order to support the Movie and Television Industry in America!",
-      "name": "Jon Voight"
-    },
-    {
-      "topic": "A great Senator and a great golfer!!!"
+      "topic": "Calls attention to unchecked violence in Chicago and criticizes local leadership"
     }
   ],
   "selfPraiseCount": 8,
@@ -941,5 +937,6 @@
       "rationale": "The text expresses positive sentiments about productive conversations, the strength of North Carolina, and the speaker's commitment to the state, highlighting achievements and gratitude.",
       "analyzedAt": "2026-09-05T07:41:31.208Z"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:38:a9a4ae796f23828d30b0286a"
 }

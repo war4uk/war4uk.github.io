@@ -6,21 +6,23 @@
     "negative": 4
   },
   "summary": "positive:6 neutral:5 negative:4",
-  "generatedAt": "2026-09-06T08:03:02.231Z",
+  "generatedAt": "2026-09-05T08:04:20.370Z",
   "topics": [
-    "Supports Gianni Infantino as FIFA President after successful World Cup",
-    "Justice Samuel Alito to serve another term on the Supreme Court",
-    "Announces end of Medicaid funding for gender transition surgeries for minors"
+    "Disaster Recovery and Assistance",
+    "Endorsements and Support for Candidates",
+    "Political Commentary and Controversies"
   ],
-  "trendingTopic": "Supports Gianni Infantino as FIFA President after successful World Cup",
-  "trendingName": "Gianni Infantino",
+  "trendingTopic": "Mike Lindell deserves a BIG WIN IN MINNESOTA today",
+  "trendingName": "Mike Lindell",
   "secondaryHighlights": [
     {
-      "topic": "Justice Samuel Alito to serve another term on the Supreme Court",
-      "name": "Samuel Alito"
+      "topic": "With great golfer, winner of 158 tournaments, 9 Majors, and 9 Senior Majors, Gary Player!"
     },
     {
-      "topic": "Announces end of Medicaid funding for gender transition surgeries for minors"
+      "topic": "Great news for our Country!"
+    },
+    {
+      "topic": "Newly released documents open a path to the true origins of the Russia hoax"
     }
   ],
   "selfPraiseCount": 1,
@@ -387,6 +389,5 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T07:47:37.615Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:15:dcc68d81af1262ecdb1422b6"
+  ]
 }

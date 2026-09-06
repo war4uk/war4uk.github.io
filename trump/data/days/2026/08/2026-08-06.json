@@ -6,20 +6,25 @@
     "negative": 3
   },
   "summary": "positive:12 neutral:2 negative:3",
-  "generatedAt": "2026-09-06T08:02:53.482Z",
+  "generatedAt": "2026-09-05T08:04:02.737Z",
   "topics": [
-    "Endorses multiple Republican candidates in Tennessee's congressional districts",
-    "Comments on Michael Moore's political commentary and past losses",
-    "Discusses the financial state of Washington Republicans and Democrats"
+    "Endorsements and Support for Candidates",
+    "Political Commentary and Controversies"
   ],
-  "trendingTopic": "Endorses multiple Republican candidates in Tennessee's congressional districts",
+  "trendingTopic": "Congressman Tim Burchett is an America First Patriot who is doing a fantastic job representing Tennessee’s 2nd Congressional District!",
+  "trendingName": "Tim Burchett",
   "secondaryHighlights": [
     {
-      "topic": "Comments on Michael Moore's political commentary and past losses",
-      "name": "Michael Moore"
+      "topic": "Congressman Chuck Fleischmann is a terrific Representative for the incredible people of Tennessee’s 3rd Congressional District!",
+      "name": "Chuck Fleischmann"
     },
     {
-      "topic": "Discusses the financial state of Washington Republicans and Democrats"
+      "topic": "Congressman David Kustoff is a Tremendous Champion for Tennessee’s 8th Congressional District!",
+      "name": "David Kustoff"
+    },
+    {
+      "topic": "I am proud to, once again, endorse the GREAT Congressman from Tennessee’s 7th Congressional District, Matt Van Epps.",
+      "name": "Matt Van"
     }
   ],
   "selfPraiseCount": 0,
@@ -434,6 +439,5 @@
       "rationale": "The text discusses a political strategy without expressing a clear positive or negative sentiment.",
       "analyzedAt": "2026-09-05T07:46:40.223Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:17:673e0a46021a0e14923b8e28"
+  ]
 }

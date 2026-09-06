@@ -6,20 +6,24 @@
     "negative": 2
   },
   "summary": "positive:9 neutral:5 negative:2",
-  "generatedAt": "2026-09-06T08:03:09.310Z",
+  "generatedAt": "2026-09-05T08:04:30.922Z",
   "topics": [
-    "Hosts 'The Patriot Games' athletic competition celebrating America's 250th birthday",
-    "Announces nomination of Samuel D. Adkisson for U.S. District Court Judge",
-    "Endorses candidates for upcoming elections in New York and South Carolina"
+    "Endorsements and Support for Candidates",
+    "Political Commentary and Controversies",
+    "Economic Growth and Job Creation"
   ],
-  "trendingTopic": "Hosts 'The Patriot Games' athletic competition celebrating America's 250th birthday",
+  "trendingTopic": "Senator Dan Sullivan is doing a fantastic job representing the Great State of Alaska!",
+  "trendingName": "Dan Sullivan",
   "secondaryHighlights": [
     {
-      "topic": "Announces nomination of Samuel D. Adkisson for U.S. District Court Judge"
+      "topic": "I am proud to announce that Kevin Rideout, a wonderful Christian Missionary, is back in United States Custody",
+      "name": "Kevin Rideout"
     },
     {
-      "topic": "Endorses candidates for upcoming elections in New York and South Carolina",
-      "name": "Darline Graham"
+      "topic": "Bessent to Newsmax: US to Hit Iran With Unprecedented Economic Isolation"
+    },
+    {
+      "topic": "Our beautiful World War II Memorial was just hit by Spray Painting Vandals"
     }
   ],
   "selfPraiseCount": 3,
@@ -410,6 +414,5 @@
       "rationale": "The text praises Senator Dan Sullivan's performance and contributions to Alaska, emphasizing his positive impact and endorsing him for re-election.",
       "analyzedAt": "2026-09-05T07:48:23.432Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:16:3c7b009879b929245c9265cb"
+  ]
 }

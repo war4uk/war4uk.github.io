@@ -6,19 +6,22 @@
     "negative": 3
   },
   "summary": "positive:0 neutral:37 negative:3",
-  "generatedAt": "2026-09-06T08:02:52.023Z",
+  "generatedAt": "2026-09-05T08:03:59.072Z",
   "topics": [
-    "Comments on corruption in Wayne County, Michigan",
-    "Discusses projected election outcomes in Michigan",
-    "Critiques media coverage of endorsement results"
+    "Endorsements and Support for Candidates",
+    "Political Commentary and Controversies"
   ],
-  "trendingTopic": "Comments on corruption in Wayne County, Michigan",
+  "trendingTopic": "Scott Bessent interviewed by Joe Kernen!",
+  "trendingName": "Joe Kernen",
   "secondaryHighlights": [
     {
-      "topic": "Discusses projected election outcomes in Michigan"
+      "topic": "Great news for the Republican Party"
     },
     {
-      "topic": "Critiques media coverage of endorsement results"
+      "topic": "Wayne County (Detroit) in Michigan is one of the most corrupt voting areas in the United States, if not the World."
+    },
+    {
+      "topic": "I was 28-1 last night on Endorsements, and numerous of them were outliers, but if you studied the Fake News, you would think it was just the opposite, 1-28."
     }
   ],
   "selfPraiseCount": 0,
@@ -985,6 +988,5 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T07:46:29.956Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:40:e3e5ca3667f6a134f66a8cb7"
+  ]
 }
