@@ -6,11 +6,10 @@
     "negative": 1
   },
   "summary": "positive:2 neutral:5 negative:1",
-  "generatedAt": "2026-04-13T08:09:00.948Z",
+  "generatedAt": "2026-09-06T07:25:51.109Z",
   "topics": [
-    "Democrat Shutdown Impact",
-    "Gavin Newsom Presidential Race Dropout",
-    "Save America Act Support"
+    "Calls for the passage of the Save America Act",
+    "Critiques the impact of the Democrat shutdown on blue states"
   ],
   "posts": [
     {
@@ -208,14 +207,12 @@
       "analyzedAt": "2026-04-13T08:09:00.947Z"
     }
   ],
-  "trendingTopic": "The Save America Act must pass!!!",
+  "trendingTopic": "Calls for the passage of the Save America Act",
   "selfPraiseCount": 0,
   "secondaryHighlights": [
     {
-      "topic": "THE DEMOCRAT SHUTDOWN IS KILLING THE BLUE STATES!"
-    },
-    {
-      "topic": "Wow!"
+      "topic": "Critiques the impact of the Democrat shutdown on blue states"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:8:849c8b28aeac43bb63352d5c"
 }

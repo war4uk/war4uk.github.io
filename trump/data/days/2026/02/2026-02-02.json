@@ -6,11 +6,11 @@
     "negative": 5
   },
   "summary": "positive:5 neutral:9 negative:5",
-  "generatedAt": "2026-04-13T07:59:19.682Z",
+  "generatedAt": "2026-09-06T07:25:18.784Z",
   "topics": [
-    "Thomas Massie Criticism",
-    "Government Funding and Shutdown Concerns",
-    "Iran and Middle East Relations"
+    "Critiques Democrats for being soft on crime and protecting criminals",
+    "Discusses Trump's openness to an Iran deal amid military actions",
+    "Comments on the Grammy Awards and their declining viewership"
   ],
   "posts": [
     {
@@ -472,20 +472,15 @@
       "analyzedAt": "2026-04-13T07:59:19.678Z"
     }
   ],
-  "trendingTopic": "The Grammy Awards are the WORST, virtually unwatchable!",
+  "trendingTopic": "Critiques Democrats for being soft on crime and protecting criminals",
   "selfPraiseCount": 1,
   "secondaryHighlights": [
     {
-      "topic": "'Amazing' what Trump has done in 12 months: Jason Chaffetz",
-      "name": "Jason Chaffetz"
+      "topic": "Discusses Trump's openness to an Iran deal amid military actions"
     },
     {
-      "topic": "Two very good guys who were treated so unfairly by Sleepy Joe Biden",
-      "name": "Joe Biden"
-    },
-    {
-      "topic": "Iran is turning into the 'North Korea of the Middle East': Mark Levin",
-      "name": "Mark Levin"
+      "topic": "Comments on the Grammy Awards and their declining viewership"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:19:b17962032e69b87e0bf91970"
 }

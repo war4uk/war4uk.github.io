@@ -6,11 +6,11 @@
     "negative": 1
   },
   "summary": "positive:5 neutral:0 negative:1",
-  "generatedAt": "2026-04-13T08:08:25.291Z",
+  "generatedAt": "2026-09-06T07:25:48.628Z",
   "topics": [
-    "Olympic Gold Medal Achievements",
-    "Illinois Library Funding Controversy",
-    "Healthcare Initiatives in Greenland"
+    "Sending hospital boat to Greenland with Governor Jeff Landry",
+    "Illinois spending on Obama's library causing public outrage",
+    "U.S.A. Ice Hockey team wins gold medal at the Olympics"
   ],
   "posts": [
     {
@@ -160,17 +160,16 @@
       "analyzedAt": "2026-04-13T08:08:25.289Z"
     }
   ],
-  "trendingTopic": "Congratulations to our great U.S.A. Ice Hockey team",
+  "trendingTopic": "U.S.A. Ice Hockey team wins gold medal at the Olympics",
   "selfPraiseCount": 0,
   "secondaryHighlights": [
     {
-      "topic": "WHAT A GAME!!! President DJT"
+      "topic": "Sending hospital boat to Greenland with Governor Jeff Landry",
+      "name": "Jeff Landry"
     },
     {
-      "topic": "LOTS OF WINNING!!! President DONALD J. TRUMP"
-    },
-    {
-      "topic": "The most Gold Medals ever won by Team USA at the Olympics!"
+      "topic": "Illinois spending on Obama's library causing public outrage"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:6:65a6908c3e01bb9aae860df1"
 }

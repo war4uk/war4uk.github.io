@@ -6,11 +6,11 @@
     "negative": 3
   },
   "summary": "positive:20 neutral:22 negative:3",
-  "generatedAt": "2026-04-13T08:00:31.339Z",
+  "generatedAt": "2026-09-06T07:25:23.393Z",
   "topics": [
-    "Election Integrity and Voter ID",
-    "Endorsements for Congressional Candidates",
-    "National Security and Military Strength"
+    "Endorses multiple America First candidates across various Congressional Districts",
+    "Discusses the importance of Japan's upcoming Legislative Election",
+    "Calls for the passage of the SAVE America Act to require proof of citizenship to vote"
   ],
   "posts": [
     {
@@ -1096,19 +1096,16 @@
       "analyzedAt": "2026-04-13T08:00:23.820Z"
     }
   ],
-  "trendingTopic": "It is my Great Honor to endorse Peter Oberacker, an incredible Candidate who is running to represent the fantastic people of New York’s 19th Congressional District.",
+  "trendingTopic": "Endorses multiple America First candidates across various Congressional Districts",
   "selfPraiseCount": 1,
   "secondaryHighlights": [
     {
-      "topic": "I spoke with Savannah Guthrie, and let her know that I am directing ALL Federal Law Enforcement to be at the family’s, and Local Law Enforcement’s, complete disposal, IMMEDIATELY. We are deploying all resources to get her mother home safely."
+      "topic": "Discusses the importance of Japan's upcoming Legislative Election"
     },
     {
-      "topic": "Long Island Rep. Tom Suozzi beats Pelosi’s stock portfolio performance with 35% return",
-      "name": "Tom Suozzi"
-    },
-    {
-      "topic": "Mark Teixeira is a former Major League Baseball STAR, and tremendous America First Candidate, who is running to represent the incredible people of Texas’ 21st Congressional District!",
-      "name": "Mark Teixeira"
+      "topic": "Calls for the passage of the SAVE America Act to require proof of citizenship to vote",
+      "name": "Jim Banks"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:45:f78ceb0f62ebf28757d3e7fd"
 }

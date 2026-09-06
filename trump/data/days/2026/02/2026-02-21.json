@@ -6,11 +6,11 @@
     "negative": 5
   },
   "summary": "positive:7 neutral:10 negative:5",
-  "generatedAt": "2026-04-13T08:08:14.037Z",
+  "generatedAt": "2026-09-06T07:25:47.287Z",
   "topics": [
-    "Tariffs and Economic Policy",
-    "Endorsements for Political Candidates",
-    "Environmental Concerns in Utah"
+    "Critiques Supreme Court Justices for tariff decision and expresses support for appointed justices",
+    "Endorses Dan Patrick for re-election as Texas Lieutenant Governor",
+    "Calls for action to save The Great Salt Lake in Utah"
   ],
   "posts": [
     {
@@ -544,18 +544,15 @@
       "analyzedAt": "2026-04-13T08:08:14.034Z"
     }
   ],
-  "trendingTopic": "I am proud to once again endorse Texas Lieutenant Governor, Dan Patrick, for Re-Election",
-  "trendingName": "Dan Patrick",
+  "trendingTopic": "Critiques Supreme Court Justices for tariff decision and expresses support for appointed justices",
   "selfPraiseCount": 1,
   "secondaryHighlights": [
     {
-      "topic": "Republicans are so disloyal to themselves!"
+      "topic": "Endorses Dan Patrick for re-election as Texas Lieutenant Governor"
     },
     {
-      "topic": "Trump lives up to his promise to East Palestine"
-    },
-    {
-      "topic": "Roberts court shuts door on tariffs but leaves room for Trump to prevail"
+      "topic": "Calls for action to save The Great Salt Lake in Utah"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:22:9efbdc7f3c02e4d65831d18e"
 }

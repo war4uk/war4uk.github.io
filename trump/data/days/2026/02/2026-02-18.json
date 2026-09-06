@@ -6,11 +6,11 @@
     "negative": 2
   },
   "summary": "positive:2 neutral:16 negative:2",
-  "generatedAt": "2026-04-13T08:07:14.988Z",
+  "generatedAt": "2026-09-06T07:25:42.731Z",
   "topics": [
-    "White House Ballroom Announcement",
-    "Diego Garcia Lease Concerns",
-    "Election Integrity and Control Issues"
+    "Congratulates Kid Rock on Number One and praises Super Bowl ratings",
+    "Calls for state takeover of Fulton County elections in Georgia",
+    "Critiques UK Prime Minister Keir Starmer's 100 Year Lease decision"
   ],
   "posts": [
     {
@@ -496,18 +496,15 @@
       "analyzedAt": "2026-04-13T08:07:14.985Z"
     }
   ],
-  "trendingTopic": "Congratulations to Kid Rock!",
+  "trendingTopic": "Calls for state takeover of Fulton County elections in Georgia",
   "selfPraiseCount": 0,
   "secondaryHighlights": [
     {
-      "topic": "Will be the Greatest Ballroom ever built, now rising at the site of the White House"
+      "topic": "Congratulates Kid Rock on Number One and praises Super Bowl ratings"
     },
     {
-      "topic": "Key political voice in Georgia urges state to take over Fulton County elections after FBI raid"
-    },
-    {
-      "topic": "I have been telling Prime Minister Keir Starmer, of the United Kingdom, that Leases are no good when it comes to Countries, and that he is making a big mistake by entering a 100 Year Lease with whoever it is that is “claiming” Right, Title, and Interest to Diego Garcia, strategically located in the Indian Ocean.",
-      "name": "Keir Starmer"
+      "topic": "Critiques UK Prime Minister Keir Starmer's 100 Year Lease decision"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:20:a6d1a05082aa41aa7cd7c6d6"
 }

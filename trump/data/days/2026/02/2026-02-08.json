@@ -6,11 +6,11 @@
     "negative": 2
   },
   "summary": "positive:6 neutral:2 negative:2",
-  "generatedAt": "2026-04-13T08:03:13.664Z",
+  "generatedAt": "2026-09-06T07:25:28.044Z",
   "topics": [
-    "Super Bowl Celebration",
-    "Stock Market and Tariffs",
-    "Election Integrity and Voter ID"
+    "Supports Nasry Asfura's campaign during meeting at Mar-a-Lago",
+    "Congratulates Sanae Takaichi on her coalition's victory",
+    "Comments on the Winter Olympics and U.S. skier Hunter Hess"
   ],
   "posts": [
     {
@@ -256,18 +256,16 @@
       "analyzedAt": "2026-04-13T08:03:13.662Z"
     }
   ],
-  "trendingTopic": "U.S. Olympic Skier, Hunter Hess, a real Loser, says he doesn’t represent his Country in the current Winter Olympics.",
+  "trendingTopic": "Supports Nasry Asfura's campaign during meeting at Mar-a-Lago",
   "selfPraiseCount": 0,
-  "trendingName": "Hunter Hess",
+  "trendingName": "Nasry Asfura",
   "secondaryHighlights": [
     {
-      "topic": "Appeals court sides with Trump admin with mass detention ruling"
+      "topic": "Congratulates Sanae Takaichi on her coalition's victory"
     },
     {
-      "topic": "Poll: Majority prefer Trump's immigration policies over Biden's"
-    },
-    {
-      "topic": "I just heard the Cricket World Cup is underway in India!"
+      "topic": "Comments on the Winter Olympics and U.S. skier Hunter Hess"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:10:a0b56c4bbaf650c6eadd6432"
 }

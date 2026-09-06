@@ -6,11 +6,11 @@
     "negative": 3
   },
   "summary": "positive:9 neutral:81 negative:3",
-  "generatedAt": "2026-04-13T08:02:50.225Z",
+  "generatedAt": "2026-09-06T07:25:24.821Z",
   "topics": [
-    "January 6th Investigation Controversy",
-    "Stock Market Milestone",
-    "Healthcare Price Reductions"
+    "Approves funding for Mississippi and Tennessee recovery from severe winter storms",
+    "Announces launch of 'TrumpRx' to lower prescription drug prices",
+    "Dow Jones Industrial Average hits 50,000 for the first time in history"
   ],
   "posts": [
     {
@@ -2266,17 +2266,15 @@
       "analyzedAt": "2026-04-13T08:02:50.220Z"
     }
   ],
-  "trendingTopic": "The Dow Jones Industrial Average just hit 50,000 for the first time in History",
+  "trendingTopic": "Approves funding for Mississippi and Tennessee recovery from severe winter storms",
   "selfPraiseCount": 2,
   "secondaryHighlights": [
     {
-      "topic": "White House launches ‘TrumpRx’ to lower prescription drug prices"
+      "topic": "Announces launch of 'TrumpRx' to lower prescription drug prices"
     },
     {
-      "topic": "Trump Announces Dramatic Drop in Ozempic Price"
-    },
-    {
-      "topic": "White House touts arrests of more than 4,000 criminal illegal immigrants in Minneapolis"
+      "topic": "Dow Jones Industrial Average hits 50,000 for the first time in history"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:94:198e81b8c49f907ff7150456"
 }
