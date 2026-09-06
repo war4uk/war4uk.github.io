@@ -2,15 +2,27 @@
   "date": "2026-01-03",
   "counts": {
     "positive": 3,
-    "neutral": 21,
+    "neutral": 70,
     "negative": 0
   },
-  "summary": "positive:3 neutral:21 negative:0",
-  "generatedAt": "2026-01-07T10:17:55.398Z",
+  "summary": "positive:3 neutral:70 negative:0",
+  "generatedAt": "2026-09-06T06:44:18.685Z",
   "topics": [
-    "Venezuela strike and Maduro capture",
-    "Naval transfer updates"
+    "U.S. carries out successful operation against Venezuela and captures Nicolas Maduro",
+    "Democrat Wasserman Schultz supports Trump's operation in Venezuela",
+    "Trump's actions contrast with Obama's past in supporting Iran's freedom protesters"
   ],
+  "trendingTopic": "U.S. carries out successful operation against Venezuela and captures Nicolas Maduro",
+  "secondaryHighlights": [
+    {
+      "topic": "Democrat Wasserman Schultz supports Trump's operation in Venezuela",
+      "name": "Debbie Wasserman Schultz"
+    },
+    {
+      "topic": "Trump's actions contrast with Obama's past in supporting Iran's freedom protesters"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34410",
@@ -1331,159 +1343,442 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/34410",
       "label": "positive",
-      "rationale": "The text announces a successful operation, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "rationale": "The text describes a successful military operation, which is typically viewed positively.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34411",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34412",
       "label": "neutral",
-      "rationale": "The text is neutral, providing no sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "rationale": "The text is a factual statement without any sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34413",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34414",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34415",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34416",
       "label": "neutral",
-      "rationale": "The text is a retweet without additional context or sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "rationale": "The text is a simple retweet without any additional context or sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34417",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34418",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34419",
       "label": "neutral",
-      "rationale": "The text is a retweet without additional context or sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "rationale": "The text is a simple retweet without any additional context or sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34420",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34421",
       "label": "neutral",
-      "rationale": "The text is a retweet without additional context or sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "rationale": "The text is a simple retweet without any additional context or sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34422",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34423",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34424",
       "label": "neutral",
-      "rationale": "The text is a retweet without additional context or sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "rationale": "The text is a simple retweet without any additional context or sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34425",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34426",
       "label": "neutral",
-      "rationale": "The text is a retweet without additional context or sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "rationale": "The text is a simple retweet without any additional context or sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34427",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34428",
       "label": "neutral",
-      "rationale": "The text is a retweet without additional context or sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "rationale": "The text is a simple retweet without any additional context or sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34429",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34430",
       "label": "neutral",
-      "rationale": "The text is a retweet without additional context or sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "rationale": "The text is a simple retweet without any additional context or sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34431",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34432",
       "label": "positive",
-      "rationale": "The text claims Trump rectified a past failure, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "rationale": "The text highlights Trump's action as a rectification of a past failure, portraying it in a favorable light.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34433",
       "label": "positive",
-      "rationale": "The text indicates support from a Democrat lawmaker for Trump's operation, suggesting a positive sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "rationale": "The statement indicates support from a Democrat lawmaker for Trump's operation, suggesting a bipartisan approval.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35003",
+      "label": "neutral",
+      "rationale": "The text is a simple retweet without any additional context or sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35004",
+      "label": "neutral",
+      "rationale": "The text is a simple retweet without any additional context or sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35005",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35006",
+      "label": "neutral",
+      "rationale": "The text is a simple retweet without any additional context or sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35007",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35008",
+      "label": "neutral",
+      "rationale": "The text is a simple retweet without any additional context or sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35009",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35010",
+      "label": "neutral",
+      "rationale": "The text is a simple retweet without any additional context or sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35011",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35012",
+      "label": "neutral",
+      "rationale": "The text is a simple retweet without any additional context or sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35013",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35014",
+      "label": "neutral",
+      "rationale": "The text is a simple retweet without any additional context or sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35015",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35016",
+      "label": "neutral",
+      "rationale": "The text is a simple retweet without any additional context or sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35017",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35018",
+      "label": "neutral",
+      "rationale": "The text is a simple retweet without any additional context or sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35019",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35020",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35021",
+      "label": "neutral",
+      "rationale": "The text is a simple retweet without any additional context or sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35022",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35023",
+      "label": "neutral",
+      "rationale": "The text is a simple retweet without any additional context or sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35024",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35025",
+      "label": "neutral",
+      "rationale": "The text contains a link but no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35026",
+      "label": "neutral",
+      "rationale": "The text is a simple retweet without any additional context or sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35027",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35028",
+      "label": "neutral",
+      "rationale": "The text is a simple retweet without any additional context or sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35029",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35030",
+      "label": "neutral",
+      "rationale": "The text is a simple retweet without any additional context or sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35031",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35032",
+      "label": "neutral",
+      "rationale": "The text is a simple retweet without any additional context or sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35033",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35034",
+      "label": "neutral",
+      "rationale": "The text is a simple retweet without any additional context or sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35035",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35036",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35037",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35038",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35039",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35040",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35041",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35042",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35043",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35044",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35045",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35046",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35047",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35048",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35049",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35050",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35051",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:30:30.643Z"
     }
   ],
-  "trendingTopic": "Nicolas Maduro on board the USS Iwo Jima",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Democrat lawmaker Wasserman Schultz comes out in support of Trump's operation in Venezuela"
-    },
-    {
-      "topic": "The United States of America has successfully carried out a large scale strike against Venezuela and its leader, President Nicolas Maduro, who has been, along with his wife, captured and flown out of the Country."
-    },
-    {
-      "topic": "Obama failed to support Iran’s freedom protesters two decades ago, but Trump just rectified that"
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:73:e4f15e0a6ee488b13266d816",
+  "trendingName": "Nicolas Maduro"
 }

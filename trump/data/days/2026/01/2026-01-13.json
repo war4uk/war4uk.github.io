@@ -2,16 +2,27 @@
   "date": "2026-01-13",
   "counts": {
     "positive": 5,
-    "neutral": 1,
+    "neutral": 2,
     "negative": 4
   },
-  "summary": "positive:5 neutral:1 negative:4",
-  "generatedAt": "2026-01-18T12:20:20.876Z",
+  "summary": "positive:5 neutral:2 negative:4",
+  "generatedAt": "2026-09-06T06:44:32.785Z",
   "topics": [
-    "Economic Growth and Investment",
-    "Minnesota Political Controversy",
-    "Tribute to Scott Adams"
+    "Highlights economic growth and low inflation under his leadership",
+    "Remembers Scott Adams and his influence",
+    "Calls for action from Iranian protesters"
   ],
+  "trendingTopic": "Highlights economic growth and low inflation under his leadership",
+  "secondaryHighlights": [
+    {
+      "topic": "Remembers Scott Adams and his influence",
+      "name": "Scott Adams"
+    },
+    {
+      "topic": "Calls for action from Iranian protesters"
+    }
+  ],
+  "selfPraiseCount": 1,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34545",
@@ -216,75 +227,69 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/34545",
       "label": "positive",
-      "rationale": "The text supports a senator's act, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text supports a senator's initiative and praises him, indicating a positive sentiment towards his actions.",
+      "analyzedAt": "2026-09-06T06:32:46.150Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34546",
       "label": "negative",
-      "rationale": "The text discusses firing FBI agents in a negative context.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text discusses the firing of FBI agents in a negative context, implying corruption and misuse of power.",
+      "analyzedAt": "2026-09-06T06:32:46.150Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34547",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "analyzedAt": "2026-09-06T06:32:46.150Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34548",
       "label": "negative",
-      "rationale": "The text expresses a negative view of crime and immigration policies in Minnesota.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "Similar to the previous entry, this text expresses a negative sentiment regarding crime and immigration, with a focus on fear and retribution.",
+      "analyzedAt": "2026-09-06T06:32:46.150Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34549",
       "label": "negative",
-      "rationale": "The text expresses a negative view of crime and immigration policies in Minnesota.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text portrays a highly negative view of crime and immigration, using alarming language to describe the situation in Minnesota.",
+      "analyzedAt": "2026-09-06T06:32:46.150Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34550",
       "label": "positive",
-      "rationale": "The text reports good inflation numbers and growth, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text celebrates low inflation and economic growth, expressing a positive outlook on economic policies.",
+      "analyzedAt": "2026-09-06T06:32:46.150Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34551",
       "label": "positive",
-      "rationale": "The text encourages Iranian patriots and expresses support, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text encourages protests against oppression and expresses support for Iranian patriots, indicating a positive sentiment towards their struggle.",
+      "analyzedAt": "2026-09-06T06:32:46.150Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34552",
       "label": "positive",
-      "rationale": "The text expresses condolences and respect for a deceased individual, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text conveys condolences and respect for a deceased individual, expressing positive sentiments about their character and contributions.",
+      "analyzedAt": "2026-09-06T06:32:46.150Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34553",
       "label": "positive",
-      "rationale": "The text describes a booming economy and positive economic indicators.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text highlights a booming economy, positive GDP gains, and encourages investment, indicating a strong positive sentiment.",
+      "analyzedAt": "2026-09-06T06:32:46.150Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34554",
       "label": "negative",
-      "rationale": "The text expresses a negative view of Minnesota's political situation.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text expresses strong negative sentiments towards political figures and actions, using derogatory language and accusations of corruption.",
+      "analyzedAt": "2026-09-06T06:32:46.150Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/34914",
+      "label": "neutral",
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:32:46.150Z"
     }
   ],
-  "trendingTopic": "Do the people of Minnesota really want to live in a community in which their are thousands of already convicted murderers, drug dealers and addicts, rapists, violent released and escaped prisoners, dangerous people from foreign mental institutions and insane asylums, and other deadly criminals too dangerous to even mention.",
-  "selfPraiseCount": 1,
-  "secondaryHighlights": [
-    {
-      "topic": "Sadly, the Great Influencer, Scott Adams, has passed away"
-    },
-    {
-      "topic": "Minnesota is Trump Country!"
-    },
-    {
-      "topic": "Under my stewardship, the Economy is booming!"
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:11:44d386333c0338b8c6847b4a"
 }

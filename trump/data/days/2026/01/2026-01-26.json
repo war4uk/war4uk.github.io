@@ -1,17 +1,28 @@
 {
   "date": "2026-01-26",
   "counts": {
-    "positive": 7,
+    "positive": 8,
     "neutral": 2,
-    "negative": 6
+    "negative": 5
   },
-  "summary": "positive:7 neutral:2 negative:6",
-  "generatedAt": "2026-04-13T07:55:48.885Z",
+  "summary": "positive:8 neutral:2 negative:5",
+  "generatedAt": "2026-09-06T06:44:50.471Z",
   "topics": [
-    "Minnesota Political Controversy",
-    "Political Prisoners in Venezuela",
-    "Trade Deal Tariff Increases"
+    "Reports on Venezuela releasing political prisoners as a humanitarian gesture",
+    "Endorses Michelle Davis for Indiana's 41st State Senate District",
+    "Discusses trade deals and tariff reductions with trading partners"
   ],
+  "trendingTopic": "Reports on Venezuela releasing political prisoners as a humanitarian gesture",
+  "secondaryHighlights": [
+    {
+      "topic": "Endorses Michelle Davis for Indiana's 41st State Senate District",
+      "name": "Michelle Davis"
+    },
+    {
+      "topic": "Discusses trade deals and tariff reductions with trading partners"
+    }
+  ],
+  "selfPraiseCount": 3,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34641",
@@ -289,106 +300,92 @@
       "postId": "https://www.trumpstruth.org/statuses/34627",
       "label": "positive",
       "rationale": "The conversation with Mayor Jacob Frey is described as 'very good' and indicates progress, which conveys a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:55:48.878Z"
+      "analyzedAt": "2026-09-06T06:35:42.487Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34628",
       "label": "positive",
       "rationale": "The report of Venezuela releasing political prisoners is framed as a 'powerful humanitarian gesture,' indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:55:48.878Z"
+      "analyzedAt": "2026-09-06T06:35:42.487Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34629",
       "label": "negative",
-      "rationale": "The statement expresses frustration with South Korea's Legislature not living up to trade agreements, leading to increased tariffs, which conveys a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:55:48.878Z"
+      "rationale": "The statement expresses frustration with South Korea's legislature not living up to trade agreements, leading to increased tariffs, which conveys a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:35:42.487Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34630",
       "label": "positive",
       "rationale": "The endorsement of Michelle Davis is enthusiastic and highlights her positive attributes, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:55:48.878Z"
+      "analyzedAt": "2026-09-06T06:35:42.487Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34631",
-      "label": "negative",
-      "rationale": "The statement criticizes Congressman Thomas Massie and describes him negatively, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:55:48.878Z"
+      "label": "positive",
+      "rationale": "The endorsement of Captain Ed Gallrein is strong and positive, emphasizing his qualifications and the need to replace a 'Weak and Pathetic RINO,' indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:35:42.487Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34632",
       "label": "positive",
-      "rationale": "The statement about saving the Trump Kennedy Center is framed positively, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:55:48.878Z"
+      "rationale": "The statement about saving the Trump Kennedy Center suggests a positive outcome and improvement, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:35:42.487Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34633",
       "label": "neutral",
       "rationale": "The statement is vague and does not express a clear sentiment, making it neutral.",
-      "analyzedAt": "2026-04-13T07:55:48.878Z"
+      "analyzedAt": "2026-09-06T06:35:42.487Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34634",
       "label": "positive",
-      "rationale": "The promotion of 'MELANIA, the Movie' as a 'MUST WATCH' conveys a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:55:48.878Z"
+      "rationale": "The promotion of 'MELANIA, the Movie' as a 'MUST WATCH' conveys excitement and positivity.",
+      "analyzedAt": "2026-09-06T06:35:42.487Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34635",
       "label": "positive",
-      "rationale": "The call with Governor Walz is described as 'very good' and indicates a collaborative effort, conveying a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:55:48.878Z"
+      "rationale": "The call with Governor Walz is described as 'very good' and indicates a collaborative effort, which conveys a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:35:42.487Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34636",
       "label": "positive",
-      "rationale": "The recovery of hostages is described as an 'AMAZING JOB,' indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:55:48.878Z"
+      "rationale": "The recovery of hostages is framed as an 'AMAZING JOB,' indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:35:42.487Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34637",
       "label": "negative",
-      "rationale": "The statement discusses welfare fraud and criticizes Congresswoman Ilhan Omar, conveying a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:55:48.878Z"
+      "rationale": "The statement expresses concern over welfare fraud and criticism of a congresswoman, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:35:42.487Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34638",
       "label": "negative",
-      "rationale": "Similar to the previous entry, it discusses welfare fraud and criticizes a political figure, conveying a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:55:48.878Z"
+      "rationale": "The statement discusses welfare fraud and criticism of a congresswoman, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:35:42.487Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34639",
       "label": "negative",
-      "rationale": "The statement expresses frustration with polling and media, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:55:48.878Z"
+      "rationale": "The statement criticizes polling and media, expressing frustration and disappointment, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:35:42.487Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34640",
       "label": "neutral",
       "rationale": "The statement reports on a legal matter without expressing a clear sentiment, making it neutral.",
-      "analyzedAt": "2026-04-13T07:55:48.878Z"
+      "analyzedAt": "2026-09-06T06:35:42.487Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34641",
       "label": "negative",
       "rationale": "The statement expresses discontent with changes in the NFL, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:55:48.878Z"
+      "analyzedAt": "2026-09-06T06:35:42.487Z"
     }
   ],
-  "trendingTopic": "I am sending Tom Homan to Minnesota tonight",
-  "trendingName": "Tom Homan",
-  "selfPraiseCount": 3,
-  "secondaryHighlights": [
-    {
-      "topic": "Appeals court finds evidence to charge Don Lemon over church protest, but won’t force arrest warrant",
-      "name": "Don Lemon"
-    },
-    {
-      "topic": "I can’t watch the new NFL Kickoff"
-    },
-    {
-      "topic": "Fake and Fraudulent Polling should be, virtually, a criminal offense"
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:15:412296ceedbcdd8ff042199f"
 }

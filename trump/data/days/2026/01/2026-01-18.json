@@ -6,12 +6,24 @@
     "negative": 3
   },
   "summary": "positive:6 neutral:0 negative:3",
-  "generatedAt": "2026-01-18T12:20:26.156Z",
+  "generatedAt": "2026-09-06T06:44:39.998Z",
   "topics": [
-    "Endorsements for Senate Candidates",
-    "Defense of American Traditions",
-    "Critique of Immigration Policies"
+    "ICE removes violent criminals from the U.S. amid Minnesota's opposition",
+    "Julia Letlow considers Senate campaign in Louisiana",
+    "Barry Moore announces Senate run in Alabama"
   ],
+  "trendingTopic": "ICE removes violent criminals from the U.S. amid Minnesota's opposition",
+  "secondaryHighlights": [
+    {
+      "topic": "Julia Letlow considers Senate campaign in Louisiana",
+      "name": "Julia Letlow"
+    },
+    {
+      "topic": "Barry Moore announces Senate run in Alabama",
+      "name": "Barry Moore"
+    }
+  ],
+  "selfPraiseCount": 4,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34585",
@@ -180,70 +192,57 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/34585",
       "label": "positive",
-      "rationale": "The text expresses a strong positive sentiment about the Army-Navy Game, emphasizing its importance and the commitment to protect its tradition.",
-      "analyzedAt": "2026-01-18T12:05:35.973Z"
+      "rationale": "The text expresses pride in the Army-Navy Game and a commitment to preserving its tradition, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:33:30.839Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34586",
       "label": "positive",
-      "rationale": "Similar to the previous entry, this text is very supportive of Julia Letlow, emphasizing her strengths and endorsing her candidacy with enthusiasm.",
-      "analyzedAt": "2026-01-18T12:05:35.973Z"
+      "rationale": "The text expresses strong support for Julia Letlow, describing her as a 'Great Star' and a 'TOTAL WINNER', indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:33:30.839Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34587",
       "label": "positive",
-      "rationale": "The text is highly supportive of Julia Letlow, praising her as a 'Great Star' and a 'TOTAL WINNER', and expresses enthusiasm for her potential Senate campaign.",
-      "analyzedAt": "2026-01-18T12:05:35.973Z"
+      "rationale": "The text expresses strong support for Julia Letlow, describing her as a 'Great Star' and a 'TOTAL WINNER', indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:33:30.839Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34588",
       "label": "positive",
-      "rationale": "The text conveys a positive sentiment towards Barry Moore, describing him as a 'good friend, fighter, and WINNER', and endorsing him for the Senate.",
-      "analyzedAt": "2026-01-18T12:05:35.973Z"
+      "rationale": "The text expresses strong support for Barry Moore, describing him as a 'good friend, fighter, and WINNER', indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:33:30.839Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34589",
       "label": "negative",
-      "rationale": "The text expresses a strong negative sentiment towards Rod Bray, labeling him a 'total RINO' and indicating a desire to 'take out' his political influence.",
-      "analyzedAt": "2026-01-18T12:05:35.973Z"
+      "rationale": "The text expresses a strong negative sentiment towards Indiana Senate Majority Leader Rod Bray, labeling him a 'total RINO' and indicating a desire to remove him.",
+      "analyzedAt": "2026-09-06T06:33:30.839Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34591",
       "label": "positive",
-      "rationale": "The text praises a comedian, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text praises Jimmy Failla's monologue as 'GREAT' and describes him as 'very funny', indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:33:30.839Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34592",
       "label": "positive",
-      "rationale": "The text expresses excitement and positivity about the interview with Senator Tim Scott and Lara Trump, indicated by the use of 'Great' and 'Wow!!!'.",
-      "analyzedAt": "2026-01-18T12:05:41.377Z"
+      "rationale": "The text conveys excitement and positivity about the interview with Senator Tim Scott and Lara Trump, indicated by the use of 'Great' and 'Wow!!!'.",
+      "analyzedAt": "2026-09-06T06:33:30.839Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34593",
       "label": "negative",
-      "rationale": "The text criticizes the Open Borders Policy of Joe Biden and associates it with violent criminals, conveying a negative sentiment towards the policy and its consequences.",
-      "analyzedAt": "2026-01-18T12:05:41.377Z"
+      "rationale": "The text criticizes Joe Biden's policies and associates them with violent criminals, indicating a negative sentiment towards the current administration.",
+      "analyzedAt": "2026-09-06T06:33:30.839Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34594",
       "label": "negative",
-      "rationale": "The text expresses strong disapproval of Minnesota's actions regarding ICE and portrays the protesters and political figures in a negative light, using terms like 'violent criminals', 'thugs', and 'crooked'.",
-      "analyzedAt": "2026-01-18T12:20:26.155Z"
+      "rationale": "The text expresses a negative sentiment towards Minnesota's actions and the individuals involved, labeling them as 'thugs' and 'crooked'.",
+      "analyzedAt": "2026-09-06T06:33:30.839Z"
     }
   ],
-  "trendingTopic": "Highly Respected America First Congresswoman, Julia Letlow, of the wonderful State of Louisiana, is a Great Star, has been from the very beginning, and only gets better!",
-  "selfPraiseCount": 4,
-  "secondaryHighlights": [
-    {
-      "topic": "Great interview last night with Senator Tim Scott and Lara Trump",
-      "name": "Lara Trump"
-    },
-    {
-      "topic": "The Army-Navy Game is one of our Greatest American Traditions"
-    },
-    {
-      "topic": "Jimmy Failla’s opening monologue was GREAT. Very funny guy!!! Also, wonderful wife!"
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:9:e33ff453d49f638e9d28fcc0"
 }

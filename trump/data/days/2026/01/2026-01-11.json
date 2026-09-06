@@ -1,17 +1,27 @@
 {
   "date": "2026-01-11",
   "counts": {
-    "positive": 2,
-    "neutral": 4,
+    "positive": 3,
+    "neutral": 12,
     "negative": 2
   },
-  "summary": "positive:2 neutral:4 negative:2",
-  "generatedAt": "2026-01-18T12:20:19.895Z",
+  "summary": "positive:3 neutral:12 negative:2",
+  "generatedAt": "2026-09-06T06:44:30.222Z",
   "topics": [
-    "Mar-a-Lago Entrance",
-    "Judicial Overreach and Indictments",
-    "Healthcare Policy and ObamaCare"
+    "Judicial overreach in the case against Comey and its implications",
+    "Discussion on pardoning former President of Honduras Juan Orlando Hernandez",
+    "Concerns over cultural influence of Netflix"
   ],
+  "trendingTopic": "Judicial overreach in the case against Comey and its implications",
+  "secondaryHighlights": [
+    {
+      "topic": "Discussion on pardoning former President of Honduras Juan Orlando Hernandez"
+    },
+    {
+      "topic": "Concerns over cultural influence of Netflix"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34923",
@@ -324,63 +334,105 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/34527",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:32:23.765Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34528",
       "label": "negative",
-      "rationale": "The text discusses violence and death in a negative context regarding Cuba and Venezuela.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text expresses a negative view of Cuba and its past relations with Venezuela, indicating a hostile sentiment.",
+      "analyzedAt": "2026-09-06T06:32:23.765Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34529",
       "label": "positive",
-      "rationale": "The text expresses strong agreement, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The phrase '100% CORRECT!' indicates strong agreement and a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:32:23.765Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34530",
       "label": "neutral",
-      "rationale": "The text presents a case for pardoning without expressing a clear sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text presents a case for pardoning without expressing a positive or negative sentiment.",
+      "analyzedAt": "2026-09-06T06:32:23.765Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34531",
       "label": "negative",
-      "rationale": "The text expresses a negative sentiment towards Netflix and its cultural influence.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text suggests a negative view of Netflix's influence, indicating a cultural takeover.",
+      "analyzedAt": "2026-09-06T06:32:23.765Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34532",
       "label": "positive",
-      "rationale": "The text expresses happiness about falling gas prices, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text expresses a positive sentiment about affordability, indicating a favorable situation.",
+      "analyzedAt": "2026-09-06T06:32:23.765Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34533",
       "label": "neutral",
-      "rationale": "The text discusses a legal case without expressing a clear positive or negative sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text discusses a legal matter without expressing a clear sentiment.",
+      "analyzedAt": "2026-09-06T06:32:23.765Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34534",
       "label": "neutral",
-      "rationale": "The text is a simple announcement without sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The text is a simple statement about a location without any emotional or evaluative language.",
+      "analyzedAt": "2026-09-06T06:32:23.765Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/34915",
+      "label": "neutral",
+      "rationale": "The text discusses healthcare policy without expressing a clear sentiment.",
+      "analyzedAt": "2026-09-06T06:32:23.765Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/34916",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:32:23.765Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/34917",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:32:23.765Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/34918",
+      "label": "positive",
+      "rationale": "The phrase 'Sounds good to me!' indicates a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:32:23.765Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/34919",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:32:23.765Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/34920",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:32:23.765Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/34921",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:32:23.765Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/34922",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:32:23.765Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/34923",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:32:23.765Z"
     }
   ],
-  "trendingTopic": "Cuba lived, for many years, on large amounts of OIL and MONEY from Venezuela.",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Now we are breaking $1.99 a gallon"
-    },
-    {
-      "topic": "Stop the Netflix Cultural Takeover"
-    },
-    {
-      "topic": "The Case for Pardoning Former President of Honduras Juan Orlando Hernandez"
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:17:f56fc5020c9a42ead6180bea"
 }

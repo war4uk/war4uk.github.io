@@ -1,0 +1,126 @@
+{
+  "date": "2025-12-14",
+  "counts": {
+    "positive": 2,
+    "neutral": 1,
+    "negative": 1
+  },
+  "summary": "positive:2 neutral:1 negative:1",
+  "generatedAt": "2026-09-06T06:43:55.029Z",
+  "topics": [
+    "Promotes TRUMP CARD merchandise",
+    "Highlights White House lobby",
+    "Discusses impact of Trump's election on Hamas"
+  ],
+  "trendingTopic": "Discusses impact of Trump's election on Hamas",
+  "secondaryHighlights": [
+    {
+      "topic": "Promotes TRUMP CARD merchandise"
+    },
+    {
+      "topic": "Highlights White House lobby"
+    }
+  ],
+  "selfPraiseCount": 0,
+  "posts": [
+    {
+      "id": "https://www.trumpstruth.org/statuses/34225",
+      "publishedAt": "2025-12-14T02:19:58.000Z",
+      "title": "[No Title] - Post from December 14, 2025",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/34225",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from December 14, 2025",
+        "link": "https://www.trumpstruth.org/statuses/34225",
+        "pubDate": "Sun, 14 Dec 2025 02:19:58 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/34225",
+        "isoDate": "2025-12-14T02:19:58.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/34226",
+      "publishedAt": "2025-12-14T21:57:08.000Z",
+      "title": "Trump's election win filled Hamas with 'fear,' hostage held like 'slave' for 505 days recounts:",
+      "text": "<p>Trump's election win filled Hamas with 'fear,' hostage held like 'slave' for 505 days recounts:<br/><a href=\"https://www.foxnews.com/politics/trumps-election-win-filled-hamas-fear-hostage-held-like-slave-505-days-recounts\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/trumps-el</span><span class=\"invisible\">ection-win-filled-hamas-fear-hostage-held-like-slave-505-days-recounts</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/34226",
+      "raw": {
+        "creator": "",
+        "title": "Trump's election win filled Hamas with 'fear,' hostage held like 'slave' for 505 days recounts:",
+        "link": "https://www.trumpstruth.org/statuses/34226",
+        "pubDate": "Sun, 14 Dec 2025 21:57:08 +0000",
+        "author": "",
+        "content": "<p>Trump's election win filled Hamas with 'fear,' hostage held like 'slave' for 505 days recounts:<br/><a href=\"https://www.foxnews.com/politics/trumps-election-win-filled-hamas-fear-hostage-held-like-slave-505-days-recounts\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/trumps-el</span><span class=\"invisible\">ection-win-filled-hamas-fear-hostage-held-like-slave-505-days-recounts</span></a></p>",
+        "contentSnippet": "Trump's election win filled Hamas with 'fear,' hostage held like 'slave' for 505 days recounts:\nhttps://www.foxnews.com/politics/trumps-election-win-filled-hamas-fear-hostage-held-like-slave-505-days-recounts",
+        "guid": "https://www.trumpstruth.org/statuses/34226",
+        "isoDate": "2025-12-14T21:57:08.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/35184",
+      "publishedAt": "2025-12-14T22:00:18.000Z",
+      "title": "In the lobby of our beautiful White House!",
+      "text": "<p>In the lobby of our beautiful White House!</p>",
+      "url": "https://www.trumpstruth.org/statuses/35184",
+      "raw": {
+        "creator": "",
+        "title": "In the lobby of our beautiful White House!",
+        "link": "https://www.trumpstruth.org/statuses/35184",
+        "pubDate": "Sun, 14 Dec 2025 22:00:18 +0000",
+        "author": "",
+        "content": "<p>In the lobby of our beautiful White House!</p>",
+        "contentSnippet": "In the lobby of our beautiful White House!",
+        "guid": "https://www.trumpstruth.org/statuses/35184",
+        "isoDate": "2025-12-14T22:00:18.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/34227",
+      "publishedAt": "2025-12-14T22:05:03.000Z",
+      "title": "Get your TRUMP CARD today!",
+      "text": "<p>Get your TRUMP CARD today!<br/><a href=\"https://trumpcard.gov\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">trumpcard.gov</span><span class=\"invisible\"></span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/34227",
+      "raw": {
+        "creator": "",
+        "title": "Get your TRUMP CARD today!",
+        "link": "https://www.trumpstruth.org/statuses/34227",
+        "pubDate": "Sun, 14 Dec 2025 22:05:03 +0000",
+        "author": "",
+        "content": "<p>Get your TRUMP CARD today!<br/><a href=\"https://trumpcard.gov\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">trumpcard.gov</span><span class=\"invisible\"></span></a></p>",
+        "contentSnippet": "Get your TRUMP CARD today!\nhttps://trumpcard.gov",
+        "guid": "https://www.trumpstruth.org/statuses/34227",
+        "isoDate": "2025-12-14T22:05:03.000Z"
+      }
+    }
+  ],
+  "sentiments": [
+    {
+      "postId": "https://www.trumpstruth.org/statuses/34225",
+      "label": "neutral",
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:26:42.535Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/34226",
+      "label": "negative",
+      "rationale": "The text discusses a serious and distressing situation involving fear and hostage-taking, which conveys a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:26:42.535Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/34227",
+      "label": "positive",
+      "rationale": "The text promotes a product (TRUMP CARD) and encourages action (Get your TRUMP CARD today!), which conveys a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:26:42.535Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35184",
+      "label": "positive",
+      "rationale": "The phrase 'beautiful White House' expresses a positive sentiment about the location.",
+      "analyzedAt": "2026-09-06T06:26:42.535Z"
+    }
+  ],
+  "topicsCacheKey": "day-themes-v8:4:297a5e1dac5fed33c6aaf061"
+}

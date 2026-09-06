@@ -1,0 +1,74 @@
+{
+  "date": "2025-12-09",
+  "counts": {
+    "positive": 1,
+    "neutral": 0,
+    "negative": 1
+  },
+  "summary": "positive:1 neutral:0 negative:1",
+  "generatedAt": "2026-09-06T06:43:49.396Z",
+  "topics": [
+    "Discusses the impact of tariffs on National Security",
+    "Warns against potential Supreme Court decisions affecting tariffs"
+  ],
+  "trendingTopic": "Discusses the impact of tariffs on National Security",
+  "secondaryHighlights": [
+    {
+      "topic": "Warns against potential Supreme Court decisions affecting tariffs"
+    }
+  ],
+  "selfPraiseCount": 0,
+  "posts": [
+    {
+      "id": "https://www.trumpstruth.org/statuses/34195",
+      "publishedAt": "2025-12-09T07:37:08.000Z",
+      "title": "The biggest threat in history to United States National Security would be a negative decision on Tariffs by the U.S. Supreme Court. We would be financially defenseless. Now Europe is going to Tariffs against China, as they already do against others. We would not be allowed to do what others already do!",
+      "text": "<p>The biggest threat in history to United States National Security would be a negative decision on Tariffs by the U.S. Supreme Court. We would be financially defenseless. Now Europe is going to Tariffs against China, as they already do against others. We would not be allowed to do what others already do!<br/><a href=\"https://justthenews.com/government/diplomacy/european-countries-threaten-tariffs-china-following-trump-trade-deficits\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/dip</span><span class=\"invisible\">lomacy/european-countries-threaten-tariffs-china-following-trump-trade-deficits</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/34195",
+      "raw": {
+        "creator": "",
+        "title": "The biggest threat in history to United States National Security would be a negative decision on Tariffs by the U.S. Supreme Court. We would be financially defenseless. Now Europe is going to Tariffs against China, as they already do against others. We would not be allowed to do what others already do!",
+        "link": "https://www.trumpstruth.org/statuses/34195",
+        "pubDate": "Tue, 09 Dec 2025 07:37:08 +0000",
+        "author": "",
+        "content": "<p>The biggest threat in history to United States National Security would be a negative decision on Tariffs by the U.S. Supreme Court. We would be financially defenseless. Now Europe is going to Tariffs against China, as they already do against others. We would not be allowed to do what others already do!<br/><a href=\"https://justthenews.com/government/diplomacy/european-countries-threaten-tariffs-china-following-trump-trade-deficits\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/dip</span><span class=\"invisible\">lomacy/european-countries-threaten-tariffs-china-following-trump-trade-deficits</span></a></p>",
+        "contentSnippet": "The biggest threat in history to United States National Security would be a negative decision on Tariffs by the U.S. Supreme Court. We would be financially defenseless. Now Europe is going to Tariffs against China, as they already do against others. We would not be allowed to do what others already do!\nhttps://justthenews.com/government/diplomacy/european-countries-threaten-tariffs-china-following-trump-trade-deficits",
+        "guid": "https://www.trumpstruth.org/statuses/34195",
+        "isoDate": "2025-12-09T07:37:08.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/34196",
+      "publishedAt": "2025-12-09T07:45:02.000Z",
+      "title": "Because of Tariffs, easily and quickly applied, our National Security has been greatly enhanced, and we have become the financially strongest Country, by far, anywhere in the World. Only dark and sinister forces would want to see that end!!!",
+      "text": "<p>Because of Tariffs, easily and quickly applied, our National Security has been greatly enhanced, and we have become the financially strongest Country, by far, anywhere in the World. Only dark and sinister forces would want to see that end!!!</p>",
+      "url": "https://www.trumpstruth.org/statuses/34196",
+      "raw": {
+        "creator": "",
+        "title": "Because of Tariffs, easily and quickly applied, our National Security has been greatly enhanced, and we have become the financially strongest Country, by far, anywhere in the World. Only dark and sinister forces would want to see that end!!!",
+        "link": "https://www.trumpstruth.org/statuses/34196",
+        "pubDate": "Tue, 09 Dec 2025 07:45:02 +0000",
+        "author": "",
+        "content": "<p>Because of Tariffs, easily and quickly applied, our National Security has been greatly enhanced, and we have become the financially strongest Country, by far, anywhere in the World. Only dark and sinister forces would want to see that end!!!</p>",
+        "contentSnippet": "Because of Tariffs, easily and quickly applied, our National Security has been greatly enhanced, and we have become the financially strongest Country, by far, anywhere in the World. Only dark and sinister forces would want to see that end!!!",
+        "guid": "https://www.trumpstruth.org/statuses/34196",
+        "isoDate": "2025-12-09T07:45:02.000Z"
+      }
+    }
+  ],
+  "sentiments": [
+    {
+      "postId": "https://www.trumpstruth.org/statuses/34195",
+      "label": "negative",
+      "rationale": "The text highlights a concern about a potential negative decision on tariffs, suggesting that it would threaten national security and financial stability, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:25:56.993Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/34196",
+      "label": "positive",
+      "rationale": "The text expresses a strong belief that tariffs have enhanced national security and made the country financially strong, indicating a positive sentiment towards tariffs.",
+      "analyzedAt": "2026-09-06T06:25:56.993Z"
+    }
+  ],
+  "topicsCacheKey": "day-themes-v8:2:2ee59d55f62259b984d3585a"
+}

@@ -1,17 +1,27 @@
 {
   "date": "2026-01-28",
   "counts": {
-    "positive": 10,
+    "positive": 8,
     "neutral": 6,
-    "negative": 3
+    "negative": 5
   },
-  "summary": "positive:10 neutral:6 negative:3",
-  "generatedAt": "2026-04-13T07:56:15.363Z",
+  "summary": "positive:8 neutral:6 negative:5",
+  "generatedAt": "2026-09-06T06:44:53.573Z",
   "topics": [
-    "Election Integrity and Fraud Enforcement",
-    "Military Action and Iran",
-    "Endorsements for State Candidates"
+    "Nominates Colin McDonald as Assistant Attorney General for National Fraud Enforcement",
+    "Endorses multiple candidates for various state and congressional positions",
+    "Comments on the S&P 500 reaching 7000 for the first time"
   ],
+  "trendingTopic": "Nominates Colin McDonald as Assistant Attorney General for National Fraud Enforcement",
+  "secondaryHighlights": [
+    {
+      "topic": "Endorses multiple candidates for various state and congressional positions"
+    },
+    {
+      "topic": "Comments on the S&P 500 reaching 7000 for the first time"
+    }
+  ],
+  "selfPraiseCount": 2,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34622",
@@ -361,128 +371,116 @@
       "postId": "https://www.trumpstruth.org/statuses/34612",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:56:15.360Z"
+      "analyzedAt": "2026-09-06T06:36:01.798Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34613",
       "label": "positive",
       "rationale": "The text expresses gratitude for high polling numbers, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:56:15.360Z"
+      "analyzedAt": "2026-09-06T06:36:01.798Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34614",
       "label": "positive",
       "rationale": "The text endorses Stacy Garrity and highlights her qualifications and potential contributions, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:56:15.360Z"
+      "analyzedAt": "2026-09-06T06:36:01.798Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34615",
       "label": "neutral",
       "rationale": "The text reports on Trump's statement without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T07:56:15.360Z"
+      "analyzedAt": "2026-09-06T06:36:01.798Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34616",
       "label": "positive",
       "rationale": "The text endorses Tom Tiffany and highlights his qualifications and potential contributions, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:56:15.360Z"
+      "analyzedAt": "2026-09-06T06:36:01.798Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34617",
       "label": "neutral",
       "rationale": "The text contains a link without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T07:56:15.360Z"
+      "analyzedAt": "2026-09-06T06:36:01.798Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34618",
       "label": "positive",
       "rationale": "The text endorses Michael Alfonso and highlights his qualifications and potential contributions, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:56:15.360Z"
+      "analyzedAt": "2026-09-06T06:36:01.798Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34620",
-      "label": "positive",
-      "rationale": "The text endorses Brenda Wilson and highlights her qualifications and potential contributions, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:56:15.360Z"
+      "label": "negative",
+      "rationale": "The text criticizes 'No Goode' and discusses negative implications of his actions, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:36:01.798Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34621",
-      "label": "positive",
-      "rationale": "The text endorses Paula Copenhaver and highlights her qualifications and potential contributions, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:56:15.360Z"
+      "label": "negative",
+      "rationale": "The text criticizes Spencer Deery and discusses negative implications of his actions, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:36:01.798Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34622",
       "label": "positive",
       "rationale": "The text endorses Joe Mitchell and highlights his qualifications and potential contributions, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:56:15.360Z"
+      "analyzedAt": "2026-09-06T06:36:01.798Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36259",
       "label": "negative",
-      "rationale": "The text discusses military action and threats, conveying a sense of urgency and negativity regarding the situation with Iran.",
-      "analyzedAt": "2026-04-13T07:56:15.360Z"
+      "rationale": "The text discusses military action and threats towards Iran, conveying a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:36:01.798Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36260",
       "label": "negative",
-      "rationale": "The text expresses frustration with football rules and decisions, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:56:15.360Z"
+      "rationale": "The text expresses discontent with football rules and decisions, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:36:01.798Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36261",
       "label": "negative",
       "rationale": "The text criticizes Mayor Jacob Frey for his statement on immigration laws, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:56:15.360Z"
+      "analyzedAt": "2026-09-06T06:36:01.798Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36262",
       "label": "positive",
-      "rationale": "The text celebrates the S&P 500 reaching a milestone, indicating a positive sentiment about the economy.",
-      "analyzedAt": "2026-04-13T07:56:15.360Z"
+      "rationale": "The text celebrates a milestone in the S&P 500, indicating a positive sentiment about the economy.",
+      "analyzedAt": "2026-09-06T06:36:01.798Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36263",
       "label": "positive",
       "rationale": "The text praises Trump's actions and suggests he is making significant progress, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:56:15.360Z"
+      "analyzedAt": "2026-09-06T06:36:01.798Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36264",
       "label": "neutral",
-      "rationale": "The text discusses a political issue without expressing a clear positive or negative sentiment.",
-      "analyzedAt": "2026-04-13T07:56:15.360Z"
+      "rationale": "The text discusses a call for action without expressing a clear positive or negative sentiment.",
+      "analyzedAt": "2026-09-06T06:36:01.798Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36265",
       "label": "neutral",
       "rationale": "The text reports on a statement made by Trump without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T07:56:15.360Z"
+      "analyzedAt": "2026-09-06T06:36:01.798Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36266",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:56:15.360Z"
+      "analyzedAt": "2026-09-06T06:36:01.798Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36267",
       "label": "positive",
       "rationale": "The text expresses pleasure in nominating Colin McDonald and highlights his qualifications and the positive impact of the new division aimed at stopping fraud.",
-      "analyzedAt": "2026-04-13T07:56:15.360Z"
+      "analyzedAt": "2026-09-06T06:36:01.798Z"
     }
   ],
-  "trendingTopic": "It is my Great Honor to endorse MAGA Patriot, Joe Mitchell, who is running to represent the fantastic people of Iowa’s 2nd Congressional District.",
-  "selfPraiseCount": 2,
-  "secondaryHighlights": [
-    {
-      "topic": "Trump: U.S. ‘Not Joke Anymore’ as Midterm Push Begins in Iowa"
-    },
-    {
-      "topic": "My polling is highest ever"
-    },
-    {
-      "topic": "A massive Armada is heading to Iran."
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:19:a45634ae3b86face007a18f7"
 }

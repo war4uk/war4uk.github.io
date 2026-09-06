@@ -1,17 +1,27 @@
 {
   "date": "2026-01-06",
   "counts": {
-    "positive": 10,
-    "neutral": 3,
-    "negative": 1
+    "positive": 11,
+    "neutral": 2,
+    "negative": 2
   },
-  "summary": "positive:10 neutral:3 negative:1",
-  "generatedAt": "2026-01-18T12:20:17.639Z",
+  "summary": "positive:11 neutral:2 negative:2",
+  "generatedAt": "2026-09-06T06:44:21.826Z",
   "topics": [
-    "Market highs credited to tariffs",
-    "California corruption accusations",
-    "Kennedy Center and GOP remarks"
+    "Announces the turnover of sanctioned oil from Venezuela to the U.S.",
+    "Nominates multiple judges to U.S. District Courts across various states",
+    "Endorses America First candidates running for state and congressional positions"
   ],
+  "trendingTopic": "Announces the turnover of sanctioned oil from Venezuela to the U.S.",
+  "secondaryHighlights": [
+    {
+      "topic": "Nominates multiple judges to U.S. District Courts across various states"
+    },
+    {
+      "topic": "Endorses America First candidates running for state and congressional positions"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34460",
@@ -288,101 +298,93 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/34460",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:31:23.488Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34461",
       "label": "positive",
-      "rationale": "The text celebrates market success and expresses gratitude, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "rationale": "The announcement of the markets hitting an all-time high is framed positively, celebrating economic success.",
+      "analyzedAt": "2026-09-06T06:31:23.488Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34462",
       "label": "negative",
-      "rationale": "The text criticizes California's governor and suggests corruption, indicating a negative sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "rationale": "The statement about California under Governor Gavin Newsom is negative, criticizing corruption and fraud.",
+      "analyzedAt": "2026-09-06T06:31:23.488Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34463",
       "label": "positive",
-      "rationale": "The text expresses pride in achievements and optimism for the future, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "rationale": "The statement about the TRUMP KENNEDY CENTER is positive, highlighting its transformation and future potential.",
+      "analyzedAt": "2026-09-06T06:31:23.488Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34464",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-01-07T10:17:51.417Z"
+      "analyzedAt": "2026-09-06T06:31:23.488Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34465",
-      "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "label": "positive",
+      "rationale": "The endorsement of Jay Feely and Gina Swoboda is enthusiastic, emphasizing their qualifications and potential impact.",
+      "analyzedAt": "2026-09-06T06:31:23.488Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34466",
       "label": "positive",
-      "rationale": "The text endorses a candidate positively, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "rationale": "The endorsement of Amanda McKinney is positive, highlighting her qualifications and expected contributions to the community.",
+      "analyzedAt": "2026-09-06T06:31:23.488Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34468",
       "label": "positive",
-      "rationale": "The text endorses a candidate positively, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "rationale": "The endorsement of Jon Maples is enthusiastic, highlighting his qualifications and the positive impact he is expected to have.",
+      "analyzedAt": "2026-09-06T06:31:23.488Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34469",
       "label": "positive",
-      "rationale": "The text endorses a candidate positively, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "rationale": "The endorsement of Sara Baxter is framed positively, emphasizing her achievements and commitment to the community.",
+      "analyzedAt": "2026-09-06T06:31:23.488Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34470",
       "label": "positive",
-      "rationale": "The text praises a judicial nominee, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "rationale": "The nomination of John Shepherd is described positively, focusing on his qualifications and expected contributions to law and order.",
+      "analyzedAt": "2026-09-06T06:31:23.488Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34471",
       "label": "positive",
-      "rationale": "The text praises a judicial nominee, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "rationale": "The announcement of Chris Wolfe's nomination is framed positively, emphasizing his experience and commitment to the people of Texas.",
+      "analyzedAt": "2026-09-06T06:31:23.488Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34472",
       "label": "positive",
-      "rationale": "The text praises a judicial nominee, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "rationale": "The nomination of Andrew Davis is presented positively, highlighting his qualifications and expected role in upholding the law.",
+      "analyzedAt": "2026-09-06T06:31:23.488Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34473",
       "label": "positive",
-      "rationale": "The text praises a judicial nominee, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "rationale": "The nomination of Anna St. John is presented with positive language, highlighting her qualifications and potential contributions.",
+      "analyzedAt": "2026-09-06T06:31:23.488Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34474",
       "label": "positive",
-      "rationale": "The text announces a beneficial oil deal for both Venezuela and the USA, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "rationale": "The announcement of turning over oil to the U.S. is framed positively, emphasizing benefits for both Venezuela and the U.S.",
+      "analyzedAt": "2026-09-06T06:31:23.488Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/34931",
+      "label": "negative",
+      "rationale": "The text contains negative sentiments towards Henry Cuellar, criticizing his actions and suggesting he should not serve in Congress.",
+      "analyzedAt": "2026-09-06T06:31:23.488Z"
     }
   ],
-  "trendingTopic": "It is my Great Honor to endorse America First Patriot, Jon Maples, who is running to represent the wonderful people of Florida’s 87th State House District.",
-  "selfPraiseCount": 0,
-  "trendingName": "Jon Maples",
-  "secondaryHighlights": [
-    {
-      "topic": "I am pleased to announce the nomination of Andrew Davis to serve as Judge on the United States District Court for the Western District of Texas."
-    },
-    {
-      "topic": "Sara Baxter has done an incredible job as Palm Beach County Commissioner, delivering lasting results for Florida families."
-    },
-    {
-      "topic": "I am proud to announce the nomination of Chris Wolfe to serve as Judge on the United States District Court for the Western District of Texas.",
-      "name": "Chris Wolfe"
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:15:0b48e7a4d8071f7e2b69fc9d"
 }

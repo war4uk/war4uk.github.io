@@ -1,17 +1,27 @@
 {
   "date": "2026-01-23",
   "counts": {
-    "positive": 34,
-    "neutral": 58,
-    "negative": 8
+    "positive": 33,
+    "neutral": 60,
+    "negative": 7
   },
-  "summary": "positive:34 neutral:58 negative:8",
-  "generatedAt": "2026-04-13T07:55:08.309Z",
+  "summary": "positive:33 neutral:60 negative:7",
+  "generatedAt": "2026-09-06T06:44:46.748Z",
   "topics": [
-    "International Peace Efforts",
-    "Support for Congressional Candidates",
-    "Severe Weather Preparedness"
+    "Thanks President Aliyev and Prime Minister Pashinyan for upholding Peace Agreement",
+    "Record Cold Wave and Historic Winter Storm expected across the U.S.",
+    "Trump launches Board of Peace at Davos with world leaders"
   ],
+  "trendingTopic": "Thanks President Aliyev and Prime Minister Pashinyan for upholding Peace Agreement",
+  "secondaryHighlights": [
+    {
+      "topic": "Record Cold Wave and Historic Winter Storm expected across the U.S."
+    },
+    {
+      "topic": "Trump launches Board of Peace at Davos with world leaders"
+    }
+  ],
+  "selfPraiseCount": 3,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34771",
@@ -1818,619 +1828,603 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/34651",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text is a quote reference, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34665",
       "label": "positive",
       "rationale": "The text expresses gratitude towards leaders for upholding a peace agreement and highlights the positive outcomes of prosperity and peace.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34666",
       "label": "neutral",
       "rationale": "The text provides information about a weather event and the administration's preparedness without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34667",
       "label": "positive",
       "rationale": "The text praises Congressman Mike Johnson, highlighting his qualities and accomplishments, and expresses strong support for his re-election.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34668",
       "label": "positive",
       "rationale": "The text praises Congressman Mike Johnson, highlighting his qualities and accomplishments, and expresses strong support for his re-election.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34669",
       "label": "positive",
-      "rationale": "The text commends Congressman Steve Scalise for his bravery and leadership, expressing strong support for his re-election.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "rationale": "The text commends Congressman Steve Scalise for his bravery and effectiveness, showing strong support for his re-election.",
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34670",
       "label": "positive",
-      "rationale": "The text commends Congressman Steve Scalise for his bravery and leadership, expressing strong support for his re-election.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "rationale": "The text commends Congressman Steve Scalise for his bravery and effectiveness, showing strong support for his re-election.",
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34671",
       "label": "positive",
-      "rationale": "The text praises Congressman Tom Emmer for his efforts and expresses strong support for his re-election.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "rationale": "The text praises Congressman Tom Emmer for his work and expresses strong support for his re-election.",
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34672",
       "label": "positive",
-      "rationale": "The text praises Congressman Tom Emmer for his efforts and expresses strong support for his re-election.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "rationale": "The text praises Congressman Tom Emmer for his work and expresses strong support for his re-election.",
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34673",
       "label": "positive",
       "rationale": "The text highlights Congresswoman Michelle Fischbach's achievements and expresses strong support for her re-election.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34674",
       "label": "neutral",
       "rationale": "The text reports on a business decision without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34675",
       "label": "positive",
       "rationale": "The text describes a deal that is framed as a victory for the Trump administration, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34676",
       "label": "positive",
-      "rationale": "The text encourages citizens to participate in a political initiative and expresses a strong desire to keep Utah red, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "rationale": "The text encourages action for a political initiative and expresses a strong desire to keep Utah red, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34677",
       "label": "positive",
-      "rationale": "The text praises Congressman Jason Smith for his leadership and expresses strong support for his re-election.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "rationale": "The text praises Congressman Jason Smith for his work and expresses strong support for his re-election.",
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34678",
       "label": "positive",
-      "rationale": "The text praises Congressman Mike Flood for his dedication and expresses strong support for his re-election.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "rationale": "The text praises Congressman Mike Flood for his work and expresses strong support for his re-election.",
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34679",
       "label": "positive",
-      "rationale": "The text praises Congressman Nick Langworthy for his efforts and expresses strong support for his re-election.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "rationale": "The text praises Congressman Nick Langworthy for his work and expresses strong support for his re-election.",
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34680",
       "label": "positive",
-      "rationale": "The text praises Congressman French Hill for his leadership and expresses strong support for his re-election.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "rationale": "The text praises Congressman French Hill for his work and expresses strong support for his re-election.",
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34681",
       "label": "positive",
-      "rationale": "The text praises Congressman Brett Guthrie for his leadership and expresses strong support for his re-election.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "rationale": "The text praises Congressman Brett Guthrie for his work and expresses strong support for his re-election.",
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34682",
       "label": "positive",
-      "rationale": "The text praises Congressman Brian Jack for his dedication and expresses strong support for his re-election.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "rationale": "The text praises Congressman Brian Jack for his work and expresses strong support for his re-election.",
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34683",
       "label": "positive",
-      "rationale": "The text praises Congressman Jay Obernolte for his leadership and expresses strong support for his re-election.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "rationale": "The text praises Congressman Jay Obernolte for his work and expresses strong support for his re-election.",
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34684",
       "label": "positive",
-      "rationale": "The text praises Congressman Rich McCormick for his advocacy and expresses strong support for his re-election.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "rationale": "The text praises Congressman Rich McCormick for his work and expresses strong support for his re-election.",
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34685",
       "label": "positive",
-      "rationale": "The text praises Congressman Austin Scott for his dedication and expresses strong support for his re-election.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "rationale": "The text praises Congressman Austin Scott for his work and expresses strong support for his re-election.",
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34686",
       "label": "positive",
-      "rationale": "The text praises Congressman Rick Allen for his leadership and expresses strong support for his re-election.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "rationale": "The text praises Congressman Rick Allen for his work and expresses strong support for his re-election.",
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34687",
       "label": "positive",
-      "rationale": "The text praises Congressman Jim Baird for his service and expresses strong support for his re-election.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "rationale": "The text praises Congressman Jim Baird for his work and expresses strong support for his re-election.",
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34688",
       "label": "positive",
-      "rationale": "The text praises Congresswoman Victoria Spartz for her dedication and expresses strong support for her re-election.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "rationale": "The text praises Congresswoman Victoria Spartz for her work and expresses strong support for her re-election.",
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34689",
       "label": "positive",
-      "rationale": "The text praises Congressman Jefferson Shreve for his advocacy and expresses strong support for his re-election.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "rationale": "The text praises Congressman Jefferson Shreve for his work and expresses strong support for his re-election.",
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34690",
       "label": "positive",
-      "rationale": "The text praises Congresswoman Erin Houchin for her dedication and expresses strong support for her re-election.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "rationale": "The text praises Congresswoman Erin Houchin for her work and expresses strong support for her re-election.",
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34691",
       "label": "positive",
-      "rationale": "The text praises Congressman Clay Higgins for his service and expresses strong support for his re-election.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "rationale": "The text praises Congressman Clay Higgins for his work and expresses strong support for his re-election.",
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34692",
       "label": "positive",
-      "rationale": "The text praises Congressman Tom McClintock for his leadership and expresses strong support for his re-election.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "rationale": "The text praises Congressman Tom McClintock for his work and expresses strong support for his re-election.",
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34693",
       "label": "positive",
-      "rationale": "The text praises Congressman Darrell Issa for his advocacy and expresses strong support for his re-election.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "rationale": "The text praises Congressman Darrell Issa for his work and expresses strong support for his re-election.",
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34694",
       "label": "positive",
-      "rationale": "The text praises Congresswoman Anna Paulina Luna for her dedication and expresses strong support for her re-election.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "rationale": "The text praises Congresswoman Anna Paulina Luna for her work and expresses strong support for her re-election.",
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34695",
       "label": "positive",
-      "rationale": "The text honors Charlie Kirk and promotes his book, expressing a positive sentiment about his legacy.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "rationale": "The text honors Charlie Kirk and promotes his book, expressing admiration and positive sentiment.",
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34696",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34697",
       "label": "negative",
       "rationale": "The text criticizes Canada for its decision regarding the Golden Dome and implies negative consequences.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34698",
-      "label": "positive",
-      "rationale": "The text builds anticipation for an upcoming event, suggesting a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "label": "neutral",
+      "rationale": "The text announces a countdown to an event without expressing a clear sentiment.",
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34699",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34700",
       "label": "negative",
       "rationale": "The text criticizes Chuck Schumer for holding up a project, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34701",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34702",
       "label": "negative",
-      "rationale": "The text questions the concept of global warming in light of a cold wave, suggesting skepticism and a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:54:13.960Z"
+      "rationale": "The text questions the concept of global warming in light of a cold wave, implying skepticism and negativity.",
+      "analyzedAt": "2026-09-06T06:34:52.727Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34703",
       "label": "positive",
-      "rationale": "The text expresses excitement and accomplishment regarding a trip to Davos, mentioning a deal with NATO and the 'BOARD OF PEACE', which conveys a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text expresses excitement and accomplishment about a trip to Davos, mentioning a deal with NATO and the 'BOARD OF PEACE', which conveys a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34704",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34705",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34706",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34707",
       "label": "positive",
       "rationale": "The text expresses happiness about saving TikTok and appreciation for various individuals involved, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34709",
-      "label": "negative",
-      "rationale": "The text conveys a negative sentiment by withdrawing an invitation and criticizing the Prime Minister, indicating disapproval.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "label": "neutral",
+      "rationale": "The text is a formal letter withdrawing an invitation, which does not convey a strong sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34711",
       "label": "negative",
-      "rationale": "The text suggests a negative view of NATO and illegal immigration, indicating dissatisfaction with current policies.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text suggests a critical view of NATO and illegal immigration, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34713",
       "label": "negative",
-      "rationale": "The text criticizes Governor Gavin Newsom harshly, indicating a strong negative sentiment towards his actions and leadership.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text criticizes Governor Gavin Newsom and his actions, expressing a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34715",
       "label": "positive",
-      "rationale": "The text highlights a positive development regarding mortgage rates, suggesting a favorable economic situation.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text highlights a decrease in mortgage rates and criticizes Jerome Powell, suggesting a positive sentiment about the market.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34717",
       "label": "positive",
-      "rationale": "The text expresses strong support and endorsement for Senator Tommy Tuberville, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text expresses strong support for Senator Tommy Tuberville, highlighting his qualities and endorsing him positively.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34719",
       "label": "negative",
-      "rationale": "The text criticizes State Senator Travis Holdman and expresses concern over political decisions, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text criticizes State Senator Travis Holdman and expresses concern about political decisions, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34721",
       "label": "negative",
-      "rationale": "The text expresses disapproval of individuals involved in tariff litigation, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text expresses disdain for those involved in tariff litigation against the U.S., indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34723",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34724",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text is a quote reference, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34725",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34726",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34727",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34728",
       "label": "neutral",
       "rationale": "The text is a news headline, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34729",
       "label": "neutral",
       "rationale": "The text is a news headline, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34730",
       "label": "neutral",
       "rationale": "The text is a news headline, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34731",
       "label": "neutral",
       "rationale": "The text is a news headline, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34732",
       "label": "neutral",
       "rationale": "The text is a news headline, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34733",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text is a quote reference, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34734",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34735",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text is a quote reference, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34736",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34737",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text is a quote reference, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34738",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34739",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text is a quote reference, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34740",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34741",
       "label": "neutral",
-      "rationale": "The text is a link, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text is a link reference, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34742",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text is a quote reference, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34743",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34744",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text is a quote reference, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34745",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34746",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text is a quote reference, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34747",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34748",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text is a quote reference, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34749",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34750",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34751",
       "label": "neutral",
-      "rationale": "The text is a link, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text is a link reference, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34752",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text is a quote reference, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34753",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34754",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text is a quote reference, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34755",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34756",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text is a quote reference, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34757",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34758",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text is a quote reference, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34759",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34760",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text is a quote reference, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34761",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34762",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text is a quote reference, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34763",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34764",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text is a quote reference, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34765",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34766",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text is a quote reference, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34767",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34768",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text is a quote reference, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34769",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34770",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "rationale": "The text is a quote reference, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34771",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:55:08.305Z"
+      "analyzedAt": "2026-09-06T06:35:12.776Z"
     }
   ],
-  "trendingTopic": "Congressman Tom Emmer is an America First Patriot who is a fantastic Champion for Minnesota’s 6th Congressional District!",
-  "selfPraiseCount": 3,
-  "trendingName": "Tom Emmer",
-  "secondaryHighlights": [
-    {
-      "topic": "Congressman Steve Scalise is an America First Patriot and a terrific Representative of Louisiana’s 1st Congressional District!",
-      "name": "Steve Scalise"
-    },
-    {
-      "topic": "Congressman Mike Johnson is a Great Man, an outstanding Representative for the wonderful people of Louisiana’s 4th Congressional District, and a strong and fearless Speaker of the United States House of Representatives.",
-      "name": "Mike Johnson"
-    },
-    {
-      "topic": "Remember everybody, it is Chuck Schumer, the under siege Senator from New York, who is holding up the Gateway Project!",
-      "name": "Chuck Schumer"
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:100:bc1e2a046f8fbb8a3511b6d3"
 }

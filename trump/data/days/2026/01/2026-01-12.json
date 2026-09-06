@@ -1,17 +1,28 @@
 {
   "date": "2026-01-12",
   "counts": {
-    "positive": 3,
-    "neutral": 2,
-    "negative": 5
+    "positive": 4,
+    "neutral": 3,
+    "negative": 3
   },
-  "summary": "positive:3 neutral:2 negative:5",
-  "generatedAt": "2026-01-18T12:20:20.351Z",
+  "summary": "positive:4 neutral:3 negative:3",
+  "generatedAt": "2026-09-06T06:44:31.626Z",
   "topics": [
-    "Utility Bills and Data Centers",
-    "Congestion Pricing in NYC",
-    "Tariffs on Iran"
+    "Announces 25% Tariff on Countries Doing Business with Iran",
+    "Congestion Pricing in Manhattan Criticized as a Disaster",
+    "Congratulates Dina Powell McCormick on Becoming President of Meta"
   ],
+  "trendingTopic": "Announces 25% Tariff on Countries Doing Business with Iran",
+  "secondaryHighlights": [
+    {
+      "topic": "Congestion Pricing in Manhattan Criticized as a Disaster"
+    },
+    {
+      "topic": "Congratulates Dina Powell McCormick on Becoming President of Meta",
+      "name": "Dina Powell McCormick"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34535",
@@ -198,76 +209,63 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/34535",
       "label": "neutral",
-      "rationale": "The text discusses a legal probe without expressing a clear sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text reports on a legal probe without expressing any emotional language or sentiment.",
+      "analyzedAt": "2026-09-06T06:32:33.354Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34536",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "analyzedAt": "2026-09-06T06:32:33.354Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34537",
       "label": "positive",
-      "rationale": "The text reports a decrease in mortgage rates, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text reports a positive economic development regarding mortgage rates, suggesting a beneficial outcome.",
+      "analyzedAt": "2026-09-06T06:32:33.354Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34538",
       "label": "positive",
-      "rationale": "The text claims a significant achievement regarding NATO, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text asserts a claim of saving NATO, which reflects a positive self-assessment and pride in accomplishments.",
+      "analyzedAt": "2026-09-06T06:32:33.354Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34539",
       "label": "positive",
-      "rationale": "The text congratulates a new appointment, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text congratulates a new president of META, expressing positivity about the appointment and the individual's qualifications.",
+      "analyzedAt": "2026-09-06T06:32:33.354Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34540",
       "label": "negative",
-      "rationale": "The text discusses potential financial consequences in a negative light.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text discusses potential financial consequences in a dire manner, expressing concern and negativity about the implications of a Supreme Court ruling.",
+      "analyzedAt": "2026-09-06T06:32:33.354Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34541",
       "label": "negative",
-      "rationale": "The text expresses disdain for FBI agents, indicating a negative sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text uses derogatory language to describe FBI agents and expresses urgency for their removal, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:32:33.354Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34542",
-      "label": "negative",
-      "rationale": "The text imposes tariffs on countries doing business with Iran, indicating a negative stance.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "label": "neutral",
+      "rationale": "The text is a straightforward announcement of a tariff policy without emotional language or sentiment.",
+      "analyzedAt": "2026-09-06T06:32:33.354Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34543",
       "label": "negative",
-      "rationale": "The text expresses strong disapproval of congestion pricing in Manhattan.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text strongly criticizes congestion pricing in Manhattan, describing it as a disaster and foolish policy, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:32:33.354Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34544",
-      "label": "negative",
-      "rationale": "The text criticizes the Biden administration and expresses concern over rising utility bills.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "label": "positive",
+      "rationale": "The text expresses optimism about working with technology companies to reduce utility bills for Americans, highlighting a commitment to the American people.",
+      "analyzedAt": "2026-09-06T06:32:33.354Z"
     }
   ],
-  "trendingTopic": "Federal prosecutors launch new probe into NY AG Letitia James involving campaign payments to longtime hairdresser: report",
-  "selfPraiseCount": 0,
-  "trendingName": "Letitia James",
-  "secondaryHighlights": [
-    {
-      "topic": "Mortgage rates sink to three-year low after shock Trump move"
-    },
-    {
-      "topic": "I’m the one who SAVED NATO!!!"
-    },
-    {
-      "topic": "Congestion Pricing in Manhattan is a DISASTER for New York"
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:10:9e456e410801eaab5ce5adb8"
 }

@@ -6,12 +6,22 @@
     "negative": 5
   },
   "summary": "positive:3 neutral:6 negative:5",
-  "generatedAt": "2026-04-13T07:55:23.077Z",
+  "generatedAt": "2026-09-06T06:44:47.813Z",
   "topics": [
-    "Emergency Declarations for Winter Storms",
-    "Minnesota Corruption Accusations",
-    "China-Canada Trade Concerns"
+    "Approves Emergency Declarations for multiple states due to severe weather",
+    "Critiques corruption and fraud in Minnesota's political landscape",
+    "Comments on China's influence in North America"
   ],
+  "trendingTopic": "Approves Emergency Declarations for multiple states due to severe weather",
+  "secondaryHighlights": [
+    {
+      "topic": "Critiques corruption and fraud in Minnesota's political landscape"
+    },
+    {
+      "topic": "Comments on China's influence in North America"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34664",
@@ -271,98 +281,86 @@
       "postId": "https://www.trumpstruth.org/statuses/34650",
       "label": "neutral",
       "rationale": "The text is a retweet of a mention without any sentiment expressed.",
-      "analyzedAt": "2026-04-13T07:55:23.073Z"
+      "analyzedAt": "2026-09-06T06:35:23.576Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34652",
       "label": "negative",
       "rationale": "The text criticizes Pritzker's claim, suggesting it is misleading and implies a negative view of his actions.",
-      "analyzedAt": "2026-04-13T07:55:23.073Z"
+      "analyzedAt": "2026-09-06T06:35:23.576Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34653",
       "label": "positive",
       "rationale": "The text discusses emergency declarations and emphasizes safety and support, conveying a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:55:23.073Z"
+      "analyzedAt": "2026-09-06T06:35:23.576Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34654",
       "label": "neutral",
-      "rationale": "The text is a retweet of another status without any sentiment expressed.",
-      "analyzedAt": "2026-04-13T07:55:23.073Z"
+      "rationale": "The text is a retweet reference without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:35:23.576Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34655",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:55:23.073Z"
+      "analyzedAt": "2026-09-06T06:35:23.576Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34656",
       "label": "negative",
       "rationale": "The text accuses politicians of theft and incompetence, expressing a strong negative sentiment.",
-      "analyzedAt": "2026-04-13T07:55:23.073Z"
+      "analyzedAt": "2026-09-06T06:35:23.576Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34657",
       "label": "negative",
-      "rationale": "The text suggests a cover-up and expresses anger towards politicians, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:55:23.073Z"
+      "rationale": "The text suggests a cover-up and expresses anger towards political figures, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:35:23.576Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34658",
       "label": "negative",
-      "rationale": "The text expresses frustration and anger towards local authorities and politicians, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:55:23.073Z"
+      "rationale": "The text expresses frustration and anger towards local authorities and political figures, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:35:23.576Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34659",
       "label": "positive",
       "rationale": "The text praises the bravery of soldiers and expresses love and respect, conveying a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:55:23.073Z"
+      "analyzedAt": "2026-09-06T06:35:23.576Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34660",
       "label": "neutral",
       "rationale": "The text expresses a firm stance but does not convey strong positive or negative sentiment.",
-      "analyzedAt": "2026-04-13T07:55:23.073Z"
+      "analyzedAt": "2026-09-06T06:35:23.577Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34661",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:55:23.073Z"
+      "analyzedAt": "2026-09-06T06:35:23.577Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34662",
       "label": "positive",
       "rationale": "The text discusses emergency declarations and emphasizes safety and support, conveying a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:55:23.073Z"
+      "analyzedAt": "2026-09-06T06:35:23.577Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34663",
       "label": "negative",
       "rationale": "The text expresses a strong negative view towards a potential deal with China, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:55:23.073Z"
+      "analyzedAt": "2026-09-06T06:35:23.577Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34664",
       "label": "neutral",
-      "rationale": "The text reports on foreign investment without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T07:55:23.073Z"
+      "rationale": "The text reports on a statistic without expressing any sentiment.",
+      "analyzedAt": "2026-09-06T06:35:23.577Z"
     }
   ],
-  "trendingTopic": "Foreign direct investment in China slides 9.5% in 2025",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "The last thing the World needs is to have China take over Canada"
-    },
-    {
-      "topic": "This is the gunman’s gun, loaded (with two additional full magazines!), and ready to go"
-    },
-    {
-      "topic": "He Should Beg President Trump To Send in National Guard"
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:14:2399ee5a160c03e34bec8b86"
 }

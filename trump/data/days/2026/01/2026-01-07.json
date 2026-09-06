@@ -1,17 +1,27 @@
 {
   "date": "2026-01-07",
   "counts": {
-    "positive": 6,
+    "positive": 5,
     "neutral": 0,
-    "negative": 3
+    "negative": 4
   },
-  "summary": "positive:6 neutral:0 negative:3",
-  "generatedAt": "2026-01-18T12:20:18.101Z",
+  "summary": "positive:5 neutral:0 negative:4",
+  "generatedAt": "2026-09-06T06:44:23.197Z",
   "topics": [
-    "NATO spending credit and military strength",
-    "Housing affordability and investor ban",
-    "Sports coaching endorsement and memorial"
+    "Discusses drug issues and future meeting with Colombian President Gustavo Petro",
+    "Announces Venezuela's commitment to purchasing American-made products",
+    "Orders flags at half mast in honor of late Congressman Doug LaMalfa"
   ],
+  "trendingTopic": "Discusses drug issues and future meeting with Colombian President Gustavo Petro",
+  "secondaryHighlights": [
+    {
+      "topic": "Announces Venezuela's commitment to purchasing American-made products"
+    },
+    {
+      "topic": "Orders flags at half mast in honor of late Congressman Doug LaMalfa"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34475",
@@ -180,69 +190,58 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/34475",
       "label": "positive",
-      "rationale": "The text expresses a strong endorsement for hiring a successful coach, indicating a positive sentiment towards the individual.",
-      "analyzedAt": "2026-01-18T12:03:36.158Z"
+      "rationale": "The text expresses a strong endorsement for hiring John Harbaugh, framing it in a positive light as he is described as a 'total winner.'",
+      "analyzedAt": "2026-09-06T06:31:36.937Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34476",
       "label": "positive",
-      "rationale": "The text claims success in increasing NATO contributions and rebuilding the military, presenting these as positive achievements.",
-      "analyzedAt": "2026-01-18T12:03:36.158Z"
+      "rationale": "The text claims credit for increasing NATO contributions and emphasizes the importance of U.S. involvement, indicating a positive sentiment about military and diplomatic achievements.",
+      "analyzedAt": "2026-09-06T06:31:36.937Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34477",
       "label": "positive",
-      "rationale": "The text honors a deceased Congressman, expressing respect and admiration, which conveys a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.158Z"
+      "rationale": "The text honors a late Congressman and expresses a sense of loss and respect, indicating a positive sentiment towards the individual's legacy.",
+      "analyzedAt": "2026-09-06T06:31:36.937Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34478",
       "label": "negative",
-      "rationale": "The text discusses the impact of high inflation on home ownership, portraying a bleak outlook for many Americans, especially the youth.",
-      "analyzedAt": "2026-01-18T12:03:36.158Z"
+      "rationale": "The text discusses the impact of inflation on home ownership, attributing it to the current administration, indicating a negative sentiment regarding economic conditions.",
+      "analyzedAt": "2026-09-06T06:31:36.936Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34480",
       "label": "negative",
-      "rationale": "The text describes a violent incident and blames the 'Radical Left' for threatening law enforcement, conveying a negative sentiment towards certain political groups.",
-      "analyzedAt": "2026-01-18T12:03:36.158Z"
+      "rationale": "The text describes a violent incident and blames the Radical Left for threatening law enforcement, indicating a negative sentiment towards that political group.",
+      "analyzedAt": "2026-09-06T06:31:36.936Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34481",
       "label": "negative",
-      "rationale": "The text criticizes Raytheon for being unresponsive and prioritizing shareholders over military needs, indicating dissatisfaction with their performance.",
-      "analyzedAt": "2026-01-18T12:03:36.158Z"
+      "rationale": "The text criticizes Raytheon for their performance and spending practices, indicating a negative sentiment towards the company and its actions.",
+      "analyzedAt": "2026-09-06T06:31:36.936Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34482",
-      "label": "positive",
-      "rationale": "The text discusses an increase in the military budget as a means to enhance national security, portraying it as a necessary and positive step.",
-      "analyzedAt": "2026-01-18T12:03:36.158Z"
+      "label": "negative",
+      "rationale": "The text discusses the need for a significantly increased military budget and criticizes the previous administration, indicating a negative sentiment towards the current political situation.",
+      "analyzedAt": "2026-09-06T06:31:36.936Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34483",
       "label": "positive",
-      "rationale": "The text highlights Venezuela's commitment to purchasing American products, which is framed as a positive development for both countries.",
-      "analyzedAt": "2026-01-18T12:03:36.158Z"
+      "rationale": "The text highlights Venezuela's commitment to purchasing American products, which is framed as a wise choice and beneficial for both countries, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:31:36.936Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34484",
       "label": "positive",
-      "rationale": "The text expresses appreciation for a conversation with the President of Colombia and looks forward to future meetings, indicating a positive diplomatic relationship.",
-      "analyzedAt": "2026-01-18T12:03:36.158Z"
+      "rationale": "The text expresses appreciation for the conversation with the President of Colombia and looks forward to future meetings, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:31:36.936Z"
     }
   ],
-  "trendingTopic": "HIRE JOHN HARBAUGH, FAST. HE, AND HIS BROTHER, ARE TOTAL WINNERS!!! President DJT",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "I have just viewed the clip of the event which took place in Minneapolis, Minnesota"
-    },
-    {
-      "topic": "For a very long time, buying and owning a home was considered the pinnacle of the American Dream"
-    },
-    {
-      "topic": "Remember, for all of those big NATO fans, they were at 2% GDP, and most weren’t paying their bills, UNTIL I CAME ALONG. The USA was, foolishly, paying for them!"
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:9:ebe1abc949cb43808d262676",
+  "trendingName": "Gustavo Petro"
 }

@@ -6,12 +6,22 @@
     "negative": 8
   },
   "summary": "positive:3 neutral:42 negative:8",
-  "generatedAt": "2026-04-13T07:53:41.378Z",
+  "generatedAt": "2026-09-06T06:44:45.289Z",
   "topics": [
-    "Economic Growth and Investment",
-    "Criticism of Polling and Media",
-    "World Expo 2035 Announcement"
+    "Announces U.S. intention to bid for World Expo 2035 in Miami",
+    "Criticizes polling practices and lawsuits against media outlets",
+    "Comments on the performance of the U.S. economy and inflation"
   ],
+  "trendingTopic": "Announces U.S. intention to bid for World Expo 2035 in Miami",
+  "secondaryHighlights": [
+    {
+      "topic": "Criticizes polling practices and lawsuits against media outlets"
+    },
+    {
+      "topic": "Comments on the performance of the U.S. economy and inflation"
+    }
+  ],
+  "selfPraiseCount": 3,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34855",
@@ -972,336 +982,321 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/34722",
       "label": "negative",
-      "rationale": "The text expresses strong disapproval of individuals involved in the Tariff Litigation, labeling them as 'ashamed' and 'strongly China oriented', indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text expresses disdain towards individuals involved in the Tariff Litigation, labeling them as 'ashamed' and 'strongly China oriented', indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34804",
       "label": "neutral",
-      "rationale": "The text contains a link to an article without any sentiment expressed, making it neutral.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text contains a link without any additional commentary or sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34805",
       "label": "negative",
       "rationale": "The text accuses Congresswoman Ilhan Omar of illegal activities and calls for an investigation, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34806",
       "label": "positive",
-      "rationale": "The text highlights 'RECORD NUMBERS' and suggests a desire for continued success, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text highlights 'RECORD NUMBERS' and suggests a potential fourth term, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34807",
       "label": "neutral",
-      "rationale": "The text contains a link to an article without any sentiment expressed, making it neutral.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text contains a link without any additional commentary or sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34808",
       "label": "neutral",
-      "rationale": "The text is empty, which does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34809",
       "label": "negative",
       "rationale": "The text calls for prosecution of Jack Smith and describes his actions as destructive, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34810",
       "label": "neutral",
-      "rationale": "The text is empty, which does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34811",
       "label": "neutral",
-      "rationale": "The text is empty, which does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34812",
       "label": "neutral",
-      "rationale": "The text is empty, which does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34813",
       "label": "positive",
       "rationale": "The text expresses excitement about the Miami Expo 2035 and its potential economic benefits, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34814",
       "label": "positive",
       "rationale": "The text describes an 'incredible time' and mentions 'so many good things happening', indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34815",
       "label": "neutral",
-      "rationale": "The text is empty, which does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34816",
       "label": "negative",
       "rationale": "The text discusses a lawsuit against JPMorgan Chase, indicating a negative sentiment towards the bank and its CEO.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34817",
       "label": "negative",
       "rationale": "The text describes Jack Smith in derogatory terms and accuses him of wrongdoing, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34818",
       "label": "negative",
       "rationale": "The text criticizes media polling and describes it as fraudulent, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34819",
       "label": "negative",
       "rationale": "The text expresses frustration with polling and media, describing them as 'fake' and 'ridiculous', indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34820",
       "label": "negative",
       "rationale": "The text accuses The New York Times of wrongdoing and expresses a desire for accountability, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34821",
       "label": "neutral",
-      "rationale": "The text contains a link to a retweet without any sentiment expressed, making it neutral.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text contains a link without any additional commentary or sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34822",
       "label": "neutral",
-      "rationale": "The text is empty, which does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34823",
       "label": "neutral",
-      "rationale": "The text contains a link to a retweet without any sentiment expressed, making it neutral.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text contains a link without any additional commentary or sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34824",
       "label": "neutral",
-      "rationale": "The text is empty, which does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34825",
       "label": "neutral",
-      "rationale": "The text contains a link to a retweet without any sentiment expressed, making it neutral.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text contains a link without any additional commentary or sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34826",
       "label": "neutral",
-      "rationale": "The text is empty, which does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34827",
       "label": "neutral",
-      "rationale": "The text contains a link to a retweet without any sentiment expressed, making it neutral.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text contains a link without any additional commentary or sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34828",
       "label": "neutral",
-      "rationale": "The text is empty, which does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34829",
       "label": "neutral",
-      "rationale": "The text contains a link to a retweet without any sentiment expressed, making it neutral.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text contains a link without any additional commentary or sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34830",
       "label": "neutral",
-      "rationale": "The text is empty, which does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34831",
       "label": "neutral",
-      "rationale": "The text contains a link to a retweet without any sentiment expressed, making it neutral.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text contains a link without any additional commentary or sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34832",
       "label": "neutral",
-      "rationale": "The text is empty, which does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34833",
       "label": "neutral",
-      "rationale": "The text contains a link to a retweet without any sentiment expressed, making it neutral.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text contains a link without any additional commentary or sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34834",
       "label": "neutral",
-      "rationale": "The text is empty, which does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34835",
       "label": "neutral",
-      "rationale": "The text contains a link to a retweet without any sentiment expressed, making it neutral.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text contains a link without any additional commentary or sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34836",
       "label": "neutral",
-      "rationale": "The text is empty, which does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34837",
       "label": "neutral",
-      "rationale": "The text contains a link to a retweet without any sentiment expressed, making it neutral.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text contains a link without any additional commentary or sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34838",
       "label": "neutral",
-      "rationale": "The text is empty, which does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34839",
       "label": "neutral",
-      "rationale": "The text contains a link to a retweet without any sentiment expressed, making it neutral.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text contains a link without any additional commentary or sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34840",
       "label": "neutral",
-      "rationale": "The text is empty, which does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34841",
       "label": "neutral",
-      "rationale": "The text contains a link to a retweet without any sentiment expressed, making it neutral.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text contains a link without any additional commentary or sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34842",
       "label": "neutral",
-      "rationale": "The text is empty, which does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34843",
       "label": "neutral",
-      "rationale": "The text contains a link to a retweet without any sentiment expressed, making it neutral.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text contains a link without any additional commentary or sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34844",
       "label": "neutral",
-      "rationale": "The text is empty, which does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34845",
       "label": "neutral",
-      "rationale": "The text contains a link to a retweet without any sentiment expressed, making it neutral.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text contains a link without any additional commentary or sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34846",
       "label": "neutral",
-      "rationale": "The text is empty, which does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34847",
       "label": "neutral",
-      "rationale": "The text is empty, which does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34848",
       "label": "neutral",
-      "rationale": "The text contains a link to a retweet without any sentiment expressed, making it neutral.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text contains a link without any additional commentary or sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34849",
       "label": "neutral",
-      "rationale": "The text is empty, which does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34850",
       "label": "neutral",
-      "rationale": "The text contains a link to a retweet without any sentiment expressed, making it neutral.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text contains a link without any additional commentary or sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34851",
       "label": "neutral",
-      "rationale": "The text is empty, which does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34852",
       "label": "neutral",
-      "rationale": "The text contains a link to a retweet without any sentiment expressed, making it neutral.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text contains a link without any additional commentary or sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34853",
       "label": "neutral",
-      "rationale": "The text is empty, which does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34854",
       "label": "neutral",
-      "rationale": "The text contains a link to a retweet without any sentiment expressed, making it neutral.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text contains a link without any additional commentary or sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34855",
       "label": "neutral",
-      "rationale": "The text is empty, which does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:53:41.372Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:34:33.995Z"
     }
   ],
-  "trendingTopic": "Deranged Jack Smith is being DECIMATED before Congress",
-  "trendingName": "Jack Smith",
-  "selfPraiseCount": 3,
-  "secondaryHighlights": [
-    {
-      "topic": "Trump sues JPMorgan Chase and CEO Jamie Dimon for $5B over alleged 'political' debanking",
-      "name": "Jamie Dimon"
-    },
-    {
-      "topic": "Based on his testimony today, there is no question that Deranged Jack Smith should be prosecuted for his actions.",
-      "name": "Jack Smith"
-    },
-    {
-      "topic": "Something has to be done about Fake Polls!"
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:53:1c6f998d3a9c91120ae2fefa"
 }

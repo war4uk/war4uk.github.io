@@ -6,12 +6,22 @@
     "negative": 4
   },
   "summary": "positive:3 neutral:0 negative:4",
-  "generatedAt": "2026-04-13T07:55:33.245Z",
+  "generatedAt": "2026-09-06T06:44:48.966Z",
   "topics": [
-    "Border Security and Deportation Efforts",
-    "China-Canada Trade Concerns",
-    "Minnesota Corruption Accusations"
+    "Critiques Biden's leadership and illegal immigration issues",
+    "Calls for cooperation from Democratic leaders on law enforcement",
+    "Comments on Canada's situation and influence from China"
   ],
+  "trendingTopic": "Critiques Biden's leadership and illegal immigration issues",
+  "secondaryHighlights": [
+    {
+      "topic": "Calls for cooperation from Democratic leaders on law enforcement"
+    },
+    {
+      "topic": "Comments on Canada's situation and influence from China"
+    }
+  ],
+  "selfPraiseCount": 1,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34649",
@@ -145,57 +155,44 @@
       "postId": "https://www.trumpstruth.org/statuses/34642",
       "label": "negative",
       "rationale": "The text expresses strong criticism of Democrats and portrays a negative view of illegal immigration, suggesting chaos and danger as a result of their policies.",
-      "analyzedAt": "2026-04-13T07:55:33.242Z"
+      "analyzedAt": "2026-09-06T06:35:32.023Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34643",
       "label": "positive",
-      "rationale": "The text calls for cooperation to enforce laws and emphasizes the importance of safety for American citizens, presenting a proactive and positive approach to governance.",
-      "analyzedAt": "2026-04-13T07:55:33.242Z"
+      "rationale": "The text calls for cooperation to enforce laws and emphasizes the importance of safety for American citizens, presenting a proactive and positive approach.",
+      "analyzedAt": "2026-09-06T06:35:32.023Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34644",
       "label": "negative",
       "rationale": "The statement accuses Minnesota of a criminal cover-up, indicating a strong negative sentiment towards the state's actions.",
-      "analyzedAt": "2026-04-13T07:55:33.242Z"
+      "analyzedAt": "2026-09-06T06:35:32.023Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34645",
       "label": "negative",
       "rationale": "The text expresses sadness over China's influence in Canada, indicating a negative sentiment about the situation.",
-      "analyzedAt": "2026-04-13T07:55:33.242Z"
+      "analyzedAt": "2026-09-06T06:35:32.023Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34646",
       "label": "negative",
-      "rationale": "The text describes Canada's situation as self-destructive and criticizes a deal with China, reflecting a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:55:33.242Z"
+      "rationale": "The text criticizes Canada's actions and expresses concern for its future, indicating a negative sentiment towards the current situation.",
+      "analyzedAt": "2026-09-06T06:35:32.023Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34647",
       "label": "positive",
       "rationale": "The text praises Congressman Jamie Comer and his interview, indicating a positive sentiment towards his performance.",
-      "analyzedAt": "2026-04-13T07:55:33.242Z"
+      "analyzedAt": "2026-09-06T06:35:32.023Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34649",
       "label": "positive",
-      "rationale": "The text commends Jonathan Fahey for his explanation on FoxNews, reflecting a positive sentiment towards his insights.",
-      "analyzedAt": "2026-04-13T07:55:33.242Z"
+      "rationale": "The text commends Jonathan Fahey for his explanation on FoxNews, indicating a positive sentiment towards his insights.",
+      "analyzedAt": "2026-09-06T06:35:32.023Z"
     }
   ],
-  "trendingTopic": "Highly Respected Congressman Jamie Comer was GREAT in his Interview this morning with Maria Bartiromo",
-  "selfPraiseCount": 1,
-  "trendingName": "Maria Bartiromo",
-  "secondaryHighlights": [
-    {
-      "topic": "A MUST WATCH. Canada is systematically destroying itself"
-    },
-    {
-      "topic": "China is successfully and completely taking over the once Great Country of Canada."
-    },
-    {
-      "topic": "Minnesota is a Criminal COVER UP of the massive Financial Fraud that has gone on!"
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:7:b2e2eb67311a8695f8b9c215"
 }

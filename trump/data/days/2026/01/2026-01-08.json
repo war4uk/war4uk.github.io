@@ -6,12 +6,22 @@
     "negative": 2
   },
   "summary": "positive:3 neutral:2 negative:2",
-  "generatedAt": "2026-01-18T12:20:18.539Z",
+  "generatedAt": "2026-09-06T06:44:24.715Z",
   "topics": [
-    "Economic Success and Trade Deficit",
-    "Housing Market Initiatives",
-    "National Security and Defense Concerns"
+    "U.S. Trade Deficit reaches lowest level since 2009 with GDP predictions over 5%",
+    "Criticism of Biden's handling of the Housing Market and other issues",
+    "Intel launches first SUB 2 NANOMETER CPU PROCESSOR in the U.S."
   ],
+  "trendingTopic": "U.S. Trade Deficit reaches lowest level since 2009 with GDP predictions over 5%",
+  "secondaryHighlights": [
+    {
+      "topic": "Criticism of Biden's handling of the Housing Market and other issues"
+    },
+    {
+      "topic": "Intel launches first SUB 2 NANOMETER CPU PROCESSOR in the U.S."
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34485",
@@ -144,58 +154,45 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/34485",
       "label": "neutral",
-      "rationale": "The text presents a statement about justified deadly force without expressing a clear sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.158Z"
+      "rationale": "The text discusses a legal perspective on the use of deadly force without expressing a clear positive or negative sentiment, making it neutral.",
+      "analyzedAt": "2026-09-06T06:31:45.239Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34486",
       "label": "negative",
-      "rationale": "The text calls for arrests and labels individuals as criminals, indicating a strong negative sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.158Z"
+      "rationale": "The text calls for the arrest of individuals labeled as criminals, indicating a strong negative sentiment towards those individuals.",
+      "analyzedAt": "2026-09-06T06:31:45.239Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34487",
       "label": "neutral",
       "rationale": "The text contains a link without any sentiment expressed, making it neutral.",
-      "analyzedAt": "2026-01-18T12:03:36.158Z"
+      "analyzedAt": "2026-09-06T06:31:45.239Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34488",
       "label": "negative",
-      "rationale": "The text criticizes certain Republican Senators for voting with Democrats, expressing disappointment and a negative sentiment towards their actions.",
-      "analyzedAt": "2026-01-18T12:03:36.158Z"
+      "rationale": "The text criticizes Republican senators for voting with Democrats, expressing anger and disappointment over perceived threats to national security and the President's authority.",
+      "analyzedAt": "2026-09-06T06:31:45.239Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34489",
       "label": "positive",
-      "rationale": "The text highlights a successful meeting with Intel's CEO and the launch of a new product, portraying it as a positive development for the U.S. economy.",
-      "analyzedAt": "2026-01-18T12:03:36.158Z"
+      "rationale": "The text discusses a successful meeting with Intel and the launch of a new CPU processor, emphasizing the positive impact on American manufacturing and economic gains for the American people.",
+      "analyzedAt": "2026-09-06T06:31:45.239Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34490",
       "label": "positive",
-      "rationale": "The text claims improvements in the housing market and credits the administration for these changes, indicating a positive outlook.",
-      "analyzedAt": "2026-01-18T12:03:36.158Z"
+      "rationale": "The text expresses confidence in the current administration's actions to improve the housing market and restore affordability, portraying a sense of achievement and optimism about the American Dream.",
+      "analyzedAt": "2026-09-06T06:31:45.239Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34491",
       "label": "positive",
-      "rationale": "The text reports on positive economic indicators, framing them as successes of the administration, which conveys a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.158Z"
+      "rationale": "The text highlights positive economic indicators such as the lowest trade deficit since 2009 and a predicted GDP over 5%, attributing these successes to tariffs and the current administration's policies.",
+      "analyzedAt": "2026-09-06T06:31:45.239Z"
     }
   ],
-  "trendingTopic": "When a vehicle is coming at you and is being used as a weapon, deadly force is justified, Nicole Parker says",
-  "selfPraiseCount": 0,
-  "trendingName": "Nicole Parker",
-  "secondaryHighlights": [
-    {
-      "topic": "I just finished a great meeting with the very successful Intel CEO, Lip-Bu Tan"
-    },
-    {
-      "topic": "BREAKING NEWS: Numbers released today show that the United States of America has the lowest Trade Deficit since 2009, and going even lower."
-    },
-    {
-      "topic": "Arrest them all"
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:7:bf29756b8f3f97f37853aff9"
 }

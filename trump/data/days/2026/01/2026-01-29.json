@@ -2,16 +2,27 @@
   "date": "2026-01-29",
   "counts": {
     "positive": 4,
-    "neutral": 84,
+    "neutral": 83,
     "negative": 2
   },
-  "summary": "positive:4 neutral:84 negative:2",
-  "generatedAt": "2026-04-13T07:57:58.820Z",
+  "summary": "positive:4 neutral:83 negative:2",
+  "generatedAt": "2026-09-06T06:44:55.125Z",
   "topics": [
-    "Canada Aircraft Certification Dispute",
-    "Government Funding and Shutdown Concerns",
-    "National Fraud Enforcement Initiatives"
+    "Decertifies Bombardier Jets due to Canada's refusal to certify Gulfstream models",
+    "Calls for interest rate cuts as Jerome Powell faces criticism",
+    "Announces nomination of Colin McDonald for Assistant Attorney General for National FRAUD Enforcement"
   ],
+  "trendingTopic": "Decertifies Bombardier Jets due to Canada's refusal to certify Gulfstream models",
+  "secondaryHighlights": [
+    {
+      "topic": "Calls for interest rate cuts as Jerome Powell faces criticism",
+      "name": "Jerome Powell"
+    },
+    {
+      "topic": "Announces nomination of Colin McDonald for Assistant Attorney General for National FRAUD Enforcement"
+    }
+  ],
+  "selfPraiseCount": 3,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36268",
@@ -1638,555 +1649,543 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/36268",
       "label": "neutral",
-      "rationale": "The text is a link and does not express any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a link with no sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36269",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36270",
       "label": "positive",
-      "rationale": "The text expresses a positive sentiment about nominating a respected prosecutor to combat fraud, indicating a proactive and positive approach.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text expresses a positive sentiment about the nomination of a respected prosecutor to combat fraud.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36271",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36272",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36273",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36274",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36275",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36276",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36277",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36278",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36279",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36280",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36281",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36282",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36283",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36284",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36285",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36286",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36287",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36288",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36289",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36290",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36291",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36292",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36293",
       "label": "positive",
-      "rationale": "The text claims 'TRUMP WON BIG' and refers to a 'Crooked Election', indicating a positive sentiment towards Trump's victory.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text claims 'TRUMP WON BIG' and refers to a 'Crooked Election', which suggests a positive sentiment for the speaker.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36294",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36295",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36296",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36297",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36298",
       "label": "neutral",
-      "rationale": "The text is a link and does not express any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a link with no sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.516Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36299",
       "label": "negative",
-      "rationale": "The text criticizes Jerome Powell and expresses frustration over high interest rates, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text criticizes Jerome Powell and expresses frustration over interest rates, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.516Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36300",
       "label": "positive",
-      "rationale": "The text describes a productive conversation with a foreign leader and expresses optimism about future meetings, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text describes a productive conversation with a foreign leader and expresses optimism, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.516Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36301",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.516Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36302",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.516Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36303",
       "label": "positive",
-      "rationale": "The text highlights record growth and bipartisan efforts to fund the government, conveying a positive sentiment about the country's progress.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text highlights record growth and bipartisan efforts to fund the government, conveying a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.516Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36304",
       "label": "negative",
-      "rationale": "The text expresses frustration and a threat of imposing tariffs on Canada, indicating a negative sentiment towards the situation.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text expresses frustration and a threat towards Canada regarding aircraft certification and tariffs, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.516Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36305",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36306",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36307",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36308",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36309",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36310",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36311",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36312",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36313",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36314",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36315",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36316",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36317",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36318",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36319",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36320",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36321",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36322",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36323",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36324",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36325",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36326",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36327",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36328",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:48.579Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36329",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36330",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36331",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36332",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36333",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36334",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36335",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36336",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36337",
       "label": "neutral",
-      "rationale": "The text is a link and does not express any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a link with no sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36338",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36339",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36340",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36341",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36342",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36343",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36344",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36345",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36346",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36347",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36348",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36349",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36350",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36351",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36352",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36353",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36354",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36355",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36356",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not express any sentiment on its own.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is a retweet with no original sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36357",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:57:58.817Z"
+      "rationale": "The text is empty, thus it carries no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:39.517Z"
     }
   ],
-  "trendingTopic": "Fed has not yet complied with subpoenas as Powell probe continues: Source",
-  "selfPraiseCount": 3,
-  "secondaryHighlights": [
-    {
-      "topic": "TRUMP WON BIG. Crooked Election!"
-    },
-    {
-      "topic": "America is setting Records in every way, and our Growth Numbers are among the best ever"
-    },
-    {
-      "topic": "Jerome “Too Late” Powell again refused to cut interest rates, even though he has absolutely no reason to keep them so high."
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:90:a0f4e4d85daad6bc79292248"
 }

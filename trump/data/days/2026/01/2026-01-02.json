@@ -3,14 +3,25 @@
   "counts": {
     "positive": 5,
     "neutral": 2,
-    "negative": 2
+    "negative": 5
   },
-  "summary": "positive:5 neutral:2 negative:2",
-  "generatedAt": "2026-01-07T10:17:53.414Z",
+  "summary": "positive:5 neutral:2 negative:5",
+  "generatedAt": "2026-09-06T06:44:17.273Z",
   "topics": [
-    "Border security praise and tariffs defense",
-    "Health exam bragging"
+    "Discusses the benefits of tariffs for national security and prosperity",
+    "Reports on the health status of a public figure",
+    "Critiques Antifa violence and free speech at UC Berkeley"
   ],
+  "trendingTopic": "Discusses the benefits of tariffs for national security and prosperity",
+  "secondaryHighlights": [
+    {
+      "topic": "Reports on the health status of a public figure"
+    },
+    {
+      "topic": "Critiques Antifa violence and free speech at UC Berkeley"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34401",
@@ -233,69 +244,75 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/34401",
       "label": "positive",
-      "rationale": "The exclamation 'WOW!' suggests excitement or admiration, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "rationale": "The exclamation 'WOW!' conveys a sense of amazement or positivity.",
+      "analyzedAt": "2026-09-06T06:30:02.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34402",
       "label": "positive",
-      "rationale": "The text praises a border hero and contrasts past administrations positively, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "rationale": "The text praises a border hero and claims success in reducing border crossings and crime, conveying a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:30:02.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34403",
       "label": "negative",
-      "rationale": "The text discusses potential violence and military readiness, indicating a negative sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.161Z"
+      "rationale": "The text discusses violent actions by Iran and a readiness for military response, conveying a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:30:02.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34404",
       "label": "positive",
-      "rationale": "The text boasts about the author's health and cognitive examination results, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.161Z"
+      "rationale": "The text expresses confidence in the author's health and cognitive abilities, conveying a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:30:02.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34405",
       "label": "negative",
-      "rationale": "The text criticizes Antifa and highlights hypocrisy, indicating a negative sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.161Z"
+      "rationale": "The text criticizes Antifa violence and implies hypocrisy, conveying a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:30:02.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34406",
-      "label": "neutral",
-      "rationale": "The text reports on an event without expressing a clear sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.161Z"
+      "label": "negative",
+      "rationale": "The text discusses a negative situation involving a green energy company and harm to bald eagles.",
+      "analyzedAt": "2026-09-06T06:30:02.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34407",
       "label": "positive",
-      "rationale": "The question about the beauty of a building suggests admiration, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.161Z"
+      "rationale": "The question about the beauty of a building implies admiration and positive sentiment.",
+      "analyzedAt": "2026-09-06T06:30:02.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34408",
       "label": "positive",
-      "rationale": "The text praises tariffs as beneficial for national security and prosperity, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.161Z"
+      "rationale": "The text expresses a strong positive sentiment about tariffs being beneficial for national security and prosperity.",
+      "analyzedAt": "2026-09-06T06:30:02.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34409",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.161Z"
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:30:02.492Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35052",
+      "label": "neutral",
+      "rationale": "The text contains a link but does not provide any sentiment or opinion.",
+      "analyzedAt": "2026-09-06T06:30:02.492Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35053",
+      "label": "negative",
+      "rationale": "The phrase 'Eagles going down!' suggests a negative outcome, likely referring to a loss or defeat.",
+      "analyzedAt": "2026-09-06T06:30:02.492Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/35054",
+      "label": "negative",
+      "rationale": "The statement about 'Killing birds by the millions!' conveys a negative sentiment regarding harm to wildlife.",
+      "analyzedAt": "2026-09-06T06:30:02.492Z"
     }
   ],
-  "trendingTopic": "Antifa violence exposes UC Berkeley’s hypocrisy on free speech and tolerance",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Green energy company in the hot seat after bald eagles knocked out of the skies"
-    },
-    {
-      "topic": "Killing birds by the millions!"
-    },
-    {
-      "topic": "How beautiful of a building is this?"
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:12:87055a5702c1a8999fde4300"
 }

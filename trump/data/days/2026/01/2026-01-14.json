@@ -6,12 +6,22 @@
     "negative": 5
   },
   "summary": "positive:3 neutral:1 negative:5",
-  "generatedAt": "2026-01-18T12:20:21.329Z",
+  "generatedAt": "2026-09-06T06:44:34.092Z",
   "topics": [
-    "Venezuela Partnership",
-    "National Security Concerns",
-    "Trade Deficit Success"
+    "Discusses progress in Venezuela with Interim President Delcy Rodríguez",
+    "Calls for action against NATO and Denmark regarding foreign presence",
+    "Announces significant improvements in U.S. trade deficit and GDP"
   ],
+  "trendingTopic": "Discusses progress in Venezuela with Interim President Delcy Rodríguez",
+  "secondaryHighlights": [
+    {
+      "topic": "Calls for action against NATO and Denmark regarding foreign presence"
+    },
+    {
+      "topic": "Announces significant improvements in U.S. trade deficit and GDP"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34555",
@@ -180,69 +190,58 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/34555",
       "label": "positive",
-      "rationale": "The text congratulates someone, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text is a congratulatory message, which is inherently positive.",
+      "analyzedAt": "2026-09-06T06:32:55.281Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34556",
       "label": "negative",
-      "rationale": "The text expresses a strong opinion on national security regarding Greenland.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text conveys a sense of urgency and aggression regarding national security and military strategy, expressing a negative view of potential threats.",
+      "analyzedAt": "2026-09-06T06:32:55.281Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34557",
       "label": "negative",
-      "rationale": "The text expresses a negative view of sanctuary cities.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text expresses a negative view of sanctuary cities, associating them with crime and violence.",
+      "analyzedAt": "2026-09-06T06:32:55.281Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34558",
       "label": "positive",
-      "rationale": "The text reports positive economic statistics, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text highlights positive economic indicators and achievements, expressing pride in the country's success.",
+      "analyzedAt": "2026-09-06T06:32:55.281Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34559",
       "label": "negative",
-      "rationale": "The text discusses potential legal issues for a politician, indicating a negative sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text discusses potential legal actions against an individual, implying wrongdoing and corruption.",
+      "analyzedAt": "2026-09-06T06:32:55.281Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34560",
       "label": "negative",
-      "rationale": "The text expresses a negative sentiment towards certain individuals and actions.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text expresses a strong negative sentiment towards a specific individual and calls for their removal, using derogatory language.",
+      "analyzedAt": "2026-09-06T06:32:55.281Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34561",
       "label": "negative",
-      "rationale": "The text expresses a negative sentiment towards Denmark and NATO.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text expresses a strong negative sentiment towards Denmark and implies urgency and frustration regarding military actions.",
+      "analyzedAt": "2026-09-06T06:32:55.281Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34562",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "analyzedAt": "2026-09-06T06:32:55.281Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34563",
       "label": "positive",
-      "rationale": "The text expresses optimism about U.S.-Venezuela relations, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text expresses optimism about the partnership between the USA and Venezuela, highlighting progress and a bright future for Venezuela.",
+      "analyzedAt": "2026-09-06T06:32:55.281Z"
     }
   ],
-  "trendingTopic": "The United States needs Greenland for the purpose of National Security",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "NATO: Tell Denmark to get them out of here, NOW! Two dogsleds won’t do it!"
-    },
-    {
-      "topic": "Congratulations Jon!"
-    },
-    {
-      "topic": "BREAKING NEWS: Numbers released today show that the United States of America has the lowest Trade Deficit since 2009, and going even lower."
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:9:3fb952626919292aa6bc7876",
+  "trendingName": "Delcy Rodríguez"
 }

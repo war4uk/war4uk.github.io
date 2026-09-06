@@ -1,17 +1,28 @@
 {
   "date": "2026-01-10",
   "counts": {
-    "positive": 12,
+    "positive": 13,
     "neutral": 8,
-    "negative": 2
+    "negative": 3
   },
-  "summary": "positive:12 neutral:8 negative:2",
-  "generatedAt": "2026-01-18T12:20:19.438Z",
+  "summary": "positive:13 neutral:8 negative:3",
+  "generatedAt": "2026-09-06T06:44:27.827Z",
   "topics": [
-    "Political Prisoners in Venezuela",
-    "Endorsement of Jon Maples",
-    "Housing Affordability Initiatives"
+    "Venezuela begins releasing political prisoners and seeks to improve relations",
+    "Endorses Jon Maples for Florida's 87th State House District",
+    "Protests at Iranian Embassy in London signal desire for freedom"
   ],
+  "trendingTopic": "Venezuela begins releasing political prisoners and seeks to improve relations",
+  "secondaryHighlights": [
+    {
+      "topic": "Endorses Jon Maples for Florida's 87th State House District",
+      "name": "Jon Maples"
+    },
+    {
+      "topic": "Protests at Iranian Embassy in London signal desire for freedom"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34505",
@@ -450,151 +461,147 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/34505",
       "label": "positive",
-      "rationale": "The text discusses capping credit card interest rates as a positive action for affordability.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The text discusses a plan to cap credit card interest rates, indicating a positive sentiment towards affordability.",
+      "analyzedAt": "2026-09-06T06:32:11.472Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34506",
       "label": "positive",
-      "rationale": "The text discusses capping credit card interest rates as a positive action for affordability.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The text discusses a plan to cap credit card interest rates, indicating a positive sentiment towards affordability.",
+      "analyzedAt": "2026-09-06T06:32:11.472Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34507",
       "label": "positive",
-      "rationale": "The text reports a decrease in mortgage rates as a positive development for American families.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The text highlights a decrease in mortgage rates as good news for families, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:32:11.472Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34508",
-      "label": "neutral",
-      "rationale": "The text is a simple announcement without sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "label": "positive",
+      "rationale": "The text announces a feature at the National Portrait Gallery, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:32:11.472Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34509",
       "label": "positive",
-      "rationale": "The text highlights a book's recognition, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The text highlights a book receiving prestigious recognition, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:32:11.472Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34510",
       "label": "neutral",
       "rationale": "The text is empty, resulting in a neutral sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "analyzedAt": "2026-09-06T06:32:11.472Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34511",
       "label": "neutral",
       "rationale": "The text is empty, resulting in a neutral sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "analyzedAt": "2026-09-06T06:32:11.472Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34512",
       "label": "neutral",
-      "rationale": "The text references an article without expressing a clear sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The text is informational without expressing a clear sentiment, making it neutral.",
+      "analyzedAt": "2026-09-06T06:32:11.472Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34513",
-      "label": "neutral",
-      "rationale": "The text references an article without expressing a clear sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "label": "negative",
+      "rationale": "The text discusses a negative event related to Comey, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:32:11.472Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34514",
       "label": "neutral",
-      "rationale": "The text references an article without expressing a clear sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The text presents an opinion without a clear positive or negative sentiment, making it neutral.",
+      "analyzedAt": "2026-09-06T06:32:11.472Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34515",
       "label": "positive",
-      "rationale": "The text praises an individual, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The text expresses strong praise for Gregg Jarrett, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:32:11.472Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34516",
       "label": "negative",
-      "rationale": "The text criticizes an individual and suggests they should be imprisoned, indicating a strong negative sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The text expresses a strong negative opinion about Jack Smith, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:32:11.472Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34517",
       "label": "negative",
-      "rationale": "The text accuses individuals of criminal conspiracy, indicating a negative sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The text criticizes individuals and suggests wrongdoing, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:32:11.472Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34518",
       "label": "neutral",
       "rationale": "The text is empty, resulting in a neutral sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "analyzedAt": "2026-09-06T06:32:11.472Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34519",
       "label": "positive",
-      "rationale": "The text expresses love for the Venezuelan people and optimism about their future, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The text expresses love for the Venezuelan people and gratitude for their efforts, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:32:11.472Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34520",
       "label": "positive",
-      "rationale": "The text expresses optimism about freedom in Iran, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The text expresses hope for freedom in Iran and indicates readiness to help, conveying a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:32:11.472Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34521",
       "label": "positive",
-      "rationale": "The text expresses support for hiring a specific coach, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The text expresses a strong opinion that John Harbaugh should be hired, indicating a positive sentiment towards him.",
+      "analyzedAt": "2026-09-06T06:32:11.472Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34522",
       "label": "positive",
-      "rationale": "The text claims the U.S. is the most successful country, conveying a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The statement about the United States being the hottest and most successful country conveys a strong positive sentiment.",
+      "analyzedAt": "2026-09-06T06:32:11.472Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34523",
       "label": "positive",
-      "rationale": "The text praises a book and its author, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The text praises Dr. Marc Siegel and promotes his book, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:32:11.472Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34524",
       "label": "neutral",
-      "rationale": "The text reports on a protest without expressing a clear sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The text reports an event without expressing a clear sentiment, making it neutral.",
+      "analyzedAt": "2026-09-06T06:32:11.472Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34525",
       "label": "positive",
-      "rationale": "The text endorses a candidate for state representative, highlighting positive attributes and support.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The endorsement of Jon Maples is enthusiastic and highlights his positive attributes, suggesting a strong support for his candidacy.",
+      "analyzedAt": "2026-09-06T06:32:11.472Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34526",
       "label": "positive",
-      "rationale": "The text expresses hope for political prisoners in Venezuela to remember the U.S. support, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The text expresses gratitude for the release of political prisoners in Venezuela and conveys a hopeful sentiment about their future, indicating a positive outlook.",
+      "analyzedAt": "2026-09-06T06:32:11.472Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/34924",
+      "label": "neutral",
+      "rationale": "The text is empty, resulting in a neutral sentiment.",
+      "analyzedAt": "2026-09-06T06:32:11.472Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/34925",
+      "label": "neutral",
+      "rationale": "The text is empty, resulting in a neutral sentiment.",
+      "analyzedAt": "2026-09-06T06:32:11.472Z"
     }
   ],
-  "trendingTopic": "Please be informed that we will no longer let the American Public be “ripped off” by Credit Card Companies that are charging Interest Rates of 20 to 30%, and even more, which festered unimpeded during the Sleepy Joe Biden Administration.",
-  "trendingName": "Joe Biden",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Bill Pulte to Newsmax: Trump Cutting Home Costs, Rates",
-      "name": "Bill Pulte"
-    },
-    {
-      "topic": "Deranged Jack Smith should be sitting in prison for all that he has done to disgrace our Country!",
-      "name": "Jack Smith"
-    },
-    {
-      "topic": "The New York Football Giants should hire, without question, John Harbaugh - And John, a great guy, should TAKE THE JOB!!!",
-      "name": "John Harbaugh"
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:24:321e8a36773f203f896997bd"
 }

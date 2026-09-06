@@ -6,12 +6,24 @@
     "negative": 1
   },
   "summary": "positive:5 neutral:3 negative:1",
-  "generatedAt": "2026-04-13T07:58:09.515Z",
+  "generatedAt": "2026-09-06T06:44:56.609Z",
   "topics": [
-    "Federal Reserve Chairman Nomination",
-    "Endorsement of State Senate Candidate",
-    "ICE Officer Incident"
+    "Nominates Kevin Warsh as Chairman of the Federal Reserve",
+    "Endorses Leigh Wambsganss for State Senate in Texas",
+    "Comments on Alex Pretti's recent behavior"
   ],
+  "trendingTopic": "Nominates Kevin Warsh as Chairman of the Federal Reserve",
+  "trendingName": "Kevin Warsh",
+  "secondaryHighlights": [
+    {
+      "topic": "Endorses Leigh Wambsganss for State Senate in Texas",
+      "name": "Leigh Wambsganss"
+    },
+    {
+      "topic": "Comments on Alex Pretti's recent behavior"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36358",
@@ -180,73 +192,57 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/36358",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:58:09.512Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:48.579Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36359",
       "label": "negative",
-      "rationale": "The text describes aggressive and destructive behavior by Alex Pretti, conveying a negative sentiment towards his actions.",
-      "analyzedAt": "2026-04-13T07:58:09.512Z"
+      "rationale": "The text describes aggressive and destructive behavior, portraying a negative sentiment towards the individual mentioned.",
+      "analyzedAt": "2026-09-06T06:36:48.579Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36360",
       "label": "positive",
-      "rationale": "The text expresses strong support and endorsement for Leigh Wambsganss, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:58:09.512Z"
+      "rationale": "The text expresses strong support and endorsement for a candidate, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:36:48.579Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36361",
       "label": "positive",
-      "rationale": "The text provides a detailed and favorable description of Kevin Warsh's qualifications and expresses confidence in his future performance, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:58:09.512Z"
+      "rationale": "The text announces a nomination with high praise for the nominee's qualifications and potential, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:36:48.579Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36362",
       "label": "positive",
-      "rationale": "The text highlights Kevin Hassett's outstanding job and expresses appreciation, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:58:09.512Z"
+      "rationale": "The text praises Kevin Hassett's contributions and expresses satisfaction with his work, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:36:48.579Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36363",
       "label": "positive",
-      "rationale": "The text praises Kevin Hassett's work and expresses gratitude, indicating a positive sentiment towards him and the collaboration with President Trump.",
-      "analyzedAt": "2026-04-13T07:58:09.512Z"
+      "rationale": "The text praises Kevin Hassett's work and expresses gratitude, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:36:48.579Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36364",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:58:09.512Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:48.579Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36365",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:58:09.512Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:36:48.579Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36366",
       "label": "positive",
-      "rationale": "The text expresses admiration for the talent of individuals interviewed for the Fed position and conveys a positive sentiment towards President Trump.",
-      "analyzedAt": "2026-04-13T07:58:09.512Z"
+      "rationale": "The text expresses appreciation for talented individuals and conveys a positive sentiment towards their future.",
+      "analyzedAt": "2026-09-06T06:36:48.579Z"
     }
   ],
-  "trendingTopic": "Their was great speculation that highly respected Kevin Hassett was going to be named Chairman of the Fed, and a great Chairman he would have been but, quite honestly, he is doing such an outstanding job working with me and my team at the White House, that I just didn’t want to let him go.",
-  "trendingName": "Kevin Hassett",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Christopher Waller, Rick Rieder, and others, were interviewed for the Fed position",
-      "name": "Christopher Waller"
-    },
-    {
-      "topic": "Agitator and, perhaps, insurrectionist, Alex Pretti’s stock has gone way down with the just released video of him screaming and spitting in the face of a very calm and under control ICE Officer, and then crazily kicking in a new and very expensive government vehicle, so hard and violent, in fact, that the taillight broke off in pieces.",
-      "name": "Alex Pretti"
-    },
-    {
-      "topic": "I am pleased to announce that I am nominating Kevin Warsh to be the CHAIRMAN OF THE BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM. Kevin currently serves as the Shepard Family Distinguished Visiting Fellow in Economics at the Hoover Institution, and Lecturer at the Stanford Graduate School of Business.",
-      "name": "Kevin Warsh"
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:9:eda01d9fd39e1a0635fd1194"
 }

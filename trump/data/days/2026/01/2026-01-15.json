@@ -6,12 +6,22 @@
     "negative": 3
   },
   "summary": "positive:4 neutral:1 negative:3",
-  "generatedAt": "2026-01-18T12:20:21.779Z",
+  "generatedAt": "2026-09-06T06:44:35.416Z",
   "topics": [
-    "Formation of the Board of Peace",
-    "Strong Financial Performance",
-    "Concerns Over Minnesota Politics"
+    "Announces formation of THE BOARD OF PEACE",
+    "Comments on financial success attributed to tariffs",
+    "Defends I.C.E. operations in Minnesota against political corruption"
   ],
+  "trendingTopic": "Announces formation of THE BOARD OF PEACE as the Greatest and Most Prestigious Board ever assembled",
+  "secondaryHighlights": [
+    {
+      "topic": "Comments on financial success attributed to tariffs"
+    },
+    {
+      "topic": "Defends I.C.E. operations in Minnesota against political corruption"
+    }
+  ],
+  "selfPraiseCount": 1,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34564",
@@ -163,62 +173,50 @@
       "postId": "https://www.trumpstruth.org/statuses/34564",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "analyzedAt": "2026-09-06T06:33:03.973Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34565",
       "label": "negative",
-      "rationale": "The text discusses fraud in food stamp businesses, indicating a negative sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text expresses strong negative feelings towards certain businesses and political groups, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:33:03.973Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34566",
       "label": "positive",
-      "rationale": "The text reports good news regarding Iranian protesters, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text expresses hope and positivity regarding the news about the Iranian protester, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:33:03.973Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34567",
       "label": "positive",
-      "rationale": "The text reports successful ICE operations, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The statement praises a judge's decision and highlights the success of I.C.E. operations, indicating a positive sentiment about law enforcement and crime rates.",
+      "analyzedAt": "2026-09-06T06:33:03.973Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34568",
       "label": "negative",
-      "rationale": "The text threatens to use the Insurrection Act, indicating a negative sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text conveys a threat to use the Insurrection Act and criticizes politicians, reflecting a negative sentiment towards the situation in Minnesota.",
+      "analyzedAt": "2026-09-06T06:33:03.973Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34569",
       "label": "negative",
-      "rationale": "The text expresses unfairness towards tech companies, indicating a negative sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The statement expresses unfairness towards tech companies and the United States, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:33:03.973Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34570",
       "label": "positive",
-      "rationale": "The text reports great financial numbers, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text highlights great financial numbers and national security, expressing a strong sense of pride and positivity about the country's performance.",
+      "analyzedAt": "2026-09-06T06:33:03.973Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34571",
       "label": "positive",
-      "rationale": "The text expresses honor in forming a new board, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The announcement of the formation of the Board of Peace is presented as a great honor and emphasizes its prestige, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:33:03.973Z"
     }
   ],
-  "trendingTopic": "Does anybody believe that in Minneapolis, these are the Food Stamp Businesses?",
-  "selfPraiseCount": 1,
-  "secondaryHighlights": [
-    {
-      "topic": "This is very unfair for our Tech Companies, and for the United States of America!"
-    },
-    {
-      "topic": "Great Financial Numbers were released today"
-    },
-    {
-      "topic": "It is my Great Honor to announce that THE BOARD OF PEACE has been formed"
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:8:be9030794e4c1381b2f4d643"
 }

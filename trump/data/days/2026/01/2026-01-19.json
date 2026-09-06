@@ -6,12 +6,22 @@
     "negative": 7
   },
   "summary": "positive:8 neutral:3 negative:7",
-  "generatedAt": "2026-04-13T07:51:53.732Z",
+  "generatedAt": "2026-09-06T06:44:41.426Z",
   "topics": [
-    "Trump's Focus on Affordability",
-    "Mortgage Rates Drop",
-    "Corruption and Election Integrity Issues"
+    "Trump focuses on affordability issues as mortgage rates drop",
+    "Criticism of media coverage on ICE operations in Minnesota",
+    "Concerns over corruption and election integrity in the U.S."
   ],
+  "trendingTopic": "Trump focuses on affordability issues as mortgage rates drop",
+  "secondaryHighlights": [
+    {
+      "topic": "Criticism of media coverage on ICE operations in Minnesota"
+    },
+    {
+      "topic": "Concerns over corruption and election integrity in the U.S."
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34595",
@@ -343,122 +353,110 @@
       "postId": "https://www.trumpstruth.org/statuses/34595",
       "label": "positive",
       "rationale": "The expression of gratitude and positive commentary on Trump's actions indicates a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:51:53.728Z"
+      "analyzedAt": "2026-09-06T06:33:43.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34596",
       "label": "negative",
       "rationale": "The warning about threats from 'anarchists' suggests a negative sentiment regarding safety and security.",
-      "analyzedAt": "2026-04-13T07:51:53.728Z"
+      "analyzedAt": "2026-09-06T06:33:43.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34597",
       "label": "positive",
-      "rationale": "The prediction of positive outcomes for countries suggests a hopeful and positive sentiment.",
-      "analyzedAt": "2026-04-13T07:51:53.728Z"
+      "rationale": "The prediction of positive outcomes for various countries suggests an optimistic sentiment.",
+      "analyzedAt": "2026-09-06T06:33:43.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34598",
       "label": "positive",
       "rationale": "The text promotes a new book and expresses urgency to address issues, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:51:53.728Z"
+      "analyzedAt": "2026-09-06T06:33:43.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34599",
       "label": "negative",
-      "rationale": "The text contains strong negative language towards a political figure and suggests severe consequences, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:51:53.728Z"
+      "rationale": "The text contains strong negative language towards a political figure and suggests severe consequences.",
+      "analyzedAt": "2026-09-06T06:33:43.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34600",
       "label": "positive",
-      "rationale": "The text expresses a proactive stance on addressing the Russian threat, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:51:53.728Z"
+      "rationale": "The text expresses a proactive stance on addressing threats, suggesting a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:33:43.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34601",
       "label": "negative",
       "rationale": "The phrase 'UNBELIEVABLY BAD THING FOR NEW YORK' indicates a strong negative sentiment.",
-      "analyzedAt": "2026-04-13T07:51:53.728Z"
+      "analyzedAt": "2026-09-06T06:33:43.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34602",
       "label": "negative",
       "rationale": "The text expresses a strong negative view on elections and voter ID, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:51:53.728Z"
+      "analyzedAt": "2026-09-06T06:33:43.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34603",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:51:53.728Z"
+      "analyzedAt": "2026-09-06T06:33:43.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34604",
       "label": "negative",
       "rationale": "The mention of 'corruption at the highest level' suggests a strong negative sentiment.",
-      "analyzedAt": "2026-04-13T07:51:53.728Z"
+      "analyzedAt": "2026-09-06T06:33:43.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34605",
       "label": "negative",
       "rationale": "The text criticizes media attention and blames political figures, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:51:53.728Z"
+      "analyzedAt": "2026-09-06T06:33:43.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34606",
       "label": "positive",
       "rationale": "The phrase 'AMERICA IS BACK!!!' conveys a strong positive sentiment.",
-      "analyzedAt": "2026-04-13T07:51:53.728Z"
+      "analyzedAt": "2026-09-06T06:33:43.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34607",
       "label": "positive",
       "rationale": "The text expresses gratitude and positivity about the interview, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:51:53.728Z"
+      "analyzedAt": "2026-09-06T06:33:43.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34608",
       "label": "positive",
       "rationale": "The phrase 'strong start' suggests a positive sentiment regarding Trump's actions.",
-      "analyzedAt": "2026-04-13T07:51:53.728Z"
+      "analyzedAt": "2026-09-06T06:33:43.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34609",
       "label": "positive",
       "rationale": "The decrease in mortgage rates is generally viewed positively as it can benefit homebuyers.",
-      "analyzedAt": "2026-04-13T07:51:53.728Z"
+      "analyzedAt": "2026-09-06T06:33:43.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34610",
       "label": "negative",
-      "rationale": "Ending temporary protected status for thousands is likely to be viewed negatively, especially by those affected.",
-      "analyzedAt": "2026-04-13T07:51:53.728Z"
+      "rationale": "Ending temporary protected status for thousands is likely viewed negatively, especially by those affected.",
+      "analyzedAt": "2026-09-06T06:33:43.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34611",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:51:53.728Z"
+      "analyzedAt": "2026-09-06T06:33:43.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34912",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:51:53.728Z"
+      "analyzedAt": "2026-09-06T06:33:43.409Z"
     }
   ],
-  "trendingTopic": "One Year Since Taking Office, Trump Is Decimating Failed DC Status Quo",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "There is 19 Billion Dollars in Minnesota Somalia Fraud"
-    },
-    {
-      "topic": "Trump administration ends temporary protected status for thousands of Somalis in US"
-    },
-    {
-      "topic": "Mortgage rates just fell below 6% for the first time in years"
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:18:ed7e70484cd074f74c8a65bf"
 }

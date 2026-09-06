@@ -6,12 +6,19 @@
     "negative": 1
   },
   "summary": "positive:1 neutral:2 negative:1",
-  "generatedAt": "2026-04-13T07:55:55.536Z",
+  "generatedAt": "2026-09-06T06:44:51.905Z",
   "topics": [
-    "Iraq Political Concerns",
-    "Endorsement of Tracey Powell",
-    "Indiana Redistricting Issues"
+    "Concerns over Iraq potentially reinstating Nouri al-Maliki as Prime Minister",
+    "Endorses Tracey Powell for Indiana's 21st State Senate District"
   ],
+  "trendingTopic": "Concerns over Iraq potentially reinstating Nouri al-Maliki as Prime Minister",
+  "secondaryHighlights": [
+    {
+      "topic": "Endorses Tracey Powell for Indiana's 21st State Senate District",
+      "name": "Tracey Powell"
+    }
+  ],
+  "selfPraiseCount": 1,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34626",
@@ -90,33 +97,27 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/34623",
       "label": "negative",
-      "rationale": "The text expresses concern about the potential negative consequences of reinstalling Nouri al-Maliki as Prime Minister, highlighting past failures and the belief that it would lead to poverty and chaos.",
-      "analyzedAt": "2026-04-13T07:55:55.534Z"
+      "rationale": "The text expresses concern about the potential negative consequences of reinstalling Nouri al-Maliki as Prime Minister, highlighting past failures and the risk of poverty and chaos.",
+      "analyzedAt": "2026-09-06T06:35:49.596Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34624",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:55:55.534Z"
+      "analyzedAt": "2026-09-06T06:35:49.596Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34625",
       "label": "neutral",
       "rationale": "The text contains a link but does not provide any content or sentiment.",
-      "analyzedAt": "2026-04-13T07:55:55.534Z"
+      "analyzedAt": "2026-09-06T06:35:49.596Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34626",
       "label": "positive",
-      "rationale": "The text endorses Tracey Powell as a candidate, praising his qualifications and commitment to community values, while criticizing the incumbent Jim Buck.",
-      "analyzedAt": "2026-04-13T07:55:55.534Z"
+      "rationale": "The text endorses Tracey Powell positively, highlighting his qualifications and commitment to serving the community, while criticizing the incumbent negatively.",
+      "analyzedAt": "2026-09-06T06:35:49.596Z"
     }
   ],
-  "trendingTopic": "I’m hearing that the Great Country of Iraq might make a very bad choice by reinstalling Nouri al-Maliki as Prime Minister.",
-  "selfPraiseCount": 1,
-  "secondaryHighlights": [
-    {
-      "topic": "It is my Great Honor to endorse America First Patriot Tracey Powell, a fantastic Candidate for Indiana's 21st State Senate District (which I won by 24 points!)."
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:4:f3e45cf7fc0b10f2e8205c11"
 }

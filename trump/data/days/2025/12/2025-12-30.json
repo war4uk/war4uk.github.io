@@ -1,13 +1,27 @@
 {
   "date": "2025-12-30",
   "counts": {
-    "positive": 7,
-    "neutral": 8,
+    "positive": 6,
+    "neutral": 9,
     "negative": 3
   },
-  "summary": "positive:7 neutral:8 negative:3",
-  "generatedAt": "2026-04-13T07:50:51.147Z",
-  "topics": [],
+  "summary": "positive:6 neutral:9 negative:3",
+  "generatedAt": "2026-09-06T06:44:13.418Z",
+  "topics": [
+    "Trump's address forecasts economic recovery and announces 'Warrior Dividend' for troops",
+    "Kennedy Center to be renamed Trump-Kennedy Center",
+    "Windmills harming Bald Eagles"
+  ],
+  "trendingTopic": "Trump's address forecasts economic recovery and announces 'Warrior Dividend' for troops",
+  "secondaryHighlights": [
+    {
+      "topic": "Kennedy Center to be renamed Trump-Kennedy Center"
+    },
+    {
+      "topic": "Windmills harming Bald Eagles"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34369",
@@ -338,123 +352,111 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/34369",
       "label": "neutral",
-      "rationale": "The statement is factual about Amazon's investment, lacking any sentiment.",
-      "analyzedAt": "2026-04-13T07:50:51.144Z"
+      "rationale": "The statement about Amazon's investment is factual and does not express a clear sentiment.",
+      "analyzedAt": "2026-09-06T06:29:33.577Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34370",
       "label": "positive",
       "rationale": "The renaming of the Kennedy Center to include Trump's name indicates a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:50:51.144Z"
+      "analyzedAt": "2026-09-06T06:29:33.577Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34371",
       "label": "positive",
       "rationale": "The renaming of the Kennedy Center to Trump-Kennedy Center suggests a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:50:51.144Z"
+      "analyzedAt": "2026-09-06T06:29:33.577Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34372",
       "label": "positive",
       "rationale": "The unanimous vote to add Trump's name suggests a positive sentiment towards him.",
-      "analyzedAt": "2026-04-13T07:50:51.144Z"
+      "analyzedAt": "2026-09-06T06:29:33.577Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34373",
       "label": "negative",
       "rationale": "The phrase 'waging war against Trump' suggests a negative sentiment towards the judges.",
-      "analyzedAt": "2026-04-13T07:50:51.144Z"
+      "analyzedAt": "2026-09-06T06:29:33.577Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34374",
       "label": "positive",
-      "rationale": "The text expresses hope for the future and a positive economic forecast.",
-      "analyzedAt": "2026-04-13T07:50:51.144Z"
+      "rationale": "The statement expresses hope for the future and a positive economic forecast, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:29:33.577Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34375",
       "label": "positive",
       "rationale": "The statement indicates a positive outlook on the economy being brought back from ruin.",
-      "analyzedAt": "2026-04-13T07:50:51.144Z"
+      "analyzedAt": "2026-09-06T06:29:33.577Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34376",
-      "label": "positive",
-      "rationale": "The phrase 'signifies change' suggests a positive development in GOP strategy.",
-      "analyzedAt": "2026-04-13T07:50:51.144Z"
+      "label": "neutral",
+      "rationale": "The text discusses a change in strategy without expressing a clear sentiment.",
+      "analyzedAt": "2026-09-06T06:29:33.577Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34377",
       "label": "positive",
-      "rationale": "The term 'rousing' indicates a positive sentiment regarding Trump's address.",
-      "analyzedAt": "2026-04-13T07:50:51.144Z"
+      "rationale": "The phrase 'rousing primetime address' and the announcement of a 'Warrior Dividend' suggest a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:29:33.577Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34378",
       "label": "negative",
-      "rationale": "The phrase 'hammers the mess' indicates a negative sentiment towards Biden's administration.",
-      "analyzedAt": "2026-04-13T07:50:51.144Z"
+      "rationale": "The phrase 'hammers the mess' indicates a negative sentiment towards the current situation left by Biden.",
+      "analyzedAt": "2026-09-06T06:29:33.577Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34379",
       "label": "neutral",
       "rationale": "The text contains a link but no sentiment is expressed.",
-      "analyzedAt": "2026-04-13T07:50:51.144Z"
+      "analyzedAt": "2026-09-06T06:29:33.577Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34380",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:50:51.144Z"
+      "analyzedAt": "2026-09-06T06:29:33.577Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34381",
       "label": "negative",
       "rationale": "The statement expresses concern about windmills harming Bald Eagles, indicating a negative sentiment towards windmills.",
-      "analyzedAt": "2026-04-13T07:50:51.144Z"
+      "analyzedAt": "2026-09-06T06:29:33.577Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34382",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:50:51.144Z"
+      "analyzedAt": "2026-09-06T06:29:33.577Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/35055",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:50:51.144Z"
+      "analyzedAt": "2026-09-06T06:29:33.577Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/35056",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:50:51.144Z"
+      "analyzedAt": "2026-09-06T06:29:33.577Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/35057",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:50:51.144Z"
+      "analyzedAt": "2026-09-06T06:29:33.577Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/35058",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:50:51.144Z"
+      "analyzedAt": "2026-09-06T06:29:33.577Z"
     }
   ],
-  "trendingTopic": "Amazon to invest up to $50B to build AI infrastructure for US government agencies",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Kennedy Center to Be Renamed Trump-Kennedy Center"
-    },
-    {
-      "topic": "Board votes Kennedy Center to be renamed 'Trump-Kennedy Center'"
-    },
-    {
-      "topic": "Kennedy Center Board Votes Unanimously to Add Donald Trump’s Name to Iconic D.C. Venue"
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:18:6d89c508188f9413eec5af23"
 }

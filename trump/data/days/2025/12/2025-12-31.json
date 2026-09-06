@@ -6,8 +6,22 @@
     "negative": 11
   },
   "summary": "positive:5 neutral:1 negative:11",
-  "generatedAt": "2026-04-13T07:51:18.183Z",
-  "topics": [],
+  "generatedAt": "2026-09-06T06:44:14.852Z",
+  "topics": [
+    "George and Amal Clooney become citizens of France amid crime issues",
+    "Concerns over Minnesota day care fraud linked to election policies",
+    "Criticism of Democratic voter ID policies and election integrity"
+  ],
+  "trendingTopic": "Concerns over Minnesota day care fraud linked to election policies",
+  "secondaryHighlights": [
+    {
+      "topic": "George and Amal Clooney become citizens of France amid crime issues"
+    },
+    {
+      "topic": "Criticism of Democratic voter ID policies and election integrity"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34383",
@@ -320,118 +334,105 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/34383",
       "label": "positive",
-      "rationale": "The text expresses satisfaction with the state of the country, highlighting positive aspects like a strong border and economy.",
-      "analyzedAt": "2026-04-13T07:51:18.180Z"
+      "rationale": "The text expresses a positive view of the country's current state, highlighting achievements and a strong economy.",
+      "analyzedAt": "2026-09-06T06:29:45.358Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34384",
       "label": "positive",
-      "rationale": "The text praises the Border Patrol and highlights their achievements, conveying a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:51:18.180Z"
+      "rationale": "The text praises the Border Patrol and expresses pride in their work, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:29:45.358Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34385",
       "label": "negative",
-      "rationale": "The text criticizes governors for causing people to leave their states, indicating a negative sentiment towards their governance.",
-      "analyzedAt": "2026-04-13T07:51:18.180Z"
+      "rationale": "The text criticizes governors and suggests a negative impact on the states, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:29:45.358Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34386",
       "label": "negative",
-      "rationale": "The text expresses strong negative feelings towards the governor and DA, wishing them harm, which conveys a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:51:18.180Z"
+      "rationale": "The text expresses anger towards political figures and a negative view of the situation regarding Tina Peters.",
+      "analyzedAt": "2026-09-06T06:29:45.358Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34387",
       "label": "negative",
-      "rationale": "The text labels the governor as 'crooked,' which is a strong negative characterization.",
-      "analyzedAt": "2026-04-13T07:51:18.179Z"
+      "rationale": "The text labels Tim Waltz as a 'Crooked Governor,' expressing a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:29:45.358Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34388",
       "label": "negative",
-      "rationale": "The text claims there is significant fraud in California, indicating a negative view of the state's political situation.",
-      "analyzedAt": "2026-04-13T07:51:18.179Z"
+      "rationale": "The text claims there is significant fraud in California, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:29:45.358Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34389",
       "label": "negative",
-      "rationale": "The text criticizes Congresswoman Omar and associates her with fraud, expressing a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:51:18.179Z"
+      "rationale": "The text uses derogatory language towards Congresswoman Omar and expresses a negative view of immigrants.",
+      "analyzedAt": "2026-09-06T06:29:45.358Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34390",
       "label": "negative",
-      "rationale": "The text expresses strong negative feelings towards the governor and DA, wishing them harm, which conveys a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:51:18.179Z"
+      "rationale": "The text expresses anger towards political figures and a negative view of the situation regarding Tina Peters.",
+      "analyzedAt": "2026-09-06T06:29:45.358Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34391",
       "label": "positive",
-      "rationale": "The text praises Trump for cleaning up crime in DC, indicating a positive sentiment towards his actions.",
-      "analyzedAt": "2026-04-13T07:51:18.179Z"
+      "rationale": "The text praises Trump's actions in DC regarding crime, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:29:45.358Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34392",
       "label": "negative",
-      "rationale": "The text describes a situation as a 'total FRAUD,' indicating strong negative sentiment.",
-      "analyzedAt": "2026-04-13T07:51:18.179Z"
+      "rationale": "The text describes a situation as a 'total FRAUD,' indicating a strong negative sentiment.",
+      "analyzedAt": "2026-09-06T06:29:45.358Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34393",
       "label": "negative",
-      "rationale": "The text suggests that a voter policy is 'made for fraud,' indicating a negative view of the policy and its implications.",
-      "analyzedAt": "2026-04-13T07:51:18.179Z"
+      "rationale": "The text expresses concern over election policy and implies fraud, which conveys a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:29:45.358Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34394",
       "label": "neutral",
-      "rationale": "The text discusses a political opinion piece without expressing a clear positive or negative sentiment.",
-      "analyzedAt": "2026-04-13T07:51:18.179Z"
+      "rationale": "The text discusses a political opinion piece without expressing a strong sentiment.",
+      "analyzedAt": "2026-09-06T06:29:45.358Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34395",
       "label": "positive",
-      "rationale": "The text celebrates the U.S. investment record and attributes it to tariffs, expressing pride in the country's economic achievements.",
-      "analyzedAt": "2026-04-13T07:51:18.179Z"
+      "rationale": "The text celebrates the U.S. investment record and attributes it to tariffs, conveying a sense of national pride and achievement.",
+      "analyzedAt": "2026-09-06T06:29:45.358Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34396",
       "label": "positive",
       "rationale": "The text advocates for direct financial support to people for healthcare, which is presented positively.",
-      "analyzedAt": "2026-04-13T07:51:18.179Z"
+      "analyzedAt": "2026-09-06T06:29:45.358Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34397",
       "label": "negative",
-      "rationale": "The text accuses Democrats of cheating and being untrustworthy, conveying a strong negative sentiment towards them.",
-      "analyzedAt": "2026-04-13T07:51:18.179Z"
+      "rationale": "The text uses strong negative language to describe Democrats as 'cheaters and thieves,' indicating a hostile sentiment.",
+      "analyzedAt": "2026-09-06T06:29:45.358Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34398",
       "label": "negative",
-      "rationale": "The text criticizes Democrat mayors and governors, suggesting incompetence and implying that their actions have led to negative outcomes.",
-      "analyzedAt": "2026-04-13T07:51:18.179Z"
+      "rationale": "The text criticizes Democrat mayors and governors, suggesting incompetence and a negative outlook on the removal of the National Guard.",
+      "analyzedAt": "2026-09-06T06:29:45.358Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34399",
       "label": "negative",
-      "rationale": "The text expresses disdain for George and Amal Clooney, criticizing their political views and actions, and includes derogatory language.",
-      "analyzedAt": "2026-04-13T07:51:18.179Z"
+      "rationale": "The text expresses a negative view of George and Amal Clooney, criticizing their political opinions and actions, and includes derogatory language.",
+      "analyzedAt": "2026-09-06T06:29:45.358Z"
     }
   ],
-  "trendingTopic": "God Bless Tina Peters, who is now, for two years out of nine, sitting in a Colorado Maximum Security Prison, at the age of 73, and sick, for the “crime” of trying to stop the massive voter fraud that goes on in her State ( where people are leaving in record numbers!).",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Tim Waltz of Minnesota is a Crooked Governor!!!",
-      "name": "Tim Waltz"
-    },
-    {
-      "topic": "The polls are rigged even more than the writers"
-    },
-    {
-      "topic": "There is more FRAUD in California than there is in Minnesota, if that is even possible"
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:17:f91decd88d77b52ec5d09176"
 }

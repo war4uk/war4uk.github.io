@@ -1,17 +1,28 @@
 {
   "date": "2026-01-09",
   "counts": {
-    "positive": 6,
-    "neutral": 6,
+    "positive": 5,
+    "neutral": 12,
     "negative": 1
   },
-  "summary": "positive:6 neutral:6 negative:1",
-  "generatedAt": "2026-01-18T12:20:18.993Z",
+  "summary": "positive:5 neutral:12 negative:1",
+  "generatedAt": "2026-09-06T06:44:26.225Z",
   "topics": [
-    "Support for Megan Degenfelder's Gubernatorial Campaign",
-    "Economic Growth and Energy Policies",
-    "U.S.-Venezuela Relations and Oil Infrastructure"
+    "Supports Megan Degenfelder's potential campaign for Governor of Wyoming",
+    "Comments on U.S. actions regarding Venezuela and oil",
+    "Critiques California leadership during wildfire crisis"
   ],
+  "trendingTopic": "Supports Megan Degenfelder's potential campaign for Governor of Wyoming",
+  "trendingName": "Megan Degenfelder",
+  "secondaryHighlights": [
+    {
+      "topic": "Comments on U.S. actions regarding Venezuela and oil"
+    },
+    {
+      "topic": "Critiques California leadership during wildfire crisis"
+    }
+  ],
+  "selfPraiseCount": 1,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34930",
@@ -342,94 +353,111 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/34492",
       "label": "neutral",
-      "rationale": "The text is empty, resulting in a neutral sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:31:57.693Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34493",
-      "label": "neutral",
-      "rationale": "The text is a call to free an individual without additional context or sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "label": "positive",
+      "rationale": "The text expresses a clear call to action for the release of Tina Peters, indicating support and positive sentiment.",
+      "analyzedAt": "2026-09-06T06:31:57.693Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34494",
       "label": "negative",
-      "rationale": "The text criticizes California leaders for their incompetence, indicating a negative sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The text criticizes California leaders and their handling of a crisis, expressing frustration and negative sentiment.",
+      "analyzedAt": "2026-09-06T06:31:57.693Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34495",
       "label": "neutral",
-      "rationale": "The text announces an interview without expressing a clear sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The text announces an interview without expressing a clear positive or negative sentiment.",
+      "analyzedAt": "2026-09-06T06:31:57.693Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34496",
       "label": "neutral",
-      "rationale": "The text reports on a protest without expressing a clear sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The text reports on a protest in Iran without expressing a clear positive or negative sentiment.",
+      "analyzedAt": "2026-09-06T06:31:57.693Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34497",
       "label": "positive",
-      "rationale": "The text discusses Venezuela's release of political prisoners as a positive gesture towards peace.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The text discusses positive developments in U.S.-Venezuela relations and the investment in oil infrastructure, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:31:57.693Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34498",
       "label": "neutral",
-      "rationale": "The text is empty, resulting in a neutral sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:31:57.693Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34499",
       "label": "neutral",
-      "rationale": "The text discusses a meeting with oil companies and mentions various topics without expressing a clear positive or negative sentiment.",
-      "analyzedAt": "2026-01-18T12:05:41.377Z"
+      "rationale": "The text discusses a meeting with oil companies and mentions various topics without expressing a strong positive or negative sentiment.",
+      "analyzedAt": "2026-09-06T06:31:57.693Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34500",
-      "label": "positive",
-      "rationale": "The text expresses optimism about an upcoming meeting with Colombia's president, indicating a positive outlook.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "label": "neutral",
+      "rationale": "The text expresses a hopeful sentiment about a meeting but focuses on the need to stop drug trafficking, which balances the sentiment.",
+      "analyzedAt": "2026-09-06T06:31:57.693Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34501",
-      "label": "positive",
-      "rationale": "The text discusses a successful operation involving Venezuela, framing it as a positive action.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "label": "neutral",
+      "rationale": "The text reports on a specific action taken by the U.S. regarding an oil tanker without expressing a clear positive or negative sentiment.",
+      "analyzedAt": "2026-09-06T06:31:57.693Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34502",
       "label": "positive",
-      "rationale": "The text promotes a book that discusses positive economic developments under Trump's policies, conveying a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The text promotes a book that praises Trump's economic policies, highlighting positive economic indicators and expressing optimism about the future.",
+      "analyzedAt": "2026-09-06T06:31:57.693Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34503",
       "label": "positive",
-      "rationale": "The text praises the economic growth attributed to Trump, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The statement praises President Trump and suggests that his leadership has prevented a negative outcome for the country, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:31:57.693Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34504",
       "label": "positive",
-      "rationale": "The text expresses support for a potential gubernatorial candidate, highlighting her positive attributes and endorsing her.",
-      "analyzedAt": "2026-01-18T12:03:36.159Z"
+      "rationale": "The text expresses strong support for Megan Degenfelder, highlighting her qualifications and potential as a candidate for Governor, along with a positive endorsement.",
+      "analyzedAt": "2026-09-06T06:31:57.693Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/34926",
+      "label": "neutral",
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:31:57.693Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/34927",
+      "label": "neutral",
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:31:57.693Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/34928",
+      "label": "neutral",
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:31:57.693Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/34929",
+      "label": "neutral",
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:31:57.693Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/34930",
+      "label": "neutral",
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:31:57.693Z"
     }
   ],
-  "trendingTopic": "I will be interviewed by Sean Hannity, NOW! FoxNews",
-  "trendingName": "Sean Hannity",
-  "selfPraiseCount": 1,
-  "secondaryHighlights": [
-    {
-      "topic": "Iran’s 2nd largest city under protesters’ control, regime forces leave"
-    },
-    {
-      "topic": "30 P.M. Everybody wants to be there"
-    },
-    {
-      "topic": "Venezuela is releasing large numbers of political prisoners as a sign of “Seeking Peace.” This is a very important and smart gesture."
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:18:a18bd16a1657159fa74c4e6d"
 }

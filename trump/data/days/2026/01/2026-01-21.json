@@ -6,12 +6,22 @@
     "negative": 1
   },
   "summary": "positive:4 neutral:7 negative:1",
-  "generatedAt": "2026-04-13T07:52:47.761Z",
+  "generatedAt": "2026-09-06T06:44:43.980Z",
   "topics": [
-    "FCC Equal Time Rules",
-    "Trump's Arctic Deal",
-    "Davos Representation"
+    "Discusses future deal with NATO regarding Greenland and the Arctic Region",
+    "Plans to represent America at Davos and participate in an interview",
+    "Critiques FCC's application of equal time rules to entertainment shows"
   ],
+  "trendingTopic": "Discusses future deal with NATO regarding Greenland and the Arctic Region",
+  "secondaryHighlights": [
+    {
+      "topic": "Plans to represent America at Davos and participate in an interview"
+    },
+    {
+      "topic": "Critiques FCC's application of equal time rules to entertainment shows"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34867",
@@ -235,86 +245,75 @@
       "postId": "https://www.trumpstruth.org/statuses/34856",
       "label": "neutral",
       "rationale": "The text discusses a regulatory action by the FCC without expressing a clear positive or negative sentiment.",
-      "analyzedAt": "2026-04-13T07:52:47.757Z"
+      "analyzedAt": "2026-09-06T06:34:11.905Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34857",
       "label": "neutral",
-      "rationale": "The text is a retweet link and does not provide any sentiment.",
-      "analyzedAt": "2026-04-13T07:52:47.757Z"
+      "rationale": "The text is a retweet link and does not provide any sentiment or opinion.",
+      "analyzedAt": "2026-09-06T06:34:11.906Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34858",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:52:47.757Z"
+      "analyzedAt": "2026-09-06T06:34:11.906Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34859",
       "label": "positive",
       "rationale": "The text describes a productive meeting and a potential beneficial deal, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:52:47.757Z"
+      "analyzedAt": "2026-09-06T06:34:11.906Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34860",
       "label": "negative",
       "rationale": "The text expresses a negative sentiment towards Biden's FBI actions, implying wrongdoing.",
-      "analyzedAt": "2026-04-13T07:52:47.757Z"
+      "analyzedAt": "2026-09-06T06:34:11.906Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34861",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:52:47.757Z"
+      "analyzedAt": "2026-09-06T06:34:11.906Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34862",
       "label": "neutral",
-      "rationale": "The text is a link and does not provide any sentiment.",
-      "analyzedAt": "2026-04-13T07:52:47.757Z"
+      "rationale": "The text is a link and does not provide any sentiment or opinion.",
+      "analyzedAt": "2026-09-06T06:34:11.906Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34863",
       "label": "positive",
       "rationale": "The text references successes attributed to Trump, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:52:47.757Z"
+      "analyzedAt": "2026-09-06T06:34:11.906Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34864",
       "label": "positive",
       "rationale": "The text expresses pride in representation and includes a blessing, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:52:47.757Z"
+      "analyzedAt": "2026-09-06T06:34:11.906Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34865",
       "label": "positive",
       "rationale": "The text expresses excitement about an upcoming interview, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:52:47.757Z"
+      "analyzedAt": "2026-09-06T06:34:11.906Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34866",
       "label": "neutral",
-      "rationale": "The text is a link and does not provide any sentiment.",
-      "analyzedAt": "2026-04-13T07:52:47.757Z"
+      "rationale": "The text is a link and does not provide any sentiment or opinion.",
+      "analyzedAt": "2026-09-06T06:34:11.906Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34867",
       "label": "neutral",
-      "rationale": "The text is a link and does not provide any sentiment.",
-      "analyzedAt": "2026-04-13T07:52:47.757Z"
+      "rationale": "The text is a link and does not provide any sentiment or opinion.",
+      "analyzedAt": "2026-09-06T06:34:11.906Z"
     }
   ],
-  "trendingTopic": "America will be well represented in Davos",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Ruddy: Bessent Sees 7 Trump Successes"
-    },
-    {
-      "topic": "Heading for Davos!"
-    },
-    {
-      "topic": "Wow!Biden's FBI paid anti-Trump 'Sedition Hunters' as informants in J6, Arctic Frost probes, memos show"
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:12:c93f3af7ba264fa2fb8b1b27",
+  "trendingName": "Mark Rutte"
 }

@@ -6,12 +6,23 @@
     "negative": 2
   },
   "summary": "positive:8 neutral:12 negative:2",
-  "generatedAt": "2026-04-13T07:58:33.838Z",
+  "generatedAt": "2026-09-06T06:44:58.237Z",
   "topics": [
-    "Texas Senate Election Endorsement",
-    "MELANIA Film Promotion",
-    "Minnesota Fraud Allegations"
+    "Encourages voters in Texas' 9th State Senate District to support Leigh Wambsganss",
+    "Celebrates the success of the film 'MELANIA' with high audience ratings",
+    "Criticizes the Biden Administration for alleged fraud in Minnesota"
   ],
+  "trendingTopic": "Encourages voters in Texas' 9th State Senate District to support Leigh Wambsganss",
+  "trendingName": "Leigh Wambsganss",
+  "secondaryHighlights": [
+    {
+      "topic": "Celebrates the success of the film 'MELANIA'"
+    },
+    {
+      "topic": "Criticizes the Biden Administration for alleged fraud in Minnesota"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36367",
@@ -415,147 +426,134 @@
       "postId": "https://www.trumpstruth.org/statuses/36367",
       "label": "positive",
       "rationale": "The text expresses confidence in a nominee and praises their qualifications, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:58:33.836Z"
+      "analyzedAt": "2026-09-06T06:37:03.286Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36368",
       "label": "positive",
       "rationale": "The text encourages voting for a candidate and highlights positive attributes, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:58:33.836Z"
+      "analyzedAt": "2026-09-06T06:37:03.286Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36369",
       "label": "positive",
       "rationale": "The text expresses enjoyment of a film and encourages others to see it, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:58:33.836Z"
+      "analyzedAt": "2026-09-06T06:37:03.286Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36370",
       "label": "negative",
-      "rationale": "The text contains strong negative language towards political opponents and describes them in derogatory terms, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:58:33.836Z"
+      "rationale": "The text contains strong negative language towards political opponents and describes a negative situation, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:37:03.286Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36371",
       "label": "positive",
       "rationale": "The text praises an individual for doing a fantastic job, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:58:33.836Z"
+      "analyzedAt": "2026-09-06T06:37:03.286Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36372",
       "label": "negative",
       "rationale": "The text expresses strong negative sentiments towards specific individuals and accusations of fraud, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:58:33.836Z"
+      "analyzedAt": "2026-09-06T06:37:03.286Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36373",
       "label": "positive",
-      "rationale": "The text expresses a desire for law, order, and justice, which conveys a positive sentiment about the state of the country.",
-      "analyzedAt": "2026-04-13T07:58:33.836Z"
+      "rationale": "The text expresses a desire for law, order, and justice, indicating a positive sentiment about the state of the country.",
+      "analyzedAt": "2026-09-06T06:37:03.286Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36374",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:58:33.836Z"
+      "analyzedAt": "2026-09-06T06:37:03.286Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36375",
       "label": "neutral",
-      "rationale": "The text is a retweet of another post without any additional commentary or sentiment expressed.",
-      "analyzedAt": "2026-04-13T07:58:33.836Z"
+      "rationale": "The text is a retweet with no additional sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:37:03.286Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36376",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:58:33.836Z"
+      "analyzedAt": "2026-09-06T06:37:03.286Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36377",
       "label": "neutral",
-      "rationale": "The text is a retweet of another post without any additional commentary or sentiment expressed.",
-      "analyzedAt": "2026-04-13T07:58:33.836Z"
+      "rationale": "The text is a retweet with no additional sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:37:03.286Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36378",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:58:33.836Z"
+      "analyzedAt": "2026-09-06T06:37:03.286Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36379",
       "label": "neutral",
-      "rationale": "The text is a retweet of another post without any additional commentary or sentiment expressed.",
-      "analyzedAt": "2026-04-13T07:58:33.836Z"
+      "rationale": "The text is a retweet with no additional sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:37:03.286Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36380",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:58:33.836Z"
+      "analyzedAt": "2026-09-06T06:37:03.286Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36381",
       "label": "neutral",
-      "rationale": "The text is a retweet of another post without any additional commentary or sentiment expressed.",
-      "analyzedAt": "2026-04-13T07:58:33.836Z"
+      "rationale": "The text is a retweet with no additional sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:37:03.286Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36382",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:58:33.836Z"
+      "analyzedAt": "2026-09-06T06:37:03.286Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36383",
       "label": "neutral",
-      "rationale": "The text is a retweet of another post without any additional commentary or sentiment expressed.",
-      "analyzedAt": "2026-04-13T07:58:33.836Z"
+      "rationale": "The text is a retweet with no additional sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:37:03.286Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36384",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T07:58:33.836Z"
+      "analyzedAt": "2026-09-06T06:37:03.286Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36385",
       "label": "neutral",
-      "rationale": "The text is a retweet of another post without any additional commentary or sentiment expressed.",
-      "analyzedAt": "2026-04-13T07:58:33.836Z"
+      "rationale": "The text is a retweet with no additional sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:37:03.286Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36386",
       "label": "positive",
       "rationale": "The text mentions a film that has received a high rating and positive reception, indicating a favorable sentiment.",
-      "analyzedAt": "2026-04-13T07:58:33.836Z"
+      "analyzedAt": "2026-09-06T06:37:03.286Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36387",
       "label": "positive",
       "rationale": "Similar to the previous entry, it highlights the film's success and positive reception, suggesting a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:58:33.836Z"
+      "analyzedAt": "2026-09-06T06:37:03.286Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36388",
       "label": "positive",
       "rationale": "The text expresses strong support for a candidate and encourages voting, highlighting positive attributes of the candidate and the importance of the election.",
-      "analyzedAt": "2026-04-13T07:58:33.836Z"
+      "analyzedAt": "2026-09-06T06:37:03.286Z"
     }
   ],
-  "trendingTopic": "Border Czar (Plus!) Tom Homan is doing a FANTASTIC JOB. He is one of a kind",
-  "trendingName": "Tom Homan",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Last night I saw, “MELANIA,” for the second time"
-    },
-    {
-      "topic": "The people of our once again great Country want Law, Order, and Justice!"
-    },
-    {
-      "topic": "MELANIA, the film.#1 Highest Opening In 10 Yrs (Doc)Loved By All - “A”CinemaScore"
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:22:d54577c710e8e631930d87ab"
 }

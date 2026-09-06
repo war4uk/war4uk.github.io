@@ -6,10 +6,14 @@
     "negative": 0
   },
   "summary": "positive:1 neutral:0 negative:0",
-  "generatedAt": "2026-01-07T10:17:51.419Z",
+  "generatedAt": "2026-09-06T06:44:16.033Z",
   "topics": [
-    "Lawfare book promotion"
+    "Discusses Alex Swoyer's book on political justice and Trump",
+    "Critiques the weaponization of justice against political opponents"
   ],
+  "trendingTopic": "Discusses Alex Swoyer's book on political justice and Trump",
+  "trendingName": "Alex Swoyer",
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34400",
@@ -34,11 +38,14 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/34400",
       "label": "positive",
-      "rationale": "The text expresses strong support for a book and highlights the resilience and courage of the author and the political stance, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.161Z"
+      "rationale": "The text expresses strong support for a book that is described as 'powerful' and emphasizes overcoming challenges with 'Grit, Wisdom, and Courage.' The overall tone is one of encouragement and positivity towards the book and its message.",
+      "analyzedAt": "2026-09-06T06:29:51.570Z"
     }
   ],
-  "trendingTopic": "Alex Swoyer has written a powerful Book, “Lawless Lawfare: Tipping the Scales of Justice to Get Trump and Destroy MAGA.” The unprecedented Weaponization of “Justice” by the Democrats against their Political Opponent (ME!) can never be forgotten, or allowed to happen again.",
-  "selfPraiseCount": 0,
-  "trendingName": "Alex Swoyer"
+  "topicsCacheKey": "day-themes-v8:1:905947cdea18b43c526b7fd5",
+  "secondaryHighlights": [
+    {
+      "topic": "Critiques the weaponization of justice against political opponents"
+    }
+  ]
 }

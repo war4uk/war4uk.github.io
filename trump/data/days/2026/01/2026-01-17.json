@@ -2,16 +2,26 @@
   "date": "2026-01-17",
   "counts": {
     "positive": 1,
-    "neutral": 1,
-    "negative": 4
+    "neutral": 3,
+    "negative": 3
   },
-  "summary": "positive:1 neutral:1 negative:4",
-  "generatedAt": "2026-01-18T12:20:22.671Z",
+  "summary": "positive:1 neutral:3 negative:3",
+  "generatedAt": "2026-09-06T06:44:38.462Z",
   "topics": [
-    "Autopen Controversy",
-    "Claims of Media Misinformation",
-    "Radical Left Accusations"
+    "Claims Biden's use of Autopen is illegal and invalidates signed documents",
+    "Denies offering Jamie Dimon the Fed Chairman position and plans to sue JPMorgan Chase",
+    "Critiques Radical Left for attempting to destroy the country"
   ],
+  "trendingTopic": "Claims Biden's use of Autopen is illegal and invalidates signed documents",
+  "secondaryHighlights": [
+    {
+      "topic": "Denies offering Jamie Dimon the Fed Chairman position and plans to sue JPMorgan Chase"
+    },
+    {
+      "topic": "Critiques Radical Left for attempting to destroy the country"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34578",
@@ -144,51 +154,46 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/34578",
       "label": "negative",
-      "rationale": "The text expresses a negative sentiment towards radical left individuals and legal actions.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text expresses anger towards the Radical Left and describes a situation as a setup, indicating a strong negative sentiment regarding the actions taken against Trump.",
+      "analyzedAt": "2026-09-06T06:33:21.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34579",
       "label": "positive",
-      "rationale": "The text expresses a positive sentiment about falling mortgage interest rates.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text expresses a positive sentiment by stating that even CNN is praising the drop in mortgage interest rates, indicating a favorable outcome.",
+      "analyzedAt": "2026-09-06T06:33:21.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34580",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "analyzedAt": "2026-09-06T06:33:21.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34581",
-      "label": "negative",
-      "rationale": "The text discusses sending troops to Minneapolis in a negative context.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "label": "neutral",
+      "rationale": "The text is a reference to an opinion piece and does not express a clear sentiment, remaining factual without emotional language.",
+      "analyzedAt": "2026-09-06T06:33:21.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34582",
       "label": "negative",
-      "rationale": "The text expresses a negative sentiment towards media and banking actions.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text conveys frustration and anger towards the Wall Street Journal for publishing false information, and it includes accusations against JPMorgan Chase, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:33:21.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34584",
       "label": "negative",
-      "rationale": "The text expresses a negative view of the Biden administration's actions.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text expresses strong negative sentiments towards the actions of the Biden Administration and the Radical Left, calling for arrests and describing the situation as illegal and rigged.",
+      "analyzedAt": "2026-09-06T06:33:21.250Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/34913",
+      "label": "neutral",
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:33:21.250Z"
     }
   ],
-  "trendingTopic": "Even Fake News CNN is praising the DROP in Mortgage Interest Rates!",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "GREGG JARRETT: Trump has authority to send troops to Minneapolis to stop attacks on ICE"
-    },
-    {
-      "topic": "Everyone is asking about the Autopen?"
-    },
-    {
-      "topic": "These horrible Radical Left people, doing everything possible to destroy our Country, should pay a big price for this!"
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:7:d29f89648e41848f241122c3",
+  "trendingName": "Joe Biden"
 }

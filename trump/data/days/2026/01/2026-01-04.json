@@ -6,8 +6,9 @@
     "negative": 0
   },
   "summary": "positive:0 neutral:1 negative:0",
-  "generatedAt": "2026-01-18T12:20:16.688Z",
+  "generatedAt": "2026-09-06T06:44:19.135Z",
   "topics": [],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34434",
@@ -32,9 +33,9 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/34434",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-01-07T10:17:19.162Z"
+      "rationale": "The text contains no content to convey a sentiment, making it neutral.",
+      "analyzedAt": "2026-09-06T06:30:36.720Z"
     }
   ],
-  "selfPraiseCount": 0
+  "topicsCacheKey": "day-themes-v8:1:c88e42b0012533e8c7b939ec"
 }

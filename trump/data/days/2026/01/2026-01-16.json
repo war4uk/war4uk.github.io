@@ -6,12 +6,25 @@
     "negative": 1
   },
   "summary": "positive:4 neutral:1 negative:1",
-  "generatedAt": "2026-01-18T12:20:22.221Z",
+  "generatedAt": "2026-09-06T06:44:36.685Z",
   "topics": [
-    "Iran Hanging Cancellations",
-    "Healthcare Reform Meeting",
-    "Gaza Peace Plan Progress"
+    "Praises Iran for cancelling scheduled hangings",
+    "Critiques Minnesota leadership over unrest",
+    "Discusses healthcare funding directly to the people"
   ],
+  "trendingTopic": "Praises Iran for cancelling scheduled hangings",
+  "secondaryHighlights": [
+    {
+      "topic": "Critiques Minnesota leadership over unrest"
+    },
+    {
+      "topic": "Discusses healthcare funding directly to the people"
+    },
+    {
+      "topic": "Meets with María Corina Machado of Venezuela"
+    }
+  ],
+  "selfPraiseCount": 0,
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34573",
@@ -126,51 +139,39 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/34572",
       "label": "positive",
-      "rationale": "The text expresses honor in meeting a Venezuelan leader, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text conveys honor and appreciation for meeting a respected individual and receiving a Nobel Peace Prize, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:33:12.430Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34573",
       "label": "positive",
-      "rationale": "The text discusses peace efforts in Gaza, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The statement highlights achievements in humanitarian aid and expresses optimism for peace, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:33:12.430Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34574",
       "label": "negative",
-      "rationale": "The text expresses a negative view of Minnesota's political situation.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The text criticizes the Governor and Mayor for losing control and describes the situation in a negative light, indicating frustration.",
+      "analyzedAt": "2026-09-06T06:33:12.430Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34575",
       "label": "positive",
-      "rationale": "The text expresses optimism about healthcare reform, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The statement expresses enthusiasm about a meeting on healthcare and presents a positive outlook on providing great healthcare at reduced costs.",
+      "analyzedAt": "2026-09-06T06:33:12.430Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34576",
       "label": "positive",
-      "rationale": "The text expresses respect for the cancellation of hangings in Iran, indicating a positive sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "rationale": "The statement expresses gratitude and respect for the cancellation of scheduled hangings, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:33:12.430Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/34577",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-01-18T12:05:28.538Z"
+      "analyzedAt": "2026-09-06T06:33:12.430Z"
     }
   ],
-  "trendingTopic": "It was my Great Honor to meet María Corina Machado, of Venezuela, today",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Great Meeting on Healthcare this morning!"
-    },
-    {
-      "topic": "As Steve Witkoff announced, we have OFFICIALLY entered the next phase of Gaza’s 20-Point Peace Plan!"
-    },
-    {
-      "topic": "In Minnesota, the Troublemakers, Agitators, and Insurrectionists are, in many cases, highly paid professionals"
-    }
-  ]
+  "topicsCacheKey": "day-themes-v8:6:e539e5fe2c3415b79d3fc1dd"
 }
