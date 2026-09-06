@@ -135,15 +135,15 @@
       },
       "summary": "positive:2 neutral:12 negative:0",
       "topics": [
-        "Shares multiple rally announcements for upcoming event in Dallas"
+        "Announces participation in a major rally in Dallas"
       ],
       "postsCount": 14,
       "hasDetail": true,
-      "generatedAt": "2026-09-06T04:07:10.959Z",
-      "trendingTopic": "Shares multiple rally announcements for upcoming event in Dallas",
+      "generatedAt": "2026-09-06T05:29:40.949Z",
+      "trendingTopic": "Announces participation in a major rally in Dallas",
       "secondaryHighlights": [
         {
-          "topic": "Promotes the greatest rally with music and speeches in Dallas"
+          "topic": "The Greatest RALLY of them all!"
         }
       ],
       "selfPraiseCount": 1
@@ -153,16 +153,16 @@
       "counts": {
         "positive": 0,
         "neutral": 0,
-        "negative": 1
+        "negative": 2
       },
-      "summary": "positive:0 neutral:0 negative:1",
+      "summary": "positive:0 neutral:0 negative:2",
       "topics": [
-        "Expresses concern over border control issues in Spain"
+        "Criticism of Spain's border control"
       ],
-      "postsCount": 1,
+      "postsCount": 2,
       "hasDetail": true,
-      "generatedAt": "2026-09-06T04:07:12.086Z",
-      "trendingTopic": "Expresses concern over border control issues in Spain",
+      "generatedAt": "2026-09-06T05:29:41.888Z",
+      "trendingTopic": "Criticism of Spain's border control amid ongoing issues",
       "secondaryHighlights": [
         {
           "topic": "So sad what is happening in Spain, a country with ZERO control of its Border"
@@ -171,18 +171,12 @@
       "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-06T04:07:12.086Z",
-  "trendingTopic": "I am pleased to report that Michael Cohen, the Prosecution’s Star Witness and, in actuality, only Witness in the New York State Attorney General and Manhattan DA Witch Hunt Cases brought against me, has just fully RECANTED his testimony.",
-  "trendingName": "Michael Cohen",
+  "generatedAt": "2026-09-06T05:29:41.888Z",
+  "trendingTopic": "Announces participation in a major rally in Dallas",
   "secondaryHighlights": [
     {
-      "topic": "It is my Great Honor to endorse America First Patriot, Dan Green, who is running to represent the fantastic people of Florida’s 9th Congressional District!"
-    },
-    {
-      "topic": "Shares multiple rally announcements for upcoming event in Dallas"
-    },
-    {
-      "topic": "I’m not trying to force Iran to the bargaining table, as ABC Fake News reported"
+      "topic": "Criticism of Spain's border control"
     }
-  ]
+  ],
+  "topicsCacheKey": "month-themes-v5:6:ea0592d31edf2b3d117f7d2d"
 }

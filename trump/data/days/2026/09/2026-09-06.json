@@ -3,21 +3,16 @@
   "counts": {
     "positive": 0,
     "neutral": 0,
-    "negative": 1
+    "negative": 2
   },
-  "summary": "positive:0 neutral:0 negative:1",
-  "generatedAt": "2026-09-06T04:07:12.086Z",
+  "summary": "positive:0 neutral:0 negative:2",
+  "generatedAt": "2026-09-06T05:29:41.888Z",
   "topics": [
-    "Expresses concern over border control issues in Spain"
+    "Criticism of Spain's border control"
   ],
-  "trendingTopic": "Expresses concern over border control issues in Spain",
-  "secondaryHighlights": [
-    {
-      "topic": "So sad what is happening in Spain, a country with ZERO control of its Border"
-    }
-  ],
+  "trendingTopic": "Criticism of Spain's border control amid ongoing issues",
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v5:1:24707f2c0cb4de34f0ba5ad4",
+  "topicsCacheKey": "day-themes-v8:2:fc6d7e49498ceb28edf53d79",
   "posts": [
     {
       "id": "https://trumpstruth.org/statuses/41530",
@@ -36,6 +31,24 @@
         "guid": "https://trumpstruth.org/statuses/41530",
         "isoDate": "2026-09-06T00:24:30.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41530",
+      "publishedAt": "2026-09-06T00:24:30.000Z",
+      "title": "So sad what is happening in Spain, a country with ZERO control of its Border. WOW!",
+      "text": "<p>So sad what is happening in Spain, a country with ZERO control of its Border. WOW!</p>",
+      "url": "https://www.trumpstruth.org/statuses/41530",
+      "raw": {
+        "creator": "",
+        "title": "So sad what is happening in Spain, a country with ZERO control of its Border. WOW!",
+        "link": "https://www.trumpstruth.org/statuses/41530",
+        "pubDate": "Sun, 06 Sep 2026 00:24:30 +0000",
+        "author": "",
+        "content": "<p>So sad what is happening in Spain, a country with ZERO control of its Border. WOW!</p>",
+        "contentSnippet": "So sad what is happening in Spain, a country with ZERO control of its Border. WOW!",
+        "guid": "https://www.trumpstruth.org/statuses/41530",
+        "isoDate": "2026-09-06T00:24:30.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -44,6 +57,17 @@
       "label": "negative",
       "rationale": "The use of 'So sad' and 'ZERO control' indicates a negative sentiment towards the situation in Spain.",
       "analyzedAt": "2026-09-06T04:07:07.096Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41530",
+      "label": "negative",
+      "rationale": "The use of 'So sad' and 'ZERO control' conveys a negative sentiment towards the situation in Spain.",
+      "analyzedAt": "2026-09-06T05:26:48.483Z"
+    }
+  ],
+  "secondaryHighlights": [
+    {
+      "topic": "So sad what is happening in Spain, a country with ZERO control of its Border"
     }
   ]
 }
