@@ -6,23 +6,19 @@
     "negative": 2
   },
   "summary": "positive:5 neutral:36 negative:2",
-  "generatedAt": "2026-09-05T08:46:12.191Z",
+  "generatedAt": "2026-09-06T07:42:06.611Z",
   "topics": [
-    "Political Commentary and Controversies",
-    "Disaster Recovery and Assistance",
-    "Economic Growth and Job Creation"
+    "Supports Israel as a strong ally of the United States",
+    "Condemns Iran's actions in the Strait of Hormuz",
+    "Discusses the implications of tariffs on American interests"
   ],
-  "trendingTopic": "Great words and wisdom by Robert Greenway, Heritage Foundation Allison Center Director, on the Mark Levin Show tonight.",
-  "trendingName": "Robert Greenway",
+  "trendingTopic": "Supports Israel as a strong ally of the United States",
   "secondaryHighlights": [
     {
-      "topic": "Thank you to the Great Gregg Jarrett"
+      "topic": "Condemns Iran's actions in the Strait of Hormuz"
     },
     {
-      "topic": "Trump, Iran and the Bottom Line for American Interests"
-    },
-    {
-      "topic": "McLaughlin Poll: Voters Back Trump on Iran"
+      "topic": "Discusses the implications of tariffs on American interests"
     }
   ],
   "selfPraiseCount": 0,
@@ -1061,5 +1057,6 @@
       "rationale": "The text contains a link without any sentiment expressed.",
       "analyzedAt": "2026-09-05T08:46:12.186Z"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:43:8c5f03492c6b23d812ecee9a"
 }

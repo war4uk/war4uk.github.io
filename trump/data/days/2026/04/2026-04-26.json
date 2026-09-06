@@ -6,21 +6,19 @@
     "negative": 1
   },
   "summary": "positive:4 neutral:4 negative:1",
-  "generatedAt": "2026-09-05T08:47:36.930Z",
+  "generatedAt": "2026-09-06T07:42:17.464Z",
   "topics": [
-    "Political Commentary and Controversies",
-    "Disaster Recovery and Assistance"
+    "Discusses security response to an incident in D.C.",
+    "Announces upcoming interview on 60 Minutes",
+    "Highlights support for restraining birthright citizenship"
   ],
-  "trendingTopic": "I will be interviewed on 60 Minutes tonight at 7 P.M. EST",
+  "trendingTopic": "Discusses security response to an incident in D.C.",
   "secondaryHighlights": [
     {
-      "topic": "Quite an evening in D.C. Secret Service and Law Enforcement did a fantastic job"
+      "topic": "Announces upcoming interview on 60 Minutes"
     },
     {
-      "topic": "Law Enforcement has requested that we leave the premises, consistent with protocol, which we will do, immediately."
-    },
-    {
-      "topic": "liberal polling group"
+      "topic": "Highlights support for restraining birthright citizenship"
     }
   ],
   "selfPraiseCount": 0,
@@ -243,5 +241,6 @@
       "rationale": "The text reports on a political action without expressing a clear positive or negative sentiment.",
       "analyzedAt": "2026-09-05T08:47:36.927Z"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:9:9f97464213347942fc9553a5"
 }

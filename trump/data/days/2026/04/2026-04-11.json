@@ -6,11 +6,11 @@
     "negative": 2
   },
   "summary": "positive:9 neutral:3 negative:2",
-  "generatedAt": "2026-04-13T08:24:01.232Z",
+  "generatedAt": "2026-09-06T07:41:55.150Z",
   "topics": [
-    "Iran Military Actions",
-    "Voter Registration Trends",
-    "Economic Concerns in Virginia and California"
+    "Celebrates successful Artemis II mission and crew",
+    "Discusses U.S. oil supply and tanker activity",
+    "Critiques Virginia Governor Spanberger's actions"
   ],
   "posts": [
     {
@@ -352,17 +352,16 @@
       "analyzedAt": "2026-04-13T08:24:01.227Z"
     }
   ],
-  "trendingTopic": "Heading to Virginia for meetings at Trump National",
+  "trendingTopic": "Celebrates successful Artemis II mission and crew",
   "selfPraiseCount": 0,
   "secondaryHighlights": [
     {
-      "topic": "The Fake News Media has lost total credibility, not that they had any to begin with."
+      "topic": "Discusses U.S. oil supply and tanker activity"
     },
     {
-      "topic": "I am watching fertilizer prices CLOSELY during our FIGHT FOR FREEDOM in Iran"
-    },
-    {
-      "topic": "Congratulations to the Great and Very Talented Crew of Artemis II. The entire trip was spectacular, the landing was perfect and, as President of the United States, I could not be more proud!"
+      "topic": "Critiques Virginia Governor Spanberger's actions"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:14:2eb7cd4b27826751686cc3df",
+  "trendingName": "First Last"
 }

@@ -6,11 +6,11 @@
     "negative": 2
   },
   "summary": "positive:5 neutral:16 negative:2",
-  "generatedAt": "2026-09-06T07:34:28.309Z",
+  "generatedAt": "2026-04-13T08:20:21.620Z",
   "topics": [
-    "Negotiates release of over 500 political prisoners with Belarusian President Alexander Lukashenko",
-    "Multiple criminal referrals against New York AG Letitia James from Trump administration officials",
-    "Military operations in Iran and discussions for a new regime"
+    "Iran Military Operations",
+    "Letitia James Criminal Referrals",
+    "Political Prisoners in Belarus"
   ],
   "posts": [
     {
@@ -568,16 +568,21 @@
       "analyzedAt": "2026-04-13T08:20:21.616Z"
     }
   ],
-  "trendingTopic": "Negotiates release of over 500 political prisoners with Belarusian President Alexander Lukashenko",
+  "trendingTopic": "Last week, my Envoy to Belarus, John Coale, after negotiating with Highly Respected President Alexander Lukashenko, got 250 more Political Prisoners freed!",
   "trendingName": "John Coale",
   "selfPraiseCount": 0,
   "secondaryHighlights": [
     {
-      "topic": "Multiple criminal referrals against New York AG Letitia James from Trump administration officials"
+      "topic": "NY AG Letitia James hit with two more criminal referrals alleging possible insurance fraud",
+      "name": "Letitia James"
     },
     {
-      "topic": "Military operations in Iran and discussions for a new regime"
+      "topic": "Trump admin makes new criminal referrals to DOJ targeting New York AG Letitia James",
+      "name": "Letitia James"
+    },
+    {
+      "topic": "Trump’s Housing Chief Seeks New DOJ Investigation Against Letitia James",
+      "name": "Letitia James"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:23:e673e81d70c9e017c8d26b3d"
+  ]
 }

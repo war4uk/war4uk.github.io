@@ -6,11 +6,10 @@
     "negative": 1
   },
   "summary": "positive:4 neutral:5 negative:1",
-  "generatedAt": "2026-04-13T08:21:44.742Z",
+  "generatedAt": "2026-09-06T07:41:46.880Z",
   "topics": [
-    "Iran Military Operations",
-    "Military Search and Rescue Success",
-    "Tribute to Sheridan Gorman"
+    "U.S. Military successfully rescues F-15 Crew Member from Iran",
+    "Announces upcoming Power Plant Day and Bridge Day in Iran"
   ],
   "posts": [
     {
@@ -256,17 +255,12 @@
       "analyzedAt": "2026-04-13T08:21:44.738Z"
     }
   ],
-  "trendingTopic": "Tuesday will be Power Plant Day, and Bridge Day, all wrapped up in one, in Iran",
+  "trendingTopic": "U.S. Military successfully rescues F-15 Crew Member from Iran",
   "selfPraiseCount": 0,
   "secondaryHighlights": [
     {
-      "topic": "Tuesday, 8:00 P.M. Eastern Time!"
-    },
-    {
-      "topic": "We have rescued the seriously wounded, and really brave, F-15 Crew Member/Officer, from deep inside the mountains of Iran."
-    },
-    {
-      "topic": "Vanessa is AMAZING!"
+      "topic": "Announces upcoming Power Plant Day and Bridge Day in Iran"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:10:d59251065e31c67164ad5398"
 }

@@ -6,11 +6,11 @@
     "negative": 2
   },
   "summary": "positive:3 neutral:0 negative:2",
-  "generatedAt": "2026-09-06T07:34:24.374Z",
+  "generatedAt": "2026-04-13T08:19:38.112Z",
   "topics": [
-    "Announces upcoming speech on economics in Miami and discusses military operation in Iran",
-    "Calls for Republicans to terminate the filibuster and take action against the Radical Left",
-    "Reports on TrumpRX website growth in prescription offerings"
+    "Letitia James Criminal Prosecution",
+    "Ukraine Government Messages Interception",
+    "Trump's Economic Speech and Military Operations"
   ],
   "posts": [
     {
@@ -136,15 +136,18 @@
       "analyzedAt": "2026-04-13T08:19:38.110Z"
     }
   ],
-  "trendingTopic": "Announces upcoming speech on economics in Miami and discusses military operation in Iran",
+  "trendingTopic": "NY AG Letitia James referred again for criminal prosecution for alleged homeowner insurance fraud",
   "selfPraiseCount": 0,
+  "trendingName": "Letitia James",
   "secondaryHighlights": [
     {
-      "topic": "Calls for Republicans to terminate the filibuster and take action against the Radical Left"
+      "topic": "Going to make a big speech on economics in Miami"
     },
     {
-      "topic": "Reports on TrumpRX website growth in prescription offerings"
+      "topic": "TrumpRX website sees steady growth in prescription offerings, proving MAHA doubters wrong"
+    },
+    {
+      "topic": "U.S. intercepted Ukraine government messages discussing plot to route money to Biden re-election"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:5:7fd44ac309b5f677fa76561f"
+  ]
 }

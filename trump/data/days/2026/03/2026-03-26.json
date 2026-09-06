@@ -6,11 +6,11 @@
     "negative": 9
   },
   "summary": "positive:3 neutral:6 negative:9",
-  "generatedAt": "2026-09-06T07:34:23.053Z",
+  "generatedAt": "2026-04-13T08:19:31.432Z",
   "topics": [
-    "Letitia James referred for criminal prosecution for alleged homeowner insurance fraud",
-    "Criticism of Democrats for handling military achievements and immigration policies",
-    "Calls for changes in Senate rules and termination of the filibuster"
+    "Border Security and Immigration Policies",
+    "Iran Military Strategy Discussion",
+    "Filibuster Termination Advocacy"
   ],
   "posts": [
     {
@@ -448,16 +448,18 @@
       "analyzedAt": "2026-04-13T08:19:31.428Z"
     }
   ],
-  "trendingTopic": "Letitia James referred for criminal prosecution for alleged homeowner insurance fraud",
+  "trendingTopic": "I’ve Seen Enough: The Senate Is Broken, And It’s Time To Change The Rules",
   "selfPraiseCount": 0,
   "secondaryHighlights": [
     {
-      "topic": "Criticism of Democrats for handling military achievements and immigration policies"
+      "topic": "NY AG Letitia James referred again for criminal prosecution for alleged homeowner insurance fraud",
+      "name": "Letitia James"
     },
     {
-      "topic": "Calls for changes in Senate rules and termination of the filibuster"
+      "topic": "Blame the Democrats for the Airport’s mess"
+    },
+    {
+      "topic": "MONOLOGUE: Modern-Day Democratic Party Has Lost Its Heart and Soul [WATCH]"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:18:81dbbfe5da578bc6aa8f2411",
-  "trendingName": "Letitia James"
+  ]
 }

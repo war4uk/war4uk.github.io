@@ -6,11 +6,11 @@
     "negative": 5
   },
   "summary": "positive:3 neutral:6 negative:5",
-  "generatedAt": "2026-04-13T08:21:05.362Z",
+  "generatedAt": "2026-09-06T07:41:42.988Z",
   "topics": [
-    "White House Ballroom Approval",
-    "Border Patrol Funding and Immigration Enforcement",
-    "Iran Deal Negotiation"
+    "Calls for Iran to negotiate as major bridge collapses",
+    "Thanks Congressional Republicans for border security efforts",
+    "Praises Pam Bondi for crime reduction achievements"
   ],
   "posts": [
     {
@@ -352,21 +352,16 @@
       "analyzedAt": "2026-04-13T08:21:05.358Z"
     }
   ],
-  "trendingTopic": "Douglas Murray: Deranged Tucker Carlson backstabs Trump",
-  "trendingName": "Tucker Carlson",
+  "trendingTopic": "Calls for Iran to negotiate as major bridge collapses",
   "selfPraiseCount": 1,
   "secondaryHighlights": [
     {
-      "topic": "Thank you to all of our Great Congressional Republicans, House Speaker Mike Johnson, and Senate Leader John Thune, for their work this week.",
-      "name": "Mike Johnson"
+      "topic": "Thanks Congressional Republicans for border security efforts"
     },
     {
-      "topic": "Pam Bondi is a Great American Patriot and a loyal friend, who faithfully served as my Attorney General over the past year.",
+      "topic": "Praises Pam Bondi for crime reduction achievements",
       "name": "Pam Bondi"
-    },
-    {
-      "topic": "Victor Davis Hanson Reveals He Was Approached by Chinese Operative Fang Fang But Didn’t Fall for it Like ‘Idiot’ Eric Swalwell",
-      "name": "Eric Swalwell"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:14:4907ec728ae31173da319951"
 }

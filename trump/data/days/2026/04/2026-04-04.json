@@ -6,11 +6,11 @@
     "negative": 4
   },
   "summary": "positive:5 neutral:4 negative:4",
-  "generatedAt": "2026-04-13T08:21:28.311Z",
+  "generatedAt": "2026-09-06T07:41:45.769Z",
   "topics": [
-    "Iran Military Actions",
-    "Job Growth and Trade Deficit",
-    "Media Criticism and Fake News"
+    "Critiques ABC and New York Times for fake news and corruption",
+    "Reports on job growth and trade deficit improvements",
+    "Comments on Iran's military actions and threats"
   ],
   "posts": [
     {
@@ -328,17 +328,15 @@
       "analyzedAt": "2026-04-13T08:21:28.306Z"
     }
   ],
-  "trendingTopic": "Believers and people of faith find safe harbor in Trump's White House this Easter",
+  "trendingTopic": "Critiques ABC and New York Times for fake news and corruption",
   "selfPraiseCount": 0,
   "secondaryHighlights": [
     {
-      "topic": "178,000 new jobs in March"
+      "topic": "Reports on job growth and trade deficit improvements"
     },
     {
-      "topic": "Jobs report beats estimates"
-    },
-    {
-      "topic": "“If you import The Third World, you become The Third World!”"
+      "topic": "Comments on Iran's military actions and threats"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:13:cb9ab0f8bc962b0029a6d582"
 }

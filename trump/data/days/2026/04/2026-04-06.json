@@ -6,11 +6,10 @@
     "negative": 3
   },
   "summary": "positive:3 neutral:8 negative:3",
-  "generatedAt": "2026-04-13T08:22:00.048Z",
+  "generatedAt": "2026-09-06T07:41:48.192Z",
   "topics": [
-    "Climate Regulation Rollback",
-    "California Governor Race Endorsement",
-    "Supreme Court Criticism"
+    "Trump addresses Iran issues that previous Presidents ignored",
+    "Steve Hilton running for Governor of California"
   ],
   "posts": [
     {
@@ -352,20 +351,13 @@
       "analyzedAt": "2026-04-13T08:22:00.045Z"
     }
   ],
-  "trendingTopic": "Don Lemon left his press pass at the door when he joined church-storming mob",
-  "trendingName": "Don Lemon",
+  "trendingTopic": "Trump addresses Iran issues that previous Presidents ignored",
   "selfPraiseCount": 0,
   "secondaryHighlights": [
     {
-      "topic": "It’s too bad that the Supreme Court can’t watch and study the Mark Levin Show tonight on the Birthright Citizenship Scam.",
-      "name": "Mark Levin"
-    },
-    {
-      "topic": "I have known and respected Steve Hilton, who is running for Governor of California, for many years",
+      "topic": "Steve Hilton running for Governor of California",
       "name": "Steve Hilton"
-    },
-    {
-      "topic": "is fixing the problem of Iran - a problem other Presidents ignored"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:14:a9262504469bb4be7c9135d1"
 }

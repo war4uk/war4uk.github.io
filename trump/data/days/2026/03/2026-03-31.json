@@ -6,11 +6,11 @@
     "negative": 7
   },
   "summary": "positive:2 neutral:7 negative:7",
-  "generatedAt": "2026-09-06T07:34:29.690Z",
+  "generatedAt": "2026-04-13T08:20:39.448Z",
   "topics": [
-    "Announces historic state visit of the King and Queen of the United Kingdom",
-    "Discusses issues with insurance companies following California tragedy",
-    "Comments on birthright citizenship and immigration policies"
+    "White House Ballroom Controversy",
+    "California Wildfire Insurance Issues",
+    "International Relations and Military Supplies"
   ],
   "posts": [
     {
@@ -400,15 +400,17 @@
       "analyzedAt": "2026-04-13T08:20:39.441Z"
     }
   ],
-  "trendingTopic": "Announces historic state visit of the King and Queen of the United Kingdom",
+  "trendingTopic": "Netanyahu to Newsmax: Trump Has Shown 'Tremendous Leadership'",
   "selfPraiseCount": 0,
   "secondaryHighlights": [
     {
-      "topic": "Discusses issues with insurance companies following California tragedy"
+      "topic": "In the Ballroom case, the Judge said we have to get Congressional approval"
     },
     {
-      "topic": "Comments on birthright citizenship and immigration policies"
+      "topic": "The Country of France wouldn’t let planes headed to Israel, loaded up with military supplies, fly over French territory."
+    },
+    {
+      "topic": "All of those countries that can’t get jet fuel because of the Strait of Hormuz, like the United Kingdom, which refused to get involved in the decapitation of Iran, I have a suggestion for you: Number 1, buy from the U.S., we have plenty, and Number 2, build up some delayed courage, go to the Strait, and just TAKE IT. You’ll have to start learning how to fight for yourself, the U.S.A. won’t be there to help you anymore, just like you weren’t there for us."
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:16:0a1c5f4e9e3c65668e3615da"
+  ]
 }

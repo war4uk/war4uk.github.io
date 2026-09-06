@@ -6,11 +6,11 @@
     "negative": 1
   },
   "summary": "positive:3 neutral:2 negative:1",
-  "generatedAt": "2026-09-06T07:34:08.805Z",
+  "generatedAt": "2026-04-13T08:16:38.335Z",
   "topics": [
-    "Promotes Sean Hannity's new podcast",
-    "Venezuela wins against Italy in WBC semifinal",
-    "US-Israeli strategy against Iran shows effectiveness"
+    "NATO and Military Operations",
+    "Save America Act Advocacy",
+    "Venezuela Baseball Success"
   ],
   "posts": [
     {
@@ -160,16 +160,18 @@
       "analyzedAt": "2026-04-13T08:16:38.330Z"
     }
   ],
-  "trendingTopic": "Promotes Sean Hannity's new podcast",
+  "trendingTopic": "The US-Israeli strategy against Iran is working",
   "selfPraiseCount": 0,
   "secondaryHighlights": [
     {
-      "topic": "Venezuela wins against Italy in WBC semifinal"
+      "topic": "“Hang Out with Sean Hannity” is a GREAT New Podcast, Streaming Now!!! Sean is a fantastic guy, and has been right from my political beginnings!",
+      "name": "Sean Hannity"
     },
     {
-      "topic": "US-Israeli strategy against Iran shows effectiveness"
+      "topic": "Save America Act"
+    },
+    {
+      "topic": "The United States has been informed by most of our NATO “Allies” that they don’t want to get involved with our Military Operation against the Terrorist Regime of Iran, in the Middle East, this, despite the fact that almost every Country strongly agreed with what we are doing, and that Iran cannot, in any way, shape, or form, be allowed to have a Nuclear Weapon."
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:6:3f972e85f7ac2e4dde1d36b7",
-  "trendingName": "Sean Hannity"
+  ]
 }

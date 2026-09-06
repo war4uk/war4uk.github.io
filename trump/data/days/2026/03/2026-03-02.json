@@ -6,11 +6,11 @@
     "negative": 2
   },
   "summary": "positive:3 neutral:13 negative:2",
-  "generatedAt": "2026-09-06T07:33:44.240Z",
+  "generatedAt": "2026-04-13T08:11:37.514Z",
   "topics": [
-    "Calls for the release of Tina Peters",
-    "Discussion on Trump's Iran Nuclear Deal and its implications",
-    "Melania Trump to take the gavel at UN Security Council"
+    "Melania Trump at UN Security Council",
+    "Trump's Iran Strike Support",
+    "Healthcare Affordability Initiatives"
   ],
   "posts": [
     {
@@ -448,15 +448,19 @@
       "analyzedAt": "2026-04-13T08:11:37.510Z"
     }
   ],
-  "trendingTopic": "Calls for the release of Tina Peters",
+  "trendingTopic": "Everybody watch Sean Hannity tonight at 9 P.M. Bibi Netanyahu will be interviewed!",
+  "trendingName": "Sean Hannity",
   "selfPraiseCount": 1,
   "secondaryHighlights": [
     {
-      "topic": "Discussion on Trump's Iran Nuclear Deal and its implications"
+      "topic": "Melania Trump to take the gavel at UN Security Council in historic first",
+      "name": "Melania Trump"
     },
     {
-      "topic": "Melania Trump to take the gavel at UN Security Council"
+      "topic": "EDITORIAL: TrumpRx is a massive win for affordability"
+    },
+    {
+      "topic": "‘These people are crazy’ is the campaign Democrats should fear"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:18:c20389f78ab7b5760feba6ca"
+  ]
 }

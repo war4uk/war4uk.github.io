@@ -6,11 +6,11 @@
     "negative": 3
   },
   "summary": "positive:16 neutral:9 negative:3",
-  "generatedAt": "2026-09-06T07:33:49.388Z",
+  "generatedAt": "2026-04-13T08:13:17.513Z",
   "topics": [
-    "Trump's crackdown on DC crime leads to over 10,000 arrests",
-    "Trump pardons five former NFL players including Joe Klecko",
-    "Melania Trump presides over UN Security Council addressing Iran war deaths"
+    "Save America Act Initiatives",
+    "Border Security and Migrant Crime",
+    "Trump Administration Actions and Endorsements"
   ],
   "posts": [
     {
@@ -688,15 +688,20 @@
       "analyzedAt": "2026-04-13T08:13:17.509Z"
     }
   ],
-  "trendingTopic": "Trump's crackdown on DC crime leads to over 10,000 arrests",
+  "trendingTopic": "THE SAVE AMERICA ACT!1",
   "selfPraiseCount": 1,
   "secondaryHighlights": [
     {
-      "topic": "Trump pardons five former NFL players including Joe Klecko"
+      "topic": "Steve Daines, of Montana, is one of our truly Great United States Senators",
+      "name": "Steve Daines"
     },
     {
-      "topic": "Melania Trump presides over UN Security Council addressing Iran war deaths"
+      "topic": "Melania Trump makes history presiding over UN Security Council",
+      "name": "Melania Trump"
+    },
+    {
+      "topic": "Miranda Devine: Trump debunking Al Gore’s climate fears has made the world a better place",
+      "name": "Miranda Devine"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:28:223c0dc609a07a812d594566"
+  ]
 }

@@ -6,11 +6,11 @@
     "negative": 6
   },
   "summary": "positive:2 neutral:9 negative:6",
-  "generatedAt": "2026-04-13T08:24:31.075Z",
+  "generatedAt": "2026-09-06T07:41:58.213Z",
   "topics": [
-    "Trump White House Ballroom Construction",
-    "Swalwell Campaign Suspension and Allegations",
-    "Iran Naval Blockade Strategy"
+    "Trump initiates naval blockade against Iran amid rising tensions",
+    "Eric Swalwell suspends California governor campaign over allegations",
+    "Criticism of Pope Leo's stance on crime and foreign policy"
   ],
   "posts": [
     {
@@ -424,18 +424,16 @@
       "analyzedAt": "2026-04-13T08:24:31.070Z"
     }
   ],
-  "trendingTopic": "Secret memos expose Ukraine accuser’s bias, hearsay, and false claim",
+  "trendingTopic": "Trump initiates naval blockade against Iran amid rising tensions",
   "selfPraiseCount": 1,
   "secondaryHighlights": [
     {
-      "topic": "Eric Swalwell paid illegal Brazilian live-in nanny under the table with campaign funds, complaint alleges",
+      "topic": "Eric Swalwell suspends California governor campaign over allegations",
       "name": "Eric Swalwell"
     },
     {
-      "topic": "Pope Leo is WEAK on Crime, and terrible for Foreign Policy"
-    },
-    {
-      "topic": "DHS investigating claim about Swalwell nanny filed by conspiracy theorist"
+      "topic": "Criticism of Pope Leo's stance on crime and foreign policy"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:17:e57869bdfd6a50b1ffa1aee2"
 }

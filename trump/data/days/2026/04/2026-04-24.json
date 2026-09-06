@@ -6,22 +6,19 @@
     "negative": 6
   },
   "summary": "positive:5 neutral:13 negative:6",
-  "generatedAt": "2026-09-05T08:47:20.605Z",
+  "generatedAt": "2026-09-06T07:42:14.561Z",
   "topics": [
-    "Disaster Recovery and Assistance",
-    "Political Commentary and Controversies"
+    "Announces extension of Israel-Lebanon cease-fire by 3 weeks",
+    "Criticizes Chuck Schumer and Hakeem Jeffries",
+    "Discusses issues surrounding birthright citizenship and the SPLC"
   ],
-  "trendingTopic": "This is the Reflecting Pool at The Lincoln Memorial",
+  "trendingTopic": "Announces extension of Israel-Lebanon cease-fire by 3 weeks",
   "secondaryHighlights": [
     {
-      "topic": "The first time Lafayette Park Fountains, opposite the White House, have worked in decades"
+      "topic": "Criticizes Chuck Schumer and Hakeem Jeffries"
     },
     {
-      "topic": "Cryin’ Chuck Schumer should resign over this",
-      "name": "Chuck Schumer"
-    },
-    {
-      "topic": "Trump admin live updates: Prez announces Israel-Lebanon cease-fire extended by 3 weeks"
+      "topic": "Discusses issues surrounding birthright citizenship and the SPLC"
     }
   ],
   "selfPraiseCount": 0,
@@ -724,5 +721,6 @@
       "rationale": "The text is a retweet link without any sentiment expressed.",
       "analyzedAt": "2026-09-05T08:47:20.600Z"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:29:ea41940fec8d64e6b40a2dbf"
 }

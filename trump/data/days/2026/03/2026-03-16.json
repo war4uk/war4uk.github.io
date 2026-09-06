@@ -6,11 +6,11 @@
     "negative": 2
   },
   "summary": "positive:7 neutral:6 negative:2",
-  "generatedAt": "2026-09-06T07:34:07.622Z",
+  "generatedAt": "2026-04-13T08:16:30.164Z",
   "topics": [
-    "Trump receives overwhelming support at College Football Championship in Miami",
-    "Mark Levin praised as a Great American Patriot amidst criticism",
-    "Michael Whatley campaigns against former Governor's record on crime and disaster response"
+    "Trump at College Football Championship",
+    "Jack Smith J6 Probe Developments",
+    "Support for Susie Wiles"
   ],
   "posts": [
     {
@@ -376,17 +376,20 @@
       "analyzedAt": "2026-04-13T08:16:30.161Z"
     }
   ],
-  "trendingTopic": "Trump receives overwhelming support at College Football Championship in Miami",
+  "trendingTopic": "Michael Whatley is so Great!",
+  "trendingName": "Michael Whatley",
   "selfPraiseCount": 0,
   "secondaryHighlights": [
     {
-      "topic": "Mark Levin praised as a Great American Patriot amidst criticism",
-      "name": "Mark Levin"
+      "topic": "Jack Smith meeting with then-FBI Director Wray recorded as ‘significant case notification’ in J6 probe",
+      "name": "Jack Smith"
     },
     {
-      "topic": "Michael Whatley campaigns against former Governor's record on crime and disaster response",
-      "name": "Michael Whatley"
+      "topic": "Jack Smith targeted then-House Speaker McCarthy’s private phone records in J6 probe, FBI docs reveal",
+      "name": "Jack Smith"
+    },
+    {
+      "topic": "The crazed Democrats are not allowing TSA Agents to get paid"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:15:5d92023ae40204be1d35478c"
+  ]
 }

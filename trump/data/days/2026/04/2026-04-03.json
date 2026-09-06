@@ -6,11 +6,11 @@
     "negative": 0
   },
   "summary": "positive:5 neutral:3 negative:0",
-  "generatedAt": "2026-04-13T08:21:15.333Z",
+  "generatedAt": "2026-09-06T07:41:44.254Z",
   "topics": [
-    "Economic Growth and Job Creation",
-    "Iran Military Actions",
-    "Fraud Enforcement Initiatives"
+    "Discusses potential lawsuit by Bruce Springsteen against his plastic surgeon",
+    "Highlights military actions and strategies regarding Iran",
+    "Announces Vice President JD Vance's new role addressing fraud in the U.S."
   ],
   "posts": [
     {
@@ -208,18 +208,15 @@
       "analyzedAt": "2026-04-13T08:21:15.329Z"
     }
   ],
-  "trendingTopic": "Vice President JD Vance is now in charge of “FRAUD” in the United States",
-  "trendingName": "JD Vance",
+  "trendingTopic": "Highlights military actions and strategies regarding Iran",
   "selfPraiseCount": 0,
   "secondaryHighlights": [
     {
-      "topic": "Is Bruce Springsteen going to sue his plastic surgeon?"
+      "topic": "Discusses potential lawsuit by Bruce Springsteen against his plastic surgeon"
     },
     {
-      "topic": ". is fixing the problem of Iran - a problem other Presidents ignored"
-    },
-    {
-      "topic": "Our Military, the greatest and most powerful (by far!) anywhere in the World, hasn’t even started destroying what’s left in Iran."
+      "topic": "Announces Vice President JD Vance's new role addressing fraud in the U.S."
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:8:0a2af74bbf0cbfa7f0690e59"
 }

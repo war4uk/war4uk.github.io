@@ -6,11 +6,11 @@
     "negative": 7
   },
   "summary": "positive:7 neutral:12 negative:7",
-  "generatedAt": "2026-09-06T07:33:46.455Z",
+  "generatedAt": "2026-04-13T08:12:00.348Z",
   "topics": [
-    "Claims U.S. elections are rigged and need fixing",
-    "Endorses Aaron Flint for Montana's 1st Congressional District",
-    "Discusses Operation Epic Fury and safe return of Americans from the Middle East"
+    "Operation Epic Fury Updates",
+    "Military Readiness and Arms Supply",
+    "Election Integrity and Voter ID"
   ],
   "posts": [
     {
@@ -640,16 +640,20 @@
       "analyzedAt": "2026-04-13T08:12:00.343Z"
     }
   ],
-  "trendingTopic": "Claims U.S. elections are rigged and need fixing",
+  "trendingTopic": "The United States Munitions Stockpiles have, at the medium and upper medium grade, never been higher or better - As was stated to me today, we have a virtually unlimited supply of these weapons.",
   "selfPraiseCount": 2,
   "secondaryHighlights": [
     {
-      "topic": "Endorses Aaron Flint for Montana's 1st Congressional District",
-      "name": "Aaron Flint"
+      "topic": "Deranged Jack Smith should be brought to Justice, NOW!!!",
+      "name": "Jack Smith"
     },
     {
-      "topic": "Discusses Operation Epic Fury and safe return of Americans from the Middle East"
+      "topic": "Fashion Notes: Melania Trump Makes History at United Nations in Neutral Dior Suit",
+      "name": "Melania Trump"
+    },
+    {
+      "topic": "NATO Secretary General Mark Rutte praises 'Operation Epic Fury' strikes on Iran",
+      "name": "Mark Rutte"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:26:2825e1e540277bd9a13c834c"
+  ]
 }

@@ -6,11 +6,11 @@
     "negative": 7
   },
   "summary": "positive:4 neutral:1 negative:7",
-  "generatedAt": "2026-04-13T08:23:27.571Z",
+  "generatedAt": "2026-09-06T07:41:52.495Z",
   "topics": [
-    "Border Security and Immigration Policies",
-    "Iran Nuclear Threat and Oil Prices",
-    "Support for Viktor Orbán"
+    "Critiques of media coverage on Iran negotiations and military strategy",
+    "Nominates Benjamin Flowers for the U.S. Court of Appeals",
+    "Supports Elise Stefanik's new book on academic issues"
   ],
   "posts": [
     {
@@ -304,19 +304,16 @@
       "analyzedAt": "2026-04-13T08:23:27.568Z"
     }
   ],
-  "trendingTopic": "I am pleased to nominate Benjamin Flowers to serve as Judge on the United States Court of Appeals for the Sixth Circuit in Ohio.",
+  "trendingTopic": "Critiques of media coverage on Iran negotiations and military strategy",
   "selfPraiseCount": 0,
-  "trendingName": "Benjamin Flowers",
   "secondaryHighlights": [
     {
-      "topic": "There are reports that Iran is charging fees to tankers going through the Hormuz Strait"
+      "topic": "Nominates Benjamin Flowers for the U.S. Court of Appeals"
     },
     {
-      "topic": "None of these people, including our own, very disappointing, NATO, understood anything unless they have pressure placed upon them!!!"
-    },
-    {
-      "topic": "President Donald J. Trump and Secretary of the Interior, Doug Burgum, are proud to be fixing the once beautiful Reflecting Pool between The Washington Monument and The Lincoln Memorial.",
-      "name": "Doug Burgum"
+      "topic": "Supports Elise Stefanik's new book on academic issues",
+      "name": "Elise Stefanik"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:12:3931791ad401b8701e51681b"
 }

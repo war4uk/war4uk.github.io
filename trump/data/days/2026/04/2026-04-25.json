@@ -6,18 +6,19 @@
     "negative": 1
   },
   "summary": "positive:1 neutral:3 negative:1",
-  "generatedAt": "2026-09-05T08:47:28.888Z",
+  "generatedAt": "2026-09-06T07:42:16.039Z",
   "topics": [
-    "Disaster Recovery and Assistance",
-    "Political Commentary and Controversies"
+    "Calls for the passage of the SAVE AMERICA ACT as crucial for political party success",
+    "Cancels trip of representatives to Islamabad for talks with Iranians",
+    "Critiques The Failing New York Times on Lafayette Park restoration"
   ],
-  "trendingTopic": "I just cancelled the trip of my representatives going is Islamabad, Pakistan, to meet with the Iranians",
+  "trendingTopic": "Calls for the passage of the SAVE AMERICA ACT as crucial for political party success",
   "secondaryHighlights": [
     {
-      "topic": "Save America Act"
+      "topic": "Cancels trip of representatives to Islamabad for talks with Iranians"
     },
     {
-      "topic": "Once again, The Failing New York Times has attempted to grossly mischaracterize what should be hailed as the restoration of Beauty and Grandeur to our Nation’s Capital as something else completely."
+      "topic": "Critiques The Failing New York Times on Lafayette Park restoration"
     }
   ],
   "selfPraiseCount": 0,
@@ -144,5 +145,6 @@
       "rationale": "The text praises the restoration of Lafayette Park and highlights successful improvements, indicating a positive sentiment.",
       "analyzedAt": "2026-09-05T08:47:28.882Z"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:5:f72d0e1fd99b68416333d31b"
 }
