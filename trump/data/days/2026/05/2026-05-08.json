@@ -6,19 +6,23 @@
     "negative": 0
   },
   "summary": "positive:7 neutral:10 negative:0",
-  "generatedAt": "2026-09-06T07:49:37.843Z",
+  "generatedAt": "2026-09-05T08:27:08.932Z",
   "topics": [
-    "Announces three-day ceasefire in the Russia-Ukraine war",
-    "Endorses Michael Alfonso for Wisconsin's 7th Congressional District",
-    "Celebrates Virginia Supreme Court's decision against gerrymandering"
+    "Economic Growth and Job Creation",
+    "Endorsements and Support for Candidates",
+    "Political Commentary and Controversies"
   ],
-  "trendingTopic": "Announces three-day ceasefire in the Russia-Ukraine war",
+  "trendingTopic": "Hakeem Jeffries doubles down on 'maximum warfare' rhetoric, tells critics 'I don't give a damn'",
+  "trendingName": "Hakeem Jeffries",
   "secondaryHighlights": [
     {
-      "topic": "Endorses Michael Alfonso for Wisconsin's 7th Congressional District"
+      "topic": "Huge win for the Republican Party, and America, in Virginia"
     },
     {
-      "topic": "Celebrates Virginia Supreme Court's decision against gerrymandering"
+      "topic": "Bryson DeChambeau and Gary Player doing 50 Push Ups at the White House for the reinstatement of the Presidential Fitness Test!"
+    },
+    {
+      "topic": "Amazing — Bryson doing 30 Pull Ups at the White House for the reinstatement of the Presidential Fitness Test!"
     }
   ],
   "selfPraiseCount": 0,
@@ -433,6 +437,5 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:27:08.930Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:17:6e9cb5fbb1bfa092612e1e9b"
+  ]
 }

@@ -6,23 +6,23 @@
     "negative": 2
   },
   "summary": "positive:4 neutral:5 negative:2",
-  "generatedAt": "2026-09-05T20:02:41.717Z",
+  "generatedAt": "2026-09-06T07:57:10.186Z",
   "topics": [
-    "National Scallops Day declared by Trump",
-    "Micron invests in Trump Accounts",
-    "S&P 500 has strongest quarter since 2020"
+    "Critiques Biden Administration's handling of the border situation",
+    "Declares National Scallops Day to support fishermen",
+    "Comments on U.S. spending on NATO compared to other countries"
   ],
-  "trendingTopic": "Trump declares National Scallops Day to celebrate fishing industry boost",
+  "trendingTopic": "Critiques Biden Administration's handling of the border situation",
   "secondaryHighlights": [
     {
-      "topic": "Micron invests 250 million dollars into Trump Accounts"
+      "topic": "Declares National Scallops Day to support fishermen"
     },
     {
-      "topic": "S&P 500 closes with strongest quarter since 2020"
+      "topic": "Comments on U.S. spending on NATO compared to other countries"
     }
   ],
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v3:11:4cd3872f8ce103d8d8ec6714",
+  "topicsCacheKey": "day-themes-v8:11:4cd3872f8ce103d8d8ec6714",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39660",
@@ -290,5 +290,6 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T07:57:28.686Z"
     }
-  ]
+  ],
+  "trendingName": "Joe Biden"
 }

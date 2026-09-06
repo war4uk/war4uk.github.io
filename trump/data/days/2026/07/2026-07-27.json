@@ -6,23 +6,23 @@
     "negative": 8
   },
   "summary": "positive:2 neutral:30 negative:8",
-  "generatedAt": "2026-09-05T19:57:11.243Z",
+  "generatedAt": "2026-09-06T07:57:48.010Z",
   "topics": [
-    "Trump's defamation lawsuit against The New York Times",
-    "Trump's address on election fraud and deep state threats",
-    "Celebration of American freedom at 250th event"
+    "Congressman Brandon Gill discusses Jack Smith's investigation on Trey Gowdy Show",
+    "Calls for the termination of the filibuster to pass the Save America Act",
+    "Trump's address highlights election fraud and deep state as major threats"
   ],
-  "trendingTopic": "Trump's defamation lawsuit against The New York Times moves forward with updated complaint",
+  "trendingTopic": "Congressman Brandon Gill discusses Jack Smith's investigation on Trey Gowdy Show",
   "secondaryHighlights": [
     {
-      "topic": "Trump's address reaffirms election fraud and deep state as threats"
+      "topic": "Calls for the termination of the filibuster to pass the Save America Act"
     },
     {
-      "topic": "Trump celebrates American freedom during 250th anniversary event"
+      "topic": "Trump's address highlights election fraud and deep state as major threats"
     }
   ],
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v3:40:786aa1d048ce64ffc8ff0f96",
+  "topicsCacheKey": "day-themes-v8:40:786aa1d048ce64ffc8ff0f96",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40299",
@@ -986,5 +986,6 @@
       "rationale": "The text contains a link without any sentiment expressed.",
       "analyzedAt": "2026-09-05T08:02:59.433Z"
     }
-  ]
+  ],
+  "trendingName": "Brandon Gill"
 }

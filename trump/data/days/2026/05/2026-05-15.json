@@ -6,21 +6,22 @@
     "negative": 0
   },
   "summary": "positive:6 neutral:4 negative:0",
-  "generatedAt": "2026-09-06T07:49:46.726Z",
+  "generatedAt": "2026-09-05T08:28:34.961Z",
   "topics": [
-    "Announces the site of the National Garden of American Heroes in West Potomac Park",
-    "Celebrates Rachel Campos-Duffy's new book on American patriotism",
-    "Supports Julia Letlow's Senate campaign in Louisiana"
+    "Endorsements and Support for Candidates",
+    "Political Commentary and Controversies"
   ],
-  "trendingTopic": "Announces the site of the National Garden of American Heroes in West Potomac Park",
+  "trendingTopic": "Henry Clay and the architecture of American strength",
   "secondaryHighlights": [
     {
-      "topic": "Celebrates Rachel Campos-Duffy's new book on American patriotism",
-      "name": "Rachel Campos-Duffy"
+      "topic": "Congratulations to Rachel Campos-Duffy on her new book, “All American Patriotism: Celebrating 250 Years of America’s Greatness!” By sharing personal stories of Patriotism, along with those of her FOX colleagues, Rachel reveals the true Spirit of the U.S.A., how to end this crazy and wrong hatred for America, and renew pride in our GREAT Country, our shared history, and people.",
+      "name": "Rachel Campos-duffy"
     },
     {
-      "topic": "Supports Julia Letlow's Senate campaign in Louisiana",
-      "name": "Julia Letlow"
+      "topic": "I am proud to announce the site of the NATIONAL GARDEN OF AMERICAN HEROES. This magnificent exhibition of statues will be located in West Potomac Park, which we are transforming into one of the World's most beautiful public spaces."
+    },
+    {
+      "topic": "This is a statue, now standing at Doral, that was commissioned by a large group of political supporters who just wanted a statue of yours truly."
     }
   ],
   "selfPraiseCount": 2,
@@ -267,6 +268,5 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:28:34.958Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:10:89d8fd0ffb0f39803a231fe0"
+  ]
 }

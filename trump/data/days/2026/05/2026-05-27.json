@@ -6,20 +6,24 @@
     "negative": 6
   },
   "summary": "positive:4 neutral:14 negative:6",
-  "generatedAt": "2026-09-06T07:50:04.066Z",
+  "generatedAt": "2026-09-05T08:31:45.780Z",
   "topics": [
-    "Joe Biden sues DOJ to stop release of audio recordings connected to special counsel probe",
-    "Ken Paxton wins and John Cornyn's strong career in Texas politics",
-    "Trump's influence on the American Crypto Industry"
+    "Endorsements and Support for Candidates",
+    "Political Commentary and Controversies"
   ],
-  "trendingTopic": "Joe Biden sues DOJ to stop release of audio recordings connected to special counsel probe",
+  "trendingTopic": "A Crooked Politician!!! RT @realDonaldTrumpA Crooked Politician!!!",
   "secondaryHighlights": [
     {
-      "topic": "Ken Paxton wins and John Cornyn's strong career in Texas politics",
-      "name": "Ken Paxton"
+      "topic": "Congratulations to Ken Paxton on such a tremendous win, and to John Cornyn for having run a strong and powerful race but, more importantly, having had a truly great career.",
+      "name": "John Cornyn"
     },
     {
-      "topic": "Trump's influence on the American Crypto Industry"
+      "topic": "Joe Biden sues DOJ to stop release of audio recordings connected to special counsel probe",
+      "name": "Joe Biden"
+    },
+    {
+      "topic": "I am pleased to announce the nomination of Matthew Byrne to serve as Judge on the U.S. District Court for the Southern District of Ohio.",
+      "name": "Matthew Byrne"
     }
   ],
   "selfPraiseCount": 0,
@@ -602,7 +606,5 @@
       "rationale": "The text expresses strong support for Prime Minister Nikol Pashinyan and highlights positive developments for Armenia and the U.S., indicating a hopeful and optimistic sentiment.",
       "analyzedAt": "2026-09-05T08:31:45.777Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:24:058f37fc74a54e3e81a45649",
-  "trendingName": "Joe Biden"
+  ]
 }

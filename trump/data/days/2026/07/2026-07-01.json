@@ -6,24 +6,23 @@
     "negative": 1
   },
   "summary": "positive:3 neutral:3 negative:1",
-  "generatedAt": "2026-09-05T20:02:37.023Z",
+  "generatedAt": "2026-09-06T07:57:08.463Z",
   "topics": [
-    "Gas prices drop for America's 250th Birthday",
-    "Micron's $250 million investment in Trump Accounts",
-    "Tribute to Victor Willis of the Village People"
+    "Victor Willis passes away at 74, remembered fondly",
+    "Micron announces $250 million investment in Trump accounts",
+    "Oil prices and gas prices are dropping ahead of America's 250th birthday"
   ],
-  "trendingTopic": "Gas prices drop as Freedom Fuel Network celebrates America's 250th Birthday",
+  "trendingTopic": "Victor Willis passes away at 74, remembered fondly",
   "secondaryHighlights": [
     {
-      "topic": "Micron announces historic investment in Trump Accounts",
-      "name": "Sanjay Mehrotra"
+      "topic": "Micron announces $250 million investment in Trump accounts"
     },
     {
-      "topic": "Tribute to Victor Willis following his passing at 74"
+      "topic": "Oil prices and gas prices are dropping ahead of America's 250th birthday"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v3:7:451412e0215d78eabe142164",
+  "topicsCacheKey": "day-themes-v8:7:451412e0215d78eabe142164",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39654",
@@ -195,5 +194,6 @@
       "rationale": "The text celebrates dropping oil prices and a retailer's initiative to lower gas prices, conveying a positive sentiment.",
       "analyzedAt": "2026-09-05T07:57:17.011Z"
     }
-  ]
+  ],
+  "trendingName": "Victor Willis"
 }
