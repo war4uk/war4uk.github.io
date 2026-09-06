@@ -6,11 +6,11 @@
     "negative": 3
   },
   "summary": "positive:10 neutral:20 negative:3",
-  "generatedAt": "2026-04-13T08:11:20.517Z",
+  "generatedAt": "2026-09-06T07:33:42.889Z",
   "topics": [
-    "Trump's Leadership and Legacy",
-    "Iran Military Actions",
-    "Immigration and Crime Issues"
+    "Trump's military actions against Iran escalate with destruction of naval ships",
+    "Lady Gaga's father endorses Trump for 2024 amid migrant crisis discussions",
+    "Trump honors victims of illegal alien crime with National Angel Family Day declaration"
   ],
   "posts": [
     {
@@ -808,19 +808,15 @@
       "analyzedAt": "2026-04-13T08:11:20.507Z"
     }
   ],
-  "trendingTopic": "Iran just stated that they are going to hit very hard today, harder than they have ever been hit before",
+  "trendingTopic": "Trump's military actions against Iran escalate with destruction of naval ships",
   "selfPraiseCount": 3,
   "secondaryHighlights": [
     {
-      "topic": "Joe Abruzzo says Trump ‘cares’ for Palm Beach County",
-      "name": "Joe Abruzzo"
+      "topic": "Lady Gaga's father endorses Trump for 2024 amid migrant crisis discussions"
     },
     {
-      "topic": "Michael Goodwin: The death of Ayatollah Khamenei instantly makes the world a better place",
-      "name": "Michael Goodwin"
-    },
-    {
-      "topic": "MADE, PROMISES KEPT. ⒻⒶⒻⓄ RT @DanScavinoPROMISES MADE, PROMISES KEPT. ⒻⒶⒻⓄ"
+      "topic": "Trump honors victims of illegal alien crime with National Angel Family Day declaration"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:33:d543d5d12ebfbfc52750886d"
 }

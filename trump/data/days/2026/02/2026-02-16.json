@@ -6,11 +6,11 @@
     "negative": 4
   },
   "summary": "positive:2 neutral:0 negative:4",
-  "generatedAt": "2026-09-06T07:25:39.775Z",
+  "generatedAt": "2026-04-13T08:05:36.924Z",
   "topics": [
-    "Critiques the Gateway project in New York/New Jersey for its projected costs",
-    "Highlights ecological disaster in the Potomac River due to local leadership",
-    "Comments on Democrats' opposition to Voter I.D. laws"
+    "Ecological Disaster in Potomac River",
+    "Voter ID and Election Integrity",
+    "Infrastructure Project Concerns"
   ],
   "posts": [
     {
@@ -160,15 +160,18 @@
       "analyzedAt": "2026-04-13T08:05:36.922Z"
     }
   ],
-  "trendingTopic": "Critiques the Gateway project in New York/New Jersey for its projected costs",
+  "trendingTopic": "Nicole Parker, formerly of the FBI, is doing a great job of explaining, on FoxNews, the Nancy Guthrie investigation.",
   "selfPraiseCount": 0,
+  "trendingName": "Nicole Parker",
   "secondaryHighlights": [
     {
-      "topic": "Highlights ecological disaster in the Potomac River due to local leadership"
+      "topic": "The Democrats refuse to vote for Voter I.D., or Citizenship. The reason is very simple"
     },
     {
-      "topic": "Comments on Democrats' opposition to Voter I.D. laws"
+      "topic": "Heading to D.C. Will give an Air Force One Press Conference, shortly"
+    },
+    {
+      "topic": "Happy President’s Day!"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:6:3fa152f9b2c75865d8275843"
+  ]
 }

@@ -6,11 +6,11 @@
     "negative": 2
   },
   "summary": "positive:4 neutral:8 negative:2",
-  "generatedAt": "2026-04-13T08:14:22.625Z",
+  "generatedAt": "2026-09-06T07:33:55.416Z",
   "topics": [
-    "Save America Act Initiatives",
-    "Iran National Women's Soccer Team Asylum",
-    "Election Records Seizure in Arizona"
+    "Calls for the passage of the Save America Act with voter ID requirements",
+    "FBI seizes election records in Arizona amid voting probe",
+    "Advocates for asylum for the Iranian National Women's Soccer Team"
   ],
   "posts": [
     {
@@ -352,18 +352,15 @@
       "analyzedAt": "2026-04-13T08:14:22.620Z"
     }
   ],
-  "trendingTopic": "I just spoke to Prime Minister Anthony Albanese, of Australia, concerning the Iranian National Women’s Soccer Team.",
+  "trendingTopic": "Calls for the passage of the Save America Act with voter ID requirements",
   "selfPraiseCount": 0,
-  "trendingName": "Anthony Albanese",
   "secondaryHighlights": [
     {
-      "topic": "It’s not the Save Act, it’s The Save America Act!"
+      "topic": "FBI seizes election records in Arizona amid voting probe"
     },
     {
-      "topic": "Kim Clement prophesying about Donald Trump, 2007"
-    },
-    {
-      "topic": "Cassidy ‘Trump Attacked Secret Service Agent’ Hutchinson Referred for Criminal Charges"
+      "topic": "Advocates for asylum for the Iranian National Women's Soccer Team"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:14:43b1680df30191424fa12228"
 }

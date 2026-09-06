@@ -6,11 +6,11 @@
     "negative": 0
   },
   "summary": "positive:3 neutral:1 negative:0",
-  "generatedAt": "2026-09-06T07:25:21.985Z",
+  "generatedAt": "2026-04-13T07:59:35.985Z",
   "topics": [
-    "Jeb Bush praises Trump's support for Iranians a decade after their primary battle",
-    "Inspector General finds whistleblower complaint against Tulsi Gabbard not credible",
-    "Trump discusses trade and military with President Xi ahead of April trip to China"
+    "Endorsement of Clay Fuller",
+    "China-U.S. Relations Discussion",
+    "Whistleblower Complaint Confirmation"
   ],
   "posts": [
     {
@@ -112,17 +112,18 @@
       "analyzedAt": "2026-04-13T07:59:35.982Z"
     }
   ],
-  "trendingTopic": "Jeb Bush praises Trump's support for Iranians a decade after their primary battle",
+  "trendingTopic": "Inspector General confirms whistleblower complaint against Tulsi Gabbard ‘did not appear credible’",
   "selfPraiseCount": 0,
-  "trendingName": "Jeb Bush",
+  "trendingName": "Tulsi Gabbard",
   "secondaryHighlights": [
     {
-      "topic": "Inspector General finds whistleblower complaint against Tulsi Gabbard not credible",
-      "name": "Tulsi Gabbard"
+      "topic": "I have just completed an excellent telephone conversation with President Xi, of China."
     },
     {
-      "topic": "Trump discusses trade and military with President Xi ahead of April trip to China"
+      "topic": "Jeb Bush heaps praise on Trump’s ‘unprecedented support’ for Iranians 10 years after heated primary"
+    },
+    {
+      "topic": "It is my Great Honor to endorse America First Patriot, Clay Fuller, who is running to represent the wonderful people of Georgia’s 14th Congressional District."
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:4:c791a56052e28dc801d961d2"
+  ]
 }

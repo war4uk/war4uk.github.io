@@ -6,11 +6,11 @@
     "negative": 2
   },
   "summary": "positive:16 neutral:7 negative:2",
-  "generatedAt": "2026-04-13T08:16:08.574Z",
+  "generatedAt": "2026-09-06T07:34:05.966Z",
   "topics": [
-    "Iran Military Actions",
-    "Trump Endorsements and Support",
-    "Women's History Month Recognition"
+    "Trump honors women during Women's History Month at White House events",
+    "Trump's military actions and statements regarding Iran's military capabilities",
+    "Trump's economic revival and investment surge in America"
   ],
   "posts": [
     {
@@ -616,17 +616,15 @@
       "analyzedAt": "2026-04-13T08:16:08.569Z"
     }
   ],
-  "trendingTopic": "Iran had plans of taking over the entire Middle East, and completely obliterating Israel",
+  "trendingTopic": "Trump honors women during Women's History Month at White House events",
   "selfPraiseCount": 1,
   "secondaryHighlights": [
     {
-      "topic": "Moments ago, at my direction, the United States Central Command executed one of the most powerful bombing raids in the History of the Middle East, and totally obliterated every MILITARY target in Iran’s crown jewel, Kharg Island."
+      "topic": "Trump's military actions and statements regarding Iran's military capabilities"
     },
     {
-      "topic": "Baltimore woman honored by President Trump during Women’s History Month"
-    },
-    {
-      "topic": "Trump honors Virginia mom, farmer at White House Women's History Month event"
+      "topic": "Trump's economic revival and investment surge in America"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:25:400862b986e42f38c186c927"
 }

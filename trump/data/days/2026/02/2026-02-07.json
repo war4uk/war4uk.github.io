@@ -6,11 +6,11 @@
     "negative": 0
   },
   "summary": "positive:6 neutral:4 negative:0",
-  "generatedAt": "2026-09-06T07:25:26.307Z",
+  "generatedAt": "2026-04-13T08:03:02.009Z",
   "topics": [
-    "Record stock market performance attributed to Trump's tariffs and economic policies",
-    "FCC investigates ABC's 'The View' for equal time violations during candidate coverage",
-    "Trump's influence on Latin America and mass detention ruling by appeals court"
+    "Stock Market Milestone",
+    "Border Security and Deportation Efforts",
+    "Media Competition and Regulation"
   ],
   "posts": [
     {
@@ -256,15 +256,17 @@
       "analyzedAt": "2026-04-13T08:03:02.007Z"
     }
   ],
-  "trendingTopic": "Record stock market performance attributed to Trump's tariffs and economic policies",
+  "trendingTopic": "FCC launching probe into ABC's 'The View' amid crackdown on equal time for candidates",
   "selfPraiseCount": 0,
   "secondaryHighlights": [
     {
-      "topic": "FCC investigates ABC's 'The View' for equal time violations during candidate coverage"
+      "topic": "Another BIG WIN for Maine, and all of New England!"
     },
     {
-      "topic": "Trump's influence on Latin America and mass detention ruling by appeals court"
+      "topic": "Trump’s most important achievement"
+    },
+    {
+      "topic": "Does America have the resolve to deport illegal border crossers"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:10:e4cbc422b114787806a72203"
+  ]
 }

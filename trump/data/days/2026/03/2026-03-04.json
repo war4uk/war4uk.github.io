@@ -6,11 +6,11 @@
     "negative": 0
   },
   "summary": "positive:6 neutral:50 negative:0",
-  "generatedAt": "2026-04-13T08:12:50.808Z",
+  "generatedAt": "2026-09-06T07:33:47.926Z",
   "topics": [
-    "Trump Kennedy Center Restoration",
-    "Texas Senate Race Endorsement",
-    "Venezuela Oil Relations"
+    "Trump to attend White House Correspondents' Dinner in surprising turn of events",
+    "House Oversight Committee finds Tim Walz' administration aware of fraud",
+    "Delcy Rodríguez praised for collaboration with U.S. Representatives"
   ],
   "posts": [
     {
@@ -1360,19 +1360,15 @@
       "analyzedAt": "2026-04-13T08:12:50.804Z"
     }
   ],
-  "trendingTopic": "Bill Pulte Highlights How Falling Mortgage Rates Are Restoring Buyer Confidence",
-  "trendingName": "Bill Pulte",
+  "trendingTopic": "Trump to attend White House Correspondents' Dinner in surprising turn of events",
   "selfPraiseCount": 0,
   "secondaryHighlights": [
     {
-      "topic": "House Oversight Committee concludes Tim Walz' administration knew of fraud, failed to act",
-      "name": "Tim Walz"
+      "topic": "House Oversight Committee finds Tim Walz' administration aware of fraud"
     },
     {
-      "topic": "Trump will attend White House Correspondents’ Dinner in stunning twist"
-    },
-    {
-      "topic": "Trump Honored on Behalf of Coal Miners as ‘Undisputed Champion of Beautiful, Clean Coal’"
+      "topic": "Delcy Rodríguez praised for collaboration with U.S. Representatives"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:56:9beccf1c3ebb0e864730897d"
 }

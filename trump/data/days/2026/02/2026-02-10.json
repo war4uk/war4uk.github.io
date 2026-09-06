@@ -6,11 +6,11 @@
     "negative": 3
   },
   "summary": "positive:8 neutral:12 negative:3",
-  "generatedAt": "2026-09-06T07:25:31.642Z",
+  "generatedAt": "2026-04-13T08:03:53.726Z",
   "topics": [
-    "Federal appeals court rules against migrant protections from three nations",
-    "Congressional endorsements for various Florida representatives",
-    "Calls for ethics inquiry on Pentagon-related issues"
+    "Congressional Endorsements in Florida",
+    "Border Security and Migrant Crime",
+    "Federal Court Rulings on Migrant Protections"
   ],
   "posts": [
     {
@@ -568,12 +568,20 @@
       "analyzedAt": "2026-04-13T08:03:53.723Z"
     }
   ],
-  "trendingTopic": "Federal appeals court rules against migrant protections from three nations",
+  "trendingTopic": "Congressman John Rutherford is an incredible Representative for the wonderful People of Florida’s 5th Congressional District!",
   "selfPraiseCount": 0,
+  "trendingName": "John Rutherford",
   "secondaryHighlights": [
     {
-      "topic": "Congressional endorsements for various Florida representatives"
+      "topic": "Congressman Daniel Webster is doing an incredible job representing the Great People of Florida’s 11th Congressional District!",
+      "name": "Daniel Webster"
+    },
+    {
+      "topic": "Congressman Brian Mast is a MAGA Warrior and Fantastic Advocate for Florida’s 21st Congressional District!",
+      "name": "Brian Mast"
+    },
+    {
+      "topic": "Pentagon wants ethics inquiry on Rep. Vindman’s Ukraine business deals"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:23:4c26270dc62008c55d560637"
+  ]
 }

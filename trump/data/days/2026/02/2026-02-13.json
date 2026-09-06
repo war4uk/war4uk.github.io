@@ -6,11 +6,11 @@
     "negative": 4
   },
   "summary": "positive:2 neutral:3 negative:4",
-  "generatedAt": "2026-09-06T07:25:36.784Z",
+  "generatedAt": "2026-04-13T08:05:14.096Z",
   "topics": [
-    "Supports Viktor Orbán as a strong leader for Hungary",
-    "Criticizes Democrats for opposing Voter I.D. laws",
-    "Condemns Governor Roy Cooper for releasing a violent offender"
+    "Election Security in Arizona",
+    "Voter ID and Election Integrity",
+    "Crime and Public Safety in North Carolina"
   ],
   "posts": [
     {
@@ -232,15 +232,18 @@
       "analyzedAt": "2026-04-13T08:05:14.093Z"
     }
   ],
-  "trendingTopic": "Criticizes Democrats for opposing Voter I.D. laws",
+  "trendingTopic": "Secretary Kristi Noem addresses election security in Arizona",
+  "trendingName": "Kristi Noem",
   "selfPraiseCount": 0,
   "secondaryHighlights": [
     {
-      "topic": "Supports Viktor Orbán as a strong leader for Hungary"
+      "topic": "Our advanced F-22 Raptor Fighter Jet"
     },
     {
-      "topic": "Condemns Governor Roy Cooper for releasing a violent offender"
+      "topic": "The Democrats refuse to vote for Voter I.D., or Citizenship. The reason is very simple"
+    },
+    {
+      "topic": "We cannot let the Democrats get away with NO VOTER I.D. any longer"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:9:4a47c279eead4b363a2b21fd"
+  ]
 }

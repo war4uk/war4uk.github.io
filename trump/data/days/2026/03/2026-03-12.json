@@ -6,11 +6,11 @@
     "negative": 2
   },
   "summary": "positive:1 neutral:2 negative:2",
-  "generatedAt": "2026-04-13T08:15:15.006Z",
+  "generatedAt": "2026-09-06T07:34:03.059Z",
   "topics": [
-    "FIFA World Cup Hosting",
-    "Federal Reserve Interest Rates",
-    "Iran Nuclear Threat and Soccer Team"
+    "Critiques the politicization of the FBI and improper surveillance",
+    "Comments on the Iran National Soccer Team's participation in the World Cup",
+    "Calls for immediate interest rate cuts from Federal Reserve Chairman Jerome Powell"
   ],
   "posts": [
     {
@@ -136,17 +136,16 @@
       "analyzedAt": "2026-04-13T08:15:15.002Z"
     }
   ],
-  "trendingTopic": "Where is the Federal Reserve Chairman, Jerome “Too Late” Powell, today?",
+  "trendingTopic": "Critiques the politicization of the FBI and improper surveillance",
   "selfPraiseCount": 1,
   "secondaryHighlights": [
     {
-      "topic": "The United States of America looks very much forward to hosting the FIFA World Cup"
+      "topic": "Comments on the Iran National Soccer Team's participation in the World Cup"
     },
     {
-      "topic": "Ex-FBI agent says he witnessed politicization of bureau, warned about improper surveillance"
-    },
-    {
-      "topic": "The United States is the largest Oil Producer in the World, by far, so when oil prices go up, we make a lot of money."
+      "topic": "Calls for immediate interest rate cuts from Federal Reserve Chairman Jerome Powell"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:5:fcaf7349195bf0bf0fc13cfd",
+  "trendingName": "Ex-FBI agent"
 }

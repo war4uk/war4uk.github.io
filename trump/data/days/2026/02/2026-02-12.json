@@ -6,11 +6,11 @@
     "negative": 1
   },
   "summary": "positive:9 neutral:6 negative:1",
-  "generatedAt": "2026-09-06T07:25:35.242Z",
+  "generatedAt": "2026-04-13T08:05:00.212Z",
   "topics": [
-    "TrumpRx.gov provides immediate drug price relief to millions",
-    "Nominations of judges to U.S. District Courts in Montana, South Carolina, and the Court of International Trade",
-    "First Lady Melania Trump visits NIH to charm young patients for Valentine's Day"
+    "Manufacturing and Economic Recovery",
+    "U.S.-Venezuela Relations and Oil",
+    "Judicial Nominations and Legal Integrity"
   ],
   "posts": [
     {
@@ -400,15 +400,18 @@
       "analyzedAt": "2026-04-13T08:05:00.210Z"
     }
   ],
-  "trendingTopic": "TrumpRx.gov provides immediate drug price relief to millions",
+  "trendingTopic": "I am pleased to announce the nomination of Katie Lane to serve as Judge on the United States District Court for the District of Montana.",
   "selfPraiseCount": 2,
   "secondaryHighlights": [
     {
-      "topic": "Nominations of judges to U.S. District Courts in Montana, South Carolina, and the Court of International Trade"
+      "topic": "First Lady Melania Trump charms young patients during NIH visit to mark Valentine's Day",
+      "name": "Melania Trump"
     },
     {
-      "topic": "First Lady Melania Trump visits NIH to charm young patients for Valentine's Day"
+      "topic": "1 big thing: Stunning crime crash"
+    },
+    {
+      "topic": "Pentagon Prepares Second Aircraft Carrier to Deploy to the Middle East"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:16:465b48f36a13f6e6241cedec"
+  ]
 }

@@ -6,11 +6,11 @@
     "negative": 0
   },
   "summary": "positive:8 neutral:2 negative:0",
-  "generatedAt": "2026-09-06T07:25:44.340Z",
+  "generatedAt": "2026-04-13T08:07:27.586Z",
   "topics": [
-    "Reduces U.S. trade deficit significantly due to tariffs",
-    "Nominates multiple judges for federal courts",
-    "Advocates for American voting in elections"
+    "Tariffs and Economic Impact",
+    "Voter ID and Election Integrity",
+    "Judicial Nominations and Legal Integrity"
   ],
   "posts": [
     {
@@ -256,15 +256,18 @@
       "analyzedAt": "2026-04-13T08:07:27.584Z"
     }
   ],
-  "trendingTopic": "Reduces U.S. trade deficit significantly due to tariffs",
+  "trendingTopic": "Great job in your Debate against Hillary Clinton on various subjects, including her ridiculous views on Gender",
   "selfPraiseCount": 1,
+  "trendingName": "Hillary Clinton",
   "secondaryHighlights": [
     {
-      "topic": "Nominates multiple judges for federal courts"
+      "topic": "I only want Americans to Vote in American Elections!"
     },
     {
-      "topic": "Advocates for American voting in elections"
+      "topic": "It is my Great Honor to nominate Justin Smith to serve as Judge on the United States Court of Appeals for the Eighth Circuit in Missouri."
+    },
+    {
+      "topic": "I am pleased to nominate Tony Powell to serve as Judge on the United States District Court for the District of Kansas."
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:10:da8254ac2ab5df85c4f0f923"
+  ]
 }

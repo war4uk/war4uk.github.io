@@ -6,11 +6,11 @@
     "negative": 6
   },
   "summary": "positive:7 neutral:3 negative:6",
-  "generatedAt": "2026-04-13T08:19:05.235Z",
+  "generatedAt": "2026-09-06T07:34:21.553Z",
   "topics": [
-    "China-U.S. Relations and Diplomacy",
-    "FISA Reauthorization and Intelligence",
-    "Immigration and ICE Operations"
+    "Exposes FBI surveillance of Trump allies and possible illegality",
+    "Trump administration aims to streamline home ownership permitting",
+    "Iran's missile capabilities impact European security perceptions"
   ],
   "posts": [
     {
@@ -400,17 +400,15 @@
       "analyzedAt": "2026-04-13T08:19:05.231Z"
     }
   ],
-  "trendingTopic": "Docs expose expansive FBI surveillance of Trump allies, possible illegality",
+  "trendingTopic": "Exposes FBI surveillance of Trump allies and possible illegality",
   "selfPraiseCount": 0,
   "secondaryHighlights": [
     {
-      "topic": "Trump and Pirro deserve credit for big cuts to Washington, DC crime"
+      "topic": "Trump administration aims to streamline home ownership permitting"
     },
     {
-      "topic": "HANNITY MONOLOGUE: Modern-Day Democratic Party Has Lost Its Heart and Soul [WATCH]"
-    },
-    {
-      "topic": "Blame the Democrats for the Airport’s mess"
+      "topic": "Iran's missile capabilities impact European security perceptions"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:16:f50cfb4d1346378f05644dfb"
 }

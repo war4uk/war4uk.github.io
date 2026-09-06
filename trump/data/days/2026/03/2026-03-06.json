@@ -6,11 +6,11 @@
     "negative": 10
   },
   "summary": "positive:13 neutral:6 negative:10",
-  "generatedAt": "2026-04-13T08:13:43.756Z",
+  "generatedAt": "2026-09-06T07:33:50.688Z",
   "topics": [
-    "Defense Manufacturing Expansion",
-    "Immigration and Crime Issues",
-    "Iran Relations and Policy"
+    "Remembers Lou Holtz following his passing",
+    "Trump criticizes Bill Maher for their White House dinner",
+    "Trump honors victims of illegal immigrant crime at Angel Family Day"
   ],
   "posts": [
     {
@@ -712,21 +712,16 @@
       "analyzedAt": "2026-04-13T08:13:43.752Z"
     }
   ],
-  "trendingTopic": "Trump Breaks Up With Bill Maher On Valentine's Day",
-  "trendingName": "Bill Maher",
+  "trendingTopic": "Remembers Lou Holtz following his passing",
+  "trendingName": "Lou Holtz",
   "selfPraiseCount": 0,
   "secondaryHighlights": [
     {
-      "topic": "Trump calls Bill Maher a 'jerk,' adding that dinner with him was 'a total waste of time'",
-      "name": "Bill Maher"
+      "topic": "Trump criticizes Bill Maher for their White House dinner"
     },
     {
-      "topic": "Donald Trump Rages At Bill Maher, Says “It Was A Total Waste Of Time For Me To Have This Jerk At The White House”",
-      "name": "Bill Maher"
-    },
-    {
-      "topic": "Trump slams Bill Maher in Truth Social post as ‘extremely nervous’ with ‘ZERO confidence in himself’",
-      "name": "Bill Maher"
+      "topic": "Trump honors victims of illegal immigrant crime at Angel Family Day"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:29:546c360a5cce2d6c8bc408b4"
 }

@@ -6,11 +6,11 @@
     "negative": 6
   },
   "summary": "positive:7 neutral:15 negative:6",
-  "generatedAt": "2026-04-13T08:15:07.246Z",
+  "generatedAt": "2026-09-06T07:34:01.593Z",
   "topics": [
-    "Gavin Newsom Presidential Nomination Critique",
-    "Endorsements for Congressional Candidates",
-    "Election Integrity and Voter ID"
+    "Endorses Clay Fuller for Congress in Georgia's 14th District",
+    "Criticizes Thomas Massie as the Worst Republican Congressman",
+    "Supports Brandon Herrera for Congress in Texas' 23rd District"
   ],
   "posts": [
     {
@@ -688,19 +688,16 @@
       "analyzedAt": "2026-04-13T08:15:07.239Z"
     }
   ],
-  "trendingTopic": "Trump targeted by four FBI code-named counterintel probes that ensnared hundreds of Americans",
+  "trendingTopic": "Endorses Clay Fuller for Congress in Georgia's 14th District",
   "selfPraiseCount": 3,
   "secondaryHighlights": [
     {
-      "topic": "Hillary Clinton should’ve heeded my ‘reality Czech’ to save the West",
-      "name": "Hillary Clinton"
+      "topic": "Criticizes Thomas Massie as the Worst Republican Congressman"
     },
     {
-      "topic": "Gavin Newscum’s interview weeks ago was, perhaps, the most self destructive interview I’ve ever seen",
-      "name": "Gavin Newscum"
-    },
-    {
-      "topic": "One of the many criminals picked up in Memphis, Tennessee"
+      "topic": "Supports Brandon Herrera for Congress in Texas' 23rd District"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:28:e943462f206f9ff1aee4f98b",
+  "trendingName": "Clay Fuller"
 }

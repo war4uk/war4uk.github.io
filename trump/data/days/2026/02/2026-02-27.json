@@ -6,11 +6,11 @@
     "negative": 6
   },
   "summary": "positive:41 neutral:30 negative:6",
-  "generatedAt": "2026-09-06T07:25:55.339Z",
+  "generatedAt": "2026-04-13T08:10:30.040Z",
   "topics": [
-    "Trump's State of the Union address receives widespread acclaim and analysis",
-    "Congressional endorsements for America First candidates in Texas",
-    "Mortgage rates drop below 6% for the first time since 2022"
+    "Supreme Court Tariff Decision",
+    "Military Technology Controversy",
+    "Texas Congressional Endorsements"
   ],
   "posts": [
     {
@@ -1864,15 +1864,19 @@
       "analyzedAt": "2026-04-13T08:09:47.308Z"
     }
   ],
-  "trendingTopic": "Trump's State of the Union address receives widespread acclaim and analysis",
+  "trendingTopic": "It is my Great Honor to endorse Jessica Steinmann, who is running to represent the amazing people of Texas’ 8th Congressional District.",
   "selfPraiseCount": 2,
   "secondaryHighlights": [
     {
-      "topic": "Congressional endorsements for America First candidates in Texas"
+      "topic": "The recent Decision of the United States Supreme Court concerning TARIFFS could allow for Hundreds of Billions of Dollars to be returned to Countries and Companies that have been “ripping off” the United States of America for many years to come, and now, according to this Decision, could actually continue to do so, at an even increased level."
     },
     {
-      "topic": "Mortgage rates drop below 6% for the first time since 2022"
+      "topic": "Congressman Pete Sessions is a Tremendous Champion for Texas’ 17th Congressional District!",
+      "name": "Pete Sessions"
+    },
+    {
+      "topic": "I am proud to once again endorse Texas Lieutenant Governor, Dan Patrick, for Re-Election",
+      "name": "Dan Patrick"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:77:fba7f5c41a63908b90e66b10"
+  ]
 }
