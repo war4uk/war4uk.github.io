@@ -1,28 +1,28 @@
 {
   "date": "2026-09-06",
   "counts": {
-    "positive": 1,
-    "neutral": 23,
-    "negative": 6
+    "positive": 3,
+    "neutral": 31,
+    "negative": 7
   },
-  "summary": "positive:1 neutral:23 negative:6",
-  "generatedAt": "2026-09-06T19:01:47.867Z",
+  "summary": "positive:3 neutral:31 negative:7",
+  "generatedAt": "2026-09-06T20:00:24.739Z",
   "topics": [
     "Critiques Spain's border control issues",
-    "Comments on Canada's currency imbalance with the U.S.",
-    "Calls for Voter I.D. approval"
+    "Comments on U.S.-Canada currency imbalance",
+    "Calls for Voter ID approval"
   ],
   "trendingTopic": "Critiques Spain's border control issues",
   "secondaryHighlights": [
     {
-      "topic": "Comments on Canada's currency imbalance with the U.S."
+      "topic": "Comments on U.S.-Canada currency imbalance"
     },
     {
-      "topic": "Calls for Voter I.D. approval"
+      "topic": "Calls for Voter ID approval"
     }
   ],
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v8:30:8005f076299a23bc39c31b59",
+  "topicsCacheKey": "day-themes-v8:41:3bbf6801e48a24bd011442b3",
   "posts": [
     {
       "id": "https://trumpstruth.org/statuses/41530",
@@ -563,6 +563,204 @@
         "guid": "https://www.trumpstruth.org/statuses/41556",
         "isoDate": "2026-09-06T18:54:21.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41560",
+      "publishedAt": "2026-09-06T18:56:45.000Z",
+      "title": "[No Title] - Post from September 6, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41560",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 6, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41560",
+        "pubDate": "Sun, 06 Sep 2026 18:56:45 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41560",
+        "isoDate": "2026-09-06T18:56:45.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41559",
+      "publishedAt": "2026-09-06T19:04:51.000Z",
+      "title": "[No Title] - Post from September 6, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41559",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 6, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41559",
+        "pubDate": "Sun, 06 Sep 2026 19:04:51 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41559",
+        "isoDate": "2026-09-06T19:04:51.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41562",
+      "publishedAt": "2026-09-06T19:05:33.000Z",
+      "title": "[No Title] - Post from September 6, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41562",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 6, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41562",
+        "pubDate": "Sun, 06 Sep 2026 19:05:33 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41562",
+        "isoDate": "2026-09-06T19:05:33.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41561",
+      "publishedAt": "2026-09-06T19:06:45.000Z",
+      "title": "Last week at the White House Ballroom/Military Complex. It will be the finest of its kind, anywhere in the World! President DONALD J. TRUMP",
+      "text": "<p>Last week at the White House Ballroom/Military Complex. It will be the finest of its kind, anywhere in the World! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41561",
+      "raw": {
+        "creator": "",
+        "title": "Last week at the White House Ballroom/Military Complex. It will be the finest of its kind, anywhere in the World! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41561",
+        "pubDate": "Sun, 06 Sep 2026 19:06:45 +0000",
+        "author": "",
+        "content": "<p>Last week at the White House Ballroom/Military Complex. It will be the finest of its kind, anywhere in the World! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Last week at the White House Ballroom/Military Complex. It will be the finest of its kind, anywhere in the World! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41561",
+        "isoDate": "2026-09-06T19:06:45.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41564",
+      "publishedAt": "2026-09-06T19:11:50.000Z",
+      "title": "[No Title] - Post from September 6, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41564",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 6, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41564",
+        "pubDate": "Sun, 06 Sep 2026 19:11:50 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41564",
+        "isoDate": "2026-09-06T19:11:50.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41563",
+      "publishedAt": "2026-09-06T19:12:04.000Z",
+      "title": "[No Title] - Post from September 6, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41563",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 6, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41563",
+        "pubDate": "Sun, 06 Sep 2026 19:12:04 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41563",
+        "isoDate": "2026-09-06T19:12:04.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41565",
+      "publishedAt": "2026-09-06T19:17:16.000Z",
+      "title": "I do this for our Country, not myself. I’ve made Hundreds of Billions of Dollars on Stocks, and many other type Holdings, for the U.S.A., not myself, and all I do is get criticized by the Radical Left Dumocrats. Very unfair, but what can you do! President DONALD J. TRUMP",
+      "text": "<p>I do this for our Country, not myself. I’ve made Hundreds of Billions of Dollars on Stocks, and many other type Holdings, for the U.S.A., not myself, and all I do is get criticized by the Radical Left Dumocrats. Very unfair, but what can you do! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41565",
+      "raw": {
+        "creator": "",
+        "title": "I do this for our Country, not myself. I’ve made Hundreds of Billions of Dollars on Stocks, and many other type Holdings, for the U.S.A., not myself, and all I do is get criticized by the Radical Left Dumocrats. Very unfair, but what can you do! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41565",
+        "pubDate": "Sun, 06 Sep 2026 19:17:16 +0000",
+        "author": "",
+        "content": "<p>I do this for our Country, not myself. I’ve made Hundreds of Billions of Dollars on Stocks, and many other type Holdings, for the U.S.A., not myself, and all I do is get criticized by the Radical Left Dumocrats. Very unfair, but what can you do! President DONALD J. TRUMP</p>",
+        "contentSnippet": "I do this for our Country, not myself. I’ve made Hundreds of Billions of Dollars on Stocks, and many other type Holdings, for the U.S.A., not myself, and all I do is get criticized by the Radical Left Dumocrats. Very unfair, but what can you do! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41565",
+        "isoDate": "2026-09-06T19:17:16.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41567",
+      "publishedAt": "2026-09-06T19:26:09.000Z",
+      "title": "[No Title] - Post from September 6, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41567",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 6, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41567",
+        "pubDate": "Sun, 06 Sep 2026 19:26:09 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41567",
+        "isoDate": "2026-09-06T19:26:09.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41566",
+      "publishedAt": "2026-09-06T19:28:21.000Z",
+      "title": "[No Title] - Post from September 6, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41566",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 6, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41566",
+        "pubDate": "Sun, 06 Sep 2026 19:28:21 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41566",
+        "isoDate": "2026-09-06T19:28:21.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41569",
+      "publishedAt": "2026-09-06T19:43:15.000Z",
+      "title": "[No Title] - Post from September 6, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41569",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 6, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41569",
+        "pubDate": "Sun, 06 Sep 2026 19:43:15 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41569",
+        "isoDate": "2026-09-06T19:43:15.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41568",
+      "publishedAt": "2026-09-06T19:43:45.000Z",
+      "title": "The Mar-a-Lago Club is considered, by everyone, to be the Best in the World. It also serves as our unparalleled Southern White House, free of charge. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+      "text": "<p>The Mar-a-Lago Club is considered, by everyone, to be the Best in the World. It also serves as our unparalleled Southern White House, free of charge. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41568",
+      "raw": {
+        "creator": "",
+        "title": "The Mar-a-Lago Club is considered, by everyone, to be the Best in the World. It also serves as our unparalleled Southern White House, free of charge. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41568",
+        "pubDate": "Sun, 06 Sep 2026 19:43:45 +0000",
+        "author": "",
+        "content": "<p>The Mar-a-Lago Club is considered, by everyone, to be the Best in the World. It also serves as our unparalleled Southern White House, free of charge. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "The Mar-a-Lago Club is considered, by everyone, to be the Best in the World. It also serves as our unparalleled Southern White House, free of charge. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41568",
+        "isoDate": "2026-09-06T19:43:45.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -745,6 +943,72 @@
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-06T19:01:40.549Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41559",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no information or sentiment.",
+      "analyzedAt": "2026-09-06T20:00:17.730Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41560",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no information or sentiment.",
+      "analyzedAt": "2026-09-06T20:00:17.730Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41561",
+      "label": "positive",
+      "rationale": "The text expresses a positive sentiment about the White House Ballroom/Military Complex, describing it as 'the finest of its kind, anywhere in the World'.",
+      "analyzedAt": "2026-09-06T20:00:17.730Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41562",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no information or sentiment.",
+      "analyzedAt": "2026-09-06T20:00:17.730Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41563",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no information or sentiment.",
+      "analyzedAt": "2026-09-06T20:00:17.730Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41564",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no information or sentiment.",
+      "analyzedAt": "2026-09-06T20:00:17.730Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41565",
+      "label": "negative",
+      "rationale": "The text conveys a negative sentiment due to the mention of being criticized by the 'Radical Left Dumocrats', indicating a feeling of unfairness and frustration.",
+      "analyzedAt": "2026-09-06T20:00:17.730Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41566",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no information or sentiment.",
+      "analyzedAt": "2026-09-06T20:00:17.730Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41567",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no information or sentiment.",
+      "analyzedAt": "2026-09-06T20:00:17.730Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41568",
+      "label": "positive",
+      "rationale": "The text expresses a strong positive sentiment about the Mar-a-Lago Club, describing it as 'the Best in the World' and referring to it as an 'unparalleled Southern White House'.",
+      "analyzedAt": "2026-09-06T20:00:17.730Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41569",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no information or sentiment.",
+      "analyzedAt": "2026-09-06T20:00:17.730Z"
     }
   ]
 }
