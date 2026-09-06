@@ -6,22 +6,20 @@
     "negative": 2
   },
   "summary": "positive:6 neutral:12 negative:2",
-  "generatedAt": "2026-09-05T08:04:49.263Z",
+  "generatedAt": "2026-09-06T08:03:21.175Z",
   "topics": [
-    "Economic Growth and Job Creation",
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Celebrates wins in recent elections and the defeat of Alexander Vindman",
+    "Announces pause on tariffs against Canada due to a new deal",
+    "Nominates Dr. Heidi Overton as the next FDA Commissioner"
   ],
-  "trendingTopic": "SleazeBag Vindman loses tonight to a Radical Left Lunatic",
+  "trendingTopic": "Celebrates wins in recent elections and the defeat of Alexander Vindman",
   "secondaryHighlights": [
     {
-      "topic": "A lot of great WINS tonight!!!"
+      "topic": "Announces pause on tariffs against Canada due to a new deal"
     },
     {
-      "topic": "No one has given the Islamic Republic of Iran a greater opportunity to make a Deal than me"
-    },
-    {
-      "topic": "I told Congressman Cory Mills of Florida, a friend of mine, to get out of the Race, but he wouldn’t listen"
+      "topic": "Nominates Dr. Heidi Overton as the next FDA Commissioner",
+      "name": "Dr. Heidi Overton"
     }
   ],
   "selfPraiseCount": 1,
@@ -508,5 +506,6 @@
       "rationale": "The text expresses a strong negative sentiment towards Iran, describing their military and economic state in a very harsh manner and announcing severe economic consequences.",
       "analyzedAt": "2026-09-05T07:49:43.913Z"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:20:a81584d9afb09e390e7e82a2"
 }

@@ -6,22 +6,15 @@
     "negative": 5
   },
   "summary": "positive:21 neutral:3 negative:5",
-  "generatedAt": "2026-09-05T08:04:27.390Z",
+  "generatedAt": "2026-09-06T08:03:07.283Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Accusations of ethics violations against Democratic senator over grants to wife's nonprofit",
+    "Endorsements of multiple America First candidates in New York and Florida"
   ],
-  "trendingTopic": "It is my Great Honor to endorse America First Patriot, Anthony Constantino, who is running to represent the fantastic people of New York’s 21st Congressional District.",
+  "trendingTopic": "Accusations of ethics violations against Democratic senator over grants to wife's nonprofit",
   "secondaryHighlights": [
     {
-      "topic": "I am looking forward to being back in the Great State of New York tomorrow, where Highly Respected and very popular Nassau County Executive, Bruce Blakeman, is running to be the next Governor!"
-    },
-    {
-      "topic": "State Representative “MAGA” Meg Weinberger is an America First Patriot who is doing an incredible job representing Florida’s 94th State House District!Meg is MAGA all the way, and has been with us from the very beginning, helping advance our AMERICA FIRST Agenda."
-    },
-    {
-      "topic": "Congressman Andrew Garbarino is a Fierce Advocate for Long Island, and the Great People of New York’s 2nd Congressional District!",
-      "name": "Andrew Garbarino"
+      "topic": "Endorsements of multiple America First candidates in New York and Florida"
     }
   ],
   "selfPraiseCount": 0,
@@ -724,5 +717,7 @@
       "rationale": "The text expresses a strong endorsement for Catalina Lauf, highlighting her qualities and the positive impact she will have as a Congresswoman.",
       "analyzedAt": "2026-09-05T07:48:12.217Z"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:29:2ae9326baae21d2b9552733f",
+  "trendingName": "Democratic senator"
 }

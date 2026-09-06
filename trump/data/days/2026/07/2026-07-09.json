@@ -6,14 +6,20 @@
     "negative": 0
   },
   "summary": "positive:1 neutral:2 negative:0",
-  "generatedAt": "2026-09-06T07:57:22.708Z",
+  "generatedAt": "2026-09-05T20:03:14.515Z",
   "topics": [
-    "Gwynne Shotwell and Robert donate 325 million dollars in SpaceX stock to help children"
+    "Gwynne Shotwell's generous donation",
+    "Impact on children's lives"
   ],
   "trendingTopic": "Gwynne Shotwell and Robert donate 325 million dollars in SpaceX stock to help children",
   "trendingName": "Gwynne Shotwell",
+  "secondaryHighlights": [
+    {
+      "topic": "Support for children's future through philanthropy"
+    }
+  ],
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v8:3:5097b56ec7277e3acd4dac1b",
+  "topicsCacheKey": "day-themes-v3:3:5097b56ec7277e3acd4dac1b",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39912",
@@ -88,11 +94,6 @@
       "label": "positive",
       "rationale": "The text expresses gratitude and appreciation for Gwynne Shotwell and her husband for their generous donation, highlighting the positive impact on children's lives and the American Dream.",
       "analyzedAt": "2026-09-05T07:59:09.320Z"
-    }
-  ],
-  "secondaryHighlights": [
-    {
-      "topic": "Thank you to the brilliant and highly respected Gwynne Shotwell, and her husband, Robert, for their extreme Generosity in helping children to attain the ever magnificent American Dream!"
     }
   ]
 }

@@ -6,23 +6,24 @@
     "negative": 5
   },
   "summary": "positive:14 neutral:23 negative:5",
-  "generatedAt": "2026-09-06T07:57:36.391Z",
+  "generatedAt": "2026-09-05T19:56:35.151Z",
   "topics": [
-    "Trump announces nearly $10 billion in defense investments at Pennsylvania summit",
-    "Calls for Republicans to add Iran to the Russian Sanctions Bill",
-    "Trump-style nationalism surges globally with potential Le Pen resurgence in France"
+    "Andy Burnham opens North Sea Oil in Scotland",
+    "Trump highlights $10 billion in defense investments",
+    "Republicans push for Iran sanctions"
   ],
-  "trendingTopic": "Trump announces nearly $10 billion in defense investments at Pennsylvania summit",
+  "trendingTopic": "Andy Burnham's decision to open North Sea Oil sparks celebration in Scotland",
+  "trendingName": "Andy Burnham",
   "secondaryHighlights": [
     {
-      "topic": "Calls for Republicans to add Iran to the Russian Sanctions Bill"
+      "topic": "Trump announces nearly $10 billion in defense contracts"
     },
     {
-      "topic": "Trump-style nationalism surges globally with potential Le Pen resurgence in France"
+      "topic": "Republicans advocate for adding Iran to sanctions bill"
     }
   ],
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v8:42:b40ded26ccf0686ca3b7d2db",
+  "topicsCacheKey": "day-themes-v3:42:b40ded26ccf0686ca3b7d2db",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40106",

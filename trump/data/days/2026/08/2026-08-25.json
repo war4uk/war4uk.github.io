@@ -6,25 +6,19 @@
     "negative": 5
   },
   "summary": "positive:10 neutral:16 negative:5",
-  "generatedAt": "2026-09-05T08:05:10.434Z",
+  "generatedAt": "2026-09-06T08:03:32.261Z",
   "topics": [
-    "Disaster Recovery and Assistance",
-    "Economic Growth and Job Creation",
-    "Endorsements and Support for Candidates"
+    "Rallies South Carolina voters for Darline Graham ahead of Senate runoff",
+    "Discusses U.S.-Canada trade issues and tariffs",
+    "Comments on humanitarian crisis in Iran"
   ],
-  "trendingTopic": "Secretary Sean Duffy: My job is to get my daughter into heaven, not Harvard",
-  "trendingName": "Sean Duffy",
+  "trendingTopic": "Rallies South Carolina voters for Darline Graham ahead of Senate runoff",
   "secondaryHighlights": [
     {
-      "topic": "Gavin Newsom hails Trump Accounts as ‘best’ thing the prez has ever done in rare lovefest",
-      "name": "Gavin Newsom"
+      "topic": "Discusses U.S.-Canada trade issues and tariffs"
     },
     {
-      "topic": "Donald Trump, Dave McCormick, and Jamie Dimon unveil a massive manufacturing push in Pennsylvania",
-      "name": "Jamie Dimon"
-    },
-    {
-      "topic": "Lake Ontario renamed Lake America"
+      "topic": "Comments on humanitarian crisis in Iran"
     }
   ],
   "selfPraiseCount": 2,
@@ -775,5 +769,6 @@
       "rationale": "The text expresses sadness over the passing of Dolly Parton, indicating a loss felt by many.",
       "analyzedAt": "2026-09-05T07:51:22.035Z"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:31:bdc58d2e434404c0ba20b57c"
 }

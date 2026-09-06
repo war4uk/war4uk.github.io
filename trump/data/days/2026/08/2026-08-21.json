@@ -6,25 +6,19 @@
     "negative": 11
   },
   "summary": "positive:31 neutral:36 negative:11",
-  "generatedAt": "2026-09-05T08:04:56.283Z",
+  "generatedAt": "2026-09-06T08:03:25.067Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Economic Growth and Job Creation",
-    "Political Commentary and Controversies"
+    "Announces deal to lower ground beef prices for American families",
+    "Supreme Court allows construction at Trump White House ballroom to proceed",
+    "Trump rallies in South Carolina for Darline Graham's Senate run"
   ],
-  "trendingTopic": "I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place.",
-  "trendingName": "Lindsey Graham",
+  "trendingTopic": "Announces deal to lower ground beef prices for American families",
   "secondaryHighlights": [
     {
-      "topic": "Melania Trump links up with IndyCar for foster kid scholarships",
-      "name": "Melania Trump"
+      "topic": "Supreme Court allows construction at Trump White House ballroom to proceed"
     },
     {
-      "topic": "Work on Trump White House ballroom can continue, Supreme Court Chief Justice John Roberts rules",
-      "name": "John Roberts"
-    },
-    {
-      "topic": "Trump Is Right: Judges Can’t Be Construction Foremen"
+      "topic": "Trump rallies in South Carolina for Darline Graham's Senate run"
     }
   ],
   "selfPraiseCount": 0,
@@ -1903,5 +1897,6 @@
       "rationale": "The text discusses a booming economy and criticizes media narratives, indicating a positive sentiment.",
       "analyzedAt": "2026-09-05T07:50:25.831Z"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:78:bda72810ce7020131a2f6bfb"
 }

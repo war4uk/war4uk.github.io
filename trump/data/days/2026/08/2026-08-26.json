@@ -6,26 +6,20 @@
     "negative": 5
   },
   "summary": "positive:10 neutral:35 negative:5",
-  "generatedAt": "2026-09-05T08:05:13.890Z",
+  "generatedAt": "2026-09-06T08:03:34.087Z",
   "topics": [
-    "Disaster Recovery and Assistance",
-    "Economic Growth and Job Creation",
-    "Endorsements and Support for Candidates"
+    "Darline Graham wins GOP nomination for brother's South Carolina seat with Trump's endorsement",
+    "Trump directs U.S. flag to be lowered in honor of Dolly Parton",
+    "Supreme Court delivers major election integrity victory benefiting Trump"
   ],
-  "trendingTopic": "Speaker of the House, Mike Johnson, is GREAT. He gets it done!!!",
-  "trendingName": "Mike Johnson",
+  "trendingTopic": "Darline Graham wins GOP nomination for brother's South Carolina seat with Trump's endorsement",
+  "trendingName": "Darline Graham",
   "secondaryHighlights": [
     {
-      "topic": "JD Vance, Ohio Figures Give Rousing Middletown Speech on Manufacturing Investments",
-      "name": "JD Vance"
+      "topic": "Trump directs U.S. flag to be lowered in honor of Dolly Parton"
     },
     {
-      "topic": "Ralph Norman had the look of a good Congressman (Not great, but good), but ruined his career when he endorsed Nikki Haley.",
-      "name": "Nikki Haley"
-    },
-    {
-      "topic": "Mike Waltz Takes Cuba to School: https://www.wsj.com/opinion/mike-waltz-takes-cuba-to-school-25912dc2",
-      "name": "Mike Waltz"
+      "topic": "Supreme Court delivers major election integrity victory benefiting Trump"
     }
   ],
   "selfPraiseCount": 2,
@@ -1232,5 +1226,6 @@
       "rationale": "The text expresses anger and blame towards Joe Biden and the Democrats for the deaths of American servicemen, describing it as a catastrophe and incompetence.",
       "analyzedAt": "2026-09-05T07:57:17.011Z"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:50:5b0159c1fdeb7aecee95dcab"
 }

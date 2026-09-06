@@ -6,23 +6,23 @@
     "negative": 5
   },
   "summary": "positive:4 neutral:13 negative:5",
-  "generatedAt": "2026-09-06T07:57:25.619Z",
+  "generatedAt": "2026-09-05T19:55:59.247Z",
   "topics": [
-    "Apple announces $30 billion investment in US chip manufacturing",
-    "Trump warns of military response to threats from Iran",
-    "Trump criticizes media and political opponents"
+    "Trump's military threats against Iran",
+    "Trump's criticism of media and political opponents",
+    "Trump's infrastructure deal for Gordie Howe Bridge"
   ],
-  "trendingTopic": "Apple announces $30 billion investment in US chip manufacturing",
+  "trendingTopic": "Trump threatens military action against Iran amid assassination threats",
   "secondaryHighlights": [
     {
-      "topic": "Trump warns of military response to threats from Iran"
+      "topic": "Trump criticizes media and political opponents"
     },
     {
-      "topic": "Trump criticizes media and political opponents"
+      "topic": "Trump announces infrastructure deal for Gordie Howe Bridge"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v8:22:f870865c6c203d2678290bca",
+  "topicsCacheKey": "day-themes-v3:22:f870865c6c203d2678290bca",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39933",

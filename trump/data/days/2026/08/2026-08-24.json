@@ -6,24 +6,20 @@
     "negative": 4
   },
   "summary": "positive:10 neutral:34 negative:4",
-  "generatedAt": "2026-09-05T08:05:06.960Z",
+  "generatedAt": "2026-09-06T08:03:29.742Z",
   "topics": [
-    "Political Commentary and Controversies",
-    "Endorsements and Support for Candidates",
-    "Economic Growth and Job Creation"
+    "Trump's policies lead to significant tax refunds and lower gas prices",
+    "Concerns over Ilhan Omar's fraud probe and ICE's refusal to disclose records",
+    "Trump's stance on Iran and the economic blockade"
   ],
-  "trendingTopic": "Cabinet Officials Commend Work of Presidential Personnel Office Under Dan Scavino",
-  "trendingName": "Dan Scavino",
+  "trendingTopic": "Trump's policies lead to significant tax refunds and lower gas prices",
   "secondaryHighlights": [
     {
-      "topic": "My Endorsements are stronger than ever"
+      "topic": "Concerns over Ilhan Omar's fraud probe and ICE's refusal to disclose records",
+      "name": "Ilhan Omar"
     },
     {
-      "topic": "The Radical Left Democrats are going CRAZY with Fake Polls"
-    },
-    {
-      "topic": "Trump gets last laugh as Indiana Senate taps Chris Garten to lead chamber",
-      "name": "Chris Garten"
+      "topic": "Trump's stance on Iran and the economic blockade"
     }
   ],
   "selfPraiseCount": 0,
@@ -1182,5 +1178,6 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T07:51:08.872Z"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:48:4aad36d8ac3b7c5ab183cbb2"
 }

@@ -6,20 +6,19 @@
     "negative": 1
   },
   "summary": "positive:2 neutral:8 negative:1",
-  "generatedAt": "2026-09-05T08:04:59.706Z",
+  "generatedAt": "2026-09-06T08:03:26.607Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies",
-    "Disaster Recovery and Assistance"
+    "Kevin Rideout freed from ISIS captivity",
+    "Tucker Carlson criticized by Marjorie Greene and Thomas Massie",
+    "Progress on White House ballroom and military complex"
   ],
-  "trendingTopic": "Today we brought another American home!",
+  "trendingTopic": "Kevin Rideout freed from ISIS captivity after ten months as a hostage",
   "secondaryHighlights": [
     {
-      "topic": "Tucker Carlson just met with Lightweight “Former” Congressman, Thomas Massie, and Marjorie “Traitor” Greene, LOSERS ALL! Tucker’s “Views” have fallen through the floor, and will only get worse.",
-      "name": "Tucker Carlson"
+      "topic": "Tucker Carlson criticized by Marjorie Greene and Thomas Massie"
     },
     {
-      "topic": "Tremendous work has been done on the magnificent BALLROOM/MILITARY COMPLEX being built on the grounds of the White House!"
+      "topic": "Progress on White House ballroom and military complex"
     }
   ],
   "selfPraiseCount": 0,
@@ -290,5 +289,7 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T07:50:37.394Z"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:11:e3a228df962ae61a01e3f22a",
+  "trendingName": "Kevin Rideout"
 }

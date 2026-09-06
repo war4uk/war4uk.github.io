@@ -6,22 +6,19 @@
     "negative": 2
   },
   "summary": "positive:9 neutral:21 negative:2",
-  "generatedAt": "2026-09-05T08:04:13.215Z",
+  "generatedAt": "2026-09-06T08:02:57.997Z",
   "topics": [
-    "Political Commentary and Controversies",
-    "Economic Growth and Job Creation",
-    "Endorsements and Support for Candidates"
+    "Trump hosts over 120 Team USA Winter Olympians and Paralympians at the White House",
+    "Trump achieves immigration victory with federal judge's ruling on Haiti TPS",
+    "Trump's Vegas visit highlights tax wins and munitions availability"
   ],
-  "trendingTopic": "EXCLUSIVE: White House Launches Fraud Website To Highlight Successes Of Task Force",
+  "trendingTopic": "Trump hosts over 120 Team USA Winter Olympians and Paralympians at the White House",
   "secondaryHighlights": [
     {
-      "topic": "Jobless Claims Remain Below 200,000 For Third Straight Week—First Time in 57 Years"
+      "topic": "Trump achieves immigration victory with federal judge's ruling on Haiti TPS"
     },
     {
-      "topic": "Trump's Vegas Visit Hammers Tax Wins"
-    },
-    {
-      "topic": "Gary Player at Trump Turnberry!"
+      "topic": "Trump's Vegas visit highlights tax wins and munitions availability"
     }
   ],
   "selfPraiseCount": 0,
@@ -796,5 +793,6 @@
       "rationale": "The text presents information about a migration control operation without expressing a clear positive or negative sentiment.",
       "analyzedAt": "2026-09-05T07:47:16.066Z"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v8:32:03b8923e3cb33bf1a2f911d2"
 }

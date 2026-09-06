@@ -6,23 +6,24 @@
     "negative": 10
   },
   "summary": "positive:23 neutral:67 negative:10",
-  "generatedAt": "2026-09-06T07:57:15.912Z",
+  "generatedAt": "2026-09-05T20:02:55.933Z",
   "topics": [
-    "Trump declares communism as the biggest threat facing America in recent speeches",
-    "World Cup sets new attendance record and is expected to break total attendance mark",
-    "Trump congratulates Freedom 250 for a spectacular fireworks show"
+    "Justin Gaethje wins UFC World Championship",
+    "Massive crowd at White House event despite weather",
+    "Spectacular fireworks show praised by Trump"
   ],
-  "trendingTopic": "Trump declares communism as the biggest threat facing America in recent speeches",
+  "trendingTopic": "Justin Gaethje celebrated at the White House after winning the UFC World Championship",
+  "trendingName": "Justin Gaethje",
   "secondaryHighlights": [
     {
-      "topic": "World Cup sets new attendance record and is expected to break total attendance mark"
+      "topic": "Massive crowd at White House event despite weather"
     },
     {
-      "topic": "Trump congratulates Freedom 250 for a spectacular fireworks show"
+      "topic": "Spectacular fireworks show praised by Trump"
     }
   ],
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v8:100:a2d20af234ee193ec5acff7d",
+  "topicsCacheKey": "day-themes-v3:100:a2d20af234ee193ec5acff7d",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39724",

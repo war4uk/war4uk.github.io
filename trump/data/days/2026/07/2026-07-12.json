@@ -6,19 +6,19 @@
     "negative": 1
   },
   "summary": "positive:4 neutral:5 negative:1",
-  "generatedAt": "2026-09-06T07:57:26.629Z",
+  "generatedAt": "2026-09-05T19:56:03.948Z",
   "topics": [
-    "Remembers Senator Lindsey Graham as a true American Patriot",
-    "Orders American Flags to be lowered in honor of Senator Lindsey Graham"
+    "Lindsey Graham's passing and tributes",
+    "Donald Trump's statements on Graham"
   ],
-  "trendingTopic": "Remembers Senator Lindsey Graham as a true American Patriot",
+  "trendingTopic": "Lindsey Graham honored by President Trump following his passing",
   "secondaryHighlights": [
     {
-      "topic": "Orders American Flags to be lowered in honor of Senator Lindsey Graham"
+      "topic": "Trump expresses gratitude to Ben Domenech"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v8:10:3df4d231cf19c87a32082e72",
+  "topicsCacheKey": "day-themes-v3:10:3df4d231cf19c87a32082e72",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39956",
@@ -262,6 +262,5 @@
       "rationale": "The text is a link to a YouTube video without any sentiment expressed.",
       "analyzedAt": "2026-09-05T07:59:40.268Z"
     }
-  ],
-  "trendingName": "Lindsey Graham"
+  ]
 }
