@@ -665,6 +665,21 @@ function compactHeadline(raw, max = 110) {
   }
   return isCompleteHeadline(t) ? t : "";
 }
+function firstSentence(text, max) {
+  const t = text.replace(/\s+/g, " ").trim();
+  if (!t) return "";
+  const match = t.match(/^(.+?[.!?])(\s|$)/);
+  const lead = (match ? match[1] : t).trim();
+  if (lead.length <= max) return lead;
+  const slice = lead.slice(0, max);
+  const at = slice.lastIndexOf(" ");
+  return `${(at > 40 ? slice.slice(0, at) : slice).trim()}\u2026`;
+}
+function displayLead(raw, max = 120) {
+  const t = raw.replace(/\s+/g, " ").trim();
+  if (!t) return "";
+  return compactHeadline(t, max) || firstSentence(t, max);
+}
 function extractName(text) {
   const hay = stripHtml(text);
   for (const figure of KNOWN_FIGURES) {
@@ -686,7 +701,7 @@ function extractName(text) {
 function headlineFromPost(post) {
   const title = cleanTitle(post.title || post.raw?.title || "");
   const body = cleanTitle(post.raw?.contentSnippet || stripHtml(post.text || ""));
-  return compactHeadline(title) || compactHeadline(body) || title || body;
+  return displayLead(title) || displayLead(body);
 }
 function snippetFromPost(post) {
   const snippet = stripHtml(post.raw?.contentSnippet || post.text || "");
@@ -721,9 +736,9 @@ function listDayPosts(posts, sentiments = []) {
   }
   const out = [];
   for (const post of dedupePosts(posts)) {
-    const cleaned = cleanTitle(post.title || post.raw?.title || "");
+    const cleaned = displayLead(cleanTitle(post.title || post.raw?.title || ""));
     const snippet = snippetFromPost(post);
-    const title = cleaned || snippet || UNTITLED_POST_LABEL;
+    const title = cleaned || displayLead(snippet) || UNTITLED_POST_LABEL;
     const id = String(post.id || post.url || postDedupeKey(post));
     const url = String(post.url || post.raw?.link || post.id || "");
     const key = postDedupeKey(post);
@@ -765,32 +780,35 @@ function buildDayStoryBoard(input) {
   push(
     input.trendingTopic ? { topic: input.trendingTopic, ...input.trendingName ? { name: input.trendingName } : {} } : void 0
   );
-  for (const extra of input.secondaryHighlights || []) push(extra);
-  const clusters = /* @__PURE__ */ new Map();
-  for (const post of dedupePosts(input.posts || [])) {
-    const topic = headlineFromPost(post);
-    if (!topic) continue;
-    const name = extractName(`${cleanTitle(post.title || "")} ${post.raw?.contentSnippet || stripHtml(post.text || "")}`);
-    const key = openingKey2(topic) || topic.toLowerCase();
-    const prev = clusters.get(key);
-    if (prev) {
-      prev.headlines.push(topic);
-      if (name) prev.names.push(name);
-    } else {
-      clusters.set(key, { headlines: [topic], names: name ? [name] : [] });
+  const storedSecondaries = input.secondaryHighlights;
+  for (const extra of storedSecondaries || []) push(extra);
+  if (!Array.isArray(storedSecondaries)) {
+    const clusters = /* @__PURE__ */ new Map();
+    for (const post of dedupePosts(input.posts || [])) {
+      const topic = headlineFromPost(post);
+      if (!topic) continue;
+      const name = extractName(`${cleanTitle(post.title || "")} ${post.raw?.contentSnippet || stripHtml(post.text || "")}`);
+      const key = openingKey2(topic) || topic.toLowerCase();
+      const prev = clusters.get(key);
+      if (prev) {
+        prev.headlines.push(topic);
+        if (name) prev.names.push(name);
+      } else {
+        clusters.set(key, { headlines: [topic], names: name ? [name] : [] });
+      }
     }
+    const clustered = Array.from(clusters.values()).map((group) => {
+      const topic = [...group.headlines].sort((a, b) => a.length - b.length)[0];
+      const unanimous = group.names.length > 0 && group.names.every((n) => n.toLowerCase() === group.names[0].toLowerCase());
+      const name = unanimous ? group.names[0] : void 0;
+      return {
+        topic,
+        count: group.headlines.length,
+        ...name ? { name } : {}
+      };
+    }).sort((a, b) => b.count - a.count);
+    for (const group of clustered) push(group);
   }
-  const clustered = Array.from(clusters.values()).map((group) => {
-    const topic = [...group.headlines].sort((a, b) => b.length - a.length)[0];
-    const unanimous = group.names.length > 0 && group.names.every((n) => n.toLowerCase() === group.names[0].toLowerCase());
-    const name = unanimous ? group.names[0] : void 0;
-    return {
-      topic,
-      count: group.headlines.length,
-      ...name ? { name } : {}
-    };
-  }).sort((a, b) => b.count - a.count);
-  for (const group of clustered) push(group);
   const primary = ranked[0] || { topic: "" };
   const secondary = ranked.filter((s) => !sameStory(s, primary)).slice(0, 3);
   return { primary, secondary, posts };
@@ -803,6 +821,11 @@ var calendar = null;
 var lastFocusedCell = null;
 function escapeHtml(value) {
   return value.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+}
+function formatStoryItem(item, topicClass, nameClass) {
+  const topic = `<div><span class="hl-label">Topic</span> <span class="${topicClass}">${escapeHtml(item.topic)}</span></div>`;
+  if (!item.name) return `<li>${topic}</li>`;
+  return `<li>${topic}<div><span class="hl-label">Name</span> <span class="${nameClass}">${escapeHtml(item.name)}</span></div></li>`;
 }
 function formatPostTime(iso) {
   if (!iso) return "";
@@ -875,8 +898,8 @@ function renderDayDetail(runtime, summary) {
     secondaryHighlights: summary.secondaryHighlights
   });
   const primaryTopic = board.primary.topic || summary.trendingTopic || "\u2014";
-  const primaryName = board.primary.name || summary.trendingName || "\u2014";
-  const secondaryRows = board.secondary.length ? board.secondary.map((s) => `<li><div><span class="hl-label">Topic</span> <span class="day-story-topic">${escapeHtml(s.topic)}</span></div><div><span class="hl-label">Name</span> <span class="day-story-name">${escapeHtml(s.name || "\u2014")}</span></div></li>`).join("") : '<li class="day-empty">No additional stories</li>';
+  const primaryName = board.primary.name || summary.trendingName || "";
+  const secondaryRows = board.secondary.length ? board.secondary.map((s) => formatStoryItem(s, "day-story-topic", "day-story-name")).join("") : '<li class="day-empty">No additional stories</li>';
   const postRows = board.posts.length ? board.posts.map((p) => {
     const label = escapeHtml(p.title);
     const snippet = p.snippet ? `<span class="day-post-snippet">${escapeHtml(p.snippet)}</span>` : "";
@@ -888,7 +911,7 @@ function renderDayDetail(runtime, summary) {
   body.innerHTML = `
     <section class="day-primary">
       <p class="hl-row"><span class="hl-label">Trending topic</span> <span id="day-trending-topic">${escapeHtml(primaryTopic)}</span></p>
-      <p class="hl-row"><span class="hl-label">Trending name</span> <span id="day-trending-name">${escapeHtml(primaryName)}</span></p>
+      ${primaryName ? `<p class="hl-row"><span class="hl-label">Trending name</span> <span id="day-trending-name">${escapeHtml(primaryName)}</span></p>` : ""}
     </section>
     <section class="day-secondary">
       <h3>Also trending</h3>
@@ -951,10 +974,17 @@ function renderMonthHighlights(runtime, view, month) {
   const isCurrent = today.startsWith(key);
   if (heading) heading.textContent = isCurrent ? "Month so far" : "This month";
   topicEl.textContent = highlights.trendingTopic || "\u2014";
-  nameEl.textContent = highlights.trendingName || "\u2014";
+  const nameRow = nameEl.closest(".hl-row") || nameEl.parentElement;
+  if (highlights.trendingName) {
+    nameEl.textContent = highlights.trendingName;
+    if (nameRow instanceof HTMLElement) nameRow.hidden = false;
+  } else {
+    nameEl.textContent = "";
+    if (nameRow instanceof HTMLElement) nameRow.hidden = true;
+  }
   const extras = highlights.secondaryHighlights || [];
   if (secondaryList) {
-    secondaryList.innerHTML = extras.length ? extras.map((item) => `<li><div><span class="hl-label">Topic</span> <span class="month-story-topic">${escapeHtml(item.topic)}</span></div><div><span class="hl-label">Name</span> <span class="month-story-name">${escapeHtml(item.name || "\u2014")}</span></div></li>`).join("") : "";
+    secondaryList.innerHTML = extras.length ? extras.map((item) => formatStoryItem(item, "month-story-topic", "month-story-name")).join("") : "";
   }
   if (secondaryWrap) secondaryWrap.hidden = extras.length === 0;
   section.hidden = days.length === 0;

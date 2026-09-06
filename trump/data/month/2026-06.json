@@ -198,20 +198,20 @@
       "summary": "positive:19 neutral:3 negative:8",
       "topics": [
         "Endorses multiple America First candidates in South Carolina and Nevada",
-        "Supports early voting and endorses Burt Jones for Governor of Georgia",
-        "Congratulates Ohio Senate for passing Voter I.D. legislation"
+        "Early Voting underway in Georgia with Burt Jones running for Governor",
+        "Calls for ceasefire negotiations between Israel and Iran"
       ],
       "postsCount": 30,
       "hasDetail": true,
-      "generatedAt": "2026-09-05T20:58:00.319Z",
+      "generatedAt": "2026-09-06T05:07:24.574Z",
       "trendingTopic": "Endorses multiple America First candidates in South Carolina and Nevada",
       "secondaryHighlights": [
         {
-          "topic": "Supports early voting and endorses Burt Jones for Governor of Georgia",
+          "topic": "Early Voting underway in Georgia with Burt Jones running for Governor",
           "name": "Burt Jones"
         },
         {
-          "topic": "Congratulates Ohio Senate for passing Voter I.D. legislation"
+          "topic": "Calls for ceasefire negotiations between Israel and Iran"
         }
       ],
       "selfPraiseCount": 6
@@ -834,18 +834,20 @@
       "selfPraiseCount": 1
     }
   ],
-  "generatedAt": "2026-09-05T21:00:28.888Z",
+  "generatedAt": "2026-09-06T05:07:24.574Z",
   "trendingTopic": "Endorses multiple GOP candidates across various states for upcoming elections",
   "secondaryHighlights": [
     {
       "topic": "Announces completion of a peace deal with Iran"
     },
     {
-      "topic": "Calls for the passage of the SAVE AMERICA ACT as a National Emergency"
+      "topic": "Endorses Julia Letlow for the United States Senate in Louisiana",
+      "name": "Julia Letlow"
     },
     {
-      "topic": "Announces multiple judicial nominations to federal courts"
+      "topic": "Supports Mike Collins in Georgia Senate race against Ossoff",
+      "name": "Mike Collins"
     }
   ],
-  "topicsCacheKey": "month-themes-v4:30:fd5d0c535b6f0fb5444374a3"
+  "topicsCacheKey": "month-themes-v5:30:5851a646b873c99a05b126e6"
 }
