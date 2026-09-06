@@ -6,25 +6,24 @@
     "negative": 4
   },
   "summary": "positive:2 neutral:5 negative:4",
-  "generatedAt": "2026-09-05T20:59:59.867Z",
+  "generatedAt": "2026-09-06T06:03:19.075Z",
   "topics": [
+    "Criticizes Jamie Raskin for impeachment efforts during his presidency",
     "Announces nomination of Jay Clayton for a prominent position",
-    "Discusses military actions and negotiations with Iran",
-    "Critiques Jamie Raskin's impeachment efforts"
+    "Calls for action against Iran amid military discussions"
   ],
-  "trendingTopic": "Discusses military actions and negotiations with Iran",
+  "trendingTopic": "Criticizes Jamie Raskin for impeachment efforts during his presidency",
   "secondaryHighlights": [
     {
       "topic": "Announces nomination of Jay Clayton for a prominent position",
       "name": "Jay Clayton"
     },
     {
-      "topic": "Critiques Jamie Raskin's impeachment efforts",
-      "name": "Jamie Raskin"
+      "topic": "Calls for action against Iran amid military discussions"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v5:11:b72339e7af99fd8372adde91",
+  "topicsCacheKey": "day-themes-v8:11:b72339e7af99fd8372adde91",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39211",
@@ -292,5 +291,6 @@
       "rationale": "The text expresses strong negative sentiments towards Jamie Raskin, calling him a 'Loser in Life' and criticizing his actions during Trump's presidency. The language used is derogatory and dismissive.",
       "analyzedAt": "2026-09-05T08:35:24.730Z"
     }
-  ]
+  ],
+  "trendingName": "Jamie Raskin"
 }

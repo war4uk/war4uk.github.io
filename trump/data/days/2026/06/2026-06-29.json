@@ -6,23 +6,24 @@
     "negative": 3
   },
   "summary": "positive:9 neutral:13 negative:3",
-  "generatedAt": "2026-09-05T21:00:27.382Z",
+  "generatedAt": "2026-09-06T06:03:46.215Z",
   "topics": [
-    "Announces nomination of Keith E. Sonderling as permanent Secretary of Labor",
-    "Calls for immediate reduction in gasoline prices as oil prices drop",
-    "Comments on Supreme Court rulings affecting presidential power and voter rights"
+    "Calls for gasoline retailers to lower prices as oil prices drop",
+    "Nominates Keith E. Sonderling as permanent Secretary of Labor",
+    "Supreme Court rulings increase Presidential power and impact voter rights"
   ],
-  "trendingTopic": "Announces nomination of Keith E. Sonderling as permanent Secretary of Labor",
+  "trendingTopic": "Supreme Court rulings increase Presidential power and impact voter rights",
   "secondaryHighlights": [
     {
-      "topic": "Calls for immediate reduction in gasoline prices as oil prices drop"
+      "topic": "Calls for gasoline retailers to lower prices as oil prices drop"
     },
     {
-      "topic": "Comments on Supreme Court rulings affecting presidential power and voter rights"
+      "topic": "Nominates Keith E. Sonderling as permanent Secretary of Labor",
+      "name": "Keith E. Sonderling"
     }
   ],
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v5:25:1c7c99ce0c38871afe944abe",
+  "topicsCacheKey": "day-themes-v8:25:1c7c99ce0c38871afe944abe",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39600",

@@ -11,6 +11,11 @@
     "Announces participation in a major rally in Dallas"
   ],
   "trendingTopic": "Announces participation in a major rally in Dallas",
+  "secondaryHighlights": [
+    {
+      "topic": "The Greatest RALLY of them all!"
+    }
+  ],
   "selfPraiseCount": 1,
   "topicsCacheKey": "day-themes-v8:14:59c49031c15f887a72fbfc8e",
   "posts": [
@@ -351,11 +356,6 @@
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-06T00:02:45.525Z"
-    }
-  ],
-  "secondaryHighlights": [
-    {
-      "topic": "The Greatest RALLY of them all!"
     }
   ]
 }

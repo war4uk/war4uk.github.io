@@ -6,23 +6,24 @@
     "negative": 2
   },
   "summary": "positive:23 neutral:3 negative:2",
-  "generatedAt": "2026-09-05T21:00:28.888Z",
+  "generatedAt": "2026-09-06T06:03:48.065Z",
   "topics": [
-    "Announces multiple judicial nominations to federal courts",
-    "Approves disaster relief funding for several states after severe weather",
-    "Celebrates Supreme Court rulings on political spending and women's sports"
+    "Announces disaster funding approvals for multiple states including Georgia, Michigan, and Florida",
+    "Congratulates Rachel Campos-Duffy on her new book about American patriotism",
+    "Nominates several judges to the United States Sentencing Commission and federal courts"
   ],
-  "trendingTopic": "Announces multiple judicial nominations to federal courts",
+  "trendingTopic": "Announces disaster funding approvals for multiple states including Georgia, Michigan, and Florida",
   "secondaryHighlights": [
     {
-      "topic": "Approves disaster relief funding for several states after severe weather"
+      "topic": "Congratulates Rachel Campos-Duffy on her new book about American patriotism",
+      "name": "Rachel Campos-Duffy"
     },
     {
-      "topic": "Celebrates Supreme Court rulings on political spending and women's sports"
+      "topic": "Nominates several judges to the United States Sentencing Commission and federal courts"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v5:28:2f542d9052fbe0ac18cb10f0",
+  "topicsCacheKey": "day-themes-v8:28:2f542d9052fbe0ac18cb10f0",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39624",
