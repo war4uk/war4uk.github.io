@@ -6,12 +6,24 @@
     "negative": 3
   },
   "summary": "positive:10 neutral:20 negative:3",
-  "generatedAt": "2026-04-13T08:11:20.517Z",
+  "generatedAt": "2026-09-07T15:17:05.653Z",
   "topics": [
-    "Trump's Leadership and Legacy",
-    "Iran Military Actions",
-    "Immigration and Crime Issues"
+    "Trump's military actions against Iran and the destruction of their naval ships",
+    "Trump's recent speech praised by supporters for its patriotic themes",
+    "Lady Gaga's father endorses Trump for the 2024 race"
   ],
+  "trendingTopic": "Trump's military actions against Iran and the destruction of their naval ships",
+  "secondaryHighlights": [
+    {
+      "topic": "Trump's recent speech praised by supporters for its patriotic themes"
+    },
+    {
+      "topic": "Lady Gaga's father endorses Trump for the 2024 race"
+    }
+  ],
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:33:d543d5d12ebfbfc52750886d",
+  "selfPraiseCacheKey": "self-praise-v1:33:d543d5d12ebfbfc52750886d",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37004",
@@ -53,7 +65,7 @@
       "id": "https://www.trumpstruth.org/statuses/36997",
       "publishedAt": "2026-03-01T04:52:26.000Z",
       "title": "[No Title] - Post from March 1, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116152122326447063</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116152122326447063</span></p>\n\n[Image] The image features a tweet from Marc Thiessen, who includes a stylized illustration of himself. In the tweet, he discusses Donald Trump's assertion of his significance as a commander in chief in American history. Thiessen mentions that he will share his perspective on a program called \"Special Report\" later. The tweet includes various flags, indicating support for different countries.",
       "url": "https://www.trumpstruth.org/statuses/36997",
       "raw": {
         "creator": "",
@@ -65,7 +77,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116152122326447063",
         "guid": "https://www.trumpstruth.org/statuses/36997",
         "isoDate": "2026-03-01T04:52:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:04:55.501Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15562/18af2bd55e3c7a12.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36999",
@@ -179,7 +195,7 @@
       "id": "https://www.trumpstruth.org/statuses/37005",
       "publishedAt": "2026-03-01T14:19:42.000Z",
       "title": "[No Title] - Post from March 1, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116154351502963230</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116154351502963230</span></p>\n\n[Image] The image features a tweet from a user named Just Jen R, who has a verified account. The tweet encourages followers to watch an analysis of the State of the Union (SOTU) address, describing it as \"EXCELLENT.\" The post includes applause emojis, indicating approval and appreciation for the analysis. There are no recognizable public figures or images in the tweet itself, just text and emojis.",
       "url": "https://www.trumpstruth.org/statuses/37005",
       "raw": {
         "creator": "",
@@ -191,7 +207,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116154351502963230",
         "guid": "https://www.trumpstruth.org/statuses/37005",
         "isoDate": "2026-03-01T14:19:42.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:04:52.655Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15566/bb161a05fcbf58ea.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37008",
@@ -233,7 +253,7 @@
       "id": "https://www.trumpstruth.org/statuses/37009",
       "publishedAt": "2026-03-01T14:59:55.000Z",
       "title": "[No Title] - Post from March 1, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116154510504650134</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116154510504650134</span></p>\n\n[Image] The image features a Twitter profile with the username \"Santa Trump\" and a profile picture depicting a Santa Claus figure. The profile includes American flags and a blue verification checkmark. Below the profile, there is a text that reads \"Love it!\" indicating a positive sentiment. The overall theme suggests a playful or humorous take on the persona of Donald Trump, blending holiday imagery with his name.",
       "url": "https://www.trumpstruth.org/statuses/37009",
       "raw": {
         "creator": "",
@@ -245,7 +265,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116154510504650134",
         "guid": "https://www.trumpstruth.org/statuses/37009",
         "isoDate": "2026-03-01T14:59:55.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:04:44.447Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15569/d434cc9753a5e1bf.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37010",
@@ -377,7 +401,7 @@
       "id": "https://www.trumpstruth.org/statuses/37020",
       "publishedAt": "2026-03-01T19:22:01.000Z",
       "title": "[No Title] - Post from March 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a series of tweets discussing political statements and reactions related to Donald Trump. Mark Hemingway criticizes Democrats for their response to Trump's message about illegal immigration. Megan Basham supports Trump's focus on families affected by crime. Sean Davis quotes Trump urging Democrats to stand up for American citizens, while Guy Benson comments on witnessing a Purple Heart being awarded. The tweets reflect a heated political discourse.",
       "url": "https://www.trumpstruth.org/statuses/37020",
       "raw": {
         "creator": "",
@@ -389,13 +413,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37020",
         "isoDate": "2026-03-01T19:22:01.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:24:43.627Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15574/0e292985eb60be55.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37019",
       "publishedAt": "2026-03-01T19:22:28.000Z",
       "title": "[No Title] - Post from March 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a series of tweets discussing a recent speech by Donald Trump. The tweets express strong support for Trump, highlighting his performance and the reactions of Democratic members of Congress. One tweet mentions Ilhan Omar, suggesting she reacted negatively during the address. The overall tone is celebratory of Trump's approach, emphasizing themes of patriotism and duty to American citizens. The tweets reflect a polarized political atmosphere.",
       "url": "https://www.trumpstruth.org/statuses/37019",
       "raw": {
         "creator": "",
@@ -407,13 +435,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37019",
         "isoDate": "2026-03-01T19:22:28.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:04:32.137Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15573/6d48b2f05ac5bb82.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37018",
       "publishedAt": "2026-03-01T19:22:50.000Z",
       "title": "[No Title] - Post from March 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a series of tweets discussing a recent event, likely related to Donald Trump. The first tweet expresses that the event is a celebration for America rather than a traditional state of the union. Other tweets mention Trump's economic agenda and his approach to various issues, with one user highlighting his ability to surprise guests. The overall tone reflects a mix of admiration and critique regarding Trump's actions and messaging.",
       "url": "https://www.trumpstruth.org/statuses/37018",
       "raw": {
         "creator": "",
@@ -425,13 +457,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37018",
         "isoDate": "2026-03-01T19:22:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:04:30.295Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15572/22147c3153fa7ac1.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37017",
       "publishedAt": "2026-03-01T19:24:35.000Z",
       "title": "[No Title] - Post from March 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a series of tweets discussing Donald Trump's State of the Union address. Katie Pavlich praises Trump's storytelling about real Americans, while Batya Ungar-Sargon describes the speech as a display of American patriotism. John Ziegler comments on Trump's effective messaging regarding illegal immigration, and Mollie Hemingway expresses disappointment about the limited number of future Trump addresses. The tweets reflect a positive reception of Trump's speech.",
       "url": "https://www.trumpstruth.org/statuses/37017",
       "raw": {
         "creator": "",
@@ -443,13 +479,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37017",
         "isoDate": "2026-03-01T19:24:35.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T16:03:50.496Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15571/5c47e5ec94575c59.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37016",
       "publishedAt": "2026-03-01T19:25:05.000Z",
       "title": "[No Title] - Post from March 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a series of tweets discussing a recent speech by Donald Trump. Clint Brown praises the speech as engaging and unpredictable. Kellie Meyer highlights a moment where Trump urged Congress members to prioritize Americans over undocumented migrants, noting the attention it received. Daniel Baldwin quotes a powerful line from the speech, emphasizing its inspirational nature. The overall sentiment reflects a strong reaction to Trump's performance.",
       "url": "https://www.trumpstruth.org/statuses/37016",
       "raw": {
         "creator": "",
@@ -461,13 +501,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37016",
         "isoDate": "2026-03-01T19:25:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:04:15.777Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15570/2f48d8b01b01dad5.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37026",
       "publishedAt": "2026-03-01T19:25:24.000Z",
       "title": "[No Title] - Post from March 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a series of tweets discussing a speech by Donald Trump. Steven Crowder praises Trump, quoting him about divine intervention. Laura Ingraham expresses that the right should appreciate Trump's presence while they can. Mark Penn reflects on how times have changed, contrasting Trump's impactful speech with the Democrats' reactions. Clay Travis describes the speech as positive and pro-America, emphasizing themes of crime reduction and national pride.",
       "url": "https://www.trumpstruth.org/statuses/37026",
       "raw": {
         "creator": "",
@@ -479,13 +523,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37026",
         "isoDate": "2026-03-01T19:25:24.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:04:14.053Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15579/90f7822cfc40e5cf.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37025",
       "publishedAt": "2026-03-01T19:25:42.000Z",
       "title": "[No Title] - Post from March 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a series of tweets discussing a recent speech by Donald Trump. Various users express their opinions on the speech, highlighting its impact and Trump's confrontational stance against Democrats. Comments mention the Democrats' perceived failures and Trump's ability to call them out. The tweets reflect a mix of admiration for Trump's performance and criticism of the opposing party, emphasizing the political tension present in the current landscape.",
       "url": "https://www.trumpstruth.org/statuses/37025",
       "raw": {
         "creator": "",
@@ -497,13 +545,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37025",
         "isoDate": "2026-03-01T19:25:42.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:24:33.190Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15578/149653c0000515d9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37024",
       "publishedAt": "2026-03-01T19:26:00.000Z",
       "title": "[No Title] - Post from March 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a series of tweets praising a speech given by Donald Trump. Charles Gasparino describes Trump as a \"colossus\" and praises the speech's patriotic nature. Sean Davis calls it a \"fantastic speech,\" while Glenn Beck reflects on it as the best of his lifetime, highlighting Trump's confidence and effectiveness. Steven Crowder also commends Trump, quoting a line about the ongoing spirit of the American Revolution. The overall sentiment is highly positive regarding Trump's performance.",
       "url": "https://www.trumpstruth.org/statuses/37024",
       "raw": {
         "creator": "",
@@ -515,13 +567,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37024",
         "isoDate": "2026-03-01T19:26:00.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:04:00.624Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15577/14ea131f97e84d21.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37023",
       "publishedAt": "2026-03-01T19:26:15.000Z",
       "title": "[No Title] - Post from March 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a series of tweets discussing a recent speech by Donald Trump, with various commentators expressing their opinions. Matthew Boyle praises the speech as potentially Trump's best, highlighting its tone and message ahead of the midterms. Jack Posobiec calls it the best State of the Union he's ever seen, while Cernovich reflects on its uniqueness compared to past speeches. Scott Jennings comments on a notable moment regarding Democrats and illegal aliens, suggesting it will be remembered.",
       "url": "https://www.trumpstruth.org/statuses/37023",
       "raw": {
         "creator": "",
@@ -533,13 +589,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37023",
         "isoDate": "2026-03-01T19:26:15.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:03:58.109Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15576/73288feb17b2ae2e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37022",
       "publishedAt": "2026-03-01T19:26:33.000Z",
       "title": "[No Title] - Post from March 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a collection of social media reactions to Donald Trump's 2026 State of the Union address. Tweets from various users express positive sentiments about the speech, with comments highlighting it as historic and impactful. Daniel Baldwin calls it a \"grand slam,\" while Sean Spicer notes it could be one of Trump's greatest speeches. Other users, including Jack Posobiec and Cernovich, also share enthusiastic remarks about the address.",
       "url": "https://www.trumpstruth.org/statuses/37022",
       "raw": {
         "creator": "",
@@ -551,13 +611,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37022",
         "isoDate": "2026-03-01T19:26:33.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:24:30.717Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15575/bf5cdb8082f68208.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37027",
       "publishedAt": "2026-03-01T20:03:54.000Z",
       "title": "The Greatest Chart of All Time!",
-      "text": "<p>The Greatest Chart of All Time!</p>",
+      "text": "<p>The Greatest Chart of All Time!</p>\n\n[Image] The image features Donald Trump speaking at a rally, with his back facing the audience. Behind him is a large display showing a graph titled \"Illegal Immigration into the U.S.\" that highlights trends in illegal immigration over several years, with annotations referencing policies and events. The setting includes campaign signage for Trump and Vance, along with supporters in the foreground, some holding signs and wearing red hats. The atmosphere appears energetic and politically charged.",
       "url": "https://www.trumpstruth.org/statuses/37027",
       "raw": {
         "creator": "",
@@ -569,7 +633,11 @@
         "contentSnippet": "The Greatest Chart of All Time!",
         "guid": "https://www.trumpstruth.org/statuses/37027",
         "isoDate": "2026-03-01T20:03:54.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:03:47.600Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15580/80b5e523ab235833.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37028",
@@ -613,214 +681,199 @@
       "postId": "https://www.trumpstruth.org/statuses/36997",
       "label": "neutral",
       "rationale": "The text is a retweet reference, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36998",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36999",
       "label": "negative",
-      "rationale": "The warning to Iran conveys a threatening and aggressive sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "rationale": "The warning about Iran hitting hard conveys a threatening and negative sentiment.",
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37000",
       "label": "negative",
-      "rationale": "The warning to Iran conveys a threatening and aggressive sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "rationale": "The warning about Iran hitting hard conveys a threatening and negative sentiment.",
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37001",
       "label": "positive",
       "rationale": "The statement about the death of Ayatollah Khamenei is framed positively.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37002",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37003",
       "label": "positive",
       "rationale": "The phrase 'PROMISES MADE, PROMISES KEPT' conveys a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37004",
       "label": "positive",
       "rationale": "The phrase 'PROMISES MADE, PROMISES KEPT' conveys a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37005",
       "label": "neutral",
       "rationale": "The text is a retweet reference, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37006",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37007",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37008",
       "label": "positive",
       "rationale": "The phrase 'bold move to rid the world of Iran’s evil regime' expresses a strong positive sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37009",
       "label": "neutral",
       "rationale": "The text is a retweet reference, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37010",
       "label": "positive",
-      "rationale": "The statement about destroying Iranian ships conveys a strong, assertive sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "rationale": "The statement about destroying Iranian ships conveys a strong and aggressive positive sentiment.",
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37011",
       "label": "positive",
       "rationale": "The statement suggests that Trump cares for Palm Beach County, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37012",
       "label": "negative",
-      "rationale": "The phrase 'Torches ‘Sick’ Democrats' indicates a negative sentiment towards Democrats.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "rationale": "The phrase 'torches sick Democrats' conveys a negative sentiment towards Democrats.",
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37013",
       "label": "positive",
       "rationale": "The declaration of 'National Angel Family Day' honors victims, which is a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37014",
       "label": "positive",
       "rationale": "The endorsement from Lady Gaga's father indicates a positive sentiment towards Trump.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37015",
       "label": "neutral",
-      "rationale": "The text discusses an important decision but does not express a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "rationale": "The text is a statement about an upcoming decision without expressing sentiment.",
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37016",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37017",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37018",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37019",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37020",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37021",
       "label": "positive",
       "rationale": "The statement praises Trump as the greatest President and indicates a positive view of his actions.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37022",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37023",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37024",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37025",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37026",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37027",
       "label": "positive",
       "rationale": "The phrase 'The Greatest Chart of All Time!' expresses a strong positive sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37028",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37029",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:11:20.507Z"
-    }
-  ],
-  "trendingTopic": "Iran just stated that they are going to hit very hard today, harder than they have ever been hit before",
-  "selfPraiseCount": 3,
-  "secondaryHighlights": [
-    {
-      "topic": "Joe Abruzzo says Trump ‘cares’ for Palm Beach County",
-      "name": "Joe Abruzzo"
-    },
-    {
-      "topic": "Michael Goodwin: The death of Ayatollah Khamenei instantly makes the world a better place",
-      "name": "Michael Goodwin"
-    },
-    {
-      "topic": "MADE, PROMISES KEPT. ⒻⒶⒻⓄ RT @DanScavinoPROMISES MADE, PROMISES KEPT. ⒻⒶⒻⓄ"
+      "analyzedAt": "2026-09-06T06:55:33.160Z"
     }
   ]
 }

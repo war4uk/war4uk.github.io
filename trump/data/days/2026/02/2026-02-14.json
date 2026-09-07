@@ -12,8 +12,14 @@
   ],
   "trendingTopic": "Graphic compares mortgage rates attributed to Joe Biden and Donald Trump",
   "trendingName": "Joe Biden",
+  "secondaryHighlights": [
+    {
+      "topic": "[Image] The image displays a graphic comparing mortgage rates associated with two political figures"
+    }
+  ],
   "selfPraiseCount": 0,
   "topicsCacheKey": "day-themes-v10:1:d469778d81634663d406ff99",
+  "selfPraiseCacheKey": "self-praise-v1:1:d469778d81634663d406ff99",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36707",
@@ -44,12 +50,6 @@
       "label": "neutral",
       "rationale": "The text contains no content or sentiment indicators, making it neutral.",
       "analyzedAt": "2026-09-06T06:51:55.159Z"
-    }
-  ],
-  "selfPraiseCacheKey": "self-praise-v1:1:d469778d81634663d406ff99",
-  "secondaryHighlights": [
-    {
-      "topic": "[Image] The image displays a graphic comparing mortgage rates associated with two political figures"
     }
   ]
 }

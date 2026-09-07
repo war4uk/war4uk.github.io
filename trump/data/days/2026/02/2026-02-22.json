@@ -6,18 +6,31 @@
     "negative": 1
   },
   "summary": "positive:5 neutral:0 negative:1",
-  "generatedAt": "2026-04-13T08:08:25.291Z",
+  "generatedAt": "2026-09-07T15:16:44.776Z",
   "topics": [
-    "Olympic Gold Medal Achievements",
-    "Illinois Library Funding Controversy",
-    "Healthcare Initiatives in Greenland"
+    "Sending a hospital boat to Greenland with Governor Jeff Landry",
+    "Criticism of Illinois spending on Obama's library",
+    "U.S.A. Ice Hockey team wins gold medal"
   ],
+  "trendingTopic": "U.S.A. Ice Hockey team wins gold medal at the Olympics",
+  "secondaryHighlights": [
+    {
+      "topic": "Sending a hospital boat to Greenland with Governor Jeff Landry",
+      "name": "Jeff Landry"
+    },
+    {
+      "topic": "Criticism of Illinois spending on Obama's library"
+    }
+  ],
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:6:65a6908c3e01bb9aae860df1",
+  "selfPraiseCacheKey": "self-praise-v1:6:65a6908c3e01bb9aae860df1",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36855",
       "publishedAt": "2026-02-22T00:21:14.000Z",
       "title": "Working with the fantastic Governor of Louisiana, Jeff Landry, we are going to send a great hospital boat to Greenland to take care of the many people who are sick, and not being taken care of there. It’s on the way!!! President DJT",
-      "text": "<p>Working with the fantastic Governor of Louisiana, Jeff Landry, we are going to send a great hospital boat to Greenland to take care of the many people who are sick, and not being taken care of there. It’s on the way!!! President DJT</p>",
+      "text": "<p>Working with the fantastic Governor of Louisiana, Jeff Landry, we are going to send a great hospital boat to Greenland to take care of the many people who are sick, and not being taken care of there. It’s on the way!!! President DJT</p>\n\n[Image] The image depicts a large hospital ship, the USNS Mercy, sailing through a calm ocean at sunset. The ship is adorned with a red cross and an American flag flying from its mast. The sky is filled with vibrant colors, showcasing a dramatic sunset with clouds illuminated by the sun's rays. The scene conveys a sense of hope and service, highlighting the ship's role in providing medical assistance during humanitarian missions.",
       "url": "https://www.trumpstruth.org/statuses/36855",
       "raw": {
         "creator": "",
@@ -29,7 +42,11 @@
         "contentSnippet": "Working with the fantastic Governor of Louisiana, Jeff Landry, we are going to send a great hospital boat to Greenland to take care of the many people who are sick, and not being taken care of there. It’s on the way!!! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/36855",
         "isoDate": "2026-02-22T00:21:14.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:23:17.643Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15509/c4542366b265230b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36856",
@@ -127,50 +144,37 @@
       "postId": "https://www.trumpstruth.org/statuses/36855",
       "label": "positive",
       "rationale": "The message highlights a positive action of sending a hospital boat to help sick people, conveying a sense of care and support.",
-      "analyzedAt": "2026-04-13T08:08:25.289Z"
+      "analyzedAt": "2026-09-06T06:53:51.824Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36856",
       "label": "negative",
       "rationale": "The statement expresses anger and frustration regarding the spending on Obama's library, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:08:25.289Z"
+      "analyzedAt": "2026-09-06T06:53:51.824Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36857",
       "label": "positive",
       "rationale": "The exclamation 'WHAT A GAME!!!' indicates excitement and a positive sentiment about a sporting event.",
-      "analyzedAt": "2026-04-13T08:08:25.289Z"
+      "analyzedAt": "2026-09-06T06:53:51.824Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36858",
       "label": "positive",
       "rationale": "The message congratulates the U.S.A. Ice Hockey team for winning the gold, which is a positive and celebratory statement.",
-      "analyzedAt": "2026-04-13T08:08:25.289Z"
+      "analyzedAt": "2026-09-06T06:53:51.824Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36859",
       "label": "positive",
-      "rationale": "The phrase 'LOTS OF WINNING!!!' expresses enthusiasm and positivity regarding success.",
-      "analyzedAt": "2026-04-13T08:08:25.289Z"
+      "rationale": "The phrase 'LOTS OF WINNING' expresses enthusiasm and positivity regarding President Trump's leadership.",
+      "analyzedAt": "2026-09-06T06:53:51.824Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36860",
       "label": "positive",
       "rationale": "The statement celebrates a record achievement by Team USA at the Olympics, conveying a sense of pride and positivity.",
-      "analyzedAt": "2026-04-13T08:08:25.289Z"
-    }
-  ],
-  "trendingTopic": "Congratulations to our great U.S.A. Ice Hockey team",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "WHAT A GAME!!! President DJT"
-    },
-    {
-      "topic": "LOTS OF WINNING!!! President DONALD J. TRUMP"
-    },
-    {
-      "topic": "The most Gold Medals ever won by Team USA at the Olympics!"
+      "analyzedAt": "2026-09-06T06:53:51.823Z"
     }
   ]
 }

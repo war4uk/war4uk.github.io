@@ -1,23 +1,35 @@
 {
   "date": "2026-03-11",
   "counts": {
-    "positive": 7,
-    "neutral": 15,
+    "positive": 8,
+    "neutral": 14,
     "negative": 6
   },
-  "summary": "positive:7 neutral:15 negative:6",
-  "generatedAt": "2026-04-13T08:15:07.246Z",
+  "summary": "positive:8 neutral:14 negative:6",
+  "generatedAt": "2026-09-07T15:17:29.950Z",
   "topics": [
-    "Gavin Newsom Presidential Nomination Critique",
-    "Endorsements for Congressional Candidates",
-    "Election Integrity and Voter ID"
+    "Endorses multiple candidates in congressional races across the U.S.",
+    "Criticizes Congressman Thomas Massie and supports his primary opponent",
+    "Visits Ohio to promote a $2 billion investment in U.S. manufacturing"
   ],
+  "trendingTopic": "Endorses multiple candidates in congressional races across the U.S.",
+  "secondaryHighlights": [
+    {
+      "topic": "Criticizes Congressman Thomas Massie and supports his primary opponent"
+    },
+    {
+      "topic": "Visits Ohio to promote a $2 billion investment in U.S. manufacturing"
+    }
+  ],
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v10:28:e943462f206f9ff1aee4f98b",
+  "selfPraiseCacheKey": "self-praise-v1:28:e943462f206f9ff1aee4f98b",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37232",
       "publishedAt": "2026-03-11T00:20:26.000Z",
       "title": "One of the many criminals picked up in Memphis, Tennessee. He will not be allowed to kill again!",
-      "text": "<p>One of the many criminals picked up in Memphis, Tennessee. He will not be allowed to kill again!</p>",
+      "text": "<p>One of the many criminals picked up in Memphis, Tennessee. He will not be allowed to kill again!</p>\n\n[Image] The image features a wanted poster for Arsenio Davis, issued by the Memphis Safe Task Force. It includes a photograph of Davis, who has distinctive features such as long hair styled in dreadlocks and facial piercings. The poster lists several serious charges against him, including first-degree murder, second-degree murder, and possession of a firearm during the commission of a dangerous felony. The background is dark blue, with official logos at the top.",
       "url": "https://www.trumpstruth.org/statuses/37232",
       "raw": {
         "creator": "",
@@ -29,13 +41,17 @@
         "contentSnippet": "One of the many criminals picked up in Memphis, Tennessee. He will not be allowed to kill again!",
         "guid": "https://www.trumpstruth.org/statuses/37232",
         "isoDate": "2026-03-11T00:20:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:14:48.798Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15691/14db9dbbdf5c8eea.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37233",
       "publishedAt": "2026-03-11T00:25:46.000Z",
       "title": "The incredible people of Kentucky’s 4th Congressional District, who want desperately to get rid of Thomas Massie, the Worst “Republican” Congressman we have had in many years, gave us a mandate to, MAKE AMERICA GREAT AGAIN! The person that will help us do the job, and do it right, is Navy SEAL, Army Ranger, Fifth Generation Kentucky Farmer, and American Hero, Captain Ed Gallrein, a true Patriot. Today, Ed, who also happens to be central casting, officially filed to run for Congress. I have heard that there are other Candidates exploring a run for this seat, but I am asking all MAGA Warriors to rally behind Captain Ed Gallrein, the Candidate who is, far and away, best positioned to DEFEAT Third Rate Congressman Thomas Massie, a Weak and Pathetic RINO from the beautiful Commonwealth of Kentucky, a place I love, and won BIG, ALL THREE TIMES. A Brave Combat Veteran, Ed knows the Wisdom and Courage required to Defend our Country, Support our Military/Veterans, and Ensure PEACE THROUGH STRENGTH. He is a big fan of our recent attack on Nicolas Maduro, the Dictator of Venezuela. Additionally, as a very successful Businessman, Ed knows how to Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Support our Amazing Farmers and American Agriculture, Unleash American Energy Dominance, and Champion our Nation’s Golden Age. In Congress, he will fight tirelessly to Keep our now very Secure Border, SECURE, Stop Migrant Crime, and Defend our always under siege Second Amendment. Captain Ed Gallrein has my Complete and Total Endorsement against “Congressman” Thomas Massie — He only votes AGAINST the Republican Party, making life very easy for the Radical Left. Unlike “lightweight” Congressman Massie, a true hater of Israel, and a totally ineffective LOSER who has failed us so badly, CAPTAIN ED GALLREIN IS A WINNER WHO WILL NOT LET KENTUCKY DOWN!",
-      "text": "<p>The incredible people of Kentucky’s 4th Congressional District, who want desperately to get rid of Thomas Massie, the Worst “Republican” Congressman we have had in many years, gave us a mandate to, MAKE AMERICA GREAT AGAIN! The person that will help us do the job, and do it right, is Navy SEAL, Army Ranger, Fifth Generation Kentucky Farmer, and American Hero, Captain Ed Gallrein, a true Patriot. Today, Ed, who also happens to be central casting, officially filed to run for Congress. I have heard that there are other Candidates exploring a run for this seat, but I am asking all MAGA Warriors to rally behind Captain Ed Gallrein, the Candidate who is, far and away, best positioned to DEFEAT Third Rate Congressman Thomas Massie, a Weak and Pathetic RINO from the beautiful Commonwealth of Kentucky, a place I love, and won BIG, ALL THREE TIMES.<br/> <br/>A Brave Combat Veteran, Ed knows the Wisdom and Courage required to Defend our Country, Support our Military/Veterans, and Ensure PEACE THROUGH STRENGTH. He is a big fan of our recent attack on Nicolas Maduro, the Dictator of Venezuela. Additionally, as a very successful Businessman, Ed knows how to Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Support our Amazing Farmers and American Agriculture, Unleash American Energy Dominance, and Champion our Nation’s Golden Age. In Congress, he will fight tirelessly to Keep our now very Secure Border, SECURE, Stop Migrant Crime, and Defend our always under siege Second Amendment.<br/> <br/>Captain Ed Gallrein has my Complete and Total Endorsement against “Congressman” Thomas Massie — He only votes AGAINST the Republican Party, making life very easy for the Radical Left. Unlike “lightweight” Congressman Massie, a true hater of Israel, and a totally ineffective LOSER who has failed us so badly, CAPTAIN ED GALLREIN IS A WINNER WHO WILL NOT LET KENTUCKY DOWN!</p>",
+      "text": "<p>The incredible people of Kentucky’s 4th Congressional District, who want desperately to get rid of Thomas Massie, the Worst “Republican” Congressman we have had in many years, gave us a mandate to, MAKE AMERICA GREAT AGAIN! The person that will help us do the job, and do it right, is Navy SEAL, Army Ranger, Fifth Generation Kentucky Farmer, and American Hero, Captain Ed Gallrein, a true Patriot. Today, Ed, who also happens to be central casting, officially filed to run for Congress. I have heard that there are other Candidates exploring a run for this seat, but I am asking all MAGA Warriors to rally behind Captain Ed Gallrein, the Candidate who is, far and away, best positioned to DEFEAT Third Rate Congressman Thomas Massie, a Weak and Pathetic RINO from the beautiful Commonwealth of Kentucky, a place I love, and won BIG, ALL THREE TIMES.<br/> <br/>A Brave Combat Veteran, Ed knows the Wisdom and Courage required to Defend our Country, Support our Military/Veterans, and Ensure PEACE THROUGH STRENGTH. He is a big fan of our recent attack on Nicolas Maduro, the Dictator of Venezuela. Additionally, as a very successful Businessman, Ed knows how to Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Support our Amazing Farmers and American Agriculture, Unleash American Energy Dominance, and Champion our Nation’s Golden Age. In Congress, he will fight tirelessly to Keep our now very Secure Border, SECURE, Stop Migrant Crime, and Defend our always under siege Second Amendment.<br/> <br/>Captain Ed Gallrein has my Complete and Total Endorsement against “Congressman” Thomas Massie — He only votes AGAINST the Republican Party, making life very easy for the Radical Left. Unlike “lightweight” Congressman Massie, a true hater of Israel, and a totally ineffective LOSER who has failed us so badly, CAPTAIN ED GALLREIN IS A WINNER WHO WILL NOT LET KENTUCKY DOWN!</p>\n\n[Image] The image shows Donald Trump seated at a desk in the Oval Office, smiling and holding a red \"Make America Great Again\" hat. Standing next to him is a man in a suit, also holding a similar hat. The background features several flags, including the U.S. flag, and a statue can be seen in the room. The decor includes ornate curtains and a polished wooden desk, typical of the Oval Office setting. The overall atmosphere is one of camaraderie and political engagement.",
       "url": "https://www.trumpstruth.org/statuses/37233",
       "raw": {
         "creator": "",
@@ -47,7 +63,11 @@
         "contentSnippet": "The incredible people of Kentucky’s 4th Congressional District, who want desperately to get rid of Thomas Massie, the Worst “Republican” Congressman we have had in many years, gave us a mandate to, MAKE AMERICA GREAT AGAIN! The person that will help us do the job, and do it right, is Navy SEAL, Army Ranger, Fifth Generation Kentucky Farmer, and American Hero, Captain Ed Gallrein, a true Patriot. Today, Ed, who also happens to be central casting, officially filed to run for Congress. I have heard that there are other Candidates exploring a run for this seat, but I am asking all MAGA Warriors to rally behind Captain Ed Gallrein, the Candidate who is, far and away, best positioned to DEFEAT Third Rate Congressman Thomas Massie, a Weak and Pathetic RINO from the beautiful Commonwealth of Kentucky, a place I love, and won BIG, ALL THREE TIMES.\n A Brave Combat Veteran, Ed knows the Wisdom and Courage required to Defend our Country, Support our Military/Veterans, and Ensure PEACE THROUGH STRENGTH. He is a big fan of our recent attack on Nicolas Maduro, the Dictator of Venezuela. Additionally, as a very successful Businessman, Ed knows how to Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Support our Amazing Farmers and American Agriculture, Unleash American Energy Dominance, and Champion our Nation’s Golden Age. In Congress, he will fight tirelessly to Keep our now very Secure Border, SECURE, Stop Migrant Crime, and Defend our always under siege Second Amendment.\n Captain Ed Gallrein has my Complete and Total Endorsement against “Congressman” Thomas Massie — He only votes AGAINST the Republican Party, making life very easy for the Radical Left. Unlike “lightweight” Congressman Massie, a true hater of Israel, and a totally ineffective LOSER who has failed us so badly, CAPTAIN ED GALLREIN IS A WINNER WHO WILL NOT LET KENTUCKY DOWN!",
         "guid": "https://www.trumpstruth.org/statuses/37233",
         "isoDate": "2026-03-11T00:25:46.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T16:04:46.438Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15692/e0784be6fa1155d7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37235",
@@ -89,7 +109,7 @@
       "id": "https://www.trumpstruth.org/statuses/37241",
       "publishedAt": "2026-03-11T02:46:51.000Z",
       "title": "[No Title] - Post from March 11, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump on the left, with a serious expression and styled hair, wearing a blue suit. Next to him is Clayton Fuller, a man in a dark suit with a white shirt and red tie, looking directly at the camera. The background is a gradient of red and purple, and the text highlights that Fuller is a Trump-endorsed Republican candidate for GA-14, emphasizing his advancement and endorsement by Trump. The bottom includes \"TRUMP VANCE\" and a slogan.",
       "url": "https://www.trumpstruth.org/statuses/37241",
       "raw": {
         "creator": "",
@@ -101,13 +121,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37241",
         "isoDate": "2026-03-11T02:46:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:28:13.682Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15698/d0b56683cdf58c12.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37240",
       "publishedAt": "2026-03-11T02:47:09.000Z",
       "title": "[No Title] - Post from March 11, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump on the left, with a serious expression, and Congressman Trent Kelly on the right, smiling. The background is a gradient of colors, and bold text announces \"CONGRESSMAN (MS-01) TRENT KELLY WINS!\" Below, it states \"ENDORSED BY PRESIDENT TRUMP!\" The bottom of the image includes the phrase \"TRUMP VANCE\" along with \"MAKE AMERICA GREAT AGAIN!\" indicating a political endorsement.",
       "url": "https://www.trumpstruth.org/statuses/37240",
       "raw": {
         "creator": "",
@@ -119,13 +143,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37240",
         "isoDate": "2026-03-11T02:47:09.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:14:28.039Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15697/12e0ee36905e3335.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37239",
       "publishedAt": "2026-03-11T02:47:21.000Z",
       "title": "[No Title] - Post from March 11, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump alongside Congressman Michael Guest, who represents Mississippi's 3rd congressional district. The text prominently states \"CONGRESSMAN (MS-03) MICHAEL GUEST WINS!\" and notes that he is \"ENDORSED BY PRESIDENT TRUMP!\" The background is a gradient of blue and red, and the bottom includes the phrase \"TRUMP VANCE MAKE AMERICA GREAT AGAIN!\" The overall design emphasizes Trump's endorsement of Guest's victory.",
       "url": "https://www.trumpstruth.org/statuses/37239",
       "raw": {
         "creator": "",
@@ -137,13 +165,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37239",
         "isoDate": "2026-03-11T02:47:21.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:14:25.511Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15696/72e4f815e3037ee3.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37238",
       "publishedAt": "2026-03-11T02:47:37.000Z",
       "title": "[No Title] - Post from March 11, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump alongside Cindy Hyde-Smith, the U.S. Senator from Mississippi. Trump is depicted with a serious expression, wearing a blue suit, while Hyde-Smith is shown smiling in a gray blazer. The background is a gradient of red and blue, and there is text announcing Hyde-Smith's victory, stating she is endorsed by Trump. The bottom of the image includes the phrase \"TRUMP VANCE\" and \"MAKE AMERICA GREAT AGAIN!\"",
       "url": "https://www.trumpstruth.org/statuses/37238",
       "raw": {
         "creator": "",
@@ -155,13 +187,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37238",
         "isoDate": "2026-03-11T02:47:37.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:14:23.686Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15695/10f6db22a66fcbb2.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37237",
       "publishedAt": "2026-03-11T02:47:52.000Z",
       "title": "[No Title] - Post from March 11, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump on the left, with a serious expression, and Mike Ezell on the right, smiling. The background is a gradient of red and blue, and bold text announces \"CONGRESSMAN (MS-04) MIKE EZELL WINS!\" Below, it states \"ENDORSED BY PRESIDENT TRUMP!\" and includes the phrase \"TRUMP VANCE\" with a slogan to \"MAKE AMERICA GREAT AGAIN!\" The overall design emphasizes the endorsement and victory of Mike Ezell in a political context.",
       "url": "https://www.trumpstruth.org/statuses/37237",
       "raw": {
         "creator": "",
@@ -173,13 +209,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37237",
         "isoDate": "2026-03-11T02:47:52.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T16:04:44.444Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15694/d85583834ec02411.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37236",
       "publishedAt": "2026-03-11T02:48:02.000Z",
       "title": "[No Title] - Post from March 11, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a graphic update on election results, highlighting \"5 Wins, 0 Losses\" for candidates endorsed by Donald Trump. It includes a breakdown of wins in two states, with four wins in Mississippi and one in Georgia, indicating a 100% success rate for Trump's endorsements. A prominent image of Donald Trump is included, showing him with a serious expression. The graphic is branded with \"TRUMP VANCE\" and has a red and blue color scheme.",
       "url": "https://www.trumpstruth.org/statuses/37236",
       "raw": {
         "creator": "",
@@ -191,7 +231,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37236",
         "isoDate": "2026-03-11T02:48:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:28:03.853Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15693/66242684986feed6.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37242",
@@ -377,7 +421,7 @@
       "id": "https://www.trumpstruth.org/statuses/37252",
       "publishedAt": "2026-03-11T15:02:44.000Z",
       "title": "[No Title] - Post from March 11, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image shows a message from Mike Lee, a U.S. Senator from Utah. The text expresses frustration with the Supreme Court, stating, \"The Supreme Court really messed this up — badly.\" The message is presented in a chat format, with Mike Lee's name displayed prominently at the top. There are no additional images or context provided in the message itself.",
       "url": "https://www.trumpstruth.org/statuses/37252",
       "raw": {
         "creator": "",
@@ -389,7 +433,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37252",
         "isoDate": "2026-03-11T15:02:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:27:58.443Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15699/d7b475b77d4358bd.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37253",
@@ -522,185 +570,170 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/37232",
       "label": "negative",
-      "rationale": "The text describes a criminal being apprehended, implying a negative situation.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "rationale": "The text describes a criminal being apprehended, implying a negative context.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37233",
       "label": "negative",
-      "rationale": "The text criticizes Thomas Massie and expresses strong support for his opponent, portraying Massie in a very negative light.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "rationale": "The text criticizes Thomas Massie and expresses strong support for Ed Gallrein, indicating negative sentiment towards Massie.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37234",
       "label": "neutral",
-      "rationale": "The text reports on Trump being targeted by FBI probes without expressing a clear positive or negative sentiment.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "rationale": "The text reports on Trump being targeted by FBI probes without expressing a clear opinion, making it neutral.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37235",
-      "label": "neutral",
-      "rationale": "The text reports on a poll regarding Trump's decision to strike Iran without expressing a clear positive or negative sentiment.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "label": "positive",
+      "rationale": "The text reports that a majority of voters support Trump's decision, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37236",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37237",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37238",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37239",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37240",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37241",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37242",
       "label": "positive",
-      "rationale": "The text claims that the SAVE AMERICA ACT is very popular, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "rationale": "The text states that the SAVE AMERICA ACT is popular, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37243",
       "label": "neutral",
-      "rationale": "The text reports on Trump being targeted by FBI probes without expressing a clear positive or negative sentiment.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "rationale": "The text reports on Trump being targeted by FBI probes without expressing a clear opinion, making it neutral.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37244",
       "label": "positive",
-      "rationale": "The text congratulates Clay Fuller on his electoral success and expresses confidence in his future performance.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "rationale": "The text congratulates Clay Fuller and expresses confidence in his abilities, reflecting a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37245",
       "label": "positive",
-      "rationale": "The text expresses confidence in Clay Fuller as a fantastic Congressman, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "rationale": "The text expresses confidence in Clay Fuller as a future Congressman, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37246",
       "label": "negative",
-      "rationale": "The text criticizes Thomas Massie harshly, calling him the 'WORST Republican Congressman' and expressing a desire for him to lose.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "rationale": "The text criticizes Thomas Massie and compares him unfavorably to other politicians, indicating strong negative sentiment.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37247",
       "label": "neutral",
-      "rationale": "The text reports on Trump being targeted by FBI probes without expressing a clear positive or negative sentiment.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "rationale": "The text reports on Trump being targeted by FBI probes without expressing a clear opinion, making it neutral.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37248",
       "label": "neutral",
-      "rationale": "The text states that Trump is right to revisit the 2020 elections without expressing a clear positive or negative sentiment.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "rationale": "The text discusses Trump's decision to revisit the 2020 elections without expressing a clear opinion, making it neutral.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37249",
       "label": "neutral",
-      "rationale": "The text discusses Hillary Clinton and does not express a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "rationale": "The text presents an opinion piece about Hillary Clinton without expressing a clear sentiment, making it neutral.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37250",
       "label": "negative",
-      "rationale": "The text expresses a negative sentiment towards a potential hire at Harvard, calling the individual a 'misfit'.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "rationale": "The text expresses a negative sentiment towards a potential hire at Harvard, calling them a 'misfit'.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37251",
       "label": "neutral",
-      "rationale": "The text is a statement about Punxsutawney Phil and does not express a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "rationale": "The text is a statement about Punxsutawney Phil without any emotional content, making it neutral.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37252",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37253",
       "label": "negative",
-      "rationale": "The text criticizes Congressman Thomas Massie harshly, calling him the 'Worst Congressman' and a 'disaster', while endorsing his opponent in a very positive manner.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "rationale": "The text criticizes Thomas Massie harshly, calling him the 'Worst Congressman' and a 'MISFIT', indicating strong negative sentiment.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37254",
       "label": "positive",
-      "rationale": "The text discusses a visit to a pharmaceutical company that is bringing jobs back to Ohio, attributing this success to the author's trade policies, which is presented in a positive light.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "rationale": "The text discusses a positive development regarding job creation in Ohio, reflecting a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37255",
       "label": "neutral",
-      "rationale": "The text reports on a statement from a DOJ prosecutor regarding noncitizens on voter rolls without expressing a clear positive or negative sentiment.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "rationale": "The text reports on a statement from a DOJ prosecutor without expressing a clear opinion, making it neutral.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37256",
       "label": "positive",
-      "rationale": "The text endorses Brandon Herrera positively, highlighting his support from MAGA warriors and outlining his commitment to various pro-American policies.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "rationale": "The text endorses Brandon Herrera with enthusiasm and highlights his potential contributions, reflecting a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37257",
       "label": "positive",
-      "rationale": "The endorsement of Colonel Laurie Buckhout is enthusiastic, emphasizing her qualifications and contrasting her positively against her opponent, whom the author criticizes.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "rationale": "The endorsement of Colonel Laurie Buckhout is filled with praise and positive attributes, indicating a strong positive sentiment.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37258",
       "label": "positive",
-      "rationale": "The text praises Marty Jackley as a tremendous Attorney General and expresses strong support for his candidacy, highlighting his America First policies and promising actions.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
+      "rationale": "The text expresses strong support for Marty Jackley, praising his accomplishments and endorsing him enthusiastically, which conveys a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37259",
       "label": "negative",
-      "rationale": "The text criticizes Gavin Newsom harshly, describing his interview as self-destructive and labeling him with negative traits such as being 'dumb' and a 'Cognitive Mess'. It also accuses him of being a racist and politically suicidal.",
-      "analyzedAt": "2026-04-13T08:15:07.239Z"
-    }
-  ],
-  "trendingTopic": "Trump targeted by four FBI code-named counterintel probes that ensnared hundreds of Americans",
-  "selfPraiseCount": 3,
-  "secondaryHighlights": [
-    {
-      "topic": "Hillary Clinton should’ve heeded my ‘reality Czech’ to save the West",
-      "name": "Hillary Clinton"
-    },
-    {
-      "topic": "Gavin Newscum’s interview weeks ago was, perhaps, the most self destructive interview I’ve ever seen",
-      "name": "Gavin Newscum"
-    },
-    {
-      "topic": "One of the many criminals picked up in Memphis, Tennessee"
+      "rationale": "The text criticizes Gavin Newsom harshly, calling his interview self-destructive and labeling him as a 'Cognitive Mess' and a racist, indicating strong negative sentiment.",
+      "analyzedAt": "2026-09-06T06:58:00.557Z"
     }
   ]
 }

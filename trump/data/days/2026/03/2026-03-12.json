@@ -6,12 +6,25 @@
     "negative": 2
   },
   "summary": "positive:1 neutral:2 negative:2",
-  "generatedAt": "2026-04-13T08:15:15.006Z",
+  "generatedAt": "2026-09-07T15:17:32.345Z",
   "topics": [
-    "FIFA World Cup Hosting",
-    "Federal Reserve Interest Rates",
-    "Iran Nuclear Threat and Soccer Team"
+    "Critiques the politicization of the FBI and improper surveillance",
+    "Comments on the Iran National Soccer Team's participation in the World Cup",
+    "Calls for immediate interest rate cuts from Federal Reserve Chairman Jerome Powell"
   ],
+  "trendingTopic": "Critiques the politicization of the FBI and improper surveillance",
+  "trendingName": "Ex-FBI agent",
+  "secondaryHighlights": [
+    {
+      "topic": "Comments on the Iran National Soccer Team's participation in the World Cup"
+    },
+    {
+      "topic": "Calls for immediate interest rate cuts from Federal Reserve Chairman Jerome Powell"
+    }
+  ],
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:5:fcaf7349195bf0bf0fc13cfd",
+  "selfPraiseCacheKey": "self-praise-v1:5:fcaf7349195bf0bf0fc13cfd",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37260",
@@ -108,45 +121,32 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/37260",
       "label": "neutral",
-      "rationale": "The text reports on an ex-FBI agent's claims without expressing a clear sentiment, focusing on the issue of politicization and surveillance.",
-      "analyzedAt": "2026-04-13T08:15:15.002Z"
+      "rationale": "The text reports on an ex-FBI agent's claims without expressing a clear positive or negative sentiment, making it neutral.",
+      "analyzedAt": "2026-09-06T06:58:09.066Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37261",
       "label": "negative",
-      "rationale": "The text expresses a serious concern about Iran's nuclear capabilities and the potential threat it poses, indicating a negative sentiment towards the situation.",
-      "analyzedAt": "2026-04-13T08:15:15.002Z"
+      "rationale": "The text discusses the threat posed by Iran and expresses a strong stance against it, indicating a negative sentiment towards the situation.",
+      "analyzedAt": "2026-09-06T06:58:09.066Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37262",
       "label": "neutral",
-      "rationale": "The text presents a statement about the Iran National Soccer Team's participation in the World Cup without strong emotional language, focusing on safety concerns.",
-      "analyzedAt": "2026-04-13T08:15:15.002Z"
+      "rationale": "The text expresses a concern for the safety of the Iran National Soccer Team without strong emotional language, making it neutral.",
+      "analyzedAt": "2026-09-06T06:58:09.066Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37263",
       "label": "negative",
-      "rationale": "The text conveys frustration and urgency regarding the Federal Reserve's actions, indicating dissatisfaction with the current situation.",
-      "analyzedAt": "2026-04-13T08:15:15.002Z"
+      "rationale": "The text criticizes the Federal Reserve Chairman for not acting quickly enough on interest rates, indicating frustration.",
+      "analyzedAt": "2026-09-06T06:58:09.066Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37264",
       "label": "positive",
       "rationale": "The text expresses excitement and positivity about hosting the FIFA World Cup, highlighting ticket sales and the event's significance.",
-      "analyzedAt": "2026-04-13T08:15:15.002Z"
-    }
-  ],
-  "trendingTopic": "Where is the Federal Reserve Chairman, Jerome “Too Late” Powell, today?",
-  "selfPraiseCount": 1,
-  "secondaryHighlights": [
-    {
-      "topic": "The United States of America looks very much forward to hosting the FIFA World Cup"
-    },
-    {
-      "topic": "Ex-FBI agent says he witnessed politicization of bureau, warned about improper surveillance"
-    },
-    {
-      "topic": "The United States is the largest Oil Producer in the World, by far, so when oil prices go up, we make a lot of money."
+      "analyzedAt": "2026-09-06T06:58:09.066Z"
     }
   ]
 }

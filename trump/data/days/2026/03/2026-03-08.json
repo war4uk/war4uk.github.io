@@ -6,12 +6,24 @@
     "negative": 1
   },
   "summary": "positive:2 neutral:1 negative:1",
-  "generatedAt": "2026-04-13T08:14:06.016Z",
+  "generatedAt": "2026-09-07T15:17:22.832Z",
   "topics": [
-    "Iran Nuclear Threat and Oil Prices",
-    "Save America Act Advocacy",
-    "Voter ID and Election Integrity"
+    "Praise for Rich Goldberg on Mark Levin",
+    "Advocates for the SAVE AMERICA ACT",
+    "Comments on oil prices and Iran nuclear threat"
   ],
+  "trendingTopic": "Advocates for the SAVE AMERICA ACT as an urgent priority for all voters",
+  "secondaryHighlights": [
+    {
+      "topic": "Praise for Rich Goldberg on Mark Levin"
+    },
+    {
+      "topic": "Comments on oil prices and Iran nuclear threat"
+    }
+  ],
+  "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v10:4:115316aa09db6f8c45481979",
+  "selfPraiseCacheKey": "self-praise-v1:4:115316aa09db6f8c45481979",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37205",
@@ -90,40 +102,26 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/37205",
       "label": "positive",
-      "rationale": "The text expresses appreciation for Rich Goldberg and Mark Levin, indicating a positive sentiment towards their performance.",
-      "analyzedAt": "2026-04-13T08:14:06.014Z"
+      "rationale": "The text expresses appreciation for Rich Goldberg and Mark Levin, indicating a positive sentiment towards their performance and understanding.",
+      "analyzedAt": "2026-09-06T06:57:18.485Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37206",
       "label": "neutral",
       "rationale": "The statement is a straightforward call to action without emotional language or sentiment, making it neutral.",
-      "analyzedAt": "2026-04-13T08:14:06.014Z"
+      "analyzedAt": "2026-09-06T06:57:18.485Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37207",
       "label": "positive",
       "rationale": "The text praises Scott Pressler's efforts and emphasizes the importance of the SAVE AMERICA ACT, indicating a strong support and positive sentiment towards the actions discussed.",
-      "analyzedAt": "2026-04-13T08:14:06.014Z"
+      "analyzedAt": "2026-09-06T06:57:18.485Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37208",
       "label": "negative",
       "rationale": "The statement expresses a dismissive attitude towards differing opinions, labeling those who think differently as 'fools', which conveys a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:14:06.014Z"
-    }
-  ],
-  "trendingTopic": "Rich Goldberg was GREAT on Mark Levin tonight",
-  "trendingName": "Mark Levin",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "PASS THE SAVE AMERICA ACT, NOW. It’s all people care about!!!"
-    },
-    {
-      "topic": "Save America Act"
-    },
-    {
-      "topic": "Short term oil prices, which will drop rapidly when the destruction of the Iran nuclear threat is over, is a very small price to pay for U.S.A., and World, Safety and Peace."
+      "analyzedAt": "2026-09-06T06:57:18.485Z"
     }
   ]
 }

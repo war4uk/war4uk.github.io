@@ -6,12 +6,24 @@
     "negative": 0
   },
   "summary": "positive:8 neutral:2 negative:0",
-  "generatedAt": "2026-04-13T08:07:27.586Z",
+  "generatedAt": "2026-09-07T15:16:38.662Z",
   "topics": [
-    "Tariffs and Economic Impact",
-    "Voter ID and Election Integrity",
-    "Judicial Nominations and Legal Integrity"
+    "Reduces U.S. trade deficit significantly due to tariffs",
+    "Nominates multiple judges for federal courts in Kansas and Missouri",
+    "Advocates for American voting rights in elections"
   ],
+  "trendingTopic": "Reduces U.S. trade deficit significantly due to tariffs",
+  "secondaryHighlights": [
+    {
+      "topic": "Nominates multiple judges for federal courts in Kansas and Missouri"
+    },
+    {
+      "topic": "Advocates for American voting rights in elections"
+    }
+  ],
+  "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v10:10:da8254ac2ab5df85c4f0f923",
+  "selfPraiseCacheKey": "self-praise-v1:10:da8254ac2ab5df85c4f0f923",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36807",
@@ -199,75 +211,61 @@
       "postId": "https://www.trumpstruth.org/statuses/36807",
       "label": "positive",
       "rationale": "The text celebrates the reduction of the trade deficit due to tariffs, indicating a positive outcome and expressing gratitude.",
-      "analyzedAt": "2026-04-13T08:07:27.584Z"
+      "analyzedAt": "2026-09-06T06:53:18.480Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36808",
       "label": "positive",
-      "rationale": "The text praises the Czech Deputy PM's performance in a debate and expresses goodwill, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:07:27.584Z"
+      "rationale": "The text praises the Czech Deputy PM for a debate performance and expresses goodwill, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:53:18.480Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36809",
       "label": "positive",
-      "rationale": "The text expresses pleasure in nominating a qualified candidate for a judicial position, highlighting his experience and potential contributions positively.",
-      "analyzedAt": "2026-04-13T08:07:27.584Z"
+      "rationale": "The text expresses pleasure in nominating a qualified candidate for a judgeship, highlighting his experience and potential contributions positively.",
+      "analyzedAt": "2026-09-06T06:53:18.480Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36810",
       "label": "positive",
-      "rationale": "The text conveys honor in nominating a highly qualified candidate, emphasizing his experience and suitability for the role, which reflects a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:07:27.584Z"
+      "rationale": "The text conveys honor in nominating a highly qualified candidate, emphasizing his experience and suitability for the role positively.",
+      "analyzedAt": "2026-09-06T06:53:18.480Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36811",
       "label": "positive",
       "rationale": "The text expresses confidence in the nominee's qualifications and commitment to the rule of law, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:07:27.584Z"
+      "analyzedAt": "2026-09-06T06:53:18.480Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36812",
       "label": "positive",
       "rationale": "The text highlights the nominee's intelligence and contributions to significant policies, portraying a strong positive sentiment.",
-      "analyzedAt": "2026-04-13T08:07:27.584Z"
+      "analyzedAt": "2026-09-06T06:53:18.480Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36813",
       "label": "neutral",
-      "rationale": "The statement expresses a desire for Americans to vote in American elections but does not convey strong positive or negative emotions.",
-      "analyzedAt": "2026-04-13T08:07:27.584Z"
+      "rationale": "The statement expresses a desire for Americans to vote in American elections but does not convey a strong positive or negative sentiment.",
+      "analyzedAt": "2026-09-06T06:53:18.480Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36814",
       "label": "positive",
       "rationale": "The text expresses gratitude for the approval of the White House Ballroom and praises its beauty, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:07:27.584Z"
+      "analyzedAt": "2026-09-06T06:53:18.480Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36815",
       "label": "neutral",
-      "rationale": "The text discusses the Save America Act and its provisions without expressing a clear positive or negative sentiment, focusing instead on legislative processes.",
-      "analyzedAt": "2026-04-13T08:07:27.584Z"
+      "rationale": "The text discusses the Save America Act and its provisions without expressing a clear positive or negative sentiment.",
+      "analyzedAt": "2026-09-06T06:53:18.480Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36816",
       "label": "positive",
       "rationale": "The text highlights the success of the Coosa Steel Plant and the positive impact of tariffs on the economy, indicating thriving companies and increased national security.",
-      "analyzedAt": "2026-04-13T08:07:27.584Z"
-    }
-  ],
-  "trendingTopic": "Great job in your Debate against Hillary Clinton on various subjects, including her ridiculous views on Gender",
-  "selfPraiseCount": 1,
-  "trendingName": "Hillary Clinton",
-  "secondaryHighlights": [
-    {
-      "topic": "I only want Americans to Vote in American Elections!"
-    },
-    {
-      "topic": "It is my Great Honor to nominate Justin Smith to serve as Judge on the United States Court of Appeals for the Eighth Circuit in Missouri."
-    },
-    {
-      "topic": "I am pleased to nominate Tony Powell to serve as Judge on the United States District Court for the District of Kansas."
+      "analyzedAt": "2026-09-06T06:53:18.480Z"
     }
   ]
 }

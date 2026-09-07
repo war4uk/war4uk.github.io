@@ -6,12 +6,24 @@
     "negative": 2
   },
   "summary": "positive:16 neutral:7 negative:2",
-  "generatedAt": "2026-04-13T08:16:08.574Z",
+  "generatedAt": "2026-09-07T15:17:36.928Z",
   "topics": [
-    "Iran Military Actions",
-    "Trump Endorsements and Support",
-    "Women's History Month Recognition"
+    "Trump honors women during Women's History Month at White House events",
+    "Trump's military actions and statements regarding Iran's nuclear ambitions",
+    "Trump's economic policies lead to investment surge and lower mortgage rates"
   ],
+  "trendingTopic": "Trump honors women during Women's History Month at White House events",
+  "secondaryHighlights": [
+    {
+      "topic": "Trump's military actions and statements regarding Iran's nuclear ambitions"
+    },
+    {
+      "topic": "Trump's economic policies lead to investment surge and lower mortgage rates"
+    }
+  ],
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:25:400862b986e42f38c186c927",
+  "selfPraiseCacheKey": "self-praise-v1:25:400862b986e42f38c186c927",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37287",
@@ -107,7 +119,7 @@
       "id": "https://www.trumpstruth.org/statuses/37288",
       "publishedAt": "2026-03-14T00:15:51.000Z",
       "title": "[No Title] - Post from March 14, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a split design comparing two political figures negotiating with Iran. The top half depicts Barack Obama smiling and gesturing towards a large stack of money, flanked by three men in traditional attire. The bottom half shows Donald Trump, animatedly pointing and shouting, with military aircraft and bombs flying overhead. The text labels each section, highlighting the contrasting approaches of Obama and Trump in their negotiations with Iran.",
       "url": "https://www.trumpstruth.org/statuses/37288",
       "raw": {
         "creator": "",
@@ -119,13 +131,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37288",
         "isoDate": "2026-03-14T00:15:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:15:45.147Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15707/84fd821f343168c2.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37292",
       "publishedAt": "2026-03-14T00:24:01.000Z",
       "title": "[No Title] - Post from March 14, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features the phrase \"PEACE THROUGH STRENGTH\" prominently displayed in red letters. Above the text, there are three black silhouettes of fighter jets, suggesting a military theme. The background appears to be light-colored, which contrasts with the bold text and dark aircraft. The overall message seems to convey a notion of strength and security through military power.",
       "url": "https://www.trumpstruth.org/statuses/37292",
       "raw": {
         "creator": "",
@@ -137,13 +153,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37292",
         "isoDate": "2026-03-14T00:24:01.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:15:43.463Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15709/0345c9e998225899.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37291",
       "publishedAt": "2026-03-14T00:24:17.000Z",
       "title": "[No Title] - Post from March 14, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a stylized representation of a B-2 stealth bomber, depicted in a light color against a dark background. Above the aircraft, the phrase \"Peace through strength.\" is prominently displayed in bold, white text. The design emphasizes a military theme, suggesting a connection between military power and the concept of peace. The overall aesthetic is stark and impactful, conveying a message about defense and security.",
       "url": "https://www.trumpstruth.org/statuses/37291",
       "raw": {
         "creator": "",
@@ -155,7 +175,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37291",
         "isoDate": "2026-03-14T00:24:17.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T16:04:55.114Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15708/3eaa029023ce0688.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37290",
@@ -197,7 +221,7 @@
       "id": "https://www.trumpstruth.org/statuses/37295",
       "publishedAt": "2026-03-14T00:26:55.000Z",
       "title": "[No Title] - Post from March 14, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a graphic thanking President Trump for lowering mortgage rates. It displays a mortgage rate of 6.21% and indicates that Trump bought $200 billion in bonds, which is linked to a decrease in mortgage rates to 5.75%. The text emphasizes the positive impact of this action on mortgage rates, suggesting a direct correlation between the bond purchase and the lower rates offered. The overall tone is supportive of Trump's economic actions.",
       "url": "https://www.trumpstruth.org/statuses/37295",
       "raw": {
         "creator": "",
@@ -209,7 +233,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37295",
         "isoDate": "2026-03-14T00:26:55.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:15:32.804Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15710/3dfd40faf906a942.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37294",
@@ -413,7 +441,7 @@
       "id": "https://www.trumpstruth.org/statuses/37306",
       "publishedAt": "2026-03-14T15:02:02.000Z",
       "title": "[No Title] - Post from March 14, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a graphic titled \"President Trump is Reshaping the Media,\" highlighting various media changes attributed to Donald Trump. It includes sections labeled \"GONE,\" \"REFORMS,\" and \"WINNING,\" listing media figures and organizations that have faced changes or departures, such as PBS and NPR being defunded. It also mentions Trump's social media presence and reforms in media accountability. The graphic emphasizes Trump's influence on media narratives and public perception.",
       "url": "https://www.trumpstruth.org/statuses/37306",
       "raw": {
         "creator": "",
@@ -425,7 +453,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37306",
         "isoDate": "2026-03-14T15:02:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:15:26.204Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15712/53c2538ab9bff9af.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37307",
@@ -468,165 +500,152 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/37283",
       "label": "positive",
-      "rationale": "The text expresses strong support for Kevin Hern and his political agenda, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:16:08.569Z"
+      "rationale": "The text expresses strong support for Kevin Hern and highlights his positive attributes, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:58:36.651Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37284",
       "label": "positive",
       "rationale": "The text discusses a surge in investment and economic revival, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:16:08.569Z"
+      "analyzedAt": "2026-09-06T06:58:36.651Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37285",
       "label": "positive",
       "rationale": "The text highlights an award given to Trump, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:16:08.569Z"
+      "analyzedAt": "2026-09-06T06:58:36.651Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37286",
       "label": "positive",
-      "rationale": "The text discusses honoring a Virginia mom and farmer, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:16:08.569Z"
+      "rationale": "The text discusses Trump honoring individuals at a Women's History Month event, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:58:36.651Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37287",
       "label": "positive",
-      "rationale": "The text discusses a Baltimore woman being honored, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:16:08.569Z"
+      "rationale": "The text discusses a Baltimore woman being honored by Trump, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:58:36.651Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37288",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment to analyze.",
-      "analyzedAt": "2026-04-13T08:16:08.569Z"
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:58:36.651Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37289",
       "label": "positive",
       "rationale": "The text asserts that Iran's plans are dead, indicating a sense of victory and positive sentiment.",
-      "analyzedAt": "2026-04-13T08:16:08.569Z"
+      "analyzedAt": "2026-09-06T06:58:36.651Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37290",
       "label": "positive",
       "rationale": "The text describes a powerful military action and expresses confidence in U.S. military strength, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:16:08.569Z"
+      "analyzedAt": "2026-09-06T06:58:36.651Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37291",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment to analyze.",
-      "analyzedAt": "2026-04-13T08:16:08.569Z"
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:58:36.651Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37292",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment to analyze.",
-      "analyzedAt": "2026-04-13T08:16:08.569Z"
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:58:36.651Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37293",
       "label": "positive",
       "rationale": "The text asserts that Iran's plans are dead, indicating a sense of victory and positive sentiment.",
-      "analyzedAt": "2026-04-13T08:16:08.569Z"
+      "analyzedAt": "2026-09-06T06:58:36.651Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37294",
       "label": "positive",
       "rationale": "The text describes a powerful military action and expresses confidence in U.S. military strength, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:16:08.569Z"
+      "analyzedAt": "2026-09-06T06:58:36.651Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37295",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment to analyze.",
-      "analyzedAt": "2026-04-13T08:16:08.569Z"
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:58:36.651Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37296",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment to analyze.",
-      "analyzedAt": "2026-04-13T08:16:08.569Z"
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:58:36.651Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37297",
       "label": "positive",
-      "rationale": "The text expresses strong support for Trump's actions against Iran, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:16:08.569Z"
+      "rationale": "The text indicates strong majority support for Trump's actions against Iran, suggesting a favorable public opinion.",
+      "analyzedAt": "2026-09-06T06:58:36.651Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37299",
       "label": "neutral",
-      "rationale": "The text is a retweet with no additional sentiment expressed.",
-      "analyzedAt": "2026-04-13T08:16:08.569Z"
+      "rationale": "The text is a retweet and does not provide any original sentiment.",
+      "analyzedAt": "2026-09-06T06:58:36.651Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37300",
       "label": "positive",
       "rationale": "The text asserts that Iran's plans are dead, indicating a sense of victory and positive sentiment.",
-      "analyzedAt": "2026-04-13T08:16:08.569Z"
+      "analyzedAt": "2026-09-06T06:58:36.651Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37301",
       "label": "positive",
       "rationale": "The text describes a powerful military action and expresses confidence in U.S. military strength, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:16:08.569Z"
+      "analyzedAt": "2026-09-06T06:58:36.651Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37302",
       "label": "positive",
-      "rationale": "The text highlights the success of the U.S. military against Iran, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:16:08.569Z"
+      "rationale": "The text highlights the military's success against Iran and expresses a strong stance against nuclear weapons, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:58:36.651Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37303",
       "label": "positive",
-      "rationale": "The text expresses gratitude towards TSA agents and encourages them, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:16:08.569Z"
+      "rationale": "The text expresses gratitude towards TSA agents and encourages them, conveying a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:58:36.651Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37304",
       "label": "negative",
-      "rationale": "The text criticizes the media and expresses frustration, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:16:08.569Z"
+      "rationale": "The text criticizes the media and expresses frustration, indicating a negative sentiment towards the reporting on military actions.",
+      "analyzedAt": "2026-09-06T06:58:36.651Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37305",
       "label": "negative",
-      "rationale": "The text discusses military actions against Iran in a threatening manner, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:16:08.569Z"
+      "rationale": "The text discusses military actions against Iran and expresses a confrontational tone, indicating a negative sentiment towards Iran.",
+      "analyzedAt": "2026-09-06T06:58:36.651Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37306",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment to analyze.",
-      "analyzedAt": "2026-04-13T08:16:08.569Z"
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:58:36.651Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37307",
       "label": "positive",
-      "rationale": "The text expresses confidence in the U.S. military actions and promotes a vision of harmony and peace, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:16:08.569Z"
+      "rationale": "The text expresses confidence in the U.S. military's success against Iran and promotes a vision of global harmony and security.",
+      "analyzedAt": "2026-09-06T06:58:36.651Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37308",
       "label": "positive",
-      "rationale": "The text indicates a strong majority support for Trump's stance on Iran, suggesting a favorable sentiment.",
-      "analyzedAt": "2026-04-13T08:16:08.569Z"
-    }
-  ],
-  "trendingTopic": "Iran had plans of taking over the entire Middle East, and completely obliterating Israel",
-  "selfPraiseCount": 1,
-  "secondaryHighlights": [
-    {
-      "topic": "Moments ago, at my direction, the United States Central Command executed one of the most powerful bombing raids in the History of the Middle East, and totally obliterated every MILITARY target in Iran’s crown jewel, Kharg Island."
-    },
-    {
-      "topic": "Baltimore woman honored by President Trump during Women’s History Month"
-    },
-    {
-      "topic": "Trump honors Virginia mom, farmer at White House Women's History Month event"
+      "rationale": "The text indicates a strong majority support for Trump's stance on Iran, suggesting a favorable public opinion.",
+      "analyzedAt": "2026-09-06T06:58:36.651Z"
     }
   ]
 }

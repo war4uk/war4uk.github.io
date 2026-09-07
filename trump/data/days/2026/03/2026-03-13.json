@@ -1,23 +1,36 @@
 {
   "date": "2026-03-13",
   "counts": {
-    "positive": 9,
+    "positive": 7,
     "neutral": 8,
-    "negative": 1
+    "negative": 3
   },
-  "summary": "positive:9 neutral:8 negative:1",
-  "generatedAt": "2026-04-13T08:15:35.095Z",
+  "summary": "positive:7 neutral:8 negative:3",
+  "generatedAt": "2026-09-07T15:17:34.657Z",
   "topics": [
-    "Iran Military Actions",
-    "Endorsements for Political Candidates",
-    "Trump Kennedy Center Developments"
+    "Announces new Chief Operating Officer for the Trump Kennedy Center",
+    "Endorses Jon Maples for Florida's 87th State House District",
+    "Discusses military actions against Iran and its implications"
   ],
+  "trendingTopic": "Announces new Chief Operating Officer for the Trump Kennedy Center",
+  "trendingName": "Matt Floca",
+  "secondaryHighlights": [
+    {
+      "topic": "Endorses Jon Maples for Florida's 87th State House District"
+    },
+    {
+      "topic": "Discusses military actions against Iran and its implications"
+    }
+  ],
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:18:63b9ee9f9181b46cc82be523",
+  "selfPraiseCacheKey": "self-praise-v1:18:63b9ee9f9181b46cc82be523",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37265",
       "publishedAt": "2026-03-13T00:57:53.000Z",
       "title": "At Military Academy with my parents, Fred and Mary!",
-      "text": "<p>At Military Academy with my parents, Fred and Mary!</p>",
+      "text": "<p>At Military Academy with my parents, Fred and Mary!</p>\n\n[Image] The image features three individuals standing together outdoors. On the left, a man in a suit holds a hat and has a mustache. In the center, a woman is dressed elegantly in a dark dress with a fur stole and a hat, holding a small handbag. On the right, a soldier in formal military attire stands at attention, adorned with medals and a plume on his hat. The setting appears to be a formal event, likely in a park or garden.",
       "url": "https://www.trumpstruth.org/statuses/37265",
       "raw": {
         "creator": "",
@@ -29,7 +42,11 @@
         "contentSnippet": "At Military Academy with my parents, Fred and Mary!",
         "guid": "https://www.trumpstruth.org/statuses/37265",
         "isoDate": "2026-03-13T00:57:53.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:15:18.267Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15700/f939fdb215964230.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37298",
@@ -161,7 +178,7 @@
       "id": "https://www.trumpstruth.org/statuses/37273",
       "publishedAt": "2026-03-13T17:43:01.000Z",
       "title": "Two renderings of the new, highly improved, TRUMP KENNEDY CENTER!",
-      "text": "<p>Two renderings of the new, highly improved, TRUMP KENNEDY CENTER!</p>",
+      "text": "<p>Two renderings of the new, highly improved, TRUMP KENNEDY CENTER!</p>\n\n[Image] The images depict architectural renderings of a large, modern building situated near a body of water, likely a cultural or performance arts center. The structure features a sleek design with expansive glass facades and landscaped areas adorned with trees and flowers. Surrounding roads are visible, with vehicles and pedestrians. The setting includes urban elements like nearby buildings and a bridge in the background, suggesting a vibrant city atmosphere. The overall aesthetic is contemporary and inviting.",
       "url": "https://www.trumpstruth.org/statuses/37273",
       "raw": {
         "creator": "",
@@ -173,7 +190,12 @@
         "contentSnippet": "Two renderings of the new, highly improved, TRUMP KENNEDY CENTER!",
         "guid": "https://www.trumpstruth.org/statuses/37273",
         "isoDate": "2026-03-13T17:43:01.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:28:30.063Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15702/e90bbcf8fb680855.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15703/ea030d3d1d7585ec.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37275",
@@ -197,7 +219,7 @@
       "id": "https://www.trumpstruth.org/statuses/37274",
       "publishedAt": "2026-03-13T18:13:19.000Z",
       "title": "[No Title] - Post from March 13, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116223216183546905</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116223216183546905</span></p>\n\n[Image] The image features a tweet from Carlo Martin, which discusses Claudia Sheinbaum's admission that Donald Trump called her to offer assistance in eradicating drug cartels. Sheinbaum reportedly rejected the offer, stating, \"That's right, we said No, proudly NO.\" The tweet questions the assertion that they are not a \"narco-government.\" The text is in Spanish, with a translation provided below.",
       "url": "https://www.trumpstruth.org/statuses/37274",
       "raw": {
         "creator": "",
@@ -209,13 +231,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116223216183546905",
         "guid": "https://www.trumpstruth.org/statuses/37274",
         "isoDate": "2026-03-13T18:13:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:15:03.646Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15704/5998325f21044d62.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37276",
       "publishedAt": "2026-03-13T20:32:28.000Z",
       "title": "Maggot Hagerman, just another SLEAZEBAG writer for The Failing New York Times, insists on writing false stories about me, even though she fully knows and understands that the exact opposite of anything she says is usually the truth. In any event, I’m thinking of adding Maggot, and some of her “associates,” into my Florida based Lawsuit against The Times which, very happily, seems to be proceeding nicely. Thank you for your attention to this matter! President DJT",
-      "text": "<p>Maggot Hagerman, just another SLEAZEBAG writer for The Failing New York Times, insists on writing false stories about me, even though she fully knows and understands that the exact opposite of anything she says is usually the truth. In any event, I’m thinking of adding Maggot, and some of her “associates,” into my Florida based Lawsuit against The Times which, very happily, seems to be proceeding nicely. Thank you for your attention to this matter! President DJT</p>",
+      "text": "<p>Maggot Hagerman, just another SLEAZEBAG writer for The Failing New York Times, insists on writing false stories about me, even though she fully knows and understands that the exact opposite of anything she says is usually the truth. In any event, I’m thinking of adding Maggot, and some of her “associates,” into my Florida based Lawsuit against The Times which, very happily, seems to be proceeding nicely. Thank you for your attention to this matter! President DJT</p>\n\n[Image] The image appears to be a mugshot of a woman with curly hair and glasses. She has a neutral expression and is looking directly at the camera. The background is a plain gray, typical of mugshot photography. There are no visible markings or identifiers that provide additional context about her identity or situation. The image focuses solely on her facial features and expression.",
       "url": "https://www.trumpstruth.org/statuses/37276",
       "raw": {
         "creator": "",
@@ -227,7 +253,11 @@
         "contentSnippet": "Maggot Hagerman, just another SLEAZEBAG writer for The Failing New York Times, insists on writing false stories about me, even though she fully knows and understands that the exact opposite of anything she says is usually the truth. In any event, I’m thinking of adding Maggot, and some of her “associates,” into my Florida based Lawsuit against The Times which, very happily, seems to be proceeding nicely. Thank you for your attention to this matter! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/37276",
         "isoDate": "2026-03-13T20:32:28.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:14:59.139Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15706/c6ef48ba04be4a54.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37277",
@@ -342,123 +372,110 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/37265",
       "label": "neutral",
-      "rationale": "The statement is a simple personal reflection with no emotional content, making it neutral.",
-      "analyzedAt": "2026-04-13T08:15:35.090Z"
+      "rationale": "The statement is a personal reflection and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:58:22.180Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37266",
-      "label": "positive",
-      "rationale": "Similar to the previous entry, it expresses a strong sense of victory and honor in military actions against Iran.",
-      "analyzedAt": "2026-04-13T08:15:35.090Z"
+      "label": "negative",
+      "rationale": "Similar to the previous entry, it expresses aggressive sentiments towards Iran, indicating a negative tone.",
+      "analyzedAt": "2026-09-06T06:58:22.180Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37267",
       "label": "neutral",
-      "rationale": "The text is a link with no sentiment expressed, thus it is neutral.",
-      "analyzedAt": "2026-04-13T08:15:35.090Z"
+      "rationale": "The text is a link and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:58:22.180Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37268",
-      "label": "positive",
-      "rationale": "The statement expresses a strong sense of victory over Iran, portraying a positive sentiment towards military actions.",
-      "analyzedAt": "2026-04-13T08:15:35.090Z"
+      "label": "negative",
+      "rationale": "The statement expresses aggressive sentiments towards Iran and its regime, indicating a negative tone.",
+      "analyzedAt": "2026-09-06T06:58:22.180Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37269",
       "label": "neutral",
-      "rationale": "The content is a retweet with no additional sentiment expressed, making it neutral.",
-      "analyzedAt": "2026-04-13T08:15:35.090Z"
+      "rationale": "The content is a retweet and does not express any sentiment on its own.",
+      "analyzedAt": "2026-09-06T06:58:22.180Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37271",
       "label": "neutral",
-      "rationale": "The text reports on talks without expressing a clear sentiment, thus it is neutral.",
-      "analyzedAt": "2026-04-13T08:15:35.090Z"
+      "rationale": "The text reports on talks without expressing a clear sentiment.",
+      "analyzedAt": "2026-09-06T06:58:22.180Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37272",
       "label": "neutral",
-      "rationale": "The statement is a report on a retired general's opinion, lacking emotional content, making it neutral.",
-      "analyzedAt": "2026-04-13T08:15:35.090Z"
+      "rationale": "The statement is a report on a retired general's opinion and does not express sentiment.",
+      "analyzedAt": "2026-09-06T06:58:22.180Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37273",
       "label": "neutral",
-      "rationale": "The statement is informational about renderings, lacking emotional content, making it neutral.",
-      "analyzedAt": "2026-04-13T08:15:35.090Z"
+      "rationale": "The statement is informational about renderings and does not express sentiment.",
+      "analyzedAt": "2026-09-06T06:58:22.180Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37274",
       "label": "neutral",
-      "rationale": "The content is a retweet with no additional sentiment expressed, making it neutral.",
-      "analyzedAt": "2026-04-13T08:15:35.090Z"
+      "rationale": "The content is a retweet and does not express any sentiment on its own.",
+      "analyzedAt": "2026-09-06T06:58:22.180Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37275",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment to analyze, thus it is neutral.",
-      "analyzedAt": "2026-04-13T08:15:35.090Z"
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:58:22.180Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37276",
       "label": "negative",
-      "rationale": "The statement expresses frustration and anger towards a journalist, using derogatory language, which conveys a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:15:35.090Z"
+      "rationale": "The statement expresses frustration and anger towards a journalist, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:58:22.180Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37277",
       "label": "positive",
-      "rationale": "The announcement of Matt Floca's new position and the progress of the Trump Kennedy Center is framed positively, indicating success and future improvements.",
-      "analyzedAt": "2026-04-13T08:15:35.090Z"
+      "rationale": "The announcement of progress and future plans for the Trump Kennedy Center reflects optimism and positive developments.",
+      "analyzedAt": "2026-09-06T06:58:22.180Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37278",
       "label": "positive",
-      "rationale": "The message expresses gratitude and support for Congresswoman Stephanie Bice, emphasizing her positive contributions and commitment.",
-      "analyzedAt": "2026-04-13T08:15:35.090Z"
+      "rationale": "The praise for Congresswoman Stephanie Bice and her commitment to her constituents conveys a positive sentiment about her re-election.",
+      "analyzedAt": "2026-09-06T06:58:22.180Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37279",
       "label": "positive",
-      "rationale": "The endorsement of Jon Maples is enthusiastic and supportive, highlighting positive attributes and a call to action for voters.",
-      "analyzedAt": "2026-04-13T08:15:35.090Z"
+      "rationale": "The endorsement of Jon Maples is enthusiastic and supportive, highlighting his positive attributes and the expectation of his success.",
+      "analyzedAt": "2026-09-06T06:58:22.180Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37280",
       "label": "positive",
-      "rationale": "The announcement of public assistance and support for Michigan reflects a positive sentiment towards helping the state and its people.",
-      "analyzedAt": "2026-04-13T08:15:35.090Z"
+      "rationale": "The announcement of public assistance and support for Michigan reflects a caring and positive sentiment towards the state's recovery.",
+      "analyzedAt": "2026-09-06T06:58:22.180Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37281",
       "label": "positive",
       "rationale": "The message conveys a sense of power and control over military actions, portraying a strong and confident stance, which is positive.",
-      "analyzedAt": "2026-04-13T08:15:35.090Z"
+      "analyzedAt": "2026-09-06T06:58:22.180Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37282",
       "label": "positive",
       "rationale": "The statement expresses a strong sense of victory over Iran's plans, indicating a positive sentiment towards the outcome.",
-      "analyzedAt": "2026-04-13T08:15:35.090Z"
+      "analyzedAt": "2026-09-06T06:58:22.180Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37298",
       "label": "positive",
-      "rationale": "The statement reflects strong public support for stopping Iran from acquiring nuclear weapons, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:15:35.090Z"
-    }
-  ],
-  "trendingTopic": "We are totally destroying the terrorist regime of Iran, militarily economically, and otherwise, yet, if you read the Failing New York Times, you would incorrectly think that we are not winning.",
-  "selfPraiseCount": 1,
-  "secondaryHighlights": [
-    {
-      "topic": "At Military Academy with my parents, Fred and Mary!"
-    },
-    {
-      "topic": "Retired Army general: Iran regime ‘fundamentally miscalculated’ Trump"
-    },
-    {
-      "topic": "Cuba confirms talks with Trump officials, raising hopes for US deal"
+      "rationale": "The statement reflects strong support for stopping Iran from acquiring nuclear weapons, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:58:22.180Z"
     }
   ]
 }

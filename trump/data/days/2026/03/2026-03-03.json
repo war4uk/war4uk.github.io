@@ -6,18 +6,30 @@
     "negative": 7
   },
   "summary": "positive:7 neutral:12 negative:7",
-  "generatedAt": "2026-04-13T08:12:00.348Z",
+  "generatedAt": "2026-09-07T15:17:10.739Z",
   "topics": [
-    "Operation Epic Fury Updates",
-    "Military Readiness and Arms Supply",
-    "Election Integrity and Voter ID"
+    "Highlights achievements under President Trump's administration, including economic growth and crime reduction",
+    "Endorses Aaron Flint for Montana's 1st Congressional District and Helen Kerwin for State Representative",
+    "Discusses Operation Epic Fury and its impact on American citizens in the Middle East"
   ],
+  "trendingTopic": "Highlights achievements under President Trump's administration, including economic growth and crime reduction",
+  "secondaryHighlights": [
+    {
+      "topic": "Endorses Aaron Flint for Montana's 1st Congressional District and Helen Kerwin for State Representative"
+    },
+    {
+      "topic": "Discusses Operation Epic Fury and its impact on American citizens in the Middle East"
+    }
+  ],
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:26:2825e1e540277bd9a13c834c",
+  "selfPraiseCacheKey": "self-praise-v1:26:2825e1e540277bd9a13c834c",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37049",
       "publishedAt": "2026-03-03T00:44:54.000Z",
       "title": "[No Title] - Post from March 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a webpage from The White House, dated February 9, 2026, titled \"Don’t Be a Panican. We’re Winning — and We’re Not Slowing Down.\" The text discusses achievements under President Donald Trump's administration, highlighting economic growth, immigration enforcement, and crime reduction. It emphasizes the administration's policies and their impact on various sectors, including the stock market and healthcare. The tone is assertive, promoting a sense of progress and success.",
       "url": "https://www.trumpstruth.org/statuses/37049",
       "raw": {
         "creator": "",
@@ -29,7 +41,12 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37049",
         "isoDate": "2026-03-03T00:44:54.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:06:47.397Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15593/407140263deca463.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15594/7c4256e63b876a99.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37048",
@@ -125,7 +142,7 @@
       "id": "https://www.trumpstruth.org/statuses/37053",
       "publishedAt": "2026-03-03T05:36:37.000Z",
       "title": "Deranged Jack Smith should be brought to Justice, NOW!!!",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116163619076258559</span>Deranged Jack Smith should be brought to Justice, NOW!!!</p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116163619076258559</span>Deranged Jack Smith should be brought to Justice, NOW!!!</p>\n\n[Image] The image features a tweet from Sami Nathaniel, who has a verified account on X (formerly Twitter). The tweet expresses a strong opinion, stating that \"He looks absolutely DEFEATED! LOCK HIM UP !!!\" The context suggests a political commentary, likely directed at a public figure, though no specific individual is named in the text. The tone is confrontational, indicating a critical stance towards the subject of the tweet.",
       "url": "https://www.trumpstruth.org/statuses/37053",
       "raw": {
         "creator": "",
@@ -137,7 +154,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116163619076258559Deranged Jack Smith should be brought to Justice, NOW!!!",
         "guid": "https://www.trumpstruth.org/statuses/37053",
         "isoDate": "2026-03-03T05:36:37.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T16:04:06.203Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15595/0e3746860f40a73a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37056",
@@ -161,7 +182,7 @@
       "id": "https://www.trumpstruth.org/statuses/37055",
       "publishedAt": "2026-03-03T05:45:04.000Z",
       "title": "[No Title] - Post from March 3, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116163653947545766</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116163653947545766</span></p>\n\n[Image] The image features a social media post from a user named Kate, who has a verified account. The profile picture shows a woman in a black outfit, possibly a character from a movie or series. The text in the post reads, \"Get all on him Brandon,\" accompanied by prayer hands emojis. The context suggests a call to action or support for someone named Brandon, but no specific details about the individual are provided.",
       "url": "https://www.trumpstruth.org/statuses/37055",
       "raw": {
         "creator": "",
@@ -173,7 +194,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116163653947545766",
         "guid": "https://www.trumpstruth.org/statuses/37055",
         "isoDate": "2026-03-03T05:45:04.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:06:30.231Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15597/086d5556c59c4bb9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37058",
@@ -197,7 +222,7 @@
       "id": "https://www.trumpstruth.org/statuses/37057",
       "publishedAt": "2026-03-03T05:46:52.000Z",
       "title": "[No Title] - Post from March 3, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116163660992034515</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116163660992034515</span></p>\n\n[Image] The image features a tweet from Mila Joy, who has a verified account on X (formerly Twitter). The tweet mentions Donald Trump and Melania Trump, stating that they appeared on \"The Ellen Show\" to celebrate their engagement. The profile picture shows Mila Joy with curly hair and a friendly expression. The tweet is straightforward, focusing on the Trumps' appearance on the show.",
       "url": "https://www.trumpstruth.org/statuses/37057",
       "raw": {
         "creator": "",
@@ -209,7 +234,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116163660992034515",
         "guid": "https://www.trumpstruth.org/statuses/37057",
         "isoDate": "2026-03-03T05:46:52.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:06:28.283Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15599/0a4b67ff908b6719.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37060",
@@ -269,7 +298,7 @@
       "id": "https://www.trumpstruth.org/statuses/37062",
       "publishedAt": "2026-03-03T12:38:59.000Z",
       "title": "Their air defense, Air Force, Navy, and Leadership is gone. They want to talk. I said “Too Late!”",
-      "text": "<p>Their air defense, Air Force, Navy, and Leadership is gone. They want to talk. I said “Too Late!”<br/><a href=\"https://www.washingtonpost.com/opinions/2026/03/03/iran-strike-venezuela-military-trump-doctrine/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">26/03/03/iran-strike-venezuela-military-trump-doctrine/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9</span></a></p>",
+      "text": "<p>Their air defense, Air Force, Navy, and Leadership is gone. They want to talk. I said “Too Late!”<br/><a href=\"https://www.washingtonpost.com/opinions/2026/03/03/iran-strike-venezuela-military-trump-doctrine/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">26/03/03/iran-strike-venezuela-military-trump-doctrine/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9</span></a></p>\n\n[Image] The image shows Donald Trump walking on the White House lawn at night, wearing a dark coat and a red \"USA\" cap. He appears to be heading towards a helicopter, with a Marine standing nearby. The background is dimly lit, emphasizing the figures in the foreground. The accompanying text discusses the \"Trump Doctrine\" and compares it to Reagan's approach to foreign policy, suggesting a significant impact without military intervention.",
       "url": "https://www.trumpstruth.org/statuses/37062",
       "raw": {
         "creator": "",
@@ -281,13 +310,17 @@
         "contentSnippet": "Their air defense, Air Force, Navy, and Leadership is gone. They want to talk. I said “Too Late!”\nhttps://www.washingtonpost.com/opinions/2026/03/03/iran-strike-venezuela-military-trump-doctrine/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9",
         "guid": "https://www.trumpstruth.org/statuses/37062",
         "isoDate": "2026-03-03T12:38:59.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:06:19.628Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15601/4ed0ac3c9addc866.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37063",
       "publishedAt": "2026-03-03T13:02:10.000Z",
       "title": "Have unlimited mid to upper tier Weaponry - Brutal “stuff.” Wall Street Journal story was wrong, and a disgrace. President DJT",
-      "text": "<p>Have unlimited mid to upper tier Weaponry - Brutal “stuff.” Wall Street Journal story was wrong, and a disgrace. President DJT<br/><a href=\"https://www.washingtonpost.com/opinions/2026/03/03/iran-strike-venezuela-military-trump-doctrine/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">26/03/03/iran-strike-venezuela-military-trump-doctrine/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9</span></a></p>",
+      "text": "<p>Have unlimited mid to upper tier Weaponry - Brutal “stuff.” Wall Street Journal story was wrong, and a disgrace. President DJT<br/><a href=\"https://www.washingtonpost.com/opinions/2026/03/03/iran-strike-venezuela-military-trump-doctrine/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">26/03/03/iran-strike-venezuela-military-trump-doctrine/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9</span></a></p>\n\n[Image] The image features Donald Trump standing outside, wearing a red \"USA\" cap and a dark coat. He appears to be on the White House grounds, with a helicopter in the background. A military officer is also visible nearby. The accompanying text discusses Trump's actions and the concept of the \"Trump Doctrine\" in relation to U.S. global leadership. The tweet is from Marc Thiessen and includes a timestamp and view count.",
       "url": "https://www.trumpstruth.org/statuses/37063",
       "raw": {
         "creator": "",
@@ -299,7 +332,11 @@
         "contentSnippet": "Have unlimited mid to upper tier Weaponry - Brutal “stuff.” Wall Street Journal story was wrong, and a disgrace. President DJT\nhttps://www.washingtonpost.com/opinions/2026/03/03/iran-strike-venezuela-military-trump-doctrine/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9",
         "guid": "https://www.trumpstruth.org/statuses/37063",
         "isoDate": "2026-03-03T13:02:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:25:21.210Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15602/b6f0953ea59037d9.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37064",
@@ -377,7 +414,7 @@
       "id": "https://www.trumpstruth.org/statuses/37068",
       "publishedAt": "2026-03-03T22:39:12.000Z",
       "title": "Brooke Rollins: “MY MOM RUNNING FOR REELECTION tonight!!! (This is my sister at a polling place). Rural America LOVES THEIR PRESIDENT!!!!!”",
-      "text": "<p>Brooke Rollins: “MY MOM RUNNING FOR REELECTION tonight!!! (This is my sister at a polling place). Rural America LOVES THEIR PRESIDENT!!!!!”</p>",
+      "text": "<p>Brooke Rollins: “MY MOM RUNNING FOR REELECTION tonight!!! (This is my sister at a polling place). Rural America LOVES THEIR PRESIDENT!!!!!”</p>\n\n[Image] A woman sits on the tailgate of a pickup truck, smiling while holding a campaign sign that reads \"TRUMP ENDORSED RE-ELECT HELEN KERWIN CONSERVATIVE REPUBLICAN FOR STATE REPRESENTATIVE.\" She is wearing a red cap with \"TRUMP\" printed on it and casual clothing, including jeans and flip-flops. The background features a clear blue sky and some trees, indicating an outdoor setting. The image conveys a political endorsement for Helen Kerwin, supported by Donald Trump.",
       "url": "https://www.trumpstruth.org/statuses/37068",
       "raw": {
         "creator": "",
@@ -389,13 +426,17 @@
         "contentSnippet": "Brooke Rollins: “MY MOM RUNNING FOR REELECTION tonight!!! (This is my sister at a polling place). Rural America LOVES THEIR PRESIDENT!!!!!”",
         "guid": "https://www.trumpstruth.org/statuses/37068",
         "isoDate": "2026-03-03T22:39:12.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:06:07.791Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15603/9747cea17a7009b4.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37070",
       "publishedAt": "2026-03-03T22:44:43.000Z",
       "title": "[No Title] - Post from March 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump smiling, dressed in a dark suit with a red tie, against a backdrop of the American flag. The text overlay highlights \"53M Total State of the Union Views Across All Platforms,\" indicating a significant viewership for a State of the Union address. The post is from the official White House Twitter account, dated February 27, and expresses excitement about the event. The overall tone suggests a celebration of the viewership milestone.",
       "url": "https://www.trumpstruth.org/statuses/37070",
       "raw": {
         "creator": "",
@@ -407,13 +448,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37070",
         "isoDate": "2026-03-03T22:44:43.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:06:04.809Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15605/11a885dff51a0b30.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37069",
       "publishedAt": "2026-03-03T22:44:55.000Z",
       "title": "[No Title] - Post from March 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a stylized black-and-white portrait of Donald Trump, wearing sunglasses and a suit, with a serious expression. The text overlay reads \"I STAND WITH TRUMP\" at the top and \"THE MOST BADASS PRESIDENT OF ALL TIME!\" at the bottom. The background appears blurred, suggesting a cityscape or lights. The image is shared by a user named Donna O'Meara, indicating support for Trump.",
       "url": "https://www.trumpstruth.org/statuses/37069",
       "raw": {
         "creator": "",
@@ -425,13 +470,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37069",
         "isoDate": "2026-03-03T22:44:55.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:25:17.566Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15604/051cda6be7ecff5f.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37072",
       "publishedAt": "2026-03-03T22:55:29.000Z",
       "title": "Zohran has come a long way embracing, of course, the Declaration of Independence while at The Oval Office — Big progress! President DJT",
-      "text": "<p>Zohran has come a long way embracing, of course, the Declaration of Independence while at The Oval Office — Big progress! President DJT</p>",
+      "text": "<p>Zohran has come a long way embracing, of course, the Declaration of Independence while at The Oval Office — Big progress! President DJT</p>\n\n[Image] The image shows a man standing in a formal setting, likely the Oval Office, with a large document displayed behind him. The document appears to be a historical text, possibly the Declaration of Independence, framed and mounted on the wall. The man is dressed in a dark suit with a white shirt and a maroon tie, and he has a slight smile. To his right, the American flag is visible, along with ornate decor and a presidential seal on the wall.",
       "url": "https://www.trumpstruth.org/statuses/37072",
       "raw": {
         "creator": "",
@@ -443,7 +492,11 @@
         "contentSnippet": "Zohran has come a long way embracing, of course, the Declaration of Independence while at The Oval Office — Big progress! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/37072",
         "isoDate": "2026-03-03T22:55:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T16:04:02.641Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15606/41c9892b9fd3006d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37071",
@@ -467,7 +520,7 @@
       "id": "https://www.trumpstruth.org/statuses/37073",
       "publishedAt": "2026-03-03T23:20:11.000Z",
       "title": "[No Title] - Post from March 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a newspaper clipping with a letter to the editor discussing President Trump's foreign policy, particularly regarding Iran. It includes a portrait of Donald Trump, who is described as a significant figure in American history for his actions related to Iran. The letter compares Trump to Winston Churchill, emphasizing his role in protecting the United States and Western civilization. The text also mentions former President Barack Obama in the context of Iran's policies.",
       "url": "https://www.trumpstruth.org/statuses/37073",
       "raw": {
         "creator": "",
@@ -479,7 +532,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37073",
         "isoDate": "2026-03-03T23:20:11.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:05:43.823Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15607/87d820060fdcb3d2.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -487,173 +544,157 @@
       "postId": "https://www.trumpstruth.org/statuses/37048",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:00.343Z"
+      "analyzedAt": "2026-09-06T06:55:59.111Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37049",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:00.343Z"
+      "analyzedAt": "2026-09-06T06:55:59.111Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37050",
       "label": "negative",
-      "rationale": "The text expresses a strong negative sentiment about the state of elections in America.",
-      "analyzedAt": "2026-04-13T08:12:00.343Z"
+      "rationale": "The text expresses a negative view of the electoral process and calls for strict voter ID laws.",
+      "analyzedAt": "2026-09-06T06:55:59.111Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37051",
       "label": "negative",
-      "rationale": "The text criticizes President Biden and expresses a negative sentiment regarding military supplies and actions.",
-      "analyzedAt": "2026-04-13T08:12:00.343Z"
+      "rationale": "The text criticizes President Biden's actions and expresses a negative sentiment about military readiness.",
+      "analyzedAt": "2026-09-06T06:55:59.111Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37052",
       "label": "neutral",
       "rationale": "The text is a link with no sentiment expressed.",
-      "analyzedAt": "2026-04-13T08:12:00.343Z"
+      "analyzedAt": "2026-09-06T06:55:59.111Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37053",
       "label": "negative",
       "rationale": "The text expresses a strong negative sentiment towards Jack Smith, calling for justice.",
-      "analyzedAt": "2026-04-13T08:12:00.343Z"
+      "analyzedAt": "2026-09-06T06:55:59.111Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37054",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:00.343Z"
+      "analyzedAt": "2026-09-06T06:55:59.111Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37055",
       "label": "neutral",
       "rationale": "The text is a retweet with no additional sentiment expressed.",
-      "analyzedAt": "2026-04-13T08:12:00.343Z"
+      "analyzedAt": "2026-09-06T06:55:59.111Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37056",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:00.343Z"
+      "analyzedAt": "2026-09-06T06:55:59.111Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37057",
       "label": "neutral",
       "rationale": "The text is a retweet with no additional sentiment expressed.",
-      "analyzedAt": "2026-04-13T08:12:00.343Z"
+      "analyzedAt": "2026-09-06T06:55:59.111Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37058",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:00.343Z"
+      "analyzedAt": "2026-09-06T06:55:59.111Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37059",
       "label": "neutral",
       "rationale": "The text discusses a fashion event without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:12:00.343Z"
+      "analyzedAt": "2026-09-06T06:55:59.111Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37060",
       "label": "positive",
-      "rationale": "The mention of a trade deficit plummeting is a positive economic outcome.",
-      "analyzedAt": "2026-04-13T08:12:00.343Z"
+      "rationale": "The mention of a trade deficit reduction is framed positively as a victory.",
+      "analyzedAt": "2026-09-06T06:55:59.111Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37061",
       "label": "positive",
-      "rationale": "The praise for 'Operation Epic Fury' strikes on Iran indicates a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:12:00.343Z"
+      "rationale": "The praise for 'Operation Epic Fury' indicates a positive sentiment regarding military actions.",
+      "analyzedAt": "2026-09-06T06:55:59.111Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37062",
       "label": "negative",
-      "rationale": "The text conveys a negative sentiment about a situation where leadership is gone and implies a harsh stance.",
-      "analyzedAt": "2026-04-13T08:12:00.343Z"
+      "rationale": "The text conveys a dismissive attitude towards a potential negotiation, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:55:59.111Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37063",
       "label": "negative",
-      "rationale": "The text expresses a negative sentiment about a Wall Street Journal story and uses derogatory language.",
-      "analyzedAt": "2026-04-13T08:12:00.343Z"
+      "rationale": "The text expresses a negative sentiment towards a Wall Street Journal story and uses derogatory language.",
+      "analyzedAt": "2026-09-06T06:55:59.111Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37064",
       "label": "negative",
-      "rationale": "The text criticizes President Biden and expresses a negative sentiment regarding military supplies and actions.",
-      "analyzedAt": "2026-04-13T08:12:00.343Z"
+      "rationale": "The text criticizes President Biden and suggests a negative view of his actions regarding military supplies.",
+      "analyzedAt": "2026-09-06T06:55:59.111Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37065",
       "label": "positive",
-      "rationale": "The message conveys a strong sense of security and readiness regarding U.S. military and economic power, which is positive.",
-      "analyzedAt": "2026-04-13T08:12:00.343Z"
+      "rationale": "The message conveys a strong commitment to ensuring energy security and military strength, which is presented positively.",
+      "analyzedAt": "2026-09-06T06:55:59.111Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37066",
       "label": "positive",
       "rationale": "The endorsement of Aaron Flint is enthusiastic and highlights his qualifications and support, conveying a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:12:00.343Z"
+      "analyzedAt": "2026-09-06T06:55:59.111Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37067",
       "label": "negative",
-      "rationale": "The text expresses concern about banks undermining the Genius Act and emphasizes a negative sentiment towards their actions.",
-      "analyzedAt": "2026-04-13T08:12:00.343Z"
+      "rationale": "The text expresses concern about banks undermining the Genius Act, indicating a negative sentiment towards the banks.",
+      "analyzedAt": "2026-09-06T06:55:59.111Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37068",
       "label": "positive",
       "rationale": "The text expresses excitement and positivity about a family member running for reelection and mentions support for the president.",
-      "analyzedAt": "2026-04-13T08:12:00.343Z"
+      "analyzedAt": "2026-09-06T06:55:59.111Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37069",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:00.343Z"
+      "analyzedAt": "2026-09-06T06:55:59.111Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37070",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:00.343Z"
+      "analyzedAt": "2026-09-06T06:55:59.111Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37071",
       "label": "positive",
       "rationale": "The message conveys a positive outcome of safely returning over 9,000 Americans home.",
-      "analyzedAt": "2026-04-13T08:12:00.343Z"
+      "analyzedAt": "2026-09-06T06:55:59.111Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37072",
       "label": "positive",
       "rationale": "The text expresses a positive sentiment about progress and embracing the Declaration of Independence.",
-      "analyzedAt": "2026-04-13T08:12:00.343Z"
+      "analyzedAt": "2026-09-06T06:55:59.111Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37073",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:00.343Z"
-    }
-  ],
-  "trendingTopic": "The United States Munitions Stockpiles have, at the medium and upper medium grade, never been higher or better - As was stated to me today, we have a virtually unlimited supply of these weapons.",
-  "selfPraiseCount": 2,
-  "secondaryHighlights": [
-    {
-      "topic": "Deranged Jack Smith should be brought to Justice, NOW!!!",
-      "name": "Jack Smith"
-    },
-    {
-      "topic": "Fashion Notes: Melania Trump Makes History at United Nations in Neutral Dior Suit",
-      "name": "Melania Trump"
-    },
-    {
-      "topic": "NATO Secretary General Mark Rutte praises 'Operation Epic Fury' strikes on Iran",
-      "name": "Mark Rutte"
+      "analyzedAt": "2026-09-06T06:55:59.111Z"
     }
   ]
 }

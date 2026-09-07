@@ -2,16 +2,28 @@
   "date": "2026-03-05",
   "counts": {
     "positive": 16,
-    "neutral": 9,
-    "negative": 3
+    "neutral": 12,
+    "negative": 1
   },
-  "summary": "positive:16 neutral:9 negative:3",
-  "generatedAt": "2026-04-13T08:13:17.513Z",
+  "summary": "positive:16 neutral:12 negative:1",
+  "generatedAt": "2026-09-07T15:17:16.849Z",
   "topics": [
-    "Save America Act Initiatives",
-    "Border Security and Migrant Crime",
-    "Trump Administration Actions and Endorsements"
+    "Trump's pardons of five former NFL players including Joe Klecko",
+    "Trump's crackdown on DC crime leads to over 10,000 arrests",
+    "Trump's influence on NATO and Iran policy highlighted by Secretary General"
   ],
+  "trendingTopic": "Trump's pardons of five former NFL players including Joe Klecko",
+  "secondaryHighlights": [
+    {
+      "topic": "Trump's crackdown on DC crime leads to over 10,000 arrests"
+    },
+    {
+      "topic": "Trump's influence on NATO and Iran policy highlighted by Secretary General"
+    }
+  ],
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:29:faf6818e8736f027e0d057f4",
+  "selfPraiseCacheKey": "self-praise-v1:29:faf6818e8736f027e0d057f4",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37130",
@@ -359,7 +371,7 @@
       "id": "https://www.trumpstruth.org/statuses/37145",
       "publishedAt": "2026-03-05T17:05:06.000Z",
       "title": "[No Title] - Post from March 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Justice Clarence Thomas, President Donald Trump, and First Lady Melania Trump at the Daytona 500 in 1999. Justice Thomas is wearing a colorful jacket with Daytona 500 branding, while Trump is in a dark jacket and cap, and Melania is dressed in a white coat. They appear to be engaged in conversation, with Thomas shaking hands with Trump. The background shows a crowd and the racetrack, emphasizing the event's lively atmosphere.",
       "url": "https://www.trumpstruth.org/statuses/37145",
       "raw": {
         "creator": "",
@@ -371,13 +383,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37145",
         "isoDate": "2026-03-05T17:05:06.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:11:39.589Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15658/f80f782ac4553d72.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37150",
       "publishedAt": "2026-03-05T17:06:46.000Z",
       "title": "[No Title] - Post from March 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a tweet from James Woods expressing a strong opinion about immigration policy, stating that America is doomed without the actions of Donald Trump. The tweet includes a lengthy statement attributed to Donald Trump, discussing immigration policy and criticizing current practices under President Biden. Trump emphasizes the need for a pause on migration from certain countries and outlines various measures to address illegal admissions and national security concerns.",
       "url": "https://www.trumpstruth.org/statuses/37150",
       "raw": {
         "creator": "",
@@ -389,7 +405,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37150",
         "isoDate": "2026-03-05T17:06:46.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T16:04:16.501Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15659/e2cd3c5cf5518478.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37154",
@@ -413,7 +433,7 @@
       "id": "https://www.trumpstruth.org/statuses/37153",
       "publishedAt": "2026-03-05T17:39:25.000Z",
       "title": "[No Title] - Post from March 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image depicts an elegantly designed grand hall featuring high ceilings adorned with intricate moldings and multiple chandeliers. Large arched windows allow natural light to flood the space, highlighting the marble floor with a checkered pattern. The room appears spacious and is likely intended for formal gatherings or events. There are a few silhouetted figures in the distance, suggesting the hall's scale and grandeur.",
       "url": "https://www.trumpstruth.org/statuses/37153",
       "raw": {
         "creator": "",
@@ -425,13 +445,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37153",
         "isoDate": "2026-03-05T17:39:25.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:26:49.435Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15662/bf35a1075b47cf82.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37152",
       "publishedAt": "2026-03-05T17:39:37.000Z",
       "title": "[No Title] - Post from March 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image depicts a spacious, elegantly designed interior room featuring high ceilings adorned with intricate moldings and chandeliers. Large windows allow natural light to flood the space, offering a view of greenery outside. In the foreground, three individuals dressed in formal attire stand facing the windows, seemingly admiring the view. The overall aesthetic is luxurious, with a combination of white, gold, and marble elements contributing to the grandeur of the setting.",
       "url": "https://www.trumpstruth.org/statuses/37152",
       "raw": {
         "creator": "",
@@ -443,13 +467,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37152",
         "isoDate": "2026-03-05T17:39:37.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:11:18.732Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15661/075ba7845bb551b1.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37151",
       "publishedAt": "2026-03-05T17:39:50.000Z",
       "title": "[No Title] - Post from March 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image depicts a grand, neoclassical building with large columns and a wide staircase leading up to its entrance. The structure is surrounded by green grass and trees, suggesting a park-like setting. Two figures are visible on the steps, one appearing to be in formal attire. The sky is clear with a few clouds, enhancing the architectural details of the building. The overall scene conveys a sense of grandeur and formality.",
       "url": "https://www.trumpstruth.org/statuses/37151",
       "raw": {
         "creator": "",
@@ -461,7 +489,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37151",
         "isoDate": "2026-03-05T17:39:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:11:16.785Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15660/8310da81f611f276.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37155",
@@ -516,192 +548,200 @@
         "guid": "https://www.trumpstruth.org/statuses/37157",
         "isoDate": "2026-03-05T21:12:02.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/38868",
+      "publishedAt": "2026-03-05T21:35:17.000Z",
+      "title": "Who Wants This War? Answer: Winners like TrumpThat’s epic fury revising in fire and steel 47 years of American defeat at the hands of an anti-American regime that no U.S. president dared to challenge until Trump. Me in Tablet Mag",
+      "text": "<p>Who Wants This War? Answer: Winners like Trump</p><p>That’s epic fury revising in fire and steel 47 years of American defeat at the hands of an anti-American regime that no U.S. president dared to challenge until Trump. Me in Tablet Mag</p><p><a href=\"https://www.tabletmag.com/sections/news/articles/war-iran-winners-donald-trump\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">tabletmag.com/sections/news/ar</span><span class=\"invisible\">ticles/war-iran-winners-donald-trump</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/38868",
+      "raw": {
+        "creator": "",
+        "title": "Who Wants This War? Answer: Winners like TrumpThat’s epic fury revising in fire and steel 47 years of American defeat at the hands of an anti-American regime that no U.S. president dared to challenge until Trump. Me in Tablet Mag",
+        "link": "https://www.trumpstruth.org/statuses/38868",
+        "pubDate": "Thu, 05 Mar 2026 21:35:17 +0000",
+        "author": "",
+        "content": "<p>Who Wants This War? Answer: Winners like Trump</p><p>That’s epic fury revising in fire and steel 47 years of American defeat at the hands of an anti-American regime that no U.S. president dared to challenge until Trump. Me in Tablet Mag</p><p><a href=\"https://www.tabletmag.com/sections/news/articles/war-iran-winners-donald-trump\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">tabletmag.com/sections/news/ar</span><span class=\"invisible\">ticles/war-iran-winners-donald-trump</span></a></p>",
+        "contentSnippet": "Who Wants This War? Answer: Winners like Trump\nThat’s epic fury revising in fire and steel 47 years of American defeat at the hands of an anti-American regime that no U.S. president dared to challenge until Trump. Me in Tablet Mag\nhttps://www.tabletmag.com/sections/news/articles/war-iran-winners-donald-trump",
+        "guid": "https://www.trumpstruth.org/statuses/38868",
+        "isoDate": "2026-03-05T21:35:17.000Z"
+      }
     }
   ],
   "sentiments": [
     {
       "postId": "https://www.trumpstruth.org/statuses/37130",
       "label": "positive",
-      "rationale": "The endorsement of Kurt Alme and the praise for his qualifications and potential contributions is presented positively.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "rationale": "The text expresses strong support for Kurt Alme, highlighting his qualifications and expected positive impact.",
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37131",
       "label": "positive",
-      "rationale": "The statement about debunking climate fears is framed positively, suggesting a beneficial impact.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "rationale": "The text discusses the positive impact of Trump's actions on climate fears, which is framed positively.",
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37132",
       "label": "neutral",
       "rationale": "The text discusses the influence of MAGA influencers without expressing a clear positive or negative sentiment.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37133",
       "label": "positive",
-      "rationale": "The thank you message to NATO Secretary General conveys a positive sentiment of appreciation.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "rationale": "The text expresses gratitude towards NATO Secretary General, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37134",
       "label": "positive",
-      "rationale": "The mention of broad allied support for Trump's mission indicates a positive sentiment regarding international relations.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "rationale": "The text discusses broad allied support for Trump's mission, which is framed positively.",
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37135",
-      "label": "positive",
-      "rationale": "Melania Trump's historic role is presented positively, highlighting a significant achievement.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "label": "neutral",
+      "rationale": "The text discusses Melania Trump's historical role without expressing a clear positive or negative sentiment.",
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37136",
       "label": "positive",
-      "rationale": "The call to action for the SAVE AMERICA ACT is framed as a passionate and defining fight, indicating a strong positive sentiment.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "rationale": "The text emphasizes the importance of the SAVE AMERICA ACT, indicating a passionate and positive sentiment.",
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37137",
-      "label": "negative",
-      "rationale": "The text outlines strict regulations and bans, which can be perceived as negative and exclusionary.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "label": "neutral",
+      "rationale": "The text outlines a list of proposed voter regulations without expressing a clear positive or negative sentiment.",
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37138",
       "label": "neutral",
-      "rationale": "The text is a factual statement about a banner without any emotional or opinionated content.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "rationale": "The text discusses the Justice Department's actions without expressing a clear positive or negative sentiment.",
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37139",
       "label": "positive",
-      "rationale": "The fall in mortgage rates is a positive development for potential homebuyers.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "rationale": "The text reports a decrease in mortgage rates, which is generally viewed positively.",
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37140",
       "label": "negative",
-      "rationale": "Halting sex changes for minors due to pressure from the administration can be viewed negatively, especially by those who support such medical options.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "rationale": "The text discusses a hospital halting sex changes for minors due to pressure from the Trump administration, which may be viewed negatively by some.",
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37141",
       "label": "positive",
-      "rationale": "The approval of Trump's ballroom by the Fine Arts Commission is a positive endorsement.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "rationale": "The text reports a positive development regarding Trump's ballroom receiving approval.",
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37142",
       "label": "positive",
-      "rationale": "The achievement of over 10,000 arrests by the crime task force is presented positively, indicating effectiveness.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "rationale": "The text highlights a significant number of arrests made by Trump's crime task force, which is framed positively.",
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37143",
       "label": "positive",
-      "rationale": "The mention of a significant investment and economic revival is framed positively.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "rationale": "The text discusses a significant investment and economic revival, which is presented positively.",
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37144",
       "label": "positive",
-      "rationale": "The crackdown on crime and the declaration of an end to unchecked violence is presented positively.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "rationale": "The text discusses a crackdown on crime resulting in many arrests, which is framed positively.",
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37145",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37146",
       "label": "positive",
-      "rationale": "The act of pardoning former NFL stars is generally viewed positively, especially in the context of redemption.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "rationale": "The text discusses Trump pardoning former NFL stars, which is generally viewed positively.",
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37147",
       "label": "positive",
-      "rationale": "The pardoning of Hall of Famer Joe Klecko and others is framed positively, highlighting a significant action by the President.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "rationale": "The text highlights Trump's pardoning of Hall of Fame players, which is presented positively.",
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37148",
       "label": "positive",
-      "rationale": "Removing barriers to infrastructure development is generally seen as a positive action that can lead to economic growth.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "rationale": "The text discusses Trump removing barriers to infrastructure, which is framed positively.",
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37149",
       "label": "neutral",
       "rationale": "The text discusses a political strategy without expressing a clear positive or negative sentiment.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37150",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37151",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37152",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37153",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37154",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37155",
       "label": "positive",
-      "rationale": "The text discusses rolling back regulations and cites significant savings, which is generally viewed positively by those favoring deregulation.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "rationale": "The text discusses the rollback of a climate change rule and cites significant savings, which is presented in a positive light.",
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37156",
       "label": "positive",
-      "rationale": "The announcement of a new Secretary of Homeland Security and praise for past performance indicates a positive sentiment towards leadership and governance.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
+      "rationale": "The announcement of a new Secretary of Homeland Security is framed positively, highlighting the appointee's qualifications and the positive impact expected.",
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37157",
-      "label": "negative",
-      "rationale": "The text outlines strict voting regulations and bans on certain groups, which can be perceived as exclusionary and negative.",
-      "analyzedAt": "2026-04-13T08:13:17.509Z"
-    }
-  ],
-  "trendingTopic": "THE SAVE AMERICA ACT!1",
-  "selfPraiseCount": 1,
-  "secondaryHighlights": [
-    {
-      "topic": "Steve Daines, of Montana, is one of our truly Great United States Senators",
-      "name": "Steve Daines"
+      "label": "neutral",
+      "rationale": "The text outlines a list of proposed voter regulations without expressing a clear positive or negative sentiment.",
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     },
     {
-      "topic": "Melania Trump makes history presiding over UN Security Council",
-      "name": "Melania Trump"
-    },
-    {
-      "topic": "Miranda Devine: Trump debunking Al Gore’s climate fears has made the world a better place",
-      "name": "Miranda Devine"
+      "postId": "https://www.trumpstruth.org/statuses/38868",
+      "label": "positive",
+      "rationale": "The text expresses strong support for Trump, portraying him as a winner who challenges anti-American regimes, which conveys a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:56:36.622Z"
     }
   ]
 }

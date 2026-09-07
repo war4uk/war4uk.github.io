@@ -6,12 +6,24 @@
     "negative": 2
   },
   "summary": "positive:1 neutral:3 negative:2",
-  "generatedAt": "2026-04-13T08:09:19.814Z",
+  "generatedAt": "2026-09-07T15:16:56.908Z",
   "topics": [
-    "White House Ballroom Construction",
-    "Midterm Election Battle Lines",
-    "Criticism of Democrats"
+    "Trump's State of the Union highlights Democratic failures and contrasts with American heroes",
+    "Trump establishes midterm election battle lines between Patriots and 'Hate-triots'",
+    "Judge rules in favor of Trump's ballroom construction project"
   ],
+  "trendingTopic": "Trump's State of the Union highlights Democratic failures and contrasts with American heroes",
+  "secondaryHighlights": [
+    {
+      "topic": "Trump establishes midterm election battle lines between Patriots and 'Hate-triots'"
+    },
+    {
+      "topic": "Judge rules in favor of Trump's ballroom construction project"
+    }
+  ],
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:6:5d5fcf824578997430d2ca2d",
+  "selfPraiseCacheKey": "self-praise-v1:6:5d5fcf824578997430d2ca2d",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36901",
@@ -127,50 +139,37 @@
       "postId": "https://www.trumpstruth.org/statuses/36901",
       "label": "negative",
       "rationale": "The text describes the Democrats as 'crazy' in response to Trump's State of the Union, which conveys a negative sentiment towards them.",
-      "analyzedAt": "2026-04-13T08:09:19.811Z"
+      "analyzedAt": "2026-09-06T06:54:33.936Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36902",
       "label": "negative",
-      "rationale": "The text criticizes Democrats by suggesting they have abandoned American heroes, using derogatory language which conveys a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:09:19.811Z"
+      "rationale": "The text criticizes Democrats by stating they have 'ditched American heroes' and uses derogatory language, which conveys a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:54:33.936Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36903",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:09:19.811Z"
+      "analyzedAt": "2026-09-06T06:54:33.936Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36904",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:09:19.811Z"
+      "analyzedAt": "2026-09-06T06:54:33.936Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36905",
       "label": "neutral",
       "rationale": "The text presents a factual statement about Trump drawing battle lines for the midterm elections without expressing a clear positive or negative sentiment.",
-      "analyzedAt": "2026-04-13T08:09:19.811Z"
+      "analyzedAt": "2026-09-06T06:54:33.936Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36906",
       "label": "positive",
-      "rationale": "The text expresses excitement and positivity about the construction of a ballroom, highlighting it as a symbol of America's greatness and emphasizing that it is funded by private donors, not taxpayers.",
-      "analyzedAt": "2026-04-13T08:09:19.810Z"
-    }
-  ],
-  "trendingTopic": "Trump’s home-run State of the Union 2026 showed exactly how crazy the Democrats are",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Dems ditched American heroes for adults in frog suits and tiresome De Niro"
-    },
-    {
-      "topic": "Trump draws clear midterm battle lines: Patriots vs. 'Hate-triots’"
-    },
-    {
-      "topic": "Great news for America, and our wonderful White House!"
+      "rationale": "The text expresses excitement and positivity about the construction of a ballroom, highlighting it as a great achievement for America and emphasizing that it is funded by private donors, which adds to the positive sentiment.",
+      "analyzedAt": "2026-09-06T06:54:33.936Z"
     }
   ]
 }

@@ -6,12 +6,25 @@
     "negative": 1
   },
   "summary": "positive:3 neutral:2 negative:1",
-  "generatedAt": "2026-04-13T08:16:38.335Z",
+  "generatedAt": "2026-09-07T15:17:44.760Z",
   "topics": [
-    "NATO and Military Operations",
-    "Save America Act Advocacy",
-    "Venezuela Baseball Success"
+    "Promotes Sean Hannity's new podcast",
+    "Venezuela wins against Italy in WBC semifinal",
+    "Comments on NATO allies' stance regarding military operations against Iran"
   ],
+  "trendingTopic": "Promotes Sean Hannity's new podcast",
+  "trendingName": "Sean Hannity",
+  "secondaryHighlights": [
+    {
+      "topic": "Venezuela wins against Italy in WBC semifinal"
+    },
+    {
+      "topic": "Comments on NATO allies' stance regarding military operations against Iran"
+    }
+  ],
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:6:3f972e85f7ac2e4dde1d36b7",
+  "selfPraiseCacheKey": "self-praise-v1:6:3f972e85f7ac2e4dde1d36b7",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37327",
@@ -127,51 +140,37 @@
       "postId": "https://www.trumpstruth.org/statuses/37327",
       "label": "positive",
       "rationale": "The text promotes a podcast and praises Sean Hannity, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:16:38.330Z"
+      "analyzedAt": "2026-09-06T12:05:06.807Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37328",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:16:38.330Z"
+      "analyzedAt": "2026-09-06T12:05:06.807Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37329",
       "label": "positive",
       "rationale": "The text celebrates Venezuela's victory in a baseball game and expresses optimism about the country's situation, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:16:38.330Z"
+      "analyzedAt": "2026-09-06T12:05:06.807Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37330",
       "label": "neutral",
       "rationale": "The text states that a strategy is working without expressing a clear positive or negative sentiment.",
-      "analyzedAt": "2026-04-13T08:16:38.330Z"
+      "analyzedAt": "2026-09-06T12:05:06.807Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37331",
       "label": "positive",
       "rationale": "The text strongly supports the Save America Act and expresses confidence in its importance, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:16:38.330Z"
+      "analyzedAt": "2026-09-06T12:05:06.807Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37332",
       "label": "negative",
       "rationale": "The text expresses frustration with NATO allies and a dismissive attitude towards their lack of support, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:16:38.330Z"
-    }
-  ],
-  "trendingTopic": "The US-Israeli strategy against Iran is working",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "“Hang Out with Sean Hannity” is a GREAT New Podcast, Streaming Now!!! Sean is a fantastic guy, and has been right from my political beginnings!",
-      "name": "Sean Hannity"
-    },
-    {
-      "topic": "Save America Act"
-    },
-    {
-      "topic": "The United States has been informed by most of our NATO “Allies” that they don’t want to get involved with our Military Operation against the Terrorist Regime of Iran, in the Middle East, this, despite the fact that almost every Country strongly agreed with what we are doing, and that Iran cannot, in any way, shape, or form, be allowed to have a Nuclear Weapon."
+      "analyzedAt": "2026-09-06T12:05:06.807Z"
     }
   ]
 }

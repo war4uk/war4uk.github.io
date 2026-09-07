@@ -6,12 +6,25 @@
     "negative": 0
   },
   "summary": "positive:6 neutral:50 negative:0",
-  "generatedAt": "2026-04-13T08:12:50.808Z",
+  "generatedAt": "2026-09-07T15:17:14.392Z",
   "topics": [
-    "Trump Kennedy Center Restoration",
-    "Texas Senate Race Endorsement",
-    "Venezuela Oil Relations"
+    "Trump endorses multiple Republican candidates in North Carolina and Arkansas elections",
+    "Trump discusses the impact of his administration on cryptocurrency",
+    "Trump comments on the Republican primary race for the U.S. Senate in Texas"
   ],
+  "trendingTopic": "Trump endorses multiple Republican candidates in North Carolina and Arkansas elections",
+  "secondaryHighlights": [
+    {
+      "topic": "Trump discusses the impact of his administration on cryptocurrency",
+      "name": "Brian Armstrong"
+    },
+    {
+      "topic": "Trump comments on the Republican primary race for the U.S. Senate in Texas"
+    }
+  ],
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:56:9beccf1c3ebb0e864730897d",
+  "selfPraiseCacheKey": "self-praise-v1:56:9beccf1c3ebb0e864730897d",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37075",
@@ -35,7 +48,7 @@
       "id": "https://www.trumpstruth.org/statuses/37074",
       "publishedAt": "2026-03-04T01:44:22.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116168368871499097</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116168368871499097</span></p>\n\n[Image] The image features a tweet from Brian Armstrong, the CEO of Coinbase, discussing the impact of Donald Trump's administration on cryptocurrency. Armstrong credits Trump for fulfilling his campaign promise to make America the \"crypto capital of the world,\" stating that this has brought significant benefits to American citizens and companies. He contrasts this with the previous administration's approach, implying a more favorable stance under Trump.",
       "url": "https://www.trumpstruth.org/statuses/37074",
       "raw": {
         "creator": "",
@@ -47,13 +60,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116168368871499097",
         "guid": "https://www.trumpstruth.org/statuses/37074",
         "isoDate": "2026-03-04T01:44:22.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:11:08.020Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15608/70a154884697e711.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37076",
       "publishedAt": "2026-03-04T01:55:29.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump alongside Michael Whatley, who is identified as the Republican nominee for U.S. Senator from North Carolina. The text prominently declares \"MICHAEL WHATLEY WINS!\" and notes that he is \"ENDORSED BY PRESIDENT TRUMP!\" The background is a gradient of colors, and the bottom includes the phrase \"TRUMP VANCE\" with a slogan to \"MAKE AMERICA GREAT AGAIN!\" The overall design emphasizes the endorsement and victory of Whatley.",
       "url": "https://www.trumpstruth.org/statuses/37076",
       "raw": {
         "creator": "",
@@ -65,13 +82,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37076",
         "isoDate": "2026-03-04T01:55:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:11:01.113Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15610/8839136592c49371.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37078",
       "publishedAt": "2026-03-04T02:03:57.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump on the left, looking serious, with his signature hairstyle and wearing a blue suit. On the right is Congressman Greg Murphy, who is smiling and wearing glasses, with a blue tie and a suit. The background is a gradient of blue and red, and the text prominently states \"CONGRESSMAN (NC-03) GREG MURPHY WINS!\" along with \"ENDORSED BY PRESIDENT TRUMP!\" at the top. The bottom includes \"TRUMP VANCE MAKE AMERICA GREAT AGAIN!\"",
       "url": "https://www.trumpstruth.org/statuses/37078",
       "raw": {
         "creator": "",
@@ -83,13 +104,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37078",
         "isoDate": "2026-03-04T02:03:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:26:40.764Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15612/6ebb4d57aab95f7b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37077",
       "publishedAt": "2026-03-04T02:04:59.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump alongside Congresswoman Virginia Foxx. Trump is depicted with a serious expression, wearing a dark suit and blue tie, while Foxx is smiling, wearing a light blue jacket and glasses. The background is a gradient of red and blue, and the text announces Foxx's victory, stating she is endorsed by Trump. The bottom of the image includes the phrase \"TRUMP VANCE\" and \"MAKE AMERICA GREAT AGAIN!\"",
       "url": "https://www.trumpstruth.org/statuses/37077",
       "raw": {
         "creator": "",
@@ -101,13 +126,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37077",
         "isoDate": "2026-03-04T02:04:59.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:26:32.863Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15611/0a7b4f2f1f201bc1.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37086",
       "publishedAt": "2026-03-04T02:05:19.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump on the left, with a serious expression, and Addison McDowell on the right, smiling. The background is a gradient of blue and purple, and there is bold text stating \"CONGRESSMAN (NC-06) ADDISON MCDOWELL WINS!\" with a note that he is \"ENDORSED BY PRESIDENT TRUMP!\" At the bottom, there is a logo that reads \"TRUMP VANCE! MAKE AMERICA GREAT AGAIN!\" The overall design emphasizes McDowell's victory and Trump's endorsement.",
       "url": "https://www.trumpstruth.org/statuses/37086",
       "raw": {
         "creator": "",
@@ -119,13 +148,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37086",
         "isoDate": "2026-03-04T02:05:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:10:40.551Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15620/195ac0fb417016df.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37085",
       "publishedAt": "2026-03-04T02:05:35.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump on the left, looking serious, with his signature hairstyle and wearing a blue suit. On the right is Congressman David Rouzer, who is smiling and dressed in a suit with a blue tie. The background is a gradient of purple and red, and the text announces Rouzer's victory, stating he is endorsed by Trump. The bottom of the image includes the phrase \"TRUMP VANCE\" along with \"MAKE AMERICA GREAT AGAIN!\"",
       "url": "https://www.trumpstruth.org/statuses/37085",
       "raw": {
         "creator": "",
@@ -137,13 +170,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37085",
         "isoDate": "2026-03-04T02:05:35.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:10:38.434Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15619/6c6c69491d815531.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37084",
       "publishedAt": "2026-03-04T02:05:52.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump alongside Mark Harris, who is identified as Congressman from North Carolina's 8th district. The text prominently states \"MARK HARRIS WINS!\" and notes that he is endorsed by Donald Trump. The background is a gradient of blue and red, and there is a logo at the bottom that reads \"TRUMP VANCE\" with the slogan \"MAKE AMERICA GREAT AGAIN!\" The overall design emphasizes the political endorsement and victory announcement.",
       "url": "https://www.trumpstruth.org/statuses/37084",
       "raw": {
         "creator": "",
@@ -155,13 +192,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37084",
         "isoDate": "2026-03-04T02:05:52.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:10:36.610Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15618/1ef84b7ca514cd4a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37083",
       "publishedAt": "2026-03-04T02:06:05.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features two men, with Donald Trump prominently displayed on the left, looking serious in a suit and tie. On the right is Richard Hudson, a congressman from North Carolina, smiling in a suit and tie. The background is a gradient of red and purple, and the text announces Hudson's victory, stating he is endorsed by Trump. The bottom of the image includes the phrase \"TRUMP VANCE\" along with \"MAKE AMERICA GREAT AGAIN!\"",
       "url": "https://www.trumpstruth.org/statuses/37083",
       "raw": {
         "creator": "",
@@ -173,13 +214,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37083",
         "isoDate": "2026-03-04T02:06:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:10:29.730Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15617/1507d405a5e21382.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37082",
       "publishedAt": "2026-03-04T02:06:20.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump alongside Pat Harrigan, who is identified as Congressman from North Carolina's 10th district. The text prominently states \"PAT HARRIGAN WINS!\" and notes that he is endorsed by Donald Trump. The background has a gradient of colors, and the bottom includes the phrase \"TRUMP VANCE\" with a slogan to \"MAKE AMERICA GREAT AGAIN!\" The overall design emphasizes the political endorsement and victory announcement.",
       "url": "https://www.trumpstruth.org/statuses/37082",
       "raw": {
         "creator": "",
@@ -191,13 +236,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37082",
         "isoDate": "2026-03-04T02:06:20.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T16:04:13.586Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15616/e368e8d9af837388.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37081",
       "publishedAt": "2026-03-04T02:06:39.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump on the left, looking serious, with his signature hairstyle and wearing a suit. On the right is Chuck Edwards, who is smiling and wearing glasses, with a blue blazer. The background is a gradient of purple and red, and there is text announcing Chuck Edwards' victory as Congressman for North Carolina's 11th district, highlighting that he is endorsed by Donald Trump. The bottom of the image includes the phrase \"TRUMP VANCE\" and \"MAKE AMERICA GREAT AGAIN!\"",
       "url": "https://www.trumpstruth.org/statuses/37081",
       "raw": {
         "creator": "",
@@ -209,13 +258,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37081",
         "isoDate": "2026-03-04T02:06:39.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:10:15.632Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15615/0f01388764737458.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37080",
       "publishedAt": "2026-03-04T02:06:59.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump on the left, displaying a serious expression, alongside Brad Knott, who is identified as Congressman from North Carolina's 13th district. The text prominently states \"BRAD KNOTT WINS!\" and notes that he is \"ENDORSED BY PRESIDENT TRUMP!\" The background is a gradient of blue and red, and there is a logo at the bottom that reads \"TRUMP VANCE\" with the slogan \"MAKE AMERICA GREAT AGAIN!\"",
       "url": "https://www.trumpstruth.org/statuses/37080",
       "raw": {
         "creator": "",
@@ -227,13 +280,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37080",
         "isoDate": "2026-03-04T02:06:59.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:10:13.700Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15614/0ce4645512b25c46.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37079",
       "publishedAt": "2026-03-04T02:07:14.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump on the left, looking serious, alongside Tim Moore, who is smiling. The text prominently states \"CONGRESSMAN (NC-14) TIM MOORE WINS!\" and notes that he is \"ENDORSED BY PRESIDENT TRUMP!\" The background is a gradient of colors, and there is a logo at the bottom that reads \"TRUMP VANCE MAKE AMERICA GREAT AGAIN!\" The overall design emphasizes the endorsement and victory of Tim Moore.",
       "url": "https://www.trumpstruth.org/statuses/37079",
       "raw": {
         "creator": "",
@@ -245,7 +302,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37079",
         "isoDate": "2026-03-04T02:07:14.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:26:21.716Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15613/b1161d5d89c9b242.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37093",
@@ -269,7 +330,7 @@
       "id": "https://www.trumpstruth.org/statuses/37092",
       "publishedAt": "2026-03-04T02:12:29.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump alongside Tom Cotton, who is identified as the U.S. Senator from Arkansas. The text prominently states \"TOM COTTON WINS!\" and notes that he is \"ENDORSED BY PRESIDENT TRUMP!\" The background is a gradient of colors, and the bottom includes the phrase \"TRUMP VANCE MAKE AMERICA GREAT AGAIN!\" The overall design emphasizes Cotton's victory and Trump's endorsement.",
       "url": "https://www.trumpstruth.org/statuses/37092",
       "raw": {
         "creator": "",
@@ -281,13 +342,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37092",
         "isoDate": "2026-03-04T02:12:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:09:59.757Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15626/5fc7701c77e74018.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37091",
       "publishedAt": "2026-03-04T02:12:56.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump alongside Sarah Huckabee Sanders. It announces her victory in the gubernatorial race for Arkansas, highlighted by the text \"SARAH HUCKABEE SANDERS WINS!\" and notes that she was endorsed by Trump. The background is a gradient of colors, and the design includes the phrase \"TRUMP VANCE! MAKE AMERICA GREAT AGAIN!\" prominently displayed. Both figures are shown in a professional manner, with Trump looking serious and Sanders smiling.",
       "url": "https://www.trumpstruth.org/statuses/37091",
       "raw": {
         "creator": "",
@@ -299,13 +364,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37091",
         "isoDate": "2026-03-04T02:12:56.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:09:57.823Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15625/823adfe8a630c512.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37090",
       "publishedAt": "2026-03-04T02:13:10.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump alongside Congressman Bruce Westerman, who is celebrating his election victory. The text prominently states \"CONGRESSMAN (AR-04) BRUCE WESTERMAN WINS!\" and notes that he is \"ENDORSED BY PRESIDENT TRUMP!\" The background is a gradient of blue and purple, and there is a banner at the bottom that reads \"TRUMP VANCE MAKE AMERICA GREAT AGAIN!\" The overall design emphasizes Trump's endorsement of Westerman's win.",
       "url": "https://www.trumpstruth.org/statuses/37090",
       "raw": {
         "creator": "",
@@ -317,13 +386,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37090",
         "isoDate": "2026-03-04T02:13:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:09:50.080Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15624/e82d803ade2a7445.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37089",
       "publishedAt": "2026-03-04T02:13:22.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump on the left, with a serious expression, and Congressman Steve Womack on the right, smiling slightly. The background is a gradient of blue and red, with bold text stating \"CONGRESSMAN (AR-03) STEVE WOMACK WINS!\" and \"ENDORSED BY PRESIDENT TRUMP!\" at the top. At the bottom, there is a logo that reads \"TRUMP VANCE MAKE AMERICA GREAT AGAIN!\" The overall design emphasizes Womack's victory and Trump's endorsement.",
       "url": "https://www.trumpstruth.org/statuses/37089",
       "raw": {
         "creator": "",
@@ -335,13 +408,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37089",
         "isoDate": "2026-03-04T02:13:22.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:26:19.834Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15623/5dcc283d659eee0e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37088",
       "publishedAt": "2026-03-04T02:13:35.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump on the left, with his signature hairstyle and a serious expression, wearing a blue suit. On the right is Congressman Rick Crawford, who is smiling and dressed in a suit with a tie. The background is a gradient of blue and red, and the text announces that Rick Crawford has won and is endorsed by Donald Trump. The bottom of the image includes the phrase \"TRUMP VANCE\" along with \"MAKE AMERICA GREAT AGAIN!\"",
       "url": "https://www.trumpstruth.org/statuses/37088",
       "raw": {
         "creator": "",
@@ -353,13 +430,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37088",
         "isoDate": "2026-03-04T02:13:35.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:09:36.286Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15622/73edb8e2009ce05e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37087",
       "publishedAt": "2026-03-04T02:14:50.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump on the left, looking serious, with his signature hairstyle and wearing a blue suit. On the right is Tim Moore, who is smiling and wearing glasses, along with a dark suit and a light blue tie. The background is a gradient of purple and red, and the text prominently states \"CONGRESSMAN (NC-14) TIM MOORE WINS!\" along with \"ENDORSED BY PRESIDENT TRUMP!\" at the top. The bottom includes \"TRUMP VANCE! MAKE AMERICA GREAT AGAIN!\"",
       "url": "https://www.trumpstruth.org/statuses/37087",
       "raw": {
         "creator": "",
@@ -371,13 +452,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37087",
         "isoDate": "2026-03-04T02:14:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:09:34.508Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15621/244725bb44ac04d7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37109",
       "publishedAt": "2026-03-04T02:20:52.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump alongside Greg Abbott, the Governor of Texas. Trump appears serious, while Abbott is smiling. The background is a gradient of colors, and bold text announces Abbott's victory, stating he is endorsed by Trump. The bottom of the image includes the phrase \"TRUMP VANCE\" with a slogan promoting the message \"MAKE AMERICA GREAT AGAIN!\" The overall design emphasizes the political endorsement and celebration of Abbott's win.",
       "url": "https://www.trumpstruth.org/statuses/37109",
       "raw": {
         "creator": "",
@@ -389,13 +474,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37109",
         "isoDate": "2026-03-04T02:20:52.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T16:04:11.582Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15642/a8dcda9a3e9d49a0.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37108",
       "publishedAt": "2026-03-04T02:21:09.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump on the left, looking serious, with his signature hairstyle and wearing a blue suit. On the right is Dan Patrick, the Lieutenant Governor of Texas, smiling and wearing glasses, with a red tie. The background is a gradient of red and blue, and bold text announces Dan Patrick's victory, stating he is endorsed by President Trump. The bottom of the image includes the phrase \"TRUMP VANCE\" and \"MAKE AMERICA GREAT AGAIN!\"",
       "url": "https://www.trumpstruth.org/statuses/37108",
       "raw": {
         "creator": "",
@@ -407,13 +496,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37108",
         "isoDate": "2026-03-04T02:21:09.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:09:20.769Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15641/65d72868252ba745.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37107",
       "publishedAt": "2026-03-04T02:21:26.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump alongside Dustin Burrows, who is identified as the Texas House Speaker. The text highlights Burrows' victory and notes that he is endorsed by Trump. The background is a gradient of colors, and there are promotional elements, including the phrase \"TRUMP VANCE\" and \"MAKE AMERICA GREAT AGAIN!\" prominently displayed. The overall design emphasizes the political endorsement and celebration of Burrows' win.",
       "url": "https://www.trumpstruth.org/statuses/37107",
       "raw": {
         "creator": "",
@@ -425,13 +518,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37107",
         "isoDate": "2026-03-04T02:21:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:09:18.733Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15640/56610e368c7e6fda.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37106",
       "publishedAt": "2026-03-04T02:21:38.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump on the left, with a serious expression, and Nathaniel Moran on the right, smiling. The background is a gradient of red and purple, and there is text that reads \"CONGRESSMAN (TX-01) NATHANIEL MORAN WINS!\" along with \"ENDORSED BY PRESIDENT TRUMP!\" at the bottom. The image promotes Nathaniel Moran's victory and highlights Trump's endorsement. The overall design emphasizes a political campaign theme.",
       "url": "https://www.trumpstruth.org/statuses/37106",
       "raw": {
         "creator": "",
@@ -443,13 +540,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37106",
         "isoDate": "2026-03-04T02:21:38.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:26:11.885Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15639/407a70ec1f1114e7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37105",
       "publishedAt": "2026-03-04T02:22:08.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump on the left, looking serious, with his signature hairstyle and wearing a suit. On the right is Keith Self, who is bald and smiling, dressed in a suit as well. The background is a gradient of blue and red, and the text prominently states \"CONGRESSMAN (TX-03) KEITH SELF WINS!\" along with \"ENDORSED BY PRESIDENT TRUMP!\" at the top. The bottom includes the phrase \"TRUMP VANCE MAKE AMERICA GREAT AGAIN!\"",
       "url": "https://www.trumpstruth.org/statuses/37105",
       "raw": {
         "creator": "",
@@ -461,13 +562,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37105",
         "isoDate": "2026-03-04T02:22:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:09:07.598Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15638/f4151857696b7cfd.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37104",
       "publishedAt": "2026-03-04T02:22:23.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump on the left, looking serious, alongside Pat Fallon, who is smiling on the right. The background is a gradient of red and blue, with bold text stating \"CONGRESSMAN (TX-04) PAT FALLON WINS!\" and \"ENDORSED BY PRESIDENT TRUMP!\" at the top. At the bottom, there is a banner that reads \"TRUMP VANCE! MAKE AMERICA GREAT AGAIN!\" The overall design emphasizes the endorsement of Pat Fallon by Donald Trump.",
       "url": "https://www.trumpstruth.org/statuses/37104",
       "raw": {
         "creator": "",
@@ -479,13 +584,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37104",
         "isoDate": "2026-03-04T02:22:23.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:09:04.896Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15637/045fb02738aa9094.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37103",
       "publishedAt": "2026-03-04T02:22:34.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump on the left, looking serious, alongside Congressman Lance Gooden, who is smiling. The background is a gradient of blue and red, with bold text stating \"CONGRESSMAN (TX-05) LANCE GOODEN WINS!\" and \"ENDORSED BY PRESIDENT TRUMP!\" at the top. At the bottom, there is a logo that reads \"TRUMP VANCE MAKE AMERICA GREAT AGAIN!\" The overall design emphasizes Gooden's victory and Trump's endorsement.",
       "url": "https://www.trumpstruth.org/statuses/37103",
       "raw": {
         "creator": "",
@@ -497,13 +606,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37103",
         "isoDate": "2026-03-04T02:22:34.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:26:09.318Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15636/d89675eae6b0c90f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37102",
       "publishedAt": "2026-03-04T02:22:46.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump on the left, with a serious expression and styled hair, wearing a blue suit. On the right is Congressman August Pfluger, who is smiling and dressed in a suit with a tie. The background is a gradient of red and purple, and bold text announces Pfluger's victory, stating he is endorsed by Trump. The bottom of the image includes the phrase \"TRUMP VANCE\" along with \"MAKE AMERICA GREAT AGAIN!\"",
       "url": "https://www.trumpstruth.org/statuses/37102",
       "raw": {
         "creator": "",
@@ -515,13 +628,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37102",
         "isoDate": "2026-03-04T02:22:46.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:08:50.998Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15635/3e6ef586114c1365.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37101",
       "publishedAt": "2026-03-04T02:23:01.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump on the left, looking serious, alongside Congressman Craig Goldman on the right, who is smiling. The background is a gradient of red and blue, with text that reads \"CONGRESSMAN (TX-12) CRAIG GOLDMAN WINS!\" and \"ENDORSED BY PRESIDENT TRUMP!\" at the top. At the bottom, there is a logo that says \"TRUMP VANCE\" with the slogan \"MAKE AMERICA GREAT AGAIN!\" prominently displayed.",
       "url": "https://www.trumpstruth.org/statuses/37101",
       "raw": {
         "creator": "",
@@ -533,13 +650,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37101",
         "isoDate": "2026-03-04T02:23:01.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:08:49.088Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15634/15c32764db63f0f3.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37100",
       "publishedAt": "2026-03-04T02:23:16.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump alongside Congressman Ronny Jackson, who represents Texas's 13th district. The text prominently states \"CONGRESSMAN (TX-13) RONNY JACKSON WINS!\" and notes that he is \"ENDORSED BY PRESIDENT TRUMP!\" The background is a gradient of colors, and the design includes a logo that reads \"TRUMP VANCE\" with the phrase \"MAKE AMERICA GREAT AGAIN!\" The overall tone suggests a celebration of Jackson's electoral success with Trump's endorsement.",
       "url": "https://www.trumpstruth.org/statuses/37100",
       "raw": {
         "creator": "",
@@ -551,13 +672,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37100",
         "isoDate": "2026-03-04T02:23:16.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:26:06.843Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15633/1f4459fd519e28e3.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37099",
       "publishedAt": "2026-03-04T02:23:29.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump alongside Congresswoman Monica De La Cruz, who represents Texas's 15th district. The text prominently states \"CONGRESSWOMAN MONICA DE LA CRUZ WINS!\" and notes that she is endorsed by Trump. The background is a gradient of colors, and the bottom includes the phrase \"TRUMP VANCE MAKE AMERICA GREAT AGAIN!\" The overall design emphasizes the political endorsement and victory announcement.",
       "url": "https://www.trumpstruth.org/statuses/37099",
       "raw": {
         "creator": "",
@@ -569,13 +694,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37099",
         "isoDate": "2026-03-04T02:23:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:08:35.359Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15632/a9ab19807cd00084.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37098",
       "publishedAt": "2026-03-04T02:23:40.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump on the left, looking serious, with his signature hairstyle and wearing a suit. On the right is Pete Sessions, a congressman from Texas, smiling and dressed in a suit with a red tie. The background is a gradient of colors, and there is text that states \"CONGRESSMAN (TX-17) PETE SESSIONS WINS!\" along with \"ENDORSED BY PRESIDENT TRUMP!\" at the top. The bottom includes the phrase \"TRUMP VANCE MAKE AMERICA GREAT AGAIN!\"",
       "url": "https://www.trumpstruth.org/statuses/37098",
       "raw": {
         "creator": "",
@@ -587,13 +716,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37098",
         "isoDate": "2026-03-04T02:23:40.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:08:33.291Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15631/5ac0589222f33e47.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37097",
       "publishedAt": "2026-03-04T02:23:52.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump alongside Trever Nehls, who is identified as the Republican nominee for Texas's 22nd congressional district. The text highlights Nehls' victory and notes that he is endorsed by Trump. The background is a gradient of red and blue, and the design includes the phrase \"MAKE AMERICA GREAT AGAIN!\" along with the \"Trump Vance\" branding. The overall tone is celebratory, emphasizing the endorsement and electoral success.",
       "url": "https://www.trumpstruth.org/statuses/37097",
       "raw": {
         "creator": "",
@@ -605,13 +738,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37097",
         "isoDate": "2026-03-04T02:23:52.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:26:04.662Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15630/4e3da093c44c5b73.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37096",
       "publishedAt": "2026-03-04T02:24:06.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump alongside Congresswoman Beth Van Duyne. Trump is depicted with his signature hairstyle and a serious expression, wearing a suit. Van Duyne is smiling, with long hair and wearing a dark outfit with a pearl necklace. The background is a gradient of blue and purple, and bold text announces Van Duyne's victory, stating she is endorsed by Trump. The bottom of the image includes the phrase \"TRUMP VANCE\" and \"MAKE AMERICA GREAT AGAIN!\"",
       "url": "https://www.trumpstruth.org/statuses/37096",
       "raw": {
         "creator": "",
@@ -623,13 +760,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37096",
         "isoDate": "2026-03-04T02:24:06.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:08:18.636Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15629/3977d2768499f4a5.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37095",
       "publishedAt": "2026-03-04T02:24:17.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump on the left, with a serious expression, and Congressman Roger Williams on the right, smiling. The background is a gradient of blue and purple, with bold text stating \"CONGRESSMAN (TX-25) ROGER WILLIAMS WINS!\" and \"ENDORSED BY PRESIDENT TRUMP!\" at the top. At the bottom, there is a logo that reads \"TRUMP VANCE MAKE AMERICA GREAT AGAIN!\" The overall design emphasizes Williams' victory and Trump's endorsement.",
       "url": "https://www.trumpstruth.org/statuses/37095",
       "raw": {
         "creator": "",
@@ -641,13 +782,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37095",
         "isoDate": "2026-03-04T02:24:17.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:08:16.630Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15628/469b4399aa164023.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37094",
       "publishedAt": "2026-03-04T02:24:31.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump alongside Brandon Gill, who is identified as Congressman from Texas's 26th district. The text prominently states \"Brandon Gill WINS!\" and notes that he is \"ENDORSED BY PRESIDENT TRUMP!\" The background has a gradient of colors, and the bottom includes the phrase \"TRUMP VANCE\" with the slogan \"MAKE AMERICA GREAT AGAIN!\" The overall design emphasizes the political endorsement and victory announcement.",
       "url": "https://www.trumpstruth.org/statuses/37094",
       "raw": {
         "creator": "",
@@ -659,13 +804,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37094",
         "isoDate": "2026-03-04T02:24:31.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:26:02.032Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15627/c3da69d264761fe4.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37112",
       "publishedAt": "2026-03-04T02:33:41.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump on the left, with a serious expression, and French Hill, a congressman from Arkansas, on the right, smiling. The background is a gradient of blue and red, and bold text at the top announces \"CONGRESSMAN (AR-02) FRENCH HILL WINS!\" Below, it states \"ENDORSED BY PRESIDENT TRUMP!\" The bottom of the image includes the phrase \"TRUMP VANCE\" along with \"MAKE AMERICA GREAT AGAIN!\"",
       "url": "https://www.trumpstruth.org/statuses/37112",
       "raw": {
         "creator": "",
@@ -677,13 +826,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37112",
         "isoDate": "2026-03-04T02:33:41.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:08:03.167Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15645/1426261c64ddd000.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37111",
       "publishedAt": "2026-03-04T02:33:51.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump alongside Congressman Randy Weber, who represents Texas's 14th district. The text prominently states \"RANDY WEBER WINS!\" and notes that he is \"ENDORSED BY PRESIDENT TRUMP!\" The background is a gradient of blue and red, and there is a logo at the bottom that reads \"TRUMP VANCE MAKE AMERICA GREAT AGAIN!\" The overall design emphasizes the endorsement and victory of Weber in a political context.",
       "url": "https://www.trumpstruth.org/statuses/37111",
       "raw": {
         "creator": "",
@@ -695,13 +848,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37111",
         "isoDate": "2026-03-04T02:33:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:08:01.287Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15644/dd45a7f23e49032c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37110",
       "publishedAt": "2026-03-04T02:34:05.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump alongside Congressman Brian Babin. The text prominently states \"CONGRESSMAN (TX-36) BRIAN BABIN WINS!\" and notes that Babin is \"ENDORSED BY PRESIDENT TRUMP!\" The background has a gradient of colors, and there is a logo at the bottom that reads \"TRUMP VANCE MAKE AMERICA GREAT AGAIN!\" The overall design emphasizes Babin's victory and Trump's endorsement.",
       "url": "https://www.trumpstruth.org/statuses/37110",
       "raw": {
         "creator": "",
@@ -713,13 +870,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37110",
         "isoDate": "2026-03-04T02:34:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:25:54.148Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15643/eaf0829e04aa4327.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37120",
       "publishedAt": "2026-03-04T10:43:06.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump on the left, with a serious expression, and Congressman Michael Cloud on the right, smiling. The background is a gradient of red and blue, and there is text that reads \"CONGRESSMAN (TX-27) MICHAEL CLOUD WINS!\" along with \"ENDORSED BY PRESIDENT TRUMP!\" at the top. At the bottom, there is a banner that says \"TRUMP VANCE MAKE AMERICA GREAT AGAIN!\" The overall theme emphasizes Trump's endorsement of Cloud's victory.",
       "url": "https://www.trumpstruth.org/statuses/37120",
       "raw": {
         "creator": "",
@@ -731,13 +892,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37120",
         "isoDate": "2026-03-04T10:43:06.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:07:47.464Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15653/07d57c9576d15261.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37119",
       "publishedAt": "2026-03-04T10:43:20.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump alongside Tano Tijerina, who is identified as the Republican nominee for Texas's 28th congressional district. The text highlights Tijerina's victory and notes that he is endorsed by Trump. Tijerina is wearing a white cowboy hat and a dark suit, while Trump is in a blue suit with a serious expression. The background is a gradient of red and purple, and there is a banner at the bottom promoting Trump Vance.",
       "url": "https://www.trumpstruth.org/statuses/37119",
       "raw": {
         "creator": "",
@@ -749,13 +914,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37119",
         "isoDate": "2026-03-04T10:43:20.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:07:45.589Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15652/8c119cefb328267a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37118",
       "publishedAt": "2026-03-04T10:43:32.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump alongside Dawn Buckingham, who is identified as the newly elected Land Commissioner of Texas. The text highlights her victory and notes that she was endorsed by Trump. The background is a gradient of colors, and the design includes a banner with \"TRUMP VANCE\" and the phrase \"MAKE AMERICA GREAT AGAIN!\" prominently displayed. The overall tone suggests a celebration of Buckingham's win and Trump's support.",
       "url": "https://www.trumpstruth.org/statuses/37118",
       "raw": {
         "creator": "",
@@ -767,13 +936,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37118",
         "isoDate": "2026-03-04T10:43:32.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:25:47.095Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15651/57c8aef00a16cde5.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37117",
       "publishedAt": "2026-03-04T10:43:43.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump alongside Jessica Steinmann, who is identified as the Republican nominee for Texas's 8th congressional district. The text prominently states that she has won and is endorsed by Donald Trump. The background is a gradient of red and blue, and there is a logo at the bottom that reads \"TRUMP VANCE\" with the phrase \"MAKE AMERICA GREAT AGAIN!\" The overall design emphasizes the political endorsement and victory announcement.",
       "url": "https://www.trumpstruth.org/statuses/37117",
       "raw": {
         "creator": "",
@@ -785,13 +958,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37117",
         "isoDate": "2026-03-04T10:43:43.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:07:32.044Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15650/ac3f24cf2f2d85f1.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37116",
       "publishedAt": "2026-03-04T10:43:55.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump alongside Congressman Jake Ellzey, who represents Texas's 6th congressional district. The text prominently states \"JAKE ELLZEY WINS!\" and notes that he is \"ENDORSED BY PRESIDENT TRUMP!\" The background is a gradient of blue and red, and the bottom includes the phrase \"TRUMP VANCE MAKE AMERICA GREAT AGAIN!\" The overall design emphasizes the endorsement and victory of Ellzey, highlighting Trump's influence in the political landscape.",
       "url": "https://www.trumpstruth.org/statuses/37116",
       "raw": {
         "creator": "",
@@ -803,13 +980,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37116",
         "isoDate": "2026-03-04T10:43:55.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:07:30.164Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15649/1940f2f77dd60d87.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37115",
       "publishedAt": "2026-03-04T10:44:20.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump on the left, looking serious, with his signature hairstyle and wearing a suit. On the right is Mark Teixeira, who is smiling and dressed in a casual shirt. The background has a gradient of red and blue, and the text announces Teixeira as the Republican nominee for TX-21, stating he has won and is endorsed by Trump. The bottom of the image includes the phrase \"TRUMP VANCE\" along with \"MAKE AMERICA GREAT AGAIN!\"",
       "url": "https://www.trumpstruth.org/statuses/37115",
       "raw": {
         "creator": "",
@@ -821,13 +1002,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37115",
         "isoDate": "2026-03-04T10:44:20.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:07:22.478Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15648/7aa9bdb30f73ce66.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37114",
       "publishedAt": "2026-03-04T10:44:33.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump prominently on the left, with a serious expression and styled hair, wearing a dark suit and white shirt. On the right is Don Huffines, the Republican nominee for Comptroller of Texas, who is smiling and dressed in a light-colored suit with an orange tie. The background is gradient, transitioning from blue to purple, and the text announces Huffines' victory and Trump's endorsement, emphasizing a campaign theme.",
       "url": "https://www.trumpstruth.org/statuses/37114",
       "raw": {
         "creator": "",
@@ -839,13 +1024,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37114",
         "isoDate": "2026-03-04T10:44:33.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:07:14.688Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15647/62957add3438dcdf.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37113",
       "publishedAt": "2026-03-04T10:44:42.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump on the left, with his signature hairstyle and a serious expression, wearing a blue suit. On the right is Eric Flores, who is smiling and dressed in a suit and tie. The background is a gradient of red and blue, and the text announces Eric Flores as the Republican nominee for TX-34, stating he has won and is endorsed by Donald Trump. The bottom of the image includes the phrase \"TRUMP VANCE! MAKE AMERICA GREAT AGAIN!\"",
       "url": "https://www.trumpstruth.org/statuses/37113",
       "raw": {
         "creator": "",
@@ -857,7 +1046,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37113",
         "isoDate": "2026-03-04T10:44:42.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:25:44.511Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15646/2c3c48a7f1f50a1d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37122",
@@ -935,7 +1128,7 @@
       "id": "https://www.trumpstruth.org/statuses/37125",
       "publishedAt": "2026-03-04T19:23:34.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a graphic announcing the results of a primary election update from March 3rd, highlighting that 122 candidates endorsed by Donald Trump have won. It includes maps of Arkansas, North Carolina, and Texas, showing the number of wins in each state: 6 in Arkansas, 11 in North Carolina, and 105 in Texas. A prominent image of Donald Trump is included, with a checkmark indicating the success of his endorsed candidates, who lead by an average of 43%.",
       "url": "https://www.trumpstruth.org/statuses/37125",
       "raw": {
         "creator": "",
@@ -947,7 +1140,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37125",
         "isoDate": "2026-03-04T19:23:34.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T16:04:09.190Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15655/b199e3885b4724c0.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37126",
@@ -989,7 +1186,7 @@
       "id": "https://www.trumpstruth.org/statuses/37128",
       "publishedAt": "2026-03-04T21:48:12.000Z",
       "title": "Trump and Amb. Grenell Launch $257M Fast-Tracked Restoration of Trump Kennedy Center After Years of Neglect:",
-      "text": "<p>Trump and Amb. Grenell Launch $257M Fast-Tracked Restoration of Trump Kennedy Center After Years of Neglect: <a href=\"https://www.breitbart.com/entertainment/2026/02/02/trump-grenell-launch-257m-fast-tracked-restoration-trump-kennedy-center/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/entertainment/20</span><span class=\"invisible\">26/02/02/trump-grenell-launch-257m-fast-tracked-restoration-trump-kennedy-center/</span></a></p>",
+      "text": "<p>Trump and Amb. Grenell Launch $257M Fast-Tracked Restoration of Trump Kennedy Center After Years of Neglect: <a href=\"https://www.breitbart.com/entertainment/2026/02/02/trump-grenell-launch-257m-fast-tracked-restoration-trump-kennedy-center/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/entertainment/20</span><span class=\"invisible\">26/02/02/trump-grenell-launch-257m-fast-tracked-restoration-trump-kennedy-center/</span></a></p>\n\n[Image] The image features a large, modern building situated near a body of water, likely a cultural or governmental structure. The accompanying text is a tweet from Roma Daravi discussing media coverage of a restoration project related to Donald Trump. It mentions a $257 million fast-tracked restoration of the Trump Kennedy Center, highlighting Trump's involvement in addressing years of neglect. The tweet includes a link to Breitbart News for more information.",
       "url": "https://www.trumpstruth.org/statuses/37128",
       "raw": {
         "creator": "",
@@ -1001,13 +1198,17 @@
         "contentSnippet": "Trump and Amb. Grenell Launch $257M Fast-Tracked Restoration of Trump Kennedy Center After Years of Neglect: https://www.breitbart.com/entertainment/2026/02/02/trump-grenell-launch-257m-fast-tracked-restoration-trump-kennedy-center/",
         "guid": "https://www.trumpstruth.org/statuses/37128",
         "isoDate": "2026-03-04T21:48:12.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:25:33.454Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15656/4532fd3c3a054c19.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37129",
       "publishedAt": "2026-03-04T21:51:56.000Z",
       "title": "[No Title] - Post from March 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump saluting while facing a crowd, likely at a military event. The background shows a gathering of military personnel. The design includes text that reads \"AMERICA THE BEAUTIFUL\" and \"MILITARY ANNUAL,\" indicating it relates to a pass for national parks and federal recreational lands for military members and their dependents. The photo is credited to Daniel Torok and is marked as an official White House image.",
       "url": "https://www.trumpstruth.org/statuses/37129",
       "raw": {
         "creator": "",
@@ -1019,360 +1220,349 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37129",
         "isoDate": "2026-03-04T21:51:56.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:06:49.276Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15657/bcd24f4cedc0e17e.jpg"
+      ]
     }
   ],
   "sentiments": [
     {
       "postId": "https://www.trumpstruth.org/statuses/37074",
       "label": "neutral",
-      "rationale": "The text contains a retweet link, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "rationale": "The text is a retweet link, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37075",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37076",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37077",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37078",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37079",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37080",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37081",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37082",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37083",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37084",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37085",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37086",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37087",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37088",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37089",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37090",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37091",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37092",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37093",
       "label": "positive",
-      "rationale": "The mention of Trump attending the dinner is framed as a surprising and positive twist.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "rationale": "The announcement of Trump attending the dinner is presented as a surprising and positive twist.",
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37094",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37095",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37096",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37097",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37098",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37099",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37100",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37101",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37102",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37103",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37104",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37105",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37106",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37107",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37108",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37109",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37110",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37111",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37112",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37113",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37114",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37115",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37116",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37117",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37118",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37119",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37120",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37121",
       "label": "neutral",
       "rationale": "The text reports on a committee conclusion without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37122",
       "label": "positive",
-      "rationale": "The mention of restoring buyer confidence due to falling mortgage rates suggests a positive economic sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "rationale": "The text highlights a positive economic development regarding mortgage rates.",
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37123",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37124",
       "label": "positive",
-      "rationale": "The text expresses a strong commitment to winning the election, indicating a positive outlook.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "rationale": "The text expresses confidence in winning the Senate race and highlights past successes.",
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37125",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37126",
       "label": "positive",
       "rationale": "The text expresses a positive view of Delcy Rodríguez's work and cooperation with the U.S.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37127",
       "label": "positive",
       "rationale": "Honoring Trump as a champion for coal miners indicates a positive sentiment towards his actions.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37128",
       "label": "positive",
       "rationale": "The announcement of a $257M restoration project suggests a positive development.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37129",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:12:50.804Z"
-    }
-  ],
-  "trendingTopic": "Bill Pulte Highlights How Falling Mortgage Rates Are Restoring Buyer Confidence",
-  "trendingName": "Bill Pulte",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "House Oversight Committee concludes Tim Walz' administration knew of fraud, failed to act",
-      "name": "Tim Walz"
-    },
-    {
-      "topic": "Trump will attend White House Correspondents’ Dinner in stunning twist"
-    },
-    {
-      "topic": "Trump Honored on Behalf of Coal Miners as ‘Undisputed Champion of Beautiful, Clean Coal’"
+      "analyzedAt": "2026-09-06T06:56:20.994Z"
     }
   ]
 }

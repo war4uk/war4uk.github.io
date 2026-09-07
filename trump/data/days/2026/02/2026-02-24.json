@@ -6,12 +6,24 @@
     "negative": 1
   },
   "summary": "positive:2 neutral:5 negative:1",
-  "generatedAt": "2026-04-13T08:09:00.948Z",
+  "generatedAt": "2026-09-07T15:16:50.914Z",
   "topics": [
-    "Democrat Shutdown Impact",
-    "Gavin Newsom Presidential Race Dropout",
-    "Save America Act Support"
+    "Poll shows Americans trust Republicans more than Democrats on key issues",
+    "Calls for the passage of the Save America Act amid election integrity concerns",
+    "Support for Donald Trump amidst challenges and injuries"
   ],
+  "trendingTopic": "Poll shows Americans trust Republicans more than Democrats on key issues",
+  "secondaryHighlights": [
+    {
+      "topic": "Calls for the passage of the Save America Act amid election integrity concerns"
+    },
+    {
+      "topic": "Support for Donald Trump amidst challenges and injuries"
+    }
+  ],
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:8:849c8b28aeac43bb63352d5c",
+  "selfPraiseCacheKey": "self-praise-v1:8:849c8b28aeac43bb63352d5c",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36891",
@@ -35,7 +47,7 @@
       "id": "https://www.trumpstruth.org/statuses/36890",
       "publishedAt": "2026-02-24T02:20:31.000Z",
       "title": "[No Title] - Post from February 24, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116123213102912739</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116123213102912739</span></p>\n\n[Image] The image features a tweet from the account \"Stand Up For Trump,\" discussing a poll indicating that Americans trust the Republican Party more than Democrats on various issues, including the economy and border security. It highlights that Donald Trump is performing well according to the poll results. The tweet includes a simple poll asking followers how much they trust and support Trump, with multiple-choice options ranging from 0% to 100%.",
       "url": "https://www.trumpstruth.org/statuses/36890",
       "raw": {
         "creator": "",
@@ -47,7 +59,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116123213102912739",
         "guid": "https://www.trumpstruth.org/statuses/36890",
         "isoDate": "2026-02-24T02:20:31.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:01:37.174Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15527/9c7de4faa8dd0eda.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36889",
@@ -71,7 +87,7 @@
       "id": "https://www.trumpstruth.org/statuses/36888",
       "publishedAt": "2026-02-24T02:21:17.000Z",
       "title": "[No Title] - Post from February 24, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116123215787186806</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116123215787186806</span></p>\n\n[Image] The image features a tweet from a user named @Real_RobN discussing a statement by Tulsi Gabbard, the Director of National Intelligence. The tweet lists several individuals from Barack Obama's national security team, including John Brennan, James Clapper, James Comey, and Susan Rice, accusing them of falsifying intelligence to undermine the U.S. government in elections from 2016 to 2024. The tweet also references Donald Trump and the 2016 election against Hillary Clinton.",
       "url": "https://www.trumpstruth.org/statuses/36888",
       "raw": {
         "creator": "",
@@ -83,7 +99,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116123215787186806",
         "guid": "https://www.trumpstruth.org/statuses/36888",
         "isoDate": "2026-02-24T02:21:17.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:23:27.289Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15525/72894d5993ffe7e9.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36887",
@@ -107,7 +127,7 @@
       "id": "https://www.trumpstruth.org/statuses/36886",
       "publishedAt": "2026-02-24T02:24:44.000Z",
       "title": "The Save America Act must pass!!!",
-      "text": "<p>The Save America Act must pass!!!</p>",
+      "text": "<p>The Save America Act must pass!!!</p>\n\n[Image] The image features a tweet from Mila Joy discussing the 2020 election results, suggesting that there was manipulation in the voting process. It includes a graphic showing election results from several states: Pennsylvania, Michigan, Georgia, North Carolina, and Wisconsin, comparing the percentages of votes for Joe Biden and Donald Trump. The tweet expresses a belief that Biden's lead was due to cheating and calls for the passage of the SAVE America Act.",
       "url": "https://www.trumpstruth.org/statuses/36886",
       "raw": {
         "creator": "",
@@ -119,13 +139,17 @@
         "contentSnippet": "The Save America Act must pass!!!",
         "guid": "https://www.trumpstruth.org/statuses/36886",
         "isoDate": "2026-02-24T02:24:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:01:23.142Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15524/ea40c770910ac9f9.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36885",
       "publishedAt": "2026-02-24T02:25:02.000Z",
       "title": "[No Title] - Post from February 24, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump, who appears to have a visible injury on his face, possibly a cut or bruise. He is surrounded by several individuals, suggesting a supportive environment. The accompanying text expresses gratitude towards Trump, listing various challenges he has faced, such as attempts to smear, impeach, and jail him. The message emphasizes his resilience and ongoing fight for his supporters. The post is dated February 20, 2026, and has garnered significant views.",
       "url": "https://www.trumpstruth.org/statuses/36885",
       "raw": {
         "creator": "",
@@ -137,7 +161,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36885",
         "isoDate": "2026-02-24T02:25:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:01:21.337Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15523/fafa11f3d1a3b92c.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36892",
@@ -162,60 +190,50 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/36885",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment or context.",
-      "analyzedAt": "2026-04-13T08:09:00.947Z"
+      "rationale": "The text is empty, which does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:54:16.528Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36886",
       "label": "positive",
       "rationale": "The statement 'The Save America Act must pass!!!' expresses a strong desire for the act to be passed, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:09:00.947Z"
+      "analyzedAt": "2026-09-06T06:54:16.528Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36887",
       "label": "positive",
       "rationale": "The exclamation 'Wow!' and the news of Gavin Newsom dropping out of the Presidential Race suggest excitement and a positive sentiment towards President DJT.",
-      "analyzedAt": "2026-04-13T08:09:00.947Z"
+      "analyzedAt": "2026-09-06T06:54:16.528Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36888",
       "label": "neutral",
-      "rationale": "The text contains a quote link but does not provide any sentiment or context.",
-      "analyzedAt": "2026-04-13T08:09:00.947Z"
+      "rationale": "The text contains a quote link but does not provide any sentiment or opinion.",
+      "analyzedAt": "2026-09-06T06:54:16.528Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36889",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment or context.",
-      "analyzedAt": "2026-04-13T08:09:00.947Z"
+      "rationale": "The text is empty, which does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:54:16.528Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36890",
       "label": "neutral",
-      "rationale": "The text contains a quote link but does not provide any sentiment or context.",
-      "analyzedAt": "2026-04-13T08:09:00.947Z"
+      "rationale": "The text contains a quote link but does not provide any sentiment or opinion.",
+      "analyzedAt": "2026-09-06T06:54:16.528Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36891",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment or context.",
-      "analyzedAt": "2026-04-13T08:09:00.947Z"
+      "rationale": "The text is empty, which does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:54:16.528Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36892",
       "label": "negative",
       "rationale": "The phrase 'THE DEMOCRAT SHUTDOWN IS KILLING THE BLUE STATES!' conveys a strong negative sentiment towards Democrats and suggests harm to blue states.",
-      "analyzedAt": "2026-04-13T08:09:00.947Z"
-    }
-  ],
-  "trendingTopic": "The Save America Act must pass!!!",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "THE DEMOCRAT SHUTDOWN IS KILLING THE BLUE STATES!"
-    },
-    {
-      "topic": "Wow!"
+      "analyzedAt": "2026-09-06T06:54:16.528Z"
     }
   ]
 }

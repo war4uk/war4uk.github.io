@@ -6,12 +6,27 @@
     "negative": 2
   },
   "summary": "positive:4 neutral:7 negative:2",
-  "generatedAt": "2026-04-13T08:10:43.735Z",
+  "generatedAt": "2026-09-07T15:17:03.074Z",
   "topics": [
-    "Iranian Leadership Change",
-    "Minnesota Autism Payments Investigation",
-    "Texas Political Endorsements"
+    "Endorses Don Huffines for Texas Comptroller",
+    "Endorses Dr. Dawn Buckingham for Texas Land Commissioner",
+    "Endorses Sid Miller for Texas Agriculture Commissioner"
   ],
+  "trendingTopic": "Endorses Don Huffines for Texas Comptroller",
+  "trendingName": "Don Huffines",
+  "secondaryHighlights": [
+    {
+      "topic": "Endorses Dr. Dawn Buckingham for Texas Land Commissioner",
+      "name": "Dr. Dawn Buckingham"
+    },
+    {
+      "topic": "Endorses Sid Miller for Texas Agriculture Commissioner",
+      "name": "Sid Miller"
+    }
+  ],
+  "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v10:13:28ad7a98746bd797524908b6",
+  "selfPraiseCacheKey": "self-praise-v1:13:28ad7a98746bd797524908b6",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36987",
@@ -215,7 +230,7 @@
       "id": "https://www.trumpstruth.org/statuses/36995",
       "publishedAt": "2026-02-28T10:02:51.000Z",
       "title": "[No Title] - Post from February 28, 2026",
-      "text": "<p><a href=\"https://ir.voanews.com/a/8118488.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ir.voanews.com/a/8118488.html</span><span class=\"invisible\"></span></a></p>",
+      "text": "<p><a href=\"https://ir.voanews.com/a/8118488.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ir.voanews.com/a/8118488.html</span><span class=\"invisible\"></span></a></p>\n\n[Image] The image features Donald Trump speaking at a podium, wearing a white cap with \"USA\" on it. Behind him are two American flags and the presidential seal. The text in Persian below the image discusses a message from Trump regarding actions against the Iranian regime. The setting appears to be a formal event, likely addressing political or international issues. The focus is on Trump's remarks and the context of U.S.-Iran relations.",
       "url": "https://www.trumpstruth.org/statuses/36995",
       "raw": {
         "creator": "",
@@ -227,7 +242,11 @@
         "contentSnippet": "https://ir.voanews.com/a/8118488.html",
         "guid": "https://www.trumpstruth.org/statuses/36995",
         "isoDate": "2026-02-28T10:02:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:24:20.211Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15561/52c9ca600be94f45.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36996",
@@ -252,94 +271,80 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/36984",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:10:43.732Z"
+      "rationale": "The text is empty, resulting in a neutral sentiment.",
+      "analyzedAt": "2026-09-06T06:55:14.710Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36985",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:10:43.732Z"
+      "rationale": "The text is empty, resulting in a neutral sentiment.",
+      "analyzedAt": "2026-09-06T06:55:14.710Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36986",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:10:43.732Z"
+      "rationale": "The text is empty, resulting in a neutral sentiment.",
+      "analyzedAt": "2026-09-06T06:55:14.710Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36987",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:10:43.732Z"
+      "rationale": "The text is empty, resulting in a neutral sentiment.",
+      "analyzedAt": "2026-09-06T06:55:14.710Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36988",
       "label": "positive",
       "rationale": "The text highlights Dr. Dawn Buckingham's achievements and expresses strong support for her re-election, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:10:43.732Z"
+      "analyzedAt": "2026-09-06T06:55:14.710Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36989",
       "label": "positive",
       "rationale": "The text supports Don Huffines' candidacy and praises his qualifications, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:10:43.732Z"
+      "analyzedAt": "2026-09-06T06:55:14.710Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36990",
       "label": "positive",
       "rationale": "The text praises Sid Miller's work and expresses strong support for his re-election, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:10:43.732Z"
+      "analyzedAt": "2026-09-06T06:55:14.710Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36991",
       "label": "negative",
-      "rationale": "The text accuses individuals of being involved in a scam and calls for investigation, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:10:43.732Z"
+      "rationale": "The text describes a significant increase in payments related to autism as a 'GIANT SCAM,' indicating a strong negative sentiment.",
+      "analyzedAt": "2026-09-06T06:55:14.710Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36992",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:10:43.732Z"
+      "rationale": "The text is empty, resulting in a neutral sentiment.",
+      "analyzedAt": "2026-09-06T06:55:14.710Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36993",
       "label": "negative",
       "rationale": "The text discusses Iran's interference in elections and the potential for renewed war, which conveys a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:10:43.732Z"
+      "analyzedAt": "2026-09-06T06:55:14.710Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36994",
       "label": "neutral",
-      "rationale": "The text reports on a political situation without expressing a clear positive or negative sentiment.",
-      "analyzedAt": "2026-04-13T08:10:43.732Z"
+      "rationale": "The text is a statement about a legal situation without expressing any clear sentiment.",
+      "analyzedAt": "2026-09-06T06:55:14.710Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36995",
       "label": "neutral",
-      "rationale": "The text contains a link without any additional commentary or sentiment expressed, making it neutral.",
-      "analyzedAt": "2026-04-13T08:10:43.732Z"
+      "rationale": "The text contains a link without any sentiment expressed, making it neutral.",
+      "analyzedAt": "2026-09-06T06:55:14.710Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36996",
       "label": "positive",
       "rationale": "The text expresses a strong sense of justice and hope for the Iranian people following the death of Khamenei, portraying it as a positive turning point for the country.",
-      "analyzedAt": "2026-04-13T08:10:43.732Z"
-    }
-  ],
-  "trendingTopic": "Don Huffines is a MAGA Warrior",
-  "trendingName": "Don Huffines",
-  "selfPraiseCount": 4,
-  "secondaryHighlights": [
-    {
-      "topic": "Khamenei, one of the most evil people in History, is dead"
-    },
-    {
-      "topic": "Minnesota Autism Payments have gone from $1,099,946 in 2017, to $343,176,474 in 2024, an increase of 34,000% in just a few years."
-    },
-    {
-      "topic": "Iran tried to interfere in 2020, 2024 elections to stop Trump, and now faces renewed war with United States"
+      "analyzedAt": "2026-09-06T06:55:14.710Z"
     }
   ]
 }

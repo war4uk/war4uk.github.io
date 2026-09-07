@@ -6,12 +6,26 @@
     "negative": 2
   },
   "summary": "positive:2 neutral:16 negative:2",
-  "generatedAt": "2026-04-13T08:07:14.988Z",
+  "generatedAt": "2026-09-07T15:16:33.924Z",
   "topics": [
-    "White House Ballroom Announcement",
-    "Diego Garcia Lease Concerns",
-    "Election Integrity and Control Issues"
+    "David Shafer stands firm against Fani Willis's threats regarding Trump support",
+    "Concerns raised over election integrity and calls for the SAVE Act",
+    "Kid Rock achieves first No. 1 on Hot Christian Songs chart"
   ],
+  "trendingTopic": "David Shafer stands firm against Fani Willis's threats regarding Trump support",
+  "trendingName": "David Shafer",
+  "secondaryHighlights": [
+    {
+      "topic": "Concerns raised over election integrity and calls for the SAVE Act"
+    },
+    {
+      "topic": "Kid Rock achieves first No. 1 on Hot Christian Songs chart",
+      "name": "Kid Rock"
+    }
+  ],
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:20:a6d1a05082aa41aa7cd7c6d6",
+  "selfPraiseCacheKey": "self-praise-v1:20:a6d1a05082aa41aa7cd7c6d6",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36787",
@@ -35,7 +49,7 @@
       "id": "https://www.trumpstruth.org/statuses/36788",
       "publishedAt": "2026-02-18T02:01:10.000Z",
       "title": "[No Title] - Post from February 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is a tweet from the Georgia Republican Party account, featuring a message about David Shafer, the Chairman Emeritus. It states that he supported Donald Trump in 2020 and mentions Fani Willis, who allegedly demanded that Shafer repudiate Trump. The tweet claims that when Shafer refused, Willis threatened him with bankruptcy and prison, but he stood firm and ultimately prevailed. The tweet encourages followers to support Shafer.",
       "url": "https://www.trumpstruth.org/statuses/36788",
       "raw": {
         "creator": "",
@@ -47,13 +61,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36788",
         "isoDate": "2026-02-18T02:01:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:59:22.262Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15474/64d25f02ea9b0bb8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36789",
       "publishedAt": "2026-02-18T03:18:43.000Z",
       "title": "Congratulations to Kid Rock! Number One, and also, great Super Bowl ratings. A BIG WEEK. MAGA all the way!!! President DJT",
-      "text": "<p>Congratulations to Kid Rock! Number One, and also, great Super Bowl ratings. A BIG WEEK. MAGA all the way!!! President DJT<br/><a href=\"https://www.instagram.com/billboard/p/DU4RK1OEuFZ/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">instagram.com/billboard/p/DU4R</span><span class=\"invisible\">K1OEuFZ/</span></a></p>",
+      "text": "<p>Congratulations to Kid Rock! Number One, and also, great Super Bowl ratings. A BIG WEEK. MAGA all the way!!! President DJT<br/><a href=\"https://www.instagram.com/billboard/p/DU4RK1OEuFZ/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">instagram.com/billboard/p/DU4R</span><span class=\"invisible\">K1OEuFZ/</span></a></p>\n\n[Image] The image features Kid Rock performing on stage, wearing a black leather jacket, sunglasses, and a wide-brimmed hat adorned with a blue feather. He is holding a microphone and appears to be passionately singing. A prominent cross necklace hangs around his neck. The caption highlights that Kid Rock has earned his first No. 1 on the Hot Christian Songs chart with the song \"Til' You Can't.\" The background suggests a lively concert atmosphere.",
       "url": "https://www.trumpstruth.org/statuses/36789",
       "raw": {
         "creator": "",
@@ -65,7 +83,11 @@
         "contentSnippet": "Congratulations to Kid Rock! Number One, and also, great Super Bowl ratings. A BIG WEEK. MAGA all the way!!! President DJT\nhttps://www.instagram.com/billboard/p/DU4RK1OEuFZ/",
         "guid": "https://www.trumpstruth.org/statuses/36789",
         "isoDate": "2026-02-18T03:18:43.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:59:20.327Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15475/c96c2453c811595e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36793",
@@ -89,7 +111,7 @@
       "id": "https://www.trumpstruth.org/statuses/36792",
       "publishedAt": "2026-02-18T03:57:38.000Z",
       "title": "Crooked Elections cannot be allowed in the U.S.A. President DJT",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116089620936035048</span>Crooked Elections cannot be allowed in the U.S.A. President DJT</p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116089620936035048</span>Crooked Elections cannot be allowed in the U.S.A. President DJT</p>\n\n[Image] The image features a tweet from the account @TheStormHasArrived, discussing a prediction made by Dan Bongino during his show with John Solomon. The prediction suggests that Donald Trump will reveal evidence of foreign interference in the 2020 election, which could influence Senators, particularly John Thune, regarding the filibuster and the Save America act. The tweet emphasizes the potential impact of this information on public perception and political debate.",
       "url": "https://www.trumpstruth.org/statuses/36792",
       "raw": {
         "creator": "",
@@ -101,13 +123,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116089620936035048Crooked Elections cannot be allowed in the U.S.A. President DJT",
         "guid": "https://www.trumpstruth.org/statuses/36792",
         "isoDate": "2026-02-18T03:57:38.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:59:11.463Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15477/8d4376c4e71914f6.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36791",
       "publishedAt": "2026-02-18T03:58:00.000Z",
       "title": "[No Title] - Post from February 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a close-up of Donald Trump with a serious expression, highlighted by glowing eyes. The text overlay reads, \"I WILL BE THE ONE TO SHUT IT DOWN,\" emphasizing a strong, assertive message. The background is dark, enhancing the dramatic effect of the image. The post is attributed to a user named Pepe Deluxe, who comments on the content, suggesting it resonates with a particular audience. The overall tone is confrontational and impactful.",
       "url": "https://www.trumpstruth.org/statuses/36791",
       "raw": {
         "creator": "",
@@ -119,7 +145,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36791",
         "isoDate": "2026-02-18T03:58:00.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:22:56.143Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15476/6c186e2a919bb186.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36790",
@@ -161,7 +191,7 @@
       "id": "https://www.trumpstruth.org/statuses/36795",
       "publishedAt": "2026-02-18T11:05:34.000Z",
       "title": "[No Title] - Post from February 18, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116091294028607026</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116091294028607026</span></p>\n\n[Image] The image is a tweet from the account Wall Street Apes discussing alleged irregularities in the 2020 election in Michigan. It claims that 38,000 ballots arrived after Election Day, highlights over 100% voter turnout, and mentions various discrepancies such as dead people voting and mismatched votes in poll books. The tweet raises concerns about the integrity of the election process, citing specific numbers and events related to voter registration and ballot handling.",
       "url": "https://www.trumpstruth.org/statuses/36795",
       "raw": {
         "creator": "",
@@ -173,7 +203,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116091294028607026",
         "guid": "https://www.trumpstruth.org/statuses/36795",
         "isoDate": "2026-02-18T11:05:34.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:58:56.593Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15480/7045e05a19674479.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36800",
@@ -197,7 +231,7 @@
       "id": "https://www.trumpstruth.org/statuses/36799",
       "publishedAt": "2026-02-18T11:33:44.000Z",
       "title": "[No Title] - Post from February 18, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116091412418659980</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116091412418659980</span></p>\n\n[Image] The image is a tweet from the account @TheSCIF discussing allegations related to the 2020 election. It claims that Dominion voting machines switched votes from Donald Trump to Joe Biden and deleted millions of Trump votes, particularly highlighting Pennsylvania. The tweet also mentions connections between voting machines and the internet, suggesting ties to China. It criticizes mainstream media and certain political entities for allegedly misleading the public about voting machine security.",
       "url": "https://www.trumpstruth.org/statuses/36799",
       "raw": {
         "creator": "",
@@ -209,7 +243,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116091412418659980",
         "guid": "https://www.trumpstruth.org/statuses/36799",
         "isoDate": "2026-02-18T11:33:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:58:54.748Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15484/a8e436102afab574.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36798",
@@ -233,7 +271,7 @@
       "id": "https://www.trumpstruth.org/statuses/36797",
       "publishedAt": "2026-02-18T11:34:21.000Z",
       "title": "[No Title] - Post from February 18, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116091416662034679</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116091416662034679</span></p>\n\n[Image] The image features a tweet from Sami Nathaniel, who has a verified account. The tweet reads \"PASS THE SAVE ACT!!!\" in bold, capital letters, indicating a call to action regarding the SAVE Act. There are no images or additional context provided in the tweet itself. The focus is on the urgency of the message, suggesting a political or social advocacy theme.",
       "url": "https://www.trumpstruth.org/statuses/36797",
       "raw": {
         "creator": "",
@@ -245,7 +283,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116091416662034679",
         "guid": "https://www.trumpstruth.org/statuses/36797",
         "isoDate": "2026-02-18T11:34:21.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:58:50.746Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15482/13115ae919583701.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36796",
@@ -269,7 +311,7 @@
       "id": "https://www.trumpstruth.org/statuses/36801",
       "publishedAt": "2026-02-18T11:35:27.000Z",
       "title": "[No Title] - Post from February 18, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116091421399345387</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116091421399345387</span></p>\n\n[Image] The image features a tweet from Michelle Maxwell, who has a verified account. In her tweet, she expresses support for Donald Trump, stating that someone recognizes his influence on global and economic stability. The tweet emphasizes the importance of acknowledging Trump's power in these areas. The background of her profile picture includes an American flag design, suggesting a patriotic theme.",
       "url": "https://www.trumpstruth.org/statuses/36801",
       "raw": {
         "creator": "",
@@ -281,7 +323,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116091421399345387",
         "guid": "https://www.trumpstruth.org/statuses/36801",
         "isoDate": "2026-02-18T11:35:27.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:22:52.184Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15486/0b01ef93231c7647.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36803",
@@ -305,7 +351,7 @@
       "id": "https://www.trumpstruth.org/statuses/36802",
       "publishedAt": "2026-02-18T12:04:02.000Z",
       "title": "[No Title] - Post from February 18, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116091531183692853</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116091531183692853</span></p>\n\n[Image] The image features a tweet from a verified account named TONY, which includes a logo with a lion and the word \"MAGA.\" The text states, \"Trump is an incredible grandfather,\" accompanied by a praying hands emoji and an American flag emoji. The tweet expresses a positive sentiment about Donald Trump, highlighting his role as a grandfather. The overall tone is supportive of Trump, reflecting a pro-Trump sentiment.",
       "url": "https://www.trumpstruth.org/statuses/36802",
       "raw": {
         "creator": "",
@@ -317,7 +363,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116091531183692853",
         "guid": "https://www.trumpstruth.org/statuses/36802",
         "isoDate": "2026-02-18T12:04:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:22:50.490Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15487/70f5435420b5cc07.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36804",
@@ -341,7 +391,7 @@
       "id": "https://www.trumpstruth.org/statuses/36806",
       "publishedAt": "2026-02-18T21:19:30.000Z",
       "title": "Will be the Greatest Ballroom ever built, now rising at the site of the White House — Fully paid for by American Patriot Donors. ZERO cost to our United States Taxpayers!",
-      "text": "<p>Will be the Greatest Ballroom ever built, now rising at the site of the White House — Fully paid for by American Patriot Donors. ZERO cost to our United States Taxpayers!</p>",
+      "text": "<p>Will be the Greatest Ballroom ever built, now rising at the site of the White House — Fully paid for by American Patriot Donors. ZERO cost to our United States Taxpayers!</p>\n\n[Image] The image depicts a digital rendering of a grand building, likely a government structure, featuring classical architectural elements such as columns and a prominent facade. The scene includes well-manicured lawns and trees, with a fence surrounding the property. In the background, another building is visible, suggesting a complex or compound. The sky is clear, indicating a bright day. There are no recognizable people or specific political figures in the image.",
       "url": "https://www.trumpstruth.org/statuses/36806",
       "raw": {
         "creator": "",
@@ -353,13 +403,17 @@
         "contentSnippet": "Will be the Greatest Ballroom ever built, now rising at the site of the White House — Fully paid for by American Patriot Donors. ZERO cost to our United States Taxpayers!",
         "guid": "https://www.trumpstruth.org/statuses/36806",
         "isoDate": "2026-02-18T21:19:30.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:58:30.781Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15490/f11ea281796d4d3f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36805",
       "publishedAt": "2026-02-18T21:19:44.000Z",
       "title": "[No Title] - Post from February 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image depicts a large, classical-style building with prominent columns and a grand staircase leading up to its entrance. The structure is surrounded by green grass and trees, suggesting a park-like setting. Two figures are visible on the steps, one appearing to be dressed in formal attire. The sky is clear with a few clouds, adding to the serene atmosphere of the scene. The architectural design suggests a significant public or governmental building.",
       "url": "https://www.trumpstruth.org/statuses/36805",
       "raw": {
         "creator": "",
@@ -371,7 +425,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36805",
         "isoDate": "2026-02-18T21:19:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:58:28.830Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15489/07103d78c1e16ca7.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -379,135 +437,121 @@
       "postId": "https://www.trumpstruth.org/statuses/36787",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:07:14.985Z"
+      "analyzedAt": "2026-09-06T06:53:08.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36788",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:07:14.985Z"
+      "analyzedAt": "2026-09-06T06:53:08.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36789",
       "label": "positive",
       "rationale": "The text congratulates Kid Rock and expresses enthusiasm about Super Bowl ratings, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:07:14.985Z"
+      "analyzedAt": "2026-09-06T06:53:08.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36790",
       "label": "neutral",
       "rationale": "The text discusses a political issue without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:07:14.985Z"
+      "analyzedAt": "2026-09-06T06:53:08.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36791",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:07:14.985Z"
+      "analyzedAt": "2026-09-06T06:53:08.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36792",
       "label": "negative",
-      "rationale": "The statement expresses a strong negative sentiment against 'crooked elections' in the U.S.A.",
-      "analyzedAt": "2026-04-13T08:07:14.985Z"
+      "rationale": "The statement expresses a strong opinion against 'crooked elections,' indicating a negative sentiment towards the electoral process.",
+      "analyzedAt": "2026-09-06T06:53:08.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36793",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:07:14.985Z"
+      "analyzedAt": "2026-09-06T06:53:08.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36794",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:07:14.985Z"
+      "analyzedAt": "2026-09-06T06:53:08.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36795",
       "label": "neutral",
       "rationale": "The text is a retweet reference with no original sentiment expressed.",
-      "analyzedAt": "2026-04-13T08:07:14.985Z"
+      "analyzedAt": "2026-09-06T06:53:08.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36796",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:07:14.985Z"
+      "analyzedAt": "2026-09-06T06:53:08.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36797",
       "label": "neutral",
       "rationale": "The text is a retweet reference with no original sentiment expressed.",
-      "analyzedAt": "2026-04-13T08:07:14.985Z"
+      "analyzedAt": "2026-09-06T06:53:08.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36798",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:07:14.985Z"
+      "analyzedAt": "2026-09-06T06:53:08.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36799",
       "label": "neutral",
       "rationale": "The text is a retweet reference with no original sentiment expressed.",
-      "analyzedAt": "2026-04-13T08:07:14.985Z"
+      "analyzedAt": "2026-09-06T06:53:08.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36800",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:07:14.985Z"
+      "analyzedAt": "2026-09-06T06:53:08.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36801",
       "label": "neutral",
       "rationale": "The text is a retweet reference with no original sentiment expressed.",
-      "analyzedAt": "2026-04-13T08:07:14.985Z"
+      "analyzedAt": "2026-09-06T06:53:08.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36802",
       "label": "neutral",
       "rationale": "The text is a retweet reference with no original sentiment expressed.",
-      "analyzedAt": "2026-04-13T08:07:14.985Z"
+      "analyzedAt": "2026-09-06T06:53:08.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36803",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:07:14.985Z"
+      "analyzedAt": "2026-09-06T06:53:08.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36804",
       "label": "negative",
-      "rationale": "The text expresses concern and criticism regarding Prime Minister Starmer's decision about Diego Garcia, indicating potential negative consequences and a warning against losing control.",
-      "analyzedAt": "2026-04-13T08:07:14.985Z"
+      "rationale": "The text expresses concern and criticism regarding Prime Minister Starmer's decision about Diego Garcia, indicating potential negative consequences and a strong warning.",
+      "analyzedAt": "2026-09-06T06:53:08.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36805",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:07:14.985Z"
+      "analyzedAt": "2026-09-06T06:53:08.492Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36806",
       "label": "positive",
       "rationale": "The statement expresses excitement about a new ballroom being built, emphasizing that it is fully funded by donors and costs nothing to taxpayers.",
-      "analyzedAt": "2026-04-13T08:07:14.985Z"
-    }
-  ],
-  "trendingTopic": "Congratulations to Kid Rock!",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Will be the Greatest Ballroom ever built, now rising at the site of the White House"
-    },
-    {
-      "topic": "Key political voice in Georgia urges state to take over Fulton County elections after FBI raid"
-    },
-    {
-      "topic": "I have been telling Prime Minister Keir Starmer, of the United Kingdom, that Leases are no good when it comes to Countries, and that he is making a big mistake by entering a 100 Year Lease with whoever it is that is “claiming” Right, Title, and Interest to Diego Garcia, strategically located in the Indian Ocean.",
-      "name": "Keir Starmer"
+      "analyzedAt": "2026-09-06T06:53:08.492Z"
     }
   ]
 }

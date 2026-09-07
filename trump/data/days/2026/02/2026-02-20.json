@@ -6,12 +6,25 @@
     "negative": 2
   },
   "summary": "positive:4 neutral:8 negative:2",
-  "generatedAt": "2026-04-13T08:07:46.048Z",
+  "generatedAt": "2026-09-07T15:16:40.705Z",
   "topics": [
-    "Global Tariff Announcement",
-    "Economic Recovery Efforts",
-    "Environmental Pollution Concerns"
+    "Announces approval for the construction of the Greatest Ballroom ever built",
+    "Calls for immediate action on the Toxic River spill in Maryland",
+    "Promises support for East Palestine, Ohio residents affected by environmental issues"
   ],
+  "trendingTopic": "Announces approval for the construction of the Greatest Ballroom ever built",
+  "secondaryHighlights": [
+    {
+      "topic": "Calls for immediate action on the Toxic River spill in Maryland",
+      "name": "Wes Moore"
+    },
+    {
+      "topic": "Promises support for East Palestine, Ohio residents affected by environmental issues"
+    }
+  ],
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:14:3c33b49309acb8c7ab3aed65",
+  "selfPraiseCacheKey": "self-praise-v1:14:3c33b49309acb8c7ab3aed65",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36821",
@@ -89,7 +102,7 @@
       "id": "https://www.trumpstruth.org/statuses/36817",
       "publishedAt": "2026-02-20T00:06:32.000Z",
       "title": "[No Title] - Post from February 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump is in a fast-food restaurant, surrounded by a group of employees and supporters. They are all smiling and giving thumbs up, creating a cheerful atmosphere. The restaurant's menu is visible in the background, displaying various food items and prices. The employees are wearing red hats and aprons, while Trump is dressed in a suit with a purple tie. The scene captures a moment of engagement between Trump and the staff, highlighting a casual interaction.",
       "url": "https://www.trumpstruth.org/statuses/36817",
       "raw": {
         "creator": "",
@@ -101,13 +114,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36817",
         "isoDate": "2026-02-20T00:06:32.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:23:08.057Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15492/854adacf467085ab.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36822",
       "publishedAt": "2026-02-20T00:51:03.000Z",
       "title": "Received the Commission of Fine Arts approval today for what will soon be the Greatest Ballroom ever built!",
-      "text": "<p>Received the Commission of Fine Arts approval today for what will soon be the Greatest Ballroom ever built!</p>",
+      "text": "<p>Received the Commission of Fine Arts approval today for what will soon be the Greatest Ballroom ever built!</p>\n\n[Image] The image depicts a grand, neoclassical building with large columns and a wide staircase leading up to its entrance. The facade features multiple large windows, and the structure is surrounded by green grass and trees. Two figures are visible on the steps, one appearing to be dressed in formal attire. The overall design suggests a significant public or governmental building, though no specific details about its identity or purpose are provided.",
       "url": "https://www.trumpstruth.org/statuses/36822",
       "raw": {
         "creator": "",
@@ -119,7 +136,11 @@
         "contentSnippet": "Received the Commission of Fine Arts approval today for what will soon be the Greatest Ballroom ever built!",
         "guid": "https://www.trumpstruth.org/statuses/36822",
         "isoDate": "2026-02-20T00:51:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:59:41.023Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15497/ea3e5922e2720551.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36824",
@@ -215,7 +236,7 @@
       "id": "https://www.trumpstruth.org/statuses/36830",
       "publishedAt": "2026-02-20T19:40:02.000Z",
       "title": "[No Title] - Post from February 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image depicts a grand, neoclassical building with large columns and a wide staircase leading up to its entrance. The structure is surrounded by green grass and trees, suggesting a well-maintained outdoor area. Two figures are visible on the steps, one appearing to be dressed in formal attire. The sky is clear with a few clouds, adding to the serene atmosphere of the scene. The architectural style suggests a significant public or governmental building.",
       "url": "https://www.trumpstruth.org/statuses/36830",
       "raw": {
         "creator": "",
@@ -227,7 +248,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36830",
         "isoDate": "2026-02-20T19:40:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:23:05.174Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15499/f46ac7c1e33d13c6.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36831",
@@ -271,99 +296,85 @@
       "postId": "https://www.trumpstruth.org/statuses/36817",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:07:46.046Z"
+      "analyzedAt": "2026-09-06T06:53:29.331Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36818",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:07:46.046Z"
+      "analyzedAt": "2026-09-06T06:53:29.331Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36819",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:07:46.046Z"
+      "analyzedAt": "2026-09-06T06:53:29.331Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36820",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:07:46.046Z"
+      "analyzedAt": "2026-09-06T06:53:29.331Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36821",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:07:46.046Z"
+      "analyzedAt": "2026-09-06T06:53:29.331Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36822",
       "label": "positive",
-      "rationale": "The approval for a significant project is presented positively, indicating excitement and optimism.",
-      "analyzedAt": "2026-04-13T08:07:46.046Z"
+      "rationale": "The approval for a significant project is presented as a positive achievement, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:53:29.331Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36823",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:07:46.046Z"
+      "analyzedAt": "2026-09-06T06:53:29.331Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36824",
       "label": "negative",
       "rationale": "The statement criticizes the Democrats and highlights environmental issues, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:07:46.046Z"
+      "analyzedAt": "2026-09-06T06:53:29.331Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36825",
       "label": "positive",
       "rationale": "The message expresses support and commitment to the community affected by a disaster, highlighting positive actions and sentiments.",
-      "analyzedAt": "2026-04-13T08:07:46.046Z"
+      "analyzedAt": "2026-09-06T06:53:29.331Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36826",
       "label": "positive",
       "rationale": "The announcement about releasing government files on extraterrestrial life is framed as interesting and important, conveying a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:07:46.046Z"
+      "analyzedAt": "2026-09-06T06:53:29.331Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36827",
       "label": "negative",
       "rationale": "The statement criticizes the Democrats and expresses frustration with economic impacts, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:07:46.046Z"
+      "analyzedAt": "2026-09-06T06:53:29.331Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36830",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:07:46.046Z"
+      "analyzedAt": "2026-09-06T06:53:29.331Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36831",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:07:46.046Z"
+      "analyzedAt": "2026-09-06T06:53:29.331Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36832",
       "label": "positive",
-      "rationale": "The statement expresses a sense of honor and gratitude for signing a significant tariff, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:07:46.046Z"
-    }
-  ],
-  "trendingTopic": "Received the Commission of Fine Arts approval today for what will soon be the Greatest Ballroom ever built!",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "The Democrat Shutdown cost the U.S.A. at least two points in GDP. That’s why they are doing it, in mini form, again."
-    },
-    {
-      "topic": "To the Great People of East Palestine, Ohio, who were disgracefully betrayed and forgotten about by Crooked Joe Biden — “TRUMP” has never forgotten about you, and never will!",
-      "name": "Joe Biden"
-    },
-    {
-      "topic": "Governor Wes Moore, of Maryland, must get the Toxic River spill fixed, IMMEDIATELY! The Democrats constantly talk about Environmental Pollution and Protection, and yet, they think it’s OK to have hundreds of thousands of gallons a day of sewage pouring into our Beautiful Potomac River, because they failed to maintain and monitor their own Public Systems."
+      "rationale": "The statement expresses a sense of honor and accomplishment in signing a significant tariff, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:53:29.331Z"
     }
   ]
 }

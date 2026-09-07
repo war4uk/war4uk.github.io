@@ -2,22 +2,34 @@
   "date": "2026-03-07",
   "counts": {
     "positive": 2,
-    "neutral": 13,
-    "negative": 3
+    "neutral": 14,
+    "negative": 2
   },
-  "summary": "positive:2 neutral:13 negative:3",
-  "generatedAt": "2026-04-13T08:13:58.606Z",
+  "summary": "positive:2 neutral:14 negative:2",
+  "generatedAt": "2026-09-07T15:17:21.123Z",
   "topics": [
-    "Iran Military Actions",
-    "Middle East Relations",
-    "Save America Act Focus"
+    "Memphis Safe Task Force issues wanted posters for multiple suspects including Yahir Mejia, Eric Wilkerson, and Arsenio Davis",
+    "President pays respects to fallen warriors at Dover Air Force Base",
+    "Support for military actions against Iran among MAGA voters"
   ],
+  "trendingTopic": "Memphis Safe Task Force issues wanted posters for multiple suspects including Yahir Mejia, Eric Wilkerson, and Arsenio Davis",
+  "secondaryHighlights": [
+    {
+      "topic": "President pays respects to fallen warriors at Dover Air Force Base"
+    },
+    {
+      "topic": "Support for military actions against Iran among MAGA voters"
+    }
+  ],
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:18:802f0e4b05a3a8104ee60b3e",
+  "selfPraiseCacheKey": "self-praise-v1:18:802f0e4b05a3a8104ee60b3e",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37193",
       "publishedAt": "2026-03-07T00:21:48.000Z",
       "title": "[No Title] - Post from March 7, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a mugshot of a man named Alex Rodriguez-Aguirres, displayed against a blue background with the logos of the Memphis Safe Task Force and the United States Marshals. Below the photo, the charges listed include rape of a child, aggravated sexual battery, and being unlawfully present in the United States as a Honduran national. The overall design emphasizes the seriousness of the charges.",
       "url": "https://www.trumpstruth.org/statuses/37193",
       "raw": {
         "creator": "",
@@ -29,13 +41,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37193",
         "isoDate": "2026-03-07T00:21:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T16:04:34.012Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15677/00bba5adf1170870.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37192",
       "publishedAt": "2026-03-07T00:21:58.000Z",
       "title": "[No Title] - Post from March 7, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a police identification photo of a young man named Yahir Mejia. He has dark hair and a slight mustache, looking directly at the camera. The background is a bright blue, and the text below his photo states his name and the charge of second-degree murder. The top of the image includes logos for the Memphis Safe Task Force and the United States Marshals, indicating the context of the image relates to law enforcement.",
       "url": "https://www.trumpstruth.org/statuses/37192",
       "raw": {
         "creator": "",
@@ -47,13 +63,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37192",
         "isoDate": "2026-03-07T00:21:58.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:13:08.148Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15676/62e96639ec50f26a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37191",
       "publishedAt": "2026-03-07T00:22:11.000Z",
       "title": "[No Title] - Post from March 7, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a wanted poster for an individual named Marquis Davis. It includes a photograph of Davis, who has short, curly hair and is wearing a black hoodie. The poster is designed with a blue background and displays the title \"MEMPHIS SAFE TASK FORCE\" at the top, along with the U.S. Marshals Service emblem. Below the photo, it lists the charges against him: attempted first-degree murder and aggravated robbery.",
       "url": "https://www.trumpstruth.org/statuses/37191",
       "raw": {
         "creator": "",
@@ -65,13 +85,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37191",
         "isoDate": "2026-03-07T00:22:11.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:27:36.279Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15675/936fcc952a4b211a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37190",
       "publishedAt": "2026-03-07T00:22:24.000Z",
       "title": "[No Title] - Post from March 7, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a police identification photo of an individual named China White. The background is blue, and the top displays the logos of the Memphis Safe Task Force and the United States Marshals. Below the photo, the name \"CHINA WHITE\" is prominently displayed, along with charges listed as two counts of first-degree murder and two counts of attempted first-degree murder. The individual is smiling, with short hair and wearing a dark shirt.",
       "url": "https://www.trumpstruth.org/statuses/37190",
       "raw": {
         "creator": "",
@@ -83,13 +107,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37190",
         "isoDate": "2026-03-07T00:22:24.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T16:04:32.467Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15674/07cad96069114e89.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37189",
       "publishedAt": "2026-03-07T00:22:39.000Z",
       "title": "[No Title] - Post from March 7, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a wanted poster for Eric Wilkerson, issued by the Memphis Safe Task Force. It includes a clear photograph of Wilkerson, who has a bald head and a beard. The poster states that he is charged with attempted first-degree murder. The background is dark blue, and there are official seals from the Department of Justice and the U.S. Marshals Service at the top corners. The text is prominently displayed below the image.",
       "url": "https://www.trumpstruth.org/statuses/37189",
       "raw": {
         "creator": "",
@@ -101,13 +129,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37189",
         "isoDate": "2026-03-07T00:22:39.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:12:47.493Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15673/7b0078dac04ab19d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37188",
       "publishedAt": "2026-03-07T00:22:52.000Z",
       "title": "[No Title] - Post from March 7, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a wanted poster for Arsenio Davis, issued by the Memphis Safe Task Force. It includes a clear photograph of Davis, who has long hair styled in dreadlocks and facial piercings. The poster lists several serious charges against him, including first-degree murder, second-degree murder, possession of a firearm during the commission of a dangerous felony, and being a convicted felon in possession of a handgun. The background is dark blue with official seals.",
       "url": "https://www.trumpstruth.org/statuses/37188",
       "raw": {
         "creator": "",
@@ -119,13 +151,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37188",
         "isoDate": "2026-03-07T00:22:52.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:12:45.646Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15672/4e719629ebd13c1c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37187",
       "publishedAt": "2026-03-07T00:23:12.000Z",
       "title": "[No Title] - Post from March 7, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a street scene in Memphis, where members of a task force are seen escorting an individual in handcuffs. The background shows residential houses and parked cars. Prominent text highlights statistics related to the Memphis Safe Task Force, including 6,801 total arrests, 1,109 firearms seized, 703 gang members arrested, 806 illegal immigrants removed, and 148 missing children recovered, as of March 6, 2026.",
       "url": "https://www.trumpstruth.org/statuses/37187",
       "raw": {
         "creator": "",
@@ -137,13 +173,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37187",
         "isoDate": "2026-03-07T00:23:12.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:27:28.239Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15671/378e543a82f137ea.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37194",
       "publishedAt": "2026-03-07T01:17:57.000Z",
       "title": "Men’s Gold Medal Hockey Team!",
-      "text": "<p>Men’s Gold Medal Hockey Team!</p>",
+      "text": "<p>Men’s Gold Medal Hockey Team!</p>\n\n[Image] The image shows Donald Trump seated at the Resolute Desk in the Oval Office, surrounded by a group of athletes wearing matching navy sweaters with \"USA\" emblazoned on them. Many of the athletes are holding Olympic medals, and one is displaying a signed jersey. The room features American flags and a portrait of Ronald Reagan on the wall. The atmosphere is celebratory, highlighting the athletes' achievements.",
       "url": "https://www.trumpstruth.org/statuses/37194",
       "raw": {
         "creator": "",
@@ -155,7 +195,11 @@
         "contentSnippet": "Men’s Gold Medal Hockey Team!",
         "guid": "https://www.trumpstruth.org/statuses/37194",
         "isoDate": "2026-03-07T01:17:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:27:20.880Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15678/5a1fad7c8ee5a778.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37195",
@@ -197,7 +241,7 @@
       "id": "https://www.trumpstruth.org/statuses/37197",
       "publishedAt": "2026-03-07T02:24:58.000Z",
       "title": "[No Title] - Post from March 7, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a tweet from Attorney General Pamela Bondi, who defends Lindsey Halligan against an investigation by the Florida Bar, labeling it as \"totally fake news.\" Bondi asserts that Halligan did nothing wrong and performed well in her role. The tweet includes a response from Jim Rosica, clarifying that the Florida Bar is not actively investigating Halligan, despite previous indications. The tweet has garnered significant attention, with over 87,000 views.",
       "url": "https://www.trumpstruth.org/statuses/37197",
       "raw": {
         "creator": "",
@@ -209,13 +253,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37197",
         "isoDate": "2026-03-07T02:24:58.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:12:28.316Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15679/662daf701c88933a.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37198",
       "publishedAt": "2026-03-07T02:27:00.000Z",
       "title": "[No Title] - Post from March 7, 2026",
-      "text": "<p><a href=\"https://vandenbergcoalition.org/mar_survey/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">vandenbergcoalition.org/mar_su</span><span class=\"invisible\">rvey/</span></a></p>",
+      "text": "<p><a href=\"https://vandenbergcoalition.org/mar_survey/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">vandenbergcoalition.org/mar_su</span><span class=\"invisible\">rvey/</span></a></p>\n\n[Image] The image is a tweet from Marc Thiessen discussing a poll regarding MAGA voters' opinions on military actions against Iran. It highlights that 84% of MAGA voters approve of the military campaign against Iran, with 92% agreeing that President Trump's use of force will deter future attacks. The tweet emphasizes support for the military partnership with Israel and concludes with a statement about MAGA foreign policy. The tweet has garnered over 5,100 views.",
       "url": "https://www.trumpstruth.org/statuses/37198",
       "raw": {
         "creator": "",
@@ -227,7 +275,11 @@
         "contentSnippet": "https://vandenbergcoalition.org/mar_survey/",
         "guid": "https://www.trumpstruth.org/statuses/37198",
         "isoDate": "2026-03-07T02:27:00.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:12:26.718Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15680/a7923c8223d75861.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37199",
@@ -343,122 +395,109 @@
       "postId": "https://www.trumpstruth.org/statuses/37187",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:13:58.602Z"
+      "analyzedAt": "2026-09-06T06:57:10.666Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37188",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:13:58.602Z"
+      "analyzedAt": "2026-09-06T06:57:10.666Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37189",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:13:58.602Z"
+      "analyzedAt": "2026-09-06T06:57:10.666Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37190",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:13:58.602Z"
+      "analyzedAt": "2026-09-06T06:57:10.666Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37191",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:13:58.602Z"
+      "analyzedAt": "2026-09-06T06:57:10.666Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37192",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:13:58.602Z"
+      "analyzedAt": "2026-09-06T06:57:10.666Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37193",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:13:58.602Z"
+      "analyzedAt": "2026-09-06T06:57:10.666Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37194",
       "label": "neutral",
-      "rationale": "The text is a simple statement about a sports team, providing no clear sentiment.",
-      "analyzedAt": "2026-04-13T08:13:58.602Z"
+      "rationale": "The text is a statement about a sports team with no sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:57:10.666Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37195",
       "label": "positive",
       "rationale": "The text expresses respect and gratitude towards military personnel, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:13:58.602Z"
+      "analyzedAt": "2026-09-06T06:57:10.666Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37196",
-      "label": "negative",
-      "rationale": "The text criticizes a political action, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:13:58.602Z"
+      "label": "neutral",
+      "rationale": "The text references an article without expressing a clear sentiment.",
+      "analyzedAt": "2026-09-06T06:57:10.666Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37197",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:13:58.602Z"
+      "analyzedAt": "2026-09-06T06:57:10.666Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37198",
       "label": "neutral",
       "rationale": "The text is a link with no sentiment expressed.",
-      "analyzedAt": "2026-04-13T08:13:58.602Z"
+      "analyzedAt": "2026-09-06T06:57:10.666Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37199",
       "label": "neutral",
       "rationale": "The text is a link with no sentiment expressed.",
-      "analyzedAt": "2026-04-13T08:13:58.602Z"
+      "analyzedAt": "2026-09-06T06:57:10.666Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37200",
       "label": "neutral",
       "rationale": "The text is a link with no sentiment expressed.",
-      "analyzedAt": "2026-04-13T08:13:58.602Z"
+      "analyzedAt": "2026-09-06T06:57:10.666Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37201",
       "label": "negative",
       "rationale": "The text contains aggressive language towards Iran and celebrates their defeat, reflecting a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:13:58.602Z"
+      "analyzedAt": "2026-09-06T06:57:10.666Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37202",
       "label": "positive",
       "rationale": "The text expresses a strong endorsement for the SAVE AMERICA ACT, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:13:58.602Z"
+      "analyzedAt": "2026-09-06T06:57:10.666Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37203",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:13:58.602Z"
+      "analyzedAt": "2026-09-06T06:57:10.666Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37204",
       "label": "negative",
       "rationale": "The text expresses disdain towards the UK and implies a sense of betrayal, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:13:58.602Z"
-    }
-  ],
-  "trendingTopic": "Men’s Gold Medal Hockey Team!",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "GREGG JARRETT: Democrat war powers vote was an unconstitutional way to halt Iran strikes"
-    },
-    {
-      "topic": "Save America Act"
-    },
-    {
-      "topic": "I will be going to Dover Air Force Base tomorrow, with the First Lady and Members of my Cabinet, to pay our Highest Respect to our Great Warriors, who are returning home for the last time."
+      "analyzedAt": "2026-09-06T06:57:10.666Z"
     }
   ]
 }

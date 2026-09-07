@@ -6,31 +6,30 @@
     "negative": 2
   },
   "summary": "positive:12 neutral:5 negative:2",
-  "generatedAt": "2026-09-05T08:44:58.183Z",
+  "generatedAt": "2026-09-07T15:17:47.291Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Endorses multiple candidates for Congress across various states",
+    "Discusses the Biden administration's alleged infringement on pro-life rights",
+    "Comments on energy issues in Europe and the UK"
   ],
-  "trendingTopic": "It is my Great Honor to endorse Highly Respected San Diego County Supervisor, Jim Desmond, who is running to represent the tremendous people of California’s 48th Congressional District.A Brave U.S. Navy Veteran, Jim knows the Wisdom and Courage required to Defend our Country, Support our incredible Military/Veterans, and Ensure PEACE THROUGH STRENGTH. A Successful Businessman, Pilot, and Highly Respected Mayor of San Marcos, prior to becoming a distinguished San Diego County Supervisor, Jim has dedicated his life to serving his Community.",
+  "trendingTopic": "Endorses multiple candidates for Congress across various states",
   "secondaryHighlights": [
     {
-      "topic": "Georgia lawmaker wants Fani Willis to answer questions about $2 million grant from Biden DOJ",
-      "name": "Fani Willis"
+      "topic": "Discusses the Biden administration's alleged infringement on pro-life rights"
     },
     {
-      "topic": "Trump could move to expunge 2019 impeachment after release of bombshell evidence"
-    },
-    {
-      "topic": "Biden administration weaponized law to infringe rights of pro-life activists, DOJ says"
+      "topic": "Comments on energy issues in Europe and the UK"
     }
   ],
   "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v10:19:2611e7b8f1108d42f9639278",
+  "selfPraiseCacheKey": "self-praise-v1:19:2611e7b8f1108d42f9639278",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37751",
       "publishedAt": "2026-04-14T02:54:55.000Z",
       "title": "[No Title] - Post from April 14, 2026",
-      "text": "<p><a href=\"https://www.washingtonpost.com/opinions/2026/04/13/trump-blockade-strait-hormuz-iran-war/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">26/04/13/trump-blockade-strait-hormuz-iran-war/</span></a></p>",
+      "text": "<p><a href=\"https://www.washingtonpost.com/opinions/2026/04/13/trump-blockade-strait-hormuz-iran-war/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">26/04/13/trump-blockade-strait-hormuz-iran-war/</span></a></p>\n\n[Image] The image features a rocky shoreline with a person walking along the edge, dressed in a long garment. In the background, several ships are visible on the water, likely in the Strait of Hormuz. The accompanying text discusses political commentary regarding Donald Trump and the situation in Iran, mentioning how critics perceived a strategic victory for Iran and how Trump is now seen as reversing that narrative. The focus is on geopolitical dynamics in the region.",
       "url": "https://www.trumpstruth.org/statuses/37751",
       "raw": {
         "creator": "",
@@ -42,7 +41,11 @@
         "contentSnippet": "https://www.washingtonpost.com/opinions/2026/04/13/trump-blockade-strait-hormuz-iran-war/",
         "guid": "https://www.trumpstruth.org/statuses/37751",
         "isoDate": "2026-04-14T02:54:55.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:56:21.411Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15850/4aa6949ef17abc0c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37752",
@@ -354,7 +357,7 @@
       "id": "https://www.trumpstruth.org/statuses/37770",
       "publishedAt": "2026-04-14T21:19:31.000Z",
       "title": "This was put out by the CATO Institute, who hates “TRUMP,” but they can’t hide the facts. The Democrats were a DISASTER on the Border, and we were the best in the History of the U.S.A.! President DONALD J. TRUMP",
-      "text": "<p>This was put out by the CATO Institute, who hates “TRUMP,” but they can’t hide the facts. The Democrats were a DISASTER on the Border, and we were the best in the History of the U.S.A.! President DONALD J. TRUMP</p>",
+      "text": "<p>This was put out by the CATO Institute, who hates “TRUMP,” but they can’t hide the facts. The Democrats were a DISASTER on the Border, and we were the best in the History of the U.S.A.! President DONALD J. TRUMP</p>\n\n[Image] The image presents a graph illustrating legal entries by asylum seekers at US-Mexico legal entry points from October 2016 to March 2026. It features two lines: one representing asylum seekers and the other showing total inadmissibles. The graph highlights significant fluctuations during the terms of Presidents Obama, Trump, and Biden, with a notable decline in entries under Biden. The data suggests a 99.9% decrease in legal entries over the specified period.",
       "url": "https://www.trumpstruth.org/statuses/37770",
       "raw": {
         "creator": "",
@@ -366,7 +369,11 @@
         "contentSnippet": "This was put out by the CATO Institute, who hates “TRUMP,” but they can’t hide the facts. The Democrats were a DISASTER on the Border, and we were the best in the History of the U.S.A.! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/37770",
         "isoDate": "2026-04-14T21:19:31.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:56:15.909Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15852/27b4124f981d28f4.jpg"
+      ]
     }
   ],
   "sentiments": [

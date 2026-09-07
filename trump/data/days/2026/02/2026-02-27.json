@@ -1,23 +1,35 @@
 {
   "date": "2026-02-27",
   "counts": {
-    "positive": 41,
-    "neutral": 30,
-    "negative": 6
+    "positive": 42,
+    "neutral": 27,
+    "negative": 8
   },
-  "summary": "positive:41 neutral:30 negative:6",
-  "generatedAt": "2026-04-13T08:10:30.040Z",
+  "summary": "positive:42 neutral:27 negative:8",
+  "generatedAt": "2026-09-07T15:17:00.230Z",
   "topics": [
-    "Supreme Court Tariff Decision",
-    "Military Technology Controversy",
-    "Texas Congressional Endorsements"
+    "Trump's State of the Union address highlights key issues and criticisms of Democrats",
+    "Allegations of electoral fraud in the 2024 election and reactions to Trump's legal challenges",
+    "Endorsements of various America First candidates in Texas congressional districts"
   ],
+  "trendingTopic": "Trump's State of the Union address highlights key issues and criticisms of Democrats",
+  "secondaryHighlights": [
+    {
+      "topic": "Allegations of electoral fraud in the 2024 election and reactions to Trump's legal challenges"
+    },
+    {
+      "topic": "Endorsements of various America First candidates in Texas congressional districts"
+    }
+  ],
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:77:fba7f5c41a63908b90e66b10",
+  "selfPraiseCacheKey": "self-praise-v1:77:fba7f5c41a63908b90e66b10",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36907",
       "publishedAt": "2026-02-27T06:36:12.000Z",
       "title": "[No Title] - Post from February 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is a social media post from the Georgia Republican Party account, referencing David Shafer, who is identified as the Chairman Emeritus. The post discusses Shafer's support for Donald Trump in 2020 and mentions Fani Willis, who allegedly demanded that Shafer repudiate Trump. It claims that when Shafer refused, Willis threatened him with bankruptcy and prison, but he stood firm and ultimately prevailed. The post encourages followers to support Shafer.",
       "url": "https://www.trumpstruth.org/statuses/36907",
       "raw": {
         "creator": "",
@@ -29,13 +41,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36907",
         "isoDate": "2026-02-27T06:36:12.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:24:18.100Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15537/f9ae6bce5819e295.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36909",
       "publishedAt": "2026-02-27T06:40:55.000Z",
       "title": "[No Title] - Post from February 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a map of the United States, displaying electoral votes for Joe Biden and Donald Trump, with states colored to indicate their voting outcomes. Biden is shown with 227 electoral votes, while Trump has 305. The text above the map claims, \"THESE ARE THE STATES WE KNOW THEY STOLE,\" suggesting allegations of electoral fraud. The post is attributed to a user named Randall CA, who expresses a strong opinion about the situation.",
       "url": "https://www.trumpstruth.org/statuses/36909",
       "raw": {
         "creator": "",
@@ -47,13 +63,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36909",
         "isoDate": "2026-02-27T06:40:55.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:03:26.647Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15539/99b4409ef9b55b0b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36908",
       "publishedAt": "2026-02-27T06:41:35.000Z",
       "title": "[No Title] - Post from February 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a tweet from Mila Joy, who expresses her views on the arrest of a U.S. President and several associates, criticizing the Democrats and mentioning Jack Smith, likely referring to the special counsel involved in investigations related to Donald Trump. The tweet emphasizes accountability and includes a call to \"lock him up.\" The accompanying image shows Jack Smith, a man with a beard, wearing a suit, appearing serious.",
       "url": "https://www.trumpstruth.org/statuses/36908",
       "raw": {
         "creator": "",
@@ -65,7 +85,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36908",
         "isoDate": "2026-02-27T06:41:35.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:03:24.572Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15538/1ac1f4a56d0f4401.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36910",
@@ -485,7 +509,7 @@
       "id": "https://www.trumpstruth.org/statuses/36933",
       "publishedAt": "2026-02-27T16:12:35.000Z",
       "title": "[No Title] - Post from February 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The images depict a letter from the Federal Trade Commission (FTC) addressed to Timothy Cook, CEO of Apple Inc. The letter discusses potential violations of the FTC Act related to Apple News allegedly suppressing or promoting news articles based on political reasons. It outlines concerns about consumer protection and the First Amendment, urging Apple to review its terms of service. The letter is signed by Andrew N. Ferguson, Chairman of the FTC.",
       "url": "https://www.trumpstruth.org/statuses/36933",
       "raw": {
         "creator": "",
@@ -497,7 +521,13 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36933",
         "isoDate": "2026-02-27T16:12:35.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:24:08.572Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15540/b7ec11bbc138a6e7.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15541/936c55ca8003f9ce.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15542/407c42674c4d3299.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36943",
@@ -1097,7 +1127,7 @@
       "id": "https://www.trumpstruth.org/statuses/36967",
       "publishedAt": "2026-02-27T17:10:01.000Z",
       "title": "This beautiful building will be, when complete, the much anticipated White House Ballroom — The Greatest of its kind ever built! It is a rendering from the Treasury Building, directly across the street, and replaces the very small, dilapidated, and rebuilt many times, East Wing, with a magnificent New East Wing, consisting of a glorious Ballroom that has been asked for by Presidents for over 150 years. Being an identical height and scale, it is totally in keeping with our historic White House. This is the first rendering shown to the Public. If you notice, the North Wall is a replica of the North Facade of the White House, shown at the right hand side of the picture. This space will serve our Country well for, hopefully, Centuries into the future! PRESIDENT DONALD J. TRUMP",
-      "text": "<p>This beautiful building will be, when complete, the much anticipated White House Ballroom — The Greatest of its kind ever built! It is a rendering from the Treasury Building, directly across the street, and replaces the very small, dilapidated, and rebuilt many times, East Wing, with a magnificent New East Wing, consisting of a glorious Ballroom that has been asked for by Presidents for over 150 years. Being an identical height and scale, it is totally in keeping with our historic White House. This is the first rendering shown to the Public. If you notice, the North Wall is a replica of the North Facade of the White House, shown at the right hand side of the picture. This space will serve our Country well for, hopefully, Centuries into the future! PRESIDENT DONALD J. TRUMP</p>",
+      "text": "<p>This beautiful building will be, when complete, the much anticipated White House Ballroom — The Greatest of its kind ever built! It is a rendering from the Treasury Building, directly across the street, and replaces the very small, dilapidated, and rebuilt many times, East Wing, with a magnificent New East Wing, consisting of a glorious Ballroom that has been asked for by Presidents for over 150 years. Being an identical height and scale, it is totally in keeping with our historic White House. This is the first rendering shown to the Public. If you notice, the North Wall is a replica of the North Facade of the White House, shown at the right hand side of the picture. This space will serve our Country well for, hopefully, Centuries into the future! PRESIDENT DONALD J. TRUMP</p>\n\n[Image] The image depicts a digital rendering of a grand architectural structure, likely a government building, featuring classical design elements such as columns and a prominent facade. The setting includes well-maintained green lawns and trees, with a fence surrounding the property. In the background, another building is visible, suggesting a complex or campus-like environment. The sky is clear, indicating a bright day. There are no recognizable people or prominent politicians in the image.",
       "url": "https://www.trumpstruth.org/statuses/36967",
       "raw": {
         "creator": "",
@@ -1109,7 +1139,11 @@
         "contentSnippet": "This beautiful building will be, when complete, the much anticipated White House Ballroom — The Greatest of its kind ever built! It is a rendering from the Treasury Building, directly across the street, and replaces the very small, dilapidated, and rebuilt many times, East Wing, with a magnificent New East Wing, consisting of a glorious Ballroom that has been asked for by Presidents for over 150 years. Being an identical height and scale, it is totally in keeping with our historic White House. This is the first rendering shown to the Public. If you notice, the North Wall is a replica of the North Facade of the White House, shown at the right hand side of the picture. This space will serve our Country well for, hopefully, Centuries into the future! PRESIDENT DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/36967",
         "isoDate": "2026-02-27T17:10:01.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:23:54.408Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15543/b115af07fe943a79.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36970",
@@ -1187,7 +1221,7 @@
       "id": "https://www.trumpstruth.org/statuses/36971",
       "publishedAt": "2026-02-27T18:31:24.000Z",
       "title": "[No Title] - Post from February 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is a tweet from Michael Savage, featuring a list of potential consequences if Kamala Harris had won the presidency. The list includes points about immigration, health and welfare fraud, crime, speech controls, gun restrictions, education, taxes, diversity hiring, military recruitment, and police funding. The tweet is dated February 9, 2026, and has garnered significant views. The tone suggests a critical perspective on Harris's potential policies.",
       "url": "https://www.trumpstruth.org/statuses/36971",
       "raw": {
         "creator": "",
@@ -1199,13 +1233,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36971",
         "isoDate": "2026-02-27T18:31:24.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:23:50.656Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15544/c5b3b43b80d5e7b9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36974",
       "publishedAt": "2026-02-27T18:35:20.000Z",
       "title": "Markets Hail Trump’s Economics:",
-      "text": "<p>Markets Hail Trump’s Economics: <a href=\"https://www.wsj.com/opinion/markets-hail-trumps-economics-he-will-repair-biden-damage-pro-growth-investment-boost-f3954dbe\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/opinion/markets-hail-t</span><span class=\"invisible\">rumps-economics-he-will-repair-biden-damage-pro-growth-investment-boost-f3954dbe</span></a></p>",
+      "text": "<p>Markets Hail Trump’s Economics: <a href=\"https://www.wsj.com/opinion/markets-hail-trumps-economics-he-will-repair-biden-damage-pro-growth-investment-boost-f3954dbe\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/opinion/markets-hail-t</span><span class=\"invisible\">rumps-economics-he-will-repair-biden-damage-pro-growth-investment-boost-f3954dbe</span></a></p>\n\n[Image] The images depict pages from a Wall Street Journal opinion piece discussing economic perspectives related to Donald Trump. The first page features a trader on the New York Stock Exchange, with various stock market graphs displayed on screens. The text argues that Trump's economic policies could revitalize investment and address issues stemming from the Biden administration. The subsequent pages elaborate on economic challenges and potential strategies for growth under Trump's leadership.",
       "url": "https://www.trumpstruth.org/statuses/36974",
       "raw": {
         "creator": "",
@@ -1217,13 +1255,19 @@
         "contentSnippet": "Markets Hail Trump’s Economics: https://www.wsj.com/opinion/markets-hail-trumps-economics-he-will-repair-biden-damage-pro-growth-investment-boost-f3954dbe",
         "guid": "https://www.trumpstruth.org/statuses/36974",
         "isoDate": "2026-02-27T18:35:20.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:23:46.560Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15546/9df4110c3db56214.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15547/0e420b532f4560c1.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15548/6b65a3eb146eb16a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36973",
       "publishedAt": "2026-02-27T18:36:12.000Z",
       "title": "[No Title] - Post from February 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image presents a summary of TikTok performance for Donald Trump, highlighting a total of 339 billion views on #TRUMP TikToks as of December 22, 2025. It details views for various categories, including 201 billion for #MAGA and 166 billion for #TRUMP. The account is noted as the most followed and viewed among world leaders. Comments from users express support for Trump, emphasizing his influence and popularity on the platform.",
       "url": "https://www.trumpstruth.org/statuses/36973",
       "raw": {
         "creator": "",
@@ -1235,7 +1279,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36973",
         "isoDate": "2026-02-27T18:36:12.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:23:43.858Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15545/f7e5465c64b4e02c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36977",
@@ -1277,7 +1325,7 @@
       "id": "https://www.trumpstruth.org/statuses/36975",
       "publishedAt": "2026-02-27T18:42:22.000Z",
       "title": "Trump Hails 'Turnaround for the Ages' in SOTU Address:",
-      "text": "<p>Trump Hails 'Turnaround for the Ages' in SOTU Address:<br/><a href=\"https://www.newsmax.com/newsfront/donald-trump-turnaround-for-the-ages-sotu-address/2026/02/24/id/1247330/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/newsfront/donald-t</span><span class=\"invisible\">rump-turnaround-for-the-ages-sotu-address/2026/02/24/id/1247330/</span></a></p>",
+      "text": "<p>Trump Hails 'Turnaround for the Ages' in SOTU Address:<br/><a href=\"https://www.newsmax.com/newsfront/donald-trump-turnaround-for-the-ages-sotu-address/2026/02/24/id/1247330/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/newsfront/donald-t</span><span class=\"invisible\">rump-turnaround-for-the-ages-sotu-address/2026/02/24/id/1247330/</span></a></p>\n\n[Image] The image features Donald Trump delivering the State of the Union address to a joint session of Congress. He is seen smiling and giving a thumbs-up while standing at a podium. Behind him, several individuals, including members of Congress, are seated and appear to be listening attentively. The setting is formal, with flags and portraits visible in the background, indicating the significance of the event. The atmosphere suggests a moment of political engagement and leadership.",
       "url": "https://www.trumpstruth.org/statuses/36975",
       "raw": {
         "creator": "",
@@ -1289,7 +1337,11 @@
         "contentSnippet": "Trump Hails 'Turnaround for the Ages' in SOTU Address:\nhttps://www.newsmax.com/newsfront/donald-trump-turnaround-for-the-ages-sotu-address/2026/02/24/id/1247330/",
         "guid": "https://www.trumpstruth.org/statuses/36975",
         "isoDate": "2026-02-27T18:42:22.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:23:41.443Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15549/dcd239373ff3f11e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36980",
@@ -1313,7 +1365,7 @@
       "id": "https://www.trumpstruth.org/statuses/36979",
       "publishedAt": "2026-02-27T18:51:58.000Z",
       "title": "[No Title] - Post from February 27, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116144097027816293</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116144097027816293</span></p>\n\n[Image] The images contain a transcript from a discussion on \"The Savage Nation,\" focusing on hypothetical scenarios regarding Kamala Harris's presidency. The text critiques her policies and suggests that if she had won, various negative outcomes would have occurred, including increased illegal immigration, welfare fraud, and higher taxes. It also mentions Donald Trump and includes quotes from Kamala Harris and other figures discussing immigration and policing. The overall tone is critical of the Biden-Harris administration.",
       "url": "https://www.trumpstruth.org/statuses/36979",
       "raw": {
         "creator": "",
@@ -1325,13 +1377,20 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116144097027816293",
         "guid": "https://www.trumpstruth.org/statuses/36979",
         "isoDate": "2026-02-27T18:51:58.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:02:21.490Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15551/aeca3a2725ad6a2a.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15552/6a45e28f88122500.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15553/1b1d1513af249948.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15554/67f9efa10eecf8b5.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36978",
       "publishedAt": "2026-02-27T18:52:34.000Z",
       "title": "[No Title] - Post from February 27, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116144099725478051</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116144099725478051</span></p>\n\n[Image] The images contain text discussing hypothetical scenarios if Kamala Harris had won the presidency. The first image lists eleven points, including increased illegal immigration, fraud, limits on free speech, gun restrictions, and changes to military recruitment and police funding. The subsequent images feature a transcript from a discussion on these topics, highlighting opinions on immigration policy, healthcare fraud, and the implications for the Supreme Court. The tone is critical of Harris's policies.",
       "url": "https://www.trumpstruth.org/statuses/36978",
       "raw": {
         "creator": "",
@@ -1343,7 +1402,15 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116144099725478051",
         "guid": "https://www.trumpstruth.org/statuses/36978",
         "isoDate": "2026-02-27T18:52:34.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:02:18.970Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15550/1b4e66d387532439.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15551/aeca3a2725ad6a2a.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15552/6a45e28f88122500.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15553/1b1d1513af249948.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15554/67f9efa10eecf8b5.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36981",
@@ -1405,478 +1472,463 @@
       "postId": "https://www.trumpstruth.org/statuses/36907",
       "label": "neutral",
       "rationale": "The text is empty and does not provide any sentiment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36908",
       "label": "neutral",
       "rationale": "The text is empty and does not provide any sentiment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36909",
       "label": "neutral",
       "rationale": "The text is empty and does not provide any sentiment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36910",
       "label": "positive",
-      "rationale": "The text congratulates Newsmax on their viewership, expressing a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "rationale": "The text expresses a positive sentiment about Newsmax's viewership numbers.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36911",
       "label": "neutral",
-      "rationale": "The text discusses a prosecutor's actions regarding Trump without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "rationale": "The text reports on a political situation without expressing a clear sentiment.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36912",
       "label": "neutral",
       "rationale": "The text discusses political battle lines without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36913",
       "label": "neutral",
       "rationale": "The text reports on mortgage rates without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36914",
-      "label": "neutral",
-      "rationale": "The text discusses media reactions to Trump's State of the Union without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "label": "negative",
+      "rationale": "The text expresses a negative sentiment about liberal media reactions to Trump's address.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36915",
       "label": "neutral",
       "rationale": "The text reports on Trump's performance at the State of the Union without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36916",
-      "label": "neutral",
-      "rationale": "The text discusses Trump's State of the Union address and its impact on Democrats without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "label": "positive",
+      "rationale": "The text expresses a positive sentiment about Trump's State of the Union performance.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36917",
-      "label": "neutral",
-      "rationale": "The text discusses reactions to Trump's State of the Union address without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "label": "negative",
+      "rationale": "The text expresses a negative sentiment about Democrats in response to Trump's address.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36918",
       "label": "neutral",
       "rationale": "The text discusses the branding of political sides without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36919",
       "label": "neutral",
-      "rationale": "The text mentions Trump living 'rent free' in others' heads, which is a neutral statement without clear sentiment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "rationale": "The text comments on Trump's impact on opponents without expressing a clear sentiment.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36920",
       "label": "positive",
-      "rationale": "The text describes Trump's State of the Union address as 'brilliant,' expressing a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "rationale": "The text expresses a positive sentiment about Trump's performance in the State of the Union.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36921",
       "label": "neutral",
-      "rationale": "The text reports on Trump breaking a record for the longest State of the Union speech, presenting factual information without sentiment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "rationale": "The text reports on Trump's record-breaking speech without expressing a clear sentiment.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36922",
       "label": "neutral",
-      "rationale": "The text discusses ideas from Trump's State of the Union speech without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "rationale": "The text discusses ideas from Trump's speech without expressing a clear sentiment.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36923",
       "label": "neutral",
-      "rationale": "The text lists moments from Trump's State of the Union address without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "rationale": "The text lists moments from Trump's address without expressing a clear sentiment.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36924",
       "label": "neutral",
-      "rationale": "The text reports on Trump's promise regarding immigration, presenting factual information without expressing sentiment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "rationale": "The text reports on Trump's immigration promises without expressing a clear sentiment.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36925",
       "label": "neutral",
-      "rationale": "The text reports on Trump's comments about Democrats, presenting information without expressing sentiment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "rationale": "The text reports on Trump's comments about Democrats without expressing a clear sentiment.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36926",
       "label": "positive",
-      "rationale": "The text reports on Trump awarding Purple Hearts, expressing a positive sentiment towards the National Guard members.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "rationale": "The text reports on Trump awarding Purple Hearts, expressing a positive sentiment towards the event.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36927",
       "label": "positive",
-      "rationale": "The text expresses a positive sentiment about Trump's State of the Union address, highlighting it as 'extraordinary.'",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "rationale": "The text expresses a positive sentiment about CBS's praise for Trump's State of the Union.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36928",
       "label": "neutral",
       "rationale": "The text discusses moments from the State of the Union without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36929",
       "label": "neutral",
-      "rationale": "The text presents a fact check about illegal crossings during Trump's administration, providing information without sentiment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "rationale": "The text fact-checks a statement about illegal crossings without expressing a clear sentiment.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36930",
       "label": "neutral",
-      "rationale": "The text reports on Trump's comments regarding Democrats' reactions, presenting information without expressing sentiment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "rationale": "The text reports on Trump's comments about Democrats without expressing a clear sentiment.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36931",
       "label": "neutral",
-      "rationale": "The text reports on a letter sent by the Trump FTC to Apple, presenting factual information without expressing sentiment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "rationale": "The text reports on a letter sent by the Trump FTC to Apple without expressing a clear sentiment.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36932",
       "label": "neutral",
-      "rationale": "The text discusses a study about Apple News promoting left-leaning media, presenting information without expressing sentiment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "rationale": "The text discusses a study about Apple News without expressing a clear sentiment.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36933",
       "label": "neutral",
       "rationale": "The text is empty and does not provide any sentiment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36934",
       "label": "positive",
-      "rationale": "The text commends Congressman Craig Goldman for his representation and endorses him for re-election, showcasing his dedication and achievements.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "rationale": "The text commends Congressman Craig Goldman for his representation and endorses him for re-election, showcasing his achievements.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36935",
       "label": "positive",
-      "rationale": "The text lauds Congressman August Pfluger as a champion for his district and endorses him for re-election, highlighting his efforts and policies.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "rationale": "The text lauds Congressman August Pfluger as a champion for his district and endorses him for re-election, highlighting his efforts.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36936",
       "label": "positive",
-      "rationale": "The text endorses Chris Gober, praising his qualifications and commitment to uphold the Constitution, indicating strong support.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "rationale": "The text endorses Chris Gober, praising his qualifications and commitment to various issues, indicating strong support.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36937",
       "label": "positive",
-      "rationale": "The text endorses Alex Mealer, highlighting her qualifications and commitment to America First policies, showing strong support.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "rationale": "The text endorses Alex Mealer, highlighting her qualifications and commitment to key issues, showing strong support.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36938",
       "label": "positive",
-      "rationale": "The text endorses Jessica Steinmann, praising her qualifications and support from notable figures, indicating strong backing.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "rationale": "The text endorses Jessica Steinmann, emphasizing her qualifications and support from notable figures, indicating strong backing.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36939",
       "label": "positive",
-      "rationale": "The text praises Congressman Jake Ellzey for his representation and endorses him for re-election, emphasizing his dedication.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "rationale": "The text praises Congressman Jake Ellzey for his representation and endorses him for re-election, highlighting his efforts.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36940",
       "label": "positive",
-      "rationale": "The text commends Congressman Lance Gooden for his efforts and endorses him for re-election, showcasing his commitment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "rationale": "The text commends Congressman Lance Gooden for his work and endorses him for re-election, showcasing his contributions.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36941",
       "label": "positive",
       "rationale": "The text praises Congressman Pat Fallon for his representation and endorses him for re-election, highlighting his achievements.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36942",
       "label": "positive",
-      "rationale": "The text endorses Congressman Keith Self, praising his qualifications and commitment to his constituents, indicating strong support.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "rationale": "The text endorses Congressman Keith Self, praising his qualifications and commitment to key issues, indicating strong support.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36943",
       "label": "positive",
-      "rationale": "The text praises Congressman Nathaniel Moran for his representation and endorses him for re-election, emphasizing his dedication.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "rationale": "The text praises Congressman Nathaniel Moran for his representation and endorses him for re-election, highlighting his efforts.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36944",
       "label": "positive",
-      "rationale": "The text expresses strong support for Eric Flores, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "rationale": "The text endorses Eric Flores and emphasizes his qualifications and commitment, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36945",
       "label": "positive",
-      "rationale": "The text expresses strong support for Jace Yarbrough, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "rationale": "The text endorses Jace Yarbrough and highlights his qualifications and commitment, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36946",
       "label": "positive",
-      "rationale": "The text expresses strong support for Congressman John Carter, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "rationale": "The text endorses Congressman John Carter and emphasizes his achievements, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36947",
       "label": "negative",
-      "rationale": "The text criticizes Henry Cuellar and expresses a negative sentiment towards his political actions.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "rationale": "The text criticizes Henry Cuellar and expresses a negative sentiment towards his political actions and loyalty.",
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36948",
       "label": "positive",
-      "rationale": "The text expresses strong support for Congressman Michael Cloud, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "rationale": "The text endorses Congressman Michael Cloud and highlights his achievements, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36949",
       "label": "positive",
-      "rationale": "The text expresses strong support for Congressman Brandon Gill, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "rationale": "The text endorses Congressman Brandon Gill and emphasizes his achievements, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36950",
       "label": "positive",
-      "rationale": "The text expresses strong support for Congressman Roger Williams, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "rationale": "The text endorses Congressman Roger Williams and highlights his achievements, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36951",
       "label": "positive",
-      "rationale": "The text expresses strong support for Congresswoman Beth Van Duyne, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "rationale": "The text endorses Congresswoman Beth Van Duyne and emphasizes her achievements, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36952",
       "label": "positive",
-      "rationale": "The text expresses strong support for Trever Nehls, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "rationale": "The text endorses Trever Nehls and highlights his qualifications, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36953",
       "label": "positive",
-      "rationale": "The text expresses strong support for Mark Teixeira, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "rationale": "The text endorses Mark Teixeira and emphasizes his achievements, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36954",
       "label": "positive",
-      "rationale": "The text expresses strong support for Congressman Pete Sessions, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "rationale": "The text endorses Congressman Pete Sessions and highlights his achievements, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36955",
       "label": "positive",
-      "rationale": "The text expresses strong support for Congresswoman Monica De La Cruz, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "rationale": "The text endorses Congresswoman Monica De La Cruz and emphasizes her achievements, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36956",
       "label": "positive",
       "rationale": "The text expresses strong support and praise for Congressman Randy Weber, highlighting his accomplishments and endorsing him for re-election.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36957",
       "label": "positive",
-      "rationale": "The text praises Congressman Ronny Jackson for his service and endorses him for re-election, emphasizing his qualifications and commitment.",
-      "analyzedAt": "2026-04-13T08:10:30.026Z"
+      "rationale": "The text praises Congressman Ronny Jackson for his service and endorses him for re-election, emphasizing his qualities and contributions.",
+      "analyzedAt": "2026-09-06T06:55:04.320Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36958",
       "label": "positive",
       "rationale": "The text expresses gratitude towards Justice Thomas, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36959",
       "label": "neutral",
       "rationale": "The text is a link to a dissent and does not express any sentiment.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36960",
       "label": "positive",
       "rationale": "The text expresses strong support for Governor Greg Abbott and his policies, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36961",
       "label": "positive",
-      "rationale": "The text expresses strong support for Lieutenant Governor Dan Patrick, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "rationale": "The text expresses pride in endorsing Dan Patrick, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36962",
       "label": "positive",
-      "rationale": "The text expresses strong support for Jon Bonck, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "rationale": "The text endorses Jon Bonck and highlights his qualifications, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36963",
       "label": "positive",
-      "rationale": "The text expresses strong support for Carlos De La Cruz, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "rationale": "The text endorses Carlos De La Cruz and emphasizes his qualifications and experience, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36964",
       "label": "positive",
-      "rationale": "The text expresses strong support for Congressman Brian Babin, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "rationale": "The text endorses Congressman Brian Babin and highlights his achievements, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36965",
       "label": "positive",
       "rationale": "The text expresses gratitude towards Justice Kavanaugh, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36966",
       "label": "neutral",
       "rationale": "The text is a link to a dissent and does not express any sentiment.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36967",
       "label": "positive",
       "rationale": "The text describes a new White House Ballroom as 'the Greatest of its kind ever built,' indicating a positive sentiment about the project.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36968",
       "label": "positive",
-      "rationale": "The text emphasizes the importance of using the term 'SAVE AMERICA ACT,' suggesting a positive sentiment towards the branding of the act.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "rationale": "The text emphasizes the importance of using the term 'SAVE AMERICA ACT,' suggesting a positive sentiment towards the initiative.",
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36969",
       "label": "positive",
       "rationale": "The quote from President Calvin Coolidge reflects a positive sentiment towards business in America.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36970",
       "label": "positive",
-      "rationale": "The text describes Trump's speech as 'extraordinary' and 'vintage Trump,' indicating a positive sentiment towards the speech.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "rationale": "The text describes Trump's speech as 'extraordinary' and 'vintage Trump,' indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36971",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36972",
       "label": "positive",
-      "rationale": "The text highlights job creation and investment due to tariffs, indicating a positive sentiment towards the economic impact of tariffs.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "rationale": "The text highlights job creation and positive developments due to tariffs, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36973",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36974",
       "label": "positive",
       "rationale": "The text indicates that markets are responding positively to Trump's economics, suggesting a favorable sentiment.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36975",
       "label": "positive",
       "rationale": "The text refers to a 'Turnaround for the Ages' in a State of the Union address, suggesting a positive sentiment regarding the content of the address.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36976",
       "label": "negative",
       "rationale": "The text discusses alleged bias in Apple News, indicating a negative sentiment towards the platform's editorial choices.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36977",
       "label": "negative",
-      "rationale": "The text highlights the rejection of right-leaning outlets by Apple News, suggesting a negative sentiment towards the platform's practices.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "rationale": "The text highlights the rejection of right-leaning outlets by Apple News, suggesting a negative sentiment towards perceived bias.",
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36978",
       "label": "neutral",
       "rationale": "The text is a retweet and does not contain any original sentiment or opinion.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36979",
       "label": "neutral",
-      "rationale": "This is also a retweet with no original sentiment or opinion expressed.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "rationale": "This is also a retweet with no original content or sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36980",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36981",
       "label": "negative",
       "rationale": "The text criticizes a company for its influence over military decisions, expressing strong disapproval and concern for national security, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36982",
       "label": "negative",
-      "rationale": "Similar to the previous entry, this text conveys disappointment and concern over the Supreme Court's ruling, suggesting it allows exploitation of the U.S. by foreign entities.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
+      "rationale": "Similar to the previous status, this text conveys disappointment and concern over the Supreme Court's ruling, suggesting it allows exploitation of the U.S. by foreign entities.",
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36983",
       "label": "negative",
       "rationale": "The text expresses disappointment and frustration with the Supreme Court's decision regarding tariffs, indicating that it could lead to undeserved financial benefits for countries and companies that have exploited the U.S.",
-      "analyzedAt": "2026-04-13T08:09:47.308Z"
-    }
-  ],
-  "trendingTopic": "It is my Great Honor to endorse Jessica Steinmann, who is running to represent the amazing people of Texas’ 8th Congressional District.",
-  "selfPraiseCount": 2,
-  "secondaryHighlights": [
-    {
-      "topic": "The recent Decision of the United States Supreme Court concerning TARIFFS could allow for Hundreds of Billions of Dollars to be returned to Countries and Companies that have been “ripping off” the United States of America for many years to come, and now, according to this Decision, could actually continue to do so, at an even increased level."
-    },
-    {
-      "topic": "Congressman Pete Sessions is a Tremendous Champion for Texas’ 17th Congressional District!",
-      "name": "Pete Sessions"
-    },
-    {
-      "topic": "I am proud to once again endorse Texas Lieutenant Governor, Dan Patrick, for Re-Election",
-      "name": "Dan Patrick"
+      "analyzedAt": "2026-09-06T06:54:51.638Z"
     }
   ]
 }

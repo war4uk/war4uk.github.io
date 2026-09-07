@@ -6,12 +6,24 @@
     "negative": 3
   },
   "summary": "positive:5 neutral:2 negative:3",
-  "generatedAt": "2026-04-13T08:14:33.359Z",
+  "generatedAt": "2026-09-07T15:17:27.580Z",
   "topics": [
-    "Crime and Public Safety in Memphis",
-    "Energy Dominance and New Oil Refinery",
-    "Iran Military Threat and Response"
+    "Supports military action against Iran to protect oil flow in the Strait of Hormuz",
+    "Announces opening of new U.S. oil refinery in Texas",
+    "Highlights Memphis Safe Task Force's crime reduction efforts"
   ],
+  "trendingTopic": "Supports military action against Iran to protect oil flow in the Strait of Hormuz",
+  "secondaryHighlights": [
+    {
+      "topic": "Announces opening of new U.S. oil refinery in Texas"
+    },
+    {
+      "topic": "Highlights Memphis Safe Task Force's crime reduction efforts"
+    }
+  ],
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:10:e5cbe54f00f12fff11e303f0",
+  "selfPraiseCacheKey": "self-praise-v1:10:e5cbe54f00f12fff11e303f0",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37223",
@@ -143,7 +155,7 @@
       "id": "https://www.trumpstruth.org/statuses/37229",
       "publishedAt": "2026-03-10T21:18:18.000Z",
       "title": "[No Title] - Post from March 10, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image depicts a scene from the Memphis Safe Task Force operation, showing law enforcement officers escorting a handcuffed individual down a residential street. The background features houses and a winter landscape. Prominent text highlights statistics related to the task force's efforts, including 6,801 total arrests, 1,109 firearms seized, 703 gang members arrested, 806 illegal immigrants removed, and 148 missing children recovered, as of March 6, 2026.",
       "url": "https://www.trumpstruth.org/statuses/37229",
       "raw": {
         "creator": "",
@@ -155,13 +167,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37229",
         "isoDate": "2026-03-10T21:18:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:13:54.619Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15688/d22ff701b3a4f36e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37231",
       "publishedAt": "2026-03-10T21:21:12.000Z",
       "title": "Just two of the many brutal criminals we have captured in Memphis, making it 50% safer than it was just two months ago — More to follow!",
-      "text": "<p>Just two of the many brutal criminals we have captured in Memphis, making it 50% safer than it was just two months ago — More to follow!</p>",
+      "text": "<p>Just two of the many brutal criminals we have captured in Memphis, making it 50% safer than it was just two months ago — More to follow!</p>\n\n[Image] The images feature two individuals wanted by the Memphis Safe Task Force. The first image shows Alex Rodriguez-Aguirre, who faces charges including rape of a child and aggravated sexual battery, and is noted as unlawfully present in the U.S. The second image is of Arsenio Davis, charged with first and second degree murder, possession of a firearm during a felony, and being a convicted felon in possession of a handgun. Both images include their names and charges prominently displayed.",
       "url": "https://www.trumpstruth.org/statuses/37231",
       "raw": {
         "creator": "",
@@ -173,7 +189,12 @@
         "contentSnippet": "Just two of the many brutal criminals we have captured in Memphis, making it 50% safer than it was just two months ago — More to follow!",
         "guid": "https://www.trumpstruth.org/statuses/37231",
         "isoDate": "2026-03-10T21:21:12.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:13:52.221Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15689/a6c06c302fcb7065.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15690/ea47b535d10b9f81.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37270",
@@ -199,74 +220,61 @@
       "postId": "https://www.trumpstruth.org/statuses/37223",
       "label": "positive",
       "rationale": "The poll results indicating support for Trump's decision suggest a positive sentiment towards his actions.",
-      "analyzedAt": "2026-04-13T08:14:33.356Z"
+      "analyzedAt": "2026-09-06T06:57:38.831Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37224",
       "label": "negative",
-      "rationale": "The aggressive threats towards Iran and the violent imagery used convey a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:14:33.356Z"
+      "rationale": "The threatening language regarding military action against Iran conveys a negative and aggressive sentiment.",
+      "analyzedAt": "2026-09-06T06:57:38.831Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37225",
       "label": "positive",
       "rationale": "The focus on environmental protection and collaboration with governors is framed positively, emphasizing proactive efforts.",
-      "analyzedAt": "2026-04-13T08:14:33.356Z"
+      "analyzedAt": "2026-09-06T06:57:38.831Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37226",
       "label": "negative",
-      "rationale": "Similar to the previous entry, the threatening language towards Iran indicates a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:14:33.356Z"
+      "rationale": "Similar to the previous entry, the aggressive tone and threats towards Iran indicate a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:57:38.831Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37227",
       "label": "negative",
-      "rationale": "The threatening tone towards Iran and the mention of military consequences convey a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:14:33.356Z"
+      "rationale": "The warning of severe military consequences and violent actions against Iran conveys a threatening and aggressive sentiment.",
+      "analyzedAt": "2026-09-06T06:57:38.831Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37228",
       "label": "positive",
       "rationale": "The report of successfully destroying inactive mines is presented positively, indicating effective military action.",
-      "analyzedAt": "2026-04-13T08:14:33.356Z"
+      "analyzedAt": "2026-09-06T06:57:38.831Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37229",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:14:33.356Z"
+      "analyzedAt": "2026-09-06T06:57:38.831Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37230",
       "label": "positive",
       "rationale": "The announcement of a new oil refinery and its economic benefits is framed positively, emphasizing growth and job creation.",
-      "analyzedAt": "2026-04-13T08:14:33.356Z"
+      "analyzedAt": "2026-09-06T06:57:38.831Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37231",
       "label": "positive",
       "rationale": "The statement highlights a reduction in crime and suggests a safer environment, which is a positive outcome.",
-      "analyzedAt": "2026-04-13T08:14:33.356Z"
+      "analyzedAt": "2026-09-06T06:57:38.831Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37270",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:14:33.356Z"
-    }
-  ],
-  "trendingTopic": "If Iran has put out any mines in the Hormuz Strait, and we have no reports of them doing so, we want them removed, IMMEDIATELY! If for any reason mines were placed, and they are not removed forthwith, the Military consequences to Iran will be at a level never seen before.",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "52% of US Likely Voters support Trump’s decision to strike Iran: Poll"
-    },
-    {
-      "topic": "Just two of the many brutal criminals we have captured in Memphis, making it 50% safer than it was just two months ago — More to follow!"
-    },
-    {
-      "topic": "If Iran does anything that stops the flow of Oil within the Strait of Hormuz, they will be hit by the United States of America TWENTY TIMES HARDER than they have been hit thus far."
+      "analyzedAt": "2026-09-06T06:57:38.831Z"
     }
   ]
 }

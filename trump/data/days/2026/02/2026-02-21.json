@@ -6,12 +6,24 @@
     "negative": 5
   },
   "summary": "positive:7 neutral:10 negative:5",
-  "generatedAt": "2026-04-13T08:08:14.037Z",
+  "generatedAt": "2026-09-07T15:16:42.675Z",
   "topics": [
-    "Tariffs and Economic Policy",
-    "Endorsements for Political Candidates",
-    "Environmental Concerns in Utah"
+    "Critiques Supreme Court Justices for tariff decisions and expresses disappointment",
+    "Endorses Dan Patrick for re-election as Texas Lieutenant Governor",
+    "Discusses polling data for Republican primaries in Indiana"
   ],
+  "trendingTopic": "Critiques Supreme Court Justices for tariff decisions and expresses disappointment",
+  "secondaryHighlights": [
+    {
+      "topic": "Endorses Dan Patrick for re-election as Texas Lieutenant Governor"
+    },
+    {
+      "topic": "Discusses polling data for Republican primaries in Indiana"
+    }
+  ],
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:22:9efbdc7f3c02e4d65831d18e",
+  "selfPraiseCacheKey": "self-praise-v1:22:9efbdc7f3c02e4d65831d18e",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36833",
@@ -251,7 +263,7 @@
       "id": "https://www.trumpstruth.org/statuses/36851",
       "publishedAt": "2026-02-21T20:47:52.000Z",
       "title": "[No Title] - Post from February 21, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image presents polling data for the Republican primary in Indiana's Senate District 19. It features two candidates: Travis Holdman and Blake Fiechter. In the current polling, Holdman leads with 46% compared to Fiechter's 12%, with 42% undecided. The second graph shows potential polling if Donald Trump endorses Fiechter, where he leads with 54% against Holdman's 29% and 17% undecided. The data is sourced from Fabrizio, Lee & Associates.",
       "url": "https://www.trumpstruth.org/statuses/36851",
       "raw": {
         "creator": "",
@@ -263,13 +275,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36851",
         "isoDate": "2026-02-21T20:47:52.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:00:25.558Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15506/738f35cb6a1f062c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36850",
       "publishedAt": "2026-02-21T20:48:02.000Z",
       "title": "[No Title] - Post from February 21, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image presents polling data for the Republican primary in Indiana's Senate District 21. It features two candidates: Jim Buck and Tracey Powell, with their respective polling percentages displayed in bar graphs. The left side shows current polling, indicating Buck at 33% and Powell at 18%, with 50% undecided. The right side illustrates a scenario where Donald Trump endorses Powell, resulting in him leading with 42% to Buck's 25%, and 33% undecided.",
       "url": "https://www.trumpstruth.org/statuses/36850",
       "raw": {
         "creator": "",
@@ -281,13 +297,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36850",
         "isoDate": "2026-02-21T20:48:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:00:23.484Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15505/b910c386e7750809.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36849",
       "publishedAt": "2026-02-21T20:48:13.000Z",
       "title": "[No Title] - Post from February 21, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image presents polling data for the Republican primary in Indiana's Senate District 23. It features two candidates: Spencer Deery and Paula Copenhaver. The top section shows current polling, with Deery at 35%, Copenhaver at 13%, and 52% undecided. The bottom section illustrates a scenario where Donald Trump endorses Copenhaver, resulting in her leading with 54%, Deery at 23%, and 23% undecided. Donald Trump is prominently featured in the graphic.",
       "url": "https://www.trumpstruth.org/statuses/36849",
       "raw": {
         "creator": "",
@@ -299,13 +319,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36849",
         "isoDate": "2026-02-21T20:48:13.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:23:11.697Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15504/09a4ae8f22818374.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36848",
       "publishedAt": "2026-02-21T20:48:25.000Z",
       "title": "[No Title] - Post from February 21, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image presents polling data for the Republican primary in Indiana's Senate District 39. It features two graphs comparing current polling and potential outcomes if Donald Trump endorses a candidate. In the current polling, Eric Bassler and Jeff Ellington are tied at 24%, with Kristi Risk at 13% and 39% undecided. If Trump endorses, Jeff Ellington leads significantly at 47%, while Bassler and Risk drop to 18% and 18%, respectively, with 17% undecided. Donald Trump is prominently featured in the endorsement section.",
       "url": "https://www.trumpstruth.org/statuses/36848",
       "raw": {
         "creator": "",
@@ -317,13 +341,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36848",
         "isoDate": "2026-02-21T20:48:25.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:00:11.132Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15503/b421187443644618.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36847",
       "publishedAt": "2026-02-21T20:48:36.000Z",
       "title": "[No Title] - Post from February 21, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image presents polling data for the Republican primary in Indiana's Senate District 41. It features two graphs comparing current polling and hypothetical polling if Donald Trump endorses a challenger. In the current polling, Greg Walker has 34%, Michelle Davis 20%, and 46% are undecided. If Trump endorses, Davis leads with 59%, while Walker drops to 23%, with 17% undecided. Donald Trump is depicted prominently in the endorsement scenario.",
       "url": "https://www.trumpstruth.org/statuses/36847",
       "raw": {
         "creator": "",
@@ -335,13 +363,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36847",
         "isoDate": "2026-02-21T20:48:36.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:00:09.135Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15502/9badf6e940dbf9a7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36846",
       "publishedAt": "2026-02-21T20:49:36.000Z",
       "title": "[No Title] - Post from February 21, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image presents polling data for the Republican primary in Indiana's Senate District 38. It features two candidates: Greg Goode and Brenda Wilson. The left side shows current polling results, with Goode at 39%, Wilson at 14%, and 46% undecided, indicating Goode leads by 25%. The right side illustrates a scenario where Donald Trump endorses Wilson, showing her at 59%, Goode at 20%, and 21% undecided, giving Wilson a 39% lead.",
       "url": "https://www.trumpstruth.org/statuses/36846",
       "raw": {
         "creator": "",
@@ -353,7 +385,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36846",
         "isoDate": "2026-02-21T20:49:36.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:00:00.351Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15501/c4a4e289a80e78b0.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36852",
@@ -377,7 +413,7 @@
       "id": "https://www.trumpstruth.org/statuses/36854",
       "publishedAt": "2026-02-21T22:53:03.000Z",
       "title": "Netflix should fire racist, Trump Deranged Susan Rice, IMMEDIATELY, or pay the consequences. She’s got no talent or skills - Purely a political hack! HER POWER IS GONE, AND WILL NEVER BE BACK. How much is she being paid, and for what??? Thank you for your attention to this matter. President DJT",
-      "text": "<p>Netflix should fire racist, Trump Deranged Susan Rice, IMMEDIATELY, or pay the consequences. She’s got no talent or skills - Purely a political hack! HER POWER IS GONE, AND WILL NEVER BE BACK. How much is she being paid, and for what??? Thank you for your attention to this matter. President DJT<br/><a href=\"https://x.com/lauraloomer/status/2025252727580692717?s=10\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/lauraloomer/status/20252</span><span class=\"invisible\">52727580692717?s=10</span></a></p>",
+      "text": "<p>Netflix should fire racist, Trump Deranged Susan Rice, IMMEDIATELY, or pay the consequences. She’s got no talent or skills - Purely a political hack! HER POWER IS GONE, AND WILL NEVER BE BACK. How much is she being paid, and for what??? Thank you for your attention to this matter. President DJT<br/><a href=\"https://x.com/lauraloomer/status/2025252727580692717?s=10\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/lauraloomer/status/20252</span><span class=\"invisible\">52727580692717?s=10</span></a></p>\n\n[Image] The image features a tweet from Laura Loomer discussing comments made by Susan Rice, a Netflix board member. Loomer criticizes Rice for suggesting that corporations that supported Donald Trump could face repercussions from Democrats in future elections. She expresses concern over the potential Netflix-Warner Bros. merger and its implications for political messaging, particularly regarding Barack Obama and Michelle Obama. Loomer labels Netflix as anti-American and \"woke.\"",
       "url": "https://www.trumpstruth.org/statuses/36854",
       "raw": {
         "creator": "",
@@ -389,7 +425,11 @@
         "contentSnippet": "Netflix should fire racist, Trump Deranged Susan Rice, IMMEDIATELY, or pay the consequences. She’s got no talent or skills - Purely a political hack! HER POWER IS GONE, AND WILL NEVER BE BACK. How much is she being paid, and for what??? Thank you for your attention to this matter. President DJT\nhttps://x.com/lauraloomer/status/2025252727580692717?s=10",
         "guid": "https://www.trumpstruth.org/statuses/36854",
         "isoDate": "2026-02-21T22:53:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:59:52.227Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15508/a9f48304f38a1cca.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36853",
@@ -414,148 +454,134 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/36833",
       "label": "negative",
-      "rationale": "The text expresses shame towards Supreme Court members for their decisions, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:08:14.034Z"
+      "rationale": "The text expresses disappointment and frustration with the Supreme Court's decision regarding tariffs.",
+      "analyzedAt": "2026-09-06T06:53:43.000Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36834",
       "label": "negative",
-      "rationale": "The text criticizes the Supreme Court's decisions and expresses frustration, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:08:14.034Z"
+      "rationale": "The text criticizes the Supreme Court's decisions and expresses frustration with the political landscape.",
+      "analyzedAt": "2026-09-06T06:53:43.000Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36835",
       "label": "negative",
-      "rationale": "The text expresses disappointment in Republicans for being disloyal, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:08:14.034Z"
+      "rationale": "The text expresses disappointment in Republicans for being disloyal.",
+      "analyzedAt": "2026-09-06T06:53:43.000Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36836",
       "label": "positive",
-      "rationale": "The text expresses a positive sentiment about Trump fulfilling his promise to East Palestine.",
-      "analyzedAt": "2026-04-13T08:08:14.034Z"
+      "rationale": "The text expresses a positive sentiment about Trump fulfilling a promise.",
+      "analyzedAt": "2026-09-06T06:53:43.000Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36837",
       "label": "positive",
-      "rationale": "The text expresses admiration for Supreme Court Justices and aligns them with the sentiment of making America great.",
-      "analyzedAt": "2026-04-13T08:08:14.034Z"
+      "rationale": "The text expresses admiration for Supreme Court Justices and aligns them with the goal of making America great.",
+      "analyzedAt": "2026-09-06T06:53:43.000Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36838",
       "label": "neutral",
-      "rationale": "The text is a news headline and does not express a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:08:14.034Z"
+      "rationale": "The text reports on a court decision without expressing a clear sentiment.",
+      "analyzedAt": "2026-09-06T06:53:43.000Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36839",
       "label": "negative",
-      "rationale": "The text criticizes the Obama-Biden administration, indicating a negative sentiment towards them.",
-      "analyzedAt": "2026-04-13T08:08:14.034Z"
+      "rationale": "The text criticizes the Obama-Biden administration and expresses a negative view of their actions.",
+      "analyzedAt": "2026-09-06T06:53:43.000Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36840",
       "label": "neutral",
-      "rationale": "The text is a news headline and does not express a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:08:14.034Z"
+      "rationale": "The text reports on an FBI memo without expressing a clear sentiment.",
+      "analyzedAt": "2026-09-06T06:53:43.000Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36841",
       "label": "neutral",
-      "rationale": "The text is a statement about intelligence reports and does not express a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:08:14.034Z"
+      "rationale": "The text reports on a CIA action without expressing a clear sentiment.",
+      "analyzedAt": "2026-09-06T06:53:43.000Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36842",
       "label": "positive",
-      "rationale": "The text expresses a positive sentiment about raising tariffs to protect American interests, emphasizing a commitment to making America great.",
-      "analyzedAt": "2026-04-13T08:08:14.034Z"
+      "rationale": "The text expresses confidence in raising tariffs and emphasizes the success of the Trump administration.",
+      "analyzedAt": "2026-09-06T06:53:43.000Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36843",
       "label": "positive",
-      "rationale": "The text expresses a strong endorsement of Dan Patrick, highlighting his contributions and commitment to various issues.",
-      "analyzedAt": "2026-04-13T08:08:14.034Z"
+      "rationale": "The text endorses Dan Patrick positively and highlights his contributions to the movement.",
+      "analyzedAt": "2026-09-06T06:53:43.000Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36844",
       "label": "positive",
-      "rationale": "The text expresses a positive endorsement of Greg Abbott, praising his leadership and contributions to Texas.",
-      "analyzedAt": "2026-04-13T08:08:14.034Z"
+      "rationale": "The text expresses strong support for Greg Abbott, praising his leadership and contributions.",
+      "analyzedAt": "2026-09-06T06:53:43.000Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36845",
       "label": "positive",
-      "rationale": "The text expresses a positive sentiment about saving The Great Salt Lake and praises the people of Utah.",
-      "analyzedAt": "2026-04-13T08:08:14.034Z"
+      "rationale": "The text expresses a positive sentiment about saving the Great Salt Lake and praises the people of Utah.",
+      "analyzedAt": "2026-09-06T06:53:43.000Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36846",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:08:14.034Z"
+      "analyzedAt": "2026-09-06T06:53:43.000Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36847",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:08:14.034Z"
+      "analyzedAt": "2026-09-06T06:53:43.000Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36848",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:08:14.034Z"
+      "analyzedAt": "2026-09-06T06:53:43.000Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36849",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:08:14.034Z"
+      "analyzedAt": "2026-09-06T06:53:43.000Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36850",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:08:14.034Z"
+      "analyzedAt": "2026-09-06T06:53:43.000Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36851",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:08:14.034Z"
+      "analyzedAt": "2026-09-06T06:53:43.000Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36852",
       "label": "positive",
-      "rationale": "The text expresses a positive endorsement of Hope Scheppelman, highlighting her qualifications and commitment to America First policies.",
-      "analyzedAt": "2026-04-13T08:08:14.034Z"
+      "rationale": "The text endorses Hope Scheppelman positively and criticizes Jeff Hurd, expressing confidence in Scheppelman's abilities.",
+      "analyzedAt": "2026-09-06T06:53:43.000Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36853",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:08:14.034Z"
+      "analyzedAt": "2026-09-06T06:53:43.000Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36854",
       "label": "negative",
-      "rationale": "The text expresses strong negative sentiments towards Susan Rice, calling her a 'political hack' and questioning her talent and skills.",
-      "analyzedAt": "2026-04-13T08:08:14.034Z"
-    }
-  ],
-  "trendingTopic": "I am proud to once again endorse Texas Lieutenant Governor, Dan Patrick, for Re-Election",
-  "trendingName": "Dan Patrick",
-  "selfPraiseCount": 1,
-  "secondaryHighlights": [
-    {
-      "topic": "Republicans are so disloyal to themselves!"
-    },
-    {
-      "topic": "Trump lives up to his promise to East Palestine"
-    },
-    {
-      "topic": "Roberts court shuts door on tariffs but leaves room for Trump to prevail"
+      "rationale": "The text expresses strong negative sentiments towards Susan Rice, calling her a 'political hack' and questioning her talent.",
+      "analyzedAt": "2026-09-06T06:53:43.000Z"
     }
   ]
 }

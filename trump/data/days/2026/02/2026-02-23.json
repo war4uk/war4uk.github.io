@@ -6,12 +6,25 @@
     "negative": 4
   },
   "summary": "positive:4 neutral:16 negative:4",
-  "generatedAt": "2026-04-13T08:08:52.587Z",
+  "generatedAt": "2026-09-07T15:16:48.306Z",
   "topics": [
-    "Environmental Concerns in Utah",
-    "Iran Military Strategy Discussion",
-    "SNAP-EBT Fraud in Massachusetts"
+    "Border Patrol Union expresses strong support for Donald Trump amid criticism of Biden administration",
+    "Byron Donalds announces candidacy for Governor of Florida",
+    "Concerns raised over environmental issues at The Great Salt Lake in Utah"
   ],
+  "trendingTopic": "Border Patrol Union expresses strong support for Donald Trump amid criticism of Biden administration",
+  "secondaryHighlights": [
+    {
+      "topic": "Byron Donalds announces candidacy for Governor of Florida",
+      "name": "Byron Donalds"
+    },
+    {
+      "topic": "Concerns raised over environmental issues at The Great Salt Lake in Utah"
+    }
+  ],
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:24:76b47f0d84098d388b6c6957",
+  "selfPraiseCacheKey": "self-praise-v1:24:76b47f0d84098d388b6c6957",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36863",
@@ -71,7 +84,7 @@
       "id": "https://www.trumpstruth.org/statuses/36865",
       "publishedAt": "2026-02-23T10:39:31.000Z",
       "title": "[No Title] - Post from February 23, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a post from Justin Trudeau, the Prime Minister of Canada, on the social media platform X (formerly Twitter). It includes a profile picture of Trudeau and a message stating, \"You can’t take our country — and you can’t take our game.\" The post is timestamped for February 20, 2025, and has garnered 49 million views. The context of the message is not provided, but it suggests a strong stance on national pride or sports.",
       "url": "https://www.trumpstruth.org/statuses/36865",
       "raw": {
         "creator": "",
@@ -83,13 +96,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36865",
         "isoDate": "2026-02-23T10:39:31.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:23:24.545Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15513/63942849a52d1f98.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36864",
       "publishedAt": "2026-02-23T10:40:08.000Z",
       "title": "[No Title] - Post from February 23, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116119514074619374</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116119514074619374</span></p>\n\n[Image] The image features a post from Justin Trudeau, the Prime Minister of Canada, on the social media platform X (formerly Twitter). It includes a profile picture of Trudeau and a message stating, \"You can’t take our country — and you can’t take our game.\" The post is timestamped for February 20, 2025, and has garnered 49 million views. The context of the message is not provided, but it suggests a strong stance on national pride or sports.",
       "url": "https://www.trumpstruth.org/statuses/36864",
       "raw": {
         "creator": "",
@@ -101,13 +118,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116119514074619374",
         "guid": "https://www.trumpstruth.org/statuses/36864",
         "isoDate": "2026-02-23T10:40:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:23:22.776Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15513/63942849a52d1f98.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36866",
       "publishedAt": "2026-02-23T10:40:25.000Z",
       "title": "[No Title] - Post from February 23, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116119516514284571</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116119516514284571</span></p>\n\n[Image] The first image features a tweet from Kari Lake, who is known for her political commentary. She refers to Donald Trump as \"The ENFORCER.\" The second image shows a tweet from Justin Trudeau, the Prime Minister of Canada, stating, \"You can’t take our country — and you can’t take our game.\" Both tweets reflect the political discourse surrounding their respective contexts.",
       "url": "https://www.trumpstruth.org/statuses/36866",
       "raw": {
         "creator": "",
@@ -119,7 +140,12 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116119516514284571",
         "guid": "https://www.trumpstruth.org/statuses/36866",
         "isoDate": "2026-02-23T10:40:25.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:01:04.450Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15514/5eb2f3d2305afbc8.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15513/63942849a52d1f98.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36867",
@@ -161,7 +187,7 @@
       "id": "https://www.trumpstruth.org/statuses/36872",
       "publishedAt": "2026-02-23T13:53:11.000Z",
       "title": "[No Title] - Post from February 23, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a tweet from the Border Patrol Union, identified by their logo. The tweet expresses strong support and endorsement for Donald J. Trump as President of the United States, representing the views of the 16,000 members of the National Border Patrol Council. The tweet was posted on October 14, 2024, and has garnered 58.6 million views. The message emphasizes the union's backing of Trump in the political landscape.",
       "url": "https://www.trumpstruth.org/statuses/36872",
       "raw": {
         "creator": "",
@@ -173,13 +199,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36872",
         "isoDate": "2026-02-23T13:53:11.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:00:54.700Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15518/9b58d7e67101cfce.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36871",
       "publishedAt": "2026-02-23T13:53:23.000Z",
       "title": "[No Title] - Post from February 23, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a tweet from the Border Patrol Union, criticizing the Biden administration's handling of border security and its relationship with Mexican cartels. It mentions Kamala Harris and expresses support for Donald Trump, highlighting his perceived strength in border security. The tweet discusses the chaos at the border and the need for strong measures against illegal immigration, emphasizing a commitment to protecting American citizens. The post has garnered significant engagement.",
       "url": "https://www.trumpstruth.org/statuses/36871",
       "raw": {
         "creator": "",
@@ -191,7 +221,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36871",
         "isoDate": "2026-02-23T13:53:23.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:00:53.236Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15517/40adcbf17907ba00.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36870",
@@ -215,7 +249,7 @@
       "id": "https://www.trumpstruth.org/statuses/36869",
       "publishedAt": "2026-02-23T13:54:45.000Z",
       "title": "[No Title] - Post from February 23, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116120278547441463</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116120278547441463</span></p>\n\n[Image] The image features a tweet from the Border Patrol Union, identified by their logo. The tweet announces that NBPC President Paul Perez appeared on NewsNation Live, joining a host named Laura Ingle. The tweet highlights the involvement of the Border Patrol Union in discussions related to border security or related topics, but no specific details about the content of the appearance are provided.",
       "url": "https://www.trumpstruth.org/statuses/36869",
       "raw": {
         "creator": "",
@@ -227,7 +261,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116120278547441463",
         "guid": "https://www.trumpstruth.org/statuses/36869",
         "isoDate": "2026-02-23T13:54:45.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:00:45.267Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15515/83f6fc26b31f55cf.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36876",
@@ -251,7 +289,7 @@
       "id": "https://www.trumpstruth.org/statuses/36875",
       "publishedAt": "2026-02-23T14:01:45.000Z",
       "title": "[No Title] - Post from February 23, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116120307771986643</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116120307771986643</span></p>\n\n[Image] The image features a tweet from the Border Patrol Union, identified by their logo. The tweet announces that NBPC President Paul Perez appeared on \"Sunday Report\" on Newsmax, mentioning the host's Twitter handle. The content focuses on a recent media appearance related to border patrol issues, highlighting the union's engagement with news outlets. There are no recognizable public figures or images in the tweet itself.",
       "url": "https://www.trumpstruth.org/statuses/36875",
       "raw": {
         "creator": "",
@@ -263,7 +301,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116120307771986643",
         "guid": "https://www.trumpstruth.org/statuses/36875",
         "isoDate": "2026-02-23T14:01:45.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:00:42.872Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15521/879ddd8e4f05def6.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36874",
@@ -287,7 +329,7 @@
       "id": "https://www.trumpstruth.org/statuses/36873",
       "publishedAt": "2026-02-23T14:02:48.000Z",
       "title": "Byron will be a great governor!!! President DJT",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116120312031080294</span>Byron will be a great governor!!! President DJT</p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116120312031080294</span>Byron will be a great governor!!! President DJT</p>\n\n[Image] The image features a tweet from Byron Donalds, a politician from Florida. In the tweet, he reflects on his arrival in Florida at 17 years old and expresses pride in announcing his candidacy for governor of Florida. He emphasizes the importance of maintaining Florida as the best state in the country. The tweet conveys a personal narrative and a political message about his aspirations for leadership in the state.",
       "url": "https://www.trumpstruth.org/statuses/36873",
       "raw": {
         "creator": "",
@@ -299,7 +341,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116120312031080294Byron will be a great governor!!! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/36873",
         "isoDate": "2026-02-23T14:02:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:00:39.996Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15519/13a21e5ae5265098.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36877",
@@ -450,159 +496,146 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/36861",
       "label": "positive",
-      "rationale": "The text expresses a lighthearted sentiment about winning too much, indicating a positive view.",
-      "analyzedAt": "2026-04-13T08:08:52.567Z"
+      "rationale": "The text expresses a lighthearted sentiment about winning too much, indicating a positive and humorous tone.",
+      "analyzedAt": "2026-09-06T06:54:06.489Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36862",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:08:52.567Z"
+      "analyzedAt": "2026-09-06T06:54:06.489Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36863",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:08:52.567Z"
+      "analyzedAt": "2026-09-06T06:54:06.489Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36864",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:08:52.567Z"
+      "analyzedAt": "2026-09-06T06:54:06.489Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36865",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:08:52.567Z"
+      "analyzedAt": "2026-09-06T06:54:06.489Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36866",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:08:52.567Z"
+      "analyzedAt": "2026-09-06T06:54:06.489Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36867",
       "label": "negative",
-      "rationale": "The text expresses frustration and criticism towards the Supreme Court, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:08:52.567Z"
+      "rationale": "The text expresses frustration and criticism towards the Supreme Court and its decisions, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:54:06.489Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36868",
       "label": "negative",
-      "rationale": "The text expresses frustration and criticism towards the Supreme Court, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:08:52.567Z"
+      "rationale": "The text expresses frustration and criticism towards the Supreme Court and its decisions, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:54:06.489Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36869",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:08:52.567Z"
+      "analyzedAt": "2026-09-06T06:54:06.489Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36870",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:08:52.567Z"
+      "analyzedAt": "2026-09-06T06:54:06.489Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36871",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:08:52.567Z"
+      "analyzedAt": "2026-09-06T06:54:06.489Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36872",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:08:52.567Z"
+      "analyzedAt": "2026-09-06T06:54:06.489Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36873",
       "label": "positive",
       "rationale": "The text expresses a positive sentiment about Byron being a great governor.",
-      "analyzedAt": "2026-04-13T08:08:52.567Z"
+      "analyzedAt": "2026-09-06T06:54:06.489Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36874",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:08:52.567Z"
+      "analyzedAt": "2026-09-06T06:54:06.489Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36875",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:08:52.567Z"
+      "analyzedAt": "2026-09-06T06:54:06.489Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36876",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:08:52.567Z"
+      "analyzedAt": "2026-09-06T06:54:06.489Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36877",
       "label": "positive",
       "rationale": "The text praises an interview and expresses a positive sentiment towards the efforts against cartels and drugs.",
-      "analyzedAt": "2026-04-13T08:08:52.567Z"
+      "analyzedAt": "2026-09-06T06:54:06.489Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36878",
       "label": "negative",
-      "rationale": "The text conveys a threatening tone towards countries that have previously taken advantage of the U.S., indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:08:52.567Z"
+      "rationale": "The text expresses a warning and a negative sentiment towards countries that have taken advantage of the U.S., indicating a confrontational stance.",
+      "analyzedAt": "2026-09-06T06:54:06.489Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36879",
       "label": "negative",
       "rationale": "The text expresses frustration with the Supreme Court's decision and implies a negative view of the situation regarding tariffs.",
-      "analyzedAt": "2026-04-13T08:08:52.567Z"
+      "analyzedAt": "2026-09-06T06:54:06.489Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36880",
       "label": "neutral",
-      "rationale": "The text reports on the uncovering of fraud without expressing a personal opinion or sentiment.",
-      "analyzedAt": "2026-04-13T08:08:52.567Z"
+      "rationale": "The text reports on the uncovering of fraud without expressing a personal opinion or sentiment, remaining factual.",
+      "analyzedAt": "2026-09-06T06:54:06.489Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36881",
       "label": "neutral",
-      "rationale": "The text reports on allegations of fraud without expressing a personal opinion or sentiment, remaining factual.",
-      "analyzedAt": "2026-04-13T08:08:52.567Z"
+      "rationale": "The text reports on fraud without expressing a personal opinion or sentiment, remaining factual and informative.",
+      "analyzedAt": "2026-09-06T06:54:06.489Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36882",
       "label": "neutral",
-      "rationale": "The text provides information about an auditor's report on fraud without expressing a personal opinion or sentiment.",
-      "analyzedAt": "2026-04-13T08:08:52.567Z"
+      "rationale": "The text provides information about fraud schemes without expressing a personal opinion or sentiment, remaining factual.",
+      "analyzedAt": "2026-09-06T06:54:06.489Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36883",
       "label": "neutral",
       "rationale": "The text discusses military opinions and decisions regarding Iran without expressing a clear positive or negative sentiment, focusing instead on the facts and opinions presented.",
-      "analyzedAt": "2026-04-13T08:08:52.567Z"
+      "analyzedAt": "2026-09-06T06:54:06.489Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36884",
       "label": "positive",
       "rationale": "The text expresses a strong commitment to environmental issues and a positive view of the people of Utah, indicating a proactive approach to saving the Great Salt Lake.",
-      "analyzedAt": "2026-04-13T08:08:52.567Z"
-    }
-  ],
-  "trendingTopic": "The supreme court (will be using lower case letters for a while based on a complete lack of respect!) of the United States accidentally and unwittingly gave me, as President of the United States, far more powers and strength than I had prior to their ridiculous, dumb, and very internationally divisive ruling.",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "We’re Winning too much, it’s just not fair!"
-    },
-    {
-      "topic": "Byron will be a great governor!!!"
-    },
-    {
-      "topic": "As President, I do not have to go back to Congress to get approval of Tariffs."
+      "analyzedAt": "2026-09-06T06:54:06.489Z"
     }
   ]
 }

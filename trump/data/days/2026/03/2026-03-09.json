@@ -2,16 +2,28 @@
   "date": "2026-03-09",
   "counts": {
     "positive": 4,
-    "neutral": 8,
-    "negative": 2
+    "neutral": 7,
+    "negative": 3
   },
-  "summary": "positive:4 neutral:8 negative:2",
-  "generatedAt": "2026-04-13T08:14:22.625Z",
+  "summary": "positive:4 neutral:7 negative:3",
+  "generatedAt": "2026-09-07T15:17:25.288Z",
   "topics": [
-    "Save America Act Initiatives",
-    "Iran National Women's Soccer Team Asylum",
-    "Election Records Seizure in Arizona"
+    "Calls for the passage of the Save America Act with voter ID requirements",
+    "Concerns over the Iranian National Women’s Soccer Team facing threats",
+    "FBI seizes election records in Arizona amid voting probe"
   ],
+  "trendingTopic": "Calls for the passage of the Save America Act with voter ID requirements",
+  "secondaryHighlights": [
+    {
+      "topic": "Concerns over the Iranian National Women’s Soccer Team facing threats"
+    },
+    {
+      "topic": "FBI seizes election records in Arizona amid voting probe"
+    }
+  ],
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:14:43b1680df30191424fa12228",
+  "selfPraiseCacheKey": "self-praise-v1:14:43b1680df30191424fa12228",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37209",
@@ -53,7 +65,7 @@
       "id": "https://www.trumpstruth.org/statuses/37211",
       "publishedAt": "2026-03-09T13:54:05.000Z",
       "title": "[No Title] - Post from March 9, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features four individuals dressed in red outfits with devil horns and holding pitchforks, posing together. The text above them expresses a strong negative sentiment towards the Democratic Party, claiming they hate their country. The individuals appear to be prominent politicians, including Chuck Schumer, Alexandria Ocasio-Cortez, Ilhan Omar, and Nancy Pelosi. The overall tone of the image is provocative and critical of the Democratic Party.",
       "url": "https://www.trumpstruth.org/statuses/37211",
       "raw": {
         "creator": "",
@@ -65,13 +77,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37211",
         "isoDate": "2026-03-09T13:54:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:27:46.513Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15682/3e70b898778c0a50.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37213",
       "publishedAt": "2026-03-09T13:57:06.000Z",
       "title": "[No Title] - Post from March 9, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a tweet from Scott Jennings, who is identified with a blue checkmark, indicating a verified account. The tweet addresses the American public, discussing concerns about radical Islamic terrorists and security issues at airports. It mentions long security lines and criticizes the Democratic Party for the shutdown of the Department of Homeland Security. The tweet has a timestamp and shows a significant number of views.",
       "url": "https://www.trumpstruth.org/statuses/37213",
       "raw": {
         "creator": "",
@@ -83,13 +99,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37213",
         "isoDate": "2026-03-09T13:57:06.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:13:36.693Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15684/3fe5c29b82904f40.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37212",
       "publishedAt": "2026-03-09T13:57:46.000Z",
       "title": "[No Title] - Post from March 9, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Senator Chuck Schumer speaking at a press conference outside the White House, flanked by another man in a suit and several media personnel. Schumer is gesturing while addressing the cameras, and the text overlay reads \"DEMOCRATS HATE AMERICA\" and \"SCHUMER SHUTDOWN.\" The setting appears to be a formal outdoor area of the White House, with greenery in the background. The post is attributed to the user SonofLiberty357 on X.",
       "url": "https://www.trumpstruth.org/statuses/37212",
       "raw": {
         "creator": "",
@@ -101,13 +121,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37212",
         "isoDate": "2026-03-09T13:57:46.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:13:35.190Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15683/23a59a99f7526a58.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37214",
       "publishedAt": "2026-03-09T14:00:39.000Z",
       "title": "[No Title] - Post from March 9, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a tweet from a user named Della, who has a profile picture of a woman wearing a cowboy hat. The tweet discusses political issues, claiming that actions are designed to make the President of the United States (referred to as @POTUS) and Republicans look bad ahead of the midterm elections. It criticizes \"leftist agitators\" and mentions President Biden's tenure negatively. The tweet is timestamped March 9, 2026, and has 167 views.",
       "url": "https://www.trumpstruth.org/statuses/37214",
       "raw": {
         "creator": "",
@@ -119,7 +143,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37214",
         "isoDate": "2026-03-09T14:00:39.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:13:27.232Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15685/425e2b1f878b7305.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37215",
@@ -143,7 +171,7 @@
       "id": "https://www.trumpstruth.org/statuses/37216",
       "publishedAt": "2026-03-09T14:30:51.000Z",
       "title": "ASYLUM!",
-      "text": "<p>ASYLUM!</p>",
+      "text": "<p>ASYLUM!</p>\n\n[Image] The image shows a group of young athletes lined up on a football field, likely during a national anthem ceremony. They appear to be from different teams, with some wearing uniforms and others in casual attire. The setting suggests a sporting event, possibly a match involving the Iranian women's football team. The background features empty stands, indicating a lack of spectators. The context of the accompanying text discusses serious threats faced by the team and the response of the Australian government.",
       "url": "https://www.trumpstruth.org/statuses/37216",
       "raw": {
         "creator": "",
@@ -155,7 +183,11 @@
         "contentSnippet": "ASYLUM!",
         "guid": "https://www.trumpstruth.org/statuses/37216",
         "isoDate": "2026-03-09T14:30:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:13:19.400Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15686/e1ff32ee9c9585f2.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37217",
@@ -270,100 +302,86 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/37209",
       "label": "positive",
-      "rationale": "The text expresses a preference for a name change, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:14:22.620Z"
+      "rationale": "The text expresses a positive sentiment about the naming of the Save America Act.",
+      "analyzedAt": "2026-09-06T06:57:29.481Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37210",
       "label": "positive",
-      "rationale": "The text expresses excitement with 'Great!!!' regarding a news event, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:14:22.620Z"
+      "rationale": "The text expresses excitement about the FBI's actions, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:57:29.481Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37211",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:14:22.620Z"
+      "analyzedAt": "2026-09-06T06:57:29.481Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37212",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:14:22.620Z"
+      "analyzedAt": "2026-09-06T06:57:29.481Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37213",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:14:22.620Z"
+      "analyzedAt": "2026-09-06T06:57:29.481Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37214",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:14:22.620Z"
+      "analyzedAt": "2026-09-06T06:57:29.481Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37215",
       "label": "negative",
-      "rationale": "The text expresses concern over a humanitarian mistake, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:14:22.620Z"
+      "rationale": "The text expresses concern over a humanitarian issue, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:57:29.481Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37216",
       "label": "neutral",
-      "rationale": "The text simply states 'ASYLUM!' without further context or sentiment.",
-      "analyzedAt": "2026-04-13T08:14:22.620Z"
+      "rationale": "The text simply states 'ASYLUM!' without additional context or sentiment.",
+      "analyzedAt": "2026-09-06T06:57:29.481Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37217",
       "label": "positive",
-      "rationale": "The text praises the Prime Minister's handling of a delicate situation, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:14:22.620Z"
+      "rationale": "The text praises the Prime Minister of Australia for handling a delicate situation well.",
+      "analyzedAt": "2026-09-06T06:57:29.481Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37218",
       "label": "positive",
-      "rationale": "The text expresses appreciation for Speaker Mike Johnson's performance, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:14:22.620Z"
+      "rationale": "The text expresses positive sentiments about Speaker Mike Johnson and mentions important meetings.",
+      "analyzedAt": "2026-09-06T06:57:29.481Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37219",
       "label": "negative",
-      "rationale": "The text outlines strict voting regulations that may be viewed negatively by some.",
-      "analyzedAt": "2026-04-13T08:14:22.620Z"
+      "rationale": "The text outlines strict voting regulations that may be viewed negatively by some audiences.",
+      "analyzedAt": "2026-09-06T06:57:29.481Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37220",
       "label": "neutral",
-      "rationale": "The text simply shares a link to a video without any sentiment expressed.",
-      "analyzedAt": "2026-04-13T08:14:22.620Z"
+      "rationale": "The text simply shares a link to a video without expressing any sentiment.",
+      "analyzedAt": "2026-09-06T06:57:29.481Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37221",
       "label": "neutral",
-      "rationale": "The text references a prophecy without expressing a positive or negative sentiment.",
-      "analyzedAt": "2026-04-13T08:14:22.620Z"
+      "rationale": "The text references a prophecy about Trump without expressing a clear sentiment.",
+      "analyzedAt": "2026-09-06T06:57:29.481Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37222",
-      "label": "neutral",
-      "rationale": "The text discusses a referral for criminal charges without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:14:22.620Z"
-    }
-  ],
-  "trendingTopic": "I just spoke to Prime Minister Anthony Albanese, of Australia, concerning the Iranian National Women’s Soccer Team.",
-  "selfPraiseCount": 0,
-  "trendingName": "Anthony Albanese",
-  "secondaryHighlights": [
-    {
-      "topic": "It’s not the Save Act, it’s The Save America Act!"
-    },
-    {
-      "topic": "Kim Clement prophesying about Donald Trump, 2007"
-    },
-    {
-      "topic": "Cassidy ‘Trump Attacked Secret Service Agent’ Hutchinson Referred for Criminal Charges"
+      "label": "negative",
+      "rationale": "The text discusses criminal charges against a person related to Trump, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:57:29.481Z"
     }
   ]
 }

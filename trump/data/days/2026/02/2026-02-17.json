@@ -23,6 +23,7 @@
   ],
   "selfPraiseCount": 2,
   "topicsCacheKey": "day-themes-v10:70:bc113996600ed6f5ae79b42b",
+  "selfPraiseCacheKey": "self-praise-v1:70:bc113996600ed6f5ae79b42b",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36720",
@@ -1778,6 +1779,5 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-06T06:52:46.603Z"
     }
-  ],
-  "selfPraiseCacheKey": "self-praise-v1:70:bc113996600ed6f5ae79b42b"
+  ]
 }

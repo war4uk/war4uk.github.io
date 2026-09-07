@@ -6,12 +6,25 @@
     "negative": 2
   },
   "summary": "positive:7 neutral:6 negative:2",
-  "generatedAt": "2026-04-13T08:16:30.164Z",
+  "generatedAt": "2026-09-07T15:17:38.973Z",
   "topics": [
-    "Trump at College Football Championship",
-    "Jack Smith J6 Probe Developments",
-    "Support for Susie Wiles"
+    "Trump criticizes judicial system and expresses gratitude to Supreme Court Justices",
+    "Mark Levin praised as a Great American Patriot",
+    "Susie Wiles diagnosed with early stage breast cancer"
   ],
+  "trendingTopic": "Trump criticizes judicial system and expresses gratitude to Supreme Court Justices",
+  "secondaryHighlights": [
+    {
+      "topic": "Mark Levin praised as a Great American Patriot",
+      "name": "Mark Levin"
+    },
+    {
+      "topic": "Susie Wiles diagnosed with early stage breast cancer"
+    }
+  ],
+  "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v10:15:5d92023ae40204be1d35478c",
+  "selfPraiseCacheKey": "self-praise-v1:15:5d92023ae40204be1d35478c",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37310",
@@ -35,7 +48,7 @@
       "id": "https://www.trumpstruth.org/statuses/37313",
       "publishedAt": "2026-03-16T03:59:48.000Z",
       "title": "[No Title] - Post from March 16, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The images feature posts from Donald Trump on social media, where he expresses his views on the judicial system and its treatment of Republicans. He criticizes Federal Reserve Chairman Jerome Powell and Judge James Boasberg, claiming they are part of a politically biased system. Trump discusses tariffs and expresses gratitude to Supreme Court Justices Alito, Thomas, and Kavanaugh for their decisions. He emphasizes his commitment to fighting for what he believes is right for the country.",
       "url": "https://www.trumpstruth.org/statuses/37313",
       "raw": {
         "creator": "",
@@ -47,7 +60,12 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37313",
         "isoDate": "2026-03-16T03:59:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:16:02.544Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15713/d9ac291caee47a40.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15714/08f69793c8180f52.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37314",
@@ -71,7 +89,7 @@
       "id": "https://www.trumpstruth.org/statuses/37316",
       "publishedAt": "2026-03-16T12:13:11.000Z",
       "title": "[No Title] - Post from March 16, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a tweet from Marc Thiessen discussing Donald Trump. Thiessen praises Trump's decisiveness and leadership, stating that he is not experiencing \"buyers remorse\" and has been resolute in his planning and execution of an operation. The tweet references a report from Axios about Trump's communication style during a conflict, specifically mentioning the Iran war. The tweet includes a timestamp and engagement metrics.",
       "url": "https://www.trumpstruth.org/statuses/37316",
       "raw": {
         "creator": "",
@@ -83,13 +101,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37316",
         "isoDate": "2026-03-16T12:13:11.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:16:00.052Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15716/4f47ef8bdf146cbd.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37315",
       "publishedAt": "2026-03-16T12:13:25.000Z",
       "title": "[No Title] - Post from March 16, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a stylized graphic with a blue background, prominently displaying the American flag waving in the wind. Below the flag, there is a sleek, futuristic-looking aircraft flying above the text that reads \"PEACE THROUGH STRENGTH\" and \"NO PANICANS!\" The post is attributed to The White House and includes a timestamp of March 14, 2026, with a view count of 3 million. The design conveys a message of strength and reassurance.",
       "url": "https://www.trumpstruth.org/statuses/37315",
       "raw": {
         "creator": "",
@@ -101,7 +123,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37315",
         "isoDate": "2026-03-16T12:13:25.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T16:05:00.513Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15715/bab6bc5f61e51cf9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37318",
@@ -289,107 +315,91 @@
       "postId": "https://www.trumpstruth.org/statuses/37310",
       "label": "positive",
       "rationale": "The text praises Mark Levin and expresses strong support for him, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:16:30.161Z"
+      "analyzedAt": "2026-09-06T06:58:52.844Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37313",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:16:30.161Z"
+      "analyzedAt": "2026-09-06T06:58:52.844Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37314",
       "label": "positive",
       "rationale": "The text expresses strong support for Michael Whatley and criticizes his opponent, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:16:30.161Z"
+      "analyzedAt": "2026-09-06T06:58:52.844Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37315",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:16:30.161Z"
+      "analyzedAt": "2026-09-06T06:58:52.844Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37316",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:16:30.161Z"
+      "analyzedAt": "2026-09-06T06:58:52.844Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37317",
       "label": "neutral",
-      "rationale": "The text is a simple announcement without emotional content.",
-      "analyzedAt": "2026-04-13T08:16:30.161Z"
+      "rationale": "The text is a simple announcement about a news conference, lacking emotional content.",
+      "analyzedAt": "2026-09-06T06:58:52.844Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37318",
       "label": "negative",
       "rationale": "The text criticizes Democrats and portrays them negatively, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:16:30.161Z"
+      "analyzedAt": "2026-09-06T06:58:52.844Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37319",
       "label": "positive",
-      "rationale": "The text expresses support and optimism regarding Susie Wiles' health and commitment, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:16:30.161Z"
+      "rationale": "The text expresses support and admiration for Susie Wiles, highlighting her strength and commitment.",
+      "analyzedAt": "2026-09-06T06:58:52.844Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37320",
       "label": "positive",
-      "rationale": "The text describes an honor given to a sheriff by Trump, which conveys a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:16:30.161Z"
+      "rationale": "The text describes an honor given to Sheriff Cook by Trump, which conveys a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:58:52.844Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37321",
       "label": "positive",
       "rationale": "The text highlights a massive crowd reaction, indicating a positive reception.",
-      "analyzedAt": "2026-04-13T08:16:30.161Z"
+      "analyzedAt": "2026-09-06T06:58:52.844Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37322",
       "label": "positive",
       "rationale": "The text mentions Trump being cheered during the national anthem, which conveys a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:16:30.161Z"
+      "analyzedAt": "2026-09-06T06:58:52.844Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37323",
       "label": "positive",
-      "rationale": "The phrase 'Crowd Goes WILD' suggests an enthusiastic and positive reaction from the audience.",
-      "analyzedAt": "2026-04-13T08:16:30.161Z"
+      "rationale": "The phrase 'Crowd Goes WILD' suggests an enthusiastic and positive reaction towards Trump.",
+      "analyzedAt": "2026-09-06T06:58:52.844Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37324",
       "label": "neutral",
-      "rationale": "The text reports on a legal matter without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:16:30.161Z"
+      "rationale": "The text reports on a legal matter without expressing a clear positive or negative sentiment.",
+      "analyzedAt": "2026-09-06T06:58:52.844Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37325",
       "label": "neutral",
-      "rationale": "The text discusses a meeting related to a legal investigation, lacking emotional language.",
-      "analyzedAt": "2026-04-13T08:16:30.161Z"
+      "rationale": "This text discusses a meeting related to a legal investigation, lacking emotional sentiment.",
+      "analyzedAt": "2026-09-06T06:58:52.844Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/37326",
       "label": "negative",
-      "rationale": "The text indicates NATO's rejection of Trump's proposal, suggesting a negative sentiment towards his idea.",
-      "analyzedAt": "2026-04-13T08:16:30.161Z"
-    }
-  ],
-  "trendingTopic": "Michael Whatley is so Great!",
-  "trendingName": "Michael Whatley",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Jack Smith meeting with then-FBI Director Wray recorded as ‘significant case notification’ in J6 probe",
-      "name": "Jack Smith"
-    },
-    {
-      "topic": "Jack Smith targeted then-House Speaker McCarthy’s private phone records in J6 probe, FBI docs reveal",
-      "name": "Jack Smith"
-    },
-    {
-      "topic": "The crazed Democrats are not allowing TSA Agents to get paid"
+      "rationale": "The text indicates NATO's rejection of Trump's proposal, which can be interpreted negatively.",
+      "analyzedAt": "2026-09-06T06:58:52.844Z"
     }
   ]
 }

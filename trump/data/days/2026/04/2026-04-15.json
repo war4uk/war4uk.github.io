@@ -6,25 +6,25 @@
     "negative": 6
   },
   "summary": "positive:5 neutral:9 negative:6",
-  "generatedAt": "2026-09-05T08:45:10.048Z",
+  "generatedAt": "2026-09-07T15:17:49.275Z",
   "topics": [
-    "Political Commentary and Controversies",
-    "Endorsements and Support for Candidates",
-    "Disaster Recovery and Assistance"
+    "Condemns Iran for killing unarmed protesters and nuclear ambitions",
+    "Critiques NATO's reliability and support",
+    "Discusses potential impeachment expungement for Trump"
   ],
-  "trendingTopic": "Will be interviewed tomorrow morning by Maria B. FoxBusiness",
+  "trendingTopic": "Condemns Iran for killing unarmed protesters and nuclear ambitions",
   "secondaryHighlights": [
     {
-      "topic": "NATO wasn’t there for us, and they won’t be there for us in the future!"
+      "topic": "Critiques NATO's reliability and support"
     },
     {
-      "topic": "Trump could move to expunge 2019 impeachment after release of bombshell evidence"
-    },
-    {
-      "topic": "Biden administration weaponized law to infringe rights of pro-life activists, DOJ says"
+      "topic": "Discusses potential impeachment expungement for Trump",
+      "name": "Alan Dershowitz"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:20:42bf5fcb2c9c3442ce8b4088",
+  "selfPraiseCacheKey": "self-praise-v1:20:42bf5fcb2c9c3442ce8b4088",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37771",
@@ -174,7 +174,7 @@
       "id": "https://www.trumpstruth.org/statuses/37782",
       "publishedAt": "2026-04-15T05:10:28.000Z",
       "title": "Not good!!!",
-      "text": "<p>Not good!!!</p>",
+      "text": "<p>Not good!!!</p>\n\n[Image] The image features a tweet from the account @KanekoaTheGreat discussing Cardinal Robert Prevost, who is mentioned as having criticized Donald Trump and other political figures before becoming Pope Leo XIV. The tweet includes a reposted message from Prevost that condemns certain policies and calls for justice. A photo of Donald Trump wearing a white cap is also included, alongside a mention of JD Vance. The context highlights Prevost's previous social media activity before his election.",
       "url": "https://www.trumpstruth.org/statuses/37782",
       "raw": {
         "creator": "",
@@ -186,13 +186,17 @@
         "contentSnippet": "Not good!!!",
         "guid": "https://www.trumpstruth.org/statuses/37782",
         "isoDate": "2026-04-15T05:10:28.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:56:33.207Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15855/32e98fe362aaf407.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37781",
       "publishedAt": "2026-04-15T05:11:30.000Z",
       "title": "[No Title] - Post from April 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a split-screen layout with two labeled sections. On the left, there is a depiction of children in cages, with a border patrol agent visible nearby. On the right, a group of individuals, including Jeh Johnson, the former Secretary of Homeland Security under President Obama, is shown walking through a facility. The text suggests a political commentary regarding the treatment of children during different administrations, specifically contrasting actions taken during the Obama and Trump presidencies.",
       "url": "https://www.trumpstruth.org/statuses/37781",
       "raw": {
         "creator": "",
@@ -204,13 +208,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37781",
         "isoDate": "2026-04-15T05:11:30.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:56:31.089Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15854/1adbd516fac67ce3.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37780",
       "publishedAt": "2026-04-15T05:12:52.000Z",
       "title": "[No Title] - Post from April 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a tweet from Anne Marie Labadie discussing media portrayals of Barack Obama. It includes a screenshot of a post from another account, which claims that the media depicted Obama as a messianic figure without backlash from Democrats. Below this text, two magazine covers are shown: one from The New Republic in January 2008 and another from Newsweek in May 2012, both featuring images of Obama. The tweet highlights perceived double standards in media reactions.",
       "url": "https://www.trumpstruth.org/statuses/37780",
       "raw": {
         "creator": "",
@@ -222,7 +230,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37780",
         "isoDate": "2026-04-15T05:12:52.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:56:29.077Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15853/7bea1b9454032c6f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37779",
@@ -300,7 +312,7 @@
       "id": "https://www.trumpstruth.org/statuses/37787",
       "publishedAt": "2026-04-15T12:34:11.000Z",
       "title": "The Radical Left Lunatics might not like this, but I think it is quite nice!!!  President DJT",
-      "text": "<p>The Radical Left Lunatics might not like this, but I think it is quite nice!!!  President DJT</p>",
+      "text": "<p>The Radical Left Lunatics might not like this, but I think it is quite nice!!!  President DJT</p>\n\n[Image] The image features a digitally altered depiction of Donald Trump alongside a figure representing Jesus Christ. Trump appears to be in a contemplative pose, with his eyes closed, while Jesus has a serene expression. The background includes elements of the American flag. The accompanying text expresses a controversial viewpoint about religious themes and suggests a connection between God and Trump. The post is shared by an account named \"Irish for Trump.\"",
       "url": "https://www.trumpstruth.org/statuses/37787",
       "raw": {
         "creator": "",
@@ -312,13 +324,17 @@
         "contentSnippet": "The Radical Left Lunatics might not like this, but I think it is quite nice!!!  President DJT",
         "guid": "https://www.trumpstruth.org/statuses/37787",
         "isoDate": "2026-04-15T12:34:11.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:56:26.151Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15858/63b1dee8d8fb19ec.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37786",
       "publishedAt": "2026-04-15T12:34:42.000Z",
       "title": "[No Title] - Post from April 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump smiling while standing at an inauguration event, with Barack Obama visible nearby. Trump is dressed in a dark suit with a red tie, and he appears to be looking at Obama, who is wearing a dark suit as well. The caption humorously references a past comment made by Obama about Trump not becoming president. The post is shared on social media, indicating a playful tone regarding their political history.",
       "url": "https://www.trumpstruth.org/statuses/37786",
       "raw": {
         "creator": "",
@@ -330,7 +346,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37786",
         "isoDate": "2026-04-15T12:34:42.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:56:24.170Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15857/7263c0d02535b846.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37788",
