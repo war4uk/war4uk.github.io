@@ -6,18 +6,30 @@
     "negative": 4
   },
   "summary": "positive:2 neutral:3 negative:4",
-  "generatedAt": "2026-04-13T08:05:14.096Z",
+  "generatedAt": "2026-09-07T15:37:48.888Z",
   "topics": [
-    "Election Security in Arizona",
-    "Voter ID and Election Integrity",
-    "Crime and Public Safety in North Carolina"
+    "Praises Viktor Orbán as a strong leader and ally for Hungary",
+    "Criticizes Democrats for opposing Voter ID laws and election integrity",
+    "Condemns Governor Roy Cooper for releasing a violent offender"
   ],
+  "trendingTopic": "Praises Viktor Orbán as a strong leader and ally for Hungary",
+  "secondaryHighlights": [
+    {
+      "topic": "Criticizes Democrats for opposing Voter ID laws and election integrity"
+    },
+    {
+      "topic": "Condemns Governor Roy Cooper for releasing a violent offender"
+    }
+  ],
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:9:4a47c279eead4b363a2b21fd",
+  "selfPraiseCacheKey": "self-praise-v1:9:4a47c279eead4b363a2b21fd",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36698",
       "publishedAt": "2026-02-13T15:41:19.000Z",
       "title": "Highly Respected Prime Minister of Hungary, Viktor Orbán, is a truly strong and powerful Leader, with a proven track record of delivering phenomenal results. He fights tirelessly for, and loves, his Great Country and People, just like I do for the United States of America. Viktor works hard to Protect Hungary, Grow the Economy, Create Jobs, Promote Trade, Stop Illegal Immigration, and Ensure LAW AND ORDER! Relations between Hungary and the United States have reached new heights of cooperation and spectacular achievement under my Administration, thanks largely to Prime Minister Orbán. I look forward to continuing working closely with him so that both of our Countries can further advance this tremendous path to SUCCESS and cooperation. I was proud to ENDORSE Viktor for Re-Election in 2022, and am honored to do so again. Viktor Orbán is a true friend, fighter, and WINNER, and has my Complete and Total Endorsement for Re-Election as Prime Minister of Hungary — HE WILL NEVER LET THE GREAT PEOPLE OF HUNGARY DOWN! PRESIDENT DONALD J. TRUMP",
-      "text": "<p>Highly Respected Prime Minister of Hungary, Viktor Orbán, is a truly strong and powerful Leader, with a proven track record of delivering phenomenal results. He fights tirelessly for, and loves, his Great Country and People, just like I do for the United States of America. Viktor works hard to Protect Hungary, Grow the Economy, Create Jobs, Promote Trade, Stop Illegal Immigration, and Ensure LAW AND ORDER! Relations between Hungary and the United States have reached new heights of cooperation and spectacular achievement under my Administration, thanks largely to Prime Minister Orbán. I look forward to continuing working closely with him so that both of our Countries can further advance this tremendous path to SUCCESS and cooperation. I was proud to ENDORSE Viktor for Re-Election in 2022, and am honored to do so again. Viktor Orbán is a true friend, fighter, and WINNER, and has my Complete and Total Endorsement for Re-Election as Prime Minister of Hungary — HE WILL NEVER LET THE GREAT PEOPLE OF HUNGARY DOWN! PRESIDENT DONALD J. TRUMP</p>",
+      "text": "<p>Highly Respected Prime Minister of Hungary, Viktor Orbán, is a truly strong and powerful Leader, with a proven track record of delivering phenomenal results. He fights tirelessly for, and loves, his Great Country and People, just like I do for the United States of America. Viktor works hard to Protect Hungary, Grow the Economy, Create Jobs, Promote Trade, Stop Illegal Immigration, and Ensure LAW AND ORDER! Relations between Hungary and the United States have reached new heights of cooperation and spectacular achievement under my Administration, thanks largely to Prime Minister Orbán. I look forward to continuing working closely with him so that both of our Countries can further advance this tremendous path to SUCCESS and cooperation. I was proud to ENDORSE Viktor for Re-Election in 2022, and am honored to do so again. Viktor Orbán is a true friend, fighter, and WINNER, and has my Complete and Total Endorsement for Re-Election as Prime Minister of Hungary — HE WILL NEVER LET THE GREAT PEOPLE OF HUNGARY DOWN! PRESIDENT DONALD J. TRUMP</p>\n\n[Image] The image features Donald Trump standing alongside Viktor Orbán, the Prime Minister of Hungary. They are positioned outdoors, likely at the White House, with white columns and manicured greenery in the background. Trump is smiling and wearing a dark suit with a light-colored tie, while Orbán is also in a dark suit but with a red tie. The setting suggests a formal meeting or event between the two leaders.",
       "url": "https://www.trumpstruth.org/statuses/36698",
       "raw": {
         "creator": "",
@@ -29,7 +41,11 @@
         "contentSnippet": "Highly Respected Prime Minister of Hungary, Viktor Orbán, is a truly strong and powerful Leader, with a proven track record of delivering phenomenal results. He fights tirelessly for, and loves, his Great Country and People, just like I do for the United States of America. Viktor works hard to Protect Hungary, Grow the Economy, Create Jobs, Promote Trade, Stop Illegal Immigration, and Ensure LAW AND ORDER! Relations between Hungary and the United States have reached new heights of cooperation and spectacular achievement under my Administration, thanks largely to Prime Minister Orbán. I look forward to continuing working closely with him so that both of our Countries can further advance this tremendous path to SUCCESS and cooperation. I was proud to ENDORSE Viktor for Re-Election in 2022, and am honored to do so again. Viktor Orbán is a true friend, fighter, and WINNER, and has my Complete and Total Endorsement for Re-Election as Prime Minister of Hungary — HE WILL NEVER LET THE GREAT PEOPLE OF HUNGARY DOWN! PRESIDENT DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/36698",
         "isoDate": "2026-02-13T15:41:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:56:41.528Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15449/3ecd755474d5c7f5.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36699",
@@ -125,7 +141,7 @@
       "id": "https://www.trumpstruth.org/statuses/36706",
       "publishedAt": "2026-02-13T23:30:51.000Z",
       "title": "[No Title] - Post from February 13, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a post from Special Envoy Steve Witkoff on X (formerly Twitter). The text discusses a recent agreement between delegations from the United States, Ukraine, and Russia to exchange 314 prisoners, marking the first such exchange in five months. It highlights the productive peace talks and expresses gratitude to the United Arab Emirates for hosting discussions. President Donald J. Trump is acknowledged for his leadership in facilitating the agreement.",
       "url": "https://www.trumpstruth.org/statuses/36706",
       "raw": {
         "creator": "",
@@ -137,13 +153,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36706",
         "isoDate": "2026-02-13T23:30:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:56:38.411Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15452/bb90393925e5549f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36705",
       "publishedAt": "2026-02-13T23:31:25.000Z",
       "title": "[No Title] - Post from February 13, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image shows a large aircraft carrier navigating through calm waters. The ship features a flat deck with several military aircraft positioned on it, indicating its operational status. The carrier's structure is prominent, with various antennas and equipment visible on the superstructure. The surrounding water is clear, reflecting the ship's silhouette. There are no recognizable people or prominent politicians in the image.",
       "url": "https://www.trumpstruth.org/statuses/36705",
       "raw": {
         "creator": "",
@@ -155,7 +175,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36705",
         "isoDate": "2026-02-13T23:31:25.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:56:36.809Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15451/a76ab90bd8d77d48.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36704",
@@ -180,70 +204,57 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/36698",
       "label": "positive",
-      "rationale": "The text praises Prime Minister Viktor Orbán, highlighting his achievements and expressing a strong endorsement, which conveys a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:05:14.093Z"
+      "rationale": "The text expresses admiration for Prime Minister Viktor Orbán, highlighting his strong leadership and achievements, which conveys a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:51:48.217Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36699",
       "label": "positive",
-      "rationale": "The text expresses pride in the F-22 Raptor Fighter Jet, describing it as the greatest in the world, which conveys a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:05:14.093Z"
+      "rationale": "The text praises the F-22 Raptor Fighter Jet, calling it the greatest in the world, which conveys a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:51:48.217Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36700",
       "label": "negative",
-      "rationale": "The text conveys a negative sentiment towards Democrats, accusing them of election cheating and expressing a strong stance on voter ID and citizenship.",
-      "analyzedAt": "2026-04-13T08:05:14.093Z"
+      "rationale": "The text accuses Democrats of wanting to cheat in elections and expresses a strong negative view of their actions regarding voter ID and citizenship.",
+      "analyzedAt": "2026-09-06T06:51:48.217Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36701",
       "label": "negative",
-      "rationale": "The text expresses strong negative feelings towards Democrats regarding voter ID laws and includes derogatory language about political leaders.",
-      "analyzedAt": "2026-04-13T08:05:14.093Z"
+      "rationale": "The text expresses strong negative feelings towards Democrats regarding voter ID laws, calling them cheaters and disingenuous, which indicates a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:51:48.217Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36702",
       "label": "negative",
-      "rationale": "The text criticizes Governor Roy Cooper harshly and promotes Michael Whatley positively, indicating a strong negative sentiment towards Cooper's actions.",
-      "analyzedAt": "2026-04-13T08:05:14.093Z"
+      "rationale": "The text criticizes Governor Roy Cooper harshly, labeling him as weak and ineffective, and associates his actions with increased crime, which conveys a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:51:48.217Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36703",
       "label": "negative",
-      "rationale": "The text expresses strong negative sentiments towards Radical Roy Cooper and his policies, describing violent crime and endorsing a candidate as a solution.",
-      "analyzedAt": "2026-04-13T08:05:14.093Z"
+      "rationale": "The text expresses strong negative sentiments towards Radical Roy Cooper and his policies, describing them as disgraceful and associating them with violent crime.",
+      "analyzedAt": "2026-09-06T06:51:48.217Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36704",
       "label": "neutral",
       "rationale": "The text is a straightforward report of Secretary Kristi Noem addressing election security without any emotional language or opinion.",
-      "analyzedAt": "2026-04-13T08:05:14.093Z"
+      "analyzedAt": "2026-09-06T06:51:48.217Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36705",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:05:14.093Z"
+      "analyzedAt": "2026-09-06T06:51:48.217Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36706",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:05:14.093Z"
+      "analyzedAt": "2026-09-06T06:51:48.217Z"
     }
   ],
-  "trendingTopic": "Secretary Kristi Noem addresses election security in Arizona",
-  "trendingName": "Kristi Noem",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Our advanced F-22 Raptor Fighter Jet"
-    },
-    {
-      "topic": "The Democrats refuse to vote for Voter I.D., or Citizenship. The reason is very simple"
-    },
-    {
-      "topic": "We cannot let the Democrats get away with NO VOTER I.D. any longer"
-    }
-  ]
+  "trendingName": "Viktor Orbán"
 }

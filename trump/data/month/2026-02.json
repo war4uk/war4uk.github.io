@@ -341,27 +341,24 @@
       },
       "summary": "positive:2 neutral:3 negative:4",
       "topics": [
-        "Election Security in Arizona",
-        "Voter ID and Election Integrity",
-        "Crime and Public Safety in North Carolina"
+        "Praises Viktor Orbán as a strong leader and ally for Hungary",
+        "Criticizes Democrats for opposing Voter ID laws and election integrity",
+        "Condemns Governor Roy Cooper for releasing a violent offender"
       ],
       "postsCount": 9,
       "hasDetail": true,
-      "generatedAt": "2026-04-13T08:05:14.096Z",
-      "trendingTopic": "Secretary Kristi Noem addresses election security in Arizona",
-      "trendingName": "Kristi Noem",
+      "generatedAt": "2026-09-07T15:37:48.888Z",
+      "trendingTopic": "Praises Viktor Orbán as a strong leader and ally for Hungary",
+      "trendingName": "Viktor Orbán",
       "secondaryHighlights": [
         {
-          "topic": "Our advanced F-22 Raptor Fighter Jet"
+          "topic": "Criticizes Democrats for opposing Voter ID laws and election integrity"
         },
         {
-          "topic": "The Democrats refuse to vote for Voter I.D., or Citizenship. The reason is very simple"
-        },
-        {
-          "topic": "We cannot let the Democrats get away with NO VOTER I.D. any longer"
+          "topic": "Condemns Governor Roy Cooper for releasing a violent offender"
         }
       ],
-      "selfPraiseCount": 0
+      "selfPraiseCount": 1
     },
     {
       "date": "2026-02-14",
@@ -371,10 +368,19 @@
         "negative": 0
       },
       "summary": "positive:0 neutral:1 negative:0",
-      "topics": [],
+      "topics": [
+        "Compares mortgage rates under Joe Biden and Donald Trump"
+      ],
       "postsCount": 1,
       "hasDetail": true,
-      "generatedAt": "2026-04-13T08:05:20.231Z",
+      "generatedAt": "2026-09-07T15:37:49.614Z",
+      "trendingTopic": "Graphic compares mortgage rates attributed to Joe Biden and Donald Trump",
+      "trendingName": "Joe Biden",
+      "secondaryHighlights": [
+        {
+          "topic": "[Image] The image displays a graphic comparing mortgage rates associated with two political figures"
+        }
+      ],
       "selfPraiseCount": 0
     },
     {
@@ -386,15 +392,19 @@
       },
       "summary": "positive:1 neutral:0 negative:0",
       "topics": [
-        "Board of Peace Formation",
-        "Gaza Humanitarian Aid Efforts",
-        "International Peace Initiatives"
+        "Discusses the Board of Peace and its potential",
+        "Mentions the Plan for the permanent end to the Conflict in Gaza"
       ],
       "postsCount": 1,
       "hasDetail": true,
-      "generatedAt": "2026-04-13T08:05:24.143Z",
-      "trendingTopic": "The Board of Peace has unlimited potential",
-      "selfPraiseCount": 0
+      "generatedAt": "2026-09-07T15:37:50.349Z",
+      "trendingTopic": "Highlights the Board of Peace's potential and the Gaza conflict resolution plan",
+      "secondaryHighlights": [
+        {
+          "topic": "Plan for the permanent end to the Conflict in Gaza"
+        }
+      ],
+      "selfPraiseCount": 1
     },
     {
       "date": "2026-02-16",
@@ -405,60 +415,50 @@
       },
       "summary": "positive:2 neutral:0 negative:4",
       "topics": [
-        "Ecological Disaster in Potomac River",
-        "Voter ID and Election Integrity",
-        "Infrastructure Project Concerns"
+        "Critiques the Gateway project in New York/New Jersey for its projected costs",
+        "Highlights ecological disaster in the Potomac River due to local leadership",
+        "Comments on Democrats' opposition to Voter I.D. laws"
       ],
       "postsCount": 6,
       "hasDetail": true,
-      "generatedAt": "2026-04-13T08:05:36.924Z",
-      "trendingTopic": "Nicole Parker, formerly of the FBI, is doing a great job of explaining, on FoxNews, the Nancy Guthrie investigation.",
-      "trendingName": "Nicole Parker",
+      "generatedAt": "2026-09-07T15:37:52.821Z",
+      "trendingTopic": "Critiques the Gateway project in New York/New Jersey for its projected costs",
       "secondaryHighlights": [
         {
-          "topic": "The Democrats refuse to vote for Voter I.D., or Citizenship. The reason is very simple"
+          "topic": "Highlights ecological disaster in the Potomac River due to local leadership"
         },
         {
-          "topic": "Heading to D.C. Will give an Air Force One Press Conference, shortly"
-        },
-        {
-          "topic": "Happy President’s Day!"
+          "topic": "Comments on Democrats' opposition to Voter I.D. laws"
         }
       ],
-      "selfPraiseCount": 0
+      "selfPraiseCount": 1
     },
     {
       "date": "2026-02-17",
       "counts": {
-        "positive": 50,
+        "positive": 49,
         "neutral": 19,
-        "negative": 1
+        "negative": 2
       },
-      "summary": "positive:50 neutral:19 negative:1",
+      "summary": "positive:49 neutral:19 negative:2",
       "topics": [
-        "Trade Deal with Japan",
-        "Endorsements for Congressional Candidates",
-        "Environmental Concerns in Potomac River"
+        "Endorses multiple America First candidates in Texas Congressional Districts",
+        "Comments on the passing of Reverend Jesse Jackson",
+        "Highlights significant tax refunds due to new legislation"
       ],
       "postsCount": 70,
       "hasDetail": true,
-      "generatedAt": "2026-04-13T08:06:57.009Z",
-      "trendingTopic": "It is my Great Honor to endorse America First Patriot Alex Mealer, who is running to represent the incredible people of Texas’ 9th Congressional District.",
+      "generatedAt": "2026-09-07T15:37:53.613Z",
+      "trendingTopic": "Endorses multiple America First candidates in Texas Congressional Districts",
       "secondaryHighlights": [
         {
-          "topic": "I am proud to once again endorse Texas Lieutenant Governor, Dan Patrick, for Re-Election",
-          "name": "Dan Patrick"
+          "topic": "Comments on the passing of Reverend Jesse Jackson"
         },
         {
-          "topic": "Congressman Pete Sessions is a Tremendous Champion for Texas’ 17th Congressional District!",
-          "name": "Pete Sessions"
-        },
-        {
-          "topic": "Jon Bonck is an incredible Candidate running to represent the fantastic people of Texas’ 38th Congressional District.",
-          "name": "Jon Bonck"
+          "topic": "Highlights significant tax refunds due to new legislation"
         }
       ],
-      "selfPraiseCount": 5
+      "selfPraiseCount": 2
     },
     {
       "date": "2026-02-18",
@@ -797,18 +797,18 @@
       "selfPraiseCount": 4
     }
   ],
-  "generatedAt": "2026-09-07T14:52:40.689Z",
-  "trendingTopic": "Endorses multiple America First candidates in Congressional races across various states",
+  "generatedAt": "2026-09-07T15:37:53.613Z",
+  "trendingTopic": "Endorses multiple America First candidates across various states",
   "secondaryHighlights": [
     {
-      "topic": "Calls for voter ID laws and highlights public support for photo ID requirements"
-    },
-    {
-      "topic": "Trump's State of the Union address receives widespread acclaim and analysis"
+      "topic": "Trump's State of the Union highlights key issues and criticisms of Democrats"
     },
     {
       "topic": "Critiques Democrats for being soft on crime and protecting criminals"
+    },
+    {
+      "topic": "Federal appeals court rules against migrant protections, a significant win for Trump"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:28:df2a15619d4dc9b9221c8309"
+  "topicsCacheKey": "month-themes-v5:28:37904329485345381d9832dd"
 }

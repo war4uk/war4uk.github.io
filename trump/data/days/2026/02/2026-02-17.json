@@ -1,17 +1,28 @@
 {
   "date": "2026-02-17",
   "counts": {
-    "positive": 50,
+    "positive": 49,
     "neutral": 19,
-    "negative": 1
+    "negative": 2
   },
-  "summary": "positive:50 neutral:19 negative:1",
-  "generatedAt": "2026-04-13T08:06:57.009Z",
+  "summary": "positive:49 neutral:19 negative:2",
+  "generatedAt": "2026-09-07T15:37:53.613Z",
   "topics": [
-    "Trade Deal with Japan",
-    "Endorsements for Congressional Candidates",
-    "Environmental Concerns in Potomac River"
+    "Endorses multiple America First candidates in Texas Congressional Districts",
+    "Comments on the passing of Reverend Jesse Jackson",
+    "Highlights significant tax refunds due to new legislation"
   ],
+  "trendingTopic": "Endorses multiple America First candidates in Texas Congressional Districts",
+  "secondaryHighlights": [
+    {
+      "topic": "Comments on the passing of Reverend Jesse Jackson"
+    },
+    {
+      "topic": "Highlights significant tax refunds due to new legislation"
+    }
+  ],
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:70:bc113996600ed6f5ae79b42b",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36720",
@@ -881,7 +892,7 @@
       "id": "https://www.trumpstruth.org/statuses/36765",
       "publishedAt": "2026-02-17T18:16:31.000Z",
       "title": "[No Title] - Post from February 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a tweet from Mark Levin, expressing frustration over attempts to link Donald Trump to Jeffrey Epstein. Levin criticizes various groups, including \"Woke Reich grifters\" and \"congressional Democrat hacks,\" for allegedly libeling Trump. The tweet references a statement from a former police chief about a call Trump made to the FBI regarding Epstein. The post has garnered significant engagement, with over 108,000 views.",
       "url": "https://www.trumpstruth.org/statuses/36765",
       "raw": {
         "creator": "",
@@ -893,13 +904,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36765",
         "isoDate": "2026-02-17T18:16:31.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:58:14.772Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15454/d9d56f684f385be1.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36774",
       "publishedAt": "2026-02-17T18:46:34.000Z",
       "title": "[No Title] - Post from February 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump engaging in conversation with several individuals. Among them are Jesse Jackson, who is wearing a suit with a light blue shirt, and Al Sharpton, dressed in a tuxedo. Another man with a mustache stands between them, and a man in sunglasses is also present, smiling. The setting appears to be an indoor venue with a modern decor. The group seems to be enjoying a light-hearted moment together.",
       "url": "https://www.trumpstruth.org/statuses/36774",
       "raw": {
         "creator": "",
@@ -911,13 +926,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36774",
         "isoDate": "2026-02-17T18:46:34.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:58:13.074Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15463/f4e399357d90b710.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36773",
       "publishedAt": "2026-02-17T18:46:49.000Z",
       "title": "[No Title] - Post from February 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a gathering at a formal event, with Donald Trump prominently gesturing and speaking animatedly. Seated at the table with him is Jesse Jackson, who appears engaged in the conversation. Surrounding them are several individuals in suits, some looking on with interest. The setting suggests a social or political function, with a mix of attendees, including notable figures. The atmosphere seems lively, with a focus on the discussion at the table.",
       "url": "https://www.trumpstruth.org/statuses/36773",
       "raw": {
         "creator": "",
@@ -929,7 +948,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36773",
         "isoDate": "2026-02-17T18:46:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:22:35.921Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15462/4f7103af8cca7db4.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36772",
@@ -953,7 +976,7 @@
       "id": "https://www.trumpstruth.org/statuses/36771",
       "publishedAt": "2026-02-17T18:47:21.000Z",
       "title": "[No Title] - Post from February 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is a black-and-white photograph featuring Donald Trump seated and engaged in conversation. He is looking towards a woman who appears to be speaking to him, while a man beside him is also interacting. The setting seems to be a formal event, with several other individuals visible in the background. The overall atmosphere suggests a moment of discussion or networking among prominent figures.",
       "url": "https://www.trumpstruth.org/statuses/36771",
       "raw": {
         "creator": "",
@@ -965,13 +988,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36771",
         "isoDate": "2026-02-17T18:47:21.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:22:33.815Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15460/7f10a2e90fd36638.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36770",
       "publishedAt": "2026-02-17T18:47:37.000Z",
       "title": "[No Title] - Post from February 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump engaging in conversation with a group of men at an event. Trump is dressed in a dark suit with a pink tie, gesturing as he speaks. To his left is a man in a tuxedo with a bow tie, smiling, while another man in a denim jacket stands nearby. The background shows a crowded venue, indicating a lively atmosphere. The image captures a moment of interaction among the individuals present.",
       "url": "https://www.trumpstruth.org/statuses/36770",
       "raw": {
         "creator": "",
@@ -983,13 +1010,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36770",
         "isoDate": "2026-02-17T18:47:37.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:57:52.747Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15459/6b04f628bc523cca.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36769",
       "publishedAt": "2026-02-17T18:48:26.000Z",
       "title": "[No Title] - Post from February 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump and Jesse Jackson seated together, engaged in conversation. Trump, wearing a pinstriped suit and a light-colored tie, appears animated while speaking. Jackson, dressed in a dark suit with a tie, is pointing and looking directly at the camera. The background suggests a social or professional setting, with other individuals partially visible. The image captures a moment of interaction between the two prominent figures.",
       "url": "https://www.trumpstruth.org/statuses/36769",
       "raw": {
         "creator": "",
@@ -1001,13 +1032,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36769",
         "isoDate": "2026-02-17T18:48:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:57:50.776Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15458/62f00c3ae5dca9c7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36768",
       "publishedAt": "2026-02-17T18:49:46.000Z",
       "title": "[No Title] - Post from February 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump standing in a boxing venue, dressed in a suit with a pink tie. He is engaged in conversation with several individuals, including Jesse Jackson, who is wearing a denim jacket and gesturing towards the camera. Other people in the background include a man in a tuxedo and another individual in a yellow shirt. The setting appears to be lively, likely during a boxing match or event, with a ring visible in the background.",
       "url": "https://www.trumpstruth.org/statuses/36768",
       "raw": {
         "creator": "",
@@ -1019,13 +1054,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36768",
         "isoDate": "2026-02-17T18:49:46.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:57:43.424Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15457/157dc40a8c6c29c1.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36767",
       "publishedAt": "2026-02-17T18:49:56.000Z",
       "title": "[No Title] - Post from February 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a group of men posing together at an event. Donald Trump stands in the center, wearing a suit and making a peace sign with his left hand. To his left is a man with a distinctive hairstyle, and next to him is another man in glasses. The group includes several other individuals, all dressed in formal attire, smiling and engaging with the camera. The setting appears to be a social gathering or celebration, likely from the late 20th century.",
       "url": "https://www.trumpstruth.org/statuses/36767",
       "raw": {
         "creator": "",
@@ -1037,13 +1076,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36767",
         "isoDate": "2026-02-17T18:49:56.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:57:41.822Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15456/81d5bb8c67a86958.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36766",
       "publishedAt": "2026-02-17T18:50:07.000Z",
       "title": "[No Title] - Post from February 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump seated alongside several notable figures. To his left is Jesse Jackson, a prominent civil rights leader, who is dressed in a suit with a tie. Next to Jackson is Don King, a well-known boxing promoter with distinctive hair. On Trump's right is another man in a suit, appearing to be engaged in the event. The setting suggests a political or social gathering, with attendees focused on the proceedings.",
       "url": "https://www.trumpstruth.org/statuses/36766",
       "raw": {
         "creator": "",
@@ -1055,13 +1098,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36766",
         "isoDate": "2026-02-17T18:50:07.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:22:31.238Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15455/e5814c98aeb9fffa.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36778",
       "publishedAt": "2026-02-17T18:50:19.000Z",
       "title": "[No Title] - Post from February 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump alongside Jesse Jackson. Trump is dressed in a dark suit with a light-colored shirt and tie, looking directly at the camera with a serious expression. Jackson, standing next to him, has a warm smile and is wearing a dark suit as well. The background appears to be a public event, possibly from the late 20th century, capturing a moment between the two prominent figures.",
       "url": "https://www.trumpstruth.org/statuses/36778",
       "raw": {
         "creator": "",
@@ -1073,13 +1120,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36778",
         "isoDate": "2026-02-17T18:50:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:22:29.218Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15466/cab3b3ea9aa6c5c6.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36777",
       "publishedAt": "2026-02-17T18:50:30.000Z",
       "title": "[No Title] - Post from February 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump shaking hands with several notable figures. To his left is Jesse Jackson, a prominent civil rights leader, and to his right is Muhammad Ali, the legendary boxer. Behind them, a man with distinctive hair appears to be smiling, while other individuals are partially visible in the background. The setting suggests a public event, likely related to politics or social issues, given the presence of these influential personalities.",
       "url": "https://www.trumpstruth.org/statuses/36777",
       "raw": {
         "creator": "",
@@ -1091,13 +1142,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36777",
         "isoDate": "2026-02-17T18:50:30.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:57:25.291Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15465/b398babe463fb72b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36776",
       "publishedAt": "2026-02-17T18:50:47.000Z",
       "title": "[No Title] - Post from February 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump seated at a table with Jesse Jackson. Trump, wearing a pinstripe suit and a light-colored tie, appears engaged in conversation with Jackson, who is dressed in a dark suit with a white shirt and a red pocket square. Jackson is pointing with one hand while looking at Trump. The table is set with plates, glasses, and cutlery, indicating a formal dining setting. The background includes other individuals, though they are not clearly visible.",
       "url": "https://www.trumpstruth.org/statuses/36776",
       "raw": {
         "creator": "",
@@ -1109,7 +1164,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36776",
         "isoDate": "2026-02-17T18:50:47.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:57:23.169Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15464/1421a0c8a92b49c9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36775",
@@ -1169,7 +1228,7 @@
       "id": "https://www.trumpstruth.org/statuses/36786",
       "publishedAt": "2026-02-17T20:25:52.000Z",
       "title": "[No Title] - Post from February 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image presents polling data for the Republican primary in Indiana's Senate District 19. It features two candidates: Travis Holdman and Blake Fiechter. In the current polling, Holdman leads with 46% compared to Fiechter's 12%, with 42% undecided. The second graph shows potential polling if Donald Trump endorses Fiechter, where he leads with 54% against Holdman's 29%, and 17% remain undecided. Donald Trump is depicted prominently in the endorsement scenario.",
       "url": "https://www.trumpstruth.org/statuses/36786",
       "raw": {
         "creator": "",
@@ -1181,13 +1240,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36786",
         "isoDate": "2026-02-17T20:25:52.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:57:15.688Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15472/fe3342be07d0bb7f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36785",
       "publishedAt": "2026-02-17T20:26:03.000Z",
       "title": "[No Title] - Post from February 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image presents polling data for the Republican primary in Indiana's Senate District 21. It features two candidates: Jim Buck and Tracey Powell, with their respective polling percentages displayed. The left side shows current polling, indicating Buck at 33% and Powell at 18%, with 50% undecided. The right side illustrates a scenario where Donald Trump endorses Powell, resulting in him leading with 42% compared to Buck's 25% and 33% undecided.",
       "url": "https://www.trumpstruth.org/statuses/36785",
       "raw": {
         "creator": "",
@@ -1199,13 +1262,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36785",
         "isoDate": "2026-02-17T20:26:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:22:26.470Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15471/3494b49b47f56580.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36784",
       "publishedAt": "2026-02-17T20:26:15.000Z",
       "title": "[No Title] - Post from February 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image presents polling data for the Republican primary in Indiana's Senate District 23. It features two candidates: Spencer Deery and Paula Copenhaver. The left side shows current polling, with Deery at 35%, Copenhaver at 13%, and 52% undecided. The right side illustrates a scenario where Donald Trump endorses Copenhaver, resulting in her leading with 54%, Deery at 23%, and 23% undecided. Donald Trump is depicted prominently at the top.",
       "url": "https://www.trumpstruth.org/statuses/36784",
       "raw": {
         "creator": "",
@@ -1217,13 +1284,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36784",
         "isoDate": "2026-02-17T20:26:15.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:57:01.967Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15470/3dcb7ce464ffd60f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36783",
       "publishedAt": "2026-02-17T20:26:30.000Z",
       "title": "[No Title] - Post from February 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image presents polling data for the Republican primary in Indiana's Senate District 38. It features two candidates: Greg Goode and Brenda Wilson. In the current polling, Goode leads with 39%, while Wilson has 14%, and 46% of voters are undecided. The second graph shows a hypothetical scenario where Donald Trump endorses Wilson, resulting in her leading with 59% compared to Goode's 20%, with 21% undecided. Donald Trump is depicted in the endorsement section.",
       "url": "https://www.trumpstruth.org/statuses/36783",
       "raw": {
         "creator": "",
@@ -1235,13 +1306,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36783",
         "isoDate": "2026-02-17T20:26:30.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:57:00.151Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15469/fb4523589886b0ef.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36782",
       "publishedAt": "2026-02-17T20:26:43.000Z",
       "title": "[No Title] - Post from February 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image presents polling data for the Republican primary in Indiana's Senate District 39. It features two graphs comparing current polling and potential outcomes if Donald Trump endorses a candidate. The current polling shows Eric Bassler, Jeff Ellington, and Kristi Risk each at 24%, with 39% undecided. The second graph indicates that if Trump endorses, Jeff Ellington could lead with 47%, while Bassler and Risk drop to 18% and 17%, respectively. Donald Trump is prominently featured in the endorsement section.",
       "url": "https://www.trumpstruth.org/statuses/36782",
       "raw": {
         "creator": "",
@@ -1253,13 +1328,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36782",
         "isoDate": "2026-02-17T20:26:43.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:22:24.979Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15468/b6a53711b4890d67.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36781",
       "publishedAt": "2026-02-17T20:26:56.000Z",
       "title": "[No Title] - Post from February 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image presents polling data for the Republican primary in Indiana's Senate District 41. It features two scenarios: current polling and polling if Donald Trump endorses challenger Michelle Davis. In the current polling, Greg Walker has 34%, Michelle Davis 20%, and 46% are undecided. If Trump endorses Davis, she leads with 59% compared to Walker's 23%, with 17% undecided. The data is sourced from Fabrizio, Lee & Associates, dated January 6-8, 2026.",
       "url": "https://www.trumpstruth.org/statuses/36781",
       "raw": {
         "creator": "",
@@ -1271,445 +1350,434 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36781",
         "isoDate": "2026-02-17T20:26:56.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T15:22:23.193Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15467/2fb694e820ce95b7.jpg"
+      ]
     }
   ],
   "sentiments": [
     {
       "postId": "https://www.trumpstruth.org/statuses/36717",
       "label": "positive",
-      "rationale": "The text endorses Jessica Steinmann, highlighting her qualifications and support from prominent figures, showcasing a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:57.006Z"
+      "rationale": "The text endorses Jessica Steinmann positively, highlighting her qualifications and support from notable figures.",
+      "analyzedAt": "2026-09-06T06:52:54.108Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36718",
       "label": "positive",
-      "rationale": "The text endorses Alex Mealer, emphasizing her qualifications and commitment to various issues, indicating a strong positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:57.006Z"
+      "rationale": "The text endorses Alex Mealer positively, emphasizing her qualifications and commitment to important issues.",
+      "analyzedAt": "2026-09-06T06:52:54.108Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36719",
       "label": "positive",
-      "rationale": "The text endorses Carlos De La Cruz, highlighting his military background and commitment to various issues, showcasing a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:57.006Z"
+      "rationale": "The text endorses Carlos De La Cruz positively, highlighting his qualifications and commitment to various issues.",
+      "analyzedAt": "2026-09-06T06:52:54.108Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36720",
       "label": "positive",
-      "rationale": "The text endorses Jon Bonck, emphasizing his qualifications and support from prominent figures, indicating a strong positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:57.006Z"
+      "rationale": "The text endorses Jon Bonck positively, emphasizing his qualifications and support from notable figures.",
+      "analyzedAt": "2026-09-06T06:52:54.108Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36721",
       "label": "positive",
-      "rationale": "The text praises Congressman Tony Gonzales as a terrific representative and endorses him for re-election, emphasizing his military background and commitment.",
-      "analyzedAt": "2026-04-13T08:06:57.006Z"
+      "rationale": "The text praises Congressman Tony Gonzales as a terrific representative and endorses him for re-election, indicating a strong positive sentiment.",
+      "analyzedAt": "2026-09-06T06:52:54.108Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36722",
       "label": "positive",
-      "rationale": "The text endorses Trever Nehls, highlighting his family connections and qualifications, and expresses confidence in his ability to serve.",
-      "analyzedAt": "2026-04-13T08:06:57.006Z"
+      "rationale": "The endorsement for Trever Nehls is positive, highlighting his qualifications and commitment to various issues, with a strong endorsement.",
+      "analyzedAt": "2026-09-06T06:52:54.108Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36723",
       "label": "positive",
-      "rationale": "The text endorses Mark Teixeira, emphasizing his successful sports career and potential as a candidate, indicating a strong positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:57.006Z"
+      "rationale": "The text endorses Mark Teixeira positively, emphasizing his achievements and commitment to various important issues.",
+      "analyzedAt": "2026-09-06T06:52:54.108Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36724",
       "label": "positive",
-      "rationale": "The text praises Congressman Randy Weber for his efforts and endorses him for re-election, showcasing a positive view of his work.",
-      "analyzedAt": "2026-04-13T08:06:57.006Z"
+      "rationale": "The text praises Congressman Randy Weber for his efforts and endorses him positively, indicating strong support.",
+      "analyzedAt": "2026-09-06T06:52:54.108Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36725",
       "label": "positive",
-      "rationale": "The text endorses 'Doc' Ronny Jackson, highlighting his medical and military background, and expresses strong support for his re-election.",
-      "analyzedAt": "2026-04-13T08:06:57.006Z"
+      "rationale": "The text endorses 'Doc' Ronny Jackson positively, highlighting his qualifications and commitment to various issues.",
+      "analyzedAt": "2026-09-06T06:52:54.108Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36726",
       "label": "positive",
-      "rationale": "The text endorses Chris Gober, emphasizing his qualifications and commitment to law and order, indicating a strong positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:57.006Z"
+      "rationale": "The endorsement for Chris Gober is positive, emphasizing his qualifications and commitment to important issues.",
+      "analyzedAt": "2026-09-06T06:52:54.108Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36727",
       "label": "positive",
-      "rationale": "The text endorses Congressman Jake Ellzey, highlighting his military background and efforts in Congress, showcasing a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:57.006Z"
+      "rationale": "The text endorses Congressman Jake Ellzey positively, highlighting his qualifications and commitment to various issues.",
+      "analyzedAt": "2026-09-06T06:52:54.108Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36728",
       "label": "positive",
-      "rationale": "The text praises Congressman Pat Fallon for his achievements and endorses him for re-election, indicating a strong positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:57.006Z"
+      "rationale": "The text praises Congressman Pat Fallon as a fantastic representative and endorses him positively.",
+      "analyzedAt": "2026-09-06T06:52:54.108Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36729",
       "label": "positive",
-      "rationale": "The text endorses Congressman Keith Self, highlighting his military background and commitment to various issues, showcasing a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:57.006Z"
+      "rationale": "The text endorses Congressman Keith Self positively, highlighting his qualifications and commitment to various issues.",
+      "analyzedAt": "2026-09-06T06:52:54.108Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36730",
       "label": "positive",
-      "rationale": "The text praises Governor Greg Abbott for his leadership and endorses him for re-election, indicating a strong positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:57.006Z"
+      "rationale": "The text praises Governor Greg Abbott and endorses him positively, highlighting his leadership and accomplishments.",
+      "analyzedAt": "2026-09-06T06:52:54.108Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36731",
       "label": "positive",
-      "rationale": "The text endorses David Cook, highlighting his record of success and community support, showcasing a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:57.006Z"
+      "rationale": "The text endorses David Cook positively, emphasizing his strong record and community support.",
+      "analyzedAt": "2026-09-06T06:52:54.108Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36732",
       "label": "positive",
-      "rationale": "The text endorses Dan Patrick, emphasizing his contributions to the campaign and commitment to various issues, indicating a strong positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:57.006Z"
+      "rationale": "The text endorses Dan Patrick positively, highlighting his contributions and commitment to various issues.",
+      "analyzedAt": "2026-09-06T06:52:54.108Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36733",
       "label": "positive",
-      "rationale": "The text praises Congressman Roger Williams for his achievements and contributions, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "rationale": "The text praises Congressman Roger Williams for his work and commitment, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36734",
       "label": "positive",
-      "rationale": "The text expresses strong support for Congresswoman Beth Van Duyne, highlighting her achievements and positive impact, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "rationale": "The text expresses strong support for Congresswoman Beth Van Duyne, highlighting her achievements and positive impact.",
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36735",
       "label": "positive",
-      "rationale": "The text praises Congressman Pete Sessions for his achievements and contributions, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "rationale": "The text praises Congressman Pete Sessions for his work and commitment, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36736",
       "label": "positive",
-      "rationale": "The text praises Congresswoman Monica De La Cruz for her achievements and contributions, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "rationale": "The text expresses strong support for Congresswoman Monica De La Cruz, highlighting her achievements and positive impact.",
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36737",
       "label": "positive",
-      "rationale": "The text praises Congressman Craig Goldman for his achievements and contributions, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "rationale": "The text praises Congressman Craig Goldman for his work and commitment, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36738",
       "label": "positive",
-      "rationale": "The text praises Congressman August Pfluger for his achievements and contributions, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "rationale": "The text expresses strong support for Congressman August Pfluger, highlighting his achievements and positive impact.",
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36739",
       "label": "positive",
-      "rationale": "The text praises Congressman Lance Gooden for his achievements and contributions, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "rationale": "The text praises Congressman Lance Gooden for his work and commitment, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36740",
       "label": "positive",
-      "rationale": "The text praises Congressman Nathaniel Moran for his achievements and contributions, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "rationale": "The text expresses strong support for Congressman Nathaniel Moran, highlighting his achievements and positive impact.",
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36741",
       "label": "positive",
-      "rationale": "The text praises Speaker Dustin Burrows for his leadership and contributions, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "rationale": "The text praises Dustin Burrows for his leadership and contributions, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36742",
       "label": "positive",
-      "rationale": "The text praises Congressman Brian Babin for his achievements and contributions, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "rationale": "The text expresses strong support for Congressman Brian Babin, highlighting his achievements and positive impact.",
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36743",
       "label": "positive",
-      "rationale": "The text praises Eric Flores for his qualifications and potential contributions, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "rationale": "The text praises Eric Flores for his qualifications and commitment, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36744",
       "label": "positive",
       "rationale": "The text expresses strong support and endorsement for Jace Yarbrough, highlighting his qualifications and commitment to various important issues.",
-      "analyzedAt": "2026-04-13T08:06:57.006Z"
+      "analyzedAt": "2026-09-06T06:52:54.108Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36745",
       "label": "positive",
       "rationale": "The text praises Congressman John Carter as a fantastic representative and endorses him for re-election, emphasizing his dedication and accomplishments.",
-      "analyzedAt": "2026-04-13T08:06:57.006Z"
+      "analyzedAt": "2026-09-06T06:52:54.108Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36746",
-      "label": "positive",
-      "rationale": "The text endorses Tano Tijerina, highlighting his community service and qualifications, while also criticizing a political opponent, which indicates a strong positive sentiment towards Tano.",
-      "analyzedAt": "2026-04-13T08:06:57.006Z"
+      "label": "negative",
+      "rationale": "While the endorsement for Tano Tijerina is positive, the text contains negative remarks about Henry Cuellar, suggesting disloyalty and criticizing his actions.",
+      "analyzedAt": "2026-09-06T06:52:54.108Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36747",
       "label": "positive",
-      "rationale": "The text describes Congressman Michael Cloud as a tremendous advocate and endorses him for re-election, showcasing his efforts and achievements.",
-      "analyzedAt": "2026-04-13T08:06:57.006Z"
+      "rationale": "The text strongly endorses Congressman Michael Cloud, highlighting his advocacy and commitment to various issues, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:52:54.108Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36748",
       "label": "positive",
-      "rationale": "The text endorses Congressman Brandon Gill, highlighting his family and accomplishments, and expresses strong support for his re-election.",
-      "analyzedAt": "2026-04-13T08:06:57.006Z"
+      "rationale": "The text endorses Congressman Brandon Gill, describing him as a 'MAGA Warrior' and emphasizing his efforts and family background positively.",
+      "analyzedAt": "2026-09-06T06:52:54.108Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36749",
       "label": "positive",
-      "rationale": "The text praises Congressman Richard Hudson and his efforts, indicating a positive sentiment towards his work and achievements.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "rationale": "The text praises Congressman Richard Hudson and his efforts, indicating a strong positive sentiment.",
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36750",
       "label": "positive",
-      "rationale": "The text expresses strong support for Congressman Mark Harris, highlighting his achievements and positive impact, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "rationale": "The text expresses strong support for Congressman Mark Harris, highlighting his achievements and positive impact.",
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36751",
       "label": "positive",
       "rationale": "The text praises Congressman Addison McDowell for his work and commitment, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36752",
       "label": "positive",
-      "rationale": "The text highlights Congressman Greg Murphy's achievements and contributions, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "rationale": "The text highlights Congressman Greg Murphy's achievements and contributions, presenting a positive view.",
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36753",
       "label": "positive",
-      "rationale": "The text expresses strong support for Michael Whatley, emphasizing his past successes and potential, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "rationale": "The text expresses strong support for Michael Whatley, emphasizing his past successes and future potential.",
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36754",
       "label": "positive",
       "rationale": "The text praises Congressman Tim Moore for his efforts and contributions, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36755",
       "label": "positive",
-      "rationale": "The text expresses strong support for Congressman Brad Knott, highlighting his achievements and positive impact, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "rationale": "The text expresses strong support for Congressman Brad Knott, highlighting his achievements and positive impact.",
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36756",
       "label": "positive",
       "rationale": "The text praises Congressman Chuck Edwards for his work and commitment, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36757",
       "label": "positive",
-      "rationale": "The text highlights Congressman Pat Harrigan's achievements and contributions, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "rationale": "The text highlights Congressman Pat Harrigan's achievements and contributions, presenting a positive view.",
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36758",
       "label": "positive",
-      "rationale": "The text praises Congressman David Rouzer for his efforts and contributions, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "rationale": "The text expresses strong support for Congressman David Rouzer, emphasizing his past successes and future potential.",
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36759",
       "label": "positive",
-      "rationale": "The text expresses strong support for Congresswoman Virginia Foxx, highlighting her achievements and positive impact, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "rationale": "The text praises Congresswoman Virginia Foxx for her efforts and contributions, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36760",
       "label": "positive",
-      "rationale": "The text praises State Senator Phil Berger for his leadership and contributions, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "rationale": "The text expresses strong support for State Senator Phil Berger, highlighting his achievements and positive impact.",
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36761",
       "label": "positive",
-      "rationale": "The text reflects on Jesse Jackson's positive qualities and contributions, while also defending Trump's reputation, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "rationale": "The text reflects on Jesse Jackson's positive attributes and contributions, while also defending Trump's character.",
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36762",
       "label": "positive",
-      "rationale": "The text endorses a candidate with strong positive attributes and a commitment to various beneficial policies, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "rationale": "The text endorses a candidate positively, highlighting their qualifications and commitment to various issues.",
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36763",
       "label": "negative",
-      "rationale": "The text criticizes local government actions regarding a sewage spill, expressing frustration and urgency, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "rationale": "The text criticizes local government actions and blames them for environmental issues, expressing frustration and urgency.",
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36764",
       "label": "positive",
-      "rationale": "The text discusses significant tax refunds and benefits for taxpayers, presenting a positive view of the administration's fiscal policies.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "rationale": "The text discusses significant tax refunds and benefits for taxpayers, presenting a positive view of the administration's policies.",
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36765",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36766",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36767",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36768",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36769",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36770",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36771",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36772",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36773",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36774",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36775",
       "label": "positive",
       "rationale": "The text highlights Trump's unique achievements in the economy, presenting a positive view of his impact.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36776",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36777",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36778",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36779",
       "label": "positive",
-      "rationale": "The text praises Donald J. Trump by comparing him to other great presidents, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "rationale": "The text praises Donald Trump by comparing him to other great presidents, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36780",
       "label": "positive",
       "rationale": "The text expresses excitement and positivity about a trade deal and its benefits for America, highlighting job creation and economic revitalization.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36781",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36782",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36783",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36784",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36785",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36786",
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:06:26.043Z"
+      "analyzedAt": "2026-09-06T06:52:46.603Z"
     }
   ],
-  "trendingTopic": "It is my Great Honor to endorse America First Patriot Alex Mealer, who is running to represent the incredible people of Texas’ 9th Congressional District.",
-  "selfPraiseCount": 5,
-  "secondaryHighlights": [
-    {
-      "topic": "I am proud to once again endorse Texas Lieutenant Governor, Dan Patrick, for Re-Election",
-      "name": "Dan Patrick"
-    },
-    {
-      "topic": "Congressman Pete Sessions is a Tremendous Champion for Texas’ 17th Congressional District!",
-      "name": "Pete Sessions"
-    },
-    {
-      "topic": "Jon Bonck is an incredible Candidate running to represent the fantastic people of Texas’ 38th Congressional District.",
-      "name": "Jon Bonck"
-    }
-  ]
+  "selfPraiseCacheKey": "self-praise-v1:70:bc113996600ed6f5ae79b42b"
 }

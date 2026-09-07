@@ -6,14 +6,20 @@
     "negative": 0
   },
   "summary": "positive:0 neutral:1 negative:0",
-  "generatedAt": "2026-04-13T08:05:20.231Z",
-  "topics": [],
+  "generatedAt": "2026-09-07T15:37:49.614Z",
+  "topics": [
+    "Compares mortgage rates under Joe Biden and Donald Trump"
+  ],
+  "trendingTopic": "Graphic compares mortgage rates attributed to Joe Biden and Donald Trump",
+  "trendingName": "Joe Biden",
+  "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v10:1:d469778d81634663d406ff99",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36707",
       "publishedAt": "2026-02-14T15:05:21.000Z",
       "title": "[No Title] - Post from February 14, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image displays a graphic comparing mortgage rates associated with two political figures. It lists rates of 8%, 7%, and 6% attributed to Joe Biden, with a corresponding image of him for each rate. At the bottom, a rate of 5% is linked to Donald Trump, accompanied by his image. The design features a dark background with a seal and the numbers prominently displayed, emphasizing the contrast between the two politicians' perceived impacts on mortgage rates.",
       "url": "https://www.trumpstruth.org/statuses/36707",
       "raw": {
         "creator": "",
@@ -25,16 +31,25 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36707",
         "isoDate": "2026-02-14T15:05:21.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:56:43.133Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15453/e45a55444ee262a9.jpg"
+      ]
     }
   ],
   "sentiments": [
     {
       "postId": "https://www.trumpstruth.org/statuses/36707",
       "label": "neutral",
-      "rationale": "The text contains no content or sentiment, making it neutral.",
-      "analyzedAt": "2026-04-13T08:05:20.230Z"
+      "rationale": "The text contains no content or sentiment indicators, making it neutral.",
+      "analyzedAt": "2026-09-06T06:51:55.159Z"
     }
   ],
-  "selfPraiseCount": 0
+  "selfPraiseCacheKey": "self-praise-v1:1:d469778d81634663d406ff99",
+  "secondaryHighlights": [
+    {
+      "topic": "[Image] The image displays a graphic comparing mortgage rates associated with two political figures"
+    }
+  ]
 }
