@@ -1,29 +1,29 @@
 {
   "date": "2026-09-06",
   "counts": {
-    "positive": 8,
-    "neutral": 70,
+    "positive": 10,
+    "neutral": 78,
     "negative": 12
   },
-  "summary": "positive:8 neutral:70 negative:12",
-  "generatedAt": "2026-09-07T08:02:19.833Z",
+  "summary": "positive:10 neutral:78 negative:12",
+  "generatedAt": "2026-09-07T10:25:21.349Z",
   "topics": [
-    "Critiques Spain's border control and calls for action",
-    "Comments on the U.S.-Canada currency imbalance",
-    "Calls for voter ID and critiques election integrity"
+    "Critiques Spain's border control and calls for action on immigration",
+    "Comments on the U.S.-Canada currency imbalance and its implications",
+    "Accuses Democrats of cheating and demands voter ID laws"
   ],
-  "trendingTopic": "Critiques Spain's border control and calls for action",
+  "trendingTopic": "Critiques Spain's border control and calls for action on immigration",
   "secondaryHighlights": [
     {
-      "topic": "Comments on the U.S.-Canada currency imbalance"
+      "topic": "Comments on the U.S.-Canada currency imbalance and its implications"
     },
     {
-      "topic": "Calls for voter ID and critiques election integrity"
+      "topic": "Accuses Democrats of cheating and demands voter ID laws"
     }
   ],
   "selfPraiseCount": 5,
-  "topicsCacheKey": "day-themes-v8:90:5936451baf188d25730003b7",
-  "selfPraiseCacheKey": "self-praise-v1:90:5936451baf188d25730003b7",
+  "topicsCacheKey": "day-themes-v8:100:64011ffbbb0ad0df9732c798",
+  "selfPraiseCacheKey": "self-praise-v1:100:64011ffbbb0ad0df9732c798",
   "posts": [
     {
       "id": "https://trumpstruth.org/statuses/41530",
@@ -159,7 +159,7 @@
       "id": "https://www.trumpstruth.org/statuses/41533",
       "publishedAt": "2026-09-06T15:54:02.000Z",
       "title": "Even this jerk is beginning to get it!",
-      "text": "<p>Even this jerk is beginning to get it!</p>",
+      "text": "<p>Even this jerk is beginning to get it!</p>\n\n[Image] The image features a man holding a red t-shirt that reads \"TRUMP IS MY PRESIDENT\" in large white letters. The man has long gray hair and a serious expression. In the background, there are black-and-white images of people, suggesting a collage or mural. The prominent figure in the image is Robert De Niro.",
       "url": "https://www.trumpstruth.org/statuses/41533",
       "raw": {
         "creator": "",
@@ -171,7 +171,11 @@
         "contentSnippet": "Even this jerk is beginning to get it!",
         "guid": "https://www.trumpstruth.org/statuses/41533",
         "isoDate": "2026-09-06T15:54:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T10:23:24.203Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17988/9eaa9c0034ec8ad4-1314aa2abd2f.jpg"
+      ]
     },
     {
       "id": "https://trumpstruth.org/statuses/41534",
@@ -365,7 +369,7 @@
       "id": "https://trumpstruth.org/statuses/41535",
       "publishedAt": "2026-09-06T17:49:22.000Z",
       "title": "[No Title] - Post from September 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump waving from a drive-thru window. He is wearing a white shirt with a red tie and a dark apron. The background includes various colorful signs and stickers on the window. The setting appears to be a fast-food or similar establishment.",
       "url": "https://trumpstruth.org/statuses/41535",
       "raw": {
         "creator": "",
@@ -377,7 +381,11 @@
         "contentSnippet": "",
         "guid": "https://trumpstruth.org/statuses/41535",
         "isoDate": "2026-09-06T17:49:22.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T10:24:31.722Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17990/66807b9f4a7fdd30-27a01c6cd932.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41535",
@@ -401,7 +409,7 @@
       "id": "https://trumpstruth.org/statuses/41542",
       "publishedAt": "2026-09-06T17:56:58.000Z",
       "title": "[No Title] - Post from September 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image shows a close-up view of the Moon's surface, highlighting its craters and texture. In the background, Earth is visible, appearing as a small blue and white sphere. The text \"THE MOON IS OURS\" is prominently displayed at the top, along with a small American flag icon. The overall theme suggests a sense of ownership or pride regarding space exploration.",
       "url": "https://trumpstruth.org/statuses/41542",
       "raw": {
         "creator": "",
@@ -413,7 +421,11 @@
         "contentSnippet": "",
         "guid": "https://trumpstruth.org/statuses/41542",
         "isoDate": "2026-09-06T17:56:58.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T10:24:30.224Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17997/71e3d9d1bb4522e1-225aec1073a1.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41542",
@@ -621,7 +633,7 @@
       "id": "https://trumpstruth.org/statuses/41547",
       "publishedAt": "2026-09-06T18:40:54.000Z",
       "title": "[No Title] - Post from September 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a muscular man wearing a red \"MAGA\" hat and draped in an American flag. He has a distinctive mustache and long blonde hair, resembling a classic wrestling persona. The overall style and pose suggest a strong, patriotic theme, reminiscent of professional wrestling imagery.",
       "url": "https://trumpstruth.org/statuses/41547",
       "raw": {
         "creator": "",
@@ -633,7 +645,11 @@
         "contentSnippet": "",
         "guid": "https://trumpstruth.org/statuses/41547",
         "isoDate": "2026-09-06T18:40:54.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T10:24:21.105Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18002/a308142927d8553d-11d6aebf977f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41547",
@@ -657,7 +673,7 @@
       "id": "https://trumpstruth.org/statuses/41546",
       "publishedAt": "2026-09-06T18:41:40.000Z",
       "title": "[No Title] - Post from September 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump, who is smiling and pointing while dressed in a suit and tie. The background includes an American flag, and there is bold text that reads \"MAGA\" at the top and \"HE WILL GO DOWN IN HISTORY AS THE GREATEST PRESIDENT OF ALL TIME!\" at the bottom. The overall tone of the image is celebratory and supportive of Trump.",
       "url": "https://trumpstruth.org/statuses/41546",
       "raw": {
         "creator": "",
@@ -669,7 +685,11 @@
         "contentSnippet": "",
         "guid": "https://trumpstruth.org/statuses/41546",
         "isoDate": "2026-09-06T18:41:40.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T10:24:19.790Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18001/d7d867f94a1822cd-2d8193f82b4c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41546",
@@ -783,7 +803,7 @@
       "id": "https://www.trumpstruth.org/statuses/41543",
       "publishedAt": "2026-09-06T18:44:52.000Z",
       "title": "Upon his death, I gave Congressman John Dingell, the Royal Sendoff, MAXED OUT! His wife, Debbie Dingbat, called me and thanked me profusely, while crying uncontrollably. She couldn’t believe I would do such a nice thing! Since then, she says nothing but bad about your favorite President, ME! Every time I see that Third Rate Loser ripping me, I’m amazed, because I’m a loyal person, I don’t do things like that but, that’s OK — It’s Politics. However, it shouldn’t be that way! President DONALD J. TRUMP",
-      "text": "<p>Upon his death, I gave Congressman John Dingell, the Royal Sendoff, MAXED OUT! His wife, Debbie Dingbat, called me and thanked me profusely, while crying uncontrollably. She couldn’t believe I would do such a nice thing! Since then, she says nothing but bad about your favorite President, ME! Every time I see that Third Rate Loser ripping me, I’m amazed, because I’m a loyal person, I don’t do things like that but, that’s OK — It’s Politics. However, it shouldn’t be that way! President DONALD J. TRUMP</p>",
+      "text": "<p>Upon his death, I gave Congressman John Dingell, the Royal Sendoff, MAXED OUT! His wife, Debbie Dingbat, called me and thanked me profusely, while crying uncontrollably. She couldn’t believe I would do such a nice thing! Since then, she says nothing but bad about your favorite President, ME! Every time I see that Third Rate Loser ripping me, I’m amazed, because I’m a loyal person, I don’t do things like that but, that’s OK — It’s Politics. However, it shouldn’t be that way! President DONALD J. TRUMP</p>\n\n[Image] The image features two individuals sitting together, smiling at the camera. One person is an older man wearing glasses, a suit, and a red tie, while the other is a woman with long blonde hair, wearing a red dress over a black top. The text \"Debbie Dingbat\" is prominently displayed above them.",
       "url": "https://www.trumpstruth.org/statuses/41543",
       "raw": {
         "creator": "",
@@ -795,7 +815,11 @@
         "contentSnippet": "Upon his death, I gave Congressman John Dingell, the Royal Sendoff, MAXED OUT! His wife, Debbie Dingbat, called me and thanked me profusely, while crying uncontrollably. She couldn’t believe I would do such a nice thing! Since then, she says nothing but bad about your favorite President, ME! Every time I see that Third Rate Loser ripping me, I’m amazed, because I’m a loyal person, I don’t do things like that but, that’s OK — It’s Politics. However, it shouldn’t be that way! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/41543",
         "isoDate": "2026-09-06T18:44:52.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T10:23:03.552Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17998/cff849aa232a3ddb-ecf004d9f281.jpg"
+      ]
     },
     {
       "id": "https://trumpstruth.org/statuses/41555",
@@ -819,7 +843,7 @@
       "id": "https://www.trumpstruth.org/statuses/41555",
       "publishedAt": "2026-09-06T18:45:58.000Z",
       "title": "[No Title] - Post from September 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a graphic that highlights job creation statistics attributed to Donald Trump. It compares the expected number of jobs created in August, listed as 55,000, with the actual number, which is shown as 162,000 jobs. The expected figure is displayed in a red box, while the actual figure is in a green box, emphasizing the difference. The text states, \"Trump Creates 3x More Jobs than Expected in August.\"",
       "url": "https://www.trumpstruth.org/statuses/41555",
       "raw": {
         "creator": "",
@@ -831,7 +855,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41555",
         "isoDate": "2026-09-06T18:45:58.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T10:23:01.750Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18010/6a0a4045b4183a44-e3ce8deb81b6.jpg"
+      ]
     },
     {
       "id": "https://trumpstruth.org/statuses/41554",
@@ -935,7 +963,7 @@
       "id": "https://www.trumpstruth.org/statuses/41552",
       "publishedAt": "2026-09-06T18:47:58.000Z",
       "title": "[No Title] - Post from September 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a grid with various icons and text, highlighting claims about how \"Other Countries Cheat.\" The phrases include \"Cheap Money,\" \"Fake Sticker,\" \"Below Cost,\" \"Gov Pays Factory,\" \"Ban Our Food,\" \"Weird Test,\" \"Copy Us,\" and \"Cash Back.\" Each phrase is accompanied by a corresponding icon that visually represents the concept. The overall tone suggests a critical view of international trade practices.",
       "url": "https://www.trumpstruth.org/statuses/41552",
       "raw": {
         "creator": "",
@@ -947,7 +975,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41552",
         "isoDate": "2026-09-06T18:47:58.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T10:22:59.979Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18007/b2f3ca6dabbb0ab9-09dcdb4768cb.jpg"
+      ]
     },
     {
       "id": "https://trumpstruth.org/statuses/41551",
@@ -971,7 +1003,7 @@
       "id": "https://www.trumpstruth.org/statuses/41551",
       "publishedAt": "2026-09-06T18:48:30.000Z",
       "title": "[No Title] - Post from September 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a graphic discussing oil volumes in the Strait of Hormuz. It includes a map highlighting the location of the Strait, which is bordered by Iran and the United Arab Emirates. The text indicates that oil volumes have decreased from 20 million barrels per day to 18 million barrels per day, with a bold statement that \"Hormuz Oil Volumes are BACK!\" There are no publicly known people depicted in the image.",
       "url": "https://www.trumpstruth.org/statuses/41551",
       "raw": {
         "creator": "",
@@ -983,7 +1015,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41551",
         "isoDate": "2026-09-06T18:48:30.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T10:22:58.196Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18006/5f2a132bb34f6c6e-0413d83bb8f2.jpg"
+      ]
     },
     {
       "id": "https://trumpstruth.org/statuses/41558",
@@ -1007,7 +1043,7 @@
       "id": "https://www.trumpstruth.org/statuses/41558",
       "publishedAt": "2026-09-06T18:54:04.000Z",
       "title": "[No Title] - Post from September 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image displays a graph illustrating the decline in Iranian oil exports over time, with a prominent downward trend leading to a projected export level of zero by the third quarter of 2026. The graph is labeled with \"IRAN'S OIL EXPORTS ARE CRASHING!\" and features a red \"2,000\" at the top, indicating the previous export levels. The design includes a blue arrow pointing downwards, emphasizing the decrease in exports. There are no recognizable public figures in the image.",
       "url": "https://www.trumpstruth.org/statuses/41558",
       "raw": {
         "creator": "",
@@ -1019,7 +1055,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41558",
         "isoDate": "2026-09-06T18:54:04.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T10:22:56.175Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18013/bd3cac9bebacfa7a-0dfc89bddea7.jpg"
+      ]
     },
     {
       "id": "https://trumpstruth.org/statuses/41557",
@@ -1043,7 +1083,7 @@
       "id": "https://www.trumpstruth.org/statuses/41557",
       "publishedAt": "2026-09-06T18:54:13.000Z",
       "title": "[No Title] - Post from September 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image displays a graph illustrating hyperinflation in Iran, with the title \"IRAN HAS HYPERINFLATION\" prominently featured in red. The vertical axis represents the exchange rate of the Iranian rial to the US dollar, showing a significant increase from 0.9 million rials to 2.27 million rials per dollar over the specified time period from January 2025 to September 2026. The graph features a blue line indicating the rising trend of the exchange rate, with various data points plotted along the timeline.",
       "url": "https://www.trumpstruth.org/statuses/41557",
       "raw": {
         "creator": "",
@@ -1055,7 +1095,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41557",
         "isoDate": "2026-09-06T18:54:13.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T10:22:53.397Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18012/149739776239384c-dbb93f4663b3.jpg"
+      ]
     },
     {
       "id": "https://trumpstruth.org/statuses/41556",
@@ -1079,7 +1123,7 @@
       "id": "https://www.trumpstruth.org/statuses/41556",
       "publishedAt": "2026-09-06T18:54:21.000Z",
       "title": "[No Title] - Post from September 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image presents a graph illustrating the declining value of the Iranian rial against the US dollar from January 2025 to September 2026. The graph shows a downward trend, with the value dropping from approximately $1.20 to around $0.40. Annotations indicate significant points, including a projection that by August 2026, 2.27 million rials will equal one dollar. The title states, \"Iran's Currency is DESTROYED.\"",
       "url": "https://www.trumpstruth.org/statuses/41556",
       "raw": {
         "creator": "",
@@ -1091,7 +1135,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41556",
         "isoDate": "2026-09-06T18:54:21.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T10:22:51.511Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18011/fca623f3cb16faee-101c1872aa78.jpg"
+      ]
     },
     {
       "id": "https://trumpstruth.org/statuses/41560",
@@ -1115,7 +1163,7 @@
       "id": "https://www.trumpstruth.org/statuses/41560",
       "publishedAt": "2026-09-06T18:56:45.000Z",
       "title": "[No Title] - Post from September 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image depicts a military jet flying over a coastal area where an explosion is occurring. The scene shows large plumes of smoke and fire rising from what appears to be oil storage tanks on a small island. In the background, a ship is visible near the shore. The text \"Bye bye, Kharg\" is prominently displayed at the top of the image.",
       "url": "https://www.trumpstruth.org/statuses/41560",
       "raw": {
         "creator": "",
@@ -1127,13 +1175,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41560",
         "isoDate": "2026-09-06T18:56:45.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T10:23:37.816Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18015/6e22e5669a9f4e58-78df1bce102e.jpg"
+      ]
     },
     {
       "id": "https://trumpstruth.org/statuses/41559",
       "publishedAt": "2026-09-06T19:04:51.000Z",
       "title": "[No Title] - Post from September 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump standing prominently in the foreground, dressed in a suit with a long coat and a red tie. Behind him are two large robotic figures, resembling mechs, adorned with American flags and military insignia. The background includes a dramatic sky with a large, cracked moon and a silhouette of the U.S. Capitol building. The text at the bottom reads, \"THEY WILL DREAM OF US FOREVER.\" The overall tone of the image is dark and futuristic.",
       "url": "https://trumpstruth.org/statuses/41559",
       "raw": {
         "creator": "",
@@ -1145,13 +1197,17 @@
         "contentSnippet": "",
         "guid": "https://trumpstruth.org/statuses/41559",
         "isoDate": "2026-09-06T19:04:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T10:23:59.579Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18014/cb0720e72c68d53f-386319f252d3.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41559",
       "publishedAt": "2026-09-06T19:04:51.000Z",
       "title": "[No Title] - Post from September 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump standing prominently in the foreground, dressed in a suit with a long coat and a red tie. Behind him are two large robotic figures, resembling mechs, adorned with American flags and military insignia. The background includes a dramatic sky with a large, cracked moon and a silhouette of the U.S. Capitol building. The scene has a dark, futuristic aesthetic, and the text at the bottom reads, \"THEY WILL DREAM OF US FOREVER.\"",
       "url": "https://www.trumpstruth.org/statuses/41559",
       "raw": {
         "creator": "",
@@ -1163,13 +1219,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41559",
         "isoDate": "2026-09-06T19:04:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T10:23:36.215Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18014/cb0720e72c68d53f-386319f252d3.jpg"
+      ]
     },
     {
       "id": "https://trumpstruth.org/statuses/41562",
       "publishedAt": "2026-09-06T19:05:33.000Z",
       "title": "[No Title] - Post from September 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump seated on a large, imposing throne, surrounded by futuristic robotic figures and a fiery background. He is dressed in a suit and appears to be controlling a holographic interface with one hand. The text at the bottom reads \"GIVE THEM NIGHTMARES.\" The overall aesthetic is dark and sci-fi themed, emphasizing a powerful and commanding presence.",
       "url": "https://trumpstruth.org/statuses/41562",
       "raw": {
         "creator": "",
@@ -1181,7 +1241,11 @@
         "contentSnippet": "",
         "guid": "https://trumpstruth.org/statuses/41562",
         "isoDate": "2026-09-06T19:05:33.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T10:23:57.568Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18017/1809ae3756038b7e-666b8d2554f7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41562",
@@ -1524,6 +1588,24 @@
       }
     },
     {
+      "id": "https://www.trumpstruth.org/statuses/41570",
+      "publishedAt": "2026-09-06T21:34:05.000Z",
+      "title": "[No Title] - Post from September 6, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41570",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 6, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41570",
+        "pubDate": "Sun, 06 Sep 2026 21:34:05 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41570",
+        "isoDate": "2026-09-06T21:34:05.000Z"
+      }
+    },
+    {
       "id": "https://trumpstruth.org/statuses/41578",
       "publishedAt": "2026-09-06T23:07:17.000Z",
       "title": "“He is a great golfer, wins all the time, but an even better President!”",
@@ -1538,6 +1620,24 @@
         "content": "<p>“He is a great golfer, wins all the time, but an even better President!”</p>",
         "contentSnippet": "“He is a great golfer, wins all the time, but an even better President!”",
         "guid": "https://trumpstruth.org/statuses/41578",
+        "isoDate": "2026-09-06T23:07:17.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41578",
+      "publishedAt": "2026-09-06T23:07:17.000Z",
+      "title": "“He is a great golfer, wins all the time, but an even better President!”",
+      "text": "<p>“He is a great golfer, wins all the time, but an even better President!”</p>",
+      "url": "https://www.trumpstruth.org/statuses/41578",
+      "raw": {
+        "creator": "",
+        "title": "“He is a great golfer, wins all the time, but an even better President!”",
+        "link": "https://www.trumpstruth.org/statuses/41578",
+        "pubDate": "Sun, 06 Sep 2026 23:07:17 +0000",
+        "author": "",
+        "content": "<p>“He is a great golfer, wins all the time, but an even better President!”</p>",
+        "contentSnippet": "“He is a great golfer, wins all the time, but an even better President!”",
+        "guid": "https://www.trumpstruth.org/statuses/41578",
         "isoDate": "2026-09-06T23:07:17.000Z"
       }
     },
@@ -1560,6 +1660,24 @@
       }
     },
     {
+      "id": "https://www.trumpstruth.org/statuses/41577",
+      "publishedAt": "2026-09-06T23:07:52.000Z",
+      "title": "[No Title] - Post from September 6, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41577",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 6, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41577",
+        "pubDate": "Sun, 06 Sep 2026 23:07:52 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41577",
+        "isoDate": "2026-09-06T23:07:52.000Z"
+      }
+    },
+    {
       "id": "https://trumpstruth.org/statuses/41576",
       "publishedAt": "2026-09-06T23:08:26.000Z",
       "title": "[No Title] - Post from September 6, 2026",
@@ -1574,6 +1692,24 @@
         "content": "<p></p>",
         "contentSnippet": "",
         "guid": "https://trumpstruth.org/statuses/41576",
+        "isoDate": "2026-09-06T23:08:26.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41576",
+      "publishedAt": "2026-09-06T23:08:26.000Z",
+      "title": "[No Title] - Post from September 6, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41576",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 6, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41576",
+        "pubDate": "Sun, 06 Sep 2026 23:08:26 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41576",
         "isoDate": "2026-09-06T23:08:26.000Z"
       }
     },
@@ -1596,6 +1732,24 @@
       }
     },
     {
+      "id": "https://www.trumpstruth.org/statuses/41575",
+      "publishedAt": "2026-09-06T23:08:34.000Z",
+      "title": "[No Title] - Post from September 6, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41575",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 6, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41575",
+        "pubDate": "Sun, 06 Sep 2026 23:08:34 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41575",
+        "isoDate": "2026-09-06T23:08:34.000Z"
+      }
+    },
+    {
       "id": "https://trumpstruth.org/statuses/41574",
       "publishedAt": "2026-09-06T23:09:08.000Z",
       "title": "[No Title] - Post from September 6, 2026",
@@ -1610,6 +1764,24 @@
         "content": "<p></p>",
         "contentSnippet": "",
         "guid": "https://trumpstruth.org/statuses/41574",
+        "isoDate": "2026-09-06T23:09:08.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41574",
+      "publishedAt": "2026-09-06T23:09:08.000Z",
+      "title": "[No Title] - Post from September 6, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41574",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 6, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41574",
+        "pubDate": "Sun, 06 Sep 2026 23:09:08 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41574",
         "isoDate": "2026-09-06T23:09:08.000Z"
       }
     },
@@ -1632,6 +1804,24 @@
       }
     },
     {
+      "id": "https://www.trumpstruth.org/statuses/41573",
+      "publishedAt": "2026-09-06T23:09:17.000Z",
+      "title": "[No Title] - Post from September 6, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41573",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 6, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41573",
+        "pubDate": "Sun, 06 Sep 2026 23:09:17 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41573",
+        "isoDate": "2026-09-06T23:09:17.000Z"
+      }
+    },
+    {
       "id": "https://trumpstruth.org/statuses/41572",
       "publishedAt": "2026-09-06T23:09:27.000Z",
       "title": "[No Title] - Post from September 6, 2026",
@@ -1646,6 +1836,24 @@
         "content": "<p></p>",
         "contentSnippet": "",
         "guid": "https://trumpstruth.org/statuses/41572",
+        "isoDate": "2026-09-06T23:09:27.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41572",
+      "publishedAt": "2026-09-06T23:09:27.000Z",
+      "title": "[No Title] - Post from September 6, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41572",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 6, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41572",
+        "pubDate": "Sun, 06 Sep 2026 23:09:27 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41572",
         "isoDate": "2026-09-06T23:09:27.000Z"
       }
     },
@@ -1668,6 +1876,24 @@
       }
     },
     {
+      "id": "https://www.trumpstruth.org/statuses/41571",
+      "publishedAt": "2026-09-06T23:09:34.000Z",
+      "title": "[No Title] - Post from September 6, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41571",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 6, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41571",
+        "pubDate": "Sun, 06 Sep 2026 23:09:34 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41571",
+        "isoDate": "2026-09-06T23:09:34.000Z"
+      }
+    },
+    {
       "id": "https://trumpstruth.org/statuses/41579",
       "publishedAt": "2026-09-06T23:36:34.000Z",
       "title": "Many people suggested changing the name of New Mexico, one of the great vote cheating states of all time, to NEW AMERICA. So much more prestigious and beautiful for the people of that potentially incredible State. Wow, I Love It!!! President DONALD J. TRUMP",
@@ -1682,6 +1908,24 @@
         "content": "<p>Many people suggested changing the name of New Mexico, one of the great vote cheating states of all time, to NEW AMERICA. So much more prestigious and beautiful for the people of that potentially incredible State. Wow, I Love It!!! President DONALD J. TRUMP</p>",
         "contentSnippet": "Many people suggested changing the name of New Mexico, one of the great vote cheating states of all time, to NEW AMERICA. So much more prestigious and beautiful for the people of that potentially incredible State. Wow, I Love It!!! President DONALD J. TRUMP",
         "guid": "https://trumpstruth.org/statuses/41579",
+        "isoDate": "2026-09-06T23:36:34.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41579",
+      "publishedAt": "2026-09-06T23:36:34.000Z",
+      "title": "Many people suggested changing the name of New Mexico, one of the great vote cheating states of all time, to NEW AMERICA. So much more prestigious and beautiful for the people of that potentially incredible State. Wow, I Love It!!! President DONALD J. TRUMP",
+      "text": "<p>Many people suggested changing the name of New Mexico, one of the great vote cheating states of all time, to NEW AMERICA. So much more prestigious and beautiful for the people of that potentially incredible State. Wow, I Love It!!! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41579",
+      "raw": {
+        "creator": "",
+        "title": "Many people suggested changing the name of New Mexico, one of the great vote cheating states of all time, to NEW AMERICA. So much more prestigious and beautiful for the people of that potentially incredible State. Wow, I Love It!!! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41579",
+        "pubDate": "Sun, 06 Sep 2026 23:36:34 +0000",
+        "author": "",
+        "content": "<p>Many people suggested changing the name of New Mexico, one of the great vote cheating states of all time, to NEW AMERICA. So much more prestigious and beautiful for the people of that potentially incredible State. Wow, I Love It!!! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Many people suggested changing the name of New Mexico, one of the great vote cheating states of all time, to NEW AMERICA. So much more prestigious and beautiful for the people of that potentially incredible State. Wow, I Love It!!! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41579",
         "isoDate": "2026-09-06T23:36:34.000Z"
       }
     }
@@ -2226,6 +2470,66 @@
       "label": "neutral",
       "rationale": "The text is empty, providing no information or sentiment.",
       "analyzedAt": "2026-09-06T20:00:17.730Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41570",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no information or sentiment.",
+      "analyzedAt": "2026-09-07T10:24:54.506Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41571",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no information or sentiment.",
+      "analyzedAt": "2026-09-07T10:24:54.506Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41572",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no information or sentiment.",
+      "analyzedAt": "2026-09-07T10:24:54.506Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41573",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no information or sentiment.",
+      "analyzedAt": "2026-09-07T10:24:54.506Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41574",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no information or sentiment.",
+      "analyzedAt": "2026-09-07T10:24:54.506Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41575",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no information or sentiment.",
+      "analyzedAt": "2026-09-07T10:24:54.506Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41576",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no information or sentiment.",
+      "analyzedAt": "2026-09-07T10:24:54.506Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41577",
+      "label": "neutral",
+      "rationale": "The text is empty, providing no information or sentiment.",
+      "analyzedAt": "2026-09-07T10:24:54.506Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41578",
+      "label": "positive",
+      "rationale": "The text praises someone as 'a great golfer' and 'an even better President', indicating a strong positive sentiment.",
+      "analyzedAt": "2026-09-07T10:24:54.506Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41579",
+      "label": "positive",
+      "rationale": "The text expresses enthusiasm and admiration for the idea of renaming New Mexico to 'NEW AMERICA', describing it as 'prestigious and beautiful' and concludes with 'Wow, I Love It!!!', indicating a strong positive sentiment.",
+      "analyzedAt": "2026-09-07T10:24:54.506Z"
     }
   ]
 }

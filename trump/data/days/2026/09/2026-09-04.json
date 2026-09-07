@@ -6,7 +6,7 @@
     "negative": 8
   },
   "summary": "positive:22 neutral:16 negative:8",
-  "generatedAt": "2026-09-07T08:02:18.285Z",
+  "generatedAt": "2026-09-07T10:22:35.442Z",
   "topics": [
     "Announces Adam Telle as Acting Secretary of the Army",
     "Reports on job growth and economic performance",
@@ -51,7 +51,7 @@
       "id": "https://www.trumpstruth.org/statuses/41503",
       "publishedAt": "2026-09-04T01:02:09.000Z",
       "title": "[No Title] - Post from September 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is a letter addressed to Donald Trump from Chuck Grassley. In the letter, Grassley requests that Trump advocate for American farmers in a manner similar to his actions regarding pharmaceutical products. He discusses the unfair pricing American farmers face compared to those in Brazil, particularly concerning seed fertilizer and chemicals. Grassley urges Trump to address this issue and expresses gratitude on behalf of American farmers.",
       "url": "https://www.trumpstruth.org/statuses/41503",
       "raw": {
         "creator": "",
@@ -63,7 +63,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41503",
         "isoDate": "2026-09-04T01:02:09.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T10:22:35.224Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17978/53474fab127fedbf-54e2f8b752cc.jpg"
+      ]
     },
     {
       "id": "https://trumpstruth.org/statuses/41502",
@@ -271,7 +275,7 @@
       "id": "https://www.trumpstruth.org/statuses/41505",
       "publishedAt": "2026-09-04T11:05:36.000Z",
       "title": "[No Title] - Post from September 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image shows a group of people standing on a balcony at the White House. Donald Trump is prominently featured, wearing a red tie and a dark suit. Next to him is King Charles III, dressed in a blue suit, and Camilla, Queen Consort, in a light-colored outfit and hat. Also present is Melania Trump, wearing a white outfit. The background includes flags and the presidential seal.",
       "url": "https://www.trumpstruth.org/statuses/41505",
       "raw": {
         "creator": "",
@@ -283,7 +287,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41505",
         "isoDate": "2026-09-04T11:05:36.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T10:22:32.718Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17979/ed5a73572dada74c-6f6aaff6bcb1.jpg"
+      ]
     },
     {
       "id": "https://trumpstruth.org/statuses/41506",

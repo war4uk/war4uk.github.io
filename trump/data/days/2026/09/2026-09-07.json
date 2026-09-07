@@ -1,12 +1,12 @@
 {
   "date": "2026-09-07",
   "counts": {
-    "positive": 5,
-    "neutral": 10,
+    "positive": 10,
+    "neutral": 20,
     "negative": 0
   },
-  "summary": "positive:5 neutral:10 negative:0",
-  "generatedAt": "2026-09-07T08:02:22.547Z",
+  "summary": "positive:10 neutral:20 negative:0",
+  "generatedAt": "2026-09-07T10:25:12.237Z",
   "topics": [
     "Trump headlines GOP convention in Dallas and focuses on Texas Senate race",
     "Trump celebrates strong job gains and calls for lower interest rates",
@@ -29,7 +29,7 @@
       "id": "https://trumpstruth.org/statuses/41580",
       "publishedAt": "2026-09-07T00:30:00.000Z",
       "title": "[No Title] - Post from September 7, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image depicts Donald Trump standing on a naval ship, facing away from the camera. He appears to be observing a dramatic scene in the ocean where multiple explosions and smoke are visible, suggesting a military engagement. Several other figures in military attire are present in the background, also looking towards the explosions. The overall atmosphere conveys a sense of chaos and intensity.",
       "url": "https://trumpstruth.org/statuses/41580",
       "raw": {
         "creator": "",
@@ -41,13 +41,17 @@
         "contentSnippet": "",
         "guid": "https://trumpstruth.org/statuses/41580",
         "isoDate": "2026-09-07T00:30:00.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T10:25:02.410Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18035/cf42cd00314e8c38-c599c27a808a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41580",
       "publishedAt": "2026-09-07T00:30:00.000Z",
       "title": "[No Title] - Post from September 7, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image depicts Donald Trump standing on a naval ship, facing away from the viewer. He appears to be observing a dramatic scene in the ocean where multiple explosions and smoke are rising from several ships. The background shows a chaotic maritime environment, suggesting a military conflict or exercise. Several figures in military attire are visible in the foreground, adding to the intense atmosphere of the scene.",
       "url": "https://www.trumpstruth.org/statuses/41580",
       "raw": {
         "creator": "",
@@ -59,7 +63,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41580",
         "isoDate": "2026-09-07T00:30:00.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T10:25:06.545Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18035/cf42cd00314e8c38-c599c27a808a.jpg"
+      ]
     },
     {
       "id": "https://trumpstruth.org/statuses/41587",
@@ -656,6 +664,96 @@
       "label": "neutral",
       "rationale": "The text is a retweet of a statement without any sentiment expressed.",
       "analyzedAt": "2026-09-07T04:00:28.185Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41580",
+      "label": "neutral",
+      "rationale": "The text describes an image without expressing a clear sentiment.",
+      "analyzedAt": "2026-09-07T10:25:12.231Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41581",
+      "label": "neutral",
+      "rationale": "The text discusses a political issue without expressing a clear sentiment.",
+      "analyzedAt": "2026-09-07T10:25:12.231Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41582",
+      "label": "neutral",
+      "rationale": "The text reports on a request for a probe without expressing a personal sentiment.",
+      "analyzedAt": "2026-09-07T10:25:12.231Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41583",
+      "label": "positive",
+      "rationale": "The text expresses approval of a strong jobs report and calls for lower interest rates, indicating a positive economic sentiment.",
+      "analyzedAt": "2026-09-07T10:25:12.231Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41584",
+      "label": "neutral",
+      "rationale": "The text discusses a political issue without expressing a clear sentiment.",
+      "analyzedAt": "2026-09-07T10:25:12.231Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41585",
+      "label": "neutral",
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-07T10:25:12.231Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41586",
+      "label": "neutral",
+      "rationale": "The text reports on an event without expressing a personal sentiment.",
+      "analyzedAt": "2026-09-07T10:25:12.231Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41587",
+      "label": "positive",
+      "rationale": "The text highlights positive job gains for women since Trump took office, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-07T10:25:12.231Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41588",
+      "label": "positive",
+      "rationale": "The text expresses admiration for Congressman Jim Jordan and highlights his qualities.",
+      "analyzedAt": "2026-09-07T10:25:12.231Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41589",
+      "label": "neutral",
+      "rationale": "The text reports on an event without expressing a personal sentiment.",
+      "analyzedAt": "2026-09-07T10:25:12.231Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41590",
+      "label": "neutral",
+      "rationale": "The text is a statement about a quote and does not convey a clear sentiment.",
+      "analyzedAt": "2026-09-07T10:25:12.231Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41591",
+      "label": "positive",
+      "rationale": "The text praises Victor Davis Hanson's book and expresses a positive view of the current state of the USA under MAGA.",
+      "analyzedAt": "2026-09-07T10:25:12.231Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41592",
+      "label": "neutral",
+      "rationale": "The text is a continuation of a previous statement and does not provide additional sentiment.",
+      "analyzedAt": "2026-09-07T10:25:12.231Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41593",
+      "label": "positive",
+      "rationale": "The text expresses strong support and endorsement for James Uthmeier, highlighting his qualities and achievements.",
+      "analyzedAt": "2026-09-07T10:25:12.231Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41594",
+      "label": "neutral",
+      "rationale": "The text is a retweet and does not express a clear sentiment.",
+      "analyzedAt": "2026-09-07T10:25:12.231Z"
     }
   ]
 }
