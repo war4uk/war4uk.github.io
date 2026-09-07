@@ -6,19 +6,24 @@
     "negative": 1
   },
   "summary": "positive:4 neutral:5 negative:1",
-  "generatedAt": "2026-09-05T19:56:03.948Z",
+  "generatedAt": "2026-09-07T19:51:41.593Z",
   "topics": [
-    "Lindsey Graham's passing and tributes",
-    "Donald Trump's statements on Graham"
+    "Shares images of Air Force One, F-22 Raptors, and stealth aircraft in flight",
+    "Mourns Senator Lindsey Graham’s death and orders American flags lowered nationwide",
+    "Mocks Hillary Clinton, Joe Biden, and Kamala Harris as election losers"
   ],
-  "trendingTopic": "Lindsey Graham honored by President Trump following his passing",
+  "trendingTopic": "Shares images of Air Force One, F-22 Raptors, and stealth aircraft in flight",
   "secondaryHighlights": [
     {
-      "topic": "Trump expresses gratitude to Ben Domenech"
+      "topic": "Mourns Senator Lindsey Graham’s death and orders American flags lowered nationwide",
+      "name": "Lindsey Graham"
+    },
+    {
+      "topic": "Mocks Hillary Clinton, Joe Biden, and Kamala Harris as election losers"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v3:10:3df4d231cf19c87a32082e72",
+  "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v10:10:3df4d231cf19c87a32082e72",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39956",
@@ -78,7 +83,7 @@
       "id": "https://www.trumpstruth.org/statuses/39959",
       "publishedAt": "2026-07-12T19:54:02.000Z",
       "title": "[No Title] - Post from July 12, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A digitally rendered portrait shows Hillary Clinton, Joe Biden, and Kamala Harris smiling shoulder to shoulder. All three wear red baseball caps bearing the phrase “I lost to Trump.” Clinton wears pearls and a light top, while Biden and Harris wear dark suits with white shirts; Biden also wears a blue tie.",
       "url": "https://www.trumpstruth.org/statuses/39959",
       "raw": {
         "creator": "",
@@ -90,13 +95,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39959",
         "isoDate": "2026-07-12T19:54:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:26:28.943Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17118/b95c1e1eae271803.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39962",
       "publishedAt": "2026-07-12T19:55:13.000Z",
       "title": "[No Title] - Post from July 12, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A white Boeing 747 marked “United States of America” flies over a rugged coastal landscape and surrounding blue waters. The aircraft bears an American flag and presidential seal, and is accompanied by four gray F-22 Raptor fighter jets in formation. Islands, peninsulas, roads, and scattered buildings are visible below.",
       "url": "https://www.trumpstruth.org/statuses/39962",
       "raw": {
         "creator": "",
@@ -108,13 +117,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39962",
         "isoDate": "2026-07-12T19:55:13.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:26:25.878Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17121/945f7a37d720dd28.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39961",
       "publishedAt": "2026-07-12T19:55:22.000Z",
       "title": "[No Title] - Post from July 12, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Two aircraft are silhouetted against a vivid pink and magenta cloud-filled sky. A large flying-wing aircraft is near the upper right, while a smaller swept-wing aircraft flies lower on the left. A tall, pointed dark structure rises along the right edge of the image.",
       "url": "https://www.trumpstruth.org/statuses/39961",
       "raw": {
         "creator": "",
@@ -126,13 +139,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39961",
         "isoDate": "2026-07-12T19:55:22.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:26:22.202Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17120/7c759fd645ad7d5f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39960",
       "publishedAt": "2026-07-12T19:55:29.000Z",
       "title": "[No Title] - Post from July 12, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A dark stealth fighter jet climbs steeply through a cloudy sky, viewed from below and behind. Its angular wings, twin tail fins, twin engine exhausts, and open internal weapon bays are visible. Orange afterburner flames glow at the rear, while thin vapor or contrail lines extend outward from the aircraft.",
       "url": "https://www.trumpstruth.org/statuses/39960",
       "raw": {
         "creator": "",
@@ -144,7 +161,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39960",
         "isoDate": "2026-07-12T19:55:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:26:19.875Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17119/e78bd9bb0ca85f98.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39964",
@@ -262,5 +283,6 @@
       "rationale": "The text is a link to a YouTube video without any sentiment expressed.",
       "analyzedAt": "2026-09-05T07:59:40.268Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:10:3df4d231cf19c87a32082e72"
 }

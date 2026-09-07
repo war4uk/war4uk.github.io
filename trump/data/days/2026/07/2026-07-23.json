@@ -6,27 +6,24 @@
     "negative": 0
   },
   "summary": "positive:4 neutral:6 negative:0",
-  "generatedAt": "2026-09-05T19:56:53.323Z",
+  "generatedAt": "2026-09-07T19:55:05.177Z",
   "topics": [
-    "Rick Jackson wins Georgia Governor primary",
-    "Tim Fleming endorsed for Georgia Secretary of State",
-    "Greg Dolezal endorsed for Georgia Lieutenant Governor"
+    "Endorses and supports four Georgia Republicans for statewide offices",
+    "Discusses Cyprus energy ties, Saudi civil nuclear cooperation, Houthi conduct, and Iranian liability for shipping damage",
+    "House panel refers Jack Smith to DOJ for allegedly lying to Congress"
   ],
-  "trendingTopic": "Rick Jackson secures victory in Georgia Governor primary with strong support",
-  "trendingName": "Rick Jackson",
+  "trendingTopic": "Endorses four Georgia Republicans for attorney general, secretary of state, lieutenant governor, and governor",
   "secondaryHighlights": [
     {
-      "topic": "Tim Fleming endorsed for Secretary of State of Georgia"
+      "topic": "Discusses Cyprus energy ties, Saudi civil nuclear cooperation, Houthi conduct, and Iranian liability for shipping damage"
     },
     {
-      "topic": "Greg Dolezal endorsed for Lieutenant Governor of Georgia"
-    },
-    {
-      "topic": "Brian Strickland endorsed for Attorney General of Georgia"
+      "topic": "House panel refers Jack Smith to DOJ for allegedly lying to Congress",
+      "name": "Jack Smith"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v3:10:96ec70e513e4f3b908c48461",
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:10:96ec70e513e4f3b908c48461",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40215",
@@ -270,5 +267,6 @@
       "rationale": "The endorsement of Brian Strickland is presented positively, highlighting his proven leadership and commitment to law and order, with a strong assurance of his future performance.",
       "analyzedAt": "2026-09-05T08:02:08.859Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:10:96ec70e513e4f3b908c48461"
 }

@@ -6,19 +6,27 @@
     "negative": 8
   },
   "summary": "positive:4 neutral:17 negative:8",
-  "generatedAt": "2026-09-06T06:03:30.982Z",
+  "generatedAt": "2026-09-07T19:45:11.496Z",
   "topics": [
-    "Supports candidates in South Carolina's Republican runoff election",
-    "Comments on Iran's military capabilities and political situation"
+    "Trump touts Iran's military defeat as the U.S.-Iran agreement wins support for further talks",
+    "UFC Freedom 250 event staged at the White House with fighter jets and a combat-sports cage",
+    "South Carolina Republicans head toward the June 23 gubernatorial runoff"
   ],
-  "trendingTopic": "Supports candidates in South Carolina's Republican runoff election",
+  "trendingTopic": "Trump touts Iran's military defeat as the U.S.-Iran agreement wins support for further talks",
   "secondaryHighlights": [
     {
-      "topic": "Comments on Iran's military capabilities and political situation"
+      "topic": "UFC Freedom 250 event staged at the White House with fighter jets and a combat-sports cage"
+    },
+    {
+      "topic": "South Carolina Republicans head toward the June 23 gubernatorial runoff"
+    },
+    {
+      "topic": "Praises Senator Lindsey Graham as a strong leader for South Carolina",
+      "name": "Lindsey Graham"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v8:29:79ee14452f76e6bd50c36bca",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:29:79ee14452f76e6bd50c36bca",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39356",
@@ -456,7 +464,7 @@
       "id": "https://www.trumpstruth.org/statuses/39380",
       "publishedAt": "2026-06-19T15:10:09.000Z",
       "title": "[No Title] - Post from June 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of an X post by Senator Lindsey Graham says he agrees with Donald Trump’s analysis that Iran’s military capability and economy have been severely weakened. Graham urges President Trump to pursue diplomacy while warning that Israel should not have to tolerate attacks by Iranian proxies. An embedded post by Donald Trump makes similar claims about Iran’s military.",
       "url": "https://www.trumpstruth.org/statuses/39380",
       "raw": {
         "creator": "",
@@ -468,7 +476,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39380",
         "isoDate": "2026-06-19T15:10:09.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:39:35.432Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16753/a140c1ad9dc720d6.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39381",
@@ -492,7 +504,7 @@
       "id": "https://www.trumpstruth.org/statuses/39382",
       "publishedAt": "2026-06-19T18:24:50.000Z",
       "title": "Very popular agreement, except for the Fake News and their partner, the Dumocrats!",
-      "text": "<p>Very popular agreement, except for the Fake News and their partner, the Dumocrats!</p>",
+      "text": "<p>Very popular agreement, except for the Fake News and their partner, the Dumocrats!</p>\n\n[Image] A Quantus Insights poll graphic asks 1,000 likely voters whether they approve of a preliminary U.S.-Iran agreement to stop hostilities, reopen shipping through the Strait of Hormuz, and begin 60 days of nuclear and sanctions talks. Results from June 16–17, 2026: 43% strongly approve, 13% somewhat approve, 16% neither, 15% unsure, 8% strongly disapprove, and 5% somewhat disapprove.",
       "url": "https://www.trumpstruth.org/statuses/39382",
       "raw": {
         "creator": "",
@@ -504,7 +516,11 @@
         "contentSnippet": "Very popular agreement, except for the Fake News and their partner, the Dumocrats!",
         "guid": "https://www.trumpstruth.org/statuses/39382",
         "isoDate": "2026-06-19T18:24:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:39:32.805Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16754/f2b187e1025c32e6.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39383",
@@ -528,7 +544,7 @@
       "id": "https://www.trumpstruth.org/statuses/39384",
       "publishedAt": "2026-06-19T21:47:41.000Z",
       "title": "[No Title] - Post from June 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A large outdoor event is staged on the South Lawn of the White House at dusk. An octagonal combat-sports cage occupies the foreground, surrounded by a dense crowd, flags, and video screens. Fighter jets fly overhead in formation, leaving white smoke trails, while blue and red stage lighting illuminates the building and spectators.",
       "url": "https://www.trumpstruth.org/statuses/39384",
       "raw": {
         "creator": "",
@@ -540,7 +556,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39384",
         "isoDate": "2026-06-19T21:47:41.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:39:30.077Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16755/4717b39f7a14c5a6.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -718,5 +738,6 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:37:05.243Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:29:79ee14452f76e6bd50c36bca"
 }

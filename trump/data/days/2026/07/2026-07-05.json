@@ -6,30 +6,30 @@
     "negative": 10
   },
   "summary": "positive:23 neutral:67 negative:10",
-  "generatedAt": "2026-09-05T20:02:55.933Z",
+  "generatedAt": "2026-09-07T19:50:03.982Z",
   "topics": [
-    "Justin Gaethje wins UFC World Championship",
-    "Massive crowd at White House event despite weather",
-    "Spectacular fireworks show praised by Trump"
+    "Trump administration showcases restored Washington monuments, clear Reflecting Pool, and beautified public spaces",
+    "Freedom 250 celebrations feature fireworks, military ceremonies, and massive crowds in Washington",
+    "Trump warns communism is America’s greatest threat in Faith & Freedom Coalition speech"
   ],
-  "trendingTopic": "Justin Gaethje celebrated at the White House after winning the UFC World Championship",
-  "trendingName": "Justin Gaethje",
+  "trendingTopic": "Trump administration showcases restored Washington monuments, clear Reflecting Pool, and beautified public spaces",
   "secondaryHighlights": [
     {
-      "topic": "Massive crowd at White House event despite weather"
+      "topic": "Trump promotes Pennsylvania investments, manufacturing jobs, and an American industrial revival"
     },
     {
-      "topic": "Spectacular fireworks show praised by Trump"
+      "topic": "Judge Sparkle Sooknanan blocks Trump administration access to citizenship data for voter checks",
+      "name": "Sparkle Sooknanan"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v3:100:a2d20af234ee193ec5acff7d",
+  "selfPraiseCount": 10,
+  "topicsCacheKey": "day-themes-v10:100:a2d20af234ee193ec5acff7d",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39724",
       "publishedAt": "2026-07-05T15:15:51.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post by Buzz Patterson titled “Tyranny of the Judiciary. Let’s talk about it.” It claims judges blocked presidential policies 6 times under George W. Bush, 12 under Barack Obama, 75 during Donald Trump’s first term, 21 under Joe Biden, and 169 during Donald Trump’s second term. A bar chart presents the same figures, updated June 2026.",
       "url": "https://www.trumpstruth.org/statuses/39724",
       "raw": {
         "creator": "",
@@ -41,13 +41,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39724",
         "isoDate": "2026-07-05T15:15:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:22:32.713Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16920/400917d7cba892c4.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39723",
       "publishedAt": "2026-07-05T15:16:03.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a Geiger Capital post on X says that England was once a great empire but later became a deindustrialized welfare state, attributing decline to weak leaders and excessive empathy. An embedded post references King George V’s last words and seven prime ministers in ten years. It includes a portrait of King George V and a large funeral procession.",
       "url": "https://www.trumpstruth.org/statuses/39723",
       "raw": {
         "creator": "",
@@ -59,13 +63,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39723",
         "isoDate": "2026-07-05T15:16:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:22:29.705Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16919/0acbc9fbac7dc30f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39722",
       "publishedAt": "2026-07-05T15:16:13.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post by Carl DeMaio, identified as a California State Assemblymember, claims that California Democrats will raise healthcare premiums, with some increasing by 97%, while providing free coverage to illegal immigrants. An attached press release dated June 22, 2026, repeats the claim and cites $2.5 billion in lost subsidies and $425 family premium increases.",
       "url": "https://www.trumpstruth.org/statuses/39722",
       "raw": {
         "creator": "",
@@ -77,7 +85,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39722",
         "isoDate": "2026-07-05T15:16:13.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:22:26.494Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16918/63f70adb21640a25.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39721",
@@ -101,7 +113,7 @@
       "id": "https://www.trumpstruth.org/statuses/39720",
       "publishedAt": "2026-07-05T15:18:03.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868031697482283</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868031697482283</span></p>\n\n[Image] A screenshot of a post by Nick Sortor on X claims that foreign-born federal judge Sparkle Sooknanan barred the Trump administration from checking citizenship data for voters, citing the Associated Press. The post says Democrats fear undocumented people will be unable to vote, calls the database a tool to purge illegal voters, and urges taking the matter to the Supreme Court.",
       "url": "https://www.trumpstruth.org/statuses/39720",
       "raw": {
         "creator": "",
@@ -113,13 +125,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868031697482283",
         "guid": "https://www.trumpstruth.org/statuses/39720",
         "isoDate": "2026-07-05T15:18:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:22:23.110Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16916/e3ae04d99d579651.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39719",
       "publishedAt": "2026-07-05T15:18:15.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868034274777966</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868034274777966</span></p>\n\n[Image] Two screenshots of social media posts discuss Judge Sparkle Sooknanan. The first says there should be no judge by that name in America. The second, posted by Nick Sortor, claims that foreign-born Judge Sooknanan barred the Donald Trump administration from accessing citizenship data for voter checks and says the matter should reach the Supreme Court.",
       "url": "https://www.trumpstruth.org/statuses/39719",
       "raw": {
         "creator": "",
@@ -131,13 +147,18 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868034274777966",
         "guid": "https://www.trumpstruth.org/statuses/39719",
         "isoDate": "2026-07-05T15:18:15.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:22:19.850Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16915/4a7e7a0217ae55ae.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16916/e3ae04d99d579651.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39718",
       "publishedAt": "2026-07-05T15:18:37.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a social-media post by Gunther Eagleman claims that judge Sparkle Sooknanan, described as born in Trinidad, blocked Donald Trump’s effort to prevent undocumented immigrants from voting. The post shows a smiling woman in a black judicial robe seated at a courtroom bench, with a microphone and American flag behind her.",
       "url": "https://www.trumpstruth.org/statuses/39718",
       "raw": {
         "creator": "",
@@ -149,13 +170,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39718",
         "isoDate": "2026-07-05T15:18:37.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:22:16.632Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16914/dc89330a132e4383.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39717",
       "publishedAt": "2026-07-05T15:18:49.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of an X post by Jesse Kelly quotes Just the News about a district judge blocking use of a federal database to check citizenship, citing concerns that it could wrongly purge voters. The post includes an Associated Press-style graphic and a photograph of a smiling woman in a black judicial robe seated near a microphone, with part of an American flag visible behind her.",
       "url": "https://www.trumpstruth.org/statuses/39717",
       "raw": {
         "creator": "",
@@ -167,7 +192,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39717",
         "isoDate": "2026-07-05T15:18:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:22:11.894Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16913/5337b56c98ea8cb9.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39716",
@@ -191,7 +220,7 @@
       "id": "https://www.trumpstruth.org/statuses/39715",
       "publishedAt": "2026-07-05T15:19:37.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868038705921716</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868038705921716</span></p>\n\n[Image] A social media post from the verified “America” account, featuring a U.S. flag icon and the handle @america, states: “DOJ announces charges against 455 defendants across 45 states and territories over $6.5 billion in healthcare fraud schemes.” An options menu icon appears in the upper-right corner.",
       "url": "https://www.trumpstruth.org/statuses/39715",
       "raw": {
         "creator": "",
@@ -203,13 +232,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868038705921716",
         "guid": "https://www.trumpstruth.org/statuses/39715",
         "isoDate": "2026-07-05T15:19:37.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:22:08.292Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16911/b72329f786898d8e.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39714",
       "publishedAt": "2026-07-05T15:19:47.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868040466267706</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868040466267706</span></p>\n\n[Image] Two screenshots of social-media posts discuss a U.S. Department of Justice healthcare fraud announcement. Senator Tom Cotton writes that prosecuting and, if possible, deporting the alleged scammers is an important administration victory, claiming they mostly came from abroad and stole from Arkansas taxpayers and vulnerable Americans. A second post says charges were filed against 455 defendants in 45 states and territories over schemes involving more than $6.5 billion.",
       "url": "https://www.trumpstruth.org/statuses/39714",
       "raw": {
         "creator": "",
@@ -221,13 +254,18 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868040466267706",
         "guid": "https://www.trumpstruth.org/statuses/39714",
         "isoDate": "2026-07-05T15:19:47.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:22:05.417Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16910/4699af6a84a0823c.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16911/b72329f786898d8e.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39713",
       "publishedAt": "2026-07-05T15:19:59.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a U.S. Department of Justice post reports that an alleged leader of an Antifa cell in North Texas was sentenced to 100 years in prison, with seven others receiving combined sentences of 450 years. The attached surveillance images show nighttime explosions at a facility, a vandalized guard building, and a white van with a damaged tire.",
       "url": "https://www.trumpstruth.org/statuses/39713",
       "raw": {
         "creator": "",
@@ -239,13 +277,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39713",
         "isoDate": "2026-07-05T15:19:59.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:22:01.730Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16909/7affac22aab3d1e2.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39712",
       "publishedAt": "2026-07-05T15:20:11.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A social media post from End Wokeness claims that “Antifa members” involved in an anti-ICE plot in Texas received 450 years in prison combined. It shows a 10-person grid of booking-style portraits, plus black-and-white images of anarchist literature, tactical equipment, and ammunition magazines. The post is dated June 23, 2026, and shows 1.2 million views.",
       "url": "https://www.trumpstruth.org/statuses/39712",
       "raw": {
         "creator": "",
@@ -257,7 +299,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39712",
         "isoDate": "2026-07-05T15:20:11.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:21:58.399Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16908/ed75d01baa245c06.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39733",
@@ -389,7 +435,7 @@
       "id": "https://www.trumpstruth.org/statuses/39735",
       "publishedAt": "2026-07-05T15:34:19.000Z",
       "title": "Loser George Conway got crushed!",
-      "text": "<p>Loser George Conway got crushed!</p>",
+      "text": "<p>Loser George Conway got crushed!</p>\n\n[Image] An Associated Press results graphic for the New York 12th Congressional District Democratic primary says Micah C. Lasher won with 39,321 votes, or 39.0%, with 85% reporting. Alex Bores placed second, followed by Jack Kennedy Schlossberg, Nina Schwalbe, George Conway, and Laura Dunn. The text mentions Donald Trump and identifies Conway as an anti-Trump pundit.",
       "url": "https://www.trumpstruth.org/statuses/39735",
       "raw": {
         "creator": "",
@@ -401,7 +447,11 @@
         "contentSnippet": "Loser George Conway got crushed!",
         "guid": "https://www.trumpstruth.org/statuses/39735",
         "isoDate": "2026-07-05T15:34:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:21:53.461Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16924/b1205881138a6925.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39734",
@@ -479,7 +529,7 @@
       "id": "https://www.trumpstruth.org/statuses/39738",
       "publishedAt": "2026-07-05T15:38:12.000Z",
       "title": "Three-story tall banners of POTUS and George Washington have been hung on the front of the Department of the Interior building. The wording above Washington is “America’s First” in reference to him being America’s first president. The wording above President Trump is “America First”—which needs no explanation!",
-      "text": "<p>Three-story tall banners of POTUS and George Washington have been hung on the front of the Department of the Interior building. The wording above Washington is “America’s First” in reference to him being America’s first president. The wording above President Trump is “America First”—which needs no explanation!</p>",
+      "text": "<p>Three-story tall banners of POTUS and George Washington have been hung on the front of the Department of the Interior building. The wording above Washington is “America’s First” in reference to him being America’s first president. The wording above President Trump is “America First”—which needs no explanation!</p>\n\n[Image] The facade of the U.S. Department of the Interior is shown with two large vertical banners. The left banner depicts George Washington beneath the words “America’s First,” while the right depicts Donald Trump with the same wording. The neoclassical stone building has rows of windows, columns, and an inscription identifying the department.",
       "url": "https://www.trumpstruth.org/statuses/39738",
       "raw": {
         "creator": "",
@@ -491,7 +541,11 @@
         "contentSnippet": "Three-story tall banners of POTUS and George Washington have been hung on the front of the Department of the Interior building. The wording above Washington is “America’s First” in reference to him being America’s first president. The wording above President Trump is “America First”—which needs no explanation!",
         "guid": "https://www.trumpstruth.org/statuses/39738",
         "isoDate": "2026-07-05T15:38:12.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:21:49.198Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16925/ffe606f7d02d06c4.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39737",
@@ -515,7 +569,7 @@
       "id": "https://www.trumpstruth.org/statuses/39743",
       "publishedAt": "2026-07-05T15:41:29.000Z",
       "title": "White House Renovation: Some more photos of the North Portico project. Big Stuff!",
-      "text": "<p>White House Renovation: Some more photos of the North Portico project. Big Stuff!</p>",
+      "text": "<p>White House Renovation: Some more photos of the North Portico project. Big Stuff!</p>\n\n[Image] Three photos show construction workers restoring an ornate white building. In the first, several workers in hard hats work around extensive yellow scaffolding, tools, and ladders. The second shows a worker wearing gloves and a bright helmet applying plaster around a column base. In the third, workers measure and install trim beside a large column.",
       "url": "https://www.trumpstruth.org/statuses/39743",
       "raw": {
         "creator": "",
@@ -527,13 +581,19 @@
         "contentSnippet": "White House Renovation: Some more photos of the North Portico project. Big Stuff!",
         "guid": "https://www.trumpstruth.org/statuses/39743",
         "isoDate": "2026-07-05T15:41:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:21:46.275Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16928/58e4feda82ca04c0.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16929/dcff86cfea032e9b.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16930/f64a52835127e7bd.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39742",
       "publishedAt": "2026-07-05T15:43:36.000Z",
       "title": "From Greg Wischer at the United States Department of the Interior: “Photo just taken of the Reflecting Pool. As you can see, the water is crystal clear.”",
-      "text": "<p>From Greg Wischer at the United States Department of the Interior: “Photo just taken of the Reflecting Pool. As you can see, the water is crystal clear.”</p>",
+      "text": "<p>From Greg Wischer at the United States Department of the Interior: “Photo just taken of the Reflecting Pool. As you can see, the water is crystal clear.”</p>\n\n[Image] Two views of the Lincoln Memorial Reflecting Pool on the National Mall in Washington, D.C. The Washington Monument rises at the far end, reflected in the rippling blue water. Tree-lined paths, scattered visitors, a sunny blue sky, and nearby maintenance equipment frame the scene. One view looks along the pool’s edge, while the other faces the monument directly.",
       "url": "https://www.trumpstruth.org/statuses/39742",
       "raw": {
         "creator": "",
@@ -545,13 +605,18 @@
         "contentSnippet": "From Greg Wischer at the United States Department of the Interior: “Photo just taken of the Reflecting Pool. As you can see, the water is crystal clear.”",
         "guid": "https://www.trumpstruth.org/statuses/39742",
         "isoDate": "2026-07-05T15:43:36.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:21:43.275Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16926/d49b022485210b7c.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16927/77173349ee7d46d7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39746",
       "publishedAt": "2026-07-05T15:46:25.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Four views show a large, highly polished gold-colored sculpture depicting several muscular, bearded classical figures alongside a horse. One figure raises an arm while another faces forward, and a close-up emphasizes the detailed hair and facial features. The sculpture is installed indoors beneath a wooden roof, surrounded by metal scaffolding and construction platforms.",
       "url": "https://www.trumpstruth.org/statuses/39746",
       "raw": {
         "creator": "",
@@ -563,13 +628,20 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39746",
         "isoDate": "2026-07-05T15:46:25.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:21:40.486Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16936/ad24b9d957172829.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16937/ae7cac3bc6871e7b.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16938/0d561bb9110fd25b.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16939/a1985d10e5786897.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39745",
       "publishedAt": "2026-07-05T15:47:45.000Z",
       "title": "The regilding of the sculpture “Valor” is complete, and the regilding of the sculpture “Sacrifice” is rapidly progressing. After “Sacrifice” is regilded, regilding work will begin on the two Arts of Peace sculptures— Each of which is also 19-feet-tall, and on top of 12.5-feet-tall solid granite pedestals.These four sculptures have not been regilded in over half-a-century. 55 pounds of gold leaf is being used in this effort.The first set of photos below is of the completed regilding of “Valor,” while the second set of photos below is of the in-progress regilding of “Sacrifice.”",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868145849515478</span>The regilding of the sculpture “Valor” is complete, and the regilding of the sculpture “Sacrifice” is rapidly progressing. </p><p>After “Sacrifice” is regilded, regilding work will begin on the two Arts of Peace sculptures— Each of which is also 19-feet-tall, and on top of 12.5-feet-tall solid granite pedestals.</p><p>These four sculptures have not been regilded in over half-a-century. 55 pounds of gold leaf is being used in this effort.</p><p>The first set of photos below is of the completed regilding of “Valor,” while the second set of photos below is of the in-progress regilding of “Sacrifice.”</p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868145849515478</span>The regilding of the sculpture “Valor” is complete, and the regilding of the sculpture “Sacrifice” is rapidly progressing. </p><p>After “Sacrifice” is regilded, regilding work will begin on the two Arts of Peace sculptures— Each of which is also 19-feet-tall, and on top of 12.5-feet-tall solid granite pedestals.</p><p>These four sculptures have not been regilded in over half-a-century. 55 pounds of gold leaf is being used in this effort.</p><p>The first set of photos below is of the completed regilding of “Valor,” while the second set of photos below is of the in-progress regilding of “Sacrifice.”</p>\n\n[Image] Several views show a monumental gilded sculpture group under restoration inside scaffolding. The artwork includes a large horse, multiple muscular male figures, a bearded figure, and a winged or youthful figure, all rendered in classical style. Wooden platforms, metal braces, protective sheeting, and construction materials surround the gleaming gold-colored surfaces.",
       "url": "https://www.trumpstruth.org/statuses/39745",
       "raw": {
         "creator": "",
@@ -581,13 +653,24 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868145849515478The regilding of the sculpture “Valor” is complete, and the regilding of the sculpture “Sacrifice” is rapidly progressing. \nAfter “Sacrifice” is regilded, regilding work will begin on the two Arts of Peace sculptures— Each of which is also 19-feet-tall, and on top of 12.5-feet-tall solid granite pedestals.\nThese four sculptures have not been regilded in over half-a-century. 55 pounds of gold leaf is being used in this effort.\nThe first set of photos below is of the completed regilding of “Valor,” while the second set of photos below is of the in-progress regilding of “Sacrifice.”",
         "guid": "https://www.trumpstruth.org/statuses/39745",
         "isoDate": "2026-07-05T15:47:45.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:21:37.052Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16932/25006bbc2bdc32e7.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16933/219d0eea548a4cd1.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16934/a534372aab5276cc.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16935/90261c38c21a120d.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16936/ad24b9d957172829.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16937/ae7cac3bc6871e7b.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16938/0d561bb9110fd25b.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16939/a1985d10e5786897.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39744",
       "publishedAt": "2026-07-05T15:48:47.000Z",
       "title": "The U.S. Park Police is seeking the public’s assistance in identifying the individual in the notice below in connection with a Destruction of Government Property investigation related to the Reflecting Pool.",
-      "text": "<p>The U.S. Park Police is seeking the public’s assistance in identifying the individual in the notice below in connection with a Destruction of Government Property investigation related to the Reflecting Pool.</p>",
+      "text": "<p>The U.S. Park Police is seeking the public’s assistance in identifying the individual in the notice below in connection with a Destruction of Government Property investigation related to the Reflecting Pool.</p>\n\n[Image] A United States Park Police information bulletin seeks help identifying an individual in a destruction of government property investigation. It shows three blurry surveillance images, with the person circled in red in one image. The bulletin says the incident occurred June 19, 2026, at the Reflecting Pool near the Lincoln Memorial in Washington, D.C., and provides a tip-line phone number and email.",
       "url": "https://www.trumpstruth.org/statuses/39744",
       "raw": {
         "creator": "",
@@ -599,13 +682,17 @@
         "contentSnippet": "The U.S. Park Police is seeking the public’s assistance in identifying the individual in the notice below in connection with a Destruction of Government Property investigation related to the Reflecting Pool.",
         "guid": "https://www.trumpstruth.org/statuses/39744",
         "isoDate": "2026-07-05T15:48:47.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:21:33.061Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16931/cf8582441bdfb188.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39749",
       "publishedAt": "2026-07-05T15:50:33.000Z",
       "title": "Here are photos comparing the Reflecting Pool one week after refilling under Obama vs President Trump.",
-      "text": "<p>Here are photos comparing the Reflecting Pool one week after refilling under Obama vs President Trump.</p>",
+      "text": "<p>Here are photos comparing the Reflecting Pool one week after refilling under Obama vs President Trump.</p>\n\n[Image] A two-panel comparison graphic labels the upper images “OBAMA” and the lower images “TRUMP.” Both show the Lincoln Memorial Reflecting Pool in Washington, D.C., one week after refilling. The Obama-labeled views show murky, algae-covered water, while the Trump-labeled views show a clear blue pool reflecting the sky and Washington Monument. Text repeats, “1 Week After Refilling The Reflecting Pool.”",
       "url": "https://www.trumpstruth.org/statuses/39749",
       "raw": {
         "creator": "",
@@ -617,13 +704,18 @@
         "contentSnippet": "Here are photos comparing the Reflecting Pool one week after refilling under Obama vs President Trump.",
         "guid": "https://www.trumpstruth.org/statuses/39749",
         "isoDate": "2026-07-05T15:50:33.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:21:30.373Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16942/c2d656f1d4f78f1e.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16943/8388399fde4526f9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39748",
       "publishedAt": "2026-07-05T15:51:34.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A before-and-after comparison of the Korean War Memorial. The upper image shows a broad, shallow reflecting pool with dark memorial panels, trees, and visitors surrounding it. The lower image shows the memorial after changes, with a deeper-looking reflective pool, American and POW/MIA flags, memorial panels, and sculpted figures beneath a bright blue sky.",
       "url": "https://www.trumpstruth.org/statuses/39748",
       "raw": {
         "creator": "",
@@ -635,13 +727,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39748",
         "isoDate": "2026-07-05T15:51:34.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:21:26.806Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16941/967a012ead830b9a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39747",
       "publishedAt": "2026-07-05T15:53:08.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post from the “U.S. Interior Press” account discusses cleaning algae from the Lincoln Reflecting Pool, using a comparison involving a destroyed Iranian Navy. Below, a photograph shows the Washington Monument reflected in clear blue water, with trees, flags, clouds, and several workers or maintenance boats along the pool’s far edge.",
       "url": "https://www.trumpstruth.org/statuses/39747",
       "raw": {
         "creator": "",
@@ -653,13 +749,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39747",
         "isoDate": "2026-07-05T15:53:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:21:23.542Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16940/7ba0f39e69ecdede.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39751",
       "publishedAt": "2026-07-05T15:57:12.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Two views of the Washington Monument rising at the far end of the Reflecting Pool in Washington, D.C. The first shows visitors walking along the pool and grounds beneath a partly cloudy blue sky. The second is a low, water-level view emphasizing the monument’s reflection, with workers or visitors in the pool area and flags visible near its base.",
       "url": "https://www.trumpstruth.org/statuses/39751",
       "raw": {
         "creator": "",
@@ -671,13 +771,18 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39751",
         "isoDate": "2026-07-05T15:57:12.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:21:20.422Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16945/468d18a9c2033479.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16946/b2a6d0386014034f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39750",
       "publishedAt": "2026-07-05T15:57:26.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868188238340283</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868188238340283</span></p>\n\n[Image] A typed memo credited to Greg Wischer and copied to Doug Burgum discusses cleaning algae from the Lincoln Memorial Reflecting Pool, criticizing previous administrations and mentioning Barack Obama. Two photographs show the clear pool, workers and visitors, with the Washington Monument centered beyond it under a bright, partly cloudy sky.",
       "url": "https://www.trumpstruth.org/statuses/39750",
       "raw": {
         "creator": "",
@@ -689,13 +794,19 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868188238340283",
         "guid": "https://www.trumpstruth.org/statuses/39750",
         "isoDate": "2026-07-05T15:57:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:21:18.056Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16944/f6eeb05305337521.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16945/468d18a9c2033479.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16946/b2a6d0386014034f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39752",
       "publishedAt": "2026-07-05T16:03:33.000Z",
       "title": "From Greg Wischer at the United States Department of the Interior: “Dupont Circle was a dirty, crime-ridden mess for decades, but thanks to the President’s and Secretary’s efforts to make D.C. “Safe and Beautiful,” Dupont Circle and its signature fountain were recently beautified. The fountain’s mechanical, control, and electrical systems were upgraded, and the benches, which were badly worn out and broken under previous administrations, surrounding the fountain were fixed and replaced. Dedicated in 1921, Dupont Circle honors Samuel Francis Dupont, a Union naval officer during the Civil War. The fountain features three allegorical figures for the Sea, Stars, and Wind, and it was designed by Henry Bacon and sculpted by Daniel Chester French—the same team behind the Lincoln Memorial.“",
-      "text": "<p>From Greg Wischer at the United States Department of the Interior: “Dupont Circle was a dirty, crime-ridden mess for decades, but thanks to the President’s and Secretary’s efforts to make D.C. “Safe and Beautiful,” Dupont Circle and its signature fountain were recently beautified.<br/> <br/>The fountain’s mechanical, control, and electrical systems were upgraded, and the benches, which were badly worn out and broken under previous administrations, surrounding the fountain were fixed and replaced.<br/> <br/>Dedicated in 1921, Dupont Circle honors Samuel Francis Dupont, a Union naval officer during the Civil War. The fountain features three allegorical figures for the Sea, Stars, and Wind, and it was designed by Henry Bacon and sculpted by Daniel Chester French—the same team behind the Lincoln Memorial.“</p>",
+      "text": "<p>From Greg Wischer at the United States Department of the Interior: “Dupont Circle was a dirty, crime-ridden mess for decades, but thanks to the President’s and Secretary’s efforts to make D.C. “Safe and Beautiful,” Dupont Circle and its signature fountain were recently beautified.<br/> <br/>The fountain’s mechanical, control, and electrical systems were upgraded, and the benches, which were badly worn out and broken under previous administrations, surrounding the fountain were fixed and replaced.<br/> <br/>Dedicated in 1921, Dupont Circle honors Samuel Francis Dupont, a Union naval officer during the Civil War. The fountain features three allegorical figures for the Sea, Stars, and Wind, and it was designed by Henry Bacon and sculpted by Daniel Chester French—the same team behind the Lincoln Memorial.“</p>\n\n[Image] Three views show a historic white stone fountain in a leafy urban plaza on a sunny day. Water streams from the broad upper basin around carved figures, including sea-themed cherubs and dolphins. People sit on benches and white Adirondack chairs nearby. The fountain’s base honors Rear Admiral Samuel Francis du Pont and his distinguished service.",
       "url": "https://www.trumpstruth.org/statuses/39752",
       "raw": {
         "creator": "",
@@ -707,13 +818,19 @@
         "contentSnippet": "From Greg Wischer at the United States Department of the Interior: “Dupont Circle was a dirty, crime-ridden mess for decades, but thanks to the President’s and Secretary’s efforts to make D.C. “Safe and Beautiful,” Dupont Circle and its signature fountain were recently beautified.\n The fountain’s mechanical, control, and electrical systems were upgraded, and the benches, which were badly worn out and broken under previous administrations, surrounding the fountain were fixed and replaced.\n Dedicated in 1921, Dupont Circle honors Samuel Francis Dupont, a Union naval officer during the Civil War. The fountain features three allegorical figures for the Sea, Stars, and Wind, and it was designed by Henry Bacon and sculpted by Daniel Chester French—the same team behind the Lincoln Memorial.“",
         "guid": "https://www.trumpstruth.org/statuses/39752",
         "isoDate": "2026-07-05T16:03:33.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:21:14.329Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16947/c482d1caec200fc6.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16948/bce3794157b436e3.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16949/a222d2ecdd75cdef.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39753",
       "publishedAt": "2026-07-05T16:08:43.000Z",
       "title": "The statue “Valor” — one of the Arts of War statues — being completely regilded!",
-      "text": "<p>The statue “Valor” — one of the Arts of War statues — being completely regilded!</p>",
+      "text": "<p>The statue “Valor” — one of the Arts of War statues — being completely regilded!</p>\n\n[Image] Several views show a large gold-painted sculpture of a bearded, muscular man riding or emerging behind a horse, enclosed within construction scaffolding. Wooden platforms, protective sheeting, and warning signs surround the statue. A close-up shows workers’ hands applying or repairing gold-colored material on the sculpture’s surface.",
       "url": "https://www.trumpstruth.org/statuses/39753",
       "raw": {
         "creator": "",
@@ -725,13 +842,20 @@
         "contentSnippet": "The statue “Valor” — one of the Arts of War statues — being completely regilded!",
         "guid": "https://www.trumpstruth.org/statuses/39753",
         "isoDate": "2026-07-05T16:08:43.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:21:09.379Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16950/419168d144adb1fa.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16951/cab13f28cbc00e4b.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16952/dca6e89c77fa055d.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16953/b23176b8a5beae46.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39755",
       "publishedAt": "2026-07-05T16:11:10.000Z",
       "title": "From Greg Wischer at the United States Department of the Interior: “The Theodore Roosevelt Island National Memorial, with two fountains and a 17-foot statue of Theodore Roosevelt, was just repaired, cleaned, and beautified, after experiencing chronic periods of disrepair.  The fountains were fixed; the statue was cleaned and waxed; and the granite elements were pressure washed. The memorial was dedicated on October 27, 1967–Theodore Roosevelt's 109th birthday. It is the only presidential memorial in Washington, D.C., where the landscape itself serves as the primary tribute to the president—a mature native woodland designed to reflect Roosevelt's conservation legacy.”",
-      "text": "<p>From Greg Wischer at the United States Department of the Interior: “The Theodore Roosevelt Island National Memorial, with two fountains and a 17-foot statue of Theodore Roosevelt, was just repaired, cleaned, and beautified, after experiencing chronic periods of disrepair. <br/> <br/>The fountains were fixed; the statue was cleaned and waxed; and the granite elements were pressure washed.<br/> <br/>The memorial was dedicated on October 27, 1967–Theodore Roosevelt's 109th birthday. It is the only presidential memorial in Washington, D.C., where the landscape itself serves as the primary tribute to the president—a mature native woodland designed to reflect Roosevelt's conservation legacy.”</p>",
+      "text": "<p>From Greg Wischer at the United States Department of the Interior: “The Theodore Roosevelt Island National Memorial, with two fountains and a 17-foot statue of Theodore Roosevelt, was just repaired, cleaned, and beautified, after experiencing chronic periods of disrepair. <br/> <br/>The fountains were fixed; the statue was cleaned and waxed; and the granite elements were pressure washed.<br/> <br/>The memorial was dedicated on October 27, 1967–Theodore Roosevelt's 109th birthday. It is the only presidential memorial in Washington, D.C., where the landscape itself serves as the primary tribute to the president—a mature native woodland designed to reflect Roosevelt's conservation legacy.”</p>\n\n[Image] Three views show a landscaped memorial in a wooded setting. A bronze statue of a suited man raises one hand beside tall stone slabs, with trimmed shrubs surrounding it. In the foreground, fountains spill into broad pools, while a reflecting canal, concrete walkways, benches, trees, and a small arched footbridge complete the grounds.",
       "url": "https://www.trumpstruth.org/statuses/39755",
       "raw": {
         "creator": "",
@@ -743,13 +867,19 @@
         "contentSnippet": "From Greg Wischer at the United States Department of the Interior: “The Theodore Roosevelt Island National Memorial, with two fountains and a 17-foot statue of Theodore Roosevelt, was just repaired, cleaned, and beautified, after experiencing chronic periods of disrepair. \n The fountains were fixed; the statue was cleaned and waxed; and the granite elements were pressure washed.\n The memorial was dedicated on October 27, 1967–Theodore Roosevelt's 109th birthday. It is the only presidential memorial in Washington, D.C., where the landscape itself serves as the primary tribute to the president—a mature native woodland designed to reflect Roosevelt's conservation legacy.”",
         "guid": "https://www.trumpstruth.org/statuses/39755",
         "isoDate": "2026-07-05T16:11:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:21:06.011Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16956/cc5be7197ebe73ea.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16957/2ea4167ce7731ec2.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16958/baeded14b0d4938d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39754",
       "publishedAt": "2026-07-05T16:12:59.000Z",
       "title": "From Greg Wischer at the United States Department of the Interior: “After 6 long years, the original cannons that previously surrounded the Andrew Jackson statue in Lafayette Park but were damaged in the 2020 riots have been returned to their rightful location around the statue.The four cannons—El Witiza, El Egica, El Apolo, and El Aristeo—were captured by Andrew Jackson from the Spanish in his Pensacola Campaign in 1818. El Witiza and El Egica had been cast at the royal foundry in Barcelona in 1748 and were named for two Visigoth kings, while El Apolo and El Aristeo were cast in 1773 and were named for two Greek gods.The first photo below shows the damaged cannons and the destroyed cannon carriages, which support and transport the cannons, during the 2020 riots.The second photo shows the state of the Andrew Jackson statue and returned cannons today. (The National Park Service team is now whitening the marble pedestal for the Jackson statue.)”",
-      "text": "<p>From Greg Wischer at the United States Department of the Interior: “After 6 long years, the original cannons that previously surrounded the Andrew Jackson statue in Lafayette Park but were damaged in the 2020 riots have been returned to their rightful location around the statue.</p><p>The four cannons—El Witiza, El Egica, El Apolo, and El Aristeo—were captured by Andrew Jackson from the Spanish in his Pensacola Campaign in 1818. </p><p>El Witiza and El Egica had been cast at the royal foundry in Barcelona in 1748 and were named for two Visigoth kings, while El Apolo and El Aristeo were cast in 1773 and were named for two Greek gods.</p><p>The first photo below shows the damaged cannons and the destroyed cannon carriages, which support and transport the cannons, during the 2020 riots.</p><p>The second photo shows the state of the Andrew Jackson statue and returned cannons today. (The National Park Service team is now whitening the marble pedestal for the Jackson statue.)”</p>",
+      "text": "<p>From Greg Wischer at the United States Department of the Interior: “After 6 long years, the original cannons that previously surrounded the Andrew Jackson statue in Lafayette Park but were damaged in the 2020 riots have been returned to their rightful location around the statue.</p><p>The four cannons—El Witiza, El Egica, El Apolo, and El Aristeo—were captured by Andrew Jackson from the Spanish in his Pensacola Campaign in 1818. </p><p>El Witiza and El Egica had been cast at the royal foundry in Barcelona in 1748 and were named for two Visigoth kings, while El Apolo and El Aristeo were cast in 1773 and were named for two Greek gods.</p><p>The first photo below shows the damaged cannons and the destroyed cannon carriages, which support and transport the cannons, during the 2020 riots.</p><p>The second photo shows the state of the Andrew Jackson statue and returned cannons today. (The National Park Service team is now whitening the marble pedestal for the Jackson statue.)”</p>\n\n[Image] Two views of the Andrew Jackson equestrian statue in Lafayette Square near the White House. In the first, U.S. Park Police officers stand around the graffiti-covered pedestal as ropes, barricades, debris, and dismounted cannons surround the monument. The second shows the cleaned statue, cannons, fenced lawn, and wet brick walkway under an overcast sky.",
       "url": "https://www.trumpstruth.org/statuses/39754",
       "raw": {
         "creator": "",
@@ -761,7 +891,12 @@
         "contentSnippet": "From Greg Wischer at the United States Department of the Interior: “After 6 long years, the original cannons that previously surrounded the Andrew Jackson statue in Lafayette Park but were damaged in the 2020 riots have been returned to their rightful location around the statue.\nThe four cannons—El Witiza, El Egica, El Apolo, and El Aristeo—were captured by Andrew Jackson from the Spanish in his Pensacola Campaign in 1818. \nEl Witiza and El Egica had been cast at the royal foundry in Barcelona in 1748 and were named for two Visigoth kings, while El Apolo and El Aristeo were cast in 1773 and were named for two Greek gods.\nThe first photo below shows the damaged cannons and the destroyed cannon carriages, which support and transport the cannons, during the 2020 riots.\nThe second photo shows the state of the Andrew Jackson statue and returned cannons today. (The National Park Service team is now whitening the marble pedestal for the Jackson statue.)”",
         "guid": "https://www.trumpstruth.org/statuses/39754",
         "isoDate": "2026-07-05T16:12:59.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:20:57.004Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16954/fcb81bfd050a029d.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16955/e5986490456b660c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39759",
@@ -785,7 +920,7 @@
       "id": "https://www.trumpstruth.org/statuses/39758",
       "publishedAt": "2026-07-05T16:16:17.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868259368267169</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868259368267169</span></p>\n\n[Image] A screenshot of a post by Laura Ingraham, whose profile is verified, displays the headline “Stephen Miller makes it clear: Biden’s Haiti policy is over.” It quotes Stephen Miller calling the policy “one of the most heinous things this government has ever done” and uses derogatory language while saying Haitians will return to Haiti.",
       "url": "https://www.trumpstruth.org/statuses/39758",
       "raw": {
         "creator": "",
@@ -797,13 +932,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868259368267169",
         "guid": "https://www.trumpstruth.org/statuses/39758",
         "isoDate": "2026-07-05T16:16:17.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:20:51.694Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16961/28ddf5f6ef57a146.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39757",
       "publishedAt": "2026-07-05T16:18:12.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A printed page describes Scott LoBaido as an American artist and activist known for patriotic artwork, murals, and public installations. Below the text, LoBaido stands beside Donald Trump and a painting depicting Trump raising a fist beneath an American flag. The photograph appears to have been taken indoors at an event or exhibition.",
       "url": "https://www.trumpstruth.org/statuses/39757",
       "raw": {
         "creator": "",
@@ -815,13 +954,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39757",
         "isoDate": "2026-07-05T16:18:12.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:20:48.877Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16960/9174f9585175d0cf.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39756",
       "publishedAt": "2026-07-05T16:19:57.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post by Nick Sortor claims that President Donald Trump announced 32,000 new jobs, including 2,600 manufacturing jobs in Pennsylvania. It quotes Trump saying employment is at a historic high, then cites Eli Lilly’s $3.5 billion Lehigh Valley investment and Nokia’s $30 million investment in the state.",
       "url": "https://www.trumpstruth.org/statuses/39756",
       "raw": {
         "creator": "",
@@ -833,13 +976,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39756",
         "isoDate": "2026-07-05T16:19:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:20:44.398Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16959/2e119050cae766f1.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39765",
       "publishedAt": "2026-07-05T16:20:07.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of an Eric Daugherty post on X says Donald Trump announced a major turnaround in U.S. military recruitment. The post quotes Defense Secretary Pete Hegseth saying recruitment is now at its highest level, with every slot filled, and that people want to join the Army, Navy, Marine Corps, Air Force, and Coast Guard.",
       "url": "https://www.trumpstruth.org/statuses/39765",
       "raw": {
         "creator": "",
@@ -851,13 +998,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39765",
         "isoDate": "2026-07-05T16:20:07.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:20:41.351Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16967/7fff6e9c11baafee.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39764",
       "publishedAt": "2026-07-05T16:20:25.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a social-media post by Nick Sortor features text claiming Mack Trucks workers in Pennsylvania cheered as President Donald Trump celebrated the factory’s return to production. The post quotes Trump discussing tariffs on trucks, foreign metals, and Chinese goods, while accusing foreign countries and previous administrations of harming American workers.",
       "url": "https://www.trumpstruth.org/statuses/39764",
       "raw": {
         "creator": "",
@@ -869,13 +1020,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39764",
         "isoDate": "2026-07-05T16:20:25.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:20:38.276Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16966/81d93d71006e3b20.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39763",
       "publishedAt": "2026-07-05T16:20:34.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a Real America’s Voice (RAV) social-media post displays the headline, “TRUMP IN PENNSYLVANIA: ‘THEY PUT CHINA FIRST. WE PUT AMERICA FIRST.’” It includes a U.S. flag emoji and quotes @POTUS criticizing decades of outsourcing while promising to prioritize Pennsylvania and American workers.",
       "url": "https://www.trumpstruth.org/statuses/39763",
       "raw": {
         "creator": "",
@@ -887,13 +1042,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39763",
         "isoDate": "2026-07-05T16:20:34.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:20:34.980Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16965/a3f0347e73dd933b.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39762",
       "publishedAt": "2026-07-05T16:20:42.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a Fox News post on X quotes Donald Trump saying the nationwide average gasoline price has fallen 60 cents per gallon recently, while criticizing “Sleepy Joe Biden” and previous presidents. The post says Trump touted declining oil prices while faulting his predecessors’ handling of Iran and its nuclear program, adding, “None of them did anything.”",
       "url": "https://www.trumpstruth.org/statuses/39762",
       "raw": {
         "creator": "",
@@ -905,13 +1064,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39762",
         "isoDate": "2026-07-05T16:20:42.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:20:32.603Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16964/9f6ba4aab535c9ea.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39761",
       "publishedAt": "2026-07-05T16:23:43.000Z",
       "title": "From Shou Chew, CEO of TikTok: “Attached are the latest numbers of the President on TikTok. All time views of #Trump TikToks are now at 425 billion. Also, 1 billion new views across UFC 250, Trump's Iran Peace Deal and “Happy Birthday, Mr. President\" TikToks in just 48 hours!Wishing the President a belated happy birthday!”",
-      "text": "<p>From Shou Chew, CEO of TikTok: “Attached are the latest numbers of the President on TikTok. All time views of <a href=\"https://truthsocial.com/tags/Trump\" class=\"mention hashtag\" rel=\"tag\">#<span>Trump</span></a> TikToks are now at 425 billion. Also, 1 billion new views across UFC 250, Trump's Iran Peace Deal and “Happy Birthday, Mr. President\" TikToks in just 48 hours!<br/>Wishing the President a belated happy birthday!”</p>",
+      "text": "<p>From Shou Chew, CEO of TikTok: “Attached are the latest numbers of the President on TikTok. All time views of <a href=\"https://truthsocial.com/tags/Trump\" class=\"mention hashtag\" rel=\"tag\">#<span>Trump</span></a> TikToks are now at 425 billion. Also, 1 billion new views across UFC 250, Trump's Iran Peace Deal and “Happy Birthday, Mr. President\" TikToks in just 48 hours!<br/>Wishing the President a belated happy birthday!”</p>\n\n[Image] An infographic titled “Trump on TikTok,” dated June 2026, features Donald Trump, the White House, fireworks, fighter jets, and American flags. It claims Trump is the world’s most-followed and watched leader on TikTok, with 425 billion all-time views. It also highlights billions of views for TikToks about DC beautification, peace deals, the first lady, UFC, and a 48-hour surge of 1 billion views.",
       "url": "https://www.trumpstruth.org/statuses/39761",
       "raw": {
         "creator": "",
@@ -923,13 +1086,17 @@
         "contentSnippet": "From Shou Chew, CEO of TikTok: “Attached are the latest numbers of the President on TikTok. All time views of #Trump TikToks are now at 425 billion. Also, 1 billion new views across UFC 250, Trump's Iran Peace Deal and “Happy Birthday, Mr. President\" TikToks in just 48 hours!\nWishing the President a belated happy birthday!”",
         "guid": "https://www.trumpstruth.org/statuses/39761",
         "isoDate": "2026-07-05T16:23:43.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:20:29.723Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16963/2055f3e7ecc54f2d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39760",
       "publishedAt": "2026-07-05T16:24:13.000Z",
       "title": "Number 1 on TikTok!",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868292534134605</span>Number 1 on TikTok!</p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868292534134605</span>Number 1 on TikTok!</p>\n\n[Image] An infographic titled “Trump on TikTok” and dated June 2026 shows fireworks over the White House, the Washington Monument, fighter jets, and crowds holding phones. It features Donald Trump in several TikTok-style phone screens and claims 425 billion all-time views, including figures for beautification, peace-deal, first-lady, UFC, and thank-you videos. A bottom banner claims a one-billion-view surge in 48 hours.",
       "url": "https://www.trumpstruth.org/statuses/39760",
       "raw": {
         "creator": "",
@@ -941,13 +1108,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868292534134605Number 1 on TikTok!",
         "guid": "https://www.trumpstruth.org/statuses/39760",
         "isoDate": "2026-07-05T16:24:13.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:20:26.988Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16963/2055f3e7ecc54f2d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39768",
       "publishedAt": "2026-07-05T16:26:44.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A white text graphic titled “THE DAY BEFORE THE IRAN CONFLICT,” dated February 27, 2026. It lists West Texas Intermediate crude oil at $67.02 per barrel, Brent crude oil at $72.48 per barrel, the Dow Index at 48,977.92, the S&P 500 Index at 6,878.88, and the NASDAQ Index at 22,668.21.",
       "url": "https://www.trumpstruth.org/statuses/39768",
       "raw": {
         "creator": "",
@@ -959,13 +1130,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39768",
         "isoDate": "2026-07-05T16:26:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:20:22.709Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16972/715487fb833fb4ca.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39767",
       "publishedAt": "2026-07-05T16:27:10.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Three pages of text titled “Trump Administration Accomplishments” list claimed actions by Donald Trump, including border and immigration policies, tariffs, trade and investment, military and energy initiatives, foreign policy, education and gender policies, pardons, crime enforcement, and renamed government landmarks. The document also mentions Joe Biden, J.D. Vance, and Nicolás Maduro.",
       "url": "https://www.trumpstruth.org/statuses/39767",
       "raw": {
         "creator": "",
@@ -977,13 +1152,19 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39767",
         "isoDate": "2026-07-05T16:27:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:20:19.885Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16969/c504f69d464ddfb3.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16970/f87dbb858d53d8e4.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16971/c6c3ad5811ea3f56.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39766",
       "publishedAt": "2026-07-05T16:28:19.000Z",
       "title": "First Statue for Triumphal Arch — Amazing!",
-      "text": "<p>First Statue for Triumphal Arch — Amazing!</p>",
+      "text": "<p>First Statue for Triumphal Arch — Amazing!</p>\n\n[Image] A bronze-toned relief statue of Abraham Lincoln stands in an ornate arched alcove, holding a draped American flag. An eagle, stars, and flowing flag motif decorate the backdrop. The pedestal identifies him as the 16th president of the United States, gives his dates as 1809–1865, and quotes part of his Second Inaugural Address: “With malice toward none; with charity for all.”",
       "url": "https://www.trumpstruth.org/statuses/39766",
       "raw": {
         "creator": "",
@@ -995,13 +1176,17 @@
         "contentSnippet": "First Statue for Triumphal Arch — Amazing!",
         "guid": "https://www.trumpstruth.org/statuses/39766",
         "isoDate": "2026-07-05T16:28:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:20:16.664Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16968/d4764a43c7462c19.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39770",
       "publishedAt": "2026-07-05T16:32:01.000Z",
       "title": "Plants like this are going up all over the Country. Many are Defense. They are massive!",
-      "text": "<p>Plants like this are going up all over the Country. Many are Defense. They are massive!</p>",
+      "text": "<p>Plants like this are going up all over the Country. Many are Defense. They are massive!</p>\n\n[Image] A series of images shows construction of a large Boeing South Carolina facility beside an airport. Tower cranes lift steel trusses around the expanding building, while an aerial view shows the broad white-roofed structure and surrounding construction site. The final image shows a vast bright interior with white roof beams, polished floors, equipment, and safety cones.",
       "url": "https://www.trumpstruth.org/statuses/39770",
       "raw": {
         "creator": "",
@@ -1013,7 +1198,14 @@
         "contentSnippet": "Plants like this are going up all over the Country. Many are Defense. They are massive!",
         "guid": "https://www.trumpstruth.org/statuses/39770",
         "isoDate": "2026-07-05T16:32:01.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:20:13.181Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16973/95b1c38c428ed620.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16974/430d320aeadc6973.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16975/7ebada4b93c2deb2.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16976/bd2b21009daeced4.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39769",
@@ -1037,7 +1229,7 @@
       "id": "https://www.trumpstruth.org/statuses/39772",
       "publishedAt": "2026-07-05T17:13:52.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands at right in a black suit and tie beside a smiling blonde woman and a child wearing a red-and-white sports jacket and dark cap. Santa Claus is partly visible behind them. Two gold sports trophies sit in the foreground near a wooden podium, and several other people are gathered in the dimly lit background.",
       "url": "https://www.trumpstruth.org/statuses/39772",
       "raw": {
         "creator": "",
@@ -1049,7 +1241,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39772",
         "isoDate": "2026-07-05T17:13:52.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:20:10.108Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16977/adda115521397c77.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39771",
@@ -1091,7 +1287,7 @@
       "id": "https://www.trumpstruth.org/statuses/39774",
       "publishedAt": "2026-07-05T18:44:04.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Two detailed views show an ornate classical building façade in white stone or a monochrome architectural rendering. Tall fluted columns have elaborate Corinthian capitals with acanthus leaves, scrolls, and carved lion heads. Decorative friezes, dentil moldings, balustrades, and layered cornices fill the surrounding structure, with sunlight casting sharp shadows across the reliefs.",
       "url": "https://www.trumpstruth.org/statuses/39774",
       "raw": {
         "creator": "",
@@ -1103,13 +1299,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39774",
         "isoDate": "2026-07-05T18:44:04.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:20:03.684Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16978/dc20ddc49b3083af.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39777",
       "publishedAt": "2026-07-05T19:26:08.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A split-panel meme titled “Stealing Tooth Brushes” compares “Biden’s solution” with “Trump’s solution.” The left panel shows locked retail shelves stocked with toothpaste and other dental products. The right panel shows two men in orange prison clothing sitting behind bars, with the labels referring to Joe Biden and Donald Trump.",
       "url": "https://www.trumpstruth.org/statuses/39777",
       "raw": {
         "creator": "",
@@ -1121,7 +1321,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39777",
         "isoDate": "2026-07-05T19:26:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:20:00.435Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16980/d46275b3ae790a49.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39776",
@@ -1145,7 +1349,7 @@
       "id": "https://www.trumpstruth.org/statuses/39775",
       "publishedAt": "2026-07-05T19:29:18.000Z",
       "title": "The Crowd at 7:05 in the evening was 422,000 people! All were forced to leave because of the weather, the event was cancelled, and everyone was gone because of lightning. When I heard that it was cancelled, I immediately overturned that decision, and waited a while for people to come back. Incredibly, at least 150,000 people returned, and it was an even more spectacular evening than it would have been as normalized! It showed work under pressure. Congratulations to the Secret Service and Law Enforcement on being able to get so many people back into the Arena in such rapid fashion! It was an amazing evening made even more spectacular by the fact that, immediately after the Great Fireworks ended, the rains came down, full blast! President DONALD J. TRUMP",
-      "text": "<p>The Crowd at 7:05 in the evening was 422,000 people! All were forced to leave because of the weather, the event was cancelled, and everyone was gone because of lightning. When I heard that it was cancelled, I immediately overturned that decision, and waited a while for people to come back. Incredibly, at least 150,000 people returned, and it was an even more spectacular evening than it would have been as normalized! It showed work under pressure. Congratulations to the Secret Service and Law Enforcement on being able to get so many people back into the Arena in such rapid fashion! It was an amazing evening made even more spectacular by the fact that, immediately after the Great Fireworks ended, the rains came down, full blast! President DONALD J. TRUMP</p>",
+      "text": "<p>The Crowd at 7:05 in the evening was 422,000 people! All were forced to leave because of the weather, the event was cancelled, and everyone was gone because of lightning. When I heard that it was cancelled, I immediately overturned that decision, and waited a while for people to come back. Incredibly, at least 150,000 people returned, and it was an even more spectacular evening than it would have been as normalized! It showed work under pressure. Congratulations to the Secret Service and Law Enforcement on being able to get so many people back into the Arena in such rapid fashion! It was an amazing evening made even more spectacular by the fact that, immediately after the Great Fireworks ended, the rains came down, full blast! President DONALD J. TRUMP</p>\n\n[Image] A wide view shows the Jefferson Memorial in Washington, D.C., with large crowds gathered on its steps and across the surrounding grounds. Tents, lighting structures, American flags, and a large video screen fill the foreground, suggesting a public outdoor event. The Potomac River and distant buildings are visible beyond the memorial.",
       "url": "https://www.trumpstruth.org/statuses/39775",
       "raw": {
         "creator": "",
@@ -1157,13 +1361,17 @@
         "contentSnippet": "The Crowd at 7:05 in the evening was 422,000 people! All were forced to leave because of the weather, the event was cancelled, and everyone was gone because of lightning. When I heard that it was cancelled, I immediately overturned that decision, and waited a while for people to come back. Incredibly, at least 150,000 people returned, and it was an even more spectacular evening than it would have been as normalized! It showed work under pressure. Congratulations to the Secret Service and Law Enforcement on being able to get so many people back into the Arena in such rapid fashion! It was an amazing evening made even more spectacular by the fact that, immediately after the Great Fireworks ended, the rains came down, full blast! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/39775",
         "isoDate": "2026-07-05T19:29:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:19:57.684Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16979/ef3042eb2fcae749.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39778",
       "publishedAt": "2026-07-05T20:07:49.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A large, polished gold eagle ornament with outstretched wings is mounted on the balcony of a white neoclassical building. The eagle holds a shield with red vertical stripes and is surrounded by gold stars and decorative elements. White columns, black wrought-iron railings, tall windows, and ornate architectural molding frame the emblem.",
       "url": "https://www.trumpstruth.org/statuses/39778",
       "raw": {
         "creator": "",
@@ -1175,13 +1383,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39778",
         "isoDate": "2026-07-05T20:07:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:19:55.087Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16981/bd74a017ec23d350.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39782",
       "publishedAt": "2026-07-05T20:10:18.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump walks across the South Lawn of the White House beside a bald man in a dark jacket and white sneakers. Uniformed military personnel stand at attention around them, several holding rifles, while American flags line the entrance. A camera operator films from the left foreground, and the White House colonnade and balcony fill the background.",
       "url": "https://www.trumpstruth.org/statuses/39782",
       "raw": {
         "creator": "",
@@ -1193,13 +1405,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39782",
         "isoDate": "2026-07-05T20:10:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:19:51.369Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16985/cefa43ca1c96b8ee.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39781",
       "publishedAt": "2026-07-05T20:10:26.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands on a White House balcony beside another official, saluting toward a ceremonial formation. The building’s columns and windows are illuminated in blue, while uniformed service members stand on the steps and courtyard below. Numerous American flags surround the balcony and entrance, creating a formal patriotic scene.",
       "url": "https://www.trumpstruth.org/statuses/39781",
       "raw": {
         "creator": "",
@@ -1211,13 +1427,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39781",
         "isoDate": "2026-07-05T20:10:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:19:47.971Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16984/0b6d9e50cf8e7855.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39780",
       "publishedAt": "2026-07-05T20:10:35.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features the large headline “America is Back, Again!” above a historical-style painting of George Washington mounted on horseback amid soldiers in a snowy winter encampment. American troops carry rifles and gather around a campfire, while an American flag flies overhead. Log buildings, smoke, and a drummer fill the background.",
       "url": "https://www.trumpstruth.org/statuses/39780",
       "raw": {
         "creator": "",
@@ -1229,13 +1449,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39780",
         "isoDate": "2026-07-05T20:10:35.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:19:44.910Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16983/48a53d8c6a782b8f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39779",
       "publishedAt": "2026-07-05T20:10:49.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands on a stage beside a bald man in a dark suit, both shown mostly in silhouette beneath a large illuminated arch. The Washington Monument is visible in the background, with a bright sun creating strong rays and lens flare. A screen at lower right shows a bearded speaker at a podium.",
       "url": "https://www.trumpstruth.org/statuses/39779",
       "raw": {
         "creator": "",
@@ -1247,13 +1471,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39779",
         "isoDate": "2026-07-05T20:10:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:19:41.510Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16982/6ba22e05d44be2c2.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39784",
       "publishedAt": "2026-07-05T20:22:59.000Z",
       "title": "Dr. John G. Trump, of MIT!",
-      "text": "<p>Dr. John G. Trump, of MIT!</p>",
+      "text": "<p>Dr. John G. Trump, of MIT!</p>\n\n[Image] Four black-and-white photographs labeled “Dr. John G. Trump” show physicist John G. Trump in formal suits and a laboratory. He poses for a portrait, works with another technician on a large cylindrical apparatus, sits beside a ribbed machine, and stands next to a tall coil-like device in a workshop. The images have a historical mid-20th-century style.",
       "url": "https://www.trumpstruth.org/statuses/39784",
       "raw": {
         "creator": "",
@@ -1265,13 +1493,20 @@
         "contentSnippet": "Dr. John G. Trump, of MIT!",
         "guid": "https://www.trumpstruth.org/statuses/39784",
         "isoDate": "2026-07-05T20:22:59.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:19:36.660Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16987/6c273bfef2e50c5f.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16988/0f54f305fffbb810.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16989/56524d4e3aa7b0e7.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16990/cd509716132f0d76.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39783",
       "publishedAt": "2026-07-05T20:25:04.000Z",
       "title": "My father and mentor, Fred C. Trump!",
-      "text": "<p>My father and mentor, Fred C. Trump!</p>",
+      "text": "<p>My father and mentor, Fred C. Trump!</p>\n\n[Image] A black-and-white photograph shows a mustached man in a suit and tie seated behind a large desk. He is holding a pen over a document, with additional papers spread across the desk. A high-backed leather chair, patterned curtains, a window, and stacked books are visible in the office-like setting.",
       "url": "https://www.trumpstruth.org/statuses/39783",
       "raw": {
         "creator": "",
@@ -1283,13 +1518,17 @@
         "contentSnippet": "My father and mentor, Fred C. Trump!",
         "guid": "https://www.trumpstruth.org/statuses/39783",
         "isoDate": "2026-07-05T20:25:04.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:19:33.655Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16986/557a68da25a2cb50.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39786",
       "publishedAt": "2026-07-05T20:26:28.000Z",
       "title": "My father, grandparents, uncle, and aunt!",
-      "text": "<p>My father, grandparents, uncle, and aunt!</p>",
+      "text": "<p>My father, grandparents, uncle, and aunt!</p>\n\n[Image] A captioned family portrait labeled “The Trump Family, 1915” shows five people posed in a studio: Fred Trump, Friedrich Trump, Elizabeth Trump, Elisabeth Trump, and John Trump. Two boys wear dark suits, the girl wears a white dress with a large bow, and the seated adults wear formal early-20th-century clothing. A painted landscape backdrop and small tables frame the group.",
       "url": "https://www.trumpstruth.org/statuses/39786",
       "raw": {
         "creator": "",
@@ -1301,13 +1540,17 @@
         "contentSnippet": "My father, grandparents, uncle, and aunt!",
         "guid": "https://www.trumpstruth.org/statuses/39786",
         "isoDate": "2026-07-05T20:26:28.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:19:29.792Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16992/ca8fc6e53b1c72c4.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39785",
       "publishedAt": "2026-07-05T20:26:49.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of an X.com post from MAGA Voice quotes Donald Trump announcing that Acting DNI Pulte fired dozens of intelligence officials. An embedded post from Donald Trump links to a CNBC article and includes a photograph of a bald man in a blue suit speaking at a podium, with American and intelligence-agency flags behind him. The post shows view and engagement counts.",
       "url": "https://www.trumpstruth.org/statuses/39785",
       "raw": {
         "creator": "",
@@ -1319,13 +1562,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39785",
         "isoDate": "2026-07-05T20:26:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:19:25.843Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16991/6a30fefe3461929a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39797",
       "publishedAt": "2026-07-05T20:51:06.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image shows Donald Trump in a dark suit facing Giorgia Meloni, who is smiling and looking up toward him. Other formally dressed people stand in the background and at the right edge. A bold headline across the top reads “RESTRAINING ORDER NEEDED.”",
       "url": "https://www.trumpstruth.org/statuses/39797",
       "raw": {
         "creator": "",
@@ -1337,13 +1584,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39797",
         "isoDate": "2026-07-05T20:51:06.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:19:22.259Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17003/7420b6379246ec8a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39796",
       "publishedAt": "2026-07-05T20:51:18.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Barack Obama and Michelle Obama stand in the open doorway of an aircraft, waving from the top of a red-carpeted staircase. The plane bears the presidential seal and large graffiti-style markings reading “YES WE CAN,” “BLM,” “OBAMA,” and Arabic script. Obama wears a dark overcoat, while Michelle Obama wears a burgundy coat.",
       "url": "https://www.trumpstruth.org/statuses/39796",
       "raw": {
         "creator": "",
@@ -1355,13 +1606,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39796",
         "isoDate": "2026-07-05T20:51:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:19:20.084Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17002/6b0647b7531c1875.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39795",
       "publishedAt": "2026-07-05T20:51:30.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A split image shows Melania Trump on the left wearing a dark tailored coat, white high-collared shirt, and broad-brimmed navy hat with a white band. On the right, Hillary Clinton wears dark sunglasses, a textured black hat, blue outerwear, and a patterned scarf. Both are photographed outdoors near vehicles and other people.",
       "url": "https://www.trumpstruth.org/statuses/39795",
       "raw": {
         "creator": "",
@@ -1373,13 +1628,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39795",
         "isoDate": "2026-07-05T20:51:30.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:19:16.892Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17001/d887ac8dd8a03b19.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39794",
       "publishedAt": "2026-07-05T20:51:41.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A large black roadside billboard stands against a blue sky, displaying the white all-capital message: “IF NO ONE GOES TO JAIL FOR ELECTION FRAUD WHAT INCENTIVE IS THERE NOT TO CHEAT.” The sign is mounted on a metal support, with the tops of trees visible near the bottom edge.",
       "url": "https://www.trumpstruth.org/statuses/39794",
       "raw": {
         "creator": "",
@@ -1391,13 +1650,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39794",
         "isoDate": "2026-07-05T20:51:41.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:19:14.040Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17000/8337d89abc49b645.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39793",
       "publishedAt": "2026-07-05T20:52:02.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump, wearing a dark suit, white shirt, and bright red tie, embraces and kisses an American flag. He holds the blue field with white stars near his face while gripping the flag with both hands. A large, blurred American flag fills the background.",
       "url": "https://www.trumpstruth.org/statuses/39793",
       "raw": {
         "creator": "",
@@ -1409,13 +1672,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39793",
         "isoDate": "2026-07-05T20:52:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:19:11.964Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16999/4e0907b62d15b50e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39792",
       "publishedAt": "2026-07-05T20:52:17.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump walks across an airport tarmac wearing a dark suit, white shirt, and red striped tie while holding a phone. A United States aircraft is parked behind him, with its fuselage and landing gear visible. Another person stands in the background carrying luggage, and the scene appears to be photographed in low evening light.",
       "url": "https://www.trumpstruth.org/statuses/39792",
       "raw": {
         "creator": "",
@@ -1427,13 +1694,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39792",
         "isoDate": "2026-07-05T20:52:17.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:19:10.079Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16998/bfa614873555471d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39791",
       "publishedAt": "2026-07-05T20:52:30.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump is shown in silhouette wearing a long dark coat and pointing toward three fighter jets flying across a smoky sky. Large clouds and bright plumes rise from the ground below, creating a dramatic, war-themed scene. The image is heavily backlit, obscuring facial details and the surrounding landscape.",
       "url": "https://www.trumpstruth.org/statuses/39791",
       "raw": {
         "creator": "",
@@ -1445,13 +1716,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39791",
         "isoDate": "2026-07-05T20:52:30.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:19:07.900Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16997/bf40555c5e83aed3.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39790",
       "publishedAt": "2026-07-05T20:52:56.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump walks across a wet courtyard, raising one hand in greeting. He wears a black jacket, light trousers, and brown shoes. Melania Trump walks beside him in sunglasses, an olive jacket, black trousers, and heels. A suited security officer stands near a hedge in the background.",
       "url": "https://www.trumpstruth.org/statuses/39790",
       "raw": {
         "creator": "",
@@ -1463,13 +1738,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39790",
         "isoDate": "2026-07-05T20:52:56.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:19:03.847Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16996/ec8e0d8d12b4e312.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39789",
       "publishedAt": "2026-07-05T20:53:07.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A nighttime stage is set before Mount Rushmore, whose illuminated granite faces rise against a deep blue sky. Donald Trump stands at a central lectern surrounded by American flags, with large screens on both sides showing him speaking. The patriotic set includes blue and red panels, stars, gold accents, and red-white-and-blue bunting.",
       "url": "https://www.trumpstruth.org/statuses/39789",
       "raw": {
         "creator": "",
@@ -1481,13 +1760,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39789",
         "isoDate": "2026-07-05T20:53:07.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:19:01.679Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16995/416ed8afd240b4df.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39788",
       "publishedAt": "2026-07-05T20:53:29.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands at a lectern bearing the presidential seal beneath a large white domed memorial. Several uniformed service members stand behind him, while multiple American flags hang across the stage. Floral arrangements line the front, and an inscription above the flags begins, “SOLDIER, WE DID NOT…”",
       "url": "https://www.trumpstruth.org/statuses/39788",
       "raw": {
         "creator": "",
@@ -1499,13 +1782,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39788",
         "isoDate": "2026-07-05T20:53:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:18:58.695Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16994/908fa896fe6a0c4b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39787",
       "publishedAt": "2026-07-05T20:53:46.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump and professional wrestler Hulk Hogan pose closely together, gripping hands in a celebratory clasp. Trump wears a dark suit and red tie, while Hogan wears a red bandana, yellow sunglasses on his head, a red sleeveless shirt, and a large cross necklace. Both lean toward the camera and smile broadly.",
       "url": "https://www.trumpstruth.org/statuses/39787",
       "raw": {
         "creator": "",
@@ -1517,13 +1804,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39787",
         "isoDate": "2026-07-05T20:53:46.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:18:55.640Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16993/4cf750062fc53976.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39798",
       "publishedAt": "2026-07-05T20:59:04.000Z",
       "title": "Justin Gaethje after his Big Victory, and attaining the UFC World Championship, at the front door of the White House. He is a Great Fighter! President DONALD J. TRUMP",
-      "text": "<p>Justin Gaethje after his Big Victory, and attaining the UFC World Championship, at the front door of the White House. He is a Great Fighter! President DONALD J. TRUMP</p>",
+      "text": "<p>Justin Gaethje after his Big Victory, and attaining the UFC World Championship, at the front door of the White House. He is a Great Fighter! President DONALD J. TRUMP</p>\n\n[Image] Donald Trump, wearing a white cap and dark suit, stands ringside beside a UFC cage as a shirtless fighter in red, white, and blue shorts leans over the barrier. A cameraman films the scene while security personnel, officials, and spectators gather around, many holding up phones. The arena is dimly lit and crowded.",
       "url": "https://www.trumpstruth.org/statuses/39798",
       "raw": {
         "creator": "",
@@ -1535,13 +1826,17 @@
         "contentSnippet": "Justin Gaethje after his Big Victory, and attaining the UFC World Championship, at the front door of the White House. He is a Great Fighter! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/39798",
         "isoDate": "2026-07-05T20:59:04.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:18:53.385Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17004/b1c62330bd401f78.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39799",
       "publishedAt": "2026-07-05T21:10:31.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A vintage-style historical illustration titled “Building the First White House” shows the White House under construction in Washington, D.C., with scaffolding, workers, horses, and piles of building materials. Several colonial-era figures in period clothing study architectural plans in the foreground. A scroll at the bottom reads “Washington, D.C. 1798.”",
       "url": "https://www.trumpstruth.org/statuses/39799",
       "raw": {
         "creator": "",
@@ -1553,7 +1848,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39799",
         "isoDate": "2026-07-05T21:10:31.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:18:50.215Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17005/0c1f301542b7aa64.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39801",
@@ -1577,7 +1876,7 @@
       "id": "https://www.trumpstruth.org/statuses/39800",
       "publishedAt": "2026-07-05T21:21:31.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116869462082097713</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116869462082097713</span></p>\n\n[Image] A screenshot of a post from verified account Gozman (@Gozman702). The post says Mike Tyson needed one round to make a statement and claims Henry Tillman had no chance against Tyson’s explosive knockout power. It asks whether anyone from that era could have survived that version of Tyson and includes a boxing glove emoji and the hashtag #Boxing.",
       "url": "https://www.trumpstruth.org/statuses/39800",
       "raw": {
         "creator": "",
@@ -1589,7 +1888,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116869462082097713",
         "guid": "https://www.trumpstruth.org/statuses/39800",
         "isoDate": "2026-07-05T21:21:31.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:18:46.855Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17006/cd00dcf6b0407651.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39807",
@@ -1613,7 +1916,7 @@
       "id": "https://www.trumpstruth.org/statuses/39806",
       "publishedAt": "2026-07-05T21:25:07.000Z",
       "title": "RT @realDonaldTrumpThe Crowd at 7:05 in the evening was 422,000 people! All were forced to leave because of the weather, the event was cancelled, and everyone was gone because of lightning. When I heard that it was cancelled, I immediately overturned that decision, and waited a while for people to come back. Incredibly, at least 150,000 people returned, and it was an even more spectacular evening than it would have been as normalized! It showed work under pressure. Congratulations to the Secret Service and Law Enforcement on being able to get so many people back into the Arena in such rapid fashion! It was an amazing evening made even more spectacular by the fact that, immediately after the Great Fireworks ended, the rains came down, full blast! President DONALD J. TRUMP",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>The Crowd at 7:05 in the evening was 422,000 people! All were forced to leave because of the weather, the event was cancelled, and everyone was gone because of lightning. When I heard that it was cancelled, I immediately overturned that decision, and waited a while for people to come back. Incredibly, at least 150,000 people returned, and it was an even more spectacular evening than it would have been as normalized! It showed work under pressure. Congratulations to the Secret Service and Law Enforcement on being able to get so many people back into the Arena in such rapid fashion! It was an amazing evening made even more spectacular by the fact that, immediately after the Great Fireworks ended, the rains came down, full blast! President DONALD J. TRUMP</p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>The Crowd at 7:05 in the evening was 422,000 people! All were forced to leave because of the weather, the event was cancelled, and everyone was gone because of lightning. When I heard that it was cancelled, I immediately overturned that decision, and waited a while for people to come back. Incredibly, at least 150,000 people returned, and it was an even more spectacular evening than it would have been as normalized! It showed work under pressure. Congratulations to the Secret Service and Law Enforcement on being able to get so many people back into the Arena in such rapid fashion! It was an amazing evening made even more spectacular by the fact that, immediately after the Great Fireworks ended, the rains came down, full blast! President DONALD J. TRUMP</p>\n\n[Image] A large outdoor gathering fills the grounds and seating areas in front of the Jefferson Memorial in Washington, D.C. American flags line the event space, with white tents, lighting, and a large screen displaying an American flag graphic in the foreground. The Potomac River, bridges, and distant buildings are visible behind the memorial.",
       "url": "https://www.trumpstruth.org/statuses/39806",
       "raw": {
         "creator": "",
@@ -1625,13 +1928,17 @@
         "contentSnippet": "RT @realDonaldTrumpThe Crowd at 7:05 in the evening was 422,000 people! All were forced to leave because of the weather, the event was cancelled, and everyone was gone because of lightning. When I heard that it was cancelled, I immediately overturned that decision, and waited a while for people to come back. Incredibly, at least 150,000 people returned, and it was an even more spectacular evening than it would have been as normalized! It showed work under pressure. Congratulations to the Secret Service and Law Enforcement on being able to get so many people back into the Arena in such rapid fashion! It was an amazing evening made even more spectacular by the fact that, immediately after the Great Fireworks ended, the rains came down, full blast! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/39806",
         "isoDate": "2026-07-05T21:25:07.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:18:43.181Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16979/ef3042eb2fcae749.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39805",
       "publishedAt": "2026-07-05T21:25:13.000Z",
       "title": "RT @realDonaldTrumpDr. John G. Trump, of MIT!",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>Dr. John G. Trump, of MIT!</p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>Dr. John G. Trump, of MIT!</p>\n\n[Image] A four-panel black-and-white collage labeled “Dr. John G. Trump” shows physicist John G. Trump in formal attire. The images include a close-up portrait, laboratory scenes with colleagues, and Trump examining or standing beside large cylindrical experimental equipment, including a ribbed metal apparatus and a suspended chamber.",
       "url": "https://www.trumpstruth.org/statuses/39805",
       "raw": {
         "creator": "",
@@ -1643,13 +1950,20 @@
         "contentSnippet": "RT @realDonaldTrumpDr. John G. Trump, of MIT!",
         "guid": "https://www.trumpstruth.org/statuses/39805",
         "isoDate": "2026-07-05T21:25:13.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:18:40.542Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16987/6c273bfef2e50c5f.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16988/0f54f305fffbb810.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16989/56524d4e3aa7b0e7.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16990/cd509716132f0d76.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39804",
       "publishedAt": "2026-07-05T21:25:16.000Z",
       "title": "RT @realDonaldTrumpMy father and mentor, Fred C. Trump!",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>My father and mentor, Fred C. Trump!</p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>My father and mentor, Fred C. Trump!</p>\n\n[Image] A black-and-white photograph shows a mustached man in a suit and tie seated behind a large desk. He holds a pen over a document, with papers and folders spread across the desktop. A high-backed leather chair, patterned curtains, and a window are visible behind him, giving the scene the appearance of an office or government workplace.",
       "url": "https://www.trumpstruth.org/statuses/39804",
       "raw": {
         "creator": "",
@@ -1661,13 +1975,17 @@
         "contentSnippet": "RT @realDonaldTrumpMy father and mentor, Fred C. Trump!",
         "guid": "https://www.trumpstruth.org/statuses/39804",
         "isoDate": "2026-07-05T21:25:16.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:18:37.665Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16986/557a68da25a2cb50.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39803",
       "publishedAt": "2026-07-05T21:25:19.000Z",
       "title": "RT @realDonaldTrumpMy father, grandparents, uncle, and aunt!",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>My father, grandparents, uncle, and aunt!</p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>My father, grandparents, uncle, and aunt!</p>\n\n[Image] A colorized historical-style family portrait is labeled “The Trump Family, 1915.” Five people pose in a studio: Fred Trump and John Trump stand at the sides, while Friedrich Trump sits beside Elizabeth Trump, with Elisabeth Trump standing behind them. The adults and children wear formal early-20th-century clothing against a painted backdrop.",
       "url": "https://www.trumpstruth.org/statuses/39803",
       "raw": {
         "creator": "",
@@ -1679,13 +1997,17 @@
         "contentSnippet": "RT @realDonaldTrumpMy father, grandparents, uncle, and aunt!",
         "guid": "https://www.trumpstruth.org/statuses/39803",
         "isoDate": "2026-07-05T21:25:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:18:34.743Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16992/ca8fc6e53b1c72c4.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39802",
       "publishedAt": "2026-07-05T21:25:31.000Z",
       "title": "RT @realDonaldTrumpJustin Gaethje after his Big Victory, and attaining the UFC World Championship, at the front door of the White House. He is a Great Fighter! President DONALD J. TRUMP",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>Justin Gaethje after his Big Victory, and attaining the UFC World Championship, at the front door of the White House. He is a Great Fighter! President DONALD J. TRUMP</p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>Justin Gaethje after his Big Victory, and attaining the UFC World Championship, at the front door of the White House. He is a Great Fighter! President DONALD J. TRUMP</p>\n\n[Image] Donald Trump, wearing a white cap and dark suit, stands beside the UFC octagon amid a crowded arena. A shirtless fighter in American-flag shorts leans over the cage barrier while camera operators film nearby. Spectators and event staff surround the scene, many holding up phones to record the interaction.",
       "url": "https://www.trumpstruth.org/statuses/39802",
       "raw": {
         "creator": "",
@@ -1697,13 +2019,17 @@
         "contentSnippet": "RT @realDonaldTrumpJustin Gaethje after his Big Victory, and attaining the UFC World Championship, at the front door of the White House. He is a Great Fighter! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/39802",
         "isoDate": "2026-07-05T21:25:31.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:18:31.180Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17004/b1c62330bd401f78.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39814",
       "publishedAt": "2026-07-05T21:33:01.000Z",
       "title": "[No Title] - Post from July 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is headed “Trump’s America in 2026.” An American flag waves from a pole topped with a gold eagle against a clear blue sky. Dark silhouettes of military aircraft fly overhead, including a large angular aircraft near the center and a smaller jet in the upper right. Donald Trump is referenced in the headline but is not pictured.",
       "url": "https://www.trumpstruth.org/statuses/39814",
       "raw": {
         "creator": "",
@@ -1715,7 +2041,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39814",
         "isoDate": "2026-07-05T21:33:01.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:18:28.001Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17008/7bf2423e27d9190f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39813",
@@ -1739,7 +2069,7 @@
       "id": "https://www.trumpstruth.org/statuses/39812",
       "publishedAt": "2026-07-05T21:33:19.000Z",
       "title": "RT @realDonaldTrumpThe Crowd at 7:05 in the evening was 422,000 people! All were forced to leave because of the weather, the event was cancelled, and everyone was gone because of lightning. When I heard that it was cancelled, I immediately overturned that decision, and waited a while for people to come back. Incredibly, at least 150,000 people returned, and it was an even more spectacular evening than it would have been as normalized! It showed work under pressure. Congratulations to the Secret Service and Law Enforcement on being able to get so many people back into the Arena in such rapid fashion! It was an amazing evening made even more spectacular by the fact that, immediately after the Great Fireworks ended, the rains came down, full blast! President DONALD J. TRUMP",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>The Crowd at 7:05 in the evening was 422,000 people! All were forced to leave because of the weather, the event was cancelled, and everyone was gone because of lightning. When I heard that it was cancelled, I immediately overturned that decision, and waited a while for people to come back. Incredibly, at least 150,000 people returned, and it was an even more spectacular evening than it would have been as normalized! It showed work under pressure. Congratulations to the Secret Service and Law Enforcement on being able to get so many people back into the Arena in such rapid fashion! It was an amazing evening made even more spectacular by the fact that, immediately after the Great Fireworks ended, the rains came down, full blast! President DONALD J. TRUMP</p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>The Crowd at 7:05 in the evening was 422,000 people! All were forced to leave because of the weather, the event was cancelled, and everyone was gone because of lightning. When I heard that it was cancelled, I immediately overturned that decision, and waited a while for people to come back. Incredibly, at least 150,000 people returned, and it was an even more spectacular evening than it would have been as normalized! It showed work under pressure. Congratulations to the Secret Service and Law Enforcement on being able to get so many people back into the Arena in such rapid fashion! It was an amazing evening made even more spectacular by the fact that, immediately after the Great Fireworks ended, the rains came down, full blast! President DONALD J. TRUMP</p>\n\n[Image] A large outdoor gathering fills the grounds in front of the Jefferson Memorial in Washington, D.C. Crowds occupy temporary bleachers and lawn areas around a stage displaying an American flag graphic, with numerous U.S. flags and white tents visible throughout. The memorial’s domed neoclassical structure stands prominently behind the event.",
       "url": "https://www.trumpstruth.org/statuses/39812",
       "raw": {
         "creator": "",
@@ -1751,13 +2081,17 @@
         "contentSnippet": "RT @realDonaldTrumpThe Crowd at 7:05 in the evening was 422,000 people! All were forced to leave because of the weather, the event was cancelled, and everyone was gone because of lightning. When I heard that it was cancelled, I immediately overturned that decision, and waited a while for people to come back. Incredibly, at least 150,000 people returned, and it was an even more spectacular evening than it would have been as normalized! It showed work under pressure. Congratulations to the Secret Service and Law Enforcement on being able to get so many people back into the Arena in such rapid fashion! It was an amazing evening made even more spectacular by the fact that, immediately after the Great Fireworks ended, the rains came down, full blast! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/39812",
         "isoDate": "2026-07-05T21:33:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:18:24.638Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16979/ef3042eb2fcae749.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39811",
       "publishedAt": "2026-07-05T21:33:24.000Z",
       "title": "RT @realDonaldTrumpDr. John G. Trump, of MIT!",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>Dr. John G. Trump, of MIT!</p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>Dr. John G. Trump, of MIT!</p>\n\n[Image] A four-image black-and-white collage labeled “Dr. John G. Trump.” It shows a formal portrait of physicist John G. Trump, two photographs of him working with large cylindrical scientific apparatus in a laboratory, and another image of him standing beside a tall ribbed device. The scenes appear to date from the mid-20th century.",
       "url": "https://www.trumpstruth.org/statuses/39811",
       "raw": {
         "creator": "",
@@ -1769,13 +2103,20 @@
         "contentSnippet": "RT @realDonaldTrumpDr. John G. Trump, of MIT!",
         "guid": "https://www.trumpstruth.org/statuses/39811",
         "isoDate": "2026-07-05T21:33:24.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:18:21.222Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16987/6c273bfef2e50c5f.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16988/0f54f305fffbb810.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16989/56524d4e3aa7b0e7.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16990/cd509716132f0d76.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39810",
       "publishedAt": "2026-07-05T21:33:28.000Z",
       "title": "RT @realDonaldTrumpMy father and mentor, Fred C. Trump!",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>My father and mentor, Fred C. Trump!</p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>My father and mentor, Fred C. Trump!</p>\n\n[Image] A black-and-white photograph shows a mustached man in a suit and tie seated at a large desk. He is holding a pen over a document, with additional papers spread across the desk. A high-backed leather chair, patterned curtains, and a stack of books are visible in the office behind him.",
       "url": "https://www.trumpstruth.org/statuses/39810",
       "raw": {
         "creator": "",
@@ -1787,13 +2128,17 @@
         "contentSnippet": "RT @realDonaldTrumpMy father and mentor, Fred C. Trump!",
         "guid": "https://www.trumpstruth.org/statuses/39810",
         "isoDate": "2026-07-05T21:33:28.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:18:17.827Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16986/557a68da25a2cb50.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39809",
       "publishedAt": "2026-07-05T21:33:32.000Z",
       "title": "RT @realDonaldTrumpMy father, grandparents, uncle, and aunt!",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>My father, grandparents, uncle, and aunt!</p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>My father, grandparents, uncle, and aunt!</p>\n\n[Image] A colorized historical-style family portrait is labeled “The Trump Family, 1915.” Fred Trump, Friedrich Trump, Elizabeth Trump, Elisabeth Trump, and John Trump are listed above the image. Two men and two boys wear dark suits, while two women wear period clothing; the adults sit or stand against a painted studio backdrop.",
       "url": "https://www.trumpstruth.org/statuses/39809",
       "raw": {
         "creator": "",
@@ -1805,13 +2150,17 @@
         "contentSnippet": "RT @realDonaldTrumpMy father, grandparents, uncle, and aunt!",
         "guid": "https://www.trumpstruth.org/statuses/39809",
         "isoDate": "2026-07-05T21:33:32.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:18:13.625Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16992/ca8fc6e53b1c72c4.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39808",
       "publishedAt": "2026-07-05T21:33:36.000Z",
       "title": "RT @realDonaldTrumpJustin Gaethje after his Big Victory, and attaining the UFC World Championship, at the front door of the White House. He is a Great Fighter! President DONALD J. TRUMP",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>Justin Gaethje after his Big Victory, and attaining the UFC World Championship, at the front door of the White House. He is a Great Fighter! President DONALD J. TRUMP</p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>Justin Gaethje after his Big Victory, and attaining the UFC World Championship, at the front door of the White House. He is a Great Fighter! President DONALD J. TRUMP</p>\n\n[Image] Donald Trump, wearing a white cap and dark suit, stands among spectators beside the cage at a crowded combat-sports event. A shirtless fighter in American flag-patterned shorts leans over the barrier, while security personnel, photographers, and television cameramen surround him. Several audience members hold up phones to record the scene.",
       "url": "https://www.trumpstruth.org/statuses/39808",
       "raw": {
         "creator": "",
@@ -1823,7 +2172,11 @@
         "contentSnippet": "RT @realDonaldTrumpJustin Gaethje after his Big Victory, and attaining the UFC World Championship, at the front door of the White House. He is a Great Fighter! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/39808",
         "isoDate": "2026-07-05T21:33:36.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:18:10.289Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17004/b1c62330bd401f78.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -2427,5 +2780,6 @@
       "rationale": "The text is empty, making it neutral.",
       "analyzedAt": "2026-09-05T07:58:22.190Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:100:a2d20af234ee193ec5acff7d"
 }

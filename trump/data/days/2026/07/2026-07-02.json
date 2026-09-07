@@ -6,29 +6,33 @@
     "negative": 2
   },
   "summary": "positive:4 neutral:5 negative:2",
-  "generatedAt": "2026-09-05T20:02:41.717Z",
+  "generatedAt": "2026-09-07T19:48:55.000Z",
   "topics": [
-    "National Scallops Day declared by Trump",
-    "Micron invests in Trump Accounts",
-    "S&P 500 has strongest quarter since 2020"
+    "Criticizes U.S. NATO spending as Pete Hegseth argues for increased defense expenditures",
+    "Criticizes Biden administration over border conditions shown in migrant camp imagery",
+    "Highlights Micron’s $250 million contribution to Trump Accounts as its stock rises"
   ],
-  "trendingTopic": "Trump declares National Scallops Day to celebrate fishing industry boost",
+  "trendingTopic": "Trump criticizes NATO’s cost to the United States as Pete Hegseth argues for higher defense spending",
   "secondaryHighlights": [
     {
-      "topic": "Micron invests 250 million dollars into Trump Accounts"
+      "topic": "Criticizes Biden administration over border conditions shown in migrant camp imagery",
+      "name": "Joe Biden"
     },
     {
-      "topic": "S&P 500 closes with strongest quarter since 2020"
+      "topic": "Highlights Micron’s $250 million contribution to Trump Accounts as its stock rises"
+    },
+    {
+      "topic": "Declares National Scallops Day after NOAA opens Georges Bank fishing grounds"
     }
   ],
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v3:11:4cd3872f8ce103d8d8ec6714",
+  "topicsCacheKey": "day-themes-v10:11:4cd3872f8ce103d8d8ec6714",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39660",
       "publishedAt": "2026-07-02T00:51:13.000Z",
       "title": "This was a typical day on the Border under the Sleepy Joe Biden Administration with “Border Czar” Kamala Harris!",
-      "text": "<p>This was a typical day on the Border under the Sleepy Joe Biden Administration with “Border Czar” Kamala Harris!</p>",
+      "text": "<p>This was a typical day on the Border under the Sleepy Joe Biden Administration with “Border Czar” Kamala Harris!</p>\n\n[Image] A four-image collage shows large groups of Black migrants wading through a river while carrying bags, boxes, clothing, and other belongings. Other scenes show people gathered near a water-control structure and a sprawling makeshift encampment beneath a highway bridge, with tents, shelters, umbrellas, and scattered supplies.",
       "url": "https://www.trumpstruth.org/statuses/39660",
       "raw": {
         "creator": "",
@@ -40,7 +44,12 @@
         "contentSnippet": "This was a typical day on the Border under the Sleepy Joe Biden Administration with “Border Czar” Kamala Harris!",
         "guid": "https://www.trumpstruth.org/statuses/39660",
         "isoDate": "2026-07-02T00:51:13.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:17:31.449Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16873/4acf07290f83f6ca.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16874/01c4be3f1549fc00.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39659",
@@ -290,5 +299,6 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T07:57:28.686Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:11:4cd3872f8ce103d8d8ec6714"
 }

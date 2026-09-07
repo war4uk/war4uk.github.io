@@ -6,24 +6,26 @@
     "negative": 2
   },
   "summary": "positive:12 neutral:25 negative:2",
-  "generatedAt": "2026-09-05T19:56:12.937Z",
+  "generatedAt": "2026-09-07T19:52:47.418Z",
   "topics": [
-    "Todd Blanche's leadership as Acting Attorney General",
-    "Trump's economic achievements and military actions",
-    "Vandalism and repairs at the Reflecting Pool"
+    "Trump showcases restored Washington monuments and parks while blaming prior vandalism and neglect",
+    "Trump campaigns at Pennsylvania’s Mack Trucks plant with manufacturing, jobs, and economic promises",
+    "Trump appears with Xi Jinping in formal China ceremony photographs"
   ],
-  "trendingTopic": "Todd Blanche praised for historic drop in crime under his leadership as Acting Attorney General",
-  "trendingName": "Todd Blanche",
+  "trendingTopic": "Trump showcases restored Washington monuments and parks while blaming prior vandalism and neglect",
   "secondaryHighlights": [
     {
-      "topic": "Trump touts economic progress and military strength in relation to Iran"
+      "topic": "Trump reiterates support for national concealed-carry legislation"
     },
     {
-      "topic": "Trump addresses vandalism at the Reflecting Pool and ongoing repairs"
+      "topic": "Old footage resurfaces of Trump advocating a tougher response to Iran"
+    },
+    {
+      "topic": "Trump proposes a classical northern facade addition to the White House"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v3:39:d20909277f2faceb5770a533",
+  "selfPraiseCount": 6,
+  "topicsCacheKey": "day-themes-v10:39:d20909277f2faceb5770a533",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40019",
@@ -101,7 +103,7 @@
       "id": "https://www.trumpstruth.org/statuses/40027",
       "publishedAt": "2026-07-14T14:27:51.000Z",
       "title": "Trump donates $1 million to Mike Johnson for recordbreaking fundraiser:",
-      "text": "<p>Trump donates $1 million to Mike Johnson for recordbreaking fundraiser:</p>",
+      "text": "<p>Trump donates $1 million to Mike Johnson for recordbreaking fundraiser:</p>\n\n[Image] Two-page Washington Examiner article by Rachel Schilke carries the headline “Trump donates $1 million to Mike Johnson for recordbreaking fundraiser.” A photograph shows Donald Trump shaking hands with House Speaker Mike Johnson at an event with American flags and a blue backdrop. The article text discusses the donation and Johnson’s $20 million fundraising total.",
       "url": "https://www.trumpstruth.org/statuses/40027",
       "raw": {
         "creator": "",
@@ -113,7 +115,12 @@
         "contentSnippet": "Trump donates $1 million to Mike Johnson for recordbreaking fundraiser:",
         "guid": "https://www.trumpstruth.org/statuses/40027",
         "isoDate": "2026-07-14T14:27:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:29:09.701Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17155/4fdaec3e53088fa3.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17156/51d1b80426a6b820.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40026",
@@ -173,7 +180,7 @@
       "id": "https://www.trumpstruth.org/statuses/40023",
       "publishedAt": "2026-07-14T14:29:18.000Z",
       "title": "[No Title] - Post from July 14, 2026",
-      "text": "<p><a href=\"https://www.theguardian.com/commentisfree/2017/jan/12/polly-toynbee-1988-interview-donald-trump\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theguardian.com/commentisfree/</span><span class=\"invisible\">2017/jan/12/polly-toynbee-1988-interview-donald-trump</span></a></p>",
+      "text": "<p><a href=\"https://www.theguardian.com/commentisfree/2017/jan/12/polly-toynbee-1988-interview-donald-trump\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theguardian.com/commentisfree/</span><span class=\"invisible\">2017/jan/12/polly-toynbee-1988-interview-donald-trump</span></a></p>\n\n[Image] A screenshot of an X post by “The Reckoning” says, “I had no idea Trump had said this. In 1988! TAKE KHARG ISLAND!” It includes a Guardian link and a quoted passage attributed to Donald Trump, criticizing Iran and proposing that the United States seize Kharg Island after an attack on American personnel or ships. The post shows 677,000 views.",
       "url": "https://www.trumpstruth.org/statuses/40023",
       "raw": {
         "creator": "",
@@ -185,13 +192,17 @@
         "contentSnippet": "https://www.theguardian.com/commentisfree/2017/jan/12/polly-toynbee-1988-interview-donald-trump",
         "guid": "https://www.trumpstruth.org/statuses/40023",
         "isoDate": "2026-07-14T14:29:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:29:06.409Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17154/775a91b5bc572115.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40034",
       "publishedAt": "2026-07-14T14:30:54.000Z",
       "title": "[No Title] - Post from July 14, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “Japan Trade and Investment Deal” compares a deal with no deal. It lists an original $70 billion deficit, a 15% deal valued at $63 billion, and projected annual figures for Japan market access, tariffs, cash flow, and U.S. exports. It claims $30 billion in annual profit, a $45 billion annual benefit, a $650 billion U.S. balance-sheet gain, and elimination of the trade deficit.",
       "url": "https://www.trumpstruth.org/statuses/40034",
       "raw": {
         "creator": "",
@@ -203,7 +214,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40034",
         "isoDate": "2026-07-14T14:30:54.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:29:03.182Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17157/384f92b51c5a9e5d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40033",
@@ -335,7 +350,7 @@
       "id": "https://www.trumpstruth.org/statuses/40037",
       "publishedAt": "2026-07-14T14:40:49.000Z",
       "title": "[No Title] - Post from July 14, 2026",
-      "text": "<p><a href=\"https://x.com/zitosalena/status/2069453791057834413?s=46\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/zitosalena/status/206945</span><span class=\"invisible\">3791057834413?s=46</span></a></p>",
+      "text": "<p><a href=\"https://x.com/zitosalena/status/2069453791057834413?s=46\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/zitosalena/status/206945</span><span class=\"invisible\">3791057834413?s=46</span></a></p>\n\n[Image] A social-media post by Zito Salena says a large crowd waited in pouring rain for Donald Trump’s first event at a Mack Trucks facility in the Lehigh Valley. The attached collage shows attendees seated inside a factory, a Mack truck on the production floor, a large American flag, and an industrial interior with banners and equipment.",
       "url": "https://www.trumpstruth.org/statuses/40037",
       "raw": {
         "creator": "",
@@ -347,13 +362,17 @@
         "contentSnippet": "https://x.com/zitosalena/status/2069453791057834413?s=46",
         "guid": "https://www.trumpstruth.org/statuses/40037",
         "isoDate": "2026-07-14T14:40:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:28:58.813Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17162/bae9c1656528e2a2.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40036",
       "publishedAt": "2026-07-14T14:41:05.000Z",
       "title": "[No Title] - Post from July 14, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Four screenshots of posts on X discuss Donald Trump speaking at a Mack Trucks facility in Macungie, Pennsylvania. The posts describe a large crowd, “USA” chants, support from Pennsylvania residents, and claims about tax cuts and company investment. One post says Trump joked about running for office again and references constitutional term limits.",
       "url": "https://www.trumpstruth.org/statuses/40036",
       "raw": {
         "creator": "",
@@ -365,7 +384,14 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40036",
         "isoDate": "2026-07-14T14:41:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:28:54.418Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17158/24ac467ebb07ba06.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17159/ff8d48a09d51a59e.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17160/3642ede0a83fb854.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17161/bcbaa66f9e8ba304.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40038",
@@ -389,7 +415,7 @@
       "id": "https://www.trumpstruth.org/statuses/40039",
       "publishedAt": "2026-07-14T15:09:57.000Z",
       "title": "[No Title] - Post from July 14, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116918849750053085</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116918849750053085</span></p>\n\n[Image] A collage of X posts and a rally video shows a large crowd gathered inside a Mack Trucks facility in Macungie, Pennsylvania. Donald Trump is described as speaking to workers and supporters amid “USA” chants. Posts mention American manufacturing, jobs, investments, tax cuts, and Trump’s comments about possibly running for office again. Signs read “American Workers First.”",
       "url": "https://www.trumpstruth.org/statuses/40039",
       "raw": {
         "creator": "",
@@ -401,13 +427,24 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116918849750053085",
         "guid": "https://www.trumpstruth.org/statuses/40039",
         "isoDate": "2026-07-14T15:09:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:28:51.008Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17163/0c1ffdf5c5d07299.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17164/7a1c7b51a8108d53.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17165/c6c29398bb1feff7.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17166/fa9335cd72f9de56.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17158/24ac467ebb07ba06.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17159/ff8d48a09d51a59e.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17160/3642ede0a83fb854.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17161/bcbaa66f9e8ba304.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40040",
       "publishedAt": "2026-07-14T15:10:25.000Z",
       "title": "[No Title] - Post from July 14, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116918963238538617</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116918963238538617</span></p>\n\n[Image] A collage of screenshots from X posts about Donald Trump speaking at a Mack Trucks facility in Macungie, Pennsylvania. The posts describe a large crowd, “USA” chants, manufacturing and job announcements, and Trump’s comments about winning Pennsylvania. One embedded video shows Trump at a podium before workers wearing high-visibility vests, while another shows a crowded factory event.",
       "url": "https://www.trumpstruth.org/statuses/40040",
       "raw": {
         "creator": "",
@@ -419,13 +456,28 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116918963238538617",
         "guid": "https://www.trumpstruth.org/statuses/40040",
         "isoDate": "2026-07-14T15:10:25.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:28:47.665Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17167/68cdd383eed44484.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17168/e45de3cd452f7119.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17169/7a593b5c6698cc90.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17170/38540353bdd48235.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17163/0c1ffdf5c5d07299.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17164/7a1c7b51a8108d53.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17165/c6c29398bb1feff7.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17166/fa9335cd72f9de56.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17158/24ac467ebb07ba06.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17159/ff8d48a09d51a59e.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17160/3642ede0a83fb854.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17161/bcbaa66f9e8ba304.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40042",
       "publishedAt": "2026-07-14T15:16:08.000Z",
       "title": "[No Title] - Post from July 14, 2026",
-      "text": "<p><a href=\"https://x.com/jaysonbuford/status/2030479304228782448?s=46\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/jaysonbuford/status/2030</span><span class=\"invisible\">479304228782448?s=46</span></a></p>",
+      "text": "<p><a href=\"https://x.com/jaysonbuford/status/2030479304228782448?s=46\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/jaysonbuford/status/2030</span><span class=\"invisible\">479304228782448?s=46</span></a></p>\n\n[Image] A screenshot of a social-media post by Randy Barnett says, “But Trump’s life is off the charts.” An embedded post claims Donald Trump protected Kobe Bryant in an elevator at the 1998 NBA All-Star Game. Below it is a photographed book excerpt describing Bryant, Michael Jordan, Shaquille O’Neal, and the Lakers’ All-Star events. The post is dated March 8, 2026.",
       "url": "https://www.trumpstruth.org/statuses/40042",
       "raw": {
         "creator": "",
@@ -437,13 +489,17 @@
         "contentSnippet": "https://x.com/jaysonbuford/status/2030479304228782448?s=46",
         "guid": "https://www.trumpstruth.org/statuses/40042",
         "isoDate": "2026-07-14T15:16:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:28:44.083Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17175/c90f1f7cdf8ff465.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40041",
       "publishedAt": "2026-07-14T15:18:22.000Z",
       "title": "[No Title] - Post from July 14, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Four pages of an AMAC article titled “Trump Makes America a Nation of Builders Again,” by Shane Harris, discuss Donald Trump’s emphasis on construction, manufacturing, infrastructure, and national ambition. The first page shows Donald Trump in a suit and red tie speaking at a presidential podium outdoors. The remaining pages contain dense text about proposed projects and American history.",
       "url": "https://www.trumpstruth.org/statuses/40041",
       "raw": {
         "creator": "",
@@ -455,13 +511,20 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40041",
         "isoDate": "2026-07-14T15:18:22.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:28:40.434Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17171/fdba47b6fa6749db.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17172/c408c08abbd7a3eb.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17173/9cb3e9227fa14d77.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17174/03c8929bdd5f3661.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40049",
       "publishedAt": "2026-07-14T15:20:46.000Z",
       "title": "[No Title] - Post from July 14, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Two images show an equestrian statue in Lafayette Square near the White House and Washington Monument. The first is a vintage, colorized view with cannons and a fenced lawn. The second shows the statue’s graffiti-marked pedestal, US Park Police officers, ropes, fencing, and scattered equipment after a protest, with a large detached cannon-like object in the foreground.",
       "url": "https://www.trumpstruth.org/statuses/40049",
       "raw": {
         "creator": "",
@@ -473,13 +536,18 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40049",
         "isoDate": "2026-07-14T15:20:46.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:28:37.005Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17184/f17c08e078e9520b.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17185/4d250bfa06dc910d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40048",
       "publishedAt": "2026-07-14T15:21:01.000Z",
       "title": "[No Title] - Post from July 14, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116919005802587593</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116919005802587593</span></p>\n\n[Image] Three views of the equestrian Andrew Jackson statue in Lafayette Square, with the White House and Washington Monument behind it. The first shows the monument amid autumn foliage; the second is an older tinted image with cannons beside the pedestal. The third shows US Park Police near graffiti, debris, ropes, and a damaged or dismantled cannon carriage.",
       "url": "https://www.trumpstruth.org/statuses/40048",
       "raw": {
         "creator": "",
@@ -491,13 +559,19 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116919005802587593",
         "guid": "https://www.trumpstruth.org/statuses/40048",
         "isoDate": "2026-07-14T15:21:01.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:28:33.491Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17183/b2e3e0e6fc67bca5.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17184/f17c08e078e9520b.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17185/4d250bfa06dc910d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40047",
       "publishedAt": "2026-07-14T15:21:42.000Z",
       "title": "[No Title] - Post from July 14, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A comparison graphic titled “COLUMBUS CIRCLE” shows two pairs of photographs labeled “Biden” and “Trump.” The Biden images depict the monument covered in graffiti, including political messages, and a damaged or empty fountain area. The Trump images show a clean white marble monument, flowing water, and people gathered nearby, with an American flag visible.",
       "url": "https://www.trumpstruth.org/statuses/40047",
       "raw": {
         "creator": "",
@@ -509,13 +583,18 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40047",
         "isoDate": "2026-07-14T15:21:42.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:28:28.707Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17181/e59f0b65da672174.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17182/a0a30852d92ad254.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40046",
       "publishedAt": "2026-07-14T15:21:53.000Z",
       "title": "[No Title] - Post from July 14, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116919009421917400</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116919009421917400</span></p>\n\n[Image] A three-panel collage about Columbus Circle contrasts images labeled “Biden” and “Trump.” The upper panel shows a clean white marble monument with sculpted figures, blue sky, and an American flag. The lower panels compare a monument covered in graffiti and red paint with a clean view of the same monument, where several people stand nearby.",
       "url": "https://www.trumpstruth.org/statuses/40046",
       "raw": {
         "creator": "",
@@ -527,13 +606,19 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116919009421917400",
         "guid": "https://www.trumpstruth.org/statuses/40046",
         "isoDate": "2026-07-14T15:21:53.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:28:25.141Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17180/901bbe3df1fd3879.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17181/e59f0b65da672174.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17182/a0a30852d92ad254.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40045",
       "publishedAt": "2026-07-14T15:22:54.000Z",
       "title": "[No Title] - Post from July 14, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Two views show a large, stepped urban water feature surrounded by evergreen trees and paved walkways. The first image shows the channels mostly dry and overgrown, while the second shows water flowing through the central cascade, with visitors sitting along the edges and walking nearby. Mid-rise office and residential buildings are visible beyond the trees.",
       "url": "https://www.trumpstruth.org/statuses/40045",
       "raw": {
         "creator": "",
@@ -545,13 +630,18 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40045",
         "isoDate": "2026-07-14T15:22:54.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:28:22.165Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17178/ec5a456aaa2e5c63.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17179/09fc23a133402659.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40044",
       "publishedAt": "2026-07-14T15:23:08.000Z",
       "title": "[No Title] - Post from July 14, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116919014141252508</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116919014141252508</span></p>\n\n[Image] A social-media post from “Trump War Room” features a small profile image of Donald Trump and compares Meridian Hill Park before and after. The first photo shows an overgrown, dry cascade and empty paths. The second shows restored flowing water, maintained landscaping, and many visitors sitting and walking around the fountain. The post credits a Trump administration executive order.",
       "url": "https://www.trumpstruth.org/statuses/40044",
       "raw": {
         "creator": "",
@@ -563,13 +653,19 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116919014141252508",
         "guid": "https://www.trumpstruth.org/statuses/40044",
         "isoDate": "2026-07-14T15:23:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:28:19.004Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17177/58c7718ced5f408a.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17178/ec5a456aaa2e5c63.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17179/09fc23a133402659.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40043",
       "publishedAt": "2026-07-14T15:23:16.000Z",
       "title": "[No Title] - Post from July 14, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A wide, stepped fountain cascades down through a landscaped park beneath a clear blue sky. Numerous visitors sit and stand along the stone walls and steps, while mature trees frame the view. At the top, an arched stone structure with a balustrade forms the focal point, and water collects in a shallow basin in the foreground.",
       "url": "https://www.trumpstruth.org/statuses/40043",
       "raw": {
         "creator": "",
@@ -581,13 +677,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40043",
         "isoDate": "2026-07-14T15:23:16.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:28:14.837Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17176/eb5e0f19cc9cee0f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40050",
       "publishedAt": "2026-07-14T15:29:14.000Z",
       "title": "East Wing Northern Facade — A match for the White House!",
-      "text": "<p>East Wing Northern Facade — A match for the White House!</p>",
+      "text": "<p>East Wing Northern Facade — A match for the White House!</p>\n\n[Image] An architectural rendering shows the White House and its surrounding grounds from the south lawn. The Washington Monument rises in the background at left, while a large classical-style extension or adjacent building stretches behind the main residence. Trees, a broad lawn, paved walkways, a driveway, and a black vehicle are visible. A U.S. flag flies above the building.",
       "url": "https://www.trumpstruth.org/statuses/40050",
       "raw": {
         "creator": "",
@@ -599,13 +699,17 @@
         "contentSnippet": "East Wing Northern Facade — A match for the White House!",
         "guid": "https://www.trumpstruth.org/statuses/40050",
         "isoDate": "2026-07-14T15:29:14.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:28:11.924Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17186/01527c69d21a1d2a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40051",
       "publishedAt": "2026-07-14T15:30:58.000Z",
       "title": "[No Title] - Post from July 14, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump sits behind the Resolute Desk in the Oval Office, gesturing toward a group of officials and advisers seated across from him. A large map of the United States is displayed behind the group, which includes several men and women taking notes or listening. The room features ornate white-and-gold decor, bookshelves, flags, and presidential furnishings.",
       "url": "https://www.trumpstruth.org/statuses/40051",
       "raw": {
         "creator": "",
@@ -617,7 +721,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40051",
         "isoDate": "2026-07-14T15:30:58.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:28:08.289Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17187/caa47ee71b2fcb78.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40052",
@@ -641,7 +749,7 @@
       "id": "https://www.trumpstruth.org/statuses/40053",
       "publishedAt": "2026-07-14T23:15:56.000Z",
       "title": "[No Title] - Post from July 14, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump sits at the center of a large formal meeting around a conference table, wearing a dark suit and bright red tie. Elon Musk stands behind him among a group of officials and business leaders, including several recognizable figures. Attendees face the table, where microphones, nameplates, bottled water, and papers are arranged. Pink and white floral arrangements fill the foreground.",
       "url": "https://www.trumpstruth.org/statuses/40053",
       "raw": {
         "creator": "",
@@ -653,13 +761,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40053",
         "isoDate": "2026-07-14T23:15:56.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:28:04.640Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17188/e47a5a622da2e9fe.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40057",
       "publishedAt": "2026-07-14T23:57:33.000Z",
       "title": "[No Title] - Post from July 14, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A black-and-white image shows Donald Trump standing in a suit behind Xi Jinping, who is also wearing a suit and raising one arm in a gesture. Several other people are partially visible in the background, with trees and blurred outdoor scenery behind them.",
       "url": "https://www.trumpstruth.org/statuses/40057",
       "raw": {
         "creator": "",
@@ -671,13 +783,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40057",
         "isoDate": "2026-07-14T23:57:33.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:28:00.795Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17192/55e1bda338576c78.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40056",
       "publishedAt": "2026-07-14T23:57:47.000Z",
       "title": "[No Title] - Post from July 14, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump and Xi Jinping stand side by side in formal dark suits outside a large arched doorway. Trump wears a bright red striped tie and an American flag lapel pin, while Xi wears a burgundy tie. The red walls and blurred figures in the passageway form the background. Both face the camera with serious expressions.",
       "url": "https://www.trumpstruth.org/statuses/40056",
       "raw": {
         "creator": "",
@@ -689,13 +805,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40056",
         "isoDate": "2026-07-14T23:57:47.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:27:59.023Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17191/cae020d48cf2e201.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40055",
       "publishedAt": "2026-07-14T23:57:53.000Z",
       "title": "[No Title] - Post from July 14, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump and Xi Jinping walk side by side along a red carpet during a formal outdoor ceremony. A Chinese military officer marches to their left, while a long line of uniformed honor guards stands at attention on the right holding rifles. Trees, ornate lamps, and landscaped grounds surround the ceremonial walkway.",
       "url": "https://www.trumpstruth.org/statuses/40055",
       "raw": {
         "creator": "",
@@ -707,13 +827,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40055",
         "isoDate": "2026-07-14T23:57:53.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:27:55.908Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17190/4c92aa39668b6941.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40054",
       "publishedAt": "2026-07-14T23:58:03.000Z",
       "title": "[No Title] - Post from July 14, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands beside the octagonal cage at a brightly lit UFC event, shaking hands with a shirtless, tattooed fighter wearing black UFC gloves and shorts. The fighter leans over the fence toward Trump while camera operators film the interaction. A large arena crowd, overhead spotlights, and colorful stage lighting fill the background.",
       "url": "https://www.trumpstruth.org/statuses/40054",
       "raw": {
         "creator": "",
@@ -725,7 +849,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40054",
         "isoDate": "2026-07-14T23:58:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:27:53.175Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17189/90f9eeaef18a7453.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -963,5 +1091,6 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:00:20.313Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:39:d20909277f2faceb5770a533"
 }

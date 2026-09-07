@@ -6,23 +6,23 @@
     "negative": 0
   },
   "summary": "positive:6 neutral:7 negative:0",
-  "generatedAt": "2026-09-05T20:03:05.146Z",
+  "generatedAt": "2026-09-07T19:50:43.946Z",
   "topics": [
-    "Trump's influence on NATO",
-    "Toyota relocates to Texas",
-    "Trump's 4th of July speech"
+    "Trump leads America’s 250th-birthday celebrations with Mount Rushmore visit and Fourth of July speech",
+    "Trump touts U.S. military strength and a stronger NATO alliance",
+    "Toyota moves production from Mexico to Texas"
   ],
-  "trendingTopic": "Trump's demands strengthen NATO and lead to Toyota's move to the U.S.",
+  "trendingTopic": "Trump leads America’s 250th-birthday celebrations with Mount Rushmore visit and Fourth of July speech",
   "secondaryHighlights": [
     {
-      "topic": "Toyota relocates from Mexico to Texas due to tariffs"
+      "topic": "Trump touts U.S. military strength and a stronger NATO alliance"
     },
     {
-      "topic": "Trump delivers impactful 4th of July speech for America's 250th birthday"
+      "topic": "Toyota moves production from Mexico to Texas"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v3:13:c602fb6ff2f921b3b9da327e",
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v10:13:c602fb6ff2f921b3b9da327e",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39865",
@@ -338,5 +338,6 @@
       "rationale": "The text expresses gratitude and highlights a positive outcome regarding NATO's strength due to Trump's demands.",
       "analyzedAt": "2026-09-05T07:58:49.568Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:13:c602fb6ff2f921b3b9da327e"
 }

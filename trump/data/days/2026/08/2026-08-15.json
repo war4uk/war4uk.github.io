@@ -6,34 +6,32 @@
     "negative": 0
   },
   "summary": "positive:5 neutral:51 negative:0",
-  "generatedAt": "2026-09-05T08:04:34.477Z",
+  "generatedAt": "2026-09-07T20:02:30.284Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Economic Growth and Job Creation",
-    "Political Commentary and Controversies"
+    "Trump promotes plans for a new White House ballroom and secure presidential facility",
+    "Posts attack Muslim politicians and Democrats over Islamic influence and domestic policy",
+    "Trump-focused posts portray U.S. military pressure on Iran, including an oil-tanker seizure"
   ],
-  "trendingTopic": "Secretary of State Marco Rubio: “In my work with heads of state and foreign ministers, I am frequently hosted in reception facilities that are visually impressive and reflective of the wealth and beauty of the nations I am visiting.",
-  "trendingName": "Marco Rubio",
+  "trendingTopic": "Trump promotes plans for a new White House ballroom and secure presidential facility",
   "secondaryHighlights": [
     {
-      "topic": "Dan Caine, Chairman of the Joint Chiefs of Staff: “I declare there is a valid military requirement for a secure, state-of-the-art facility that provides for the physical protection of the President and the command, control, and communication capabilities necessary for the President to carry out his Commander-in-Chief responsibilities over the United States Armed Forces anywhere across the globe at any time.”",
-      "name": "Dan Caine"
+      "topic": "Trump endorses four Florida state representatives as America First lawmakers"
     },
     {
-      "topic": "Jay Clayton, Director of National Intelligence: “The Project is critical for ensuring the White House can serve as a secure location for the gathering of the President, gathering of senior government officials, and gatherings that further the interests of the United States."
+      "topic": "Posts promote Donald Trump’s 2028 presidential campaign"
     },
     {
-      "topic": "Jim Jordan blasts FBI Round River as 'operation to protect Joe Biden', obstruct Congress",
-      "name": "Joe Biden"
+      "topic": "Memes contrast alleged imprisonment under Biden with freedom under Trump"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 21,
+  "topicsCacheKey": "day-themes-v10:56:fdaf86419483ed9f6696eedb",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40832",
       "publishedAt": "2026-08-15T01:38:48.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A photo of a large fountain and circular concrete basin at the World War II Memorial in Washington, D.C. Red and green graffiti covers the inner walls and floor, with paint splattered across the basin. Visitors walk around the surrounding plaza, while rows of columns and additional fountains are visible in the background. The headline “VANDALISM, AGAIN” appears above the image.",
       "url": "https://www.trumpstruth.org/statuses/40832",
       "raw": {
         "creator": "",
@@ -45,13 +43,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40832",
         "isoDate": "2026-08-15T01:38:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:16:40.587Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17637/550e07d37a561112.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40831",
       "publishedAt": "2026-08-15T01:38:57.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic titled “WALL OF STEEL” and “The Blockade” shows several gray warships firing across a tall, curving barrier in the ocean. On the far side, multiple small wooden vessels are engulfed in flames and thick black smoke. An American flag appears on the left and an Iranian flag on the right, suggesting a U.S.-Iran maritime confrontation.",
       "url": "https://www.trumpstruth.org/statuses/40831",
       "raw": {
         "creator": "",
@@ -63,13 +65,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40831",
         "isoDate": "2026-08-15T01:38:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:16:37.829Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17636/eb27d5f526301c62.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40855",
       "publishedAt": "2026-08-15T01:40:56.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands beside George Washington in an ornate, brightly lit ballroom decorated with gold-trimmed ceilings, chandeliers, tall windows, and formally set dining tables. Trump wears a dark suit with a red tie, while Washington wears an 18th-century military-style uniform with a blue sash, cream waistcoat, and white gloves.",
       "url": "https://www.trumpstruth.org/statuses/40855",
       "raw": {
         "creator": "",
@@ -81,13 +87,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40855",
         "isoDate": "2026-08-15T01:40:56.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:16:34.964Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17660/95e5b3193eea4e2b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40854",
       "publishedAt": "2026-08-15T01:41:08.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands beside a white-haired man dressed in an elaborate 18th-century black suit with a ruffled shirt. They are in a grand, brightly lit ballroom with ornate columns, gilded chandeliers, coffered ceilings, tall arched windows, round dining tables, gold chairs, floral centerpieces, and American flags in the background.",
       "url": "https://www.trumpstruth.org/statuses/40854",
       "raw": {
         "creator": "",
@@ -99,13 +109,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40854",
         "isoDate": "2026-08-15T01:41:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:16:32.280Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17659/6719467e871a2d71.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40853",
       "publishedAt": "2026-08-15T01:41:19.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump, wearing a dark suit and blue tie, walks through an ornate ballroom while holding a rolled document and pointing ahead. Beside him is a person dressed as George Washington in an 18th-century military-style coat, waistcoat, breeches, and stockings. The room is decorated with chandeliers, American flags, round dining tables, gold chairs, and purple floral arrangements.",
       "url": "https://www.trumpstruth.org/statuses/40853",
       "raw": {
         "creator": "",
@@ -117,13 +131,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40853",
         "isoDate": "2026-08-15T01:41:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:16:29.226Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17658/7842fa21b1c53160.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40852",
       "publishedAt": "2026-08-15T01:41:28.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump walks through an ornate, brightly lit ballroom beside George Washington, who wears an 18th-century military-style outfit. The expansive hall has gilded walls, elaborate chandeliers, arched windows, floral centerpieces, and rows of round tables with gold-colored chairs. An American flag stands behind them, and the scene has a polished, painterly appearance.",
       "url": "https://www.trumpstruth.org/statuses/40852",
       "raw": {
         "creator": "",
@@ -135,13 +153,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40852",
         "isoDate": "2026-08-15T01:41:28.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:16:26.250Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17657/01fe5b82a599e975.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40851",
       "publishedAt": "2026-08-15T01:41:47.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An image carries the headline “Dumnocrats” above a photograph of a bald Black woman in a black blazer speaking into a handheld microphone and gesturing with one hand. A bearded man in a black V-neck shirt stands beside her, looking to the side. The scene appears to take place outdoors in front of a building and graffiti-covered wall.",
       "url": "https://www.trumpstruth.org/statuses/40851",
       "raw": {
         "creator": "",
@@ -153,13 +175,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40851",
         "isoDate": "2026-08-15T01:41:47.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:16:22.456Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17656/94e74fa7fb6c93ee.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40850",
       "publishedAt": "2026-08-15T01:42:39.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A split-image political meme contrasts the underlined captions “Prison with Joe Biden” and “Freedom with President Trump.” The left panel shows a man viewed behind vertical bars. The right panel shows a group of people inside an airplane cabin, smiling and holding a large American flag. Donald Trump is mentioned in the caption but is not visible in the pictured group.",
       "url": "https://www.trumpstruth.org/statuses/40850",
       "raw": {
         "creator": "",
@@ -171,13 +197,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40850",
         "isoDate": "2026-08-15T01:42:39.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:16:19.382Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17655/2bc1f53da220f2e9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40849",
       "publishedAt": "2026-08-15T01:42:50.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic titled “Jihadists” shows an outline map of the United States with arrows pointing to mosque photographs in Minnesota and Michigan. It includes portraits labeled Ilhan Omar – Minnesota, Abdul El-Sayed – Michigan, and Rashida Tlaib – Michigan. The image presents these politicians alongside the inflammatory title and religious imagery.",
       "url": "https://www.trumpstruth.org/statuses/40849",
       "raw": {
         "creator": "",
@@ -189,13 +219,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40849",
         "isoDate": "2026-08-15T01:42:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:16:16.441Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17654/c7dd8f3a6222a7c1.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40848",
       "publishedAt": "2026-08-15T01:43:50.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A meme-style image shows an older white woman wearing a feathered Native-inspired headdress, patterned headband, and layered beaded necklaces beside a bearded man in a black shirt. Large text at the top reads, “Pocahontas and ‘Abdul’ want to take your stuff, and Crash the Economy!!!” A blurred person and bright indoor setting appear in the background.",
       "url": "https://www.trumpstruth.org/statuses/40848",
       "raw": {
         "creator": "",
@@ -207,13 +241,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40848",
         "isoDate": "2026-08-15T01:43:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:16:13.191Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17653/7c93dd9da3f03197.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40847",
       "publishedAt": "2026-08-15T01:44:22.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic shows a group of people gathered outdoors, with a bearded man in a black shirt raising one finger in the foreground. Several people behind him wear hijabs, and one person wears a dark sweatshirt with a large yellow logo. Large blue text across the top reads, “They are coming for your home and your belongings!”",
       "url": "https://www.trumpstruth.org/statuses/40847",
       "raw": {
         "creator": "",
@@ -225,13 +263,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40847",
         "isoDate": "2026-08-15T01:44:22.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:16:09.814Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17652/a652949420606759.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40846",
       "publishedAt": "2026-08-15T01:44:44.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump sits in a golf cart wearing a white cap marked “USA” and a white polo shirt with his name printed on it. He extends one hand toward the camera while holding the steering wheel with the other. An older gray-haired man in a dark cap and white shirt sits beside him, and another person in a blue polo stands behind them amid sunlit trees.",
       "url": "https://www.trumpstruth.org/statuses/40846",
       "raw": {
         "creator": "",
@@ -243,13 +285,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40846",
         "isoDate": "2026-08-15T01:44:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:16:06.783Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17651/d929b4fdf5277ed7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40845",
       "publishedAt": "2026-08-15T01:44:53.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic titled “Iran has NO MONEY” shows a downward-sloping line chart for the Iranian rial from Q1 ’25 through Q3 ’26. Text compares 1 million Iranian rials at approximately $1.11 initially and $0.53 later, with a downward arrow and red caption reading “Currency is Trash” beside a trash-can icon.",
       "url": "https://www.trumpstruth.org/statuses/40845",
       "raw": {
         "creator": "",
@@ -261,13 +307,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40845",
         "isoDate": "2026-08-15T01:44:53.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:16:02.290Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17650/cd6ef6ded2c75a1c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40844",
       "publishedAt": "2026-08-15T01:45:36.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A stylized poster features Donald Trump standing outdoors in a wooded setting, wearing a red “Make America Great Again” cap, black jacket, and black pants while raising one hand. Large yellow text reads “President Donald J. Trump,” and white lettering below says “40 Time Club Champion.” Pink flowers fill the foreground along the bottom edge.",
       "url": "https://www.trumpstruth.org/statuses/40844",
       "raw": {
         "creator": "",
@@ -279,13 +329,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40844",
         "isoDate": "2026-08-15T01:45:36.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:15:59.648Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17649/63fc414b7e459326.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40843",
       "publishedAt": "2026-08-15T01:46:09.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An historical-style painting depicts George Washington, at left, and architect James Hoban, at right, supervising construction of the President’s House in 1792. The unfinished neoclassical building stands amid scaffolding, building materials, and workers, while the two men examine plans and gesture toward the structure. Other figures and a horse-drawn cart occupy the foreground.",
       "url": "https://www.trumpstruth.org/statuses/40843",
       "raw": {
         "creator": "",
@@ -297,13 +351,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40843",
         "isoDate": "2026-08-15T01:46:09.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:15:57.074Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17648/afb6902e452a354b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40842",
       "publishedAt": "2026-08-15T01:46:29.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic labeled “DronePort” shows a nighttime view of Washington, D.C., with fireworks over the Washington Monument and an American flag in the foreground. A White House emblem appears at upper left. The lower half depicts a wet rooftop or platform with multiple military-style drones, helicopters, and uniformed personnel arranged around illuminated landing circles.",
       "url": "https://www.trumpstruth.org/statuses/40842",
       "raw": {
         "creator": "",
@@ -315,13 +373,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40842",
         "isoDate": "2026-08-15T01:46:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:15:53.573Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17647/3154ac931800d13e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40841",
       "publishedAt": "2026-08-15T01:46:53.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump walks toward the camera on a tarmac, wearing a dark suit, white shirt, and blue tie, with one hand raised. A helicopter marked “United States of…” is behind him, with its rotor visible. Several people stand near the aircraft, and a blue sky and distant waterfront form the background.",
       "url": "https://www.trumpstruth.org/statuses/40841",
       "raw": {
         "creator": "",
@@ -333,13 +395,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40841",
         "isoDate": "2026-08-15T01:46:53.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:15:49.755Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17646/0c0080b3e3400d49.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40840",
       "publishedAt": "2026-08-15T01:47:05.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic titled “Two Very Different America’s” contrasts two photographs. On the left, Donald Trump wears a black tuxedo beside Melania Trump, who wears a black-and-white dress. On the right, Abdurahman Mohamed El-Sayed sits with a woman wearing glasses and a white headscarf in a restaurant booth. Their names appear above the images.",
       "url": "https://www.trumpstruth.org/statuses/40840",
       "raw": {
         "creator": "",
@@ -351,13 +417,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40840",
         "isoDate": "2026-08-15T01:47:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:15:47.762Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17645/90cf5f63de8c1f07.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40839",
       "publishedAt": "2026-08-15T01:48:38.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image shows Joe Biden on a grassy golf course, wearing a blue cap, white polo shirt, dark shorts, and white shoes. He is bent over holding a golf club near the ground, with turf or debris visible beside the club. Large text at the top reads, “Biden isn’t even a 100 Handicap.”",
       "url": "https://www.trumpstruth.org/statuses/40839",
       "raw": {
         "creator": "",
@@ -369,13 +439,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40839",
         "isoDate": "2026-08-15T01:48:38.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:15:44.892Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17644/d3f4ca37152a2964.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40838",
       "publishedAt": "2026-08-15T01:48:44.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An oil-style painting depicts Donald Trump seated at a large wooden desk, wearing a blue suit and patterned tie while writing on a document. American flags, framed photographs, a globe, gold curtains, and a large map labeled “Gulf” fill the office-like background. A telephone is visible at the right edge.",
       "url": "https://www.trumpstruth.org/statuses/40838",
       "raw": {
         "creator": "",
@@ -387,13 +461,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40838",
         "isoDate": "2026-08-15T01:48:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:15:40.802Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17643/482c559161b74bc2.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40837",
       "publishedAt": "2026-08-15T01:48:50.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An impressionistic painting shows Donald Trump in a dark suit and red tie raising a fist while standing near the top of an aircraft staircase. An airplane, airport vehicles, and several uniformed personnel surround him on the tarmac. Broad brushstrokes depict a partly cloudy sky and low airport buildings in the background.",
       "url": "https://www.trumpstruth.org/statuses/40837",
       "raw": {
         "creator": "",
@@ -405,13 +483,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40837",
         "isoDate": "2026-08-15T01:48:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:15:38.054Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17642/987a80a68b56068c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40836",
       "publishedAt": "2026-08-15T01:49:05.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump is dressed as a doctor in a clinical exam room, wearing a stethoscope and holding a clipboard labeled “Trump Derangement Syndrome Assessment,” with a severe result and satirical symptoms listed. Rosie O’Donnell, identified by a name badge, sits beside him in a hospital gown, touching her forehead with a distressed expression.",
       "url": "https://www.trumpstruth.org/statuses/40836",
       "raw": {
         "creator": "",
@@ -423,13 +505,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40836",
         "isoDate": "2026-08-15T01:49:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:15:35.614Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17641/6849e4ed7b7e62a9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40835",
       "publishedAt": "2026-08-15T01:49:11.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An equestrian statue stands on a large stone pedestal in a park, framed by dark trees, a balustrade, and a dramatic cloudy sky. White Gothic lettering across the upper image reads “Only Trump,” with a ring of dark stars around it. The statue depicts an armored or historically dressed rider on horseback, but it is not clearly Donald Trump.",
       "url": "https://www.trumpstruth.org/statuses/40835",
       "raw": {
         "creator": "",
@@ -441,13 +527,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40835",
         "isoDate": "2026-08-15T01:49:11.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:15:32.988Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17640/42389e7ee7faa09c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40834",
       "publishedAt": "2026-08-15T01:49:25.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is a stylized composite labeled “Patton, Trump, MacArthur.” Donald Trump stands in the center wearing an embellished World War II-style military uniform. General George S. Patton is depicted on the left in a helmet and field gear, while General Douglas MacArthur stands on the right in a peaked cap with a pipe. Smoke, flames, tanks, and a battlefield form the background.",
       "url": "https://www.trumpstruth.org/statuses/40834",
       "raw": {
         "creator": "",
@@ -459,13 +549,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40834",
         "isoDate": "2026-08-15T01:49:25.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:15:28.769Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17639/f5fe6074029cabc3.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40833",
       "publishedAt": "2026-08-15T01:49:33.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A stylized campaign poster depicts Donald Trump standing in a dark blue suit and red tie before a cheering crowd gathered at a warmly lit venue. The background features a swirling, star-filled night sky, while signs and hats display “MAGA 2028.” Large text reads “TRUMP 2028” and “MAKE AMERICA GREAT AGAIN,” above red, white, and blue waving flags.",
       "url": "https://www.trumpstruth.org/statuses/40833",
       "raw": {
         "creator": "",
@@ -477,13 +571,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40833",
         "isoDate": "2026-08-15T01:49:33.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:15:25.026Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17638/a57392fc6ce46aa5.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40859",
       "publishedAt": "2026-08-15T01:51:21.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic compares U.S. conflicts under “Other Presidents” and Donald Trump. It lists the Vietnam War at 19 years and 58,220 dead, the Korean War at 3 years and 36,574 dead, the Iraq War at 9 years and 4,600 dead, and the Afghanistan War at 20 years and 2,000 dead. Under Trump, it shows four months in Iran, 18 dead, and one day in Venezuela with zero dead.",
       "url": "https://www.trumpstruth.org/statuses/40859",
       "raw": {
         "creator": "",
@@ -495,13 +593,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40859",
         "isoDate": "2026-08-15T01:51:21.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:15:22.059Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17664/5cddd2afdd3e27f3.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40858",
       "publishedAt": "2026-08-15T01:51:31.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political composite shows Donald Trump standing on the deck of a vessel, gripping a pole, with two armed U.S. soldiers behind him. An aircraft carrier flies an American flag in the background, while two men in white robes and head coverings appear to leap beside him. Iranian flags and a partially visible tanker are on the deck. Large text reads, “It’s Our Oil Tanker Now!”",
       "url": "https://www.trumpstruth.org/statuses/40858",
       "raw": {
         "creator": "",
@@ -513,13 +615,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40858",
         "isoDate": "2026-08-15T01:51:31.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:15:19.515Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17663/a9892e2ae4eb9893.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40857",
       "publishedAt": "2026-08-15T01:51:37.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political composite image shows Donald Trump standing on the deck of a vessel, gripping a rope beside a large American flag. Two armed soldiers stand behind him, while an aircraft carrier is visible at sea. A draped Iranian flag lies in the foreground. Bold text across the top reads, “It’s Our Oil Tanker Now!”",
       "url": "https://www.trumpstruth.org/statuses/40857",
       "raw": {
         "creator": "",
@@ -531,13 +637,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40857",
         "isoDate": "2026-08-15T01:51:37.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:15:16.528Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17662/61232fb03029c3de.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40856",
       "publishedAt": "2026-08-15T01:51:47.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands behind a campaign podium wearing a black tuxedo and adjusting a red “TRUMP 2028” baseball cap while speaking into a microphone. The podium displays large “TRUMP 2028” lettering and “MAKE AMERICA GREAT AGAIN,” with stars and red accents. A stylized American flag fills the background.",
       "url": "https://www.trumpstruth.org/statuses/40856",
       "raw": {
         "creator": "",
@@ -549,7 +659,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40856",
         "isoDate": "2026-08-15T01:51:47.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:15:13.808Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17661/c90628b5e3a11ed9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40862",
@@ -753,7 +867,7 @@
       "id": "https://www.trumpstruth.org/statuses/40873",
       "publishedAt": "2026-08-15T14:28:59.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An image labeled “VANDALISM, AGAIN” shows a large fountain and curved stone basin at the National World War II Memorial in Washington, D.C. Red and green spray-painted graffiti covers the basin walls and floor, with several people visible around the memorial’s circular plaza and columns in the background.",
       "url": "https://www.trumpstruth.org/statuses/40873",
       "raw": {
         "creator": "",
@@ -765,13 +879,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40873",
         "isoDate": "2026-08-15T14:28:59.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:15:08.190Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17665/729b208038aba32a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40874",
       "publishedAt": "2026-08-15T15:08:21.000Z",
       "title": "Despite the unfriendly look on this particular picture, there are many where we’re smiling, Kim Jong Un and I get along GREAT! President DONALD J. TRUMP",
-      "text": "<p>Despite the unfriendly look on this particular picture, there are many where we’re smiling, Kim Jong Un and I get along GREAT! President DONALD J. TRUMP</p>",
+      "text": "<p>Despite the unfriendly look on this particular picture, there are many where we’re smiling, Kim Jong Un and I get along GREAT! President DONALD J. TRUMP</p>\n\n[Image] Donald Trump and Kim Jong Un stand side by side outdoors near a blue building and a border-area structure. Trump wears a dark navy suit with a white shirt and bright red tie, while Kim wears a dark, buttoned Mao-style suit. They face the camera on a paved road, with utility poles and greenery visible in the background.",
       "url": "https://www.trumpstruth.org/statuses/40874",
       "raw": {
         "creator": "",
@@ -783,7 +901,11 @@
         "contentSnippet": "Despite the unfriendly look on this particular picture, there are many where we’re smiling, Kim Jong Un and I get along GREAT! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/40874",
         "isoDate": "2026-08-15T15:08:21.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:15:05.398Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17666/82059b47c6c2aa87.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40876",
@@ -807,7 +929,7 @@
       "id": "https://www.trumpstruth.org/statuses/40875",
       "publishedAt": "2026-08-15T15:28:53.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117100227998649926</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117100227998649926</span></p>\n\n[Image] A Fox News graphic titled “The Hill’s Influencers” ranks the most-followed members of Congress. Democrats shown are Sen. Bernie Sanders, Rep. Alexandria Ocasio-Cortez, and Sen. Elizabeth Warren; Republicans are Sen. Ted Cruz, Sen. Rand Paul, and Rep. Jim Jordan. Donald Trump is featured separately as “Influencer-in-Chief,” with 227.5 million followers.",
       "url": "https://www.trumpstruth.org/statuses/40875",
       "raw": {
         "creator": "",
@@ -819,7 +941,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117100227998649926",
         "guid": "https://www.trumpstruth.org/statuses/40875",
         "isoDate": "2026-08-15T15:28:53.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:15:02.223Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17667/b99d9309c182a717.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40877",
@@ -861,7 +987,7 @@
       "id": "https://www.trumpstruth.org/statuses/40879",
       "publishedAt": "2026-08-15T18:49:31.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A split-panel political meme contrasts “Prison with Joe Biden” on the left with “Freedom with President Trump” on the right. The left panel shows an unidentified man behind vertical jail bars. The right panel shows a group of people inside an aircraft cabin, smiling and holding a large American flag. The captions refer to Joe Biden and Donald Trump.",
       "url": "https://www.trumpstruth.org/statuses/40879",
       "raw": {
         "creator": "",
@@ -873,13 +999,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40879",
         "isoDate": "2026-08-15T18:49:31.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:14:58.893Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17671/d34fa0085356f942.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40880",
       "publishedAt": "2026-08-15T19:20:51.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump walks toward the camera on an airport tarmac, wearing a dark suit, white shirt, and blue tie while raising one hand. A helicopter marked “UNITED STATES OF...” stands behind him, with its rotor visible. Two people are near the aircraft, and a blue sky, distant water, and shoreline form the background.",
       "url": "https://www.trumpstruth.org/statuses/40880",
       "raw": {
         "creator": "",
@@ -891,13 +1021,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40880",
         "isoDate": "2026-08-15T19:20:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:14:55.905Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17672/ad68c1dca0c5f986.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40883",
       "publishedAt": "2026-08-15T20:22:08.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A stylized historical portrait shows George Washington and Donald Trump seated together at a wooden table. Washington wears an 18th-century black coat and holds a quill, while Trump wears a dark suit and blue tie with a U.S. flag pin. Both appear to be writing on a map with quill pens in an ornate wood-paneled room.",
       "url": "https://www.trumpstruth.org/statuses/40883",
       "raw": {
         "creator": "",
@@ -909,13 +1043,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40883",
         "isoDate": "2026-08-15T20:22:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:14:53.720Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17675/bdbe14926b1d17e6.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40882",
       "publishedAt": "2026-08-15T20:24:54.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A black-and-white, high-contrast portrait depicts Donald Trump wearing a dark “TRUMP 2028” baseball cap, a collared shirt, and a dark jacket. His face is mostly obscured by shadow as he looks toward the side. White Gothic-style text at the bottom reads, “We are going to win.”",
       "url": "https://www.trumpstruth.org/statuses/40882",
       "raw": {
         "creator": "",
@@ -927,13 +1065,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40882",
         "isoDate": "2026-08-15T20:24:54.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:14:50.576Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17674/d8553bda5ab7c4a4.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40881",
       "publishedAt": "2026-08-15T20:25:07.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A historical-style painting shows George Washington and Donald Trump riding side by side through a sunlit rural landscape. Washington wears a blue military coat and rides a white horse, while Trump wears a dark suit with a red tie and rides a black horse. A classical building, rolling hills, and a dramatic golden sky fill the background.",
       "url": "https://www.trumpstruth.org/statuses/40881",
       "raw": {
         "creator": "",
@@ -945,13 +1087,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40881",
         "isoDate": "2026-08-15T20:25:07.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:14:48.182Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17673/630caba3ed91d806.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40884",
       "publishedAt": "2026-08-15T20:32:47.000Z",
       "title": "[No Title] - Post from August 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A split image contrasts two panels labeled “Biden” and “President Trump.” The left panel shows an unidentified man in a dark turtleneck behind vertical bars. The right panel shows several people inside an aircraft cabin holding an American flag, including a person wearing a blue shirt with red lettering and another wearing a dark cap. Donald Trump is not visibly present.",
       "url": "https://www.trumpstruth.org/statuses/40884",
       "raw": {
         "creator": "",
@@ -963,7 +1109,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40884",
         "isoDate": "2026-08-15T20:32:47.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:14:45.845Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17676/75db34368b4c884c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40888",
@@ -1375,5 +1525,6 @@
       "rationale": "The text highlights Bill Conerly's patriotism and efforts in the State House, reflecting a positive sentiment.",
       "analyzedAt": "2026-09-05T07:48:42.815Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:56:fdaf86419483ed9f6696eedb"
 }

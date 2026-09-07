@@ -6,24 +6,27 @@
     "negative": 1
   },
   "summary": "positive:5 neutral:7 negative:1",
-  "generatedAt": "2026-09-05T19:56:57.816Z",
+  "generatedAt": "2026-09-07T19:55:16.240Z",
   "topics": [
-    "Kurt Alme's Senate campaign in Montana",
-    "U.S. Budget Bill progress",
-    "EU fines on American companies"
+    "Shohei Ohtani visits Trump in the Oval Office as Trump praises the baseball star",
+    "Xi Jinping tells Trump China will not supply weapons to Iran",
+    "Trump condemns European Union fines targeting major American technology companies"
   ],
-  "trendingTopic": "Kurt Alme endorsed for U.S. Senate in Montana against Alani Bankhead",
-  "trendingName": "Kurt Alme",
+  "trendingTopic": "Shohei Ohtani visits Trump in the Oval Office as Trump praises the baseball star",
   "secondaryHighlights": [
     {
-      "topic": "U.S. Budget Bill moves forward with Republican support"
+      "topic": "Xi Jinping tells Trump China will not supply weapons to Iran"
     },
     {
-      "topic": "European Union imposes fines on American companies, prompting U.S. investigation"
+      "topic": "Trump condemns European Union fines targeting major American technology companies"
+    },
+    {
+      "topic": "Trump endorses Republican Kurt Alme for the U.S. Senate in Montana",
+      "name": "Kurt Alme"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v3:13:507277769fe9695672385433",
+  "topicsCacheKey": "day-themes-v10:13:507277769fe9695672385433",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40226",
@@ -47,7 +50,7 @@
       "id": "https://www.trumpstruth.org/statuses/40225",
       "publishedAt": "2026-07-24T01:00:18.000Z",
       "title": "Very good!!! President DJT",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116972241542468155</span>Very good!!! President DJT</p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116972241542468155</span>Very good!!! President DJT</p>\n\n[Image] A screenshot of a post by Laura Loomer (@LauraLoomer) shows text about what happened behind closed doors after an “explosive” Oval Office meeting involving Ukraine’s President Volodymyr Zelensky, Donald Trump, and Vice President JD Vance. The post says Zelensky opened up in an exclusive interview and that the full interview would be released soon.",
       "url": "https://www.trumpstruth.org/statuses/40225",
       "raw": {
         "creator": "",
@@ -59,7 +62,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116972241542468155Very good!!! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/40225",
         "isoDate": "2026-07-24T01:00:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:32:41.067Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17293/61e87756fd395faa.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40231",
@@ -83,7 +90,7 @@
       "id": "https://www.trumpstruth.org/statuses/40230",
       "publishedAt": "2026-07-24T04:07:00.000Z",
       "title": "[No Title] - Post from July 24, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116972976347462953</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116972976347462953</span></p>\n\n[Image] A screenshot of a social media post from the verified account “Brooklyn Boy” (@CanarsieRaised). The post reads, “8th round of Ali vs Foreman,” followed by a red boxing-glove emoji. Beneath it is a movie-camera emoji and the tagged account “@HBO,” referring to the famous boxing match between Muhammad Ali and George Foreman.",
       "url": "https://www.trumpstruth.org/statuses/40230",
       "raw": {
         "creator": "",
@@ -95,7 +102,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116972976347462953",
         "guid": "https://www.trumpstruth.org/statuses/40230",
         "isoDate": "2026-07-24T04:07:00.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:32:38.008Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17298/53ebb980f24befbd.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40229",
@@ -119,7 +130,7 @@
       "id": "https://www.trumpstruth.org/statuses/40228",
       "publishedAt": "2026-07-24T04:09:18.000Z",
       "title": "[No Title] - Post from July 24, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116972986793236903</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116972986793236903</span></p>\n\n[Image] A screenshot of a social-media post from Dan Scavino, whose verified account displays a White House badge and the handle @Scavino47. The post contains only the large text “POTUS” followed by a U.S. flag, an ampersand, and “SHOHEI” followed by a Japanese flag. The circular profile photo shows a blurred man in a suit.",
       "url": "https://www.trumpstruth.org/statuses/40228",
       "raw": {
         "creator": "",
@@ -131,13 +142,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116972986793236903",
         "guid": "https://www.trumpstruth.org/statuses/40228",
         "isoDate": "2026-07-24T04:09:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:32:34.618Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17296/dfce528141aa735c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40227",
       "publishedAt": "2026-07-24T04:09:38.000Z",
       "title": "What a great guy, and baseball player!!! President DJT",
-      "text": "<p>What a great guy, and baseball player!!! President DJT</p>",
+      "text": "<p>What a great guy, and baseball player!!! President DJT</p>\n\n[Image] Donald Trump sits behind the Resolute desk in the Oval Office, wearing a navy suit and blue tie. Shohei Ohtani stands beside him in a black suit, holding a white USA baseball cap. Two large baseball trophies, a Los Angeles Dodgers cap, a jersey, photographs, flags, military colors, and an eagle sculpture surround the desk.",
       "url": "https://www.trumpstruth.org/statuses/40227",
       "raw": {
         "creator": "",
@@ -149,7 +164,11 @@
         "contentSnippet": "What a great guy, and baseball player!!! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/40227",
         "isoDate": "2026-07-24T04:09:38.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:32:30.749Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17295/a4c5f583050b924b.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40232",
@@ -339,5 +358,7 @@
       "rationale": "The text expresses strong support for Kurt Alme, describing him as a 'terrific candidate' and a 'Great American Patriot', while criticizing his opponent in a negative light.",
       "analyzedAt": "2026-09-05T08:02:17.897Z"
     }
-  ]
+  ],
+  "trendingName": "Shohei Ohtani",
+  "selfPraiseCacheKey": "self-praise-v1:13:507277769fe9695672385433"
 }

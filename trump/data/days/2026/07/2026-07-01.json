@@ -6,30 +6,30 @@
     "negative": 1
   },
   "summary": "positive:3 neutral:3 negative:1",
-  "generatedAt": "2026-09-05T20:02:37.023Z",
+  "generatedAt": "2026-09-07T19:48:45.125Z",
   "topics": [
-    "Gas prices drop for America's 250th Birthday",
-    "Micron's $250 million investment in Trump Accounts",
-    "Tribute to Victor Willis of the Village People"
+    "Trump-endorsed Jeff Hurd, Jeff Crank, and Gabe Evans win Colorado congressional races",
+    "Micron announces a $250 million investment in Trump Accounts",
+    "Trump attacks Senate parliamentarian over rulings against Republicans"
   ],
-  "trendingTopic": "Gas prices drop as Freedom Fuel Network celebrates America's 250th Birthday",
+  "trendingTopic": "Trump-endorsed Jeff Hurd, Jeff Crank, and Gabe Evans win Colorado congressional races",
   "secondaryHighlights": [
     {
-      "topic": "Micron announces historic investment in Trump Accounts",
-      "name": "Sanjay Mehrotra"
+      "topic": "Trump announces Freedom Fuel Network will help lower gas prices"
     },
     {
-      "topic": "Tribute to Victor Willis following his passing at 74"
+      "topic": "Trump mourns Village People singer Victor Willis at 74",
+      "name": "Victor Willis"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v3:7:451412e0215d78eabe142164",
+  "topicsCacheKey": "day-themes-v10:7:451412e0215d78eabe142164",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39654",
       "publishedAt": "2026-07-01T01:31:20.000Z",
       "title": "[No Title] - Post from July 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “Congressman (CO-03) Jeff Hurd wins!” and says he was endorsed by President Donald Trump. It shows portraits of Donald Trump in a dark suit and blue tie and Jeff Hurd in a dark suit, light blue shirt, and patterned tie. A Trump-Vance logo appears at the bottom against a blue-to-red gradient background.",
       "url": "https://www.trumpstruth.org/statuses/39654",
       "raw": {
         "creator": "",
@@ -41,13 +41,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39654",
         "isoDate": "2026-07-01T01:31:20.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:17:26.280Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16870/dff9dfddc0fa3933.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39653",
       "publishedAt": "2026-07-01T01:31:39.000Z",
       "title": "[No Title] - Post from July 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic features portraits of Donald Trump and Congressman Jeff Crank, who is wearing a dark suit, white shirt, red tie, and U.S. flag pin. Large text reads “CONGRESSMAN (CO-05) JEFF CRANK WINS!” and says he was endorsed by President Trump. A Trump-Vance logo appears at the bottom against a blue-to-red gradient background.",
       "url": "https://www.trumpstruth.org/statuses/39653",
       "raw": {
         "creator": "",
@@ -59,13 +63,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39653",
         "isoDate": "2026-07-01T01:31:39.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:17:23.490Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16869/3c256b95600389eb.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39652",
       "publishedAt": "2026-07-01T01:31:48.000Z",
       "title": "[No Title] - Post from July 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political graphic features portraits of Donald Trump and Gabe Evans, identified as “Congressman (CO-08).” Large text announces “Gabe Evans Wins!” and says he was endorsed by President Trump. A red-and-blue gradient background and a “Trump Vance” campaign logo appear below, with Evans wearing a suit, red tie, and American flag lapel pin.",
       "url": "https://www.trumpstruth.org/statuses/39652",
       "raw": {
         "creator": "",
@@ -77,7 +85,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39652",
         "isoDate": "2026-07-01T01:31:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:17:19.005Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16868/dc5694e5858e2b6e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39655",
@@ -137,7 +149,7 @@
       "id": "https://www.trumpstruth.org/statuses/39658",
       "publishedAt": "2026-07-01T23:53:49.000Z",
       "title": "Just as I promised, Oil Prices are plummeting FAST, and Gas Prices at the pump are dropping too, but not as fast as they should be. As we approach America’s 250th Birthday, I am pleased to announce that a VERY smart Retailer, located throughout the Northeast, is stepping up, and wishing the People of Philadelphia a “Happy Birthday!” On July 3rd, the Freedom Fuel Network will be lowering gas prices at 25 “FREEDOM FUEL” Stations across the Greater Philadelphia Area. This Retailer is taking the lead, and others should follow. They are doing this because they love the U.S.A. We are proud to celebrate America’s 250th Birthday in the Great Commonwealth of Pennsylvania, the Birthplace of our very special, one-of-a-kind Declaration of Independence, and where I won BIG in the Presidential Election! America has never been stronger than it is now, and Gas Prices will soon be back to the Record Low Prices Americans enjoyed at the pump before our very successful “excursion” in Iran. Happy Birthday America! President DONALD J. TRUMP",
-      "text": "<p>Just as I promised, Oil Prices are plummeting FAST, and Gas Prices at the pump are dropping too, but not as fast as they should be. As we approach America’s 250th Birthday, I am pleased to announce that a VERY smart Retailer, located throughout the Northeast, is stepping up, and wishing the People of Philadelphia a “Happy Birthday!” On July 3rd, the Freedom Fuel Network will be lowering gas prices at 25 “FREEDOM FUEL” Stations across the Greater Philadelphia Area. This Retailer is taking the lead, and others should follow. They are doing this because they love the U.S.A. We are proud to celebrate America’s 250th Birthday in the Great Commonwealth of Pennsylvania, the Birthplace of our very special, one-of-a-kind Declaration of Independence, and where I won BIG in the Presidential Election! America has never been stronger than it is now, and Gas Prices will soon be back to the Record Low Prices Americans enjoyed at the pump before our very successful “excursion” in Iran. Happy Birthday America! President DONALD J. TRUMP</p>",
+      "text": "<p>Just as I promised, Oil Prices are plummeting FAST, and Gas Prices at the pump are dropping too, but not as fast as they should be. As we approach America’s 250th Birthday, I am pleased to announce that a VERY smart Retailer, located throughout the Northeast, is stepping up, and wishing the People of Philadelphia a “Happy Birthday!” On July 3rd, the Freedom Fuel Network will be lowering gas prices at 25 “FREEDOM FUEL” Stations across the Greater Philadelphia Area. This Retailer is taking the lead, and others should follow. They are doing this because they love the U.S.A. We are proud to celebrate America’s 250th Birthday in the Great Commonwealth of Pennsylvania, the Birthplace of our very special, one-of-a-kind Declaration of Independence, and where I won BIG in the Presidential Election! America has never been stronger than it is now, and Gas Prices will soon be back to the Record Low Prices Americans enjoyed at the pump before our very successful “excursion” in Iran. Happy Birthday America! President DONALD J. TRUMP</p>\n\n[Image] The first image shows a brightly lit gas station at dusk branded “Freedom Fuel Network.” Its canopy and fuel pumps feature American flag designs, stars, red-white-blue stripes, and an eagle emblem. Several vehicles are parked at the pumps, with a convenience store on the right. The second image displays the network’s logo: a stylized black-and-gold eagle above the words “FREEDOM FUEL NETWORK” on a white background.",
       "url": "https://www.trumpstruth.org/statuses/39658",
       "raw": {
         "creator": "",
@@ -149,7 +161,12 @@
         "contentSnippet": "Just as I promised, Oil Prices are plummeting FAST, and Gas Prices at the pump are dropping too, but not as fast as they should be. As we approach America’s 250th Birthday, I am pleased to announce that a VERY smart Retailer, located throughout the Northeast, is stepping up, and wishing the People of Philadelphia a “Happy Birthday!” On July 3rd, the Freedom Fuel Network will be lowering gas prices at 25 “FREEDOM FUEL” Stations across the Greater Philadelphia Area. This Retailer is taking the lead, and others should follow. They are doing this because they love the U.S.A. We are proud to celebrate America’s 250th Birthday in the Great Commonwealth of Pennsylvania, the Birthplace of our very special, one-of-a-kind Declaration of Independence, and where I won BIG in the Presidential Election! America has never been stronger than it is now, and Gas Prices will soon be back to the Record Low Prices Americans enjoyed at the pump before our very successful “excursion” in Iran. Happy Birthday America! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/39658",
         "isoDate": "2026-07-01T23:53:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:17:15.069Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16871/a633890edd2d80a7.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16872/8fe801d6e70cd088.png"
+      ]
     }
   ],
   "sentiments": [
@@ -195,5 +212,6 @@
       "rationale": "The text celebrates dropping oil prices and a retailer's initiative to lower gas prices, conveying a positive sentiment.",
       "analyzedAt": "2026-09-05T07:57:17.011Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:7:451412e0215d78eabe142164"
 }

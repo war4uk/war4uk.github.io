@@ -6,23 +6,26 @@
     "negative": 3
   },
   "summary": "positive:6 neutral:7 negative:3",
-  "generatedAt": "2026-09-05T19:56:39.621Z",
+  "generatedAt": "2026-09-07T19:54:07.068Z",
   "topics": [
-    "U.S.-UK relations and Prime Minister Andy Burnham",
-    "World Cup success and law enforcement appreciation",
-    "Giant Eagle grocery price reductions for families"
+    "Trump highlights Iran peace-deal support, threatens retaliation, and defends Netanyahu from arrest",
+    "Trump celebrates World Cup success, praising Christopher Maccio and law enforcement",
+    "Trump thanks Mike Johnson and House Budget Committee members"
   ],
-  "trendingTopic": "President Trump praises U.S.-UK relations in call with Prime Minister Andy Burnham",
+  "trendingTopic": "Trump highlights Iran peace-deal support, threatens retaliation, and defends Netanyahu from arrest",
   "secondaryHighlights": [
     {
-      "topic": "World Cup success and law enforcement appreciation"
+      "topic": "Giant Eagle announces major price cuts on more than 300 products through Labor Day"
     },
     {
-      "topic": "Giant Eagle grocery price reductions for families"
+      "topic": "Trump criticizes National Academy of Sciences climate-change manuals as fraudulent and biased"
+    },
+    {
+      "topic": "Trump discusses the U.S.-UK relationship with Prime Minister Andy Burnham"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v3:16:6e4d5cf9f660ded115a3a422",
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:16:6e4d5cf9f660ded115a3a422",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40146",
@@ -100,7 +103,7 @@
       "id": "https://www.trumpstruth.org/statuses/40149",
       "publishedAt": "2026-07-20T02:32:18.000Z",
       "title": "[No Title] - Post from July 20, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116949957118811451</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116949957118811451</span></p>\n\n[Image] A screenshot of a post by verified account Sami Nathaniel, @NathanielSami. The post consists of the text, “Is she related to Greta Thunberg?!!!” on a white background, with a black circular profile image at left and a three-dot menu in the upper-right corner. Greta Thunberg is mentioned, but no person is pictured.",
       "url": "https://www.trumpstruth.org/statuses/40149",
       "raw": {
         "creator": "",
@@ -112,13 +115,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116949957118811451",
         "guid": "https://www.trumpstruth.org/statuses/40149",
         "isoDate": "2026-07-20T02:32:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:31:03.067Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17251/7b74e42d269bea0c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40151",
       "publishedAt": "2026-07-20T10:38:30.000Z",
       "title": "[No Title] - Post from July 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Two children sit on a couch in a hospital room. The girl wears a leopard-print outfit, while the boy holds a newborn wrapped in a patterned blanket and wearing a striped cap. A pink textured blanket rests beside them, with medical outlets and a glove dispenser visible on the wall behind them.",
       "url": "https://www.trumpstruth.org/statuses/40151",
       "raw": {
         "creator": "",
@@ -130,13 +137,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40151",
         "isoDate": "2026-07-20T10:38:30.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:30:59.803Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17253/002795edc8dd58f4.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40152",
       "publishedAt": "2026-07-20T10:45:39.000Z",
       "title": "[No Title] - Post from July 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of the Big Data Poll website shows an article titled “Trump Bump: Voters Overwhelmingly Support Iran Peace Deal,” dated June 29, 2026. The page says Donald Trump gained eight points and presents poll results on the deal: 60.4% of registered voters support it, 23.7% oppose it, and 15.9% are undecided. Results for likely voters are also shown.",
       "url": "https://www.trumpstruth.org/statuses/40152",
       "raw": {
         "creator": "",
@@ -148,13 +159,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40152",
         "isoDate": "2026-07-20T10:45:39.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:30:57.562Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17254/3e286b597ca1a0c1.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40153",
       "publishedAt": "2026-07-20T13:03:50.000Z",
       "title": "[No Title] - Post from July 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post by Masih Alinejad states that Iran executed 19-year-old Erfan Esfandiari, alleging he was arrested during January 2026 protests and accused of opening a door for protesters. The post includes a portrait of Esfandiari, a young man with dark hair wearing a black shirt, seated outdoors. It was posted July 19, 2026.",
       "url": "https://www.trumpstruth.org/statuses/40153",
       "raw": {
         "creator": "",
@@ -166,13 +181,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40153",
         "isoDate": "2026-07-20T13:03:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:30:54.831Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17255/4b1660480f5d1833.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40154",
       "publishedAt": "2026-07-20T14:57:39.000Z",
       "title": "[No Title] - Post from July 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands smiling beside an unidentified older man in a suit, with both giving thumbs-up gestures. They are in an ornate, traditionally decorated room with gilded furniture, framed portraits, decorative vases, busts, lamps, and two pale upholstered chairs. A small model airplane is visible on a table in the lower left.",
       "url": "https://www.trumpstruth.org/statuses/40154",
       "raw": {
         "creator": "",
@@ -184,7 +203,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40154",
         "isoDate": "2026-07-20T14:57:39.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:30:51.781Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17256/28e5954e9813fc10.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40155",
@@ -410,5 +433,6 @@
       "rationale": "The text expresses a positive sentiment about a good conversation with the Prime Minister and optimism for future cooperation.",
       "analyzedAt": "2026-09-05T08:01:23.803Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:16:6e4d5cf9f660ded115a3a422"
 }

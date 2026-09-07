@@ -6,25 +6,26 @@
     "negative": 1
   },
   "summary": "positive:13 neutral:30 negative:1",
-  "generatedAt": "2026-09-05T08:03:55.243Z",
+  "generatedAt": "2026-09-07T19:59:06.133Z",
   "topics": [
-    "Economic Growth and Job Creation",
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Trump promotes a list of 20 claimed accomplishments spanning defense, foreign policy, and domestic policy",
+    "Trump touts his 2026 Republican primary endorsement record while backing candidates in Wyoming and Pennsylvania",
+    "Tariffs and Trump policies credited as U.S. manufacturing, steel output, and hiring surge"
   ],
-  "trendingTopic": "UAW: 'Strategic' Tariffs Prompt Industry Hiring Surge",
+  "trendingTopic": "Trump promotes a list of 20 claimed accomplishments spanning defense, foreign policy, and domestic policy",
   "secondaryHighlights": [
     {
-      "topic": "US steel production exceeds Japan's for first time in 26 years"
+      "topic": "Education officials seek college reforms as campus free-speech ratings improve under Trump"
     },
     {
-      "topic": "FIRST ON FOX: Trump to open direct line with military families in ground-up readiness push"
+      "topic": "Tennessee unveils a bridge named for President Donald J. Trump"
     },
     {
-      "topic": "American Manufacturing Expands At Fastest Pace Since 2022"
+      "topic": "Trump says Iran nuclear and Hormuz negotiations could produce an imminent deal"
     }
   ],
-  "selfPraiseCount": 3,
+  "selfPraiseCount": 24,
+  "topicsCacheKey": "day-themes-v10:44:f510c4ff715c4c91febc689b",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40512",
@@ -48,7 +49,7 @@
       "id": "https://www.trumpstruth.org/statuses/40513",
       "publishedAt": "2026-08-04T14:29:52.000Z",
       "title": "[No Title] - Post from August 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A magazine page shows Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff, speaking at a Pentagon podium. Behind him is a presentation board labeled “Operation Midnight Hammer,” with maps and diagrams. The accompanying text praises Donald Trump’s action against Iran’s nuclear program and mentions Kamala Harris. Photo credited to Andrew Harnik/Getty Images.",
       "url": "https://www.trumpstruth.org/statuses/40513",
       "raw": {
         "creator": "",
@@ -60,13 +61,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40513",
         "isoDate": "2026-08-04T14:29:52.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:08:26.513Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17465/aee1db67f392588c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40528",
       "publishedAt": "2026-08-04T14:30:19.000Z",
       "title": "[No Title] - Post from August 4, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037714164609248</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037714164609248</span></p>\n\n[Image] Two pages from a political publication praise Donald Trump’s foreign-policy record. One shows Donald Trump meeting Ukrainian President Volodymyr Zelensky in the Oval Office, with text discussing weapons, security guarantees, and NATO spending. The other shows Air Force Gen. Dan Caine speaking at a Pentagon briefing beside an “Operation Midnight Hammer” graphic about Iran’s nuclear program.",
       "url": "https://www.trumpstruth.org/statuses/40528",
       "raw": {
         "creator": "",
@@ -78,13 +83,18 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037714164609248",
         "guid": "https://www.trumpstruth.org/statuses/40528",
         "isoDate": "2026-08-04T14:30:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:08:23.381Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17479/834f6b3091c6be26.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17465/aee1db67f392588c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40526",
       "publishedAt": "2026-08-04T14:30:34.000Z",
       "title": "[No Title] - Post from August 4, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037715892419107</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037715892419107</span></p>\n\n[Image] Three pages from a political booklet are shown. One photograph depicts Nigerian police securing an airstrike site in Jabo, Nigeria, while residents watch. Another shows Donald Trump speaking with Ukrainian President Volodymyr Zelensky in the Oval Office. The final photograph shows Air Force Gen. Dan Caine speaking at a Pentagon podium beside an “Operation Midnight Hammer” briefing graphic.",
       "url": "https://www.trumpstruth.org/statuses/40526",
       "raw": {
         "creator": "",
@@ -96,13 +106,19 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037715892419107",
         "guid": "https://www.trumpstruth.org/statuses/40526",
         "isoDate": "2026-08-04T14:30:34.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:08:20.856Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17478/64d567c774b46184.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17479/834f6b3091c6be26.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17465/aee1db67f392588c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40525",
       "publishedAt": "2026-08-04T14:30:53.000Z",
       "title": "[No Title] - Post from August 4, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037716920827611</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037716920827611</span></p>\n\n[Image] A four-page political pamphlet presents a numbered list praising Donald Trump’s claimed accomplishments, including military recruiting, action against Venezuelan drug boats, support for persecuted Christians in Nigeria, peacemaking, aid to Ukraine, and NATO defense spending. Photos show Army recruits exercising, Nigerian police at a cordoned scene, Trump with Volodymyr Zelenskyy, and Gen. Dan Caine at a Pentagon briefing.",
       "url": "https://www.trumpstruth.org/statuses/40525",
       "raw": {
         "creator": "",
@@ -114,13 +130,20 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037716920827611",
         "guid": "https://www.trumpstruth.org/statuses/40525",
         "isoDate": "2026-08-04T14:30:53.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:08:16.966Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17477/f2c6be5dd7138cbb.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17478/64d567c774b46184.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17479/834f6b3091c6be26.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17465/aee1db67f392588c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40524",
       "publishedAt": "2026-08-04T14:31:07.000Z",
       "title": "[No Title] - Post from August 4, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037718122207687</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037718122207687</span></p>\n\n[Image] A series of magazine pages presents claims about Donald Trump’s defense and foreign-policy record. Photos show Trump in the Oval Office, Trump meeting Ukrainian President Volodymyr Zelensky, Army recruits exercising, Nigerian police securing a scene, and Gen. Dan Caine briefing reporters beside an Operation Midnight Hammer map. Text discusses defense spending, NATO, Ukraine, Iran, and other policies.",
       "url": "https://www.trumpstruth.org/statuses/40524",
       "raw": {
         "creator": "",
@@ -132,13 +155,21 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037718122207687",
         "guid": "https://www.trumpstruth.org/statuses/40524",
         "isoDate": "2026-08-04T14:31:07.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:08:13.399Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17476/ab0cbdf4c26667f1.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17477/f2c6be5dd7138cbb.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17478/64d567c774b46184.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17479/834f6b3091c6be26.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17465/aee1db67f392588c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40523",
       "publishedAt": "2026-08-04T14:31:20.000Z",
       "title": "[No Title] - Post from August 4, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037719027916190</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037719027916190</span></p>\n\n[Image] A six-page political article lists claimed accomplishments of Donald Trump, with headlines about Panama, defense spending, military recruitment, Nigeria, peacemaking, Ukraine, NATO, and Iran. Images show an aerial Panama Canal site, Army recruits training, Nigerian police at a cordoned scene, Donald Trump with Volodymyr Zelenskyy, and Gen. Dan Caine speaking at a Pentagon briefing.",
       "url": "https://www.trumpstruth.org/statuses/40523",
       "raw": {
         "creator": "",
@@ -150,13 +181,22 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037719027916190",
         "guid": "https://www.trumpstruth.org/statuses/40523",
         "isoDate": "2026-08-04T14:31:20.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:08:10.484Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17475/fb9953ba367d0362.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17476/ab0cbdf4c26667f1.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17477/f2c6be5dd7138cbb.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17478/64d567c774b46184.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17479/834f6b3091c6be26.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17465/aee1db67f392588c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40522",
       "publishedAt": "2026-08-04T14:31:35.000Z",
       "title": "[No Title] - Post from August 4, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037719906423391</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037719906423391</span></p>\n\n[Image] A series of magazine pages presents a list of claimed accomplishments by Donald Trump. Images show National Guard members patrolling Washington, an aerial view of the Panama Canal, Trump in the Oval Office, Army recruits exercising, Nigerian police at a secured scene, Donald Trump meeting Volodymyr Zelenskyy, and Air Force Gen. Dan Caine speaking at a Pentagon briefing.",
       "url": "https://www.trumpstruth.org/statuses/40522",
       "raw": {
         "creator": "",
@@ -168,13 +208,23 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037719906423391",
         "guid": "https://www.trumpstruth.org/statuses/40522",
         "isoDate": "2026-08-04T14:31:35.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:08:06.219Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17474/783b451356c6ea45.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17475/fb9953ba367d0362.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17476/ab0cbdf4c26667f1.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17477/f2c6be5dd7138cbb.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17478/64d567c774b46184.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17479/834f6b3091c6be26.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17465/aee1db67f392588c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40521",
       "publishedAt": "2026-08-04T14:31:48.000Z",
       "title": "[No Title] - Post from August 4, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037720903744942</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037720903744942</span></p>\n\n[Image] A series of newspaper-style pages presents claims about Donald Trump’s policies, with photos of a Ram pickup at a German auto show, National Guard members in Washington, the Panama Canal, Trump in the Oval Office, Army recruits training, Nigerian police, and Donald Trump meeting Volodymyr Zelenskyy. The final image shows Gen. Dan Caine speaking at a Pentagon briefing.",
       "url": "https://www.trumpstruth.org/statuses/40521",
       "raw": {
         "creator": "",
@@ -186,13 +236,24 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037720903744942",
         "guid": "https://www.trumpstruth.org/statuses/40521",
         "isoDate": "2026-08-04T14:31:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:08:02.062Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17473/e912b0423c2b3fee.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17474/783b451356c6ea45.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17475/fb9953ba367d0362.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17476/ab0cbdf4c26667f1.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17477/f2c6be5dd7138cbb.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17478/64d567c774b46184.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17479/834f6b3091c6be26.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17465/aee1db67f392588c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40520",
       "publishedAt": "2026-08-04T14:32:01.000Z",
       "title": "[No Title] - Post from August 4, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037721730474336</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037721730474336</span></p>\n\n[Image] A series of illustrated editorial pages presents claims about Donald Trump’s policies and accomplishments. Images show federal workers with an AFGE banner, a Ram pickup at an auto show, National Guard troops in Washington, the Panama Canal, Donald Trump in the Oval Office, Army recruits training, police at a scene in Nigeria, and Donald Trump meeting Volodymyr Zelenskyy. One page shows Gen. Dan Caine speaking at a Pentagon briefing.",
       "url": "https://www.trumpstruth.org/statuses/40520",
       "raw": {
         "creator": "",
@@ -204,13 +265,25 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037721730474336",
         "guid": "https://www.trumpstruth.org/statuses/40520",
         "isoDate": "2026-08-04T14:32:01.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:07:58.458Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17472/085b4dcab077c67e.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17473/e912b0423c2b3fee.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17474/783b451356c6ea45.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17475/fb9953ba367d0362.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17476/ab0cbdf4c26667f1.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17477/f2c6be5dd7138cbb.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17478/64d567c774b46184.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17479/834f6b3091c6be26.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17465/aee1db67f392588c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40519",
       "publishedAt": "2026-08-04T14:32:13.000Z",
       "title": "[No Title] - Post from August 4, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037722599617401</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037722599617401</span></p>\n\n[Image] A series of magazine pages presents claims about Donald Trump’s policies, alongside photographs of testosterone medication, federal workers rallying with an AFGE banner, pickup trucks, National Guard members in Washington, the Panama Canal, Donald Trump in the Oval Office, Army recruits training, a Nigerian crime scene, and General Dan Caine briefing reporters. One page shows Donald Trump meeting Ukrainian President Volodymyr Zelensky.",
       "url": "https://www.trumpstruth.org/statuses/40519",
       "raw": {
         "creator": "",
@@ -222,13 +295,26 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037722599617401",
         "guid": "https://www.trumpstruth.org/statuses/40519",
         "isoDate": "2026-08-04T14:32:13.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:07:54.921Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17471/cf7c108e5d8ac47b.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17472/085b4dcab077c67e.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17473/e912b0423c2b3fee.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17474/783b451356c6ea45.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17475/fb9953ba367d0362.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17476/ab0cbdf4c26667f1.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17477/f2c6be5dd7138cbb.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17478/64d567c774b46184.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17479/834f6b3091c6be26.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17465/aee1db67f392588c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40518",
       "publishedAt": "2026-08-04T14:32:25.000Z",
       "title": "[No Title] - Post from August 4, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037723384292468</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037723384292468</span></p>\n\n[Image] A set of magazine-style pages presents a numbered list praising Donald Trump’s policies and actions. Photos show Columbia University students, testosterone medication, federal workers, vehicles, National Guard troops, the Panama Canal, Army recruits, Nigerian police, Donald Trump with Volodymyr Zelenskyy, and Air Force Gen. Dan Caine. The pages include political claims and captions.",
       "url": "https://www.trumpstruth.org/statuses/40518",
       "raw": {
         "creator": "",
@@ -240,13 +326,27 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037723384292468",
         "guid": "https://www.trumpstruth.org/statuses/40518",
         "isoDate": "2026-08-04T14:32:25.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:07:49.213Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17470/fe753beb7322508a.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17471/cf7c108e5d8ac47b.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17472/085b4dcab077c67e.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17473/e912b0423c2b3fee.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17474/783b451356c6ea45.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17475/fb9953ba367d0362.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17476/ab0cbdf4c26667f1.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17477/f2c6be5dd7138cbb.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17478/64d567c774b46184.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17479/834f6b3091c6be26.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17465/aee1db67f392588c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40517",
       "publishedAt": "2026-08-04T14:32:38.000Z",
       "title": "[No Title] - Post from August 4, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037724158359073</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037724158359073</span></p>\n\n[Image] A series of scanned pages presents claims about Donald Trump’s policies, illustrated with news photographs. Images show Trump holding a signed document and speaking in the Oval Office, students at Columbia University, a testosterone vial, federal workers, vehicles, National Guard members, the Panama Canal, Army recruits, Nigerian police, Donald Trump with Volodymyr Zelenskyy, and Gen. Dan Caine.",
       "url": "https://www.trumpstruth.org/statuses/40517",
       "raw": {
         "creator": "",
@@ -258,13 +358,28 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037724158359073",
         "guid": "https://www.trumpstruth.org/statuses/40517",
         "isoDate": "2026-08-04T14:32:38.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:07:43.675Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17469/96b7a845a0a137ff.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17470/fe753beb7322508a.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17471/cf7c108e5d8ac47b.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17472/085b4dcab077c67e.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17473/e912b0423c2b3fee.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17474/783b451356c6ea45.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17475/fb9953ba367d0362.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17476/ab0cbdf4c26667f1.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17477/f2c6be5dd7138cbb.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17478/64d567c774b46184.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17479/834f6b3091c6be26.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17465/aee1db67f392588c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40516",
       "publishedAt": "2026-08-04T14:32:53.000Z",
       "title": "[No Title] - Post from August 4, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037725001903200</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037725001903200</span></p>\n\n[Image] A multi-page political booklet presents claims about Donald Trump’s policies and achievements. Photos show Trump holding a signed document, speaking in the Oval Office, meeting Volodymyr Zelensky, and images of soldiers, National Guard members, military recruits, vehicles, a canal, a university, medication, and a Nigerian security scene. Bold headings and captions accompany each image.",
       "url": "https://www.trumpstruth.org/statuses/40516",
       "raw": {
         "creator": "",
@@ -276,13 +391,29 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037725001903200",
         "guid": "https://www.trumpstruth.org/statuses/40516",
         "isoDate": "2026-08-04T14:32:53.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:07:40.346Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17468/d95137ea7837004b.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17469/96b7a845a0a137ff.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17470/fe753beb7322508a.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17471/cf7c108e5d8ac47b.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17472/085b4dcab077c67e.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17473/e912b0423c2b3fee.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17474/783b451356c6ea45.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17475/fb9953ba367d0362.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17476/ab0cbdf4c26667f1.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17477/f2c6be5dd7138cbb.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17478/64d567c774b46184.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17479/834f6b3091c6be26.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17465/aee1db67f392588c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40515",
       "publishedAt": "2026-08-04T14:33:28.000Z",
       "title": "[No Title] - Post from August 4, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037726036845745</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037726036845745</span></p>\n\n[Image] A multi-page political booklet features photographs of Donald Trump at a wreath-laying ceremony, holding tariff documents, speaking in the Oval Office, and meeting Ukrainian President Volodymyr Zelenskyy. Other images show a border armored vehicle, Columbia University, military recruits, National Guard troops, an AFGE rally, Panama Canal facilities, Nigerian police, and an Air Force briefing.",
       "url": "https://www.trumpstruth.org/statuses/40515",
       "raw": {
         "creator": "",
@@ -294,13 +425,30 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037726036845745",
         "guid": "https://www.trumpstruth.org/statuses/40515",
         "isoDate": "2026-08-04T14:33:28.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:07:32.836Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17467/7a8fa4e5d4a43534.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17468/d95137ea7837004b.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17469/96b7a845a0a137ff.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17470/fe753beb7322508a.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17471/cf7c108e5d8ac47b.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17472/085b4dcab077c67e.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17473/e912b0423c2b3fee.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17474/783b451356c6ea45.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17475/fb9953ba367d0362.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17476/ab0cbdf4c26667f1.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17477/f2c6be5dd7138cbb.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17478/64d567c774b46184.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17479/834f6b3091c6be26.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17465/aee1db67f392588c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40514",
       "publishedAt": "2026-08-04T14:34:33.000Z",
       "title": "[No Title] - Post from August 4, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037728296880147</span><a href=\"https://www.washingtonpost.com/opinions/2026/01/02/donald-trump-accomplishments-2025-marc-thiessen/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">26/01/02/donald-trump-accomplishments-2025-marc-thiessen/</span></a></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037728296880147</span><a href=\"https://www.washingtonpost.com/opinions/2026/01/02/donald-trump-accomplishments-2025-marc-thiessen/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">26/01/02/donald-trump-accomplishments-2025-marc-thiessen/</span></a></p>\n\n[Image] A multi-page Washington Post article titled “The 20 best things Trump did in 2025” features a graphic portrait of Donald Trump and photographs of him at a wreath-laying ceremony and in the Oval Office. Other pages show soldiers, National Guard members, military recruits, the Panama Canal, vehicles, Nigeria, Ukraine President Volodymyr Zelensky and Air Force Gen. Dan Caine.",
       "url": "https://www.trumpstruth.org/statuses/40514",
       "raw": {
         "creator": "",
@@ -312,7 +460,25 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037728296880147https://www.washingtonpost.com/opinions/2026/01/02/donald-trump-accomplishments-2025-marc-thiessen/",
         "guid": "https://www.trumpstruth.org/statuses/40514",
         "isoDate": "2026-08-04T14:34:33.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:07:29.646Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17466/e61f682754a72bc4.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17467/7a8fa4e5d4a43534.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17468/d95137ea7837004b.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17469/96b7a845a0a137ff.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17470/fe753beb7322508a.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17471/cf7c108e5d8ac47b.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17472/085b4dcab077c67e.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17473/e912b0423c2b3fee.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17474/783b451356c6ea45.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17475/fb9953ba367d0362.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17476/ab0cbdf4c26667f1.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17477/f2c6be5dd7138cbb.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17478/64d567c774b46184.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17479/834f6b3091c6be26.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17465/aee1db67f392588c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40535",
@@ -336,7 +502,7 @@
       "id": "https://www.trumpstruth.org/statuses/40534",
       "publishedAt": "2026-08-04T14:36:27.000Z",
       "title": "[No Title] - Post from August 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a UAW International Union Facebook post from Detroit, Michigan, with the headline “After UAW tariff push, Detroit Diesel to add third shift, hire more, and recall laid off workers.” The post quotes UAW President Shawn Fain and Region 1A Director Mark DePaoli, and discusses tariffs, hiring, recalls, and a 99 percent contract vote. A large blue-and-gold UAW logo appears below.",
       "url": "https://www.trumpstruth.org/statuses/40534",
       "raw": {
         "creator": "",
@@ -348,13 +514,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40534",
         "isoDate": "2026-08-04T14:36:27.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:07:25.948Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17484/fe0bc66d355e6c8d.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40533",
       "publishedAt": "2026-08-04T14:36:49.000Z",
       "title": "US steel production exceeds Japan's for first time in 26 years:",
-      "text": "<p>US steel production exceeds Japan's for first time in 26 years: <a href=\"https://asia.nikkei.com/business/materials/us-steel-production-exceeds-japan-s-for-first-time-in-26-years\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">asia.nikkei.com/business/mater</span><span class=\"invisible\">ials/us-steel-production-exceeds-japan-s-for-first-time-in-26-years</span></a></p>",
+      "text": "<p>US steel production exceeds Japan's for first time in 26 years: <a href=\"https://asia.nikkei.com/business/materials/us-steel-production-exceeds-japan-s-for-first-time-in-26-years\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">asia.nikkei.com/business/mater</span><span class=\"invisible\">ials/us-steel-production-exceeds-japan-s-for-first-time-in-26-years</span></a></p>\n\n[Image] A four-page Nikkei Asia article reports that U.S. crude steel production exceeded Japan’s in 2025 for the first time since 1999, reaching 82 million tons. It attributes growth partly to Donald Trump’s tariffs and increased demand from AI data-center construction. Photos show molten steel being poured, while a chart compares U.S. and Japanese production from 2015 to 2025.",
       "url": "https://www.trumpstruth.org/statuses/40533",
       "raw": {
         "creator": "",
@@ -366,7 +536,14 @@
         "contentSnippet": "US steel production exceeds Japan's for first time in 26 years: https://asia.nikkei.com/business/materials/us-steel-production-exceeds-japan-s-for-first-time-in-26-years",
         "guid": "https://www.trumpstruth.org/statuses/40533",
         "isoDate": "2026-08-04T14:36:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:07:23.056Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17480/83bc806a84fdbef4.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17481/036fb8f9ad9dce13.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17482/dcbc2551400bb275.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17483/676b23744178ccc8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40532",
@@ -462,7 +639,7 @@
       "id": "https://www.trumpstruth.org/statuses/40538",
       "publishedAt": "2026-08-04T14:41:50.000Z",
       "title": "McMahon Asks US Colleges to Pledge Campus Reforms by End of 2026:",
-      "text": "<p>McMahon Asks US Colleges to Pledge Campus Reforms by End of 2026: <a href=\"https://www.bloomberg.com/news/articles/2026-08-03/mcmahon-asks-colleges-to-pledge-campus-reforms-by-end-of-2026\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bloomberg.com/news/articles/20</span><span class=\"invisible\">26-08-03/mcmahon-asks-colleges-to-pledge-campus-reforms-by-end-of-2026</span></a></p>",
+      "text": "<p>McMahon Asks US Colleges to Pledge Campus Reforms by End of 2026: <a href=\"https://www.bloomberg.com/news/articles/2026-08-03/mcmahon-asks-colleges-to-pledge-campus-reforms-by-end-of-2026\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bloomberg.com/news/articles/20</span><span class=\"invisible\">26-08-03/mcmahon-asks-colleges-to-pledge-campus-reforms-by-end-of-2026</span></a></p>\n\n[Image] Four pages of a Bloomberg article dated August 3, 2026, titled “McMahon Asks US Colleges to Pledge Campus Reforms by End of 2026.” The first page shows Education Secretary Linda McMahon speaking at a microphone before American flags. The article describes proposed higher-education reforms and outreach to university leaders, including the Association of American Universities.",
       "url": "https://www.trumpstruth.org/statuses/40538",
       "raw": {
         "creator": "",
@@ -474,13 +651,20 @@
         "contentSnippet": "McMahon Asks US Colleges to Pledge Campus Reforms by End of 2026: https://www.bloomberg.com/news/articles/2026-08-03/mcmahon-asks-colleges-to-pledge-campus-reforms-by-end-of-2026",
         "guid": "https://www.trumpstruth.org/statuses/40538",
         "isoDate": "2026-08-04T14:41:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:07:18.250Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17490/cdbc4aa100c6ff1d.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17491/48c1e674712a5e20.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17492/14c8831a0cd2aa08.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17493/9ee419634a772f78.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40537",
       "publishedAt": "2026-08-04T14:43:33.000Z",
       "title": "Campus free speech hits 20-year high under Trump administration:",
-      "text": "<p>Campus free speech hits 20-year high under Trump administration: <a href=\"https://www.washingtontimes.com/news/2026/aug/3/fire-report-finds-free-speech-improving-colleges-trump-administration/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtontimes.com/news/2026/</span><span class=\"invisible\">aug/3/fire-report-finds-free-speech-improving-colleges-trump-administration/</span></a></p>",
+      "text": "<p>Campus free speech hits 20-year high under Trump administration: <a href=\"https://www.washingtontimes.com/news/2026/aug/3/fire-report-finds-free-speech-improving-colleges-trump-administration/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtontimes.com/news/2026/</span><span class=\"invisible\">aug/3/fire-report-finds-free-speech-improving-colleges-trump-administration/</span></a></p>\n\n[Image] Four pages of a Washington Times article dated August 3, 2026, titled “Campus free speech hits 20-year high under Trump administration.” The article discusses FIRE’s ratings of university speech policies, campus restrictions, and reactions from education analysts. A photograph shows a person holding a large American flag at an outdoor gathering, with other people holding signs. Donald Trump and Education Secretary Linda McMahon are mentioned.",
       "url": "https://www.trumpstruth.org/statuses/40537",
       "raw": {
         "creator": "",
@@ -492,13 +676,20 @@
         "contentSnippet": "Campus free speech hits 20-year high under Trump administration: https://www.washingtontimes.com/news/2026/aug/3/fire-report-finds-free-speech-improving-colleges-trump-administration/",
         "guid": "https://www.trumpstruth.org/statuses/40537",
         "isoDate": "2026-08-04T14:43:33.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:07:13.073Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17486/358172d3e50a0f4e.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17487/f5c147e632194cb4.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17488/6797d00dcd8c08c1.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17489/9e6861f0a99a8ff8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40536",
       "publishedAt": "2026-08-04T14:44:27.000Z",
       "title": "[No Title] - Post from August 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A post from Treasury Secretary Scott Bessent announces the unveiling of the President Donald J. Trump Bridge along Interstate 40 in Dandridge, Tennessee. The accompanying photo shows Bessent and several officials and attendees beneath a tent, including people wearing “USA” hats, gathered behind a green sign reading “President Donald J Trump Bridge.”",
       "url": "https://www.trumpstruth.org/statuses/40536",
       "raw": {
         "creator": "",
@@ -510,7 +701,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40536",
         "isoDate": "2026-08-04T14:44:27.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:07:09.657Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17485/6ad24ac564f1a055.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40539",
@@ -624,7 +819,7 @@
       "id": "https://www.trumpstruth.org/statuses/40545",
       "publishedAt": "2026-08-04T21:42:01.000Z",
       "title": "The new President Donald J. Trump Bridge in Tennessee. A Great Honor!",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037771483072269</span>The new President Donald J. Trump Bridge in Tennessee. A Great Honor!</p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037771483072269</span>The new President Donald J. Trump Bridge in Tennessee. A Great Honor!</p>\n\n[Image] The first image shows an American flag waving on a tall pole above a river, bridge, wooded shoreline, and distant mountains under a bright sun. The second is a social-media post by Treasury Secretary Scott Bessent about unveiling the President Donald J. Trump Bridge in Tennessee, with Marsha Blackburn, Tim Burchett, Rep. Faison, and others posing beside the bridge sign.",
       "url": "https://www.trumpstruth.org/statuses/40545",
       "raw": {
         "creator": "",
@@ -636,13 +831,18 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037771483072269The new President Donald J. Trump Bridge in Tennessee. A Great Honor!",
         "guid": "https://www.trumpstruth.org/statuses/40545",
         "isoDate": "2026-08-04T21:42:01.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:07:03.532Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17495/2d246e697248d781.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17485/6ad24ac564f1a055.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40547",
       "publishedAt": "2026-08-04T21:48:51.000Z",
       "title": "[No Title] - Post from August 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “Endorsement Record in Republican Primaries” presents a “2026 Record.” It says 183 of 185 endorsed candidates won, for a 99% success rate. Separate circular charts show 100% for U.S. Senate endorsements, 17 of 17; 100% for U.S. House endorsements, 154 of 154; and 86% for governor endorsements, 12 of 14.",
       "url": "https://www.trumpstruth.org/statuses/40547",
       "raw": {
         "creator": "",
@@ -654,13 +854,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40547",
         "isoDate": "2026-08-04T21:48:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:07:00.661Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17497/49cb402fb6a94326.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40546",
       "publishedAt": "2026-08-04T21:49:09.000Z",
       "title": "[No Title] - Post from August 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “Endorsement Record in Republican Primaries” shows endorsement percentages by office for election cycles from 2018 through 2026. Office totals are 99% for U.S. Senate, 98% for U.S. House, and 88% for governor. Cycle totals are 97% in 2018, 98% in 2020, 96% in 2022, 98% in 2024, and 99% in 2026, with an overall total of 98% (693 of 709).",
       "url": "https://www.trumpstruth.org/statuses/40546",
       "raw": {
         "creator": "",
@@ -672,13 +876,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40546",
         "isoDate": "2026-08-04T21:49:09.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:06:58.201Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17496/84b7abe33eea750a.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40548",
       "publishedAt": "2026-08-04T22:14:24.000Z",
       "title": "[No Title] - Post from August 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A stylized composite depicts George S. Patton, Donald Trump, and Douglas MacArthur standing in military uniforms before a smoky battlefield with tanks and fires. Trump is centered in a heavily decorated uniform, while Patton wears a helmet and MacArthur wears a peaked cap and holds a pipe. The headline reads, “Patton, Trump, MacArthur.”",
       "url": "https://www.trumpstruth.org/statuses/40548",
       "raw": {
         "creator": "",
@@ -690,7 +898,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40548",
         "isoDate": "2026-08-04T22:14:24.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:06:55.673Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17498/e64a3cd491294a3e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40549",
@@ -714,7 +926,7 @@
       "id": "https://www.trumpstruth.org/statuses/40550",
       "publishedAt": "2026-08-04T22:29:28.000Z",
       "title": "The very complex and expensive structure, being built for the United States Military, at the East Wing of the White House. This picture does not yet include the DronePort, where the steel, which is already fabricated and ready to go, will be delivered, imminently. The Project is on cost, and substantially ahead of schedule. We are working very closely with the United States Secret Service, and Military, and this Military Complex is the best of the best! It will provide the highest level of Defense, Offense, and Safety for the people of Washington, D.C., and for, importantly, future Presidents. Also rising is the desperately needed Ballroom, something which former Presidents have wanted for 150 years, which sits directly under the elevated DronePort, and is paid for by Great American Patriots — No Taxpayer Money! Thank you for your attention to this matter. President DONALD J. TRUMP",
-      "text": "<p>The very complex and expensive structure, being built for the United States Military, at the East Wing of the White House. This picture does not yet include the DronePort, where the steel, which is already fabricated and ready to go, will be delivered, imminently. The Project is on cost, and substantially ahead of schedule. We are working very closely with the United States Secret Service, and Military, and this Military Complex is the best of the best! It will provide the highest level of Defense, Offense, and Safety for the people of Washington, D.C., and for, importantly, future Presidents. Also rising is the desperately needed Ballroom, something which former Presidents have wanted for 150 years, which sits directly under the elevated DronePort, and is paid for by Great American Patriots — No Taxpayer Money! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "text": "<p>The very complex and expensive structure, being built for the United States Military, at the East Wing of the White House. This picture does not yet include the DronePort, where the steel, which is already fabricated and ready to go, will be delivered, imminently. The Project is on cost, and substantially ahead of schedule. We are working very closely with the United States Secret Service, and Military, and this Military Complex is the best of the best! It will provide the highest level of Defense, Offense, and Safety for the people of Washington, D.C., and for, importantly, future Presidents. Also rising is the desperately needed Ballroom, something which former Presidents have wanted for 150 years, which sits directly under the elevated DronePort, and is paid for by Great American Patriots — No Taxpayer Money! Thank you for your attention to this matter. President DONALD J. TRUMP</p>\n\n[Image] An elevated view shows the White House at left, with American flags flying on its roof and grounds. A large construction site occupies the foreground, filled with concrete foundations, steel framing, heavy machinery, materials, and a tall tower crane. Tree-lined streets and dense government and commercial buildings extend across the Washington, D.C., skyline in the background.",
       "url": "https://www.trumpstruth.org/statuses/40550",
       "raw": {
         "creator": "",
@@ -726,7 +938,11 @@
         "contentSnippet": "The very complex and expensive structure, being built for the United States Military, at the East Wing of the White House. This picture does not yet include the DronePort, where the steel, which is already fabricated and ready to go, will be delivered, imminently. The Project is on cost, and substantially ahead of schedule. We are working very closely with the United States Secret Service, and Military, and this Military Complex is the best of the best! It will provide the highest level of Defense, Offense, and Safety for the people of Washington, D.C., and for, importantly, future Presidents. Also rising is the desperately needed Ballroom, something which former Presidents have wanted for 150 years, which sits directly under the elevated DronePort, and is paid for by Great American Patriots — No Taxpayer Money! Thank you for your attention to this matter. President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/40550",
         "isoDate": "2026-08-04T22:29:28.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:06:51.046Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17499/52ea9314dbfe2c95.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40553",
@@ -750,7 +966,7 @@
       "id": "https://www.trumpstruth.org/statuses/40552",
       "publishedAt": "2026-08-04T22:34:28.000Z",
       "title": "It was my Honor to write the Foreword for Brian Pannebecker’s incredible new Book, “Blue Collar Conservative: From Reagan to Trump.” As the head of Autoworkers for Trump, Brian has been with us from the very beginning, and understands, like few others, the Wisdom, Courage, and TARIFFS required to, MAKE AMERICA GREAT AGAIN. It is Great Patriots like Brian who helped us secure Historic Victories in three Presidential Campaigns, and are working tirelessly to save American Industry, and champion MADE IN THE U.S.A. “Forgotten” America is forgotten no longer — Get your copy today:",
-      "text": "<p>It was my Honor to write the Foreword for Brian Pannebecker’s incredible new Book, “Blue Collar Conservative: From Reagan to Trump.” As the head of Autoworkers for Trump, Brian has been with us from the very beginning, and understands, like few others, the Wisdom, Courage, and TARIFFS required to, MAKE AMERICA GREAT AGAIN. It is Great Patriots like Brian who helped us secure Historic Victories in three Presidential Campaigns, and are working tirelessly to save American Industry, and champion MADE IN THE U.S.A. “Forgotten” America is forgotten no longer — Get your copy today:<br/><a href=\"https://www.amazon.com/Blue-Collar-Conservative-Reagan-Trump/dp/1960452258\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">amazon.com/Blue-Collar-Conserv</span><span class=\"invisible\">ative-Reagan-Trump/dp/1960452258</span></a></p>",
+      "text": "<p>It was my Honor to write the Foreword for Brian Pannebecker’s incredible new Book, “Blue Collar Conservative: From Reagan to Trump.” As the head of Autoworkers for Trump, Brian has been with us from the very beginning, and understands, like few others, the Wisdom, Courage, and TARIFFS required to, MAKE AMERICA GREAT AGAIN. It is Great Patriots like Brian who helped us secure Historic Victories in three Presidential Campaigns, and are working tirelessly to save American Industry, and champion MADE IN THE U.S.A. “Forgotten” America is forgotten no longer — Get your copy today:<br/><a href=\"https://www.amazon.com/Blue-Collar-Conservative-Reagan-Trump/dp/1960452258\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">amazon.com/Blue-Collar-Conserv</span><span class=\"invisible\">ative-Reagan-Trump/dp/1960452258</span></a></p>\n\n[Image] A book cover titled “Blue Collar Conservative: From Reagan to Trump” features a photograph of Donald Trump standing behind a worker speaking at a presidential podium. The worker wears a reflective safety vest and a Trump hat, with a large American flag in the background. The cover identifies Brian Pannebecker as the author and notes a foreword by President Donald J. Trump.",
       "url": "https://www.trumpstruth.org/statuses/40552",
       "raw": {
         "creator": "",
@@ -762,13 +978,17 @@
         "contentSnippet": "It was my Honor to write the Foreword for Brian Pannebecker’s incredible new Book, “Blue Collar Conservative: From Reagan to Trump.” As the head of Autoworkers for Trump, Brian has been with us from the very beginning, and understands, like few others, the Wisdom, Courage, and TARIFFS required to, MAKE AMERICA GREAT AGAIN. It is Great Patriots like Brian who helped us secure Historic Victories in three Presidential Campaigns, and are working tirelessly to save American Industry, and champion MADE IN THE U.S.A. “Forgotten” America is forgotten no longer — Get your copy today:\nhttps://www.amazon.com/Blue-Collar-Conservative-Reagan-Trump/dp/1960452258",
         "guid": "https://www.trumpstruth.org/statuses/40552",
         "isoDate": "2026-08-04T22:34:28.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:06:48.043Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17501/7585038d0868ba70.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40551",
       "publishedAt": "2026-08-04T22:34:59.000Z",
       "title": "The Highly Respected Alan Dershowitz has written a powerful new book, “Why I quit the Dems and so should you! (confessions of a reluctant Republican*).” Alan is a Great American Patriot who understands the Wisdom and Courage it takes to defend Democracy from Communism, and it is our Honor to welcome him into the Party of COMMON SENSE! There are many others, like Alan, who feel abandoned by the Radical Left Dumocrats, and are fleeing the Dumocrat Party, and Blue States, for FREEDOM — This Book is for you. Preorder your copy today: ",
-      "text": "<p>The Highly Respected Alan Dershowitz has written a powerful new book, “Why I quit the Dems and so should you! (confessions of a reluctant Republican*).” Alan is a Great American Patriot who understands the Wisdom and Courage it takes to defend Democracy from Communism, and it is our Honor to welcome him into the Party of COMMON SENSE! There are many others, like Alan, who feel abandoned by the Radical Left Dumocrats, and are fleeing the Dumocrat Party, and Blue States, for FREEDOM — This Book is for you. Preorder your copy today:  <br/><a href=\"https://amazon.com/Why-Quit-Dems-confessions-Republican/dp/1510789367\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">amazon.com/Why-Quit-Dems-confe</span><span class=\"invisible\">ssions-Republican/dp/1510789367</span></a></p>",
+      "text": "<p>The Highly Respected Alan Dershowitz has written a powerful new book, “Why I quit the Dems and so should you! (confessions of a reluctant Republican*).” Alan is a Great American Patriot who understands the Wisdom and Courage it takes to defend Democracy from Communism, and it is our Honor to welcome him into the Party of COMMON SENSE! There are many others, like Alan, who feel abandoned by the Radical Left Dumocrats, and are fleeing the Dumocrat Party, and Blue States, for FREEDOM — This Book is for you. Preorder your copy today:  <br/><a href=\"https://amazon.com/Why-Quit-Dems-confessions-Republican/dp/1510789367\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">amazon.com/Why-Quit-Dems-confe</span><span class=\"invisible\">ssions-Republican/dp/1510789367</span></a></p>\n\n[Image] A book cover reads “Why I Quit the Dems and So Should You!” in large blue and red lettering, with the subtitle “Confessions of a Reluctant Republican.” The author is Alan Dershowitz, identified as a New York Times bestselling author. An illustration shows a donkey kicking away a person in an American flag-patterned outfit near two elephants.",
       "url": "https://www.trumpstruth.org/statuses/40551",
       "raw": {
         "creator": "",
@@ -780,13 +1000,17 @@
         "contentSnippet": "The Highly Respected Alan Dershowitz has written a powerful new book, “Why I quit the Dems and so should you! (confessions of a reluctant Republican*).” Alan is a Great American Patriot who understands the Wisdom and Courage it takes to defend Democracy from Communism, and it is our Honor to welcome him into the Party of COMMON SENSE! There are many others, like Alan, who feel abandoned by the Radical Left Dumocrats, and are fleeing the Dumocrat Party, and Blue States, for FREEDOM — This Book is for you. Preorder your copy today:  \nhttps://amazon.com/Why-Quit-Dems-confessions-Republican/dp/1510789367",
         "guid": "https://www.trumpstruth.org/statuses/40551",
         "isoDate": "2026-08-04T22:34:59.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:06:45.617Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17500/c2044b0c527ee259.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40555",
       "publishedAt": "2026-08-04T22:52:02.000Z",
       "title": "Congratulations to Brandon Beach, Treasurer of the United States, on having a portion of Highway 9 in Alpharetta, Georgia, named in his honor! He helped us secure a HISTORIC Victory in the Great State of Georgia. As Treasurer, he is working closely with our Secretary of the Treasury, Scott Bessent, to promote Dollar Dominance, and strengthen America’s Financial Future. Brandon is doing an incredible job for our Country. Congratulations Brandon!",
-      "text": "<p>Congratulations to Brandon Beach, Treasurer of the United States, on having a portion of Highway 9 in Alpharetta, Georgia, named in his honor! He helped us secure a HISTORIC Victory in the Great State of Georgia. As Treasurer, he is working closely with our Secretary of the Treasury, Scott Bessent, to promote Dollar Dominance, and strengthen America’s Financial Future. Brandon is doing an incredible job for our Country. Congratulations Brandon!</p>",
+      "text": "<p>Congratulations to Brandon Beach, Treasurer of the United States, on having a portion of Highway 9 in Alpharetta, Georgia, named in his honor! He helped us secure a HISTORIC Victory in the Great State of Georgia. As Treasurer, he is working closely with our Secretary of the Treasury, Scott Bessent, to promote Dollar Dominance, and strengthen America’s Financial Future. Brandon is doing an incredible job for our Country. Congratulations Brandon!</p>\n\n[Image] A roadside sign reads “United States Treasurer Brandon L. Beach Highway” and “2026 Georgia General Assembly.” It stands beside a multi-lane urban road with several cars, orange construction barrels, utility poles, houses, and traffic lights. Dark storm clouds hang over the scene, with patches of blue sky visible in the background.",
       "url": "https://www.trumpstruth.org/statuses/40555",
       "raw": {
         "creator": "",
@@ -798,7 +1022,11 @@
         "contentSnippet": "Congratulations to Brandon Beach, Treasurer of the United States, on having a portion of Highway 9 in Alpharetta, Georgia, named in his honor! He helped us secure a HISTORIC Victory in the Great State of Georgia. As Treasurer, he is working closely with our Secretary of the Treasury, Scott Bessent, to promote Dollar Dominance, and strengthen America’s Financial Future. Brandon is doing an incredible job for our Country. Congratulations Brandon!",
         "guid": "https://www.trumpstruth.org/statuses/40555",
         "isoDate": "2026-08-04T22:52:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:06:42.694Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17502/e755691a5ff2dea8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40554",
@@ -1084,5 +1312,6 @@
       "rationale": "The text congratulates Brandon Beach and praises his contributions, indicating a positive sentiment.",
       "analyzedAt": "2026-09-05T07:46:12.630Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:44:f510c4ff715c4c91febc689b"
 }

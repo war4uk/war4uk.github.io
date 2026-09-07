@@ -6,25 +6,23 @@
     "negative": 0
   },
   "summary": "positive:1 neutral:8 negative:0",
-  "generatedAt": "2026-09-05T08:03:47.956Z",
+  "generatedAt": "2026-09-07T19:58:10.672Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies",
-    "Economic Growth and Job Creation"
+    "Advances West Coast oil production through the Defense Production Act and Sable Pipeline restoration",
+    "Warns Iran that the United States is prepared for unprecedented military action",
+    "Administration creates technology incubators to counter drone attacks"
   ],
-  "trendingTopic": "'PO'd' Evers vows to resist any FBI effort to seize Milwaukee ballots",
+  "trendingTopic": "Trump administration advances West Coast oil production through Defense Production Act and Sable Pipeline restoration",
   "secondaryHighlights": [
     {
-      "topic": "Why I Put President Trump's Name on Palm Beach's Airport"
+      "topic": "Warns Iran that the United States is prepared for unprecedented military action"
     },
     {
-      "topic": "The Winning Shot in the Bedminster Club Championship!"
-    },
-    {
-      "topic": "Trump administration creating ‘incubators’ to develop new tech to counter drone terror attacks"
+      "topic": "Administration creates technology incubators to counter drone attacks"
     }
   ],
-  "selfPraiseCount": 1,
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:9:ee6cbac9a961f99badc836b4",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40453",
@@ -138,7 +136,7 @@
       "id": "https://www.trumpstruth.org/statuses/40456",
       "publishedAt": "2026-08-02T12:58:43.000Z",
       "title": "Why I Put President Trump's Name on Palm Beach's Airport:",
-      "text": "<p>Why I Put President Trump's Name on Palm Beach's Airport: <a href=\"https://townhall.com/columnists/meg-weinberger/2026/07/14/why-i-put-president-trumps-name-on-palm-beachs-airport-n2679374\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">townhall.com/columnists/meg-we</span><span class=\"invisible\">inberger/2026/07/14/why-i-put-president-trumps-name-on-palm-beachs-airport-n2679374</span></a></p>",
+      "text": "<p>Why I Put President Trump's Name on Palm Beach's Airport: <a href=\"https://townhall.com/columnists/meg-weinberger/2026/07/14/why-i-put-president-trumps-name-on-palm-beachs-airport-n2679374\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">townhall.com/columnists/meg-we</span><span class=\"invisible\">inberger/2026/07/14/why-i-put-president-trumps-name-on-palm-beachs-airport-n2679374</span></a></p>\n\n[Image] A screenshot of a post from the verified account Megforflorida praises Donald Trump’s leadership and political comeback, and says Palm Beach’s airport was renamed President Donald J. Trump International Airport. The attached photo shows a large dark-blue sign reading “Welcome to President Donald J. Trump International Airport,” with an eagle emblem, stars, and metal supports.",
       "url": "https://www.trumpstruth.org/statuses/40456",
       "raw": {
         "creator": "",
@@ -150,13 +148,17 @@
         "contentSnippet": "Why I Put President Trump's Name on Palm Beach's Airport: https://townhall.com/columnists/meg-weinberger/2026/07/14/why-i-put-president-trumps-name-on-palm-beachs-airport-n2679374",
         "guid": "https://www.trumpstruth.org/statuses/40456",
         "isoDate": "2026-08-02T12:58:43.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:06:13.081Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17456/d5a87e9c304e3594.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40460",
       "publishedAt": "2026-08-02T16:22:34.000Z",
       "title": "[No Title] - Post from August 2, 2026",
-      "text": "<p><a href=\"https://www.energy.gov/articles/secretary-wright-directs-sable-offshore-restore-santa-ynez-unit-and-pipeline\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">energy.gov/articles/secretary-</span><span class=\"invisible\">wright-directs-sable-offshore-restore-santa-ynez-unit-and-pipeline</span></a></p>",
+      "text": "<p><a href=\"https://www.energy.gov/articles/secretary-wright-directs-sable-offshore-restore-santa-ynez-unit-and-pipeline\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">energy.gov/articles/secretary-</span><span class=\"invisible\">wright-directs-sable-offshore-restore-santa-ynez-unit-and-pipeline</span></a></p>\n\n[Image] A White House-branded text graphic titled “President Trump Unleashes Oil Production on the West Coast with the Defense Production Act.” It attributes to Donald Trump an executive order involving the Sable Pipeline and claims increased California offshore oil production, 20 million barrels annually for military installations, and an end to California climate regulations.",
       "url": "https://www.trumpstruth.org/statuses/40460",
       "raw": {
         "creator": "",
@@ -168,7 +170,11 @@
         "contentSnippet": "https://www.energy.gov/articles/secretary-wright-directs-sable-offshore-restore-santa-ynez-unit-and-pipeline",
         "guid": "https://www.trumpstruth.org/statuses/40460",
         "isoDate": "2026-08-02T16:22:34.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:06:10.251Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17457/0e987c56c4c97227.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40461",
@@ -244,5 +250,6 @@
       "rationale": "The text expresses a sense of achievement and pride in winning a championship, highlighting talent and honor.",
       "analyzedAt": "2026-09-05T07:45:29.845Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:9:ee6cbac9a961f99badc836b4"
 }

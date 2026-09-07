@@ -6,26 +6,27 @@
     "negative": 2
   },
   "summary": "positive:7 neutral:1 negative:2",
-  "generatedAt": "2026-09-05T19:56:17.485Z",
+  "generatedAt": "2026-09-07T19:52:57.780Z",
   "topics": [
-    "American citizen released from Iran",
-    "Trump endorses candidates in Minnesota",
-    "Data centers and job creation in the U.S."
+    "Mike Lindell and Amy Klobuchar emerge as rival candidates in Minnesota governor race",
+    "House passes Trump-supported bill to make daylight saving time permanent",
+    "Trump praises ICE while claiming crime has fallen to decades-low levels"
   ],
-  "trendingTopic": "American citizen wrongfully detained in Iran is released",
+  "trendingTopic": "Mike Lindell and Amy Klobuchar emerge as rival candidates in Minnesota governor race",
   "secondaryHighlights": [
     {
-      "topic": "Trump endorses Mike Lindell for Minnesota Governor"
+      "topic": "Trump endorses Michael Alfonso for Wisconsin's 7th Congressional District",
+      "name": "Michael Alfonso"
     },
     {
-      "topic": "Trump endorses Michael Alfonso for Wisconsin's 7th Congressional District"
+      "topic": "Trump says inflation has fallen and will decline further"
     },
     {
-      "topic": "Concerns over data center policies in New York"
+      "topic": "Iran releases an American citizen detained since December 2024"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v3:10:d51ed39cd41506cd53fb3e38",
+  "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v10:10:d51ed39cd41506cd53fb3e38",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40058",
@@ -121,7 +122,7 @@
       "id": "https://www.trumpstruth.org/statuses/40062",
       "publishedAt": "2026-07-15T11:34:26.000Z",
       "title": "So cool!!! President DJT",
-      "text": "<p>So cool!!! President DJT</p>",
+      "text": "<p>So cool!!! President DJT</p>\n\n[Image] A news-style graphic features a photo of Taylor Swift and Travis Kelce walking through a crowded sports arena. Swift wears a black top and holds a drink, while Kelce wears a backward red cap, denim shirt, white T-shirt, and gold chain. The headline says their mystery dog debuted at Trump airport in West Palm Beach, and notes Swift’s jet carried Kelce and a surprise guest.",
       "url": "https://www.trumpstruth.org/statuses/40062",
       "raw": {
         "creator": "",
@@ -133,7 +134,11 @@
         "contentSnippet": "So cool!!! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/40062",
         "isoDate": "2026-07-15T11:34:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:29:13.973Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17193/556b65f063f0cb38.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40064",
@@ -269,5 +274,6 @@
       "rationale": "The statement expresses appreciation for Iran's gesture of allowing an American citizen to leave the country, indicating a positive sentiment.",
       "analyzedAt": "2026-09-05T08:00:29.467Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:10:d51ed39cd41506cd53fb3e38"
 }

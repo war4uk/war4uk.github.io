@@ -6,29 +6,32 @@
     "negative": 4
   },
   "summary": "positive:22 neutral:11 negative:4",
-  "generatedAt": "2026-09-06T06:03:35.647Z",
+  "generatedAt": "2026-09-07T19:45:55.600Z",
   "topics": [
-    "Endorses multiple America First candidates in New York, Michigan, Alabama, and Utah",
-    "Congratulates Abelardo de la Espriella on becoming President of Colombia",
-    "Comments on the state of protests regarding algae"
+    "Endorses a broad slate of Republican candidates in congressional and statewide races",
+    "Promotes polling and assurances supporting the U.S.-Iran peace deal"
   ],
-  "trendingTopic": "Endorses multiple America First candidates in New York, Michigan, Alabama, and Utah",
+  "trendingTopic": "Endorses a broad slate of Republican candidates in congressional and statewide races",
   "secondaryHighlights": [
     {
-      "topic": "Congratulates Abelardo de la Espriella on becoming President of Colombia"
+      "topic": "Promotes polling and assurances supporting the U.S.-Iran peace deal"
     },
     {
-      "topic": "Comments on the state of protests regarding algae"
+      "topic": "Congratulates Abelardo de la Espriella on becoming Colombia’s president",
+      "name": "Abelardo de la Espriella"
+    },
+    {
+      "topic": "Reports vandalism damage to the White House Reflecting Pool"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v8:37:c113385a4c84747b293d9953",
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v10:37:c113385a4c84747b293d9953",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39420",
       "publishedAt": "2026-06-22T00:36:13.000Z",
       "title": "The Failing New York Times is CORRUPT!",
-      "text": "<p>The Failing New York Times is CORRUPT!</p>",
+      "text": "<p>The Failing New York Times is CORRUPT!</p>\n\n[Image] A screenshot shows a post from Senator Lindsey Graham reading, “Spot on, Mr. President,” followed by criticism of a New York Times analysis of Iran after Operations Midnight Hammer and Epic Fury. It embeds a post by Donald Trump claiming Iran’s military and economy are devastated while U.S. oil production, stocks, and jobs are at record highs.",
       "url": "https://www.trumpstruth.org/statuses/39420",
       "raw": {
         "creator": "",
@@ -40,7 +43,11 @@
         "contentSnippet": "The Failing New York Times is CORRUPT!",
         "guid": "https://www.trumpstruth.org/statuses/39420",
         "isoDate": "2026-06-22T00:36:13.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:40:37.037Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16765/f374c9379bedc254.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39421",
@@ -496,7 +503,7 @@
       "id": "https://www.trumpstruth.org/statuses/39449",
       "publishedAt": "2026-06-22T21:49:11.000Z",
       "title": "[No Title] - Post from June 22, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A polling graphic titled “Iran Deal – Polling” asks what impact a U.S.–Iran peace deal would have on inflation and affordability in the U.S. Among respondents aware of the deal, 43% say conditions will get better, 39% say they will stay about the same, 16% say they will get worse, and 2% don’t know or refused. The Fabrizio, Lee & Associates poll surveyed 1,179 people June 16–18, 2026.",
       "url": "https://www.trumpstruth.org/statuses/39449",
       "raw": {
         "creator": "",
@@ -508,13 +515,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39449",
         "isoDate": "2026-06-22T21:49:11.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:40:29.486Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16769/1a005b7b72c2ab19.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39448",
       "publishedAt": "2026-06-22T21:49:27.000Z",
       "title": "[No Title] - Post from June 22, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “IRAN DEAL – POLLING” presents Fabrizio, Lee & Associates polling on the U.S. economy. Asked what impact a U.S.–Iran peace deal would have, 51% said the economy would get better, 35% said it would stay about the same, 12% said it would get worse, and 2% said they did not know or refused. The poll ran June 16–18, 2026, among 1,179 respondents aware of the deal.",
       "url": "https://www.trumpstruth.org/statuses/39448",
       "raw": {
         "creator": "",
@@ -526,13 +537,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39448",
         "isoDate": "2026-06-22T21:49:27.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:40:27.070Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16768/ac208f0832f80101.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39447",
       "publishedAt": "2026-06-22T21:49:40.000Z",
       "title": "[No Title] - Post from June 22, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “IRAN DEAL – POLLING” presents results from Fabrizio, Lee & Associates. It asks whether respondents favor or oppose the peace deal reached between the U.S. and Iran. The chart reports 67% favoring the deal, 26% opposing it, and 7% unsure, based on 1,500 respondents surveyed June 16–18, 2026.",
       "url": "https://www.trumpstruth.org/statuses/39447",
       "raw": {
         "creator": "",
@@ -544,13 +559,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39447",
         "isoDate": "2026-06-22T21:49:40.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:40:24.570Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16767/e73d29e3c9b93c60.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39446",
       "publishedAt": "2026-06-22T21:49:51.000Z",
       "title": "[No Title] - Post from June 22, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A Fabrizio, Lee & Associates polling graphic titled “Iran Deal – Polling” shows a pie chart of reasons for favoring a United States–Iran peace deal. The largest share, 36%, cites peace, no more deaths, and ending the war. Other responses include 11% each for opening the Strait of Hormuz, lower gas and oil prices, and Iran losing nuclear weapons, while 5% don’t know or refused.",
       "url": "https://www.trumpstruth.org/statuses/39446",
       "raw": {
         "creator": "",
@@ -562,13 +581,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39446",
         "isoDate": "2026-06-22T21:49:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:40:22.647Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16766/874f4d0f7203512e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39453",
       "publishedAt": "2026-06-22T21:50:09.000Z",
       "title": "[No Title] - Post from June 22, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic titled “IRAN DEAL – POLLING” reports “Quantus Insights – 56% Approval.” Its embedded poll asks 1,000 likely voters whether they approve of a preliminary U.S.-Iran agreement to stop hostilities, reopen shipping through the Strait of Hormuz, and hold 60 days of talks on Iran’s nuclear program and sanctions. Results: 43% strongly approve, 13% somewhat approve, 16% neutral, 15% unsure, and 13% disapprove.",
       "url": "https://www.trumpstruth.org/statuses/39453",
       "raw": {
         "creator": "",
@@ -580,13 +603,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39453",
         "isoDate": "2026-06-22T21:50:09.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:40:20.310Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16773/5743453789797287.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39452",
       "publishedAt": "2026-06-22T21:50:21.000Z",
       "title": "[No Title] - Post from June 22, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “IRAN DEAL – POLLING” reports results from the Napolitan News Service. It asks whether an agreement to end the war with Iran would be good or bad for the United States. The chart shows 58% saying very or somewhat good, 14% somewhat bad, 6% very bad, and 21% not sure. The survey dates are June 15–16, 2026, with 1,000 respondents.",
       "url": "https://www.trumpstruth.org/statuses/39452",
       "raw": {
         "creator": "",
@@ -598,13 +625,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39452",
         "isoDate": "2026-06-22T21:50:21.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:40:17.565Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16772/450f1fd58dbb5f23.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39451",
       "publishedAt": "2026-06-22T21:50:35.000Z",
       "title": "[No Title] - Post from June 22, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A polling graphic titled “IRAN DEAL – POLLING” from Fabrizio, Lee & Associates asks whether people favor or oppose the peace deal reached between the United States and Iran. It reports 67% favoring the deal, 26% opposing it, and 7% unsure. The figures are shown in green, red, and gray bars, based on 1,500 respondents surveyed June 16–18, 2026.",
       "url": "https://www.trumpstruth.org/statuses/39451",
       "raw": {
         "creator": "",
@@ -616,13 +647,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39451",
         "isoDate": "2026-06-22T21:50:35.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:40:14.997Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16771/7912d5983869a3c0.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39450",
       "publishedAt": "2026-06-22T21:50:49.000Z",
       "title": "[No Title] - Post from June 22, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “IRAN DEAL – POLLING” presents a YouGov CBS poll. It states that over 80% of Republicans consider the deal better for the United States or good for both countries. Among Republicans, 39% say it is better for the U.S., 19% better for Iran, and 42% about equal; among MAGA Republicans, the figures are 47%, 12%, and 41%.",
       "url": "https://www.trumpstruth.org/statuses/39450",
       "raw": {
         "creator": "",
@@ -634,13 +669,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39450",
         "isoDate": "2026-06-22T21:50:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:40:13.291Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16770/52141401d9ee7be9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39454",
       "publishedAt": "2026-06-22T22:04:09.000Z",
       "title": "Here is another example of a crazy pro-algae (likely paid) protestor. The sign says, “First they came for the algae…” which is in reference to a famous post-WW2 statement about Germans not speaking out against the Nazis: “…Then they came for the Jews, and I did not speak out—because I was not a Jew. Then they came for me—and there was no one left to speak for me.”",
-      "text": "<p>Here is another example of a crazy pro-algae (likely paid) protestor. </p><p>The sign says, “First they came for the algae…” which is in reference to a famous post-WW2 statement about Germans not speaking out against the Nazis: </p><p>“…Then they came for the Jews, and I did not speak out—because I was not a Jew. Then they came for me—and there was no one left to speak for me.”</p>",
+      "text": "<p>Here is another example of a crazy pro-algae (likely paid) protestor. </p><p>The sign says, “First they came for the algae…” which is in reference to a famous post-WW2 statement about Germans not speaking out against the Nazis: </p><p>“…Then they came for the Jews, and I did not speak out—because I was not a Jew. Then they came for me—and there was no one left to speak for me.”</p>\n\n[Image] A person in a large pink-and-white amphibian costume stands beside a waterfront, holding two poles supporting a hand-painted protest sign. The sign uses dark green lettering and appears to reference “THE ALLIGATOR,” while “AMPHIFA” is written across the costume’s belly. An American flag, trees, water, and pedestrians are visible in the background.",
       "url": "https://www.trumpstruth.org/statuses/39454",
       "raw": {
         "creator": "",
@@ -652,7 +691,11 @@
         "contentSnippet": "Here is another example of a crazy pro-algae (likely paid) protestor. \nThe sign says, “First they came for the algae…” which is in reference to a famous post-WW2 statement about Germans not speaking out against the Nazis: \n“…Then they came for the Jews, and I did not speak out—because I was not a Jew. Then they came for me—and there was no one left to speak for me.”",
         "guid": "https://www.trumpstruth.org/statuses/39454",
         "isoDate": "2026-06-22T22:04:09.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:40:11.336Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16774/64c73065f79e3728.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39456",
@@ -676,7 +719,7 @@
       "id": "https://www.trumpstruth.org/statuses/39455",
       "publishedAt": "2026-06-22T22:52:34.000Z",
       "title": "Just like James Talarico reminds me of Alfred E. Neuman, Jon Osoff reminds me of Pee-wee Herman!",
-      "text": "<p>Just like James Talarico reminds me of Alfred E. Neuman, Jon Osoff reminds me of Pee-wee Herman!</p>",
+      "text": "<p>Just like James Talarico reminds me of Alfred E. Neuman, Jon Osoff reminds me of Pee-wee Herman!</p>\n\n[Image] An image titled “Alfred E. Neuman” shows two side-by-side portraits. On the left is the familiar illustrated Mad magazine mascot, depicted with tousled brown hair, large ears, freckles, and a wide, gap-toothed grin. On the right is a color photograph of a young man with similar short dark hair, facial features, and a missing front tooth.",
       "url": "https://www.trumpstruth.org/statuses/39455",
       "raw": {
         "creator": "",
@@ -688,7 +731,11 @@
         "contentSnippet": "Just like James Talarico reminds me of Alfred E. Neuman, Jon Osoff reminds me of Pee-wee Herman!",
         "guid": "https://www.trumpstruth.org/statuses/39455",
         "isoDate": "2026-06-22T22:52:34.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:40:08.222Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16775/89b6e64ffcde2915.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -914,5 +961,6 @@
       "rationale": "The endorsement of Mike LiPetri is enthusiastic and highlights his qualifications and commitment to the community, indicating a strong positive sentiment.",
       "analyzedAt": "2026-09-05T08:37:45.445Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:37:c113385a4c84747b293d9953"
 }

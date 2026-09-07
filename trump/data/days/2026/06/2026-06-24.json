@@ -6,23 +6,23 @@
     "negative": 7
   },
   "summary": "positive:5 neutral:24 negative:7",
-  "generatedAt": "2026-09-06T06:03:38.305Z",
+  "generatedAt": "2026-09-07T19:46:34.317Z",
   "topics": [
-    "Calls for the passage of the SAVE AMERICA ACT as a National Emergency",
-    "Comments on the performance of various political candidates in primaries",
-    "Critiques of oil companies and their pricing strategies"
+    "Trump celebrates sweeping June 23 primary victories for endorsed Republicans across New York, Utah, Maryland, and South Carolina",
+    "Trump discusses Iran negotiations and criticizes the Senate over a war powers resolution",
+    "Trump postpones housing conference while demanding passage of the SAVE AMERICA ACT"
   ],
-  "trendingTopic": "Calls for the passage of the SAVE AMERICA ACT as a National Emergency",
+  "trendingTopic": "Trump celebrates sweeping June 23 primary victories for endorsed Republicans across New York, Utah, Maryland, and South Carolina",
   "secondaryHighlights": [
     {
-      "topic": "Comments on the performance of various political candidates in primaries"
+      "topic": "Trump discusses Iran negotiations and criticizes the Senate over a war powers resolution"
     },
     {
-      "topic": "Critiques of oil companies and their pricing strategies"
+      "topic": "Trump postpones housing conference while demanding passage of the SAVE AMERICA ACT"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v8:36:7f233972d823f59c3b24ef1a",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:36:7f233972d823f59c3b24ef1a",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39482",
@@ -46,7 +46,7 @@
       "id": "https://www.trumpstruth.org/statuses/39481",
       "publishedAt": "2026-06-24T00:19:48.000Z",
       "title": "[No Title] - Post from June 24, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic announces, “Congressman (MD-01) Andy Harris wins!” and says he was endorsed by President Trump. It features portraits of Donald Trump on the left and Congressman Andy Harris on the right, both in suits, against a blue-to-red background. A Trump-Vance logo appears at the bottom with the slogan “Make America Great Again.”",
       "url": "https://www.trumpstruth.org/statuses/39481",
       "raw": {
         "creator": "",
@@ -58,7 +58,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39481",
         "isoDate": "2026-06-24T00:19:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:41:49.179Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16792/53db895ddab1747c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39483",
@@ -82,7 +86,7 @@
       "id": "https://www.trumpstruth.org/statuses/39491",
       "publishedAt": "2026-06-24T01:20:36.000Z",
       "title": "[No Title] - Post from June 24, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic announces that Congressman Nick LaLota of New York’s 1st District wins, with text stating he is endorsed by President Donald Trump. Portraits of Donald Trump and Nick LaLota appear against a blue-to-red gradient, alongside a Trump-Vance campaign logo and patriotic star accents.",
       "url": "https://www.trumpstruth.org/statuses/39491",
       "raw": {
         "creator": "",
@@ -94,13 +98,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39491",
         "isoDate": "2026-06-24T01:20:36.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:41:46.548Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16801/27d8c7ec7274e4e7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39490",
       "publishedAt": "2026-06-24T01:20:48.000Z",
       "title": "[No Title] - Post from June 24, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic announces “Congressman (NY-02) Andrew Garbarino Wins!” and says he was endorsed by President Donald Trump. It shows portraits of Donald Trump in a dark suit and blue tie and Andrew Garbarino in a dark suit with a striped tie. A Trump-Vance logo appears at the bottom against a blue-to-red gradient background.",
       "url": "https://www.trumpstruth.org/statuses/39490",
       "raw": {
         "creator": "",
@@ -112,13 +120,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39490",
         "isoDate": "2026-06-24T01:20:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:41:44.087Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16800/953232d9e3c0e012.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39489",
       "publishedAt": "2026-06-24T01:20:56.000Z",
       "title": "[No Title] - Post from June 24, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic features portraits of Donald Trump and Congresswoman Nicole Malliotakis against a blue-to-red gradient background. Large white text reads “CONGRESSWOMAN (NY-11) NICOLE MALLIOTAKIS WINS!” A red banner says “ENDORSED BY PRESIDENT TRUMP!” The bottom displays a “Trump Vance” logo with the slogan “Make America Great Again.”",
       "url": "https://www.trumpstruth.org/statuses/39489",
       "raw": {
         "creator": "",
@@ -130,13 +142,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39489",
         "isoDate": "2026-06-24T01:20:56.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:41:41.579Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16799/93a1f962fc5cacca.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39488",
       "publishedAt": "2026-06-24T01:21:07.000Z",
       "title": "[No Title] - Post from June 24, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political campaign graphic announces that Congressman Mike Lawler of New York’s 17th District wins, with text stating he is endorsed by President Donald Trump. Portraits of Donald Trump and Mike Lawler appear against a blue-to-red gradient background, above a Trump-Vance campaign logo and the slogan “Make America Great Again.”",
       "url": "https://www.trumpstruth.org/statuses/39488",
       "raw": {
         "creator": "",
@@ -148,13 +164,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39488",
         "isoDate": "2026-06-24T01:21:07.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:41:38.788Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16798/0c524e96a1674ff3.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39487",
       "publishedAt": "2026-06-24T01:21:19.000Z",
       "title": "[No Title] - Post from June 24, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces, “Congressman (NY-23) Nick Langworthy Wins!” and says he was endorsed by President Donald Trump. It shows portraits of Donald Trump and Nick Langworthy in suits against a blue-to-red gradient background. A Trump-Vance “Make America Great Again” logo appears at the bottom, with stars and a red-white-blue design.",
       "url": "https://www.trumpstruth.org/statuses/39487",
       "raw": {
         "creator": "",
@@ -166,13 +186,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39487",
         "isoDate": "2026-06-24T01:21:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:41:36.404Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16797/9758fb0c4a99a081.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39486",
       "publishedAt": "2026-06-24T01:21:29.000Z",
       "title": "[No Title] - Post from June 24, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic announces that Congresswoman Claudia Tenney of New York’s 24th District wins, stating she is endorsed by President Donald Trump. Portraits of Claudia Tenney and Donald Trump appear against a blue-to-red gradient background, with a Trump-Vance logo at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39486",
       "raw": {
         "creator": "",
@@ -184,13 +208,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39486",
         "isoDate": "2026-06-24T01:21:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:41:33.550Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16796/4d5802b868bddad8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39485",
       "publishedAt": "2026-06-24T01:22:02.000Z",
       "title": "[No Title] - Post from June 24, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic announces “Republican nominee for governor of New York” Bruce Blakeman and declares “wins,” with text stating he is endorsed by President Donald Trump. Portraits of Donald Trump and Bruce Blakeman appear against a dark blue-to-red gradient. A Trump-Vance logo is placed at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39485",
       "raw": {
         "creator": "",
@@ -202,7 +230,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39485",
         "isoDate": "2026-06-24T01:22:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:41:30.563Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16795/2024f6f2f4b48523.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39484",
@@ -226,7 +258,7 @@
       "id": "https://www.trumpstruth.org/statuses/39495",
       "publishedAt": "2026-06-24T01:52:35.000Z",
       "title": "[No Title] - Post from June 24, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces Mike LiPetri as the Republican nominee for New York’s 3rd Congressional District and declares “WINS!” It states that he is endorsed by President Donald Trump. Portraits of Donald Trump and Mike LiPetri appear against a blue-to-red gradient, with a Trump-Vance logo at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39495",
       "raw": {
         "creator": "",
@@ -238,13 +270,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39495",
         "isoDate": "2026-06-24T01:52:35.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:41:27.505Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16804/9413aa493824c934.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39494",
       "publishedAt": "2026-06-24T01:52:47.000Z",
       "title": "[No Title] - Post from June 24, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “Republican nominee for NY-19 Peter Oberacker wins!” and says he is endorsed by President Donald Trump. It shows portraits of Donald Trump and Peter Oberacker, who is wearing a suit and a circular lapel pin. The design uses a blue-to-red gradient background and includes a “Trump Vance” logo with the slogan “Make America Great Again.”",
       "url": "https://www.trumpstruth.org/statuses/39494",
       "raw": {
         "creator": "",
@@ -256,13 +292,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39494",
         "isoDate": "2026-06-24T01:52:47.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:41:24.744Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16803/ddfcb38c466850b0.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39493",
       "publishedAt": "2026-06-24T01:52:56.000Z",
       "title": "[No Title] - Post from June 24, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “Republican nominee for NY-21” Anthony Constantino “wins!” and states that he is endorsed by President Donald Trump. It shows Donald Trump in a suit beside Anthony Constantino, who is also wearing a suit and tie. A Trump-Vance logo appears at the bottom against a red and blue background.",
       "url": "https://www.trumpstruth.org/statuses/39493",
       "raw": {
         "creator": "",
@@ -274,7 +314,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39493",
         "isoDate": "2026-06-24T01:52:56.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:41:21.939Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16802/16f9ee301ce1a5e4.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39492",
@@ -298,7 +342,7 @@
       "id": "https://www.trumpstruth.org/statuses/39500",
       "publishedAt": "2026-06-24T02:27:40.000Z",
       "title": "[No Title] - Post from June 24, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces that Utah’s 2nd Congressional District Representative Blake Moore “wins” and was endorsed by President Donald Trump. It shows portraits of Donald Trump in a dark suit and blue tie and Blake Moore in a blue suit and red tie. A Trump-Vance campaign logo appears at the bottom against a blue-to-red gradient background.",
       "url": "https://www.trumpstruth.org/statuses/39500",
       "raw": {
         "creator": "",
@@ -310,13 +354,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39500",
         "isoDate": "2026-06-24T02:27:40.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:41:18.677Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16808/57573a94262d1c2b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39499",
       "publishedAt": "2026-06-24T02:27:52.000Z",
       "title": "[No Title] - Post from June 24, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic features portraits of Donald Trump and Congresswoman Celeste Maloy against a blue-to-red gradient background. Large text reads “IN UT-03, CONGRESSWOMAN CELESTE MALOY WINS!” and a red banner says “ENDORSED BY PRESIDENT TRUMP!” A Trump campaign logo with the slogan “Make America Great Again” appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39499",
       "raw": {
         "creator": "",
@@ -328,13 +376,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39499",
         "isoDate": "2026-06-24T02:27:52.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:41:16.211Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16807/7119b2fa9c5511c2.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39498",
       "publishedAt": "2026-06-24T02:28:02.000Z",
       "title": "[No Title] - Post from June 24, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic shows portraits of Donald Trump and Mike Kennedy in suits against a blue-to-red gradient background. Large text reads “In UT-04, Congressman Mike Kennedy Wins!” and a red banner says “Endorsed by President Trump!” A “Trump Vance” logo appears at the bottom, with Kennedy wearing a congressional lapel pin.",
       "url": "https://www.trumpstruth.org/statuses/39498",
       "raw": {
         "creator": "",
@@ -346,13 +398,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39498",
         "isoDate": "2026-06-24T02:28:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:41:13.509Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16806/c34935659555898f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39497",
       "publishedAt": "2026-06-24T02:28:12.000Z",
       "title": "[No Title] - Post from June 24, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political graphic features Donald Trump’s portrait inside a red circle with a green check mark. Text claims “June 23rd Election Recap: 16 Wins - 0 Losses” and “President Trump Endorsements 100%.” State silhouettes list results for Utah, New York, Maryland, and South Carolina, while a Trump-Vance logo appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39497",
       "raw": {
         "creator": "",
@@ -364,7 +420,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39497",
         "isoDate": "2026-06-24T02:28:12.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:41:10.305Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16805/e23d605c1f611164.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39496",
@@ -532,7 +592,7 @@
       "id": "https://www.trumpstruth.org/statuses/39508",
       "publishedAt": "2026-06-24T12:08:18.000Z",
       "title": "RT @realDonaldTrump",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span></p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span></p>\n\n[Image] A political infographic featuring Donald Trump’s portrait states, “June 23rd Election Recap: 16 Wins - 0 Losses” and claims 100% success for presidential endorsements. White state silhouettes list results for Utah, New York, Maryland, and South Carolina. A Trump-Vance campaign logo appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39508",
       "raw": {
         "creator": "",
@@ -544,7 +604,11 @@
         "contentSnippet": "RT @realDonaldTrump",
         "guid": "https://www.trumpstruth.org/statuses/39508",
         "isoDate": "2026-06-24T12:08:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:41:06.402Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16805/e23d605c1f611164.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39510",
@@ -640,7 +704,7 @@
       "id": "https://www.trumpstruth.org/statuses/39516",
       "publishedAt": "2026-06-24T15:17:53.000Z",
       "title": "[No Title] - Post from June 24, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The Washington Monument rises at the far end of the Reflecting Pool in Washington, D.C., with its reflection visible in the water. Tree-lined walkways flank the pool, where visitors stroll beneath a partly cloudy sky. The expansive scene shows the monument centered among green parkland.",
       "url": "https://www.trumpstruth.org/statuses/39516",
       "raw": {
         "creator": "",
@@ -652,13 +716,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39516",
         "isoDate": "2026-06-24T15:17:53.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:41:03.692Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16810/4c15905c92a0fb29.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39515",
       "publishedAt": "2026-06-24T15:18:30.000Z",
       "title": "This is the hard rubber surface — No Paint — Before the Vandals cut and pulled it apart!",
-      "text": "<p>This is the hard rubber surface — No Paint — Before the Vandals cut and pulled it apart!</p>",
+      "text": "<p>This is the hard rubber surface — No Paint — Before the Vandals cut and pulled it apart!</p>\n\n[Image] The Lincoln Memorial stands at the far end of the Reflecting Pool in Washington, D.C., beneath a bright blue sky with scattered clouds. The pool is drained or under renovation, covered by a broad dark-blue temporary surface, with plastic barriers, construction equipment, visitors, and trees visible around the monument.",
       "url": "https://www.trumpstruth.org/statuses/39515",
       "raw": {
         "creator": "",
@@ -670,7 +738,11 @@
         "contentSnippet": "This is the hard rubber surface — No Paint — Before the Vandals cut and pulled it apart!",
         "guid": "https://www.trumpstruth.org/statuses/39515",
         "isoDate": "2026-06-24T15:18:30.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:41:01.833Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16809/17a52af9ee1cb572.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -890,5 +962,6 @@
       "rationale": "The text is empty and does not convey any sentiment.",
       "analyzedAt": "2026-09-05T08:38:15.940Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:36:7f233972d823f59c3b24ef1a"
 }

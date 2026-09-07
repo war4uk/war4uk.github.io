@@ -6,24 +6,27 @@
     "negative": 3
   },
   "summary": "positive:9 neutral:13 negative:3",
-  "generatedAt": "2026-09-06T06:03:46.215Z",
+  "generatedAt": "2026-09-07T19:48:18.385Z",
   "topics": [
-    "Calls for gasoline retailers to lower prices as oil prices drop",
-    "Nominates Keith E. Sonderling as permanent Secretary of Labor",
-    "Supreme Court rulings increase Presidential power and impact voter rights"
+    "U.S. teams rescue infant from Venezuela earthquake rubble as aid efforts continue",
+    "Trump says gasoline and crude prices are falling rapidly, demanding retailers lower prices",
+    "Trump celebrates Supreme Court ruling expanding presidential power to remove executive officials"
   ],
-  "trendingTopic": "Supreme Court rulings increase Presidential power and impact voter rights",
+  "trendingTopic": "U.S. teams rescue infant from Venezuela earthquake rubble as aid efforts continue",
   "secondaryHighlights": [
     {
-      "topic": "Calls for gasoline retailers to lower prices as oil prices drop"
+      "topic": "Trump and allies push the SAVE America Act requiring proof of citizenship and photo identification for voting"
     },
     {
-      "topic": "Nominates Keith E. Sonderling as permanent Secretary of Labor",
-      "name": "Keith E. Sonderling"
+      "topic": "Trump nominates Acting Labor Secretary Keith Sonderling to serve permanently",
+      "name": "Keith Sonderling"
+    },
+    {
+      "topic": "Iran requests a meeting with the United States in Doha"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v8:25:1c7c99ce0c38871afe944abe",
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v10:25:1c7c99ce0c38871afe944abe",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39600",
@@ -47,7 +50,7 @@
       "id": "https://www.trumpstruth.org/statuses/39599",
       "publishedAt": "2026-06-29T00:11:14.000Z",
       "title": "[No Title] - Post from June 29, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116830493710945459</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116830493710945459</span></p>\n\n[Image] A screenshot of a RedWave Press post quotes CBS Sunday Morning asking about Donald Trump’s health and energy as he turns 80. Vice President JD Vance says Trump’s health, focus, and energy are “off the charts good,” describing his constant work, late-night calls, and efforts to make every day count. The post concludes that Trump is in great health.",
       "url": "https://www.trumpstruth.org/statuses/39599",
       "raw": {
         "creator": "",
@@ -59,7 +62,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116830493710945459",
         "guid": "https://www.trumpstruth.org/statuses/39599",
         "isoDate": "2026-06-29T00:11:14.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:43:42.316Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16854/cf9638ce1c042c92.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39601",
@@ -83,7 +90,7 @@
       "id": "https://www.trumpstruth.org/statuses/39605",
       "publishedAt": "2026-06-29T02:15:19.000Z",
       "title": "[No Title] - Post from June 29, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116830981377783021</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116830981377783021</span></p>\n\n[Image] A screenshot of a post from the verified U.S. Department of State account, @StateDept. The post says, “Against impossible odds, hope endures,” followed by a U.S. flag emoji. It reports that American search-and-rescue teams rescued an infant from beneath rubble after an earthquake in Venezuela, concluding, “Every life saved is a victory.”",
       "url": "https://www.trumpstruth.org/statuses/39605",
       "raw": {
         "creator": "",
@@ -95,13 +102,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116830981377783021",
         "guid": "https://www.trumpstruth.org/statuses/39605",
         "isoDate": "2026-06-29T02:15:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:43:39.382Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16860/868aaa9a0f3b7c16.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39604",
       "publishedAt": "2026-06-29T02:15:49.000Z",
       "title": "[No Title] - Post from June 29, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a God & Country post replying to the State Department and White House shows Donald Trump seated at a table with his eyes closed and hands folded. Two people in suits place their hands on his shoulders. The image includes a microphone, papers, a U.S. flag lapel pin, and large white text reading “PRAYERS.”",
       "url": "https://www.trumpstruth.org/statuses/39604",
       "raw": {
         "creator": "",
@@ -113,13 +124,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39604",
         "isoDate": "2026-06-29T02:15:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:43:37.460Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16859/e22345b1663ddd5c.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39603",
       "publishedAt": "2026-06-29T02:16:03.000Z",
       "title": "[No Title] - Post from June 29, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a social-media post by “Mmir” reads, “Baby saved such miracle ✨.” The attached graphic says “Pray for Venezuela” in large white lettering, with the Venezuelan flag flying above praying hands. A mountain and dense cityscape appear below against a dramatic sunset sky. The post shows a June 28, 2026 timestamp and 4.3K views.",
       "url": "https://www.trumpstruth.org/statuses/39603",
       "raw": {
         "creator": "",
@@ -131,13 +146,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39603",
         "isoDate": "2026-06-29T02:16:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:43:34.950Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16858/53d6a15151c852b0.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39602",
       "publishedAt": "2026-06-29T02:16:13.000Z",
       "title": "[No Title] - Post from June 29, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A social media post says, “Our team is in Venezuela and on the way to help!” The first photo shows five people seated inside a car, smiling and holding passports or travel documents. The second shows a vehicle approaching a border checkpoint marked “VENEZUELA,” with Venezuelan flags flying above the entrance.",
       "url": "https://www.trumpstruth.org/statuses/39602",
       "raw": {
         "creator": "",
@@ -149,13 +168,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39602",
         "isoDate": "2026-06-29T02:16:13.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:43:32.370Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16857/fa45dac7d0e03631.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39607",
       "publishedAt": "2026-06-29T02:46:03.000Z",
       "title": "[No Title] - Post from June 29, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political campaign graphic features a portrait of Gina Swoboda, identified as a candidate for Arizona secretary of state. It says the Arizona Police Association endorses her. The design includes the association’s badge, Arizona and U.S. flags, and navy, red, and white text. Fine print at the bottom identifies the campaign committee that paid for the advertisement.",
       "url": "https://www.trumpstruth.org/statuses/39607",
       "raw": {
         "creator": "",
@@ -167,13 +190,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39607",
         "isoDate": "2026-06-29T02:46:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:43:29.875Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16862/42871e0c88136ae7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39606",
       "publishedAt": "2026-06-29T02:46:19.000Z",
       "title": "Great painting!!  President DJT",
-      "text": "<p>Great painting!!  President DJT</p>",
+      "text": "<p>Great painting!!  President DJT</p>\n\n[Image] A large framed mural depicts a sweeping, patriotic montage of American history and imagery. George Washington appears prominently on the left, while Donald Trump is shown on the right beside a rocket and astronaut. The composition also includes the Statue of Liberty, Mount Rushmore, an American flag, historical scenes, industrial smokestacks, a ship, and a launching spacecraft.",
       "url": "https://www.trumpstruth.org/statuses/39606",
       "raw": {
         "creator": "",
@@ -185,7 +212,11 @@
         "contentSnippet": "Great painting!!  President DJT",
         "guid": "https://www.trumpstruth.org/statuses/39606",
         "isoDate": "2026-06-29T02:46:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:43:27.034Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16861/7d1ec8f6b8ec03ef.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39608",
@@ -299,7 +330,7 @@
       "id": "https://www.trumpstruth.org/statuses/39613",
       "publishedAt": "2026-06-29T13:20:07.000Z",
       "title": "[No Title] - Post from June 29, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116833595973466644</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116833595973466644</span></p>\n\n[Image] A screenshot of a post by Chip Roy (@chiproytx) states that the SAVE America Act is not about public opinion. It claims that more than 84% of Americans believe U.S. elections should be limited to American citizens, and asks whether the Senate will fight for what the public supports before it is too late.",
       "url": "https://www.trumpstruth.org/statuses/39613",
       "raw": {
         "creator": "",
@@ -311,7 +342,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116833595973466644",
         "guid": "https://www.trumpstruth.org/statuses/39613",
         "isoDate": "2026-06-29T13:20:07.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:43:23.073Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16863/5debe93de3023b9e.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39615",
@@ -627,5 +662,6 @@
       "rationale": "The text expresses frustration over high gasoline prices and heavy taxes, indicating a negative sentiment towards retailers and government actions.",
       "analyzedAt": "2026-09-05T08:39:16.630Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:25:1c7c99ce0c38871afe944abe"
 }

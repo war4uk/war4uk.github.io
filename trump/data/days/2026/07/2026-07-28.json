@@ -6,24 +6,26 @@
     "negative": 5
   },
   "summary": "positive:11 neutral:30 negative:5",
-  "generatedAt": "2026-09-05T19:57:15.712Z",
+  "generatedAt": "2026-09-07T19:56:54.804Z",
   "topics": [
-    "Jay Clayton confirmed as Director of National Intelligence",
-    "Trump's Georgia rally highlights child savings accounts",
-    "Tribute to fallen Army Lt Tyler Feehan"
+    "Mike Lee promotes the SAVE America Act to address noncitizen voting and election security",
+    "Trump rallies Georgia supporters around Trump Accounts while attacking Jon Ossoff and Democrats",
+    "Treasury and Social Security officials report stopping nearly $100 million in payments to deceased recipients"
   ],
-  "trendingTopic": "Jay Clayton confirmed by Senate as Director of National Intelligence",
-  "trendingName": "Jay Clayton",
+  "trendingTopic": "Mike Lee promotes the SAVE America Act to address noncitizen voting and election security",
   "secondaryHighlights": [
     {
-      "topic": "Trump's Georgia rally highlights child savings accounts"
+      "topic": "Trump promotes World Cup coverage, including his sports vision and Ferran Torres’s MAGA cap"
     },
     {
-      "topic": "Emotional tribute to fallen Army Lt Tyler Feehan"
+      "topic": "U.S. officials say Chinese Kimi K3 trails leading American AI models in cyber evaluation"
+    },
+    {
+      "topic": "Senate confirms Jay Clayton as Director of National Intelligence and Trump urges Todd Blanche’s confirmation"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v3:46:a20f172ca0bcc6d023d356a6",
+  "selfPraiseCount": 7,
+  "topicsCacheKey": "day-themes-v10:46:a20f172ca0bcc6d023d356a6",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40340",
@@ -47,7 +49,7 @@
       "id": "https://www.trumpstruth.org/statuses/40347",
       "publishedAt": "2026-07-28T13:30:10.000Z",
       "title": "[No Title] - Post from July 28, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A two-page CNN World article dated July 23, 2026, features a photograph of U.S. Secretary of State Marco Rubio speaking at the ASEAN summit in Manila, with flags and an ASEAN Philippines 2026 backdrop. The headline quotes Rubio saying Iran is “begging” for a deal and that Donald Trump’s policy is “a head for an eye.” The text discusses Iran, ceasefires, and threats involving the Strait of Hormuz.",
       "url": "https://www.trumpstruth.org/statuses/40347",
       "raw": {
         "creator": "",
@@ -59,7 +61,12 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40347",
         "isoDate": "2026-07-28T13:30:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:37:57.562Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17390/d05ea0b2aa48dea6.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17391/77907f641d41c365.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40346",
@@ -209,7 +216,7 @@
       "id": "https://www.trumpstruth.org/statuses/40352",
       "publishedAt": "2026-07-28T13:39:55.000Z",
       "title": "[No Title] - Post from July 28, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997880805050814</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997880805050814</span></p>\n\n[Image] A screenshot of a Europa.com post on X displays the Spanish flag emoji and text stating that Ferran Torres, who scored the winning goal in the World Cup final, wore a “Make Spain Great Again” cap at Spain’s victory parade. The post includes the @europa account, a Subscribe button, and a Follow link.",
       "url": "https://www.trumpstruth.org/statuses/40352",
       "raw": {
         "creator": "",
@@ -221,7 +228,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997880805050814",
         "guid": "https://www.trumpstruth.org/statuses/40352",
         "isoDate": "2026-07-28T13:39:55.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:37:51.717Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17395/307c3561640edb43.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40351",
@@ -245,7 +256,7 @@
       "id": "https://www.trumpstruth.org/statuses/40350",
       "publishedAt": "2026-07-28T13:40:35.000Z",
       "title": "[No Title] - Post from July 28, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997883102335738</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997883102335738</span></p>\n\n[Image] A screenshot of a post from the verified Diario SPORT account, @sport, showing the red S logo and profile name at the top. The post reads, “😏 Make Spain great again ¡Oh Ferran!” with the phrase “Make Spain great again” in bold type. No people or photographs are visible.",
       "url": "https://www.trumpstruth.org/statuses/40350",
       "raw": {
         "creator": "",
@@ -257,13 +268,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997883102335738",
         "guid": "https://www.trumpstruth.org/statuses/40350",
         "isoDate": "2026-07-28T13:40:35.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:37:49.338Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17393/57e2d7dd741c7f27.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40349",
       "publishedAt": "2026-07-28T13:44:51.000Z",
       "title": "[No Title] - Post from July 28, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of posts by Senator Mike Lee on X. The post urges senators to pass the SAVE America Act, describing election security as a way to “save America,” and includes a distressed graphic of the United States shaped from the American flag. Engagement counts and a follow-up request to share the thread are visible.",
       "url": "https://www.trumpstruth.org/statuses/40349",
       "raw": {
         "creator": "",
@@ -275,13 +290,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40349",
         "isoDate": "2026-07-28T13:44:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:37:46.630Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17392/9f9999fa4cf844ef.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40362",
       "publishedAt": "2026-07-28T13:45:19.000Z",
       "title": "[No Title] - Post from July 28, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997900955280692</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997900955280692</span></p>\n\n[Image] A screenshot of three posts from Senator Mike Lee’s X account. The first displays text criticizing enforcement of a law barring noncitizen voting and includes images of the U.S. Supreme Court and Joe Biden beside a border wall. The second promotes the SAVE America Act and shows a distressed, vintage-style map of the United States colored like the American flag.",
       "url": "https://www.trumpstruth.org/statuses/40362",
       "raw": {
         "creator": "",
@@ -293,13 +312,18 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997900955280692",
         "guid": "https://www.trumpstruth.org/statuses/40362",
         "isoDate": "2026-07-28T13:45:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:37:44.581Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17405/2c623593e8c50a6d.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17392/9f9999fa4cf844ef.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40361",
       "publishedAt": "2026-07-28T13:45:44.000Z",
       "title": "[No Title] - Post from July 28, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997902816278620</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997902816278620</span></p>\n\n[Image] A screenshot shows three posts from Senator Mike Lee’s verified X account discussing the SAVE America Act, noncitizen voting, election security, the Supreme Court, and immigration. Images show a voter at a polling booth, the U.S. Supreme Court beside Joe Biden overlaid with a border fence, and a distressed American flag map. A partial fourth post asks viewers to share the thread.",
       "url": "https://www.trumpstruth.org/statuses/40361",
       "raw": {
         "creator": "",
@@ -311,13 +335,19 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997902816278620",
         "guid": "https://www.trumpstruth.org/statuses/40361",
         "isoDate": "2026-07-28T13:45:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:37:41.608Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17404/9790c1bbeeb9342e.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17405/2c623593e8c50a6d.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17392/9f9999fa4cf844ef.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40360",
       "publishedAt": "2026-07-28T13:46:46.000Z",
       "title": "[No Title] - Post from July 28, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997904456604109</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997904456604109</span></p>\n\n[Image] A screenshot of four posts by Senator Mike Lee discusses the SAVE America Act and noncitizen voting. The posts show an illustrated hand placing a ballot in a “VOTE” box, a person voting at a polling station, the U.S. Supreme Court beside an image of Joe Biden at the border, and a distressed American flag over a map of the United States.",
       "url": "https://www.trumpstruth.org/statuses/40360",
       "raw": {
         "creator": "",
@@ -329,13 +359,20 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997904456604109",
         "guid": "https://www.trumpstruth.org/statuses/40360",
         "isoDate": "2026-07-28T13:46:46.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:37:38.190Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17403/d842aa9860b4a93c.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17404/9790c1bbeeb9342e.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17405/2c623593e8c50a6d.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17392/9f9999fa4cf844ef.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40359",
       "publishedAt": "2026-07-28T13:47:05.000Z",
       "title": "[No Title] - Post from July 28, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997908473797212</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997908473797212</span></p>\n\n[Image] A series of posts by Senator Mike Lee discusses Elizabeth Warren, civil-rights laws, voting, and the proposed SAVE America Act. One image shows President Lyndon B. Johnson signing legislation surrounded by officials and Martin Luther King Jr. Others depict a ballot entering a voting box, a woman voting, the Supreme Court beside Joe Biden at the border, and a distressed American flag map.",
       "url": "https://www.trumpstruth.org/statuses/40359",
       "raw": {
         "creator": "",
@@ -347,13 +384,21 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997908473797212",
         "guid": "https://www.trumpstruth.org/statuses/40359",
         "isoDate": "2026-07-28T13:47:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:37:35.165Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17402/76a95a78e340bf49.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17403/d842aa9860b4a93c.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17404/9790c1bbeeb9342e.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17405/2c623593e8c50a6d.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17392/9f9999fa4cf844ef.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40358",
       "publishedAt": "2026-07-28T13:47:28.000Z",
       "title": "[No Title] - Post from July 28, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997909765930913</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997909765930913</span></p>\n\n[Image] A series of posts by Senator Mike Lee discusses Elizabeth Warren’s arguments about environmental, civil-rights, and voting laws, then advocates the SAVE America Act. Images show a polluted industrial waterway, a historic civil-rights bill signing, a ballot box and voter, the Supreme Court beside Joe Biden at the border, and a weathered U.S. map overlaid with the American flag.",
       "url": "https://www.trumpstruth.org/statuses/40358",
       "raw": {
         "creator": "",
@@ -365,13 +410,22 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997909765930913",
         "guid": "https://www.trumpstruth.org/statuses/40358",
         "isoDate": "2026-07-28T13:47:28.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:37:30.930Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17401/054a9f0d6c67cb8d.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17402/76a95a78e340bf49.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17403/d842aa9860b4a93c.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17404/9790c1bbeeb9342e.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17405/2c623593e8c50a6d.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17392/9f9999fa4cf844ef.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40357",
       "publishedAt": "2026-07-28T13:47:55.000Z",
       "title": "[No Title] - Post from July 28, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997911252543548</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997911252543548</span></p>\n\n[Image] A series of Mike Lee posts argues for campaign-finance, environmental, civil-rights, and election laws, referencing Elizabeth Warren and the SAVE America Act. The attached images show money with the Capitol, a polluted industrial lake, a historic civil-rights signing, a ballot box, a voter at a polling station, the Supreme Court beside Joe Biden at a border fence, and a distressed U.S. map.",
       "url": "https://www.trumpstruth.org/statuses/40357",
       "raw": {
         "creator": "",
@@ -383,13 +437,23 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997911252543548",
         "guid": "https://www.trumpstruth.org/statuses/40357",
         "isoDate": "2026-07-28T13:47:55.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:37:26.971Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17400/a72cb0c1f7d407c0.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17401/054a9f0d6c67cb8d.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17402/76a95a78e340bf49.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17403/d842aa9860b4a93c.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17404/9790c1bbeeb9342e.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17405/2c623593e8c50a6d.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17392/9f9999fa4cf844ef.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40356",
       "publishedAt": "2026-07-28T13:48:19.000Z",
       "title": "[No Title] - Post from July 28, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997913009839733</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997913009839733</span></p>\n\n[Image] A screenshot of a Mike Lee social-media thread criticizing Elizabeth Warren’s reasoning on gun control, campaign finance, environmental, civil-rights, and election laws. It includes a caricature of Warren holding a machine gun, the Second Amendment, money labeled “Campaign Finance,” polluted water, a civil-rights signing photo, voting imagery, the Supreme Court, and Joe Biden near a border fence.",
       "url": "https://www.trumpstruth.org/statuses/40356",
       "raw": {
         "creator": "",
@@ -401,13 +465,24 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997913009839733",
         "guid": "https://www.trumpstruth.org/statuses/40356",
         "isoDate": "2026-07-28T13:48:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:37:23.037Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17399/0487437ad6c42a27.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17400/a72cb0c1f7d407c0.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17401/054a9f0d6c67cb8d.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17402/76a95a78e340bf49.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17403/d842aa9860b4a93c.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17404/9790c1bbeeb9342e.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17405/2c623593e8c50a6d.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17392/9f9999fa4cf844ef.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40355",
       "publishedAt": "2026-07-28T13:48:40.000Z",
       "title": "[No Title] - Post from July 28, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997914591056746</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997914591056746</span></p>\n\n[Image] A screenshot of a social-media thread by Senator Mike Lee discusses Elizabeth Warren’s views on gun control, campaign finance, environmental regulation, and civil-rights laws. The attached images show a cartoon woman with a machine gun, the Second Amendment, cash labeled “Campaign Finance,” polluted water, a historic civil-rights signing, and voting imagery. One panel includes Joe Biden beside a border fence.",
       "url": "https://www.trumpstruth.org/statuses/40355",
       "raw": {
         "creator": "",
@@ -419,13 +494,24 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997914591056746",
         "guid": "https://www.trumpstruth.org/statuses/40355",
         "isoDate": "2026-07-28T13:48:40.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:37:18.385Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17399/0487437ad6c42a27.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17400/a72cb0c1f7d407c0.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17401/054a9f0d6c67cb8d.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17402/76a95a78e340bf49.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17403/d842aa9860b4a93c.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17404/9790c1bbeeb9342e.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17405/2c623593e8c50a6d.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17392/9f9999fa4cf844ef.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40354",
       "publishedAt": "2026-07-28T13:49:09.000Z",
       "title": "[No Title] - Post from July 28, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997915992497491</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997915992497491</span></p>\n\n[Image] A screenshot of a Mike Lee social-media thread criticizing Elizabeth Warren’s stated logic on the SAVE America Act. It includes a cartoon of Elizabeth Warren holding a firearm, the Second Amendment, campaign-finance imagery, polluted water, a civil-rights signing ceremony, a ballot box, a voter, the Supreme Court, and Joe Biden near a border fence. The final panel shows a distressed U.S. map.",
       "url": "https://www.trumpstruth.org/statuses/40354",
       "raw": {
         "creator": "",
@@ -437,7 +523,19 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997915992497491",
         "guid": "https://www.trumpstruth.org/statuses/40354",
         "isoDate": "2026-07-28T13:49:09.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:37:14.960Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17397/31b4947ee16f755e.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17399/0487437ad6c42a27.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17400/a72cb0c1f7d407c0.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17401/054a9f0d6c67cb8d.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17402/76a95a78e340bf49.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17403/d842aa9860b4a93c.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17404/9790c1bbeeb9342e.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17405/2c623593e8c50a6d.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17392/9f9999fa4cf844ef.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40373",
@@ -497,7 +595,7 @@
       "id": "https://www.trumpstruth.org/statuses/40370",
       "publishedAt": "2026-07-28T13:52:13.000Z",
       "title": "It was a Rigged Election that we must learn from. Never forget!",
-      "text": "<p>It was a Rigged Election that we must learn from. Never forget!<br/><a href=\"https://www.dailymail.com/news/article-15993893/Trump-2020-election-win-biden-poll.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailymail.com/news/article-159</span><span class=\"invisible\">93893/Trump-2020-election-win-biden-poll.html</span></a></p>",
+      "text": "<p>It was a Rigged Election that we must learn from. Never forget!<br/><a href=\"https://www.dailymail.com/news/article-15993893/Trump-2020-election-win-biden-poll.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailymail.com/news/article-159</span><span class=\"invisible\">93893/Trump-2020-election-win-biden-poll.html</span></a></p>\n\n[Image] A social-media post claims a Daily Mail/JL Partners poll found that 48% of American voters believe Joe Biden definitely won the 2020 election. It gives differing figures for Republicans and Democrats. Below, Donald Trump speaks at a microphone beside Joe Biden raising a fist, with an inset image of a ballot box and the caption, “Trump’s battle to rewrite 2020 election pays off.”",
       "url": "https://www.trumpstruth.org/statuses/40370",
       "raw": {
         "creator": "",
@@ -509,7 +607,11 @@
         "contentSnippet": "It was a Rigged Election that we must learn from. Never forget!\nhttps://www.dailymail.com/news/article-15993893/Trump-2020-election-win-biden-poll.html",
         "guid": "https://www.trumpstruth.org/statuses/40370",
         "isoDate": "2026-07-28T13:52:13.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:37:10.434Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17410/0a56fa4a7c12058a.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40369",
@@ -551,7 +653,7 @@
       "id": "https://www.trumpstruth.org/statuses/40367",
       "publishedAt": "2026-07-28T13:53:10.000Z",
       "title": "[No Title] - Post from July 28, 2026",
-      "text": "<p><a href=\"https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nist.gov/news-events/news/2026</span><span class=\"invisible\">/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities</span></a></p>",
+      "text": "<p><a href=\"https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nist.gov/news-events/news/2026</span><span class=\"invisible\">/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities</span></a></p>\n\n[Image] A screenshot of a verified U.S. Department of Commerce post on X states that CAISI’s latest blog post evaluates Kimi K3 and its cyber capabilities. It says a preliminary cyber-focused evaluation found Kimi K3 performed significantly below leading U.S. frontier AI models. The attached graphic reads “UK AISI / CAISI Preliminary Assessment of Kimi K3’s Cyber Capabilities.”",
       "url": "https://www.trumpstruth.org/statuses/40367",
       "raw": {
         "creator": "",
@@ -563,13 +665,17 @@
         "contentSnippet": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
         "guid": "https://www.trumpstruth.org/statuses/40367",
         "isoDate": "2026-07-28T13:53:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:37:07.050Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17409/4112db63dfc22a2d.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40366",
       "publishedAt": "2026-07-28T13:53:22.000Z",
       "title": "[No Title] - Post from July 28, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997933680774362</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997933680774362</span></p>\n\n[Image] Two screenshots of posts on X discuss a CAISI report evaluating Kimi K3’s cyber capabilities. Howard Lutnick writes that Kimi K3 trails leading U.S. frontier AI models and praises American innovators. A U.S. Department of Commerce post repeats that the preliminary evaluation found Kimi K3 performed significantly below leading U.S. models. The second image displays a large black CAISI logo.",
       "url": "https://www.trumpstruth.org/statuses/40366",
       "raw": {
         "creator": "",
@@ -581,13 +687,18 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997933680774362",
         "guid": "https://www.trumpstruth.org/statuses/40366",
         "isoDate": "2026-07-28T13:53:22.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:37:04.513Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17408/36b0a0a4e3c58610.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17409/4112db63dfc22a2d.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40365",
       "publishedAt": "2026-07-28T13:53:36.000Z",
       "title": "[No Title] - Post from July 28, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997934475409421</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997934475409421</span></p>\n\n[Image] Three screenshots of posts on X discuss U.S. and Chinese AI models. David Sacks cites Howard Lutnick and argues that American frontier models remain ahead, while mentioning Donald Trump’s regulatory approach. Howard Lutnick shares a Commerce Department post saying Kimi K3 performed below leading U.S. models in a preliminary cyber-focused assessment. The final screenshot displays a large NIST logo.",
       "url": "https://www.trumpstruth.org/statuses/40365",
       "raw": {
         "creator": "",
@@ -599,13 +710,19 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997934475409421",
         "guid": "https://www.trumpstruth.org/statuses/40365",
         "isoDate": "2026-07-28T13:53:36.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:37:00.672Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17407/1a8a28a909ebabb5.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17408/36b0a0a4e3c58610.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17409/4112db63dfc22a2d.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40364",
       "publishedAt": "2026-07-28T13:53:49.000Z",
       "title": "[No Title] - Post from July 28, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “Trump on TikTok,” dated June 2026, features Donald Trump, fireworks, the White House, fighter jets, and U.S. flags. It claims Trump is the most-followed and watched world leader on TikTok, with 425 billion all-time views. Other sections cite billions of views for Trump-related videos about DC beautification, peace deals, the White House, UFC, and birthday posts.",
       "url": "https://www.trumpstruth.org/statuses/40364",
       "raw": {
         "creator": "",
@@ -617,7 +734,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40364",
         "isoDate": "2026-07-28T13:53:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:36:56.938Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17406/59ff8a91d22ce5db.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40363",
@@ -659,7 +780,7 @@
       "id": "https://www.trumpstruth.org/statuses/40374",
       "publishedAt": "2026-07-28T17:05:05.000Z",
       "title": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116998687659903888</span>We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP</p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116998687659903888</span>We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP</p>\n\n[Image] A screenshot of a social media post from Eric Trump, whose verified profile name and handle, @EricTrump, appear at the top. The post reads: “Give this 16-year-old lifeguard the highest civilian honor. This is truly the best of America! Well done!” No photograph of the lifeguard is shown.",
       "url": "https://www.trumpstruth.org/statuses/40374",
       "raw": {
         "creator": "",
@@ -671,7 +792,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116998687659903888We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/40374",
         "isoDate": "2026-07-28T17:05:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:36:53.964Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17411/095f9bb521a284e8.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40376",
@@ -803,7 +928,7 @@
       "id": "https://www.trumpstruth.org/statuses/40383",
       "publishedAt": "2026-07-28T17:30:24.000Z",
       "title": "RT @realDonaldTrumpWe’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP</p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP</p>\n\n[Image] A screenshot of a social-media post from Eric Trump, whose profile picture shows him in a suit with an American flag behind him. The post reads: “Give this 16-year-old lifeguard the highest civilian honor. This is truly the best of America! Well done!” A verified badge and menu icons appear beside his name.",
       "url": "https://www.trumpstruth.org/statuses/40383",
       "raw": {
         "creator": "",
@@ -815,7 +940,11 @@
         "contentSnippet": "RT @realDonaldTrumpWe’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/40383",
         "isoDate": "2026-07-28T17:30:24.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:36:50.201Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17411/095f9bb521a284e8.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40385",
@@ -1131,5 +1260,7 @@
       "rationale": "The text indicates a positive impact on Senator Rand Paul and describes him as 'terrific,' suggesting a favorable sentiment.",
       "analyzedAt": "2026-09-05T08:03:19.268Z"
     }
-  ]
+  ],
+  "trendingName": "Mike Lee",
+  "selfPraiseCacheKey": "self-praise-v1:46:a20f172ca0bcc6d023d356a6"
 }

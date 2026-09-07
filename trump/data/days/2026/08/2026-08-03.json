@@ -6,34 +6,26 @@
     "negative": 4
   },
   "summary": "positive:41 neutral:5 negative:4",
-  "generatedAt": "2026-09-05T08:03:51.676Z",
+  "generatedAt": "2026-09-07T19:58:37.248Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Economic Growth and Job Creation",
-    "Disaster Recovery and Assistance"
+    "Endorses and praises Republican candidates and officeholders across seven states",
+    "Highlights New York and NYC ICE detainer failures while blaming sanctuary cities for missing migrant children",
+    "Approves disaster aid for storm and flood damage in Missouri and West Virginia"
   ],
-  "trendingTopic": "It is my Great Honor to endorse America First Congressman, John James, who is running to become the next Governor of the Beautiful State of Michigan!",
+  "trendingTopic": "Endorses and praises Republican candidates and officeholders across seven states",
   "secondaryHighlights": [
     {
-      "topic": "Congressman Ron Estes is a Tremendous Champion for Kansas’ 4th Congressional District!",
-      "name": "Ron Estes"
-    },
-    {
-      "topic": "Congressman Jack Bergman is a Tremendous Champion for the Great People of Michigan's 1st Congressional District!",
-      "name": "Jack Bergman"
-    },
-    {
-      "topic": "Congressman John Moolenaar is an incredible Representative for the fantastic people of Michigan’s 2nd Congressional District!",
-      "name": "John Moolenaar"
+      "topic": "Claims Trump policies made Chevron successful and vindicated his Venezuela oil strategy"
     }
   ],
-  "selfPraiseCount": 11,
+  "selfPraiseCount": 13,
+  "topicsCacheKey": "day-themes-v10:50:9ce5098044342d71fa6c11b7",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40462",
       "publishedAt": "2026-08-03T00:07:19.000Z",
       "title": "[No Title] - Post from August 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A stylized historical-style painting depicts George Washington, Abraham Lincoln, and Donald Trump seated together at a wooden table. Washington wears an 18th-century black coat, Lincoln a dark suit and bow tie, and Trump a tuxedo-like suit. All three hold quill pens over a large parchment map, with books, an inkwell, drapery, and framed furnishings in the room.",
       "url": "https://www.trumpstruth.org/statuses/40462",
       "raw": {
         "creator": "",
@@ -45,7 +37,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40462",
         "isoDate": "2026-08-03T00:07:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:06:39.907Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17459/843ba286e8b86ca3.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40463",
@@ -105,7 +101,7 @@
       "id": "https://www.trumpstruth.org/statuses/40466",
       "publishedAt": "2026-08-03T16:51:03.000Z",
       "title": "[No Title] - Post from August 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A satirical Newsweek International cover dated July 14–August 2026 depicts Donald Trump dressed as a giant oil worker, holding a dripping red fuel nozzle while striding across a flooded, oil-streaked landscape. Oil pumps sit near the shoreline beneath storm clouds. The headline reads “TRUMP WAS RIGHT (ABOUT VENEZUELA),” with text describing skeptics who predicted chaos.",
       "url": "https://www.trumpstruth.org/statuses/40466",
       "raw": {
         "creator": "",
@@ -117,7 +113,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40466",
         "isoDate": "2026-08-03T16:51:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:06:36.767Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17460/88d56ebff86c19b4.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40467",
@@ -195,7 +195,7 @@
       "id": "https://www.trumpstruth.org/statuses/40473",
       "publishedAt": "2026-08-03T20:12:21.000Z",
       "title": "[No Title] - Post from August 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic titled “New York ICE Detainers” presents statistics attributed to U.S. Immigration and Customs Enforcement. It states that 62.7% of ICE detainers have not been honored, 21,730 detainers have been lodged, and 41,780 criminal charges and convictions are related to detainers not honored. The graphic says the data dates from January 20, 2025.",
       "url": "https://www.trumpstruth.org/statuses/40473",
       "raw": {
         "creator": "",
@@ -207,13 +207,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40473",
         "isoDate": "2026-08-03T20:12:21.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:06:32.406Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17463/ae1e4e5ca2a13e76.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40472",
       "publishedAt": "2026-08-03T20:13:00.000Z",
       "title": "[No Title] - Post from August 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic titled “NYC ICE Detainers” presents statistics attributed to U.S. Immigration and Customs Enforcement. It states that 84% of ICE detainers have not been honored, 15,206 ICE detainers have been lodged, and 38,541 criminal charges and convictions are related to detainers not honored. The graphic says the data covers the period since January 20, 2025.",
       "url": "https://www.trumpstruth.org/statuses/40472",
       "raw": {
         "creator": "",
@@ -225,13 +229,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40472",
         "isoDate": "2026-08-03T20:13:00.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:06:30.224Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17462/a3d49dc3c7724abd.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40471",
       "publishedAt": "2026-08-03T20:13:32.000Z",
       "title": "These are the missing children, and we’re not being helped at all by Sanctuary Cities. They’re going out of their way to make sure the children remain missing! President DONALD J. TRUMP",
-      "text": "<p>These are the missing children, and we’re not being helped at all by Sanctuary Cities. They’re going out of their way to make sure the children remain missing! President DONALD J. TRUMP</p>",
+      "text": "<p>These are the missing children, and we’re not being helped at all by Sanctuary Cities. They’re going out of their way to make sure the children remain missing! President DONALD J. TRUMP</p>\n\n[Image] A bar chart titled “Missing Migrant Children Located” compares February 2026 with July 2026, citing the U.S. Department of Homeland Security. Children located increased from 136,450 to 148,322, while those remaining decreased from 342,436 to 330,564. Text below states an 8.51% increase in located children and a 3.36% decrease in those remaining.",
       "url": "https://www.trumpstruth.org/statuses/40471",
       "raw": {
         "creator": "",
@@ -243,7 +251,11 @@
         "contentSnippet": "These are the missing children, and we’re not being helped at all by Sanctuary Cities. They’re going out of their way to make sure the children remain missing! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/40471",
         "isoDate": "2026-08-03T20:13:32.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:06:27.652Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17461/c81a9d3c22badc47.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40474",
@@ -267,7 +279,7 @@
       "id": "https://www.trumpstruth.org/statuses/40475",
       "publishedAt": "2026-08-03T20:32:12.000Z",
       "title": "From Greg Wischer at the United States Department of the Interior:“The statue of Baron Friedrich Wilhelm von Steuben in Lafayette Park was cleaned and waxed by the National Park Service. Dedicated in 1910 in a ceremony attended by President William Howard Taft, the 10-foot-tall bronze statue atop a 15-foot granite pedestal depicts von Steuben inspecting American troops at Valley Forge in 1778 during the American Revolution.Drawing on his experience as a Prussian army officer and former aide-de-camp to Frederick the Great, von Steuben brought discipline, organization, and professionalism to the Continental Army. His 1779 training manual, known as the \"Blue Book,\" became the Army's first standardized training manual. Later in the war, he contributed to the Southern Campaign and commanded one of George Washington's divisions during the Siege of Yorktown.”",
-      "text": "<p>From Greg Wischer at the United States Department of the Interior:</p><p>“The statue of Baron Friedrich Wilhelm von Steuben in Lafayette Park was cleaned and waxed by the National Park Service. Dedicated in 1910 in a ceremony attended by President William Howard Taft, the 10-foot-tall bronze statue atop a 15-foot granite pedestal depicts von Steuben inspecting American troops at Valley Forge in 1778 during the American Revolution.</p><p>Drawing on his experience as a Prussian army officer and former aide-de-camp to Frederick the Great, von Steuben brought discipline, organization, and professionalism to the Continental Army. His 1779 training manual, known as the \"Blue Book,\" became the Army's first standardized training manual. Later in the war, he contributed to the Southern Campaign and commanded one of George Washington's divisions during the Siege of Yorktown.”</p>",
+      "text": "<p>From Greg Wischer at the United States Department of the Interior:</p><p>“The statue of Baron Friedrich Wilhelm von Steuben in Lafayette Park was cleaned and waxed by the National Park Service. Dedicated in 1910 in a ceremony attended by President William Howard Taft, the 10-foot-tall bronze statue atop a 15-foot granite pedestal depicts von Steuben inspecting American troops at Valley Forge in 1778 during the American Revolution.</p><p>Drawing on his experience as a Prussian army officer and former aide-de-camp to Frederick the Great, von Steuben brought discipline, organization, and professionalism to the Continental Army. His 1779 training manual, known as the \"Blue Book,\" became the Army's first standardized training manual. Later in the war, he contributed to the Southern Campaign and commanded one of George Washington's divisions during the Siege of Yorktown.”</p>\n\n[Image] A monument stands in a landscaped park beneath large leafy trees. The central bronze figure is Friedrich Wilhelm von Steuben, also known as Baron von Steuben, depicted in military dress atop a tall stone pedestal. Seated allegorical figures flank the base, which bears an eagle relief and engraved text describing his service to the United States.",
       "url": "https://www.trumpstruth.org/statuses/40475",
       "raw": {
         "creator": "",
@@ -279,7 +291,11 @@
         "contentSnippet": "From Greg Wischer at the United States Department of the Interior:\n“The statue of Baron Friedrich Wilhelm von Steuben in Lafayette Park was cleaned and waxed by the National Park Service. Dedicated in 1910 in a ceremony attended by President William Howard Taft, the 10-foot-tall bronze statue atop a 15-foot granite pedestal depicts von Steuben inspecting American troops at Valley Forge in 1778 during the American Revolution.\nDrawing on his experience as a Prussian army officer and former aide-de-camp to Frederick the Great, von Steuben brought discipline, organization, and professionalism to the Continental Army. His 1779 training manual, known as the \"Blue Book,\" became the Army's first standardized training manual. Later in the war, he contributed to the Southern Campaign and commanded one of George Washington's divisions during the Siege of Yorktown.”",
         "guid": "https://www.trumpstruth.org/statuses/40475",
         "isoDate": "2026-08-03T20:32:12.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:06:25.104Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17464/267eba60ccb94ec3.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40483",
@@ -1231,5 +1247,6 @@
       "rationale": "The text expresses strong support and endorsement for Rick Brattin, highlighting his qualifications and the positive impact he will have as a Congressman.",
       "analyzedAt": "2026-09-05T07:45:42.781Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:50:9ce5098044342d71fa6c11b7"
 }

@@ -6,31 +6,29 @@
     "negative": 2
   },
   "summary": "positive:9 neutral:21 negative:2",
-  "generatedAt": "2026-09-05T08:04:13.215Z",
+  "generatedAt": "2026-09-07T20:00:37.033Z",
   "topics": [
-    "Political Commentary and Controversies",
-    "Economic Growth and Job Creation",
-    "Endorsements and Support for Candidates"
+    "Promotes Trump golf properties and appearances, including outings with Gary Player",
+    "Posts graphics alleging vandalism at the Reflecting Pool and other public structures",
+    "Shares DronePort graphics depicting military drones near the White House"
   ],
-  "trendingTopic": "EXCLUSIVE: White House Launches Fraud Website To Highlight Successes Of Task Force",
+  "trendingTopic": "Trump showcases his golf properties and appearances, including outings with Gary Player",
   "secondaryHighlights": [
     {
-      "topic": "Jobless Claims Remain Below 200,000 For Third Straight Week—First Time in 57 Years"
+      "topic": "Posts graphics alleging vandalism at the Reflecting Pool and other public structures"
     },
     {
-      "topic": "Trump's Vegas Visit Hammers Tax Wins"
-    },
-    {
-      "topic": "Gary Player at Trump Turnberry!"
+      "topic": "Shares DronePort graphics depicting military drones near the White House"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 7,
+  "topicsCacheKey": "day-themes-v10:32:03b8923e3cb33bf1a2f911d2",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40668",
       "publishedAt": "2026-08-09T00:31:13.000Z",
       "title": "Trump Aberdeen!",
-      "text": "<p>Trump Aberdeen!</p>",
+      "text": "<p>Trump Aberdeen!</p>\n\n[Image] A rugged coastal landscape stretches beneath dramatic dark storm clouds and bright blue patches of sky. Tall golden-green grasses fill the foreground, while rolling dunes and low hills extend across the middle distance. A vivid green fairway-like strip and several dark depressions are visible among the hills.",
       "url": "https://www.trumpstruth.org/statuses/40668",
       "raw": {
         "creator": "",
@@ -42,13 +40,17 @@
         "contentSnippet": "Trump Aberdeen!",
         "guid": "https://www.trumpstruth.org/statuses/40668",
         "isoDate": "2026-08-09T00:31:13.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:12:38.743Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17577/281fdb86cc057d22.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40669",
       "publishedAt": "2026-08-09T00:49:57.000Z",
       "title": "[No Title] - Post from August 9, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post by Jamie Kennedy asks, “Is there a more heroic shot in Scottish golf than the 9th tee shot at Turnberry?” The attached aerial photograph shows a rugged coastal golf hole beside rocky shoreline and calm sea, with a white lighthouse near the coast and rolling green fairways extending into the distance.",
       "url": "https://www.trumpstruth.org/statuses/40669",
       "raw": {
         "creator": "",
@@ -60,7 +62,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40669",
         "isoDate": "2026-08-09T00:49:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:12:36.383Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17578/9b150162b1929719.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40673",
@@ -174,7 +180,7 @@
       "id": "https://www.trumpstruth.org/statuses/40682",
       "publishedAt": "2026-08-09T02:21:31.000Z",
       "title": "[No Title] - Post from August 9, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A split-panel image is labeled “Obama” on the left and “Trump” on the right. The left panel shows a weathered stone sculpture of a winged eagle beside a rearing horse atop a pedestal decorated with five stars. The right panel shows a shiny gold sculpture of a crowned, robed figure riding a horse, also mounted on a star-decorated pedestal against a blue sky.",
       "url": "https://www.trumpstruth.org/statuses/40682",
       "raw": {
         "creator": "",
@@ -186,13 +192,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40682",
         "isoDate": "2026-08-09T02:21:31.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:12:32.944Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17587/0a21ed5b3bc8d1e7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40681",
       "publishedAt": "2026-08-09T02:21:32.000Z",
       "title": "[No Title] - Post from August 9, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A historical illustration shows President George Washington and architect James Hoban supervising construction of the President’s House in 1792. They stand in the foreground with architectural plans, while workers, horses, carts, and scaffolding surround the partially built White House. The scene includes several other laborers and observers amid an expansive, unfinished landscape.",
       "url": "https://www.trumpstruth.org/statuses/40681",
       "raw": {
         "creator": "",
@@ -204,13 +214,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40681",
         "isoDate": "2026-08-09T02:21:32.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:12:30.341Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17586/f94bca20193a777b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40680",
       "publishedAt": "2026-08-09T02:21:40.000Z",
       "title": "[No Title] - Post from August 9, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A promotional-style image shows Donald Trump on a golf course wearing a black golf outfit, white glove, and red “Make America Great Again” cap. He raises one hand while holding a club in the other. Large text reads “40 Club Championships,” with “President Donald J. Trump” displayed at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/40680",
       "raw": {
         "creator": "",
@@ -222,13 +236,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40680",
         "isoDate": "2026-08-09T02:21:40.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:12:26.740Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17585/349416d916733de3.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40679",
       "publishedAt": "2026-08-09T02:21:50.000Z",
       "title": "[No Title] - Post from August 9, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic titled “Two Very Different America’s” contrasts Donald Trump in a black tuxedo beside Melania Trump in a black-and-white dress with a couple identified as Abdulrahman Mohamed El-Sayed and his wife. The couple is seated together in a restaurant booth, with the man wearing a white shirt and the woman wearing glasses and a white headscarf.",
       "url": "https://www.trumpstruth.org/statuses/40679",
       "raw": {
         "creator": "",
@@ -240,13 +258,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40679",
         "isoDate": "2026-08-09T02:21:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:12:23.365Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17584/efddbaf8bc1b5330.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40678",
       "publishedAt": "2026-08-09T02:22:00.000Z",
       "title": "[No Title] - Post from August 9, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic headed “DronePort” combines a White House, Washington emblem with an aerial view of a rooftop crowded with military-style drones, uniformed personnel, and tanker trucks. The Washington Monument and other buildings of the capital appear in the background beneath a dusky sky. The scene looks like a digitally created illustration or composite.",
       "url": "https://www.trumpstruth.org/statuses/40678",
       "raw": {
         "creator": "",
@@ -258,13 +280,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40678",
         "isoDate": "2026-08-09T02:22:00.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:12:20.575Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17583/f99e14baee2ea1bf.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40677",
       "publishedAt": "2026-08-09T02:22:06.000Z",
       "title": "[No Title] - Post from August 9, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic labeled “DronePort” shows a rooftop or elevated platform crowded with numerous gray military-style drones, including larger aircraft with multiple rotors and wings. Several soldiers in camouflage stand among the drones. The White House and surrounding Washington, D.C., buildings are visible in the background, with a White House emblem at upper left.",
       "url": "https://www.trumpstruth.org/statuses/40677",
       "raw": {
         "creator": "",
@@ -276,13 +302,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40677",
         "isoDate": "2026-08-09T02:22:06.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:12:17.712Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17582/7e3eba193d53f8ae.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40676",
       "publishedAt": "2026-08-09T02:22:18.000Z",
       "title": "[No Title] - Post from August 9, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic titled “DronePort” shows a nighttime rooftop or platform filled with numerous military-style drones, with uniformed personnel standing nearby. Red, blue, and white lights illuminate the wet surface. Fireworks burst over Washington, D.C., with the Washington Monument and American flags visible in the background. An oval White House emblem appears at upper left.",
       "url": "https://www.trumpstruth.org/statuses/40676",
       "raw": {
         "creator": "",
@@ -294,13 +324,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40676",
         "isoDate": "2026-08-09T02:22:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:12:15.058Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17581/51dbef5a8ebc7c79.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40675",
       "publishedAt": "2026-08-09T02:22:26.000Z",
       "title": "[No Title] - Post from August 9, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is a close-up of a weathered concrete or stone wall above a damaged curb or ledge. The lower structure has a long crack, chipped and uneven surfaces, and dark stains. At the top, the word “Vandalism” appears in large red letters with a red underline. A strip of dark pavement is visible along the bottom.",
       "url": "https://www.trumpstruth.org/statuses/40675",
       "raw": {
         "creator": "",
@@ -312,13 +346,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40675",
         "isoDate": "2026-08-09T02:22:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:12:11.596Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17580/eed00b087e91b8c3.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40674",
       "publishedAt": "2026-08-09T02:22:33.000Z",
       "title": "[No Title] - Post from August 9, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image shows the word “Vandalism” in large black letters, underlined at the top. Below it, a low concrete wall or curb has white spray-painted graffiti, including an arrow-like symbol and several unclear letters. The wall is weathered and peeling, with a paved road or sidewalk in the foreground and a small red object at the lower left.",
       "url": "https://www.trumpstruth.org/statuses/40674",
       "raw": {
         "creator": "",
@@ -330,13 +368,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40674",
         "isoDate": "2026-08-09T02:22:33.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:12:09.043Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17579/2bfb3d1cb1481686.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40685",
       "publishedAt": "2026-08-09T13:32:24.000Z",
       "title": "[No Title] - Post from August 9, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is a side-by-side comparison labeled “Alfred E. Neuman” at the top. On the left is an illustrated portrait of the freckle-faced Mad magazine mascot with reddish hair, large ears, and a gap-toothed grin. On the right is a close-up photograph of an unidentified dark-haired man with prominent ears and a similar open-mouthed smile.",
       "url": "https://www.trumpstruth.org/statuses/40685",
       "raw": {
         "creator": "",
@@ -348,13 +390,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40685",
         "isoDate": "2026-08-09T13:32:24.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:12:06.614Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17588/034aa6c382d7d2cb.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40686",
       "publishedAt": "2026-08-09T16:51:51.000Z",
       "title": "Hillary Clinton: “The world may not like Trump’s Gaza plan — but there is no alternative: If even I, an implacable opponent of the president, can accept this as the best option, then surely others can too?”",
-      "text": "<p>Hillary Clinton: “The world may not like Trump’s Gaza plan — but there is no alternative: If even I, an implacable opponent of the president, can accept this as the best option, then surely others can too?”<br/><a href=\"https://www.ft.com/content/2472e584-758b-4a3f-83d1-9fba042a9312\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">ft.com/content/2472e584-758b-4</span><span class=\"invisible\">a3f-83d1-9fba042a9312</span></a></p>",
+      "text": "<p>Hillary Clinton: “The world may not like Trump’s Gaza plan — but there is no alternative: If even I, an implacable opponent of the president, can accept this as the best option, then surely others can too?”<br/><a href=\"https://www.ft.com/content/2472e584-758b-4a3f-83d1-9fba042a9312\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">ft.com/content/2472e584-758b-4</span><span class=\"invisible\">a3f-83d1-9fba042a9312</span></a></p>\n\n[Image] Three pages of a Financial Times opinion article by Hillary Rodham Clinton, dated June 18, 2026, titled “The world may not like Trump’s Gaza plan — but there is no alternative.” The article discusses Donald Trump’s proposed 20-point Gaza plan, reconstruction, Hamas, Palestinian governance and international diplomacy. An illustration shows a devastated skyline with cranes, oil pumps and a large setting sun.",
       "url": "https://www.trumpstruth.org/statuses/40686",
       "raw": {
         "creator": "",
@@ -366,13 +412,19 @@
         "contentSnippet": "Hillary Clinton: “The world may not like Trump’s Gaza plan — but there is no alternative: If even I, an implacable opponent of the president, can accept this as the best option, then surely others can too?”\nhttps://www.ft.com/content/2472e584-758b-4a3f-83d1-9fba042a9312",
         "guid": "https://www.trumpstruth.org/statuses/40686",
         "isoDate": "2026-08-09T16:51:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:12:02.819Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17589/d1821a65a67218b0.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17590/33d616a988c74948.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17591/73142d9c0d75842c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40687",
       "publishedAt": "2026-08-09T16:55:59.000Z",
       "title": "Gary Player at Trump Turnberry!",
-      "text": "<p>Gary Player at Trump Turnberry!</p>",
+      "text": "<p>Gary Player at Trump Turnberry!</p>\n\n[Image] A large group of people in period clothing gathers on a coastal golf course, cheering with their arms raised as a football flies overhead. In the foreground, an older man in a suit and knee socks stands with his arms outstretched, while another man holds a club behind him. A lighthouse, rocky shore, dunes, and cloudy sky form the background.",
       "url": "https://www.trumpstruth.org/statuses/40687",
       "raw": {
         "creator": "",
@@ -384,7 +436,11 @@
         "contentSnippet": "Gary Player at Trump Turnberry!",
         "guid": "https://www.trumpstruth.org/statuses/40687",
         "isoDate": "2026-08-09T16:55:59.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:11:59.839Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17592/c61aa6d0e798891f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40689",
@@ -408,7 +464,7 @@
       "id": "https://www.trumpstruth.org/statuses/40688",
       "publishedAt": "2026-08-09T20:19:26.000Z",
       "title": "[No Title] - Post from August 9, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117067399388398239</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117067399388398239</span></p>\n\n[Image] A screenshot of a post by “laraleatrump” shares a chart comparing cumulative CPI-U inflation across the last 10 U.S. presidential terms, with each starting at the same baseline. It lists Biden at 21.20%, George H.W. Bush at 17.90%, Clinton I at 11.81%, and Trump II at 4.71% through month 18. The source is the Bureau of Labor Statistics via FRED.",
       "url": "https://www.trumpstruth.org/statuses/40688",
       "raw": {
         "creator": "",
@@ -420,7 +476,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117067399388398239",
         "guid": "https://www.trumpstruth.org/statuses/40688",
         "isoDate": "2026-08-09T20:19:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:11:56.285Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17593/a1e8db01f59ca5e3.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40690",
@@ -444,7 +504,7 @@
       "id": "https://www.trumpstruth.org/statuses/40691",
       "publishedAt": "2026-08-09T20:50:09.000Z",
       "title": "51 years of bad behavior!",
-      "text": "<p>51 years of bad behavior!</p>",
+      "text": "<p>51 years of bad behavior!</p>\n\n[Image] A graphic titled “Iran has NO MONEY” shows a downward-sloping line chart tracking the value of 1 million Iranian rials. Text compares approximately $1.11 at the start of Q1 2025 with about $0.53 by Q2–Q3 2026. Red text says “Currency is Trash,” alongside a trash-can icon. No people are shown.",
       "url": "https://www.trumpstruth.org/statuses/40691",
       "raw": {
         "creator": "",
@@ -456,13 +516,17 @@
         "contentSnippet": "51 years of bad behavior!",
         "guid": "https://www.trumpstruth.org/statuses/40691",
         "isoDate": "2026-08-09T20:50:09.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:11:53.423Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17596/2924cbdbb0d12463.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40692",
       "publishedAt": "2026-08-09T20:51:43.000Z",
       "title": "With the great Gary Player, today, at Bedminster!",
-      "text": "<p>With the great Gary Player, today, at Bedminster!</p>",
+      "text": "<p>With the great Gary Player, today, at Bedminster!</p>\n\n[Image] Donald Trump sits in a golf cart, wearing a white “USA” cap and white polo shirt marked “TRUMP,” while extending one hand toward the camera. Beside him is an older gray-haired man in a black cap and white collared shirt with partially visible text reading “Bernie.” A person in a blue shirt and lanyard stands behind them in a sunlit outdoor setting.",
       "url": "https://www.trumpstruth.org/statuses/40692",
       "raw": {
         "creator": "",
@@ -474,7 +538,11 @@
         "contentSnippet": "With the great Gary Player, today, at Bedminster!",
         "guid": "https://www.trumpstruth.org/statuses/40692",
         "isoDate": "2026-08-09T20:51:43.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:11:50.890Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17597/4d0bf534ed79853b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40693",
@@ -516,7 +584,7 @@
       "id": "https://www.trumpstruth.org/statuses/40695",
       "publishedAt": "2026-08-09T22:10:43.000Z",
       "title": "ALERT: A National Park Service career employee, a highly credible witness, saw David Hearn (ActBlue) in broad daylight vandalize the Reflecting Pool by “violently” ripping and tugging at the Pool’s somewhat delicate coating. The National Park Service employee provided this witness testimony to the U.S. Attorney’s Office in early July, as seen below. Numerous other events took place, including using an acid like material on the just installed grass adjoining the Pool. On it were written the letters, “86 47,” a phrase probably gotten from James Comey. There was substantial other damage to the Reflecting Pool, also but, unfortunately, there is no video or proof, other than the damage, itself. We are working on the Pool, and it will reopen shortly. As with many jobs, there was also some contractor error done by rushing the job for a July 4th opening, but it was a very small area of this massive Pool, and was relatively inconsequential. Security cameras have been, and are being, installed. Thank you for your attention to this matter! President DONALD J. TRUMP",
-      "text": "<p>ALERT: A National Park Service career employee, a highly credible witness, saw David Hearn (ActBlue) in broad daylight vandalize the Reflecting Pool by “violently” ripping and tugging at the Pool’s somewhat delicate coating. The National Park Service employee provided this witness testimony to the U.S. Attorney’s Office in early July, as seen below. Numerous other events took place, including using an acid like material on the just installed grass adjoining the Pool. On it were written the letters, “86 47,” a phrase probably gotten from James Comey. There was substantial other damage to the Reflecting Pool, also but, unfortunately, there is no video or proof, other than the damage, itself. We are working on the Pool, and it will reopen shortly. As with many jobs, there was also some contractor error done by rushing the job for a July 4th opening, but it was a very small area of this massive Pool, and was relatively inconsequential. Security cameras have been, and are being, installed. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "text": "<p>ALERT: A National Park Service career employee, a highly credible witness, saw David Hearn (ActBlue) in broad daylight vandalize the Reflecting Pool by “violently” ripping and tugging at the Pool’s somewhat delicate coating. The National Park Service employee provided this witness testimony to the U.S. Attorney’s Office in early July, as seen below. Numerous other events took place, including using an acid like material on the just installed grass adjoining the Pool. On it were written the letters, “86 47,” a phrase probably gotten from James Comey. There was substantial other damage to the Reflecting Pool, also but, unfortunately, there is no video or proof, other than the damage, itself. We are working on the Pool, and it will reopen shortly. As with many jobs, there was also some contractor error done by rushing the job for a July 4th opening, but it was a very small area of this massive Pool, and was relatively inconsequential. Security cameras have been, and are being, installed. Thank you for your attention to this matter! President DONALD J. TRUMP</p>\n\n[Image] A screenshot shows a page of legal text describing an investigation involving two National Park Service employees cleaning the Reflecting Pool. A highlighted passage says the defendant knelt, put both hands below the water, and violently ripped and tugged at the blue pool coating. The employee asked a colleague to call police, while the defendant continued until National Guard soldiers arrived.",
       "url": "https://www.trumpstruth.org/statuses/40695",
       "raw": {
         "creator": "",
@@ -528,7 +596,11 @@
         "contentSnippet": "ALERT: A National Park Service career employee, a highly credible witness, saw David Hearn (ActBlue) in broad daylight vandalize the Reflecting Pool by “violently” ripping and tugging at the Pool’s somewhat delicate coating. The National Park Service employee provided this witness testimony to the U.S. Attorney’s Office in early July, as seen below. Numerous other events took place, including using an acid like material on the just installed grass adjoining the Pool. On it were written the letters, “86 47,” a phrase probably gotten from James Comey. There was substantial other damage to the Reflecting Pool, also but, unfortunately, there is no video or proof, other than the damage, itself. We are working on the Pool, and it will reopen shortly. As with many jobs, there was also some contractor error done by rushing the job for a July 4th opening, but it was a very small area of this massive Pool, and was relatively inconsequential. Security cameras have been, and are being, installed. Thank you for your attention to this matter! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/40695",
         "isoDate": "2026-08-09T22:10:43.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:11:47.567Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17598/294bce9875dac04a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40696",
@@ -552,7 +624,7 @@
       "id": "https://www.trumpstruth.org/statuses/40698",
       "publishedAt": "2026-08-09T22:45:36.000Z",
       "title": "[No Title] - Post from August 9, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A close-up photograph shows a printed Saratoga horse-racing program for Race 9, an allowance race scheduled for approximately 5:44 p.m. The page lists horses including Tricky Business, Mo for the King, Onebigbeautifulbill, and Blue Roof Beau, with odds, jockeys, trainers, past performances, and race statistics. Several entries and numbers are circled or marked in pen.",
       "url": "https://www.trumpstruth.org/statuses/40698",
       "raw": {
         "creator": "",
@@ -564,13 +636,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40698",
         "isoDate": "2026-08-09T22:45:36.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:11:45.022Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17601/5b6798041850ddae.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40697",
       "publishedAt": "2026-08-09T22:46:48.000Z",
       "title": "[No Title] - Post from August 9, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands facing the camera in a dark suit, white shirt, and bright red tie, with an American flag lapel pin. Numerous U.S. flags fill the background, creating a formal patriotic setting. He is shown from approximately the waist up with his arms at his sides.",
       "url": "https://www.trumpstruth.org/statuses/40697",
       "raw": {
         "creator": "",
@@ -582,7 +658,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40697",
         "isoDate": "2026-08-09T22:46:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:11:42.214Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17600/5ef3267dd0e67898.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40699",
@@ -796,5 +876,6 @@
       "rationale": "The text presents information about a migration control operation without expressing a clear positive or negative sentiment.",
       "analyzedAt": "2026-09-05T07:47:16.066Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:32:03b8923e3cb33bf1a2f911d2"
 }

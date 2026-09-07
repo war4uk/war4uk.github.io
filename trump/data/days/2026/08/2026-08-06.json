@@ -6,28 +6,25 @@
     "negative": 3
   },
   "summary": "positive:12 neutral:2 negative:3",
-  "generatedAt": "2026-09-05T08:04:02.737Z",
+  "generatedAt": "2026-09-07T19:59:29.667Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Endorses or praises Republican congressional candidates across Tennessee’s House districts",
+    "Highlights Abdulrahman Mohamed El-Sayed’s support for ending the Senate filibuster",
+    "Defends Pete Hegseth against reports of false rumors"
   ],
-  "trendingTopic": "Congressman Tim Burchett is an America First Patriot who is doing a fantastic job representing Tennessee’s 2nd Congressional District!",
-  "trendingName": "Tim Burchett",
+  "trendingTopic": "Endorses Republican congressional candidates representing Tennessee across nine House districts",
   "secondaryHighlights": [
     {
-      "topic": "Congressman Chuck Fleischmann is a terrific Representative for the incredible people of Tennessee’s 3rd Congressional District!",
-      "name": "Chuck Fleischmann"
+      "topic": "Highlights Abdulrahman Mohamed El-Sayed’s support for ending the Senate filibuster",
+      "name": "Abdulrahman Mohamed El-Sayed"
     },
     {
-      "topic": "Congressman David Kustoff is a Tremendous Champion for Tennessee’s 8th Congressional District!",
-      "name": "David Kustoff"
-    },
-    {
-      "topic": "I am proud to, once again, endorse the GREAT Congressman from Tennessee’s 7th Congressional District, Matt Van Epps.",
-      "name": "Matt Van"
+      "topic": "Defends Pete Hegseth against reports of false rumors",
+      "name": "Pete Hegseth"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:17:673e0a46021a0e14923b8e28",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40596",
@@ -51,7 +48,7 @@
       "id": "https://www.trumpstruth.org/statuses/40597",
       "publishedAt": "2026-08-06T04:03:02.000Z",
       "title": "So beautiful! D.C. is better than ever. Tender, loving care! President DJT",
-      "text": "<p>So beautiful! D.C. is better than ever. Tender, loving care! President DJT</p>",
+      "text": "<p>So beautiful! D.C. is better than ever. Tender, loving care! President DJT</p>\n\n[Image] A gilded equestrian statue stands on a tall stone pedestal in a park, with trees and a dramatic cloudy sky behind it. White Gothic-style text reading “Only Trump” spans the upper image, surrounded by a ring of dark stars. Smaller gold stars decorate the pedestal, and a balustrade runs along the foreground.",
       "url": "https://www.trumpstruth.org/statuses/40597",
       "raw": {
         "creator": "",
@@ -63,7 +60,11 @@
         "contentSnippet": "So beautiful! D.C. is better than ever. Tender, loving care! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/40597",
         "isoDate": "2026-08-06T04:03:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:09:52.514Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17539/b90ab1d9237e6a07.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40598",
@@ -439,5 +440,6 @@
       "rationale": "The text discusses a political strategy without expressing a clear positive or negative sentiment.",
       "analyzedAt": "2026-09-05T07:46:40.223Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:17:673e0a46021a0e14923b8e28"
 }

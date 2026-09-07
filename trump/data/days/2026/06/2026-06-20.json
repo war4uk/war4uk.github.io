@@ -6,24 +6,20 @@
     "negative": 8
   },
   "summary": "positive:4 neutral:9 negative:8",
-  "generatedAt": "2026-09-06T06:03:32.961Z",
+  "generatedAt": "2026-09-07T19:45:29.978Z",
   "topics": [
-    "Multiple arrests made for vandalizing the Reflecting Pool in Washington, D.C.",
-    "Italian Prime Minister Giorgia Meloni seeks photo opportunity with Trump at G-7 amid low popularity",
-    "Biden administration accused of burying whistleblower complaint regarding Fauci"
+    "Trump touts Iran’s military defeat and 60-day ceasefire deal for Hormuz shipping",
+    "Highlights Washington, D.C. monument, infrastructure, and public-safety improvements",
+    "Criticizes Giorgia Meloni after claiming she repeatedly sought a photo at the G7"
   ],
-  "trendingTopic": "Multiple arrests made for vandalizing the Reflecting Pool in Washington, D.C.",
+  "trendingTopic": "Trump touts Iran’s military defeat and ceasefire deal promising toll-free Hormuz shipping",
   "secondaryHighlights": [
     {
-      "topic": "Italian Prime Minister Giorgia Meloni seeks photo opportunity with Trump at G-7 amid low popularity",
-      "name": "Giorgia Meloni"
-    },
-    {
-      "topic": "Biden administration accused of burying whistleblower complaint regarding Fauci"
+      "topic": "Park Police arrest multiple suspects over vandalism at Washington’s Reflecting Pool"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v8:21:7c39dc86e8c067e452191933",
+  "selfPraiseCount": 7,
+  "topicsCacheKey": "day-themes-v10:21:7c39dc86e8c067e452191933",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39385",
@@ -47,7 +43,7 @@
       "id": "https://www.trumpstruth.org/statuses/39386",
       "publishedAt": "2026-06-20T02:05:21.000Z",
       "title": "[No Title] - Post from June 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A person with short bright green hair stands with their back to the camera on a paved path beside a body of water. Their white shirt is hand-painted with the words “TEAM ALGAE,” and they wear dark shorts and shoes. Several people gather nearby around a large vehicle or piece of equipment, with grassy slopes and a building in the background.",
       "url": "https://www.trumpstruth.org/statuses/39386",
       "raw": {
         "creator": "",
@@ -59,13 +55,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39386",
         "isoDate": "2026-06-20T02:05:21.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:39:53.523Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16756/c655e3aaff36268c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39387",
       "publishedAt": "2026-06-20T04:09:33.000Z",
       "title": "[No Title] - Post from June 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A Quantus Insights poll graphic asks whether viewers approve of a preliminary U.S.-Iran agreement to stop hostilities, reopen shipping through the Strait of Hormuz, and hold 60 days of nuclear and sanctions talks. Among 1,000 likely voters surveyed June 16–17, 2026, 43% strongly approve, 13% somewhat approve, 16% are neutral, 15% are unsure, and 13% disapprove.",
       "url": "https://www.trumpstruth.org/statuses/39387",
       "raw": {
         "creator": "",
@@ -77,7 +77,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39387",
         "isoDate": "2026-06-20T04:09:33.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:39:51.073Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16757/4181c3d8c4285a81.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39388",
@@ -263,7 +267,7 @@
       "id": "https://www.trumpstruth.org/statuses/39398",
       "publishedAt": "2026-06-20T14:12:35.000Z",
       "title": "[No Title] - Post from June 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An ornate interior features a person wrapped in a large American flag, wearing athletic shoes and standing on a polished floor near a staircase. Another person in a cap and dark jacket stands at left. On the wall at right is a painting depicting Donald Trump raising a fist beside an American flag.",
       "url": "https://www.trumpstruth.org/statuses/39398",
       "raw": {
         "creator": "",
@@ -275,7 +279,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39398",
         "isoDate": "2026-06-20T14:12:35.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:39:46.458Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16758/d23687557bce46bb.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39399",
@@ -371,7 +379,7 @@
       "id": "https://www.trumpstruth.org/statuses/39404",
       "publishedAt": "2026-06-20T21:54:50.000Z",
       "title": "[No Title] - Post from June 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “We are making DC safe & beautiful” lists city improvement figures, including 1,695 lights fixed, 1,143 benches rehabilitated or installed, 500 graffiti cleanups, 250 truckloads of debris removed, 152 homeless encampments removed, and repairs to potholes, trash cans, monuments, fountains, and statues. Photos show the Jefferson Memorial, reflecting pool, Washington Monument, and Caesar Rodney statue.",
       "url": "https://www.trumpstruth.org/statuses/39404",
       "raw": {
         "creator": "",
@@ -383,7 +391,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39404",
         "isoDate": "2026-06-20T21:54:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:39:43.018Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16759/32b09d911024b394.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39405",
@@ -531,5 +543,6 @@
       "rationale": "The text discusses vandalism of a national monument, describing it as a serious crime and expressing disapproval of the actions taken by individuals.",
       "analyzedAt": "2026-09-05T08:37:18.997Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:21:7c39dc86e8c067e452191933"
 }

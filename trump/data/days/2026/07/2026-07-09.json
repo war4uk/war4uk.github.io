@@ -6,20 +6,19 @@
     "negative": 0
   },
   "summary": "positive:1 neutral:2 negative:0",
-  "generatedAt": "2026-09-05T20:03:14.515Z",
+  "generatedAt": "2026-09-07T19:51:07.678Z",
   "topics": [
-    "Gwynne Shotwell's generous donation",
-    "Impact on children's lives"
+    "U.S. strikes target Iran Shahr Airport in southeastern Iran, officials confirm",
+    "Gwynne Shotwell and Robert donate $325 million in SpaceX stock to Trump Accounts"
   ],
-  "trendingTopic": "Gwynne Shotwell and Robert donate 325 million dollars in SpaceX stock to help children",
-  "trendingName": "Gwynne Shotwell",
+  "trendingTopic": "U.S. strikes target Iran Shahr Airport in southeastern Iran, officials confirm",
   "secondaryHighlights": [
     {
-      "topic": "Support for children's future through philanthropy"
+      "topic": "Gwynne Shotwell and Robert donate $325 million in SpaceX stock to Trump Accounts"
     }
   ],
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v3:3:5097b56ec7277e3acd4dac1b",
+  "topicsCacheKey": "day-themes-v10:3:5097b56ec7277e3acd4dac1b",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39912",
@@ -43,7 +42,7 @@
       "id": "https://www.trumpstruth.org/statuses/39911",
       "publishedAt": "2026-07-09T00:16:30.000Z",
       "title": "[No Title] - Post from July 9, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of an OSINTdefender post states that local officials confirmed U.S. strikes targeted the Iran Shahr Airport/Airbase in southeastern Iran, partly used by the IRGC Aerospace Force. The accompanying nighttime photograph shows a large orange fire and thick smoke rising beyond rooftops, with palm trees and bright lights in the foreground.",
       "url": "https://www.trumpstruth.org/statuses/39911",
       "raw": {
         "creator": "",
@@ -55,13 +54,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39911",
         "isoDate": "2026-07-09T00:16:30.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:25:27.335Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17089/10dcfddb20c2cc8a.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39913",
       "publishedAt": "2026-07-09T01:39:05.000Z",
       "title": "Thank you to the brilliant and highly respected Gwynne Shotwell, and her husband, Robert, for their extreme Generosity in helping children to attain the ever magnificent American Dream! Their Gift of 325 Million Dollars of SpaceX Stock is greatly appreciated by all. Thousands of children have just been given a better life. Thank you Gwynne and Robert, and continued Great Success! President DONALD J. TRUMP",
-      "text": "<p>Thank you to the brilliant and highly respected Gwynne Shotwell, and her husband, Robert, for their extreme Generosity in helping children to attain the ever magnificent American Dream! Their Gift of 325 Million Dollars of SpaceX Stock is greatly appreciated by all. Thousands of children have just been given a better life. Thank you Gwynne and Robert, and continued Great Success! President DONALD J. TRUMP</p>",
+      "text": "<p>Thank you to the brilliant and highly respected Gwynne Shotwell, and her husband, Robert, for their extreme Generosity in helping children to attain the ever magnificent American Dream! Their Gift of 325 Million Dollars of SpaceX Stock is greatly appreciated by all. Thousands of children have just been given a better life. Thank you Gwynne and Robert, and continued Great Success! President DONALD J. TRUMP</p>\n\n[Image] A series of social-media screenshots discusses donations to Trump Accounts. One post by Sawyer Merritt shows SpaceX President and COO Gwynne Shotwell standing with arms outstretched in front of a large rocket, overlaid with “THE ROCKET WOMAN.” Shotwell’s post describes a gift of SpaceX stock, while Brad Gerstner’s lengthy post promotes the program and includes a large American flag. Donald Trump is mentioned in the text but not pictured.",
       "url": "https://www.trumpstruth.org/statuses/39913",
       "raw": {
         "creator": "",
@@ -73,7 +76,14 @@
         "contentSnippet": "Thank you to the brilliant and highly respected Gwynne Shotwell, and her husband, Robert, for their extreme Generosity in helping children to attain the ever magnificent American Dream! Their Gift of 325 Million Dollars of SpaceX Stock is greatly appreciated by all. Thousands of children have just been given a better life. Thank you Gwynne and Robert, and continued Great Success! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/39913",
         "isoDate": "2026-07-09T01:39:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:25:24.588Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17091/442fcd7db9adf7d8.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17092/cb274c76edaa6be1.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17093/5527d83e94faf59b.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17094/562baa6fc8228da8.png"
+      ]
     }
   ],
   "sentiments": [
@@ -95,5 +105,6 @@
       "rationale": "The text expresses gratitude and appreciation for Gwynne Shotwell and her husband for their generous donation, highlighting the positive impact on children's lives and the American Dream.",
       "analyzedAt": "2026-09-05T07:59:09.320Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:3:5097b56ec7277e3acd4dac1b"
 }

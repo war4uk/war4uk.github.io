@@ -6,23 +6,20 @@
     "negative": 2
   },
   "summary": "positive:1 neutral:1 negative:2",
-  "generatedAt": "2026-09-05T19:56:30.805Z",
+  "generatedAt": "2026-09-07T19:53:26.265Z",
   "topics": [
-    "China's compromise of U.S. voter data",
-    "Election integrity and security measures",
-    "Tim Sheehy praised by President DJT"
+    "Renews election-integrity push as documents allege China compromised 220 million Americans’ data",
+    "Praises Tim Sheehy amid criticism of Canada’s wildfire-fighting policies"
   ],
-  "trendingTopic": "China's compromise of 220 million U.S. voter files raises election security concerns",
+  "trendingTopic": "Trump renews calls to protect election integrity as documents allege China compromised 220 million Americans’ data",
   "secondaryHighlights": [
     {
-      "topic": "Election integrity and security measures announced by the President"
-    },
-    {
-      "topic": "Tim Sheehy praised by President DJT"
+      "topic": "Praises Tim Sheehy amid criticism of Canada’s wildfire-fighting policies",
+      "name": "Tim Sheehy"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v3:4:f312ee61fdcebe3eadffd781",
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:4:f312ee61fdcebe3eadffd781",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40102",
@@ -82,7 +79,7 @@
       "id": "https://www.trumpstruth.org/statuses/40105",
       "publishedAt": "2026-07-18T02:18:32.000Z",
       "title": "Tim Sheehy is GREAT. A Winner!!! President DJT",
-      "text": "<p>Tim Sheehy is GREAT. A Winner!!! President DJT</p>",
+      "text": "<p>Tim Sheehy is GREAT. A Winner!!! President DJT</p>\n\n[Image] A screenshot of a post by Tim Sheehy, identified as a former waterbomber pilot, criticizing the Canadian government’s wildfire-fighting policies and discussing U.S.-Canada cooperation. An embedded news card quotes Ontario Premier Doug Ford: “Rather than complain, send support,” with reporting by Nadine Yousif and a Getty Images portrait of Ford. The post shows a July 17, 2026 timestamp and view count.",
       "url": "https://www.trumpstruth.org/statuses/40105",
       "raw": {
         "creator": "",
@@ -94,7 +91,11 @@
         "contentSnippet": "Tim Sheehy is GREAT. A Winner!!! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/40105",
         "isoDate": "2026-07-18T02:18:32.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:29:44.123Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17223/5b31cf2bfc5bfa22.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -122,5 +123,6 @@
       "rationale": "The text expresses strong support for Tim Sheehy, describing him as 'GREAT' and a 'Winner', indicating a positive sentiment.",
       "analyzedAt": "2026-09-05T08:00:54.133Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:4:f312ee61fdcebe3eadffd781"
 }

@@ -6,23 +6,23 @@
     "negative": 4
   },
   "summary": "positive:5 neutral:14 negative:4",
-  "generatedAt": "2026-09-05T20:02:50.845Z",
+  "generatedAt": "2026-09-07T19:49:31.005Z",
   "topics": [
-    "Independence Day celebrations in D.C.",
-    "Trump's economic achievements",
-    "Concerns over Democratic plans for the filibuster"
+    "Donald Trump celebrates Independence Day with a Mount Rushmore event, patriotic imagery, and praise for Washington crowds",
+    "Attacks Democrats over communism, filibuster repeal, Supreme Court expansion, and their supposed unhappiness",
+    "Mocks an unnamed political figure through Pee-wee Herman and Alfred E. Neuman comparisons"
   ],
-  "trendingTopic": "Independence Day celebrations in D.C. highlight patriotism and strong crowds",
+  "trendingTopic": "Donald Trump celebrates Independence Day with a Mount Rushmore event, patriotic imagery, and praise for Washington crowds",
   "secondaryHighlights": [
     {
-      "topic": "Trump touts soaring economy and stock market gains"
+      "topic": "Trump touts the stock market’s best quarter since his previous presidency"
     },
     {
-      "topic": "Trump warns about Democratic plans to change Senate rules"
+      "topic": "Warns that Europe becomes a Third World country by accepting criminals from developing nations"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v3:23:2b9ab74acec93befbf2132b2",
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v10:23:2b9ab74acec93befbf2132b2",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39678",
@@ -154,7 +154,7 @@
       "id": "https://www.trumpstruth.org/statuses/39685",
       "publishedAt": "2026-07-04T05:02:32.000Z",
       "title": "[No Title] - Post from July 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A United States presidential aircraft, recognizable by its white livery, red stripe, and “United States of America” lettering, flies above Mount Rushmore. The granite monument below depicts George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln, surrounded by forested, rugged mountain terrain.",
       "url": "https://www.trumpstruth.org/statuses/39685",
       "raw": {
         "creator": "",
@@ -166,13 +166,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39685",
         "isoDate": "2026-07-04T05:02:32.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:18:05.802Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16890/e9a69b61beef1e40.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39686",
       "publishedAt": "2026-07-04T06:11:34.000Z",
       "title": "[No Title] - Post from July 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A split image titled “Pee-wee Herman” shows actor Paul Reubens as Pee-wee in a tuxedo with a red bow tie on the left. On the right is a different man with short dark hair wearing a pink-and-white checked button-down shirt, photographed indoors. The two images are presented side by side for visual comparison.",
       "url": "https://www.trumpstruth.org/statuses/39686",
       "raw": {
         "creator": "",
@@ -184,13 +188,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39686",
         "isoDate": "2026-07-04T06:11:34.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:18:03.640Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16891/627f44dc33028f71.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39687",
       "publishedAt": "2026-07-04T06:19:16.000Z",
       "title": "[No Title] - Post from July 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is titled “Alfred E. Neuman” and shows a side-by-side comparison. On the left is the illustrated Mad magazine mascot with reddish-brown hair, prominent ears, and a gap-toothed grin. On the right is a close-up photograph of a dark-haired man with similar facial features and an open-mouthed smile.",
       "url": "https://www.trumpstruth.org/statuses/39687",
       "raw": {
         "creator": "",
@@ -202,7 +210,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39687",
         "isoDate": "2026-07-04T06:19:16.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:18:00.869Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16892/03c1b1e690a70de2.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39689",
@@ -298,7 +310,7 @@
       "id": "https://www.trumpstruth.org/statuses/39692",
       "publishedAt": "2026-07-04T21:34:29.000Z",
       "title": "[No Title] - Post from July 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A patriotic Independence Day graphic shows red, white, and blue fireworks forming the number “250” above the White House at sunset. The text “HAPPY INDEPENDENCE DAY” appears across the image, with a small American flag flying over the building and a “The White House 250” emblem in the lower right.",
       "url": "https://www.trumpstruth.org/statuses/39692",
       "raw": {
         "creator": "",
@@ -310,7 +322,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39692",
         "isoDate": "2026-07-04T21:34:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:17:57.061Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16894/777690e87a7f3baf.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39695",
@@ -424,7 +440,7 @@
       "id": "https://www.trumpstruth.org/statuses/39700",
       "publishedAt": "2026-07-04T23:46:53.000Z",
       "title": "[No Title] - Post from July 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A large Boeing 747 in the distinctive Air Force One livery flies through a gray, overcast sky. Four dark fighter jets accompany it in formation, with two above and two below the presidential aircraft. The image captures the aircraft from the side, showing its U.S. flag tail, blue-and-red stripe, and extended landing gear.",
       "url": "https://www.trumpstruth.org/statuses/39700",
       "raw": {
         "creator": "",
@@ -436,7 +452,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39700",
         "isoDate": "2026-07-04T23:46:53.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:17:53.617Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16902/d7c4f2bbc20ce5a6.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -578,5 +598,6 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T07:57:47.633Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:23:2b9ab74acec93befbf2132b2"
 }

@@ -6,29 +6,30 @@
     "negative": 4
   },
   "summary": "positive:6 neutral:22 negative:4",
-  "generatedAt": "2026-09-05T19:56:48.396Z",
+  "generatedAt": "2026-09-07T19:54:43.664Z",
   "topics": [
-    "Trump's warning to Iran over Strait of Hormuz",
-    "MAGA candidates sweep Arizona elections",
-    "Concerns over non-citizen voting in New Jersey"
+    "Trump-endorsed Republicans sweep Arizona elections with seven wins and no losses",
+    "New Jersey voter-registration software mistakenly added thousands of noncitizens to voter rolls",
+    "Trump threatens and launches military retaliation against Iran over attacks on U.S. forces and shipping"
   ],
-  "trendingTopic": "Trump warns of U.S. retaliation against Iran for attacks on ships",
+  "trendingTopic": "Trump-endorsed Republicans sweep Arizona elections with seven wins and no losses",
   "secondaryHighlights": [
     {
-      "topic": "MAGA candidates achieve complete victory in Arizona"
+      "topic": "Trump and Republicans promote the SAVE America Act requiring citizenship proof and voter identification"
     },
     {
-      "topic": "New Jersey faces scrutiny over non-citizen voter registrations"
+      "topic": "Trump gives Mike Lindell his complete endorsement for Minnesota governor",
+      "name": "Mike Lindell"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v3:32:061afc8196df7302e8ff57ed",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:32:061afc8196df7302e8ff57ed",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40183",
       "publishedAt": "2026-07-22T01:28:18.000Z",
       "title": "These are the real facts. REPORT THEM!",
-      "text": "<p>These are the real facts. REPORT THEM!</p>",
+      "text": "<p>These are the real facts. REPORT THEM!</p>\n\n[Image] An infographic titled “Other Presidents Trump” compares U.S. military conflicts by duration and deaths. It lists the Vietnam War at 19 years and 58,220 deaths, the Korean War at 3 years and 36,574 deaths, the Iraq War at 9 years and 4,600 deaths, and the Afghanistan War at 20 years and 2,000 deaths. Under Donald Trump, it shows four months in Iran with 18 deaths and one day in Venezuela with zero deaths.",
       "url": "https://www.trumpstruth.org/statuses/40183",
       "raw": {
         "creator": "",
@@ -40,13 +41,17 @@
         "contentSnippet": "These are the real facts. REPORT THEM!",
         "guid": "https://www.trumpstruth.org/statuses/40183",
         "isoDate": "2026-07-22T01:28:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:32:22.494Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17270/ee2c52c22b762a53.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40184",
       "publishedAt": "2026-07-22T01:58:06.000Z",
       "title": "Rigged Elections!!!",
-      "text": "<p>Rigged Elections!!!</p>",
+      "text": "<p>Rigged Elections!!!</p>\n\n[Image] A screenshot of a post by journalist Jake Sherman shares a statement from New Jersey Governor Mikie Sherrill about a software error that registered roughly 6,600 people who had indicated they were not U.S. citizens. The statement says an investigation and voter-roll review were ordered, and criticizes Donald Trump’s election claims and policies.",
       "url": "https://www.trumpstruth.org/statuses/40184",
       "raw": {
         "creator": "",
@@ -58,7 +63,11 @@
         "contentSnippet": "Rigged Elections!!!",
         "guid": "https://www.trumpstruth.org/statuses/40184",
         "isoDate": "2026-07-22T01:58:06.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:32:18.987Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17271/eafbbb1a19ffd315.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40185",
@@ -208,7 +217,7 @@
       "id": "https://www.trumpstruth.org/statuses/40197",
       "publishedAt": "2026-07-22T03:45:46.000Z",
       "title": "[No Title] - Post from July 22, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116961570518477700</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116961570518477700</span></p>\n\n[Image] A screenshot of a post by Bo Loudon (@BoLoudon) states that President Donald Trump was with Mike Lindell the previous night after giving Lindell his “COMPLETE AND TOTAL ENDORSEMENT” to become governor of Minnesota. The post ends with “Let’s go, Mike Lindell!” and includes a small circular profile image.",
       "url": "https://www.trumpstruth.org/statuses/40197",
       "raw": {
         "creator": "",
@@ -220,7 +229,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116961570518477700",
         "guid": "https://www.trumpstruth.org/statuses/40197",
         "isoDate": "2026-07-22T03:45:46.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:32:13.829Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17281/fc715f748db15f9b.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40196",
@@ -244,7 +257,7 @@
       "id": "https://www.trumpstruth.org/statuses/40195",
       "publishedAt": "2026-07-22T03:46:08.000Z",
       "title": "[No Title] - Post from July 22, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116961572058857401</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116961572058857401</span></p>\n\n[Image] A screenshot of a post from the verified account Mike Lee (@BasedMikeLee). The post reads, “There is no legitimate argument against the SAVE America Act” followed by “Not even one.” A small circular profile photo shows a man in front of an American flag.",
       "url": "https://www.trumpstruth.org/statuses/40195",
       "raw": {
         "creator": "",
@@ -256,13 +269,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116961572058857401",
         "guid": "https://www.trumpstruth.org/statuses/40195",
         "isoDate": "2026-07-22T03:46:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:32:10.349Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17279/54642fb0366ceb8b.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40194",
       "publishedAt": "2026-07-22T03:46:31.000Z",
       "title": "[No Title] - Post from July 22, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a social-media post by Matt argues for the SAVE Act, calling for proof of U.S. citizenship and photo identification to vote in federal elections. The post proposes free documents and IDs, and says opponents are protecting a rigged system. An attached image shows an American flag, a secure ballot box, an identification card, and a certificate of live birth.",
       "url": "https://www.trumpstruth.org/statuses/40194",
       "raw": {
         "creator": "",
@@ -274,13 +291,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40194",
         "isoDate": "2026-07-22T03:46:31.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:32:06.939Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17278/fb5eb5ec77dc9db1.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40193",
       "publishedAt": "2026-07-22T03:47:12.000Z",
       "title": "[No Title] - Post from July 22, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post by SteveAreno replying to @BasedMikeLee says, “Lisa Murkowski has spoken! She says showing ID and proof of citizenship is DRACONIAN.” Below it, a dictionary-style graphic defines “draconian” as an adjective meaning “exceedingly harsh; very severe,” with pronunciation and a speaker icon.",
       "url": "https://www.trumpstruth.org/statuses/40193",
       "raw": {
         "creator": "",
@@ -292,7 +313,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40193",
         "isoDate": "2026-07-22T03:47:12.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:32:04.234Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17277/5b17a45460c422bf.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40198",
@@ -352,7 +377,7 @@
       "id": "https://www.trumpstruth.org/statuses/40201",
       "publishedAt": "2026-07-22T10:00:00.000Z",
       "title": "[No Title] - Post from July 22, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “Republican Nominee for AZ-01 Jay Feely Wins!” and states that Feely was endorsed by President Donald Trump. It shows portraits of Donald Trump on the left and Jay Feely on the right, both wearing suits and ties. A “Trump Vance” logo appears at the bottom against a blue-to-red gradient background.",
       "url": "https://www.trumpstruth.org/statuses/40201",
       "raw": {
         "creator": "",
@@ -364,13 +389,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40201",
         "isoDate": "2026-07-22T10:00:00.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:31:59.757Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17282/2e0dec618722c606.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40209",
       "publishedAt": "2026-07-22T10:00:08.000Z",
       "title": "[No Title] - Post from July 22, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic announces “Congressman (AZ-02) Eli Crane Wins!” and states that he was endorsed by President Donald Trump. It shows portraits of Donald Trump in a blue suit and Eli Crane in a dark suit with a red tie. A “Trump Vance” logo and “Make America Great Again!” slogan appear at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/40209",
       "raw": {
         "creator": "",
@@ -382,13 +411,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40209",
         "isoDate": "2026-07-22T10:00:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:31:56.569Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17289/25019a3a93ba9276.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40208",
       "publishedAt": "2026-07-22T10:00:16.000Z",
       "title": "[No Title] - Post from July 22, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “Republican nominee for AZ-05 Mark Lamb wins!” and says he is endorsed by President Donald Trump. It shows a large portrait of Donald Trump beside Mark Lamb, who wears a tan sheriff’s uniform and a wide-brimmed cowboy hat. The design uses a blue-to-red gradient, white borders, and a “Trump Vans” logo.",
       "url": "https://www.trumpstruth.org/statuses/40208",
       "raw": {
         "creator": "",
@@ -400,13 +433,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40208",
         "isoDate": "2026-07-22T10:00:16.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:31:53.702Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17288/1d268367fbf22d6b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40207",
       "publishedAt": "2026-07-22T10:00:26.000Z",
       "title": "[No Title] - Post from July 22, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic announces that Congressman Juan Ciscomani of Arizona’s 6th District wins, with an endorsement by President Donald Trump. Portraits of Donald Trump and Juan Ciscomani appear beneath the headline. A “Trump Vance” logo with the slogan “Make America Great Again” is displayed at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/40207",
       "raw": {
         "creator": "",
@@ -418,13 +455,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40207",
         "isoDate": "2026-07-22T10:00:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:31:51.128Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17287/1ba77eced5ce251e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40206",
       "publishedAt": "2026-07-22T10:00:34.000Z",
       "title": "[No Title] - Post from July 22, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic announces “Congressman (AZ-08) Abe Hamadeh wins!” and says he was endorsed by President Donald Trump. Portraits of Donald Trump and Abe Hamadeh appear against a dark blue-to-red gradient, both wearing suits and ties. A “Trump Vance” logo with the slogan “Make America Great Again!” is displayed at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/40206",
       "raw": {
         "creator": "",
@@ -436,13 +477,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40206",
         "isoDate": "2026-07-22T10:00:34.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:31:48.561Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17286/329b38b3d12b6f5e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40205",
       "publishedAt": "2026-07-22T10:00:42.000Z",
       "title": "[No Title] - Post from July 22, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political graphic features portraits of Donald Trump and Congressman Paul Gosar in suits against a dark blue and red gradient background. Large text reads “CONGRESSMAN (AZ-09) PAUL GOSAR WINS!” and a red banner states “ENDORSED BY PRESIDENT TRUMP!” A “Trump Vance” campaign logo appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/40205",
       "raw": {
         "creator": "",
@@ -454,13 +499,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40205",
         "isoDate": "2026-07-22T10:00:42.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:31:45.844Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17285/b6e426063d66aaf0.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40204",
       "publishedAt": "2026-07-22T10:00:50.000Z",
       "title": "[No Title] - Post from July 22, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “Republican nominee for Governor of Arizona Andy Biggs wins!” and says he is endorsed by President Donald Trump. Portraits of Donald Trump and Andy Biggs appear side by side in suits against a blue-to-red gradient background. A “Trump Vance” logo with the slogan “Make America Great Again” appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/40204",
       "raw": {
         "creator": "",
@@ -472,13 +521,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40204",
         "isoDate": "2026-07-22T10:00:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:31:42.871Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17284/aebc457d8e34a8bd.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40203",
       "publishedAt": "2026-07-22T10:00:57.000Z",
       "title": "[No Title] - Post from July 22, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political graphic titled “July 21st Election Recap” claims seven wins and zero losses for “President Trump endorsements,” with “100%” displayed prominently. It shows a white outline of Arizona marked “7–0,” a portrait of Donald Trump inside a red circle with a green check mark, and a “Trump Vance” logo reading “Make America Great Again!”",
       "url": "https://www.trumpstruth.org/statuses/40203",
       "raw": {
         "creator": "",
@@ -490,7 +543,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40203",
         "isoDate": "2026-07-22T10:00:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:31:40.093Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17283/ada5ab218a1891ac.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40202",
@@ -586,7 +643,7 @@
       "id": "https://www.trumpstruth.org/statuses/40214",
       "publishedAt": "2026-07-22T16:51:35.000Z",
       "title": "[No Title] - Post from July 22, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a news article headline reads, “Trump orders CENTCOM to ‘open the gates of hell’ after US troops killed, launches strikes on Iran.” The byline credits Deepanjali Sharma and dates the story three days earlier. Below the text is a close-up photograph of Donald Trump speaking emphatically at a microphone, wearing a dark suit and red tie.",
       "url": "https://www.trumpstruth.org/statuses/40214",
       "raw": {
         "creator": "",
@@ -598,7 +655,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40214",
         "isoDate": "2026-07-22T16:51:35.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:31:35.712Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17291/8fe9bfd9086dcda9.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -794,5 +855,6 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:01:56.415Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:32:061afc8196df7302e8ff57ed"
 }

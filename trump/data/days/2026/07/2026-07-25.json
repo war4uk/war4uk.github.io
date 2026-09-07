@@ -6,18 +6,23 @@
     "negative": 1
   },
   "summary": "positive:0 neutral:2 negative:1",
-  "generatedAt": "2026-09-05T19:57:02.210Z",
+  "generatedAt": "2026-09-07T19:55:22.142Z",
   "topics": [
-    "Alaska voter list errors"
+    "Laura Loomer interviews Ukrainian President Volodymyr Zelenskyy in Kyiv",
+    "Alaska removes thousands from active voter rolls, mistakenly flagging some citizens",
+    "Illustration proposes a North America air-filter barrier along the Canada-U.S. border"
   ],
-  "trendingTopic": "Alaska mistakenly removes thousands from active voter list",
+  "trendingTopic": "Laura Loomer interviews Ukrainian President Volodymyr Zelenskyy at Kyiv’s Mariinsky Palace",
   "secondaryHighlights": [
     {
-      "topic": "Alaska removes thousands from state’s active voter list, erroneously flagging some citizens"
+      "topic": "Alaska removes thousands from active voter rolls, mistakenly flagging some citizens"
+    },
+    {
+      "topic": "Illustration proposes a North America air-filter barrier along the Canada-U.S. border"
     }
   ],
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v3:3:d1948b98ea1be08366ef5acd",
+  "topicsCacheKey": "day-themes-v10:3:d1948b98ea1be08366ef5acd",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40238",
@@ -41,7 +46,7 @@
       "id": "https://www.trumpstruth.org/statuses/40239",
       "publishedAt": "2026-07-25T03:32:47.000Z",
       "title": "[No Title] - Post from July 25, 2026",
-      "text": "<p><a href=\"https://x.com/lauraloomer/status/2080657818466586812?s=46\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/lauraloomer/status/20806</span><span class=\"invisible\">57818466586812?s=46</span></a></p>",
+      "text": "<p><a href=\"https://x.com/lauraloomer/status/2080657818466586812?s=46\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/lauraloomer/status/20806</span><span class=\"invisible\">57818466586812?s=46</span></a></p>\n\n[Image] A screenshot of a social-media post by Laura Loomer, whose verified profile name and handle appear at the top alongside her portrait. The post announces that Loomer interviews Ukrainian President Volodymyr Zelenskyy at Mariinsky Palace in Kyiv, Ukraine, with Ukrainian and U.S. flag emojis. It ends with “Enjoy!” and tags several government-related accounts.",
       "url": "https://www.trumpstruth.org/statuses/40239",
       "raw": {
         "creator": "",
@@ -53,13 +58,17 @@
         "contentSnippet": "https://x.com/lauraloomer/status/2080657818466586812?s=46",
         "guid": "https://www.trumpstruth.org/statuses/40239",
         "isoDate": "2026-07-25T03:32:47.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:32:47.523Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17300/2750813e09f99c42.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40240",
       "publishedAt": "2026-07-25T15:16:09.000Z",
       "title": "[No Title] - Post from July 25, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A surreal illustration shows a gigantic wall-like structure spanning the Canada–United States border, labeled “North America Air Filter Barrier” and “Clean air, clear borders.” Canadian and U.S. flags stand on opposite sides, with “CANADA” and “UNITED STATES” text over forest, water, farmland, roads, and buildings. A small sign reads “MERV 16 High Efficiency Particulate Air Filter.”",
       "url": "https://www.trumpstruth.org/statuses/40240",
       "raw": {
         "creator": "",
@@ -71,7 +80,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40240",
         "isoDate": "2026-07-25T15:16:09.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:32:44.614Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17301/fa3f14c3ec1282cc.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -93,5 +106,7 @@
       "rationale": "The text contains no content to express any sentiment.",
       "analyzedAt": "2026-09-05T08:02:23.684Z"
     }
-  ]
+  ],
+  "trendingName": "Volodymyr Zelenskyy",
+  "selfPraiseCacheKey": "self-praise-v1:3:d1948b98ea1be08366ef5acd"
 }

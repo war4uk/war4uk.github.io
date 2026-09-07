@@ -6,26 +6,23 @@
     "negative": 4
   },
   "summary": "positive:8 neutral:22 negative:4",
-  "generatedAt": "2026-09-05T20:03:09.803Z",
+  "generatedAt": "2026-09-07T19:51:01.949Z",
   "topics": [
-    "Trump showcases new Air Force One to servicemembers",
-    "Trump criticizes Gavin Newsom's interview",
-    "Trump addresses birthright citizenship and Supreme Court ruling"
+    "Trump posts apparent retaliatory strikes on Iran after reported attacks on ships",
+    "Trump and allies pressure Senate to pass the SAVE AMERICA Act despite filibuster obstacles",
+    "Trump sends new Air Force One to RAF Mildenhall for servicemembers to tour"
   ],
-  "trendingTopic": "Trump showcases new Air Force One to servicemembers at RAF Mildenhall",
+  "trendingTopic": "Trump posts apparent retaliatory strikes on Iran after reported attacks on ships",
   "secondaryHighlights": [
     {
-      "topic": "Trump criticizes Gavin Newsom's interview"
+      "topic": "Trump and allies pressure Senate to pass the SAVE AMERICA Act despite filibuster obstacles"
     },
     {
-      "topic": "Trump addresses birthright citizenship and Supreme Court ruling"
-    },
-    {
-      "topic": "Federal judge rules in favor of Trump on voter verification"
+      "topic": "Trump sends new Air Force One to RAF Mildenhall for servicemembers to tour"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v3:34:eba8d32fe1ffc94d6ad206d7",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:34:eba8d32fe1ffc94d6ad206d7",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39882",
@@ -157,7 +154,7 @@
       "id": "https://www.trumpstruth.org/statuses/39887",
       "publishedAt": "2026-07-08T02:43:38.000Z",
       "title": "[No Title] - Post from July 8, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post by Senator Mike Lee reads, “Through whatever means”—including ending or enforcing the filibuster or using budget reconciliation—the Senate must pass the SAVE AMERICA Act. An embedded post by Donald Trump claims the U.S. military is stronger than ever and urges Congress to pass reconciliation funding and the act.",
       "url": "https://www.trumpstruth.org/statuses/39887",
       "raw": {
         "creator": "",
@@ -169,13 +166,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39887",
         "isoDate": "2026-07-08T02:43:38.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:25:18.915Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17070/083b6e09d68079d8.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39886",
       "publishedAt": "2026-07-08T02:43:44.000Z",
       "title": "[No Title] - Post from July 8, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a social media post by Daniel (@JohnDoe10500), whose profile name is followed by several flag and symbol emojis and a verified badge. The post is a reply to @BasedMikeLee and reads, “The filibuster needs to go away completely.” It was posted at 12:29 AM on July 8, 2026, and shows 294 views.",
       "url": "https://www.trumpstruth.org/statuses/39886",
       "raw": {
         "creator": "",
@@ -187,13 +188,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39886",
         "isoDate": "2026-07-08T02:43:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:25:16.298Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17069/77a0c2054a0889fd.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39885",
       "publishedAt": "2026-07-08T02:43:58.000Z",
       "title": "[No Title] - Post from July 8, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a social-media post by KMG displays the text “I voted for this!” above an animated comic-book-style graphic. The graphic features the word “BOOM!” in large yellow letters over an orange-and-white explosive burst on a black background. No people or politicians are visible.",
       "url": "https://www.trumpstruth.org/statuses/39885",
       "raw": {
         "creator": "",
@@ -205,7 +210,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39885",
         "isoDate": "2026-07-08T02:43:58.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:25:09.690Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17068/5b92455c056b28ab.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39884",
@@ -229,7 +238,7 @@
       "id": "https://www.trumpstruth.org/statuses/39891",
       "publishedAt": "2026-07-08T02:45:13.000Z",
       "title": "[No Title] - Post from July 8, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116882059882536161</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116882059882536161</span></p>\n\n[Image] A screenshot of a social media post by Eyal Yakoby, shown with a verified account badge and a “Subscribe” button. The post’s large headline reads, “BREAKING: Massive strikes against Iran.” No photograph or other visual content is visible beyond the profile picture, interface elements, and text.",
       "url": "https://www.trumpstruth.org/statuses/39891",
       "raw": {
         "creator": "",
@@ -241,7 +250,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116882059882536161",
         "guid": "https://www.trumpstruth.org/statuses/39891",
         "isoDate": "2026-07-08T02:45:13.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:25:07.290Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17073/ea6112edd3af62f3.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39890",
@@ -265,7 +278,7 @@
       "id": "https://www.trumpstruth.org/statuses/39889",
       "publishedAt": "2026-07-08T02:47:46.000Z",
       "title": "[No Title] - Post from July 8, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116882069375303735</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116882069375303735</span></p>\n\n[Image] A screenshot of a social-media post from the account “One Bad Dude” (@OneBadDude_), shown with a blue verification badge and a circular profile photo of a person wearing a red hat. The post reads, “Listen to what Marco Rubio said about Democratic socialism years ago. He’s always known.” A three-dot menu appears in the upper-right corner.",
       "url": "https://www.trumpstruth.org/statuses/39889",
       "raw": {
         "creator": "",
@@ -277,7 +290,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116882069375303735",
         "guid": "https://www.trumpstruth.org/statuses/39889",
         "isoDate": "2026-07-08T02:47:46.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:25:04.055Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17071/527874360df74cb2.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39888",
@@ -301,7 +318,7 @@
       "id": "https://www.trumpstruth.org/statuses/39892",
       "publishedAt": "2026-07-08T05:04:02.000Z",
       "title": "[No Title] - Post from July 8, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post by Senator Mike Lee, whose profile photo shows him in a blue shirt against an American flag. The post calls for the Senate to pass the SAVE AMERICA Act and mentions ending or enforcing the filibuster. An embedded Donald Trump post praises the military, recruiting, defense funding, and the proposed legislation. Timestamp: July 8, 2026.",
       "url": "https://www.trumpstruth.org/statuses/39892",
       "raw": {
         "creator": "",
@@ -313,7 +330,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39892",
         "isoDate": "2026-07-08T05:04:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:24:59.782Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17074/2fb1a533b3aa05e5.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39893",
@@ -427,7 +448,7 @@
       "id": "https://www.trumpstruth.org/statuses/39899",
       "publishedAt": "2026-07-08T21:35:26.000Z",
       "title": "This is in retribution for yesterday’s bombing of ships by Iran. If it happens again, it will get much worse!",
-      "text": "<p>This is in retribution for yesterday’s bombing of ships by Iran. If it happens again, it will get much worse!</p>",
+      "text": "<p>This is in retribution for yesterday’s bombing of ships by Iran. If it happens again, it will get much worse!</p>\n\n[Image] A screenshot of a verified Open Source Intel post on X reads “OH WOW” and “Chabahar, Iran.” The attached nighttime photograph shows a brightly lit city and high-rise buildings beside a massive fire, with intense flames and a towering column of thick, dark smoke rising from an industrial-looking area. The post is timestamped 8:47 PM on July 8, 2026, with 46.6K views.",
       "url": "https://www.trumpstruth.org/statuses/39899",
       "raw": {
         "creator": "",
@@ -439,7 +460,11 @@
         "contentSnippet": "This is in retribution for yesterday’s bombing of ships by Iran. If it happens again, it will get much worse!",
         "guid": "https://www.trumpstruth.org/statuses/39899",
         "isoDate": "2026-07-08T21:35:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:24:55.554Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17078/dd229309d5f033f4.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39900",
@@ -517,7 +542,7 @@
       "id": "https://www.trumpstruth.org/statuses/39904",
       "publishedAt": "2026-07-08T22:06:44.000Z",
       "title": "[No Title] - Post from July 8, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A large fire or explosion illuminates the night sky behind a dark urban skyline. Bright yellow and orange flames rise from the horizon, sending thick smoke upward and casting an intense glow over nearby rooftops. Several buildings in the foreground have lit windows, while antenna towers and other structures appear in silhouette.",
       "url": "https://www.trumpstruth.org/statuses/39904",
       "raw": {
         "creator": "",
@@ -529,7 +554,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39904",
         "isoDate": "2026-07-08T22:06:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:24:51.053Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17083/2b3684e2d51ba6db.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39903",
@@ -553,7 +582,7 @@
       "id": "https://www.trumpstruth.org/statuses/39902",
       "publishedAt": "2026-07-08T22:06:54.000Z",
       "title": "[No Title] - Post from July 8, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A large fire burns intensely at night on the right side of the image, sending a towering column of thick, dark smoke upward. Bright orange flames illuminate nearby ground and utility structures, while a sprawling city or residential area glows with scattered lights across the background. No people or recognizable public figures are visible.",
       "url": "https://www.trumpstruth.org/statuses/39902",
       "raw": {
         "creator": "",
@@ -565,13 +594,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39902",
         "isoDate": "2026-07-08T22:06:54.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:24:47.349Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17081/28e8e3447d2461d9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39901",
       "publishedAt": "2026-07-08T22:07:01.000Z",
       "title": "[No Title] - Post from July 8, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A busy urban roadway at dusk or night is filled with cars, headlights, and illuminated storefronts. Thick gray smoke or dust hangs over the street, partially obscuring buildings and road signs. Several signs contain Arabic script, including a large overhead directional sign, while streetlights and utility poles line the road.",
       "url": "https://www.trumpstruth.org/statuses/39901",
       "raw": {
         "creator": "",
@@ -583,13 +616,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39901",
         "isoDate": "2026-07-08T22:07:01.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:24:43.525Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17080/8a750e9c650412bb.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39908",
       "publishedAt": "2026-07-08T22:16:27.000Z",
       "title": "We just landed and met up with our new Air Force One, which was sent earlier to RAF Mildenhall, so we could show the wonderful Servicemembers, as per the entire Base’s request. They were very excited, picture enclosed. It was on our way back to the States from Turkey, with virtually no deviation of flightpath. President DONALD J. TRUMP",
-      "text": "<p>We just landed and met up with our new Air Force One, which was sent earlier to RAF Mildenhall, so we could show the wonderful Servicemembers, as per the entire Base’s request. They were very excited, picture enclosed. It was on our way back to the States from Turkey, with virtually no deviation of flightpath. President DONALD J. TRUMP</p>",
+      "text": "<p>We just landed and met up with our new Air Force One, which was sent earlier to RAF Mildenhall, so we could show the wonderful Servicemembers, as per the entire Base’s request. They were very excited, picture enclosed. It was on our way back to the States from Turkey, with virtually no deviation of flightpath. President DONALD J. TRUMP</p>\n\n[Image] A large group of people, including uniformed personnel, poses on an airport tarmac at sunset. Behind them is a Boeing 747 bearing the words “United States of America,” an American flag on its tail, and the presidential seal. Airport buildings, vehicles, lighting towers, and a clear blue-to-gold sky fill the background.",
       "url": "https://www.trumpstruth.org/statuses/39908",
       "raw": {
         "creator": "",
@@ -601,7 +638,11 @@
         "contentSnippet": "We just landed and met up with our new Air Force One, which was sent earlier to RAF Mildenhall, so we could show the wonderful Servicemembers, as per the entire Base’s request. They were very excited, picture enclosed. It was on our way back to the States from Turkey, with virtually no deviation of flightpath. President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/39908",
         "isoDate": "2026-07-08T22:16:27.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:24:40.081Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17087/d3ecc11961981dd3.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39910",
@@ -625,7 +666,7 @@
       "id": "https://www.trumpstruth.org/statuses/39909",
       "publishedAt": "2026-07-08T23:23:03.000Z",
       "title": "The newly revamped West Wing of the White House, including signage and renovated walls, maple trees, and plantings! President DONALD J. TRUMP",
-      "text": "<p>The newly revamped West Wing of the White House, including signage and renovated walls, maple trees, and plantings! President DONALD J. TRUMP</p>",
+      "text": "<p>The newly revamped West Wing of the White House, including signage and renovated walls, maple trees, and plantings! President DONALD J. TRUMP</p>\n\n[Image] The image shows the entrance to the White House West Wing, marked by gold script above a white door with tall glass sidelights. A paved walkway with geometric white lines leads through landscaped beds of shrubs and young trees. The building’s classical white façade and a chandelier visible inside are reflected in the glass.",
       "url": "https://www.trumpstruth.org/statuses/39909",
       "raw": {
         "creator": "",
@@ -637,7 +678,11 @@
         "contentSnippet": "The newly revamped West Wing of the White House, including signage and renovated walls, maple trees, and plantings! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/39909",
         "isoDate": "2026-07-08T23:23:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:24:37.183Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17088/52a51720c48abf71.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -845,5 +890,6 @@
       "rationale": "The text criticizes Gavin Newsom harshly, calling his interview the worst in 100 years and labeling him as 'stupid' and 'racist', indicating a strong negative sentiment.",
       "analyzedAt": "2026-09-05T07:59:04.792Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:34:eba8d32fe1ffc94d6ad206d7"
 }

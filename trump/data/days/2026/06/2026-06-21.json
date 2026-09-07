@@ -6,29 +6,34 @@
     "negative": 8
   },
   "summary": "positive:2 neutral:4 negative:8",
-  "generatedAt": "2026-09-06T06:03:34.107Z",
+  "generatedAt": "2026-09-07T19:45:44.726Z",
   "topics": [
-    "Criticizes New York Times for biased reporting on Iran and plans lawsuit",
-    "Announces repairs and arrests related to vandalism of the Reflecting Pool",
-    "Comments on violence in Chicago with multiple shootings reported"
+    "Attacks Iran-linked proxies, Italy, and New York Times coverage amid the war",
+    "Highlights Washington, D.C. cleanup efforts and orders repairs to the vandalized Reflecting Pool",
+    "Echoes criticism of Afghanistan-war negotiations after the Taliban’s return"
   ],
-  "trendingTopic": "Criticizes New York Times for biased reporting on Iran and plans lawsuit",
+  "trendingTopic": "Attacks Iran-linked proxies, Italy, and New York Times coverage amid the war",
   "secondaryHighlights": [
     {
-      "topic": "Announces repairs and arrests related to vandalism of the Reflecting Pool"
+      "topic": "Reports 22 people shot and at least four killed in Chicago"
     },
     {
-      "topic": "Comments on violence in Chicago with multiple shootings reported"
+      "topic": "Predicts Keir Starmer will resign as U.K. prime minister over immigration and energy",
+      "name": "Keir Starmer"
+    },
+    {
+      "topic": "Amplifies criticism of Afghanistan-war negotiations after the Taliban’s return",
+      "name": "Dakota Meyer"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v8:14:f0f530f8c726e109c8d7152a",
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:14:f0f530f8c726e109c8d7152a",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39406",
       "publishedAt": "2026-06-21T00:08:02.000Z",
       "title": "[No Title] - Post from June 21, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post from verified Donald Trump Jr. saying, “This times 1000000000!” It quotes a post by Dakota Meyer criticizing people who now oppose negotiations after defending a 20-year strategy that cost American lives, trillions of dollars, and ended with the Taliban returning to power. The post shows 399K views and is dated June 19, 2026.",
       "url": "https://www.trumpstruth.org/statuses/39406",
       "raw": {
         "creator": "",
@@ -40,7 +45,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39406",
         "isoDate": "2026-06-21T00:08:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:40:05.380Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16760/0cf189248185b085.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39407",
@@ -64,7 +73,7 @@
       "id": "https://www.trumpstruth.org/statuses/39408",
       "publishedAt": "2026-06-21T01:55:54.000Z",
       "title": "Great daughter. MyHonor!!! President DJT",
-      "text": "<p>Great daughter. My<br/>Honor!!! President DJT</p>",
+      "text": "<p>Great daughter. My<br/>Honor!!! President DJT</p>\n\n[Image] A blonde woman lounges on a red sectional sofa, holding a corded telephone to her ear and smiling toward the camera. She wears black clothing and tall black boots. The warmly lit living room contains floral pillows, a central table with a lamp and telephone, houseplants, and a blanket featuring a large circular state seal, possibly Utah State University.",
       "url": "https://www.trumpstruth.org/statuses/39408",
       "raw": {
         "creator": "",
@@ -76,7 +85,11 @@
         "contentSnippet": "Great daughter. My\nHonor!!! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/39408",
         "isoDate": "2026-06-21T01:55:54.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:40:02.190Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16761/6fd73431b6744944.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39409",
@@ -208,7 +221,7 @@
       "id": "https://www.trumpstruth.org/statuses/39415",
       "publishedAt": "2026-06-21T20:02:03.000Z",
       "title": "[No Title] - Post from June 21, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “We are making DC safe & beautiful” lists public-works accomplishments, including 1,695 lights fixed, 1,143 benches rehabilitated or installed, 500 graffiti cleanups, 250 truckloads of debris removed, 152 homeless encampments removed, and repairs to potholes, fountains, statues, monuments, and memorials. Photos show the Jefferson Memorial, a mounted statue, the Reflecting Pool, and workers cleaning monuments.",
       "url": "https://www.trumpstruth.org/statuses/39415",
       "raw": {
         "creator": "",
@@ -220,7 +233,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39415",
         "isoDate": "2026-06-21T20:02:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:39:56.460Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16763/53ff1f6fc597581a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39417",
@@ -362,5 +379,6 @@
       "rationale": "The text expresses strong negative sentiments towards the New York Times, calling them 'Corrupt and Failing' and accusing them of treasonous behavior.",
       "analyzedAt": "2026-09-05T08:37:28.265Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:14:f0f530f8c726e109c8d7152a"
 }

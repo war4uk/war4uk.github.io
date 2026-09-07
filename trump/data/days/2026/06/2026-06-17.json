@@ -6,31 +6,29 @@
     "negative": 1
   },
   "summary": "positive:7 neutral:12 negative:1",
-  "generatedAt": "2026-09-06T06:03:28.069Z",
+  "generatedAt": "2026-09-07T19:44:20.371Z",
   "topics": [
-    "Supports Mike Collins in Georgia Senate race and plans rallies",
-    "Congratulates Rick Jackson on winning the Georgia gubernatorial race",
-    "Announces upcoming press conference from France"
+    "Trump touts Republican primary victories and endorsements across Alabama, Georgia, and Oklahoma",
+    "Criticizes Republicans over William Pulte’s removal as acting DNI and FISA approval",
+    "Plans France press conference and Versailles dinner with European leaders"
   ],
-  "trendingTopic": "Supports Mike Collins in Georgia Senate race and plans rallies",
-  "trendingName": "Mike Collins",
+  "trendingTopic": "Trump touts Republican primary victories and endorsements across Alabama, Georgia, and Oklahoma",
   "secondaryHighlights": [
     {
-      "topic": "Congratulates Rick Jackson on winning the Georgia gubernatorial race",
-      "name": "Rick Jackson"
+      "topic": "Criticizes Republicans over William Pulte’s removal as acting DNI and FISA approval"
     },
     {
-      "topic": "Announces upcoming press conference from France"
+      "topic": "Plans France press conference and Versailles dinner with European leaders"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v8:20:063788b684dc74c61ec2f929",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:20:063788b684dc74c61ec2f929",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39310",
       "publishedAt": "2026-06-17T04:07:56.000Z",
       "title": "[No Title] - Post from June 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “Republican nominee for Lieutenant Governor of Alabama John Wahl wins!” and says he was endorsed by President Donald Trump. Portraits of Donald Trump and John Wahl appear against a dark blue-to-red gradient background. A Trump-Vance logo with “Make America Great Again!” is displayed at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39310",
       "raw": {
         "creator": "",
@@ -42,13 +40,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39310",
         "isoDate": "2026-06-17T04:07:56.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:38:54.971Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16714/ba8d2090d38676a2.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39309",
       "publishedAt": "2026-06-17T04:08:06.000Z",
       "title": "[No Title] - Post from June 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic features portraits of Donald Trump and Barry Moore in suits against a dark blue and red gradient background. Large text identifies Moore as the Republican nominee for U.S. senator from Alabama and declares “Barry Moore Wins!” A banner says he is endorsed by President Trump, with a Trump-Vance logo at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39309",
       "raw": {
         "creator": "",
@@ -60,13 +62,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39309",
         "isoDate": "2026-06-17T04:08:06.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:38:52.259Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16713/4bec956746319106.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39308",
       "publishedAt": "2026-06-17T04:08:18.000Z",
       "title": "[No Title] - Post from June 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “Republican nominee for U.S. Senator from Georgia Mike Collins wins!” and says he is endorsed by President Donald Trump. It shows portraits of Donald Trump and Mike Collins in suits against a blue-to-red gradient background. A “Trump Vance” logo with “Make America Great Again!” appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39308",
       "raw": {
         "creator": "",
@@ -78,13 +84,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39308",
         "isoDate": "2026-06-17T04:08:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:38:49.376Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16712/94d3c7163c289327.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39307",
       "publishedAt": "2026-06-17T04:08:34.000Z",
       "title": "[No Title] - Post from June 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces Republican candidate Jackson Lahmeyer’s advancement in the race for Oklahoma’s 1st Congressional District. It says he is endorsed by President Donald Trump and shows portraits of Lahmeyer and Donald Trump in suits. A “Trump Vance” logo with the slogan “Make America Great Again” appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39307",
       "raw": {
         "creator": "",
@@ -96,13 +106,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39307",
         "isoDate": "2026-06-17T04:08:34.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:38:46.574Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16711/209f4ec8386d3ba3.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39306",
       "publishedAt": "2026-06-17T04:08:45.000Z",
       "title": "[No Title] - Post from June 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic features Donald Trump beside Josh Brecheen, identified as “Congressman (OK-02).” Large text declares “Josh Brecheen Wins!” and says he is endorsed by President Trump. Both men wear suits and ties against a blue-to-red gradient background, with a “Trump Vance” logo and “Make America Great Again!” slogan at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39306",
       "raw": {
         "creator": "",
@@ -114,13 +128,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39306",
         "isoDate": "2026-06-17T04:08:45.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:38:44.505Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16710/33ed3eea9546bff2.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39305",
       "publishedAt": "2026-06-17T04:08:58.000Z",
       "title": "[No Title] - Post from June 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic shows Donald Trump beside Congressman Frank Lucas of Oklahoma’s 3rd District. Large text reads “CONGRESSMAN (OK-03) FRANK LUCAS WINS!” and a red banner states “ENDORSED BY PRESIDENT TRUMP!” Both men wear suits and ties, with a Trump-Vance “Make America Great Again” logo at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39305",
       "raw": {
         "creator": "",
@@ -132,13 +150,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39305",
         "isoDate": "2026-06-17T04:08:58.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:38:41.714Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16709/6b477c794e3b7720.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39304",
       "publishedAt": "2026-06-17T04:09:06.000Z",
       "title": "[No Title] - Post from June 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “Congressman (OK-04) Tom Cole Wins!” and states he was endorsed by President Donald Trump. It shows portraits of Donald Trump and Tom Cole in suits against a blue-to-red gradient background. A “Trump Vance” logo with the slogan “Make America Great Again!” appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39304",
       "raw": {
         "creator": "",
@@ -150,13 +172,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39304",
         "isoDate": "2026-06-17T04:09:06.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:38:39.189Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16708/01ce9d92c636d349.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39303",
       "publishedAt": "2026-06-17T04:09:17.000Z",
       "title": "[No Title] - Post from June 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic announces “Congresswoman (OK-05) Stephanie Bice Wins!” and states that she is endorsed by President Donald Trump. It shows large portraits of Donald Trump in a suit and Stephanie Bice smiling in a blue blazer. A Trump-Vance “Make America Great Again” logo appears at the bottom against a blue-to-maroon gradient background.",
       "url": "https://www.trumpstruth.org/statuses/39303",
       "raw": {
         "creator": "",
@@ -168,13 +194,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39303",
         "isoDate": "2026-06-17T04:09:17.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:38:36.820Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16707/bdba9c33bbfe8b8b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39302",
       "publishedAt": "2026-06-17T04:09:30.000Z",
       "title": "[No Title] - Post from June 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign poster for Republican Oklahoma gubernatorial candidate Mike Mazzei features portraits of Mike Mazzei and Donald Trump. Large text reads “Republican Candidate for Governor of Oklahoma,” “Mike Mazzei Advances!” and “Endorsed by President Trump!” A Trump-Vance logo appears at the bottom, with both men wearing suits and ties against a dark blue and burgundy background.",
       "url": "https://www.trumpstruth.org/statuses/39302",
       "raw": {
         "creator": "",
@@ -186,13 +216,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39302",
         "isoDate": "2026-06-17T04:09:30.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:38:33.998Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16706/289fba99332d16df.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39301",
       "publishedAt": "2026-06-17T04:09:39.000Z",
       "title": "[No Title] - Post from June 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic features Donald Trump on the left and T.W. Shannon, identified as the Republican nominee for lieutenant governor of Oklahoma, on the right. Large text announces “T.W. Shannon Wins!” and says he is endorsed by President Trump. A Trump-Vance campaign logo appears at the bottom against a blue-to-red gradient background.",
       "url": "https://www.trumpstruth.org/statuses/39301",
       "raw": {
         "creator": "",
@@ -204,13 +238,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39301",
         "isoDate": "2026-06-17T04:09:39.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:38:31.131Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16705/c47c4cf89470c1e8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39300",
       "publishedAt": "2026-06-17T04:09:48.000Z",
       "title": "[No Title] - Post from June 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces Kevin Hern as the Republican nominee for U.S. senator from Oklahoma and says he wins with an endorsement from President Donald Trump. Portraits of Donald Trump and Kevin Hern appear against a dark red and purple background, with large white and red lettering and a Trump-Vance logo at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39300",
       "raw": {
         "creator": "",
@@ -222,7 +260,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39300",
         "isoDate": "2026-06-17T04:09:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:38:27.766Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16704/c939851213818957.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39311",
@@ -264,7 +306,7 @@
       "id": "https://www.trumpstruth.org/statuses/39313",
       "publishedAt": "2026-06-17T06:20:42.000Z",
       "title": "Rick Jackson ran a great TRUMP Campaign. Very smart! Was with me on Saturday Night making a pitch. Amazing!!! He won against a great guy, Burt Jones, who has a fantastic future!!! President DJT",
-      "text": "<p>Rick Jackson ran a great TRUMP Campaign. Very smart! Was with me on Saturday Night making a pitch. Amazing!!! He won against a great guy, Burt Jones, who has a fantastic future!!! President DJT</p>",
+      "text": "<p>Rick Jackson ran a great TRUMP Campaign. Very smart! Was with me on Saturday Night making a pitch. Amazing!!! He won against a great guy, Burt Jones, who has a fantastic future!!! President DJT</p>\n\n[Image] A group poses indoors for a formal photograph. Three adults stand behind three children, who wear dressed-up clothing and VIP badges reading “Jackson Election Night”; one boy also wears a campaign-style button. The adults include two men in suits and a woman in a black top and patterned skirt. Large windows, curtains, upholstered chairs, and a rug fill the room.",
       "url": "https://www.trumpstruth.org/statuses/39313",
       "raw": {
         "creator": "",
@@ -276,7 +318,11 @@
         "contentSnippet": "Rick Jackson ran a great TRUMP Campaign. Very smart! Was with me on Saturday Night making a pitch. Amazing!!! He won against a great guy, Burt Jones, who has a fantastic future!!! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/39313",
         "isoDate": "2026-06-17T06:20:42.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:38:24.934Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16715/15d93c05504e6b16.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39315",
@@ -508,5 +554,6 @@
       "rationale": "The text expresses appreciation for Jackson Lahmeyer's hard work and endorses Mark Tedford positively, highlighting his qualities and commitment.",
       "analyzedAt": "2026-09-05T08:36:34.298Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:20:063788b684dc74c61ec2f929"
 }

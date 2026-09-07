@@ -6,23 +6,28 @@
     "negative": 1
   },
   "summary": "positive:2 neutral:55 negative:1",
-  "generatedAt": "2026-09-05T19:57:06.664Z",
+  "generatedAt": "2026-09-07T19:56:03.408Z",
   "topics": [
-    "Trump praises King Mohammed VI of Morocco",
-    "Trump endorses Alexander Kolodin for Secretary of State",
-    "Trump urges Republican Senators to terminate the filibuster"
+    "Promotes U.S. strikes on Iranian targets and seizure of an Iranian oil tanker",
+    "Urges Senate Republicans to pass the SAVE America Act to secure elections",
+    "Promotes Donald Trump’s 2028 campaign through patriotic artwork and rally imagery"
   ],
-  "trendingTopic": "Trump praises King Mohammed VI of Morocco and expresses desire to travel the Great Highway",
+  "trendingTopic": "Promotes U.S. strikes on Iranian targets and seizure of an Iranian oil tanker",
   "secondaryHighlights": [
     {
-      "topic": "Trump endorses Alexander Kolodin for Secretary of State"
+      "topic": "Congratulates Alexander Kolodin on winning Arizona’s secretary of state race",
+      "name": "Alexander Kolodin"
     },
     {
-      "topic": "Trump urges Republican Senators to terminate the filibuster"
+      "topic": "Highlights the White House’s weekly energy, domestic, and national security achievements"
+    },
+    {
+      "topic": "Ambassador Andrew Puzder condemns the European Union’s €890 million fine against Google",
+      "name": "Andrew Puzder"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v3:58:0e7a789bb07bef4cd5862da5",
+  "selfPraiseCount": 22,
+  "topicsCacheKey": "day-themes-v10:58:0e7a789bb07bef4cd5862da5",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40241",
@@ -64,7 +69,7 @@
       "id": "https://www.trumpstruth.org/statuses/40252",
       "publishedAt": "2026-07-26T09:20:36.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of two posts by U.S. Senator Mike Lee (@BasedMikeLee) dated July 23. The first urges senators to pass the SAVE America Act to secure elections and “save America,” accompanied by a distressed vintage-style graphic of the United States filled with the American flag. The second asks viewers to share the thread and follow for similar posts.",
       "url": "https://www.trumpstruth.org/statuses/40252",
       "raw": {
         "creator": "",
@@ -76,13 +81,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40252",
         "isoDate": "2026-07-26T09:20:36.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:35:36.883Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17311/0efec9c0d99b3ff8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40251",
       "publishedAt": "2026-07-26T09:20:55.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985537282198490</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985537282198490</span></p>\n\n[Image] Screenshots of posts by U.S. Senator Mike Lee on X are shown. One post discusses noncitizen voting, Supreme Court precedent, and President Joe Biden’s border policies, alongside images of the Supreme Court building and Biden near a border fence. Another promotes the SAVE America Act over a distressed American flag map graphic.",
       "url": "https://www.trumpstruth.org/statuses/40251",
       "raw": {
         "creator": "",
@@ -94,13 +103,18 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985537282198490",
         "guid": "https://www.trumpstruth.org/statuses/40251",
         "isoDate": "2026-07-26T09:20:55.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:35:34.338Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17310/490ac3ded834a420.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17311/0efec9c0d99b3ff8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40250",
       "publishedAt": "2026-07-26T09:21:16.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985538488226369</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985538488226369</span></p>\n\n[Image] A screenshot shows three posts from Senator Mike Lee’s verified account discussing the SAVE America Act. The first includes a photo of a woman voting at a polling station. The second pairs an image of the U.S. Supreme Court with a photo of Joe Biden beside a border fence. The third displays a distressed American flag mapped across the United States.",
       "url": "https://www.trumpstruth.org/statuses/40250",
       "raw": {
         "creator": "",
@@ -112,13 +126,19 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985538488226369",
         "guid": "https://www.trumpstruth.org/statuses/40250",
         "isoDate": "2026-07-26T09:21:16.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:35:30.798Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17309/0c74c1c1ffa3640d.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17310/490ac3ded834a420.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17311/0efec9c0d99b3ff8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40249",
       "publishedAt": "2026-07-26T09:21:29.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985539855804799</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985539855804799</span></p>\n\n[Image] A screenshot of posts by U.S. Senator Mike Lee discusses the SAVE America Act and noncitizen voting. The images show a hand placing a ballot in a box labeled “VOTE,” a person voting at a polling station, the U.S. Supreme Court beside an image of Joe Biden near a border fence, and a distressed American flag map of the United States.",
       "url": "https://www.trumpstruth.org/statuses/40249",
       "raw": {
         "creator": "",
@@ -130,13 +150,20 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985539855804799",
         "guid": "https://www.trumpstruth.org/statuses/40249",
         "isoDate": "2026-07-26T09:21:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:35:28.114Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17308/686218a43be6901a.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17309/0c74c1c1ffa3640d.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17310/490ac3ded834a420.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17311/0efec9c0d99b3ff8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40248",
       "publishedAt": "2026-07-26T09:21:44.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985540759658958</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985540759658958</span></p>\n\n[Image] A series of screenshots from Mike Lee’s social-media thread discusses Elizabeth Warren, civil-rights laws, voting, and the SAVE America Act. Images show a black-and-white civil-rights bill signing with Lyndon B. Johnson and Martin Luther King Jr., an illustration of a ballot entering a box, a voter at a polling station, the Supreme Court beside Joe Biden at a border fence, and a distressed U.S. map.",
       "url": "https://www.trumpstruth.org/statuses/40248",
       "raw": {
         "creator": "",
@@ -148,13 +175,21 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985540759658958",
         "guid": "https://www.trumpstruth.org/statuses/40248",
         "isoDate": "2026-07-26T09:21:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:35:24.986Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17307/4e9330fcca29f995.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17308/686218a43be6901a.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17309/0c74c1c1ffa3640d.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17310/490ac3ded834a420.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17311/0efec9c0d99b3ff8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40247",
       "publishedAt": "2026-07-26T09:22:05.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985541740203201</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985541740203201</span></p>\n\n[Image] A screenshot shows a thread by Senator Mike Lee discussing Elizabeth Warren, environmental and civil-rights laws, and the SAVE America Act. It includes a polluted industrial waterway, a black-and-white image of Lyndon B. Johnson signing legislation, a ballot box, a voter at a polling station, the Supreme Court beside Joe Biden near a border fence, and a distressed U.S. map.",
       "url": "https://www.trumpstruth.org/statuses/40247",
       "raw": {
         "creator": "",
@@ -166,13 +201,22 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985541740203201",
         "guid": "https://www.trumpstruth.org/statuses/40247",
         "isoDate": "2026-07-26T09:22:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:35:21.440Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17306/e2892f95619748cf.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17307/4e9330fcca29f995.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17308/686218a43be6901a.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17309/0c74c1c1ffa3640d.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17310/490ac3ded834a420.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17311/0efec9c0d99b3ff8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40246",
       "publishedAt": "2026-07-26T09:22:24.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985543077318839</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985543077318839</span></p>\n\n[Image] A screenshot of a social-media thread by Senator Mike Lee discusses Elizabeth Warren’s views on campaign finance, environmental, and civil-rights laws, then argues for the SAVE America Act. Images show money over the Capitol, polluted water, a civil-rights-era signing, a ballot box, a voter, the Supreme Court beside Joe Biden, and a distressed U.S. map.",
       "url": "https://www.trumpstruth.org/statuses/40246",
       "raw": {
         "creator": "",
@@ -184,13 +228,23 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985543077318839",
         "guid": "https://www.trumpstruth.org/statuses/40246",
         "isoDate": "2026-07-26T09:22:24.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:35:17.935Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17305/adadf869c2210398.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17306/e2892f95619748cf.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17307/4e9330fcca29f995.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17308/686218a43be6901a.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17309/0c74c1c1ffa3640d.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17310/490ac3ded834a420.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17311/0efec9c0d99b3ff8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40245",
       "publishedAt": "2026-07-26T09:22:39.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985544314974655</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985544314974655</span></p>\n\n[Image] A series of posts by Senator Mike Lee argues for the SAVE America Act and criticizes Elizabeth Warren’s stated logic on gun control, campaign finance, environmental and civil-rights laws. The illustrations show a caricature of Elizabeth Warren with a machine gun, money being counted, polluted water, a civil-rights signing, voting imagery, a polling station, the Supreme Court, Joe Biden near a border fence, and a flag-covered U.S. map.",
       "url": "https://www.trumpstruth.org/statuses/40245",
       "raw": {
         "creator": "",
@@ -202,13 +256,24 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985544314974655",
         "guid": "https://www.trumpstruth.org/statuses/40245",
         "isoDate": "2026-07-26T09:22:39.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:35:14.696Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17304/6fcbe3472e0fd7dc.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17305/adadf869c2210398.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17306/e2892f95619748cf.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17307/4e9330fcca29f995.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17308/686218a43be6901a.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17309/0c74c1c1ffa3640d.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17310/490ac3ded834a420.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17311/0efec9c0d99b3ff8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40244",
       "publishedAt": "2026-07-26T09:22:58.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985545303195966</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985545303195966</span></p>\n\n[Image] A screenshot of a Mike Lee social-media thread shows posts about Elizabeth Warren’s stated positions on gun control, campaign finance, environmental and civil-rights laws, and election legislation. Images include a caricature of Elizabeth Warren holding a machine gun, the Second Amendment, cash labeled “Campaign Finance,” polluted water, a civil-rights signing, voting imagery, the Supreme Court, and Joe Biden at a border fence.",
       "url": "https://www.trumpstruth.org/statuses/40244",
       "raw": {
         "creator": "",
@@ -220,13 +285,24 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985545303195966",
         "guid": "https://www.trumpstruth.org/statuses/40244",
         "isoDate": "2026-07-26T09:22:58.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:35:10.188Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17304/6fcbe3472e0fd7dc.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17305/adadf869c2210398.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17306/e2892f95619748cf.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17307/4e9330fcca29f995.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17308/686218a43be6901a.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17309/0c74c1c1ffa3640d.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17310/490ac3ded834a420.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17311/0efec9c0d99b3ff8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40243",
       "publishedAt": "2026-07-26T09:23:14.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985546564236950</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985546564236950</span></p>\n\n[Image] A screenshot of a Mike Lee social-media thread criticizing Elizabeth Warren’s stated logic on the SAVE America Act. It includes posts about gun control, campaign finance, environmental and civil-rights laws, and noncitizen voting, illustrated with a caricature of Elizabeth Warren, money, pollution, a civil-rights signing, a ballot box, voters, the Supreme Court, and Joe Biden at a border fence.",
       "url": "https://www.trumpstruth.org/statuses/40243",
       "raw": {
         "creator": "",
@@ -238,13 +314,25 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116985546564236950",
         "guid": "https://www.trumpstruth.org/statuses/40243",
         "isoDate": "2026-07-26T09:23:14.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:35:06.346Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17302/a03ae405a09da9a3.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17304/6fcbe3472e0fd7dc.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17305/adadf869c2210398.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17306/e2892f95619748cf.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17307/4e9330fcca29f995.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17308/686218a43be6901a.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17309/0c74c1c1ffa3640d.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17310/490ac3ded834a420.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17311/0efec9c0d99b3ff8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40253",
       "publishedAt": "2026-07-26T13:11:26.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Three pages of a White House document titled “Weekly Policy Achievements,” dated 7.21.26, with the White House logo at the top. The pages list federal actions under Energy/Economy, Domestic, and National Security/Homeland Security, including mining, oil and gas leasing, Medicaid, education, health regulations, law enforcement, arrests, firearms seizures, and missing-child recoveries.",
       "url": "https://www.trumpstruth.org/statuses/40253",
       "raw": {
         "creator": "",
@@ -256,13 +344,19 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40253",
         "isoDate": "2026-07-26T13:11:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:35:02.633Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17312/0f98984ddc6227cf.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17313/a29ed52fbf54847a.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17314/eda011eb04f0adfe.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40254",
       "publishedAt": "2026-07-26T13:39:53.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post by Ambassador Andrew Puzder, identified as @USAmbEU. The post criticizes the European Union’s €890 million fine against Google, arguing that EU regulation harms American innovation and urging cooperation on competition standards. An embedded European Commission graphic shows the EU flag and the caption “Commission fines Google €890 million...”",
       "url": "https://www.trumpstruth.org/statuses/40254",
       "raw": {
         "creator": "",
@@ -274,7 +368,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40254",
         "isoDate": "2026-07-26T13:39:53.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:34:59.535Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17315/854b2696698ad825.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40255",
@@ -298,7 +396,7 @@
       "id": "https://www.trumpstruth.org/statuses/40256",
       "publishedAt": "2026-07-26T15:16:18.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A smiling woman with dark hair pulled back stands behind a table covered with several cans of Bud Light. She wears a sleeveless black top, layered beaded necklaces, and long black gloves while holding another blue Bud Light can. Patterned curtains hang in the background.",
       "url": "https://www.trumpstruth.org/statuses/40256",
       "raw": {
         "creator": "",
@@ -310,13 +408,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40256",
         "isoDate": "2026-07-26T15:16:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:34:56.488Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17317/6d98f426e16387e8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40257",
       "publishedAt": "2026-07-26T15:43:18.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A satirical concert scene shows Bruce Springsteen holding a guitar onstage with the E Street Band behind him. Chris Christie sits at a table in the foreground, raising one hand and holding a large drink, while wearing a “Chris Christie 2016” button. Signs and banners read “Bored in the USA,” “Born to Pander,” and “Forced to Eat,” with a speech bubble praising Bruce.",
       "url": "https://www.trumpstruth.org/statuses/40257",
       "raw": {
         "creator": "",
@@ -328,13 +430,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40257",
         "isoDate": "2026-07-26T15:43:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:34:54.042Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17318/837cfc221fd501ec.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40265",
       "publishedAt": "2026-07-26T19:22:58.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An art installation features a large angular sculpture of Donald Trump in a tuxedo, raising one hand beneath a suspended red “TRUMP 2028” hat. An American flag hangs behind him amid blue geometric panels and scattered floating objects. Two visitors stand in the gallery observing the display, which is lit against white walls and a polished concrete floor.",
       "url": "https://www.trumpstruth.org/statuses/40265",
       "raw": {
         "creator": "",
@@ -346,13 +452,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40265",
         "isoDate": "2026-07-26T19:22:58.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:34:51.083Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17326/75ed7c115129bef9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40264",
       "publishedAt": "2026-07-26T19:23:10.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands inside a private aircraft wearing a dark suit, white shirt, and red tie. Behind him, a large screen displays Joe Biden seated at a desk in front of American flags and the presidential seal. Dark wood cabinetry, framed photographs, ceiling lights, and an illuminated exit sign are visible in the cabin.",
       "url": "https://www.trumpstruth.org/statuses/40264",
       "raw": {
         "creator": "",
@@ -364,13 +474,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40264",
         "isoDate": "2026-07-26T19:23:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:34:48.006Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17325/00a3f1b3ef559f2b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40263",
       "publishedAt": "2026-07-26T19:23:21.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An oil-style painting depicts Donald Trump seated behind a dark wooden podium or desk, wearing a black tuxedo, white shirt, and bow tie. He wears a red cap reading “TRUMP 2028,” with stars beneath the text. Warm orange and brown brushstrokes fill the background, and a circular emblem decorates the front of the desk.",
       "url": "https://www.trumpstruth.org/statuses/40263",
       "raw": {
         "creator": "",
@@ -382,13 +496,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40263",
         "isoDate": "2026-07-26T19:23:21.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:34:45.370Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17324/6d24efae01bb4fc5.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40262",
       "publishedAt": "2026-07-26T19:23:36.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A cartoon depicts Chris Christie and Jerry Nadler as opposing heavyweight boxers in a brightly lit ring. Christie wears red gloves and a black uniform, while Nadler wears blue gloves and a blue uniform. They face off over a cheesecake on a small table labeled “The Cheesecake Championship,” with a cheering crowd and signs reading “Big Chris!” and “Little Jerry!” in the background.",
       "url": "https://www.trumpstruth.org/statuses/40262",
       "raw": {
         "creator": "",
@@ -400,13 +518,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40262",
         "isoDate": "2026-07-26T19:23:36.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:34:43.325Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17323/b3bbbc7c0b851d1b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40261",
       "publishedAt": "2026-07-26T19:23:49.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A satirical illustration labeled “Kimmel, Fallon, Colbert” shows Jimmy Kimmel, Jimmy Fallon, and Stephen Colbert sitting on a New York City sidewalk in worn clothing, holding cardboard signs that read “Talentless, Not Funny, Ex Comedians, Need Money.” A street sign marks West 50th Street and Seventh Avenue, with a trash can and tip containers nearby.",
       "url": "https://www.trumpstruth.org/statuses/40261",
       "raw": {
         "creator": "",
@@ -418,13 +540,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40261",
         "isoDate": "2026-07-26T19:23:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:34:40.904Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17322/f871e5b86891293c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40260",
       "publishedAt": "2026-07-26T19:24:00.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A dark, stylized political poster shows Donald Trump in a suit walking through a foggy forest, flanked by shadowy humanoid figures with glowing red eyes. Large white text reads “GIVE THE ENEMY NIGHTMARES,” while the bottom says “TRUMP 2028.” The image uses horror-film imagery to promote a future campaign.",
       "url": "https://www.trumpstruth.org/statuses/40260",
       "raw": {
         "creator": "",
@@ -436,13 +562,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40260",
         "isoDate": "2026-07-26T19:24:00.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:34:36.786Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17321/9c40863639c9bf00.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40259",
       "publishedAt": "2026-07-26T19:24:18.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A whimsical illustration shows an older gray-haired woman with glasses writing a letter at a table in an Irish-themed room. Her shirt reads “TDS forever,” and a thought bubble says “my dearest Donald,” referring to Donald Trump. The scene includes shamrocks, Guinness, a leprechaun figurine, an Irish flag, a fireplace, and a countryside view labeled Galway.",
       "url": "https://www.trumpstruth.org/statuses/40259",
       "raw": {
         "creator": "",
@@ -454,13 +584,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40259",
         "isoDate": "2026-07-26T19:24:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:34:34.628Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17320/892b5327b8dd2cfb.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40258",
       "publishedAt": "2026-07-26T19:25:08.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A science-fiction film poster features Donald Trump in a dramatic close-up against a star-filled space background, with planets, glowing stars, a futuristic spacecraft, and a sleek spacecraft or emblem rising above a fiery alien horizon. The title reads “Cosmic Commander,” with the tagline “Leadership. Destiny. Beyond.” Additional text promotes an IMAX release and credits Donald J. Trump.",
       "url": "https://www.trumpstruth.org/statuses/40258",
       "raw": {
         "creator": "",
@@ -472,13 +606,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40258",
         "isoDate": "2026-07-26T19:25:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:34:31.652Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17319/09d0cd8b27dcecd5.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40266",
       "publishedAt": "2026-07-26T19:25:48.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands at a podium in a black tuxedo and bow tie, holding a microphone while adjusting a red “TRUMP 2028” baseball cap. An American flag fills the background. The podium displays “TRUMP 2028” and “MAKE AMERICA GREAT AGAIN,” with stars and red-and-blue decorative elements.",
       "url": "https://www.trumpstruth.org/statuses/40266",
       "raw": {
         "creator": "",
@@ -490,13 +628,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40266",
         "isoDate": "2026-07-26T19:25:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:34:28.863Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17327/1589f8da2fc63149.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40270",
       "publishedAt": "2026-07-26T19:31:44.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A dramatic military-themed illustration bears the large red title “STRIKE ON KHARG.” Several fighter jets fly over an offshore industrial facility or oil terminal as explosions, flames, smoke, and debris rise from the structures. Cargo ships surround the installation, while additional jets approach in the foreground. Dark storm clouds and a glowing sunset fill the background.",
       "url": "https://www.trumpstruth.org/statuses/40270",
       "raw": {
         "creator": "",
@@ -508,13 +650,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40270",
         "isoDate": "2026-07-26T19:31:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:34:25.741Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17331/1f1cfb7ed9efed67.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40269",
       "publishedAt": "2026-07-26T19:31:58.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A digitally composed image shows Donald Trump standing on the deck of an oil tanker at sea, gripping a rope beside a large American flag. A crumpled Iranian flag lies across the deck in the foreground. Bold text above reads, “It’s Our Oil Tanker Now!”",
       "url": "https://www.trumpstruth.org/statuses/40269",
       "raw": {
         "creator": "",
@@ -526,13 +672,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40269",
         "isoDate": "2026-07-26T19:31:58.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:34:22.331Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17330/5e346ac3c2361df0.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40268",
       "publishedAt": "2026-07-26T19:32:43.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is a political composite with the headline “It’s Our Oil Tanker Now!” Donald Trump stands on the deck of a vessel holding a large U.S. flag, flanked by two armed soldiers. An aircraft carrier and fighter jets appear in the background, while a crumpled Iranian flag lies across the foreground. The scene is set at sea.",
       "url": "https://www.trumpstruth.org/statuses/40268",
       "raw": {
         "creator": "",
@@ -544,13 +694,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40268",
         "isoDate": "2026-07-26T19:32:43.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:34:20.290Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17329/819e368082df9d05.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40267",
       "publishedAt": "2026-07-26T19:33:00.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A digitally composed scene carries the headline “It’s Our Oil Tanker Now!” Donald Trump stands on the deck of an Iranian-marked tanker, gripping a large pole, flanked by armed soldiers. An aircraft carrier and U.S. flags are behind him, while two men in white robes and dark head coverings leap or gesture dramatically over the ocean. Iranian flags and debris lie on the deck.",
       "url": "https://www.trumpstruth.org/statuses/40267",
       "raw": {
         "creator": "",
@@ -562,13 +716,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40267",
         "isoDate": "2026-07-26T19:33:00.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:34:17.047Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17328/6421002a1e01a4a4.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40271",
       "publishedAt": "2026-07-26T19:47:18.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image has the large headline “No More Engines” above a dramatic maritime scene. A ship marked “IRAN” and flying Iranian flags is engulfed in flames, thick black smoke, and debris as it moves through rough blue water. The scene appears to be a digitally composited or illustrated depiction of a vessel explosion.",
       "url": "https://www.trumpstruth.org/statuses/40271",
       "raw": {
         "creator": "",
@@ -580,13 +738,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40271",
         "isoDate": "2026-07-26T19:47:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:34:13.397Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17332/5e6dbd5a4fd96f65.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40276",
       "publishedAt": "2026-07-26T20:36:05.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic shows Donald Trump standing on the deck of an oil tanker at sea, holding a large American flag. A partly visible Iranian flag lies across the deck in the foreground. Bold text at the top reads, “It’s Our Oil Tanker Now!” The image combines political imagery with a maritime scene and suggests a confrontation involving the United States and Iran.",
       "url": "https://www.trumpstruth.org/statuses/40276",
       "raw": {
         "creator": "",
@@ -598,13 +760,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40276",
         "isoDate": "2026-07-26T20:36:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:34:10.826Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17337/d1724460f34933f5.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40275",
       "publishedAt": "2026-07-26T20:36:38.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image shows Donald Trump standing on the deck of an oil tanker at sunset, gripping a rope or mast beside a large American flag. A crumpled Iranian flag lies across the deck in the foreground. Large text at the top reads, “It’s Our Oil Tanker Now!” Dark clouds and rough ocean waves fill the background.",
       "url": "https://www.trumpstruth.org/statuses/40275",
       "raw": {
         "creator": "",
@@ -616,13 +782,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40275",
         "isoDate": "2026-07-26T20:36:38.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:34:07.989Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17336/a826810ba0560e25.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40274",
       "publishedAt": "2026-07-26T20:37:32.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic shows Donald Trump standing on a ship’s deck in a dark suit and red tie, raising one fist beside a uniformed soldier. A large weathered tanker marked with the Iranian flag and the word “IRAN” fills the left side, with additional vessels visible offshore. Bold text across the top reads, “This is our oil tanker now.”",
       "url": "https://www.trumpstruth.org/statuses/40274",
       "raw": {
         "creator": "",
@@ -634,13 +804,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40274",
         "isoDate": "2026-07-26T20:37:32.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:34:04.938Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17335/4bab8e0d6c5c94f5.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40273",
       "publishedAt": "2026-07-26T20:39:06.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands at the helm of a gray naval vessel, wearing a dark suit, red tie, and red cap marked “FAFO.” Several uniformed service members stand behind him, while multiple warships follow in formation through calm coastal waters. Rugged, barren hills and a partly cloudy sky surround the convoy.",
       "url": "https://www.trumpstruth.org/statuses/40273",
       "raw": {
         "creator": "",
@@ -652,13 +826,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40273",
         "isoDate": "2026-07-26T20:39:06.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:34:01.775Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17334/4cc900a756aa4685.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40272",
       "publishedAt": "2026-07-26T20:39:37.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump is shown in a close-up portrait wearing a red cap marked “TRUMP 2028,” a dark suit, white shirt, and red tie. He holds a lit cigar to his mouth, with smoke drifting across the right side of the image. The background is outdoors and softly blurred, with bright circular highlights behind him.",
       "url": "https://www.trumpstruth.org/statuses/40272",
       "raw": {
         "creator": "",
@@ -670,13 +848,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40272",
         "isoDate": "2026-07-26T20:39:37.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:33:58.416Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17333/819057298604866c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40279",
       "publishedAt": "2026-07-26T20:40:33.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A stylized political poster depicts Donald Trump in a suit and red tie alongside portraits of George Washington, Thomas Jefferson, and another powdered-wig Founding Father. A distressed American flag and dark red background fill the scene. Large text reads “AMERICA FIRST,” with the slogan “One nation. Under God. Indivisible. With liberty and justice for all.”",
       "url": "https://www.trumpstruth.org/statuses/40279",
       "raw": {
         "creator": "",
@@ -688,13 +870,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40279",
         "isoDate": "2026-07-26T20:40:33.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:33:55.306Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17340/d28e8a207b1e258f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40278",
       "publishedAt": "2026-07-26T20:41:09.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political collage presents four portraits of Donald Trump at different ages, including a young man in a dark, military-style uniform, a suited young businessman, and two older portraits. Large white text reads “THE MAN WHO SAVED AMERICA,” with “AMERICA” spanning the bottom. The images are arranged in a four-panel layout against a dark background.",
       "url": "https://www.trumpstruth.org/statuses/40278",
       "raw": {
         "creator": "",
@@ -706,13 +892,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40278",
         "isoDate": "2026-07-26T20:41:09.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:33:53.217Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17339/c59abc9e6ad73213.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40277",
       "publishedAt": "2026-07-26T20:41:33.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump is partially visible behind a tall white curtain or architectural panel at the left side of the image. He wears a dark navy suit and patterned tie, with only part of his face, torso, and hand showing. The rest of the vertical image is dominated by bright white panels and soft shadows.",
       "url": "https://www.trumpstruth.org/statuses/40277",
       "raw": {
         "creator": "",
@@ -724,13 +914,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40277",
         "isoDate": "2026-07-26T20:41:33.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:33:49.612Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17338/c8cba20e3291f025.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40283",
       "publishedAt": "2026-07-26T20:45:59.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A dramatic composite graphic titled “Guardians of the World” shows Donald Trump looming behind a formation of fighter jets, with a central aircraft labeled “U.S.A.” Explosions, smoke, burning industrial sites, and warships fill a coastal landscape below. The word “IRAN” appears over fiery scenes on both sides, alongside Iranian and American flags.",
       "url": "https://www.trumpstruth.org/statuses/40283",
       "raw": {
         "creator": "",
@@ -742,13 +936,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40283",
         "isoDate": "2026-07-26T20:45:59.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:33:46.912Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17344/2182abf2f568d969.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40282",
       "publishedAt": "2026-07-26T20:47:07.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic titled “Guardian Angels of the World” depicts several fighter jets flying over a coastal, mountainous landscape. Explosions and smoke rise from two areas labeled “IRAN,” while ships offshore display U.S. flags and nearby vessels fly Iranian flags. Large text identifies the aircraft and imagery as “U.S.A.” The scene is a dramatic military-themed composite.",
       "url": "https://www.trumpstruth.org/statuses/40282",
       "raw": {
         "creator": "",
@@ -760,13 +958,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40282",
         "isoDate": "2026-07-26T20:47:07.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:33:44.184Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17343/525dcf3aaf3bbd59.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40281",
       "publishedAt": "2026-07-26T20:48:23.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An image shows a large oil tanker marked “IRAN” sailing through rough water while engulfed in flames and thick black smoke. An Iranian flag flies from a mast near the bow. The upper portion contains large text reading “Goodbye, Engine Room.” No people are visible.",
       "url": "https://www.trumpstruth.org/statuses/40281",
       "raw": {
         "creator": "",
@@ -778,13 +980,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40281",
         "isoDate": "2026-07-26T20:48:23.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:33:41.240Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17342/4889f46d300fa7a2.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40280",
       "publishedAt": "2026-07-26T20:49:27.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic titled “Guardian of the World” depicts Donald Trump in grayscale behind a large U.S. stealth bomber marked “U.S.A.” The aircraft has American flags on its wings, while explosions, smoke, Iranian flags, and the word “IRAN” appear on both sides. Mountains, coastal terrain, and military imagery fill the background.",
       "url": "https://www.trumpstruth.org/statuses/40280",
       "raw": {
         "creator": "",
@@ -796,13 +1002,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40280",
         "isoDate": "2026-07-26T20:49:27.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:33:37.953Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17341/442232010553ebd3.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40286",
       "publishedAt": "2026-07-26T20:52:27.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The U.S. Capitol is shown at night beneath dark storm clouds, with bright lightning striking behind its dome. The illuminated building is reflected in rippling water in the foreground. Large white text at the bottom reads “PANIC IN D.C.” No people are visible.",
       "url": "https://www.trumpstruth.org/statuses/40286",
       "raw": {
         "creator": "",
@@ -814,13 +1024,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40286",
         "isoDate": "2026-07-26T20:52:27.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:33:35.834Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17347/aca73b7695d650c9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40285",
       "publishedAt": "2026-07-26T20:53:01.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump is shown seated in a dark room, wearing a suit and tie, with a serious expression. American flags are visible behind him. Large gold text across the lower center reads “PLAN TRUSTED.”",
       "url": "https://www.trumpstruth.org/statuses/40285",
       "raw": {
         "creator": "",
@@ -832,13 +1046,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40285",
         "isoDate": "2026-07-26T20:53:01.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:33:33.782Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17346/ac7ec2ef57cb3e13.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40284",
       "publishedAt": "2026-07-26T20:54:31.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A stylized patriotic image shows a bald eagle flying above rugged desert mountains, with a dark fighter jet crossing the sky behind it and a smaller aircraft farther away. A ring of stars is faintly visible overhead, surrounding the large white slogan “AMERICA IS BACK!!!” The image has a grainy, retro-inspired appearance.",
       "url": "https://www.trumpstruth.org/statuses/40284",
       "raw": {
         "creator": "",
@@ -850,13 +1068,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40284",
         "isoDate": "2026-07-26T20:54:31.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:33:31.566Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17345/4cf17c53934bdd63.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40294",
       "publishedAt": "2026-07-26T20:54:57.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is headed “Trump’s America” in large blue lettering. Several military jets fly in formation across a partly cloudy sky, leaving smoky trails. On a beach below, two people face the ocean while holding an American flag and another flag. The scene has a warm, muted, vintage-like color treatment.",
       "url": "https://www.trumpstruth.org/statuses/40294",
       "raw": {
         "creator": "",
@@ -868,13 +1090,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40294",
         "isoDate": "2026-07-26T20:54:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:33:27.883Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17355/395b44b1bc416db1.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40293",
       "publishedAt": "2026-07-26T20:55:30.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands behind a podium bearing a circular seal at a crowded indoor event, though the image is heavily out of focus. In the foreground, an attendee raises a small American flag while others hold up smartphones to record. Several people wear red campaign hats, including one with “TRUMP” visible, and flags or signs appear in the background.",
       "url": "https://www.trumpstruth.org/statuses/40293",
       "raw": {
         "creator": "",
@@ -886,13 +1112,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40293",
         "isoDate": "2026-07-26T20:55:30.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:33:24.792Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17354/571f3d93ba2cd9b0.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40292",
       "publishedAt": "2026-07-26T20:56:53.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is headed “Trump’s Cabinet” and shows Donald Trump standing in a formal White House room, pointing toward a group of officials. Several men and women in business attire face him, with U.S. flags, gold curtains, framed artwork, and white decorative paneling visible in the background. The gathering appears to be a cabinet or senior-administration meeting.",
       "url": "https://www.trumpstruth.org/statuses/40292",
       "raw": {
         "creator": "",
@@ -904,13 +1134,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40292",
         "isoDate": "2026-07-26T20:56:53.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:33:21.655Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17353/3631654b8277ee9b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40291",
       "publishedAt": "2026-07-26T20:57:49.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump and John F. Kennedy stand side by side on the White House lawn, both wearing dark suits and ties. The White House portico, trimmed hedges, trees, and several distant people are visible behind them. The image has a vintage, muted color treatment and depicts the two presidents together in a digitally composited or otherwise anachronistic scene.",
       "url": "https://www.trumpstruth.org/statuses/40291",
       "raw": {
         "creator": "",
@@ -922,13 +1156,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40291",
         "isoDate": "2026-07-26T20:57:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:33:18.215Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17352/b80209baf99bbc2f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40290",
       "publishedAt": "2026-07-26T20:58:42.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A man wearing a bright pink cap reading “Trump 2028 Save America” holds a handheld radio or phone to his face. He sits behind blue stadium seating or barriers, with people in white shirts and a decorated area visible in the background. The image appears to show a political event or rally.",
       "url": "https://www.trumpstruth.org/statuses/40290",
       "raw": {
         "creator": "",
@@ -940,13 +1178,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40290",
         "isoDate": "2026-07-26T20:58:42.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:33:14.814Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17351/905f62fd6ddbf0bc.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40289",
       "publishedAt": "2026-07-26T20:59:08.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A giant white coffee mug filled with dark coffee stands in a paved plaza, printed with “TRUMP 2028” in red and blue lettering. It is surrounded by a large crowd, including many people in matching bright green jackets and black hats with their mouths open as if chanting or singing. Additional onlookers stand behind barriers near a building.",
       "url": "https://www.trumpstruth.org/statuses/40289",
       "raw": {
         "creator": "",
@@ -958,13 +1200,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40289",
         "isoDate": "2026-07-26T20:59:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:33:11.303Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17350/ff898a0c56560ecf.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40288",
       "publishedAt": "2026-07-26T20:59:39.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands at a podium during a White House Correspondents’ Association event, wearing a tuxedo and holding a red “Trump 2024” cap. American flags and blue First Amendment-themed banners frame the stage, where four formally dressed guests sit at a long banquet table. Audience members are visible in the foreground.",
       "url": "https://www.trumpstruth.org/statuses/40288",
       "raw": {
         "creator": "",
@@ -976,13 +1222,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40288",
         "isoDate": "2026-07-26T20:59:39.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:33:07.213Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17349/3af4f7cbeca3f1ee.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40287",
       "publishedAt": "2026-07-26T21:00:31.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A comparison chart titled “Other Presidents” and “Trump” lists conflicts and their durations or deaths. Vietnam: 19 years and 58,220 dead; Korea: 3 years and 36,574 dead; Iraq: 9 years and 4,600 dead; Afghanistan: 20 years and 2,000 dead. Under Trump, it lists Iran military conflict at 4 months with no deaths and Venezuela war at 1 day with zero deaths.",
       "url": "https://www.trumpstruth.org/statuses/40287",
       "raw": {
         "creator": "",
@@ -994,13 +1244,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40287",
         "isoDate": "2026-07-26T21:00:31.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:33:01.424Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17348/8da0dd9e8febc797.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40297",
       "publishedAt": "2026-07-26T21:01:57.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A digitally rendered landscape shows a massive wall-like structure stretching across a border region between Canada and the United States. Signs read “NORTH AMERICA AIR FILTER BARRIER” and “CLEAN AIR, CLEAR BORDERS,” while smaller text references efficiency and particulate matter. Canadian and U.S. flags stand on opposite sides, with forests, roads, fields, and water below.",
       "url": "https://www.trumpstruth.org/statuses/40297",
       "raw": {
         "creator": "",
@@ -1012,13 +1266,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40297",
         "isoDate": "2026-07-26T21:01:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:32:58.466Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17358/cba088309ebe0e4b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40296",
       "publishedAt": "2026-07-26T21:04:46.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “Where is John Thune?” presents a bar chart of “Recess Appointments.” It lists President Reagan with 240 appointments, President George H. W. Bush with 77, President George W. Bush with 171, and President Donald Trump with 0. Small portraits of the four presidents appear beside their names.",
       "url": "https://www.trumpstruth.org/statuses/40296",
       "raw": {
         "creator": "",
@@ -1030,13 +1288,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40296",
         "isoDate": "2026-07-26T21:04:46.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:32:55.552Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17357/bc02eb438c81807d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40295",
       "publishedAt": "2026-07-26T21:04:57.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump is depicted in a white doctor’s coat with a stethoscope, holding a medical model of a human spine and pelvis. His coat is labeled “Dr. Trump.” A speech bubble reads, “You see this spine? This is what I want to put back in Republicans,” presenting the image as a political meme.",
       "url": "https://www.trumpstruth.org/statuses/40295",
       "raw": {
         "creator": "",
@@ -1048,13 +1310,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40295",
         "isoDate": "2026-07-26T21:04:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:32:53.113Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17356/1e54fcc7ae4897f4.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40298",
       "publishedAt": "2026-07-26T21:16:28.000Z",
       "title": "[No Title] - Post from July 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A dramatic poster depicts Donald Trump in a suit and red tie, wearing a flowing red cape and reaching down from a rocky cliff to rescue George Washington, who hangs below in 18th-century military clothing. Mount Rushmore-style presidential faces, a helicopter, lightning, and a glowing clock fill the background. Text reads “TRUMP X WASHINGTON” and “A TIME TRAVEL EPIC.”",
       "url": "https://www.trumpstruth.org/statuses/40298",
       "raw": {
         "creator": "",
@@ -1066,7 +1332,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40298",
         "isoDate": "2026-07-26T21:16:28.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:32:50.479Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17359/1da36896c90aadfa.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -1418,5 +1688,6 @@
       "rationale": "The text is empty.",
       "analyzedAt": "2026-09-05T08:02:41.695Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:58:0e7a789bb07bef4cd5862da5"
 }

@@ -6,24 +6,27 @@
     "negative": 5
   },
   "summary": "positive:9 neutral:31 negative:5",
-  "generatedAt": "2026-09-05T08:03:44.297Z",
+  "generatedAt": "2026-09-07T19:58:00.300Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Trump condemns alleged vandalism at Washington’s Reflecting Pool during event preparations",
+    "Trump supporters display a large welcome banner at UFC fights in Serbia",
+    "Shares images of a gilded equestrian monument and sculpture"
   ],
-  "trendingTopic": "Look for yourselves at the VANDALISM that took place at The Reflecting Pool",
+  "trendingTopic": "Trump condemns alleged vandalism at Washington’s Reflecting Pool during event preparations",
   "secondaryHighlights": [
     {
-      "topic": "the @ufc fights in Serbia the crowd goes wild for a sign flung open by the crowd…"
+      "topic": "Trump presses Senators Cornyn and Tillis to approve Todd Blanche as attorney general",
+      "name": "Todd Blanche"
     },
     {
-      "topic": "Great job by Chairman Rick Crawford on FoxNews interview - A total Pro!!!"
+      "topic": "Trump highlights surging U.S. oil exports as evidence of American energy dominance"
     },
     {
-      "topic": "The Triumphal Arch, prior to affixing the magnificent Statues and Artwork!"
+      "topic": "Trump-backed imagery portrays Iran’s ships and currency suffering under his policies"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 11,
+  "topicsCacheKey": "day-themes-v10:45:324dc1ed9996aad5a76a47b0",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40408",
@@ -65,7 +68,7 @@
       "id": "https://www.trumpstruth.org/statuses/40410",
       "publishedAt": "2026-08-01T16:32:41.000Z",
       "title": "I disagree 100% with Jeanine Pirro, the U.S. Attorney for the District of Columbia, on the Reflecting Pool. I don’t know what she was thinking? To me, it was a pure case of VANDALISM, that included the grass, which had a big 86 47 emblazoned in giant letters on it, and other elements of the surrounding area. There may have been some contractor difficulty, but the major damage was caused by VANDALS! President DJT",
-      "text": "<p>I disagree 100% with Jeanine Pirro, the U.S. Attorney for the District of Columbia, on the Reflecting Pool. I don’t know what she was thinking? To me, it was a pure case of VANDALISM, that included the grass, which had a big 86 47 emblazoned in giant letters on it, and other elements of the surrounding area. There may have been some contractor difficulty, but the major damage was caused by VANDALS! President DJT</p>",
+      "text": "<p>I disagree 100% with Jeanine Pirro, the U.S. Attorney for the District of Columbia, on the Reflecting Pool. I don’t know what she was thinking? To me, it was a pure case of VANDALISM, that included the grass, which had a big 86 47 emblazoned in giant letters on it, and other elements of the surrounding area. There may have been some contractor difficulty, but the major damage was caused by VANDALS! President DJT</p>\n\n[Image] An aerial view shows a large rectangular green lawn bordered by paved walkways and mature trees. Broad steps, terraces, flags, and a paved roadway appear at the far end. Temporary structures, equipment, vehicles, and stacks of materials surround the field, indicating preparations for an outdoor event. No prominent individuals are visible.",
       "url": "https://www.trumpstruth.org/statuses/40410",
       "raw": {
         "creator": "",
@@ -77,13 +80,17 @@
         "contentSnippet": "I disagree 100% with Jeanine Pirro, the U.S. Attorney for the District of Columbia, on the Reflecting Pool. I don’t know what she was thinking? To me, it was a pure case of VANDALISM, that included the grass, which had a big 86 47 emblazoned in giant letters on it, and other elements of the surrounding area. There may have been some contractor difficulty, but the major damage was caused by VANDALS! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/40410",
         "isoDate": "2026-08-01T16:32:41.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:06:07.197Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17425/53d834d57dd3520a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40415",
       "publishedAt": "2026-08-01T16:37:01.000Z",
       "title": "At the @ufc fights in Serbia the crowd goes wild for a @realDonaldTrump sign flung open by the crowd….",
-      "text": "<p>At the <span class=\"h-card\"><a href=\"https://truthsocial.com/@ufc\" class=\"u-url mention\">@<span>ufc</span></a></span> fights in Serbia the crowd goes wild for a <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span> sign flung open by the crowd….</p>",
+      "text": "<p>At the <span class=\"h-card\"><a href=\"https://truthsocial.com/@ufc\" class=\"u-url mention\">@<span>ufc</span></a></span> fights in Serbia the crowd goes wild for a <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span> sign flung open by the crowd….</p>\n\n[Image] A packed indoor sports arena is filled with spectators seated in concrete stands and lower-level chairs. A large banner reads “PRESIDENT TRUMP SERBIA WELCOMES YOU!” while the arena displays UFC and Medic vs. Rodriguez branding. Red advertising panels promote Alta Banka and its website. People are standing, talking, and moving through the aisles.",
       "url": "https://www.trumpstruth.org/statuses/40415",
       "raw": {
         "creator": "",
@@ -95,13 +102,17 @@
         "contentSnippet": "At the @ufc fights in Serbia the crowd goes wild for a @realDonaldTrump sign flung open by the crowd….",
         "guid": "https://www.trumpstruth.org/statuses/40415",
         "isoDate": "2026-08-01T16:37:01.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:06:03.305Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17428/6abcaee1fc39146c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40411",
       "publishedAt": "2026-08-01T16:49:31.000Z",
       "title": "[No Title] - Post from August 1, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117021210137447022</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117021210137447022</span></p>\n\n[Image] An aerial view shows a large rectangular grass field bordered by paved walkways and mature trees. Faint worn or recently mowed patterns cover the lawn, while temporary structures, equipment, vehicles, and stacked materials line both sides. At the far end, a broad paved area with steps, flagpoles, and scattered people is visible.",
       "url": "https://www.trumpstruth.org/statuses/40411",
       "raw": {
         "creator": "",
@@ -113,13 +124,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117021210137447022",
         "guid": "https://www.trumpstruth.org/statuses/40411",
         "isoDate": "2026-08-01T16:49:31.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:06:00.464Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17425/53d834d57dd3520a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40412",
       "publishedAt": "2026-08-01T16:51:22.000Z",
       "title": "Look for yourselves at the VANDALISM that took place at The Reflecting Pool. The material is being cut with a knife or a box cutter, for all to see!",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117021276346508609</span>Look for yourselves at the VANDALISM that took place at The Reflecting Pool. The material is being cut with a knife or a box cutter, for all to see!</p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117021276346508609</span>Look for yourselves at the VANDALISM that took place at The Reflecting Pool. The material is being cut with a knife or a box cutter, for all to see!</p>\n\n[Image] An aerial view shows a large rectangular green lawn bordered by paved walkways and mature trees. Faint worn or recently mowed patterns are visible across the grass. Event infrastructure, including portable buildings, equipment, vehicles, and stacks of materials, lines both sides. At the far end is a broad paved plaza with steps, flags, and scattered people.",
       "url": "https://www.trumpstruth.org/statuses/40412",
       "raw": {
         "creator": "",
@@ -131,7 +146,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117021276346508609Look for yourselves at the VANDALISM that took place at The Reflecting Pool. The material is being cut with a knife or a box cutter, for all to see!",
         "guid": "https://www.trumpstruth.org/statuses/40412",
         "isoDate": "2026-08-01T16:51:22.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:05:57.729Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17425/53d834d57dd3520a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40413",
@@ -155,7 +174,7 @@
       "id": "https://www.trumpstruth.org/statuses/40414",
       "publishedAt": "2026-08-01T17:20:42.000Z",
       "title": "RT @grenellAt the @ufc fights in Serbia the crowd goes wild for a @realDonaldTrump sign flung open by the crowd….",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@grenell\" class=\"u-url mention\">@<span>grenell</span></a></span>At the <span class=\"h-card\"><a href=\"https://truthsocial.com/@ufc\" class=\"u-url mention\">@<span>ufc</span></a></span> fights in Serbia the crowd goes wild for a <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span> sign flung open by the crowd….</p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@grenell\" class=\"u-url mention\">@<span>grenell</span></a></span>At the <span class=\"h-card\"><a href=\"https://truthsocial.com/@ufc\" class=\"u-url mention\">@<span>ufc</span></a></span> fights in Serbia the crowd goes wild for a <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span> sign flung open by the crowd….</p>\n\n[Image] A packed indoor arena is filled with spectators seated in blue stands and lower sections. A large banner reads “PRESIDENT TRUMP SERBIA WELCOMES YOU!” while surrounding advertisements promote an event featuring Medic vs. Rodriguez and Alta Banka. People are standing, talking, and moving through the aisles beneath the venue’s industrial roof.",
       "url": "https://www.trumpstruth.org/statuses/40414",
       "raw": {
         "creator": "",
@@ -167,13 +186,17 @@
         "contentSnippet": "RT @grenellAt the @ufc fights in Serbia the crowd goes wild for a @realDonaldTrump sign flung open by the crowd….",
         "guid": "https://www.trumpstruth.org/statuses/40414",
         "isoDate": "2026-08-01T17:20:42.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:05:54.294Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17428/6abcaee1fc39146c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40417",
       "publishedAt": "2026-08-01T17:29:33.000Z",
       "title": "[No Title] - Post from August 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A gilded equestrian statue stands on a tall stone pedestal marked with a row of stars. Construction scaffolding, caution tape, and striped barriers surround the monument. Several cyclists and a child with a small bike are gathered in the foreground near a bike-route sign, while trees, a stone balustrade, and a cloudy sky fill the background.",
       "url": "https://www.trumpstruth.org/statuses/40417",
       "raw": {
         "creator": "",
@@ -185,13 +208,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40417",
         "isoDate": "2026-08-01T17:29:33.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:05:51.470Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17430/da34d9f97d828359.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40416",
       "publishedAt": "2026-08-01T17:29:42.000Z",
       "title": "[No Title] - Post from August 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A close-up photograph shows a gilded sculptural group featuring a large rearing horse and a muscular, bearded, mostly nude male figure seated behind its neck. Another partially visible human figure lies beneath the horse, with an outstretched arm extending to the left. The metallic surface catches warm highlights against a plain gray background.",
       "url": "https://www.trumpstruth.org/statuses/40416",
       "raw": {
         "creator": "",
@@ -203,13 +230,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40416",
         "isoDate": "2026-08-01T17:29:42.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:05:48.360Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17429/e574d59bea142aa7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40419",
       "publishedAt": "2026-08-01T17:30:24.000Z",
       "title": "[No Title] - Post from August 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands at the center of a campaign-style poster wearing a dark suit and red tie, surrounded by supporters in a warmly lit rustic venue. An American flag hangs on the left, while a star-filled swirling night sky fills the background. Large text reads “TRUMP 2028” and “MAKE AMERICA GREAT AGAIN,” above a waving American flag.",
       "url": "https://www.trumpstruth.org/statuses/40419",
       "raw": {
         "creator": "",
@@ -221,13 +252,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40419",
         "isoDate": "2026-08-01T17:30:24.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:05:36.412Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17432/182326b46d732386.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40418",
       "publishedAt": "2026-08-01T17:31:08.000Z",
       "title": "[No Title] - Post from August 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A close-up view from below shows a gray twin-engine fighter jet against a clear blue sky. Multiple missiles and other equipment are mounted beneath its wings and fuselage. Both engines are firing, with bright orange afterburner flames visible in the exhaust nozzles, while parts of another aircraft or external structure appear around the edges.",
       "url": "https://www.trumpstruth.org/statuses/40418",
       "raw": {
         "creator": "",
@@ -239,7 +274,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40418",
         "isoDate": "2026-08-01T17:31:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:05:34.507Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17431/1fe631ebb770fe09.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40420",
@@ -263,7 +302,7 @@
       "id": "https://www.trumpstruth.org/statuses/40427",
       "publishedAt": "2026-08-01T18:02:03.000Z",
       "title": "[No Title] - Post from August 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A dark gray stealth fighter jet flies through a cloudy sky, viewed from below and behind. Its angular wings, twin engine exhausts, and cockpit are visible, with bright orange afterburners producing long pale trails. The aircraft’s navigation lights glow red and green, and no people or ground features are visible.",
       "url": "https://www.trumpstruth.org/statuses/40427",
       "raw": {
         "creator": "",
@@ -275,13 +314,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40427",
         "isoDate": "2026-08-01T18:02:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:05:30.794Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17439/ec18618466aae800.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40426",
       "publishedAt": "2026-08-01T18:02:28.000Z",
       "title": "[No Title] - Post from August 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A stylized, painterly portrait shows Donald Trump in profile wearing a dark blue suit and red tie. He holds and kisses a large golden crucifix, with the figure of Jesus prominently visible. A billowing American flag fills the background, while pale, textured brushwork surrounds the edges of the composition.",
       "url": "https://www.trumpstruth.org/statuses/40426",
       "raw": {
         "creator": "",
@@ -293,13 +336,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40426",
         "isoDate": "2026-08-01T18:02:28.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:05:28.711Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17438/4f122c1783be8825.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40425",
       "publishedAt": "2026-08-01T18:02:50.000Z",
       "title": "[No Title] - Post from August 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic titled “159 IRANIAN SHIPS” contrasts two scenes labeled “Obama/Biden” and “Trump.” The left panel shows numerous Iranian-flagged vessels moving across the sea. The right panel, labeled Trump, depicts Iranian-flagged ships underwater among a damaged seabed and wreckage, implying a comparison between the administrations’ responses.",
       "url": "https://www.trumpstruth.org/statuses/40425",
       "raw": {
         "creator": "",
@@ -311,13 +358,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40425",
         "isoDate": "2026-08-01T18:02:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:05:26.359Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17437/f00d09d9e8782612.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40424",
       "publishedAt": "2026-08-01T18:03:05.000Z",
       "title": "[No Title] - Post from August 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump walks across an outdoor military installation beside a gray humanoid alien in chains. He wears a dark suit and red tie and gestures while speaking, accompanied by several suited security personnel and a uniformed soldier. Military vehicles and equipment are parked behind them, with dry, rugged mountains in the background. A blurred finger partially obscures the lower-left foreground.",
       "url": "https://www.trumpstruth.org/statuses/40424",
       "raw": {
         "creator": "",
@@ -329,13 +380,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40424",
         "isoDate": "2026-08-01T18:03:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:05:23.667Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17436/bcb6361b7e7247b1.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40423",
       "publishedAt": "2026-08-01T18:03:34.000Z",
       "title": "[No Title] - Post from August 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic titled “Alfred E. Neuman” shows two side-by-side portraits. On the left is the classic illustrated Mad magazine mascot, with orange hair, large ears, freckles, and a gap-toothed grin. On the right is a close-up photograph of J.D. Vance, looking to the side with his mouth slightly open.",
       "url": "https://www.trumpstruth.org/statuses/40423",
       "raw": {
         "creator": "",
@@ -347,13 +402,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40423",
         "isoDate": "2026-08-01T18:03:34.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:05:20.740Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17435/96c68effc9b74b3f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40422",
       "publishedAt": "2026-08-01T18:04:03.000Z",
       "title": "[No Title] - Post from August 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A stylized split portrait combines George Washington’s 18th-century appearance on the left with Donald Trump’s modern appearance on the right. The figure wears colonial clothing, a dark suit, white lace, and a red tie with an American flag pin. Behind him are stars and horizontal red-and-white stripes, with the text “200 YEARS” and “IN GOD WE TRUST.”",
       "url": "https://www.trumpstruth.org/statuses/40422",
       "raw": {
         "creator": "",
@@ -365,13 +424,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40422",
         "isoDate": "2026-08-01T18:04:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:05:17.485Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17434/fae762ac4cbdaed9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40421",
       "publishedAt": "2026-08-01T18:04:19.000Z",
       "title": "[No Title] - Post from August 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A satirical composite shows Donald Trump towering behind a Greenlandic settlement, with his hands appearing to grip a rugged mountain ridge. Colorful houses, roads, rocky terrain, and snow-dusted mountains fill the foreground beneath a bright blue sky. Large dark-green text across the top reads, “Hello, Greenland!”",
       "url": "https://www.trumpstruth.org/statuses/40421",
       "raw": {
         "creator": "",
@@ -383,13 +446,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40421",
         "isoDate": "2026-08-01T18:04:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:05:14.039Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17433/a1bc1d7040a9a6f9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40429",
       "publishedAt": "2026-08-01T18:04:57.000Z",
       "title": "The Triumphal Arch, prior to affixing the magnificent Statues and Artwork!",
-      "text": "<p>The Triumphal Arch, prior to affixing the magnificent Statues and Artwork!</p>",
+      "text": "<p>The Triumphal Arch, prior to affixing the magnificent Statues and Artwork!</p>\n\n[Image] A computer-generated rendering shows a monumental white stone arch with large arched openings, ornate gold detailing, and winged statues atop the structure. The inscription “ONE NATION UNDER GOD” runs across the upper facade. Small pedestrians and cars stand at its base, with trees and a blue, cloud-filled sky behind it.",
       "url": "https://www.trumpstruth.org/statuses/40429",
       "raw": {
         "creator": "",
@@ -401,13 +468,17 @@
         "contentSnippet": "The Triumphal Arch, prior to affixing the magnificent Statues and Artwork!",
         "guid": "https://www.trumpstruth.org/statuses/40429",
         "isoDate": "2026-08-01T18:04:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:05:11.779Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17441/5bfb28320afc2ad5.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40428",
       "publishedAt": "2026-08-01T18:09:03.000Z",
       "title": "[No Title] - Post from August 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “Trump is Destroying Iran’s Currency” states that Iran is experiencing massive inflation. A blue line chart tracks the rial’s value against the U.S. dollar from January 2025 through July 2026, rising from about 0.9 million to 1.9 million rial per dollar. Red arrows highlight the increase, with Donald Trump named in the headline.",
       "url": "https://www.trumpstruth.org/statuses/40428",
       "raw": {
         "creator": "",
@@ -419,13 +490,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40428",
         "isoDate": "2026-08-01T18:09:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:05:09.041Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17440/b03c691927a8c996.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40434",
       "publishedAt": "2026-08-01T18:11:17.000Z",
       "title": "[No Title] - Post from August 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic titled “51st State” shows a map of Canada and the northern United States. A region shaped roughly like Canada’s central provinces and territories is outlined in black and filled with the American flag, suggesting it has been incorporated into the United States. The surrounding map is gray against a blue background.",
       "url": "https://www.trumpstruth.org/statuses/40434",
       "raw": {
         "creator": "",
@@ -437,13 +512,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40434",
         "isoDate": "2026-08-01T18:11:17.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:05:05.737Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17446/068c274ca2a5b79a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40433",
       "publishedAt": "2026-08-01T18:12:32.000Z",
       "title": "Because of President Donald J. Trump, Oil Exports are SURGING!",
-      "text": "<p>Because of President Donald J. Trump, Oil Exports are SURGING!</p>",
+      "text": "<p>Because of President Donald J. Trump, Oil Exports are SURGING!</p>\n\n[Image] A graphic reads “Now, the U.S. is the King of Oil!” and “Exports Surge to Historic High!” It shows a Bloomberg line chart of weekly U.S. crude exports from the early 1990s through 2026, with exports rising sharply and reaching roughly 6,000 thousand barrels per day. The source is listed as the U.S. Energy Information Administration.",
       "url": "https://www.trumpstruth.org/statuses/40433",
       "raw": {
         "creator": "",
@@ -455,13 +534,17 @@
         "contentSnippet": "Because of President Donald J. Trump, Oil Exports are SURGING!",
         "guid": "https://www.trumpstruth.org/statuses/40433",
         "isoDate": "2026-08-01T18:12:32.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:05:02.089Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17445/4f1166593cbfb574.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40432",
       "publishedAt": "2026-08-01T18:13:00.000Z",
       "title": "[No Title] - Post from August 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A bronze-toned monument depicts Abraham Lincoln standing in a long coat and bow tie, holding a folded American flag. Behind him are stars, sweeping flag drapery, and an eagle with a banner reading “E Pluribus Unum.” The pedestal identifies him as the 16th president of the United States and includes a quotation about malice, charity, and firmness.",
       "url": "https://www.trumpstruth.org/statuses/40432",
       "raw": {
         "creator": "",
@@ -473,13 +556,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40432",
         "isoDate": "2026-08-01T18:13:00.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:05:00.063Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17444/2b1f309f49c1914e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40431",
       "publishedAt": "2026-08-01T18:13:20.000Z",
       "title": "[No Title] - Post from August 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A gilded relief depicts Abraham Lincoln standing between two armed Civil War soldiers, one in a Union-style uniform and the other in a Confederate-style uniform. Draped flags, laurel branches, battlefield figures, weapons, and foliage surround the central figures. The base is engraved “THE CIVIL WAR • 1861–1865.”",
       "url": "https://www.trumpstruth.org/statuses/40431",
       "raw": {
         "creator": "",
@@ -491,13 +578,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40431",
         "isoDate": "2026-08-01T18:13:20.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:04:56.931Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17443/959bec23f76d14f6.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40430",
       "publishedAt": "2026-08-01T18:13:34.000Z",
       "title": "[No Title] - Post from August 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An illustrated historical-style battle scene depicts Donald Trump in the center wearing a Revolutionary War-era military uniform and standing among armed soldiers. Several figures hold muskets and bayonets as smoke, sparks, and flames fill the background. A large American flag waves on the right, while the surrounding troops wear colonial clothing and tricorn hats.",
       "url": "https://www.trumpstruth.org/statuses/40430",
       "raw": {
         "creator": "",
@@ -509,13 +600,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40430",
         "isoDate": "2026-08-01T18:13:34.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:04:54.708Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17442/ef2450e3740b7d41.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40436",
       "publishedAt": "2026-08-01T18:19:34.000Z",
       "title": "[No Title] - Post from August 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image has a caption reading “Same Guy. Even more energy now!” It shows Donald Trump in a dark suit and red tie seated at a wooden table, resting his chin on his hands and looking toward a young man in a formal military-style uniform with a sash, medals, and decorative shoulder cords. A brown draped backdrop fills the scene.",
       "url": "https://www.trumpstruth.org/statuses/40436",
       "raw": {
         "creator": "",
@@ -527,13 +622,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40436",
         "isoDate": "2026-08-01T18:19:34.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:04:51.878Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17448/32e4da724d309bbd.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40435",
       "publishedAt": "2026-08-01T18:19:44.000Z",
       "title": "[No Title] - Post from August 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump standing beside a golf cart outdoors. He is wearing a blue suit, white shirt, and no tie, while holding a white McDonald’s bag. Another golf cart partially frames him on both sides, with trees and a building in the background. Text at the top reads, “President Trump ages in reverse!”",
       "url": "https://www.trumpstruth.org/statuses/40435",
       "raw": {
         "creator": "",
@@ -545,13 +644,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40435",
         "isoDate": "2026-08-01T18:19:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:04:48.978Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17447/f761073736549b5e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40439",
       "publishedAt": "2026-08-01T18:27:57.000Z",
       "title": "President Trump is fixing our wonderful White House, just like he is fixing our Country!",
-      "text": "<p>President Trump is fixing our wonderful White House, just like he is fixing our Country!</p>",
+      "text": "<p>President Trump is fixing our wonderful White House, just like he is fixing our Country!</p>\n\n[Image] A meme-style image bears the headline “It’s in His DNA.” Donald Trump, seen from behind in a dark suit, reaches toward a large white architectural column outside a building. Several suited security personnel stand nearby, including one beside an open black vehicle and another positioned at the right.",
       "url": "https://www.trumpstruth.org/statuses/40439",
       "raw": {
         "creator": "",
@@ -563,13 +666,17 @@
         "contentSnippet": "President Trump is fixing our wonderful White House, just like he is fixing our Country!",
         "guid": "https://www.trumpstruth.org/statuses/40439",
         "isoDate": "2026-08-01T18:27:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:04:45.853Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17451/cc82b19462287803.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40438",
       "publishedAt": "2026-08-01T18:28:09.000Z",
       "title": "[No Title] - Post from August 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image shows Donald Trump walking through an indoor setting in a dark suit, white shirt, and bright yellow tie. Security personnel, a police officer, and several people stand behind metal crowd-control barriers. Large text at the top reads “Only Trump.”",
       "url": "https://www.trumpstruth.org/statuses/40438",
       "raw": {
         "creator": "",
@@ -581,13 +688,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40438",
         "isoDate": "2026-08-01T18:28:09.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:04:43.194Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17450/6c5109372d066859.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40437",
       "publishedAt": "2026-08-01T18:28:22.000Z",
       "title": "[No Title] - Post from August 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is a close-up portrait labeled “What Happened to Bruce Springsteen?” It shows Bruce Springsteen with short gray hair, deeply lined and sun-weathered skin, facial discoloration, hoop earrings, and a partly open shirt with a chain necklace. Several people and bright outdoor scenery are visible behind him.",
       "url": "https://www.trumpstruth.org/statuses/40437",
       "raw": {
         "creator": "",
@@ -599,13 +710,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40437",
         "isoDate": "2026-08-01T18:28:22.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:04:40.898Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17449/306f914c7afd8331.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40448",
       "publishedAt": "2026-08-01T18:31:39.000Z",
       "title": "RT @realDonaldTrumpI disagree 100% with Jeanine Pirro, the U.S. Attorney for the District of Columbia, on the Reflecting Pool. I don’t know what she was thinking? To me, it was a pure case of VANDALISM, that included the grass, which had a big 86 47 emblazoned in giant letters on it, and other elements of the surrounding area. There may have been some contractor difficulty, but the major damage was caused by VANDALS! President DJT",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>I disagree 100% with Jeanine Pirro, the U.S. Attorney for the District of Columbia, on the Reflecting Pool. I don’t know what she was thinking? To me, it was a pure case of VANDALISM, that included the grass, which had a big 86 47 emblazoned in giant letters on it, and other elements of the surrounding area. There may have been some contractor difficulty, but the major damage was caused by VANDALS! President DJT</p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>I disagree 100% with Jeanine Pirro, the U.S. Attorney for the District of Columbia, on the Reflecting Pool. I don’t know what she was thinking? To me, it was a pure case of VANDALISM, that included the grass, which had a big 86 47 emblazoned in giant letters on it, and other elements of the surrounding area. There may have been some contractor difficulty, but the major damage was caused by VANDALS! President DJT</p>\n\n[Image] An aerial view shows a large rectangular grass field bordered by paved walkways and mature trees. The lawn has patchy, worn areas and faint rectangular markings. Temporary structures, equipment, vehicles, and stacks of materials line both sides, while a road, steps, flagpoles, and a monument or plaza are visible at the far end.",
       "url": "https://www.trumpstruth.org/statuses/40448",
       "raw": {
         "creator": "",
@@ -617,13 +732,17 @@
         "contentSnippet": "RT @realDonaldTrumpI disagree 100% with Jeanine Pirro, the U.S. Attorney for the District of Columbia, on the Reflecting Pool. I don’t know what she was thinking? To me, it was a pure case of VANDALISM, that included the grass, which had a big 86 47 emblazoned in giant letters on it, and other elements of the surrounding area. There may have been some contractor difficulty, but the major damage was caused by VANDALS! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/40448",
         "isoDate": "2026-08-01T18:31:39.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:04:37.776Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17425/53d834d57dd3520a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40447",
       "publishedAt": "2026-08-01T18:31:42.000Z",
       "title": "RT @realDonaldTrump",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span></p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span></p>\n\n[Image] An aerial view shows a large rectangular grass field with visible patchy or recently treated areas, bordered by concrete walkways. Trees and landscaped grounds surround it, while a road and a stepped memorial or plaza appear at the far end. Event equipment, trailers, vehicles, temporary structures, and scattered workers are positioned along both sides of the field.",
       "url": "https://www.trumpstruth.org/statuses/40447",
       "raw": {
         "creator": "",
@@ -635,13 +754,17 @@
         "contentSnippet": "RT @realDonaldTrump",
         "guid": "https://www.trumpstruth.org/statuses/40447",
         "isoDate": "2026-08-01T18:31:42.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:04:34.846Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17425/53d834d57dd3520a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40446",
       "publishedAt": "2026-08-01T18:31:45.000Z",
       "title": "RT @realDonaldTrumpLook for yourselves at the VANDALISM that took place at The Reflecting Pool. The material is being cut with a knife or a box cutter, for all to see!",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>Look for yourselves at the VANDALISM that took place at The Reflecting Pool. The material is being cut with a knife or a box cutter, for all to see!</p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>Look for yourselves at the VANDALISM that took place at The Reflecting Pool. The material is being cut with a knife or a box cutter, for all to see!</p>\n\n[Image] An aerial view shows a large rectangular lawn with patchy, worn grass, bordered by paved walkways and mature trees. Temporary event structures, equipment, vehicles, and stacks of materials line both sides of the field. A roadway, flagpoles, broad steps, and a formal landscaped area are visible beyond the far edge. No people are clearly identifiable.",
       "url": "https://www.trumpstruth.org/statuses/40446",
       "raw": {
         "creator": "",
@@ -653,7 +776,11 @@
         "contentSnippet": "RT @realDonaldTrumpLook for yourselves at the VANDALISM that took place at The Reflecting Pool. The material is being cut with a knife or a box cutter, for all to see!",
         "guid": "https://www.trumpstruth.org/statuses/40446",
         "isoDate": "2026-08-01T18:31:45.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:04:28.176Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17425/53d834d57dd3520a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40445",
@@ -677,7 +804,7 @@
       "id": "https://www.trumpstruth.org/statuses/40444",
       "publishedAt": "2026-08-01T18:32:08.000Z",
       "title": "RT @realDonaldTrumpThe Triumphal Arch, prior to affixing the magnificent Statues and Artwork!",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>The Triumphal Arch, prior to affixing the magnificent Statues and Artwork!</p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>The Triumphal Arch, prior to affixing the magnificent Statues and Artwork!</p>\n\n[Image] A computer-generated architectural rendering shows a monumental white triumphal arch with classical columns, recessed arches, gold ornamentation, and a winged statue holding a torch atop the structure. The words “ONE NATION UNDER GOD” appear along the upper facade. Small pedestrians and cars are visible below, surrounded by trees under a partly cloudy blue sky.",
       "url": "https://www.trumpstruth.org/statuses/40444",
       "raw": {
         "creator": "",
@@ -689,13 +816,17 @@
         "contentSnippet": "RT @realDonaldTrumpThe Triumphal Arch, prior to affixing the magnificent Statues and Artwork!",
         "guid": "https://www.trumpstruth.org/statuses/40444",
         "isoDate": "2026-08-01T18:32:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:04:24.570Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17441/5bfb28320afc2ad5.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40443",
       "publishedAt": "2026-08-01T18:32:14.000Z",
       "title": "RT @realDonaldTrumpBecause of President Donald J. Trump, Oil Exports are SURGING!",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>Because of President Donald J. Trump, Oil Exports are SURGING!</p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>Because of President Donald J. Trump, Oil Exports are SURGING!</p>\n\n[Image] An infographic proclaims, “Now, the U.S. is the King of Oil!” and “Exports Surge to Historic High!” A Bloomberg line chart shows weekly U.S. crude oil exports from the early 1990s through 2026, remaining low until the mid-2010s before rising sharply, with a final spike above 6,000 thousand barrels per day. Source: U.S. Energy Information Administration.",
       "url": "https://www.trumpstruth.org/statuses/40443",
       "raw": {
         "creator": "",
@@ -707,13 +838,17 @@
         "contentSnippet": "RT @realDonaldTrumpBecause of President Donald J. Trump, Oil Exports are SURGING!",
         "guid": "https://www.trumpstruth.org/statuses/40443",
         "isoDate": "2026-08-01T18:32:14.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:04:20.724Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17445/4f1166593cbfb574.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40442",
       "publishedAt": "2026-08-01T18:32:35.000Z",
       "title": "RT @realDonaldTrumpPresident Trump is fixing our wonderful White House, just like he is fixing our Country!",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>President Trump is fixing our wonderful White House, just like he is fixing our Country!</p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>President Trump is fixing our wonderful White House, just like he is fixing our Country!</p>\n\n[Image] The image shows Donald Trump in a dark suit reaching toward a large white architectural column outside a building. Several men in suits and security personnel stand nearby, with a black vehicle visible at left. Bold black text across the top reads, “It’s in His DNA.”",
       "url": "https://www.trumpstruth.org/statuses/40442",
       "raw": {
         "creator": "",
@@ -725,13 +860,17 @@
         "contentSnippet": "RT @realDonaldTrumpPresident Trump is fixing our wonderful White House, just like he is fixing our Country!",
         "guid": "https://www.trumpstruth.org/statuses/40442",
         "isoDate": "2026-08-01T18:32:35.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:04:17.455Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17451/cc82b19462287803.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40441",
       "publishedAt": "2026-08-01T18:32:51.000Z",
       "title": "RT @grenellAt the @ufc fights in Serbia the crowd goes wild for a @realDonaldTrump sign flung open by the crowd….",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@grenell\" class=\"u-url mention\">@<span>grenell</span></a></span>At the <span class=\"h-card\"><a href=\"https://truthsocial.com/@ufc\" class=\"u-url mention\">@<span>ufc</span></a></span> fights in Serbia the crowd goes wild for a <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span> sign flung open by the crowd….</p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@grenell\" class=\"u-url mention\">@<span>grenell</span></a></span>At the <span class=\"h-card\"><a href=\"https://truthsocial.com/@ufc\" class=\"u-url mention\">@<span>ufc</span></a></span> fights in Serbia the crowd goes wild for a <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span> sign flung open by the crowd….</p>\n\n[Image] A packed indoor sports arena is filled with spectators seated in several tiers and along the floor. A large upper-level banner reads “PRESIDENT TRUMP SERBIA WELCOMES YOU!” Other advertising displays promote Altan Banka and a UFC matchup between Medic and Rodriguez. Blue railings, industrial roof beams, lighting, and media or event staff are visible throughout the venue.",
       "url": "https://www.trumpstruth.org/statuses/40441",
       "raw": {
         "creator": "",
@@ -743,7 +882,11 @@
         "contentSnippet": "RT @grenellAt the @ufc fights in Serbia the crowd goes wild for a @realDonaldTrump sign flung open by the crowd….",
         "guid": "https://www.trumpstruth.org/statuses/40441",
         "isoDate": "2026-08-01T18:32:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:04:14.552Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17428/6abcaee1fc39146c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40440",
@@ -767,7 +910,7 @@
       "id": "https://www.trumpstruth.org/statuses/40449",
       "publishedAt": "2026-08-01T18:45:09.000Z",
       "title": "[No Title] - Post from August 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump is shown in a close-up portrait standing beside a microphone. He wears a white, open-front, heavily jeweled jumpsuit styled after an Elvis Presley stage costume, with an eagle design and colorful rhinestone decorations across the chest and sleeves. His blond hair is swept back, and he faces the camera with a serious expression against a dark stage-like background.",
       "url": "https://www.trumpstruth.org/statuses/40449",
       "raw": {
         "creator": "",
@@ -779,13 +922,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40449",
         "isoDate": "2026-08-01T18:45:09.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:04:10.804Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17452/10c0ea63f2503047.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40450",
       "publishedAt": "2026-08-01T19:42:54.000Z",
       "title": "[No Title] - Post from August 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A Topps trading-card image shows two commemorative UFC Freedom 250 cards displayed side by side. The left card features Donald Trump in a suit with a blue autograph and the name “Donald J. Trump,” while the right card features Dana White with a blue autograph. Both cards have red, white, and blue star-spangled designs and a large USA 250 event-worn patch emblem.",
       "url": "https://www.trumpstruth.org/statuses/40450",
       "raw": {
         "creator": "",
@@ -797,7 +944,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40450",
         "isoDate": "2026-08-01T19:42:54.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:04:08.061Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17453/7745c2ed8e3a0f40.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40452",
@@ -1107,5 +1258,6 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T07:23:30.586Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:45:324dc1ed9996aad5a76a47b0"
 }

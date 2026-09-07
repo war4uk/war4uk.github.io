@@ -6,20 +6,24 @@
     "negative": 0
   },
   "summary": "positive:4 neutral:17 negative:0",
-  "generatedAt": "2026-09-05T19:56:22.001Z",
+  "generatedAt": "2026-09-07T19:53:05.081Z",
   "topics": [
-    "Ilham Aliyev praises Trump for peace efforts",
-    "Trump announces defense investments in Pennsylvania"
+    "Announces nearly $10 billion in Pennsylvania defense industrial base investments",
+    "Promotes the Freedom 250 Grand Prix",
+    "Azerbaijani President Ilham Aliyev credits Trump with Armenia-Azerbaijan peace deal"
   ],
-  "trendingTopic": "Ilham Aliyev credits Trump for Armenia-Azerbaijan peace deal",
-  "trendingName": "Ilham Aliyev",
+  "trendingTopic": "Announces nearly $10 billion in Pennsylvania defense industrial base investments",
   "secondaryHighlights": [
     {
-      "topic": "Trump reveals nearly $10 billion in defense investments"
+      "topic": "Promotes the Freedom 250 Grand Prix"
+    },
+    {
+      "topic": "Azerbaijani President Ilham Aliyev credits Trump with Armenia-Azerbaijan peace deal",
+      "name": "Ilham Aliyev"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v3:21:836d4dd56c0acd4391784c21",
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:21:836d4dd56c0acd4391784c21",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40069",
@@ -313,7 +317,7 @@
       "id": "https://www.trumpstruth.org/statuses/40085",
       "publishedAt": "2026-07-16T05:05:17.000Z",
       "title": "[No Title] - Post from July 16, 2026",
-      "text": "<p><a href=\"https://www.breitbart.com/politics/2026/07/15/trump-announces-nearly-10-billion-in-defense-industrial-base-investments-in-pennsylvania-at-mccormicks-summit/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/07</span><span class=\"invisible\">/15/trump-announces-nearly-10-billion-in-defense-industrial-base-investments-in-pennsylvania-at-mccormicks-summit/</span></a></p>",
+      "text": "<p><a href=\"https://www.breitbart.com/politics/2026/07/15/trump-announces-nearly-10-billion-in-defense-industrial-base-investments-in-pennsylvania-at-mccormicks-summit/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/07</span><span class=\"invisible\">/15/trump-announces-nearly-10-billion-in-defense-industrial-base-investments-in-pennsylvania-at-mccormicks-summit/</span></a></p>\n\n[Image] A news-style graphic features Donald Trump speaking at a podium, wearing a dark suit, white shirt, and red tie, with one hand raised. Behind him is a blue Pennsylvania Defense & Innovation Summit backdrop and a small American flag. Large headline text states that Trump announced nearly $10 billion in defense industrial base investments in Pennsylvania at McCormick’s summit. AP Photo credit appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/40085",
       "raw": {
         "creator": "",
@@ -325,13 +329,17 @@
         "contentSnippet": "https://www.breitbart.com/politics/2026/07/15/trump-announces-nearly-10-billion-in-defense-industrial-base-investments-in-pennsylvania-at-mccormicks-summit/",
         "guid": "https://www.trumpstruth.org/statuses/40085",
         "isoDate": "2026-07-16T05:05:17.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:29:22.554Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17210/b9bb13b2abd48e99.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40084",
       "publishedAt": "2026-07-16T05:06:24.000Z",
       "title": "[No Title] - Post from July 16, 2026",
-      "text": "<p><a href=\"https://www.breitbart.com/politics/2026/07/15/exclusive-azerbaijani-president-ilham-aliyev-lauds-trump-as-man-peace-credits-him-armenia-azerbaijan-deal/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/07</span><span class=\"invisible\">/15/exclusive-azerbaijani-president-ilham-aliyev-lauds-trump-as-man-peace-credits-him-armenia-azerbaijan-deal/</span></a></p>",
+      "text": "<p><a href=\"https://www.breitbart.com/politics/2026/07/15/exclusive-azerbaijani-president-ilham-aliyev-lauds-trump-as-man-peace-credits-him-armenia-azerbaijan-deal/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/07</span><span class=\"invisible\">/15/exclusive-azerbaijani-president-ilham-aliyev-lauds-trump-as-man-peace-credits-him-armenia-azerbaijan-deal/</span></a></p>\n\n[Image] A graphic headline reads, “Exclusive: Azerbaijani President Ilham Aliyev lauds Trump as ‘a man of peace,’ credits him with Armenia-Azerbaijan deal.” Below, Ilham Aliyev, Donald Trump, and Armenian Prime Minister Nikol Pashinyan sit behind a conference table and join hands. U.S. and military flags are displayed behind them. The image is credited to White House photographer Daniel Torok.",
       "url": "https://www.trumpstruth.org/statuses/40084",
       "raw": {
         "creator": "",
@@ -343,7 +351,11 @@
         "contentSnippet": "https://www.breitbart.com/politics/2026/07/15/exclusive-azerbaijani-president-ilham-aliyev-lauds-trump-as-man-peace-credits-him-armenia-azerbaijan-deal/",
         "guid": "https://www.trumpstruth.org/statuses/40084",
         "isoDate": "2026-07-16T05:06:24.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:29:18.892Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17209/84d6ffd0e0280446.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40087",
@@ -527,5 +539,6 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:00:39.965Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:21:836d4dd56c0acd4391784c21"
 }

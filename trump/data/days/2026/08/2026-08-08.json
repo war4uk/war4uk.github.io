@@ -6,32 +6,33 @@
     "negative": 2
   },
   "summary": "positive:5 neutral:21 negative:2",
-  "generatedAt": "2026-09-05T08:04:09.761Z",
+  "generatedAt": "2026-09-07T20:00:04.166Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Promotes Trump 2028 campaign imagery",
+    "Showcases a droneport military asset atop the White House ballroom",
+    "Highlights vandalism in shared images"
   ],
-  "trendingTopic": "Eric Schmitt is a STAR!!!",
-  "trendingName": "Eric Schmitt",
+  "trendingTopic": "Donald Trump promotes a 2028 campaign with new rally and presidential imagery",
   "secondaryHighlights": [
     {
-      "topic": "MIKE DAVIS: Chuck Grassley's behind-the-scenes work proved decisive in Todd Blanche confirmation fight",
-      "name": "Chuck Grassley"
+      "topic": "Todd Blanche confirmation fight draws Lisa Murkowski opposition and Chuck Grassley support",
+      "name": "Todd Blanche"
     },
     {
-      "topic": "Donald Trump Won The Iran War"
+      "topic": "Reports new evidence challenging claims about 2020 election security"
     },
     {
-      "topic": "New evidence further undermines claim that 2020 election was ‘most secure’ in history"
+      "topic": "Shares reports of a White House ballroom droneport packed with military aircraft"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 8,
+  "topicsCacheKey": "day-themes-v10:28:1a223f737913d031f27da5eb",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40641",
       "publishedAt": "2026-08-08T01:39:57.000Z",
       "title": "[No Title] - Post from August 8, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A painting depicts Donald Trump seated at a large wooden desk, wearing a blue suit and patterned tie while writing on a document. American flags, framed photographs, decorative objects, and a map marked “Gulf” fill the office behind him. A telephone and additional papers sit on the desk.",
       "url": "https://www.trumpstruth.org/statuses/40641",
       "raw": {
         "creator": "",
@@ -43,13 +44,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40641",
         "isoDate": "2026-08-08T01:39:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:11:39.220Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17558/d5878d93e342b93e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40640",
       "publishedAt": "2026-08-08T01:40:04.000Z",
       "title": "[No Title] - Post from August 8, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A satirical medical-office scene shows Donald Trump dressed as a doctor, wearing a stethoscope and holding a clipboard labeled “Trump Derangement Syndrome Assessment,” with exaggerated results including “massive TDS.” Rosie O’Donnell sits beside him in a hospital gown, looking distressed and holding her head. Medical equipment and a wall-mounted chart appear in the background.",
       "url": "https://www.trumpstruth.org/statuses/40640",
       "raw": {
         "creator": "",
@@ -61,13 +66,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40640",
         "isoDate": "2026-08-08T01:40:04.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:11:36.876Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17557/3e26f7b4be0a98dc.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40645",
       "publishedAt": "2026-08-08T01:40:16.000Z",
       "title": "[No Title] - Post from August 8, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A digitally edited image shows a gilded equestrian statue on a large stone pedestal, set against dark, dramatic clouds and trees. White Gothic-style text reading “Only Trump” spans the sky above the statue, surrounded by a ring of dark stars. The monument stands behind a balustrade, with decorative stars and blank panels visible on its base.",
       "url": "https://www.trumpstruth.org/statuses/40645",
       "raw": {
         "creator": "",
@@ -79,13 +88,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40645",
         "isoDate": "2026-08-08T01:40:16.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:11:33.529Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17561/6f964b7c8423fc4c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40644",
       "publishedAt": "2026-08-08T01:40:27.000Z",
       "title": "[No Title] - Post from August 8, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A stylized military-themed image shows Donald Trump in the center wearing an elaborately decorated U.S. Army-style uniform. He is flanked by figures modeled after generals George S. Patton, in a helmet, and Douglas MacArthur, wearing a peaked cap and smoking a pipe. Tanks, burning buildings, and heavy smoke fill the battlefield background, while text above reads “Patton, Trump, MacArthur.”",
       "url": "https://www.trumpstruth.org/statuses/40644",
       "raw": {
         "creator": "",
@@ -97,13 +110,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40644",
         "isoDate": "2026-08-08T01:40:27.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:11:30.673Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17560/7b7204848439ba1d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40643",
       "publishedAt": "2026-08-08T01:41:04.000Z",
       "title": "Just kidding!",
-      "text": "<p>Just kidding!</p>",
+      "text": "<p>Just kidding!</p>\n\n[Image] A stylized campaign poster depicts Donald Trump standing in a blue suit and red tie before a cheering crowd gathered at a warmly lit Western-style venue. The background features a swirling, star-filled night sky, while signs read “MAGA 2028.” Large text says “TRUMP 2028” and “MAKE AMERICA GREAT AGAIN,” above an American flag graphic.",
       "url": "https://www.trumpstruth.org/statuses/40643",
       "raw": {
         "creator": "",
@@ -115,7 +132,11 @@
         "contentSnippet": "Just kidding!",
         "guid": "https://www.trumpstruth.org/statuses/40643",
         "isoDate": "2026-08-08T01:41:04.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:11:27.568Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17559/cb7c3874824af96d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40642",
@@ -139,7 +160,7 @@
       "id": "https://www.trumpstruth.org/statuses/40646",
       "publishedAt": "2026-08-08T02:04:28.000Z",
       "title": "This great and very important military asset sits atop the heavily protected Ballroom at the White House. It provides National Security for Washington, D.C., and will protect future Presidents!!! President DJT",
-      "text": "<p>This great and very important military asset sits atop the heavily protected Ballroom at the White House. It provides National Security for Washington, D.C., and will protect future Presidents!!! President DJT</p>",
+      "text": "<p>This great and very important military asset sits atop the heavily protected Ballroom at the White House. It provides National Security for Washington, D.C., and will protect future Presidents!!! President DJT</p>\n\n[Image] An image labeled “DronePort” shows a rooftop or elevated military facility covered with numerous unmanned aircraft, including several large gray drones and smaller models. Soldiers in camouflage stand among the aircraft. An inset graphic of the White House labeled “The White House Washington” appears at upper left, with a cityscape visible in the background.",
       "url": "https://www.trumpstruth.org/statuses/40646",
       "raw": {
         "creator": "",
@@ -151,13 +172,17 @@
         "contentSnippet": "This great and very important military asset sits atop the heavily protected Ballroom at the White House. It provides National Security for Washington, D.C., and will protect future Presidents!!! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/40646",
         "isoDate": "2026-08-08T02:04:28.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:11:24.187Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17562/b0e139c20d72c7b4.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40650",
       "publishedAt": "2026-08-08T02:15:25.000Z",
       "title": "[No Title] - Post from August 8, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An image labeled “DronePort” shows a rooftop crowded with military-style drones, soldiers, and several fuel or transport trucks. The White House emblem and text appear in the upper left, while the Washington Monument and other Washington, D.C., buildings are visible in the background under a hazy sunset sky.",
       "url": "https://www.trumpstruth.org/statuses/40650",
       "raw": {
         "creator": "",
@@ -169,13 +194,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40650",
         "isoDate": "2026-08-08T02:15:25.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:11:21.313Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17566/897f09f7d1e2c6ad.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40649",
       "publishedAt": "2026-08-08T02:15:36.000Z",
       "title": "[No Title] - Post from August 8, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is labeled “Vandalism” in large black text at the top. Below it, white spray-painted graffiti marks, including a right-pointing arrow and the letters “RIP,” appear on a weathered concrete curb or retaining wall. The lower portion shows dark asphalt with scattered white paint flecks and a small red object at the left edge.",
       "url": "https://www.trumpstruth.org/statuses/40649",
       "raw": {
         "creator": "",
@@ -187,13 +216,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40649",
         "isoDate": "2026-08-08T02:15:36.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:11:18.325Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17565/3a10866f0fef2ec8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40648",
       "publishedAt": "2026-08-08T02:15:49.000Z",
       "title": "[No Title] - Post from August 8, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is headed by the word “Vandalism” in large red, underlined letters. Below it is a close-up of a weathered concrete or stone surface above a damaged ledge, curb, or pavement edge. The lower portion shows dark asphalt with small light-colored markings or debris. No people are visible.",
       "url": "https://www.trumpstruth.org/statuses/40648",
       "raw": {
         "creator": "",
@@ -205,13 +238,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40648",
         "isoDate": "2026-08-08T02:15:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:11:15.465Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17564/47f71ccdd797fdb9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40647",
       "publishedAt": "2026-08-08T02:16:26.000Z",
       "title": "[No Title] - Post from August 8, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A meme image shows Joe Biden on a golf course, bent over in a blue cap, white polo shirt, dark shorts, and white shoes while swinging a club. The club is striking the grass and sending up a dark clump of turf. Large text across the top reads, “Biden isn’t even a 100 Handicap.”",
       "url": "https://www.trumpstruth.org/statuses/40647",
       "raw": {
         "creator": "",
@@ -223,13 +260,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40647",
         "isoDate": "2026-08-08T02:16:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:11:12.892Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17563/ebd29330efe86f64.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40651",
       "publishedAt": "2026-08-08T02:24:07.000Z",
       "title": "[No Title] - Post from August 8, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands at a podium labeled “TRUMP 2028” and “Make America Great Again,” wearing a black tuxedo and adjusting a red Trump 2028 baseball cap near a microphone. An American flag fills the background, while red, white, and blue stars and lettering decorate the podium.",
       "url": "https://www.trumpstruth.org/statuses/40651",
       "raw": {
         "creator": "",
@@ -241,7 +282,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40651",
         "isoDate": "2026-08-08T02:24:07.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:11:09.515Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17567/ab60e5c988c5f62b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40653",
@@ -265,7 +310,7 @@
       "id": "https://www.trumpstruth.org/statuses/40652",
       "publishedAt": "2026-08-08T02:53:58.000Z",
       "title": "[No Title] - Post from August 8, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117057626226861348</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117057626226861348</span></p>\n\n[Image] A social media post by Benny Johnson, whose profile picture appears at the top, quotes Stephen Miller discussing the Republican Party. The text praises Donald Trump for rebuilding the party, attracting working- and middle-class voters, and helping Republicans win Senate majorities. The post headline calls the GOP “the Party of Trump” and ends with “Well said @StephenM.”",
       "url": "https://www.trumpstruth.org/statuses/40652",
       "raw": {
         "creator": "",
@@ -277,7 +322,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117057626226861348",
         "guid": "https://www.trumpstruth.org/statuses/40652",
         "isoDate": "2026-08-08T02:53:58.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:11:07.630Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17568/9b46d37cef0e9b5d.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40657",
@@ -301,7 +350,7 @@
       "id": "https://www.trumpstruth.org/statuses/40656",
       "publishedAt": "2026-08-08T11:09:08.000Z",
       "title": "[No Title] - Post from August 8, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A split image labeled “Obama” and “Trump” compares two monumental statues. On the left, a dark stone sculpture shows a winged figure beside a rearing horse on a star-decorated pedestal under a cloudy sky. On the right, a gleaming gold statue associated with Donald Trump shows a rider on horseback above a similar star-adorned base.",
       "url": "https://www.trumpstruth.org/statuses/40656",
       "raw": {
         "creator": "",
@@ -313,13 +362,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40656",
         "isoDate": "2026-08-08T11:09:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:11:04.305Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17572/03c7b42eaee5b6c3.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40655",
       "publishedAt": "2026-08-08T11:09:39.000Z",
       "title": "[No Title] - Post from August 8, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A historical painting depicts the construction of the President’s House in 1792, now the White House. Architect James Hoban and President George Washington stand in the foreground reviewing plans and gesturing toward the partially built neoclassical structure, which is surrounded by scaffolding. Workers, carts, horses, and other onlookers occupy the surrounding construction site.",
       "url": "https://www.trumpstruth.org/statuses/40655",
       "raw": {
         "creator": "",
@@ -331,13 +384,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40655",
         "isoDate": "2026-08-08T11:09:39.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:10:59.676Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17571/1d599ebcdf242f90.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40654",
       "publishedAt": "2026-08-08T11:09:47.000Z",
       "title": "[No Title] - Post from August 8, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump and Melania Trump stand holding hands on a red carpet. Donald Trump wears a black tuxedo with a bow tie, while Melania Trump wears a long black sleeveless dress. They pose before a backdrop featuring CBS logos and Kennedy Center Honors branding.",
       "url": "https://www.trumpstruth.org/statuses/40654",
       "raw": {
         "creator": "",
@@ -349,13 +406,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40654",
         "isoDate": "2026-08-08T11:09:47.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:10:55.928Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17570/10b6d32ff3c6c00d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40660",
       "publishedAt": "2026-08-08T11:09:54.000Z",
       "title": "RT @realDonaldTrump",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span></p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span></p>\n\n[Image] A social media post by Benny Johnson quotes Stephen Miller praising Donald Trump’s role in rebuilding the Republican Party. The post calls Trump the leader of a working- and middle-class party, says he “pulverized” the Democratic blue wall, and credits his state victories with helping Republicans gain Senate majorities. It ends with “Well said @StephenM.”",
       "url": "https://www.trumpstruth.org/statuses/40660",
       "raw": {
         "creator": "",
@@ -367,7 +428,11 @@
         "contentSnippet": "RT @realDonaldTrump",
         "guid": "https://www.trumpstruth.org/statuses/40660",
         "isoDate": "2026-08-08T11:09:54.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:10:53.671Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17568/9b46d37cef0e9b5d.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40659",
@@ -391,7 +456,7 @@
       "id": "https://www.trumpstruth.org/statuses/40658",
       "publishedAt": "2026-08-08T11:10:14.000Z",
       "title": "[No Title] - Post from August 8, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117059577812036128</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117059577812036128</span></p>\n\n[Image] A screenshot of a post by C3 states that Lisa Murkowski will not vote for Todd Blanche, despite voting for Merrick Garland. The post claims Blanche would weaponize the Justice Department and calls it too political, while accusing Garland of approving the raid on Donald Trump’s home. It ends by calling Murkowski “owned” and a “traitor.”",
       "url": "https://www.trumpstruth.org/statuses/40658",
       "raw": {
         "creator": "",
@@ -403,7 +468,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117059577812036128",
         "guid": "https://www.trumpstruth.org/statuses/40658",
         "isoDate": "2026-08-08T11:10:14.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:10:50.423Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17574/efa0f66eedf3d7d5.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40667",
@@ -701,5 +770,6 @@
       "rationale": "The text is informational about a piece without expressing a sentiment.",
       "analyzedAt": "2026-09-05T07:47:02.991Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:28:1a223f737913d031f27da5eb"
 }

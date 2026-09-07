@@ -6,24 +6,26 @@
     "negative": 5
   },
   "summary": "positive:14 neutral:23 negative:5",
-  "generatedAt": "2026-09-05T19:56:35.151Z",
+  "generatedAt": "2026-09-07T19:53:48.586Z",
   "topics": [
-    "Andy Burnham opens North Sea Oil in Scotland",
-    "Trump highlights $10 billion in defense investments",
-    "Republicans push for Iran sanctions"
+    "Promotes Trump administration cleanup and restoration of Washington monuments, parks, and memorials",
+    "Highlights nearly $10 billion in Pennsylvania defense investments and contracts",
+    "Defends Trump’s Iran policy, sanctions, strikes, and strategic objectives"
   ],
-  "trendingTopic": "Andy Burnham's decision to open North Sea Oil sparks celebration in Scotland",
-  "trendingName": "Andy Burnham",
+  "trendingTopic": "Trump administration promotes cleanup and restoration of Washington monuments, parks, and memorials",
   "secondaryHighlights": [
     {
-      "topic": "Trump announces nearly $10 billion in defense contracts"
+      "topic": "Highlights nearly $10 billion in Pennsylvania defense investments and contracts"
     },
     {
-      "topic": "Republicans advocate for adding Iran to sanctions bill"
+      "topic": "Defends Trump’s Iran policy, sanctions, strikes, and strategic objectives"
+    },
+    {
+      "topic": "Shares data claiming Trump outperformed Biden on household incomes, gas prices, and inflation"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v3:42:b40ded26ccf0686ca3b7d2db",
+  "selfPraiseCount": 11,
+  "topicsCacheKey": "day-themes-v10:42:b40ded26ccf0686ca3b7d2db",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40106",
@@ -263,7 +265,7 @@
       "id": "https://www.trumpstruth.org/statuses/40110",
       "publishedAt": "2026-07-19T18:09:56.000Z",
       "title": "[No Title] - Post from July 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a verified U.S. Central Command post on X, from @CENTCOM. The post states that U.S. forces began a new wave of strikes against Iran at 2 p.m. ET, marking the sixth consecutive night of attacks intended to further degrade Iranian military capabilities. It is timestamped 6:48 PM on July 16, 2026, and shows 1 million views.",
       "url": "https://www.trumpstruth.org/statuses/40110",
       "raw": {
         "creator": "",
@@ -275,7 +277,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40110",
         "isoDate": "2026-07-19T18:09:56.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:30:45.008Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17225/b3ae4618e8455798.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40109",
@@ -299,7 +305,7 @@
       "id": "https://www.trumpstruth.org/statuses/40132",
       "publishedAt": "2026-07-19T18:10:56.000Z",
       "title": "Jack Posobiec: “She said the quiet part out loud!”",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116947984234570305</span>Jack Posobiec: “She said the quiet part out loud!”</p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116947984234570305</span>Jack Posobiec: “She said the quiet part out loud!”</p>\n\n[Image] A screenshot of a post by Jack Posobiec, whose verified account is shown as @JackPosobiec. The post reads: “BREAKING: CNN tells their audience to not worry about fraud in California it’s just like 2020 where Republican ballots are ‘counted culturally’ first before Democrat ballots come in.” No people or politicians are pictured.",
       "url": "https://www.trumpstruth.org/statuses/40132",
       "raw": {
         "creator": "",
@@ -311,13 +317,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116947984234570305Jack Posobiec: “She said the quiet part out loud!”",
         "guid": "https://www.trumpstruth.org/statuses/40132",
         "isoDate": "2026-07-19T18:10:56.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:30:42.366Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17240/5de7c56d82e06dfc.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40131",
       "publishedAt": "2026-07-19T18:11:16.000Z",
       "title": "[No Title] - Post from July 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “Our Pool is Bigger than Skyscrapers” compares the Lincoln Reflecting Pool with three skyscrapers by height. The pool is labeled 2,030 feet, exceeding Willis Tower at 1,451 feet, the Empire State Building at 1,454 feet, and One World Trade Center at 1,776 feet. Buildings and the pool are shown against a height scale.",
       "url": "https://www.trumpstruth.org/statuses/40131",
       "raw": {
         "creator": "",
@@ -329,13 +339,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40131",
         "isoDate": "2026-07-19T18:11:16.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:30:39.983Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17239/4c0e105c56c29bb2.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40130",
       "publishedAt": "2026-07-19T18:13:01.000Z",
       "title": "[No Title] - Post from July 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The Washington Monument rises at the far end of the Reflecting Pool in Washington, D.C., its pale obelisk mirrored in the calm water. Tree-lined paths, parked vehicles, and small American flags flank the pool beneath a clear blue sky. No people or politicians are visible.",
       "url": "https://www.trumpstruth.org/statuses/40130",
       "raw": {
         "creator": "",
@@ -347,13 +361,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40130",
         "isoDate": "2026-07-19T18:13:01.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:30:37.178Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17238/6ffe3d4d6e4deb5f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40129",
       "publishedAt": "2026-07-19T18:13:12.000Z",
       "title": "[No Title] - Post from July 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A nighttime view of the Washington Monument illuminated against a dark blue sky. Its reflection stretches down the Reflecting Pool toward the foreground, with rows of lights, trees, and the illuminated buildings of Washington, D.C., surrounding the National Mall. Small groups of visitors gather near the pool and monument.",
       "url": "https://www.trumpstruth.org/statuses/40129",
       "raw": {
         "creator": "",
@@ -365,13 +383,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40129",
         "isoDate": "2026-07-19T18:13:12.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:30:35.146Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17237/d245f8990c76a1e5.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40128",
       "publishedAt": "2026-07-19T18:13:20.000Z",
       "title": "[No Title] - Post from July 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The illuminated Washington Monument rises against a deep blue evening sky, reflected in the long pool leading toward the Lincoln Memorial. Groups of people gather along the monument grounds and steps, including many in formal dresses and suits, while parked vehicles line the surrounding paths. Trees frame the scene on both sides.",
       "url": "https://www.trumpstruth.org/statuses/40128",
       "raw": {
         "creator": "",
@@ -383,13 +405,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40128",
         "isoDate": "2026-07-19T18:13:20.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:30:32.460Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17236/51c226bbb20824cd.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40127",
       "publishedAt": "2026-07-19T18:14:30.000Z",
       "title": "[No Title] - Post from July 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The Washington Monument is illuminated at night in Washington, D.C., centered beyond the Reflecting Pool. Its bright reflection stretches toward the camera, with the Lincoln Memorial steps and small groups of visitors in the foreground. The surrounding National Mall and city buildings are dimly lit beneath a dark blue sky.",
       "url": "https://www.trumpstruth.org/statuses/40127",
       "raw": {
         "creator": "",
@@ -401,13 +427,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40127",
         "isoDate": "2026-07-19T18:14:30.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:30:29.472Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17235/97333b59fb38581b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40125",
       "publishedAt": "2026-07-19T18:14:33.000Z",
       "title": "[No Title] - Post from July 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A split image labeled “COLUMBUS CIRCLE” compares “Biden” and “Trump.” The left panel shows a monument covered in red and green graffiti, including “HAMAS IS COM...” and references to Palestine, with a Palestinian flag draped over a statue. The right panel shows the clean monument under a blue sky, with several people in the foreground wearing hats.",
       "url": "https://www.trumpstruth.org/statuses/40125",
       "raw": {
         "creator": "",
@@ -419,13 +449,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40125",
         "isoDate": "2026-07-19T18:14:33.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:30:27.211Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17232/849bbf4b5b0850e5.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40126",
       "publishedAt": "2026-07-19T18:14:33.000Z",
       "title": "[No Title] - Post from July 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Two views of the equestrian statue of Andrew Jackson in Lafayette Square, facing the White House. In the first, U.S. Park Police officers stand beside the graffiti-marked pedestal, surrounded by barriers, ropes and debris, while the statue is partly coated with yellow paint. The second shows the intact monument in autumn, with the White House and Washington Monument behind it.",
       "url": "https://www.trumpstruth.org/statuses/40126",
       "raw": {
         "creator": "",
@@ -437,13 +471,18 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40126",
         "isoDate": "2026-07-19T18:14:33.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:30:23.815Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17233/75a72bfce5700866.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17234/4063aa62f78b2575.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40124",
       "publishedAt": "2026-07-19T18:14:40.000Z",
       "title": "[No Title] - Post from July 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A split image labeled “COLUMBUS CIRCLE” compares two photographs under the headings “Biden” and “Trump.” The left image shows a worn, largely empty fountain basin with peeling surfaces, pigeons, trees, and street flags in the background. The right image shows the same monument with a clean white stone fountain, sculpted figures, a blue sky, and an American flag.",
       "url": "https://www.trumpstruth.org/statuses/40124",
       "raw": {
         "creator": "",
@@ -455,13 +494,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40124",
         "isoDate": "2026-07-19T18:14:40.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:30:19.872Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17231/16a2c2813e4c8312.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40123",
       "publishedAt": "2026-07-19T18:14:49.000Z",
       "title": "[No Title] - Post from July 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The word “CLEAN” appears in large black letters above a white marble monument or fountain. The sculptural structure features several classical human figures, including a winged figure and seated figures, with carved decoration on top. An American flag flies to the right under a bright blue sky with scattered clouds, and pale turquoise water fills the foreground.",
       "url": "https://www.trumpstruth.org/statuses/40123",
       "raw": {
         "creator": "",
@@ -473,13 +516,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40123",
         "isoDate": "2026-07-19T18:14:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:30:16.949Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17230/3d965045c2e7b249.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40122",
       "publishedAt": "2026-07-19T18:15:29.000Z",
       "title": "[No Title] - Post from July 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post from the “Trump War Room” account shows a small profile image of Donald Trump and text about Meridian Hill Park. It claims the park was formerly occupied by homeless camps and drug users and is now clean and family-friendly following a presidential executive order. Two side-by-side photos compare a neglected, empty fountain area with a renovated, occupied park.",
       "url": "https://www.trumpstruth.org/statuses/40122",
       "raw": {
         "creator": "",
@@ -491,13 +538,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40122",
         "isoDate": "2026-07-19T18:15:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:30:13.851Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17229/27d72736919401b2.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40121",
       "publishedAt": "2026-07-19T18:15:45.000Z",
       "title": "[No Title] - Post from July 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A photographed newspaper opinion page from The Washington Times features the headline “The grand strategy behind the Trump-Vance Iran deal,” with the subheading “The president has displayed uncommon vision.” The article by Alexander B. Gray discusses Donald Trump’s Iran policy, Operation Epic Fury, nuclear weapons, China, and U.S. defense strategy. No portraits or photographs are visible.",
       "url": "https://www.trumpstruth.org/statuses/40121",
       "raw": {
         "creator": "",
@@ -509,13 +560,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40121",
         "isoDate": "2026-07-19T18:15:45.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:30:09.740Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17228/c6ee64e5ff12ee03.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40120",
       "publishedAt": "2026-07-19T18:16:01.000Z",
       "title": "[No Title] - Post from July 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic attributed to Stephen Moore claims that the lowest-income Americans fared better under Donald Trump than Joe Biden. A bar chart titled “Net Change in Real Household Income — 25th Percentile” shows cumulative changes in 2025 dollars: $4,058 during Trump’s first 48 months, −$176 during Biden’s 48 months, and $2,084 during Trump’s first 16 months of his second term.",
       "url": "https://www.trumpstruth.org/statuses/40120",
       "raw": {
         "creator": "",
@@ -527,13 +582,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40120",
         "isoDate": "2026-07-19T18:16:01.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:30:06.311Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17227/a52891b78e1de4c0.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40119",
       "publishedAt": "2026-07-19T18:16:03.000Z",
       "title": "[No Title] - Post from July 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic attributed to Stephen Moore claims family incomes rose more under Donald Trump’s first and second terms than under Joe Biden. A bar chart titled “Net Change in Real Median Household Income by President” shows $6,640 for Trump 1.0 over 48 months, $569 for Biden over 48 months, and $3,090 for Trump 2.0 over 16 months, in 2025 dollars.",
       "url": "https://www.trumpstruth.org/statuses/40119",
       "raw": {
         "creator": "",
@@ -545,13 +604,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40119",
         "isoDate": "2026-07-19T18:16:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:30:03.468Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17226/4ca97d06e04300b7.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40137",
       "publishedAt": "2026-07-19T18:16:21.000Z",
       "title": "[No Title] - Post from July 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic attributed to Stephen Moore is titled “Shows gas prices on average lower under Trump than Biden and Obama.” Its bar chart, “Average Real Gas Price by Administration,” lists $4.30 for Obama, $3.25 for Trump’s first term, $3.88 for Biden, and $3.32 for Donald Trump’s second term, in April 2026 dollars. Periods and a source note are shown.",
       "url": "https://www.trumpstruth.org/statuses/40137",
       "raw": {
         "creator": "",
@@ -563,13 +626,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40137",
         "isoDate": "2026-07-19T18:16:21.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:30:00.604Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17246/9aaaf51014ebfca5.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40136",
       "publishedAt": "2026-07-19T18:16:41.000Z",
       "title": "[No Title] - Post from July 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic attributed to Stephen Moore compares CPI growth during Donald Trump’s first term, the Biden-Harris administration, and Donald Trump’s second term. The blue line labeled “Under Biden-Harris” rises to about 21% after 48 months, while red lines show approximately 3.6% during Trump’s first term and 5.5% during his second term. An annotation states inflation under Biden reached 11.7%.",
       "url": "https://www.trumpstruth.org/statuses/40136",
       "raw": {
         "creator": "",
@@ -581,13 +648,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40136",
         "isoDate": "2026-07-19T18:16:41.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:29:57.670Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17245/9c47cf8892f65700.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40135",
       "publishedAt": "2026-07-19T18:18:11.000Z",
       "title": "Planting beautiful Maple and Oak Trees at the White House!",
-      "text": "<p>Planting beautiful Maple and Oak Trees at the White House!</p>",
+      "text": "<p>Planting beautiful Maple and Oak Trees at the White House!</p>\n\n[Image] Donald Trump stands with construction workers in high-visibility vests and hard hats beside yellow excavation equipment on the White House grounds. In one image, he poses with the group; in another, he uses a shovel to move soil. Additional views show him observing the work near the building, surrounded by workers and trees.",
       "url": "https://www.trumpstruth.org/statuses/40135",
       "raw": {
         "creator": "",
@@ -599,7 +670,14 @@
         "contentSnippet": "Planting beautiful Maple and Oak Trees at the White House!",
         "guid": "https://www.trumpstruth.org/statuses/40135",
         "isoDate": "2026-07-19T18:18:11.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:29:53.632Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17241/7c44f6e5fa83d443.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17242/de75d52173f9864e.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17243/c92778540cf13196.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17244/fc763b67ea5169a4.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40134",
@@ -641,7 +719,7 @@
       "id": "https://www.trumpstruth.org/statuses/40141",
       "publishedAt": "2026-07-19T18:20:48.000Z",
       "title": "From Greg Wischer at the United States Department of the Interior:“Given POTUS’s direction to coat the WW2 Memorial fountains, we visited the “vault”—which is located underneath the memorial and contains all the plumbing, electricity, water treatment, and drainage equipment for the fountains. The vault is a massive underground labyrinth and feels like a WW2 bunker—it is old, falling apart, and leaking in many places. Rusted out electrical boxes have water leaking into them, and as you’ll see in the photo below, one electrical box even has stalactites forming on it. The Biden Admin left us a complete mess. It is a miracle that the fountains are actually working, but the National Park Service maintenance team has worked wonders to keep the fountains running.”",
-      "text": "<p>From Greg Wischer at the United States Department of the Interior:</p><p>“Given POTUS’s direction to coat the WW2 Memorial fountains, we visited the “vault”—which is located underneath the memorial and contains all the plumbing, electricity, water treatment, and drainage equipment for the fountains. </p><p>The vault is a massive underground labyrinth and feels like a WW2 bunker—it is old, falling apart, and leaking in many places. Rusted out electrical boxes have water leaking into them, and as you’ll see in the photo below, one electrical box even has stalactites forming on it. </p><p>The Biden Admin left us a complete mess. It is a miracle that the fountains are actually working, but the National Park Service maintenance team has worked wonders to keep the fountains running.”</p>",
+      "text": "<p>From Greg Wischer at the United States Department of the Interior:</p><p>“Given POTUS’s direction to coat the WW2 Memorial fountains, we visited the “vault”—which is located underneath the memorial and contains all the plumbing, electricity, water treatment, and drainage equipment for the fountains. </p><p>The vault is a massive underground labyrinth and feels like a WW2 bunker—it is old, falling apart, and leaking in many places. Rusted out electrical boxes have water leaking into them, and as you’ll see in the photo below, one electrical box even has stalactites forming on it. </p><p>The Biden Admin left us a complete mess. It is a miracle that the fountains are actually working, but the National Park Service maintenance team has worked wonders to keep the fountains running.”</p>\n\n[Image] Three photos show aging mechanical and electrical infrastructure in an industrial utility area. The first depicts tangled wiring above a stained concrete pit with grating and railings. The second shows exposed control panels, switches, and bundled yellow and orange cables in a rusted cabinet. The third shows water leaking from a corroded pump or valve assembly onto the floor.",
       "url": "https://www.trumpstruth.org/statuses/40141",
       "raw": {
         "creator": "",
@@ -653,7 +731,13 @@
         "contentSnippet": "From Greg Wischer at the United States Department of the Interior:\n“Given POTUS’s direction to coat the WW2 Memorial fountains, we visited the “vault”—which is located underneath the memorial and contains all the plumbing, electricity, water treatment, and drainage equipment for the fountains. \nThe vault is a massive underground labyrinth and feels like a WW2 bunker—it is old, falling apart, and leaking in many places. Rusted out electrical boxes have water leaking into them, and as you’ll see in the photo below, one electrical box even has stalactites forming on it. \nThe Biden Admin left us a complete mess. It is a miracle that the fountains are actually working, but the National Park Service maintenance team has worked wonders to keep the fountains running.”",
         "guid": "https://www.trumpstruth.org/statuses/40141",
         "isoDate": "2026-07-19T18:20:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:29:50.238Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17247/310c72b831073570.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17248/1c5b5a3c46e13183.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17249/2a00af1d48cf4f75.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40140",
@@ -1035,5 +1119,6 @@
       "rationale": "The statement praises the President's leadership and vision, indicating a positive sentiment.",
       "analyzedAt": "2026-09-05T08:01:14.123Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:42:b40ded26ccf0686ca3b7d2db"
 }

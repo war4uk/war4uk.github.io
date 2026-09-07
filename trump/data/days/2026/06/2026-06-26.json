@@ -6,25 +6,23 @@
     "negative": 4
   },
   "summary": "positive:6 neutral:13 negative:4",
-  "generatedAt": "2026-09-06T06:03:41.638Z",
+  "generatedAt": "2026-09-07T19:47:03.986Z",
   "topics": [
-    "Julia Letlow announces candidacy for U.S. Senate in Louisiana",
-    "Mike Mazzei running for Governor in Oklahoma",
-    "Fourth of July Airshow in Washington, D.C. promises to be the biggest ever"
+    "Endorses Roger Marshall, Mike Mazzei, and Julia Letlow for Republican offices",
+    "Highlights Washington, D.C., with July Fourth airshow plans and Reflecting Pool images",
+    "Defends the Trump administration’s record-high ICE and CBP arrest and removal rates"
   ],
-  "trendingTopic": "Julia Letlow announces candidacy for U.S. Senate in Louisiana",
-  "trendingName": "Julia Letlow",
+  "trendingTopic": "Endorses Roger Marshall, Mike Mazzei, and Julia Letlow for Republican offices",
   "secondaryHighlights": [
     {
-      "topic": "Mike Mazzei running for Governor in Oklahoma",
-      "name": "Mike Mazzei"
+      "topic": "Highlights Washington, D.C., with July Fourth airshow plans and Reflecting Pool images"
     },
     {
-      "topic": "Fourth of July Airshow in Washington, D.C. promises to be the biggest ever"
+      "topic": "Defends the Trump administration’s record-high ICE and CBP arrest and removal rates"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v8:23:e433505f892c49b2585d64ac",
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v10:23:e433505f892c49b2585d64ac",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39533",
@@ -48,7 +46,7 @@
       "id": "https://www.trumpstruth.org/statuses/39532",
       "publishedAt": "2026-06-26T01:14:52.000Z",
       "title": "[No Title] - Post from June 26, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116813755890271897</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116813755890271897</span></p>\n\n[Image] A screenshot of a LindellTV post from @RealLindellTV reports that Dominion Voting Systems, now operating as Liberty Vote, agreed to dismiss its $1.3 billion defamation lawsuit against Mike Lindell and MyPillow with prejudice. The post promotes an 824-page report alleging attacks on 2020 election infrastructure and quotes Lindell criticizing claims that there was no evidence.",
       "url": "https://www.trumpstruth.org/statuses/39532",
       "raw": {
         "creator": "",
@@ -60,7 +58,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116813755890271897",
         "guid": "https://www.trumpstruth.org/statuses/39532",
         "isoDate": "2026-06-26T01:14:52.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:42:28.129Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16822/0caf118a194e71eb.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39537",
@@ -84,7 +86,7 @@
       "id": "https://www.trumpstruth.org/statuses/39536",
       "publishedAt": "2026-06-26T02:01:49.000Z",
       "title": "[No Title] - Post from June 26, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116813941619435704</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116813941619435704</span></p>\n\n[Image] A screenshot of a post by Andrew Kolvet on X states that Rep. Byron Donalds criticized the Senate after it failed to pass the Save America Act. The quoted remarks say, “The Senate SUCKS,” and challenge Bernie Sanders to hold the floor for six months if he wishes. The post also condemns senators for going on vacation until July 13.",
       "url": "https://www.trumpstruth.org/statuses/39536",
       "raw": {
         "creator": "",
@@ -96,7 +98,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116813941619435704",
         "guid": "https://www.trumpstruth.org/statuses/39536",
         "isoDate": "2026-06-26T02:01:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:42:25.527Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16826/173542363056ad1b.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39535",
@@ -120,7 +126,7 @@
       "id": "https://www.trumpstruth.org/statuses/39534",
       "publishedAt": "2026-06-26T02:02:41.000Z",
       "title": "[No Title] - Post from June 26, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116813945253003849</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116813945253003849</span></p>\n\n[Image] A text-based image states that Tina Peters, described as released from jail, told Steve Bannon during her MAGA tour that Democrats cheat in elections and jailed her for exposing vote-flipping machines. It then asks, “Clear her name and compensate her?” with two response options: “A. Yes” and “B. No.”",
       "url": "https://www.trumpstruth.org/statuses/39534",
       "raw": {
         "creator": "",
@@ -132,7 +138,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116813945253003849",
         "guid": "https://www.trumpstruth.org/statuses/39534",
         "isoDate": "2026-06-26T02:02:41.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:42:22.589Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16824/311f4bd7b465584f.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39539",
@@ -156,7 +166,7 @@
       "id": "https://www.trumpstruth.org/statuses/39538",
       "publishedAt": "2026-06-26T02:29:23.000Z",
       "title": "[No Title] - Post from June 26, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116814048560190114</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116814048560190114</span></p>\n\n[Image] A screenshot of a social-media post from the verified account “Hatton, America is back” (@jnottah). The post states: “JFK explains if communism in the US isn't stopped, it will destroy the country from within. This is their plan.” A small illustrated portrait appears beside the account name.",
       "url": "https://www.trumpstruth.org/statuses/39538",
       "raw": {
         "creator": "",
@@ -168,7 +178,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116814048560190114",
         "guid": "https://www.trumpstruth.org/statuses/39538",
         "isoDate": "2026-06-26T02:29:23.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:42:19.946Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16828/2930c23649907584.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39540",
@@ -336,7 +350,7 @@
       "id": "https://www.trumpstruth.org/statuses/39549",
       "publishedAt": "2026-06-26T19:04:04.000Z",
       "title": "Good Evening from the Pool!",
-      "text": "<p>Good Evening from the Pool!</p>",
+      "text": "<p>Good Evening from the Pool!</p>\n\n[Image] The Washington Monument rises at the far end of the Reflecting Pool in Washington, D.C., silhouetted against a softly lit evening sky. The calm water creates a clear reflection of the obelisk and surrounding tree-lined walkways. Small structures, benches, and a few distant objects are visible along the pool’s edges.",
       "url": "https://www.trumpstruth.org/statuses/39549",
       "raw": {
         "creator": "",
@@ -348,13 +362,17 @@
         "contentSnippet": "Good Evening from the Pool!",
         "guid": "https://www.trumpstruth.org/statuses/39549",
         "isoDate": "2026-06-26T19:04:04.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:42:15.334Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16831/ef7eb651e262fdfc.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39550",
       "publishedAt": "2026-06-26T19:20:10.000Z",
       "title": "Good Morning from the Pool!",
-      "text": "<p>Good Morning from the Pool!</p>",
+      "text": "<p>Good Morning from the Pool!</p>\n\n[Image] Three U.S. soldiers in camouflage uniforms stand side by side on the plaza in front of the Lincoln Memorial. Their reflections are visible in a shallow reflecting pool in the foreground. Visitors and other uniformed personnel occupy the broad steps behind them, with trees visible beyond the monument.",
       "url": "https://www.trumpstruth.org/statuses/39550",
       "raw": {
         "creator": "",
@@ -366,13 +384,17 @@
         "contentSnippet": "Good Morning from the Pool!",
         "guid": "https://www.trumpstruth.org/statuses/39550",
         "isoDate": "2026-06-26T19:20:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:42:12.931Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16832/4ecd89651f9859c2.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39551",
       "publishedAt": "2026-06-26T20:13:47.000Z",
       "title": "The new Donald Trump Avenue in Hyderabad, India — The first U.S. President to ever be honored in this way. Thank you! President DONALD J. TRUMP",
-      "text": "<p>The new Donald Trump Avenue in Hyderabad, India — The first U.S. President to ever be honored in this way. Thank you! President DONALD J. TRUMP</p>",
+      "text": "<p>The new Donald Trump Avenue in Hyderabad, India — The first U.S. President to ever be honored in this way. Thank you! President DONALD J. TRUMP</p>\n\n[Image] An unveiling ceremony displays a plaque reading “Donald Trump Avenue,” dedicated by Sri A. Revanth Reddy, Chief Minister of Telangana, and Sergio Gor, U.S. Ambassador to India. Revanth Reddy and Sergio Gor hold the blue covering beside the plaque. U.S. and Indian flags, red-white-blue decorations, flowers, and formally dressed guests fill the venue.",
       "url": "https://www.trumpstruth.org/statuses/39551",
       "raw": {
         "creator": "",
@@ -384,7 +406,11 @@
         "contentSnippet": "The new Donald Trump Avenue in Hyderabad, India — The first U.S. President to ever be honored in this way. Thank you! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/39551",
         "isoDate": "2026-06-26T20:13:47.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:42:10.689Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16833/0816b527afee8c79.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39552",
@@ -408,7 +434,7 @@
       "id": "https://www.trumpstruth.org/statuses/39553",
       "publishedAt": "2026-06-26T20:54:43.000Z",
       "title": "The U.S.A.’s New Passport, which says, “Welcome, but be good!” President DJT",
-      "text": "<p>The U.S.A.’s New Passport, which says, “Welcome, but be good!” President DJT</p>",
+      "text": "<p>The U.S.A.’s New Passport, which says, “Welcome, but be good!” President DJT</p>\n\n[Image] A stylized commemorative banknote design features Donald Trump in a suit standing before the Declaration of Independence. An engraved-style scene of historical American figures signing a document appears in the upper right, overlaid on an American flag background. The note includes “United States of America,” a large “250,” a signature, and a barcode-like serial number.",
       "url": "https://www.trumpstruth.org/statuses/39553",
       "raw": {
         "creator": "",
@@ -420,7 +446,11 @@
         "contentSnippet": "The U.S.A.’s New Passport, which says, “Welcome, but be good!” President DJT",
         "guid": "https://www.trumpstruth.org/statuses/39553",
         "isoDate": "2026-06-26T20:54:43.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T19:42:07.701Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16834/0ff3f98806ee210b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39554",
@@ -580,5 +610,6 @@
       "rationale": "The text is a simple statement urging trust without any emotional content.",
       "analyzedAt": "2026-09-05T08:38:38.898Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:23:e433505f892c49b2585d64ac"
 }
