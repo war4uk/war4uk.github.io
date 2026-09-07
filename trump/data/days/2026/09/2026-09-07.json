@@ -6,7 +6,7 @@
     "negative": 0
   },
   "summary": "positive:5 neutral:10 negative:0",
-  "generatedAt": "2026-09-07T04:00:35.821Z",
+  "generatedAt": "2026-09-07T08:02:22.547Z",
   "topics": [
     "Trump headlines GOP convention in Dallas and focuses on Texas Senate race",
     "Trump celebrates strong job gains and calls for lower interest rates",
@@ -21,7 +21,9 @@
       "topic": "Trump promotes tourism boom and Americanism"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v8:30:81f72d6fece9c99203285dd9",
+  "selfPraiseCacheKey": "self-praise-v1:30:81f72d6fece9c99203285dd9",
   "posts": [
     {
       "id": "https://trumpstruth.org/statuses/41580",
@@ -38,6 +40,24 @@
         "content": "<p></p>",
         "contentSnippet": "",
         "guid": "https://trumpstruth.org/statuses/41580",
+        "isoDate": "2026-09-07T00:30:00.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41580",
+      "publishedAt": "2026-09-07T00:30:00.000Z",
+      "title": "[No Title] - Post from September 7, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41580",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 7, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41580",
+        "pubDate": "Mon, 07 Sep 2026 00:30:00 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41580",
         "isoDate": "2026-09-07T00:30:00.000Z"
       }
     },
@@ -60,6 +80,24 @@
       }
     },
     {
+      "id": "https://www.trumpstruth.org/statuses/41587",
+      "publishedAt": "2026-09-07T00:47:22.000Z",
+      "title": "No wonder they like me!!! President DJTWomen account for almost all net U.S. job gains since Trump took office:",
+      "text": "<p>No wonder they like me!!! President DJT</p><p>Women account for almost all net U.S. job gains since Trump took office: <a href=\"https://justthenews.com/nation/economy/women-account-almost-all-net-us-job-gains-trump-took-office-report\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/nation/economy</span><span class=\"invisible\">/women-account-almost-all-net-us-job-gains-trump-took-office-report</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41587",
+      "raw": {
+        "creator": "",
+        "title": "No wonder they like me!!! President DJTWomen account for almost all net U.S. job gains since Trump took office:",
+        "link": "https://www.trumpstruth.org/statuses/41587",
+        "pubDate": "Mon, 07 Sep 2026 00:47:22 +0000",
+        "author": "",
+        "content": "<p>No wonder they like me!!! President DJT</p><p>Women account for almost all net U.S. job gains since Trump took office: <a href=\"https://justthenews.com/nation/economy/women-account-almost-all-net-us-job-gains-trump-took-office-report\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/nation/economy</span><span class=\"invisible\">/women-account-almost-all-net-us-job-gains-trump-took-office-report</span></a></p>",
+        "contentSnippet": "No wonder they like me!!! President DJT\nWomen account for almost all net U.S. job gains since Trump took office: https://justthenews.com/nation/economy/women-account-almost-all-net-us-job-gains-trump-took-office-report",
+        "guid": "https://www.trumpstruth.org/statuses/41587",
+        "isoDate": "2026-09-07T00:47:22.000Z"
+      }
+    },
+    {
       "id": "https://trumpstruth.org/statuses/41586",
       "publishedAt": "2026-09-07T00:47:56.000Z",
       "title": "Trump to headline both nights of GOP convention in Dallas, leans into Texas Senate race with cash:",
@@ -74,6 +112,24 @@
         "content": "<p>Trump to headline both nights of GOP convention in Dallas, leans into Texas Senate race with cash: <a href=\"https://justthenews.com/politics-policy/elections/trump-headline-both-nights-gop-convention-dallas-leans-texas-senate-race\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/elections/trump-headline-both-nights-gop-convention-dallas-leans-texas-senate-race</span></a></p>",
         "contentSnippet": "Trump to headline both nights of GOP convention in Dallas, leans into Texas Senate race with cash: https://justthenews.com/politics-policy/elections/trump-headline-both-nights-gop-convention-dallas-leans-texas-senate-race",
         "guid": "https://trumpstruth.org/statuses/41586",
+        "isoDate": "2026-09-07T00:47:56.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41586",
+      "publishedAt": "2026-09-07T00:47:56.000Z",
+      "title": "Trump to headline both nights of GOP convention in Dallas, leans into Texas Senate race with cash:",
+      "text": "<p>Trump to headline both nights of GOP convention in Dallas, leans into Texas Senate race with cash: <a href=\"https://justthenews.com/politics-policy/elections/trump-headline-both-nights-gop-convention-dallas-leans-texas-senate-race\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/elections/trump-headline-both-nights-gop-convention-dallas-leans-texas-senate-race</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41586",
+      "raw": {
+        "creator": "",
+        "title": "Trump to headline both nights of GOP convention in Dallas, leans into Texas Senate race with cash:",
+        "link": "https://www.trumpstruth.org/statuses/41586",
+        "pubDate": "Mon, 07 Sep 2026 00:47:56 +0000",
+        "author": "",
+        "content": "<p>Trump to headline both nights of GOP convention in Dallas, leans into Texas Senate race with cash: <a href=\"https://justthenews.com/politics-policy/elections/trump-headline-both-nights-gop-convention-dallas-leans-texas-senate-race\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/elections/trump-headline-both-nights-gop-convention-dallas-leans-texas-senate-race</span></a></p>",
+        "contentSnippet": "Trump to headline both nights of GOP convention in Dallas, leans into Texas Senate race with cash: https://justthenews.com/politics-policy/elections/trump-headline-both-nights-gop-convention-dallas-leans-texas-senate-race",
+        "guid": "https://www.trumpstruth.org/statuses/41586",
         "isoDate": "2026-09-07T00:47:56.000Z"
       }
     },
@@ -96,6 +152,24 @@
       }
     },
     {
+      "id": "https://www.trumpstruth.org/statuses/41585",
+      "publishedAt": "2026-09-07T00:47:59.000Z",
+      "title": "[No Title] - Post from September 7, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41585",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 7, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41585",
+        "pubDate": "Mon, 07 Sep 2026 00:47:59 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41585",
+        "isoDate": "2026-09-07T00:47:59.000Z"
+      }
+    },
+    {
       "id": "https://trumpstruth.org/statuses/41584",
       "publishedAt": "2026-09-07T00:48:22.000Z",
       "title": "Top White House official says he believes Trump speech censorship behind Bartiromo ouster at Fox:",
@@ -110,6 +184,24 @@
         "content": "<p>Top White House official says he believes Trump speech censorship behind Bartiromo ouster at Fox: <a href=\"https://justthenews.com/government/white-house/bartiromo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/bartiromo</span></a></p>",
         "contentSnippet": "Top White House official says he believes Trump speech censorship behind Bartiromo ouster at Fox: https://justthenews.com/government/white-house/bartiromo",
         "guid": "https://trumpstruth.org/statuses/41584",
+        "isoDate": "2026-09-07T00:48:22.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41584",
+      "publishedAt": "2026-09-07T00:48:22.000Z",
+      "title": "Top White House official says he believes Trump speech censorship behind Bartiromo ouster at Fox:",
+      "text": "<p>Top White House official says he believes Trump speech censorship behind Bartiromo ouster at Fox: <a href=\"https://justthenews.com/government/white-house/bartiromo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/bartiromo</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41584",
+      "raw": {
+        "creator": "",
+        "title": "Top White House official says he believes Trump speech censorship behind Bartiromo ouster at Fox:",
+        "link": "https://www.trumpstruth.org/statuses/41584",
+        "pubDate": "Mon, 07 Sep 2026 00:48:22 +0000",
+        "author": "",
+        "content": "<p>Top White House official says he believes Trump speech censorship behind Bartiromo ouster at Fox: <a href=\"https://justthenews.com/government/white-house/bartiromo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/bartiromo</span></a></p>",
+        "contentSnippet": "Top White House official says he believes Trump speech censorship behind Bartiromo ouster at Fox: https://justthenews.com/government/white-house/bartiromo",
+        "guid": "https://www.trumpstruth.org/statuses/41584",
         "isoDate": "2026-09-07T00:48:22.000Z"
       }
     },
@@ -132,6 +224,24 @@
       }
     },
     {
+      "id": "https://www.trumpstruth.org/statuses/41583",
+      "publishedAt": "2026-09-07T00:48:41.000Z",
+      "title": "Trump cheers strong jobs report, calls for lower interest rates:",
+      "text": "<p>Trump cheers strong jobs report, calls for lower interest rates: <a href=\"https://justthenews.com/politics-policy/trump-cheers-strong-jobs-report-calls-lower-interest-rates\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/trump-cheers-strong-jobs-report-calls-lower-interest-rates</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41583",
+      "raw": {
+        "creator": "",
+        "title": "Trump cheers strong jobs report, calls for lower interest rates:",
+        "link": "https://www.trumpstruth.org/statuses/41583",
+        "pubDate": "Mon, 07 Sep 2026 00:48:41 +0000",
+        "author": "",
+        "content": "<p>Trump cheers strong jobs report, calls for lower interest rates: <a href=\"https://justthenews.com/politics-policy/trump-cheers-strong-jobs-report-calls-lower-interest-rates\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/trump-cheers-strong-jobs-report-calls-lower-interest-rates</span></a></p>",
+        "contentSnippet": "Trump cheers strong jobs report, calls for lower interest rates: https://justthenews.com/politics-policy/trump-cheers-strong-jobs-report-calls-lower-interest-rates",
+        "guid": "https://www.trumpstruth.org/statuses/41583",
+        "isoDate": "2026-09-07T00:48:41.000Z"
+      }
+    },
+    {
       "id": "https://trumpstruth.org/statuses/41582",
       "publishedAt": "2026-09-07T00:49:05.000Z",
       "title": "Homeland asks DOJ to probe transfer of private state voter data to Zuckerberg-tied nonprofit:",
@@ -146,6 +256,24 @@
         "content": "<p>Homeland asks DOJ to probe transfer of private state voter data to Zuckerberg-tied nonprofit: <a href=\"https://justthenews.com/government/federal-agencies/6amhomeland-security-refers-alleged-2020-election-voter-data-privacy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/fed</span><span class=\"invisible\">eral-agencies/6amhomeland-security-refers-alleged-2020-election-voter-data-privacy</span></a></p>",
         "contentSnippet": "Homeland asks DOJ to probe transfer of private state voter data to Zuckerberg-tied nonprofit: https://justthenews.com/government/federal-agencies/6amhomeland-security-refers-alleged-2020-election-voter-data-privacy",
         "guid": "https://trumpstruth.org/statuses/41582",
+        "isoDate": "2026-09-07T00:49:05.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41582",
+      "publishedAt": "2026-09-07T00:49:05.000Z",
+      "title": "Homeland asks DOJ to probe transfer of private state voter data to Zuckerberg-tied nonprofit:",
+      "text": "<p>Homeland asks DOJ to probe transfer of private state voter data to Zuckerberg-tied nonprofit: <a href=\"https://justthenews.com/government/federal-agencies/6amhomeland-security-refers-alleged-2020-election-voter-data-privacy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/fed</span><span class=\"invisible\">eral-agencies/6amhomeland-security-refers-alleged-2020-election-voter-data-privacy</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41582",
+      "raw": {
+        "creator": "",
+        "title": "Homeland asks DOJ to probe transfer of private state voter data to Zuckerberg-tied nonprofit:",
+        "link": "https://www.trumpstruth.org/statuses/41582",
+        "pubDate": "Mon, 07 Sep 2026 00:49:05 +0000",
+        "author": "",
+        "content": "<p>Homeland asks DOJ to probe transfer of private state voter data to Zuckerberg-tied nonprofit: <a href=\"https://justthenews.com/government/federal-agencies/6amhomeland-security-refers-alleged-2020-election-voter-data-privacy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/fed</span><span class=\"invisible\">eral-agencies/6amhomeland-security-refers-alleged-2020-election-voter-data-privacy</span></a></p>",
+        "contentSnippet": "Homeland asks DOJ to probe transfer of private state voter data to Zuckerberg-tied nonprofit: https://justthenews.com/government/federal-agencies/6amhomeland-security-refers-alleged-2020-election-voter-data-privacy",
+        "guid": "https://www.trumpstruth.org/statuses/41582",
         "isoDate": "2026-09-07T00:49:05.000Z"
       }
     },
@@ -168,6 +296,24 @@
       }
     },
     {
+      "id": "https://www.trumpstruth.org/statuses/41581",
+      "publishedAt": "2026-09-07T00:49:28.000Z",
+      "title": "Trump ambassador vows NATO-like reforms to UN after terror scandal: ‘Clean this place up’:",
+      "text": "<p>Trump ambassador vows NATO-like reforms to UN after terror scandal: ‘Clean this place up’: <a href=\"https://justthenews.com/government/federal-agencies/clean-place-trump-ambassador-vows-nato-reforms-un-after-terror-scandal\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/fed</span><span class=\"invisible\">eral-agencies/clean-place-trump-ambassador-vows-nato-reforms-un-after-terror-scandal</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41581",
+      "raw": {
+        "creator": "",
+        "title": "Trump ambassador vows NATO-like reforms to UN after terror scandal: ‘Clean this place up’:",
+        "link": "https://www.trumpstruth.org/statuses/41581",
+        "pubDate": "Mon, 07 Sep 2026 00:49:28 +0000",
+        "author": "",
+        "content": "<p>Trump ambassador vows NATO-like reforms to UN after terror scandal: ‘Clean this place up’: <a href=\"https://justthenews.com/government/federal-agencies/clean-place-trump-ambassador-vows-nato-reforms-un-after-terror-scandal\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/fed</span><span class=\"invisible\">eral-agencies/clean-place-trump-ambassador-vows-nato-reforms-un-after-terror-scandal</span></a></p>",
+        "contentSnippet": "Trump ambassador vows NATO-like reforms to UN after terror scandal: ‘Clean this place up’: https://justthenews.com/government/federal-agencies/clean-place-trump-ambassador-vows-nato-reforms-un-after-terror-scandal",
+        "guid": "https://www.trumpstruth.org/statuses/41581",
+        "isoDate": "2026-09-07T00:49:28.000Z"
+      }
+    },
+    {
       "id": "https://trumpstruth.org/statuses/41588",
       "publishedAt": "2026-09-07T00:59:09.000Z",
       "title": "Thank you to Congressman Jim Jordan. He is a truly GREAT guy, and a former All-American wrestler, one of the best, ever, in both high school and college. He never gives up! President DJTJim Jordan demands FBI Round River docs after memos reveal targeting of Trump officials, allies:",
@@ -182,6 +328,24 @@
         "content": "<p>Thank you to Congressman Jim Jordan. He is a truly GREAT guy, and a former All-American wrestler, one of the best, ever, in both high school and college. He never gives up! President DJT</p><p>Jim Jordan demands FBI Round River docs after memos reveal targeting of Trump officials, allies: <a href=\"https://justthenews.com/government/congress/emb3pm-jordan-demands-fbi-round-river-docs-after-memos-show-targeting-trump\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/con</span><span class=\"invisible\">gress/emb3pm-jordan-demands-fbi-round-river-docs-after-memos-show-targeting-trump</span></a></p>",
         "contentSnippet": "Thank you to Congressman Jim Jordan. He is a truly GREAT guy, and a former All-American wrestler, one of the best, ever, in both high school and college. He never gives up! President DJT\nJim Jordan demands FBI Round River docs after memos reveal targeting of Trump officials, allies: https://justthenews.com/government/congress/emb3pm-jordan-demands-fbi-round-river-docs-after-memos-show-targeting-trump",
         "guid": "https://trumpstruth.org/statuses/41588",
+        "isoDate": "2026-09-07T00:59:09.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41588",
+      "publishedAt": "2026-09-07T00:59:09.000Z",
+      "title": "Thank you to Congressman Jim Jordan. He is a truly GREAT guy, and a former All-American wrestler, one of the best, ever, in both high school and college. He never gives up! President DJTJim Jordan demands FBI Round River docs after memos reveal targeting of Trump officials, allies:",
+      "text": "<p>Thank you to Congressman Jim Jordan. He is a truly GREAT guy, and a former All-American wrestler, one of the best, ever, in both high school and college. He never gives up! President DJT</p><p>Jim Jordan demands FBI Round River docs after memos reveal targeting of Trump officials, allies: <a href=\"https://justthenews.com/government/congress/emb3pm-jordan-demands-fbi-round-river-docs-after-memos-show-targeting-trump\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/con</span><span class=\"invisible\">gress/emb3pm-jordan-demands-fbi-round-river-docs-after-memos-show-targeting-trump</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41588",
+      "raw": {
+        "creator": "",
+        "title": "Thank you to Congressman Jim Jordan. He is a truly GREAT guy, and a former All-American wrestler, one of the best, ever, in both high school and college. He never gives up! President DJTJim Jordan demands FBI Round River docs after memos reveal targeting of Trump officials, allies:",
+        "link": "https://www.trumpstruth.org/statuses/41588",
+        "pubDate": "Mon, 07 Sep 2026 00:59:09 +0000",
+        "author": "",
+        "content": "<p>Thank you to Congressman Jim Jordan. He is a truly GREAT guy, and a former All-American wrestler, one of the best, ever, in both high school and college. He never gives up! President DJT</p><p>Jim Jordan demands FBI Round River docs after memos reveal targeting of Trump officials, allies: <a href=\"https://justthenews.com/government/congress/emb3pm-jordan-demands-fbi-round-river-docs-after-memos-show-targeting-trump\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/con</span><span class=\"invisible\">gress/emb3pm-jordan-demands-fbi-round-river-docs-after-memos-show-targeting-trump</span></a></p>",
+        "contentSnippet": "Thank you to Congressman Jim Jordan. He is a truly GREAT guy, and a former All-American wrestler, one of the best, ever, in both high school and college. He never gives up! President DJT\nJim Jordan demands FBI Round River docs after memos reveal targeting of Trump officials, allies: https://justthenews.com/government/congress/emb3pm-jordan-demands-fbi-round-river-docs-after-memos-show-targeting-trump",
+        "guid": "https://www.trumpstruth.org/statuses/41588",
         "isoDate": "2026-09-07T00:59:09.000Z"
       }
     },
@@ -204,6 +368,24 @@
       }
     },
     {
+      "id": "https://www.trumpstruth.org/statuses/41589",
+      "publishedAt": "2026-09-07T00:59:41.000Z",
+      "title": "Trump seizes on tourism boom to expand Americanism and visits to the nation:",
+      "text": "<p>Trump seizes on tourism boom to expand Americanism and visits to the nation: <a href=\"https://justthenews.com/government/white-house/trump-seizes-tourism-boom-expand-americanism-and-visits-nation\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/trump-seizes-tourism-boom-expand-americanism-and-visits-nation</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41589",
+      "raw": {
+        "creator": "",
+        "title": "Trump seizes on tourism boom to expand Americanism and visits to the nation:",
+        "link": "https://www.trumpstruth.org/statuses/41589",
+        "pubDate": "Mon, 07 Sep 2026 00:59:41 +0000",
+        "author": "",
+        "content": "<p>Trump seizes on tourism boom to expand Americanism and visits to the nation: <a href=\"https://justthenews.com/government/white-house/trump-seizes-tourism-boom-expand-americanism-and-visits-nation\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/trump-seizes-tourism-boom-expand-americanism-and-visits-nation</span></a></p>",
+        "contentSnippet": "Trump seizes on tourism boom to expand Americanism and visits to the nation: https://justthenews.com/government/white-house/trump-seizes-tourism-boom-expand-americanism-and-visits-nation",
+        "guid": "https://www.trumpstruth.org/statuses/41589",
+        "isoDate": "2026-09-07T00:59:41.000Z"
+      }
+    },
+    {
       "id": "https://trumpstruth.org/statuses/41590",
       "publishedAt": "2026-09-07T01:06:15.000Z",
       "title": "Wow! “Donald Trump is the Counter Revolution.” Mark Levin and Victor Davis Hanson",
@@ -218,6 +400,24 @@
         "content": "<p>Wow! “Donald Trump is the Counter Revolution.” Mark Levin and Victor Davis Hanson</p>",
         "contentSnippet": "Wow! “Donald Trump is the Counter Revolution.” Mark Levin and Victor Davis Hanson",
         "guid": "https://trumpstruth.org/statuses/41590",
+        "isoDate": "2026-09-07T01:06:15.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41590",
+      "publishedAt": "2026-09-07T01:06:15.000Z",
+      "title": "Wow! “Donald Trump is the Counter Revolution.” Mark Levin and Victor Davis Hanson",
+      "text": "<p>Wow! “Donald Trump is the Counter Revolution.” Mark Levin and Victor Davis Hanson</p>",
+      "url": "https://www.trumpstruth.org/statuses/41590",
+      "raw": {
+        "creator": "",
+        "title": "Wow! “Donald Trump is the Counter Revolution.” Mark Levin and Victor Davis Hanson",
+        "link": "https://www.trumpstruth.org/statuses/41590",
+        "pubDate": "Mon, 07 Sep 2026 01:06:15 +0000",
+        "author": "",
+        "content": "<p>Wow! “Donald Trump is the Counter Revolution.” Mark Levin and Victor Davis Hanson</p>",
+        "contentSnippet": "Wow! “Donald Trump is the Counter Revolution.” Mark Levin and Victor Davis Hanson",
+        "guid": "https://www.trumpstruth.org/statuses/41590",
         "isoDate": "2026-09-07T01:06:15.000Z"
       }
     },
@@ -240,6 +440,24 @@
       }
     },
     {
+      "id": "https://www.trumpstruth.org/statuses/41591",
+      "publishedAt": "2026-09-07T01:49:31.000Z",
+      "title": "New York Times Bestselling Author, Victor Davis Hanson, just wrote what will quickly be considered one of the BEST BOOKS OF THE YEAR (Maybe the BEST!). Entitled, THE COUNTER REVOLUTION, he understands me, perhaps better, than I understand myself. From the brink of disaster, the U.S.A. is now the “hottest” Country anywhere in the World, and it was MAGA, and a lot of Great American Patriots, that got us there. Victor Davis Hanson explains it all, and better than ever before! GET HIS HISTORICALLY IMPORTANT BOOK, NOW. Thank you!!! President DJT",
+      "text": "<p>New York Times Bestselling Author, Victor Davis Hanson, just wrote what will quickly be considered one of the BEST BOOKS OF THE YEAR (Maybe the BEST!). Entitled, THE COUNTER REVOLUTION, he understands me, perhaps better, than I understand myself. From the brink of disaster, the U.S.A. is now the “hottest” Country anywhere in the World, and it was MAGA, and a lot of Great American Patriots, that got us there. Victor Davis Hanson explains it all, and better than ever before! GET HIS HISTORICALLY IMPORTANT BOOK, NOW. Thank you!!! President DJT</p>",
+      "url": "https://www.trumpstruth.org/statuses/41591",
+      "raw": {
+        "creator": "",
+        "title": "New York Times Bestselling Author, Victor Davis Hanson, just wrote what will quickly be considered one of the BEST BOOKS OF THE YEAR (Maybe the BEST!). Entitled, THE COUNTER REVOLUTION, he understands me, perhaps better, than I understand myself. From the brink of disaster, the U.S.A. is now the “hottest” Country anywhere in the World, and it was MAGA, and a lot of Great American Patriots, that got us there. Victor Davis Hanson explains it all, and better than ever before! GET HIS HISTORICALLY IMPORTANT BOOK, NOW. Thank you!!! President DJT",
+        "link": "https://www.trumpstruth.org/statuses/41591",
+        "pubDate": "Mon, 07 Sep 2026 01:49:31 +0000",
+        "author": "",
+        "content": "<p>New York Times Bestselling Author, Victor Davis Hanson, just wrote what will quickly be considered one of the BEST BOOKS OF THE YEAR (Maybe the BEST!). Entitled, THE COUNTER REVOLUTION, he understands me, perhaps better, than I understand myself. From the brink of disaster, the U.S.A. is now the “hottest” Country anywhere in the World, and it was MAGA, and a lot of Great American Patriots, that got us there. Victor Davis Hanson explains it all, and better than ever before! GET HIS HISTORICALLY IMPORTANT BOOK, NOW. Thank you!!! President DJT</p>",
+        "contentSnippet": "New York Times Bestselling Author, Victor Davis Hanson, just wrote what will quickly be considered one of the BEST BOOKS OF THE YEAR (Maybe the BEST!). Entitled, THE COUNTER REVOLUTION, he understands me, perhaps better, than I understand myself. From the brink of disaster, the U.S.A. is now the “hottest” Country anywhere in the World, and it was MAGA, and a lot of Great American Patriots, that got us there. Victor Davis Hanson explains it all, and better than ever before! GET HIS HISTORICALLY IMPORTANT BOOK, NOW. Thank you!!! President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/41591",
+        "isoDate": "2026-09-07T01:49:31.000Z"
+      }
+    },
+    {
       "id": "https://trumpstruth.org/statuses/41592",
       "publishedAt": "2026-09-07T02:06:29.000Z",
       "title": "Part 2: Donald Trump is the Counter Revolution:",
@@ -254,6 +472,24 @@
         "content": "<p>Part 2: Donald Trump is the Counter Revolution:</p>",
         "contentSnippet": "Part 2: Donald Trump is the Counter Revolution:",
         "guid": "https://trumpstruth.org/statuses/41592",
+        "isoDate": "2026-09-07T02:06:29.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41592",
+      "publishedAt": "2026-09-07T02:06:29.000Z",
+      "title": "Part 2: Donald Trump is the Counter Revolution:",
+      "text": "<p>Part 2: Donald Trump is the Counter Revolution:</p>",
+      "url": "https://www.trumpstruth.org/statuses/41592",
+      "raw": {
+        "creator": "",
+        "title": "Part 2: Donald Trump is the Counter Revolution:",
+        "link": "https://www.trumpstruth.org/statuses/41592",
+        "pubDate": "Mon, 07 Sep 2026 02:06:29 +0000",
+        "author": "",
+        "content": "<p>Part 2: Donald Trump is the Counter Revolution:</p>",
+        "contentSnippet": "Part 2: Donald Trump is the Counter Revolution:",
+        "guid": "https://www.trumpstruth.org/statuses/41592",
         "isoDate": "2026-09-07T02:06:29.000Z"
       }
     },
@@ -276,6 +512,24 @@
       }
     },
     {
+      "id": "https://www.trumpstruth.org/statuses/41593",
+      "publishedAt": "2026-09-07T02:24:50.000Z",
+      "title": "One of the absolutely best Attorney Generals in the Country is James Uthmeier of the Great State of Florida. He stands for everything MAGA - Strong on Crime and Borders, protecting our always under siege Second Amendment, Military and Vets, Low Inflation and Low Taxes, and so much more! As always, James Uthmeier has my Complete and Total Endorsement. He will never let you down!!! President DONALD J. TRUMP",
+      "text": "<p>One of the absolutely best Attorney Generals in the Country is James Uthmeier of the Great State of Florida. He stands for everything MAGA - Strong on Crime and Borders, protecting our always under siege Second Amendment, Military and Vets, Low Inflation and Low Taxes, and so much more! As always, James Uthmeier has my Complete and Total Endorsement. He will never let you down!!! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41593",
+      "raw": {
+        "creator": "",
+        "title": "One of the absolutely best Attorney Generals in the Country is James Uthmeier of the Great State of Florida. He stands for everything MAGA - Strong on Crime and Borders, protecting our always under siege Second Amendment, Military and Vets, Low Inflation and Low Taxes, and so much more! As always, James Uthmeier has my Complete and Total Endorsement. He will never let you down!!! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41593",
+        "pubDate": "Mon, 07 Sep 2026 02:24:50 +0000",
+        "author": "",
+        "content": "<p>One of the absolutely best Attorney Generals in the Country is James Uthmeier of the Great State of Florida. He stands for everything MAGA - Strong on Crime and Borders, protecting our always under siege Second Amendment, Military and Vets, Low Inflation and Low Taxes, and so much more! As always, James Uthmeier has my Complete and Total Endorsement. He will never let you down!!! President DONALD J. TRUMP</p>",
+        "contentSnippet": "One of the absolutely best Attorney Generals in the Country is James Uthmeier of the Great State of Florida. He stands for everything MAGA - Strong on Crime and Borders, protecting our always under siege Second Amendment, Military and Vets, Low Inflation and Low Taxes, and so much more! As always, James Uthmeier has my Complete and Total Endorsement. He will never let you down!!! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41593",
+        "isoDate": "2026-09-07T02:24:50.000Z"
+      }
+    },
+    {
       "id": "https://trumpstruth.org/statuses/41594",
       "publishedAt": "2026-09-07T02:35:49.000Z",
       "title": "Part 1: Donald Trump is the Counter Revolution:",
@@ -290,6 +544,24 @@
         "content": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117227309601803941</span>Part 1: Donald Trump is the Counter Revolution:</p>",
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117227309601803941Part 1: Donald Trump is the Counter Revolution:",
         "guid": "https://trumpstruth.org/statuses/41594",
+        "isoDate": "2026-09-07T02:35:49.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41594",
+      "publishedAt": "2026-09-07T02:35:49.000Z",
+      "title": "Part 1: Donald Trump is the Counter Revolution:",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117227309601803941</span>Part 1: Donald Trump is the Counter Revolution:</p>",
+      "url": "https://www.trumpstruth.org/statuses/41594",
+      "raw": {
+        "creator": "",
+        "title": "Part 1: Donald Trump is the Counter Revolution:",
+        "link": "https://www.trumpstruth.org/statuses/41594",
+        "pubDate": "Mon, 07 Sep 2026 02:35:49 +0000",
+        "author": "",
+        "content": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117227309601803941</span>Part 1: Donald Trump is the Counter Revolution:</p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117227309601803941Part 1: Donald Trump is the Counter Revolution:",
+        "guid": "https://www.trumpstruth.org/statuses/41594",
         "isoDate": "2026-09-07T02:35:49.000Z"
       }
     }
@@ -385,6 +657,5 @@
       "rationale": "The text is a retweet of a statement without any sentiment expressed.",
       "analyzedAt": "2026-09-07T04:00:28.185Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:15:b78a49ea0672dcc5bde4a4bf"
+  ]
 }

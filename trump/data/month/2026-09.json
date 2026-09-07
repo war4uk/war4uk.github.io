@@ -4,11 +4,11 @@
     {
       "date": "2026-09-01",
       "counts": {
-        "positive": 29,
+        "positive": 30,
         "neutral": 3,
         "negative": 5
       },
-      "summary": "positive:29 neutral:3 negative:5",
+      "summary": "positive:30 neutral:3 negative:5",
       "topics": [
         "Endorses multiple America First candidates across various states including Iowa, Florida, and Texas",
         "Approves significant disaster recovery funding for states affected by severe storms and flooding",
@@ -16,7 +16,7 @@
       ],
       "postsCount": 38,
       "hasDetail": true,
-      "generatedAt": "2026-09-06T08:08:12.560Z",
+      "generatedAt": "2026-09-07T08:02:12.316Z",
       "trendingTopic": "Endorses multiple America First candidates across various states including Iowa, Florida, and Texas",
       "secondaryHighlights": [
         {
@@ -26,7 +26,7 @@
           "topic": "Calls attention to unchecked violence in Chicago and criticizes local leadership"
         }
       ],
-      "selfPraiseCount": 8
+      "selfPraiseCount": 5
     },
     {
       "date": "2026-09-02",
@@ -43,7 +43,7 @@
       ],
       "postsCount": 11,
       "hasDetail": true,
-      "generatedAt": "2026-09-06T08:08:13.816Z",
+      "generatedAt": "2026-09-07T08:02:12.988Z",
       "trendingTopic": "Comments on the Iran war and negotiations",
       "secondaryHighlights": [
         {
@@ -53,7 +53,7 @@
           "topic": "Highlights construction projects in D.C."
         }
       ],
-      "selfPraiseCount": 0
+      "selfPraiseCount": 3
     },
     {
       "date": "2026-09-03",
@@ -70,7 +70,7 @@
       ],
       "postsCount": 11,
       "hasDetail": true,
-      "generatedAt": "2026-09-06T08:08:15.673Z",
+      "generatedAt": "2026-09-07T08:02:17.082Z",
       "trendingTopic": "Comments on military operations and ammunition supply in Iran",
       "secondaryHighlights": [
         {
@@ -80,7 +80,7 @@
           "topic": "Critiques AG Letitia James and media coverage of Trump"
         }
       ],
-      "selfPraiseCount": 0
+      "selfPraiseCount": 2
     },
     {
       "date": "2026-09-04",
@@ -97,7 +97,7 @@
       ],
       "postsCount": 46,
       "hasDetail": true,
-      "generatedAt": "2026-09-06T08:08:16.970Z",
+      "generatedAt": "2026-09-07T08:02:18.285Z",
       "trendingTopic": "Announces Adam Telle as Acting Secretary of the Army, effective immediately",
       "secondaryHighlights": [
         {
@@ -107,7 +107,7 @@
           "topic": "Discusses the impact of the Radical Left on America"
         }
       ],
-      "selfPraiseCount": 4
+      "selfPraiseCount": 5
     },
     {
       "date": "2026-09-05",
@@ -122,7 +122,7 @@
       ],
       "postsCount": 14,
       "hasDetail": true,
-      "generatedAt": "2026-09-06T20:00:05.352Z",
+      "generatedAt": "2026-09-07T08:02:18.923Z",
       "trendingTopic": "Announces participation in a major rally in Dallas",
       "secondaryHighlights": [
         {
@@ -146,7 +146,7 @@
       ],
       "postsCount": 90,
       "hasDetail": true,
-      "generatedAt": "2026-09-07T04:00:18.421Z",
+      "generatedAt": "2026-09-07T08:02:19.833Z",
       "trendingTopic": "Critiques Spain's border control and calls for action",
       "secondaryHighlights": [
         {
@@ -156,7 +156,7 @@
           "topic": "Calls for voter ID and critiques election integrity"
         }
       ],
-      "selfPraiseCount": 0
+      "selfPraiseCount": 5
     },
     {
       "date": "2026-09-07",
@@ -171,9 +171,9 @@
         "Trump celebrates strong job gains and calls for lower interest rates",
         "Trump promotes tourism boom and Americanism"
       ],
-      "postsCount": 15,
+      "postsCount": 30,
       "hasDetail": true,
-      "generatedAt": "2026-09-07T04:00:35.821Z",
+      "generatedAt": "2026-09-07T08:02:22.547Z",
       "trendingTopic": "Trump headlines GOP convention in Dallas and focuses on Texas Senate race",
       "secondaryHighlights": [
         {
@@ -183,18 +183,18 @@
           "topic": "Trump promotes tourism boom and Americanism"
         }
       ],
-      "selfPraiseCount": 0
+      "selfPraiseCount": 4
     }
   ],
-  "generatedAt": "2026-09-07T04:00:35.821Z",
+  "generatedAt": "2026-09-07T08:02:22.547Z",
   "trendingTopic": "Endorses multiple America First candidates across various states including Iowa, Florida, and Texas",
   "secondaryHighlights": [
     {
-      "topic": "Comments on the U.S.-Canada currency imbalance"
+      "topic": "Comments on military operations and ammunition supply in Iran"
     },
     {
       "topic": "Trump headlines GOP convention in Dallas and focuses on Texas Senate race"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:7:349d126568c9e878e3973dc9"
+  "topicsCacheKey": "month-themes-v5:7:241d3ddf849ea213c2a2746d"
 }

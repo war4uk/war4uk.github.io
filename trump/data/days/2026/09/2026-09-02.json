@@ -6,7 +6,7 @@
     "negative": 2
   },
   "summary": "positive:5 neutral:4 negative:2",
-  "generatedAt": "2026-09-06T08:08:13.816Z",
+  "generatedAt": "2026-09-07T08:02:12.988Z",
   "topics": [
     "Comments on the Iran war and negotiations",
     "Discusses drug prices and national security improvements",
@@ -21,7 +21,9 @@
       "topic": "Highlights construction projects in D.C."
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v8:11:080a78cf5fa07dfddd212eb5",
+  "selfPraiseCacheKey": "self-praise-v1:11:080a78cf5fa07dfddd212eb5",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41477",
@@ -289,6 +291,5 @@
       "rationale": "The statement about Apple Maps changing the name of Lake Ontario is factual and does not convey a strong sentiment.",
       "analyzedAt": "2026-09-05T07:41:43.648Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:11:080a78cf5fa07dfddd212eb5"
+  ]
 }

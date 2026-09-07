@@ -1,12 +1,12 @@
 {
   "date": "2026-09-01",
   "counts": {
-    "positive": 29,
+    "positive": 30,
     "neutral": 3,
     "negative": 5
   },
-  "summary": "positive:29 neutral:3 negative:5",
-  "generatedAt": "2026-09-06T08:08:12.560Z",
+  "summary": "positive:30 neutral:3 negative:5",
+  "generatedAt": "2026-09-07T08:02:12.316Z",
   "topics": [
     "Endorses multiple America First candidates across various states including Iowa, Florida, and Texas",
     "Approves significant disaster recovery funding for states affected by severe storms and flooding",
@@ -21,13 +21,15 @@
       "topic": "Calls attention to unchecked violence in Chicago and criticizes local leadership"
     }
   ],
-  "selfPraiseCount": 8,
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v8:38:a9a4ae796f23828d30b0286a",
+  "selfPraiseCacheKey": "self-praise-v1:38:a9a4ae796f23828d30b0286a",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41439",
       "publishedAt": "2026-09-01T02:43:25.000Z",
       "title": "A great Senator and a great golfer!!! President DJT",
-      "text": "<p>A great Senator and a great golfer!!! President DJT</p>",
+      "text": "<p>A great Senator and a great golfer!!! President DJT</p>\n\n[Image] The image shows two men standing on a golf course, smiling at the camera. One man is wearing a blue polo shirt and white pants, while the other is dressed in a white polo shirt and beige pants, with a cap. In the background, there is a crowd of spectators and a golf course setting, including a sand trap and trees. The atmosphere appears to be lively, likely during a golf tournament.",
       "url": "https://www.trumpstruth.org/statuses/41439",
       "raw": {
         "creator": "",
@@ -39,7 +41,11 @@
         "contentSnippet": "A great Senator and a great golfer!!! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/41439",
         "isoDate": "2026-09-01T02:43:25.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T07:54:07.001Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17967/f78f8138c8fa8c35-f00abe55a934.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41440",
@@ -405,7 +411,7 @@
       "id": "https://www.trumpstruth.org/statuses/41460",
       "publishedAt": "2026-09-01T19:39:26.000Z",
       "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class:",
-      "text": "<p>NVIDIA AI Factory Compute Is Becoming an Investable Asset Class: <a href=\"https://x.com/JensenHuang/article/2086934705207959965\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/JensenHuang/article/2086</span><span class=\"invisible\">934705207959965</span></a></p>",
+      "text": "<p>NVIDIA AI Factory Compute Is Becoming an Investable Asset Class: <a href=\"https://x.com/JensenHuang/article/2086934705207959965\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/JensenHuang/article/2086</span><span class=\"invisible\">934705207959965</span></a></p>\n\n[Image] The image features a tweet from Jensen Huang, the CEO of NVIDIA, dated August 10. It discusses NVIDIA's announcement of partnerships with several financial firms to create platforms aimed at mobilizing over $500 billion for AI infrastructure. The tweet emphasizes a shift in the AI industry towards financing AI factories as productive infrastructure, highlighting the growing value of AI compute resources. The tweet has received significant engagement, with thousands of likes and retweets.",
       "url": "https://www.trumpstruth.org/statuses/41460",
       "raw": {
         "creator": "",
@@ -417,7 +423,11 @@
         "contentSnippet": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class: https://x.com/JensenHuang/article/2086934705207959965",
         "guid": "https://www.trumpstruth.org/statuses/41460",
         "isoDate": "2026-09-01T19:39:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T07:54:01.264Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17968/c37c7132db3a883e-0c75627f7667.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41459",
@@ -459,7 +469,7 @@
       "id": "https://www.trumpstruth.org/statuses/41464",
       "publishedAt": "2026-09-01T20:01:32.000Z",
       "title": "Communism is an INHUMAN ideology that has led to DEATH and DESTRUCTION around the World! I have been warning Americans about it for decades, and the threat to our Country has never been greater. Fortunately, Patriots Jack Posobiec and Joshua Lisec know how to fight back hard, and WIN. We must stop the SOCIALIST REVOLUTION. “Unhumans” is a fantastic book — Get your copy today! President DONALD J. TRUMP",
-      "text": "<p>Communism is an INHUMAN ideology that has led to DEATH and DESTRUCTION around the World! I have been warning Americans about it for decades, and the threat to our Country has never been greater. Fortunately, Patriots Jack Posobiec and Joshua Lisec know how to fight back hard, and WIN. We must stop the SOCIALIST REVOLUTION. “Unhumans” is a fantastic book — Get your copy today! President DONALD J. TRUMP<br/><a href=\"https://amzn.to/4qusHG2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">amzn.to/4qusHG2</span><span class=\"invisible\"></span></a></p>",
+      "text": "<p>Communism is an INHUMAN ideology that has led to DEATH and DESTRUCTION around the World! I have been warning Americans about it for decades, and the threat to our Country has never been greater. Fortunately, Patriots Jack Posobiec and Joshua Lisec know how to fight back hard, and WIN. We must stop the SOCIALIST REVOLUTION. “Unhumans” is a fantastic book — Get your copy today! President DONALD J. TRUMP<br/><a href=\"https://amzn.to/4qusHG2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">amzn.to/4qusHG2</span><span class=\"invisible\"></span></a></p>\n\n[Image] The image features a book titled \"UNHUMANS\" by Jack Posobiec and Joshua Lisec, labeled as a \"New York Times Bestseller\" and marked as the 2nd edition. The cover includes a depiction of a statue resembling the Statue of Liberty, holding a weapon, set against a backdrop of iconic New York City skyscrapers. The book promises \"14 NEW Chapters\" and includes a subtitle that reads \"SOCIALIST REVOLUTION: Tactics for Patriots to Survive a Communist Uprising.\" The overall design has a dark and dramatic aesthetic.",
       "url": "https://www.trumpstruth.org/statuses/41464",
       "raw": {
         "creator": "",
@@ -471,13 +481,17 @@
         "contentSnippet": "Communism is an INHUMAN ideology that has led to DEATH and DESTRUCTION around the World! I have been warning Americans about it for decades, and the threat to our Country has never been greater. Fortunately, Patriots Jack Posobiec and Joshua Lisec know how to fight back hard, and WIN. We must stop the SOCIALIST REVOLUTION. “Unhumans” is a fantastic book — Get your copy today! President DONALD J. TRUMP\nhttps://amzn.to/4qusHG2",
         "guid": "https://www.trumpstruth.org/statuses/41464",
         "isoDate": "2026-09-01T20:01:32.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T07:53:58.825Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17971/84caeccb19f26465-b84cb1b95f34.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41463",
       "publishedAt": "2026-09-01T20:04:08.000Z",
       "title": "We are unleashing American Energy Dominance! President DONALD J. TRUMP",
-      "text": "<p>We are unleashing American Energy Dominance! President DONALD J. TRUMP</p>",
+      "text": "<p>We are unleashing American Energy Dominance! President DONALD J. TRUMP</p>\n\n[Image] The images contain text documents discussing President Trump's energy policies and initiatives. The first document outlines his focus on increasing the United States' refining capacity to lower gasoline prices and emphasizes the importance of American energy dominance. It mentions actions taken to expand oil and natural gas production, reduce regulations, and enhance energy independence. The second document highlights specific promises kept by Trump, including a historic oil deal with Venezuela, record LNG exports, and expanded access to federal lands for energy production. It also discusses deregulation efforts and the halting of the Biden-era electric vehicle mandate.",
       "url": "https://www.trumpstruth.org/statuses/41463",
       "raw": {
         "creator": "",
@@ -489,13 +503,18 @@
         "contentSnippet": "We are unleashing American Energy Dominance! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/41463",
         "isoDate": "2026-09-01T20:04:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T07:53:56.451Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17969/52c05b5025bf4165-4d997f904cf8.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17970/cfcf584aa21e5c12-5a8959403761.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41465",
       "publishedAt": "2026-09-01T20:10:05.000Z",
       "title": "Jon Voight stopped by the White House in order to support the Movie and Television Industry in America! President DONALD J. TRUMP",
-      "text": "<p>Jon Voight stopped by the White House in order to support the Movie and Television Industry in America! President DONALD J. TRUMP</p>",
+      "text": "<p>Jon Voight stopped by the White House in order to support the Movie and Television Industry in America! President DONALD J. TRUMP</p>\n\n[Image] The image shows two men standing side by side, both smiling and giving a thumbs-up gesture. They are positioned in a room with ornate decor, featuring a large portrait on the wall and a framed document behind them. To the left, there is a trophy on a table, which appears to be related to the FIFA World Cup. The American flag is visible in the background, along with blue curtains and gold accents in the room's design.",
       "url": "https://www.trumpstruth.org/statuses/41465",
       "raw": {
         "creator": "",
@@ -507,13 +526,17 @@
         "contentSnippet": "Jon Voight stopped by the White House in order to support the Movie and Television Industry in America! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/41465",
         "isoDate": "2026-09-01T20:10:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T07:53:53.442Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17972/9843bb07f3362d5a-839c31da48a4.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41466",
       "publishedAt": "2026-09-01T20:43:00.000Z",
       "title": "Kathy Hochul, considered the Worst Governor in the Country, in a recent picture working hard to get the Arab Vote, even though they can’t stand her! Congestion Pricing in Manhattan is hurting her with everybody, but especially the people for whom she wears the hijab. The whole thing is CRAZY! President DONALD J. TRUMP",
-      "text": "<p>Kathy Hochul, considered the Worst Governor in the Country, in a recent picture working hard to get the Arab Vote, even though they can’t stand her! Congestion Pricing in Manhattan is hurting her with everybody, but especially the people for whom she wears the hijab. The whole thing is CRAZY! President DONALD J. TRUMP</p>",
+      "text": "<p>Kathy Hochul, considered the Worst Governor in the Country, in a recent picture working hard to get the Arab Vote, even though they can’t stand her! Congestion Pricing in Manhattan is hurting her with everybody, but especially the people for whom she wears the hijab. The whole thing is CRAZY! President DONALD J. TRUMP</p>\n\n[Image] The image shows a woman in a suit and a headscarf speaking into a microphone, while a man in traditional attire stands beside her with his arm around her shoulder. They appear to be at an event, with a red ribbon in the foreground suggesting a ceremonial occasion. The background features decorative elements, possibly indicating a culturally significant location. A person in a blue garment is partially visible in the foreground, facing away from the camera.",
       "url": "https://www.trumpstruth.org/statuses/41466",
       "raw": {
         "creator": "",
@@ -525,7 +548,11 @@
         "contentSnippet": "Kathy Hochul, considered the Worst Governor in the Country, in a recent picture working hard to get the Arab Vote, even though they can’t stand her! Congestion Pricing in Manhattan is hurting her with everybody, but especially the people for whom she wears the hijab. The whole thing is CRAZY! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/41466",
         "isoDate": "2026-09-01T20:43:00.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T07:53:51.386Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17973/2d02810cecafd84f-d247708c9003.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41467",
@@ -937,6 +964,5 @@
       "rationale": "The text expresses positive sentiments about productive conversations, the strength of North Carolina, and the speaker's commitment to the state, highlighting achievements and gratitude.",
       "analyzedAt": "2026-09-05T07:41:31.208Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v8:38:a9a4ae796f23828d30b0286a"
+  ]
 }

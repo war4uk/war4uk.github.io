@@ -6,7 +6,7 @@
     "negative": 12
   },
   "summary": "positive:8 neutral:70 negative:12",
-  "generatedAt": "2026-09-07T04:00:18.421Z",
+  "generatedAt": "2026-09-07T08:02:19.833Z",
   "topics": [
     "Critiques Spain's border control and calls for action",
     "Comments on the U.S.-Canada currency imbalance",
@@ -21,8 +21,9 @@
       "topic": "Calls for voter ID and critiques election integrity"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 5,
   "topicsCacheKey": "day-themes-v8:90:5936451baf188d25730003b7",
+  "selfPraiseCacheKey": "self-praise-v1:90:5936451baf188d25730003b7",
   "posts": [
     {
       "id": "https://trumpstruth.org/statuses/41530",
@@ -136,7 +137,7 @@
       "id": "https://trumpstruth.org/statuses/41533",
       "publishedAt": "2026-09-06T15:54:02.000Z",
       "title": "Even this jerk is beginning to get it!",
-      "text": "<p>Even this jerk is beginning to get it!</p>",
+      "text": "<p>Even this jerk is beginning to get it!</p>\n\n[Image] The image features a man holding up a red t-shirt with the text \"TRUMP IS MY PRESIDENT\" printed in large white letters. The man has long gray hair and a serious expression. In the background, there are black-and-white photographs of various people, creating a collage effect.",
       "url": "https://trumpstruth.org/statuses/41533",
       "raw": {
         "creator": "",
@@ -148,7 +149,11 @@
         "contentSnippet": "Even this jerk is beginning to get it!",
         "guid": "https://trumpstruth.org/statuses/41533",
         "isoDate": "2026-09-06T15:54:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T07:56:41.858Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17988/9eaa9c0034ec8ad4-1314aa2abd2f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41533",
@@ -172,7 +177,7 @@
       "id": "https://trumpstruth.org/statuses/41534",
       "publishedAt": "2026-09-06T17:47:18.000Z",
       "title": "[No Title] - Post from September 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image depicts two men on horseback, dressed in military uniforms reminiscent of the 18th century. One man has a hairstyle and facial features resembling a contemporary figure, while the other resembles George Washington. They are positioned in a wooded area, with other figures and horses visible in the background. The scene is painted in a classical style, with a dramatic sky and lush greenery surrounding them.",
       "url": "https://trumpstruth.org/statuses/41534",
       "raw": {
         "creator": "",
@@ -184,13 +189,17 @@
         "contentSnippet": "",
         "guid": "https://trumpstruth.org/statuses/41534",
         "isoDate": "2026-09-06T17:47:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T07:56:40.432Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17989/1f949e539defa2d7-4fa62f105a88.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41534",
       "publishedAt": "2026-09-06T17:47:18.000Z",
       "title": "[No Title] - Post from September 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image depicts two men on horseback, dressed in military uniforms reminiscent of the 18th century. One man has a hairstyle and facial features resembling a contemporary figure, while the other resembles George Washington. They are positioned in a wooded area, with other figures and horses visible in the background. The scene is painted in a classical style, with a dramatic sky and lush greenery surrounding them.",
       "url": "https://www.trumpstruth.org/statuses/41534",
       "raw": {
         "creator": "",
@@ -202,7 +211,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41534",
         "isoDate": "2026-09-06T17:47:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T07:55:34.125Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17989/1f949e539defa2d7-4fa62f105a88.jpg"
+      ]
     },
     {
       "id": "https://trumpstruth.org/statuses/41539",
@@ -532,7 +545,7 @@
       "id": "https://trumpstruth.org/statuses/41549",
       "publishedAt": "2026-09-06T18:40:38.000Z",
       "title": "[No Title] - Post from September 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image shows a man in a suit standing inside a private jet. He has light-colored hair and is wearing a red tie. Behind him, there is a large screen displaying a smiling man wearing a red \"TRUMP 2024\" hat. The interior of the jet features a luxurious design with a light-colored carpet and dark wood accents.",
       "url": "https://trumpstruth.org/statuses/41549",
       "raw": {
         "creator": "",
@@ -544,7 +557,11 @@
         "contentSnippet": "",
         "guid": "https://trumpstruth.org/statuses/41549",
         "isoDate": "2026-09-06T18:40:38.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T07:56:28.879Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18004/462ccd9e005afabb-2791bf4f6d2b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41549",
@@ -838,7 +855,7 @@
       "id": "https://www.trumpstruth.org/statuses/41554",
       "publishedAt": "2026-09-06T18:46:32.000Z",
       "title": "[No Title] - Post from September 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image presents a graphic titled \"Non-Tariff Cheating,\" highlighting various tactics used by foreign countries to circumvent trade regulations. It features a grid layout with illustrations and text describing methods such as devaluing currency, using misleading labels, selling products below production cost, and implementing unusual import tests. Other points include government subsidies for factories and practices like copying products and offering cash back on exports. Each tactic is visually represented with icons and brief explanations.",
       "url": "https://www.trumpstruth.org/statuses/41554",
       "raw": {
         "creator": "",
@@ -850,7 +867,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41554",
         "isoDate": "2026-09-06T18:46:32.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T07:55:13.420Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18009/434e38910a114cb4-9a2bb6a61218.jpg"
+      ]
     },
     {
       "id": "https://trumpstruth.org/statuses/41553",
@@ -874,7 +895,7 @@
       "id": "https://www.trumpstruth.org/statuses/41553",
       "publishedAt": "2026-09-06T18:47:38.000Z",
       "title": "[No Title] - Post from September 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image presents a list titled \"NON-TARIFF CHEATING,\" outlining eight hidden tricks used by foreign countries. Each trick is accompanied by a brief description and an illustrative icon. The tricks include actions like devaluing currency, using misleading labels to avoid taxes, selling products below cost, government subsidies for factories, banning certain imports, implementing unusual tests to restrict access, copying products, and offering cash back on exports. The overall theme highlights various strategies that may undermine fair trade practices.",
       "url": "https://www.trumpstruth.org/statuses/41553",
       "raw": {
         "creator": "",
@@ -886,7 +907,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41553",
         "isoDate": "2026-09-06T18:47:38.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T07:55:11.589Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18008/c27d9e979b0add83-415a6c8c0f8f.jpg"
+      ]
     },
     {
       "id": "https://trumpstruth.org/statuses/41552",
@@ -1180,7 +1205,7 @@
       "id": "https://trumpstruth.org/statuses/41561",
       "publishedAt": "2026-09-06T19:06:45.000Z",
       "title": "Last week at the White House Ballroom/Military Complex. It will be the finest of its kind, anywhere in the World! President DONALD J. TRUMP",
-      "text": "<p>Last week at the White House Ballroom/Military Complex. It will be the finest of its kind, anywhere in the World! President DONALD J. TRUMP</p>",
+      "text": "<p>Last week at the White House Ballroom/Military Complex. It will be the finest of its kind, anywhere in the World! President DONALD J. TRUMP</p>\n\n[Image] The image shows a man in a suit standing at a construction site. Behind him, there are partially constructed buildings with exposed concrete and steel beams. Construction workers are visible in the background, and various construction equipment is present, including a lift and a red machine. The ground is uneven with gravel and wooden planks scattered around.",
       "url": "https://trumpstruth.org/statuses/41561",
       "raw": {
         "creator": "",
@@ -1192,13 +1217,17 @@
         "contentSnippet": "Last week at the White House Ballroom/Military Complex. It will be the finest of its kind, anywhere in the World! President DONALD J. TRUMP",
         "guid": "https://trumpstruth.org/statuses/41561",
         "isoDate": "2026-09-06T19:06:45.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T07:56:09.300Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18016/b495cf5401e758c2-32645ca8c2c0.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41561",
       "publishedAt": "2026-09-06T19:06:45.000Z",
       "title": "Last week at the White House Ballroom/Military Complex. It will be the finest of its kind, anywhere in the World! President DONALD J. TRUMP",
-      "text": "<p>Last week at the White House Ballroom/Military Complex. It will be the finest of its kind, anywhere in the World! President DONALD J. TRUMP</p>",
+      "text": "<p>Last week at the White House Ballroom/Military Complex. It will be the finest of its kind, anywhere in the World! President DONALD J. TRUMP</p>\n\n[Image] The image shows a man in a suit standing on a construction site. Behind him, there are partially constructed buildings with exposed concrete and steel beams. Construction workers are visible in the background, and various construction equipment is present, including a lift and a red machine. The ground is uneven with gravel and wooden planks scattered around.",
       "url": "https://www.trumpstruth.org/statuses/41561",
       "raw": {
         "creator": "",
@@ -1210,13 +1239,17 @@
         "contentSnippet": "Last week at the White House Ballroom/Military Complex. It will be the finest of its kind, anywhere in the World! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/41561",
         "isoDate": "2026-09-06T19:06:45.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T07:55:47.656Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18016/b495cf5401e758c2-32645ca8c2c0.jpg"
+      ]
     },
     {
       "id": "https://trumpstruth.org/statuses/41564",
       "publishedAt": "2026-09-06T19:11:50.000Z",
       "title": "[No Title] - Post from September 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a man wearing a white \"Make America Great Again\" hat and a polo shirt with \"Trump International Golf Club\" embroidered on it. He is pointing directly at the viewer with a serious expression. In the background, there are numerous American flags and a crowd of supporters, some of whom are cheering and holding signs that also reference the \"Make America Great Again\" slogan. The text at the top reads, \"We made America great again.\"",
       "url": "https://trumpstruth.org/statuses/41564",
       "raw": {
         "creator": "",
@@ -1228,13 +1261,17 @@
         "contentSnippet": "",
         "guid": "https://trumpstruth.org/statuses/41564",
         "isoDate": "2026-09-06T19:11:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T07:56:07.803Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18019/0eb8ba3fcf3a7066-2ccadc8d68b6.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41564",
       "publishedAt": "2026-09-06T19:11:50.000Z",
       "title": "[No Title] - Post from September 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a man wearing a white \"Make America Great Again\" hat and a polo shirt with \"Trump International Golf Club\" embroidered on it. He is pointing directly at the viewer with a serious expression. In the background, there are numerous American flags and a crowd of supporters, some of whom are cheering and holding signs that also reference the \"Make America Great Again\" slogan. The text at the top reads, \"We made America great again.\"",
       "url": "https://www.trumpstruth.org/statuses/41564",
       "raw": {
         "creator": "",
@@ -1246,7 +1283,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41564",
         "isoDate": "2026-09-06T19:11:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T07:55:45.197Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18019/0eb8ba3fcf3a7066-2ccadc8d68b6.jpg"
+      ]
     },
     {
       "id": "https://trumpstruth.org/statuses/41563",
