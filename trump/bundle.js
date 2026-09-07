@@ -700,13 +700,25 @@ function extractName(text) {
 }
 function headlineFromPost(post) {
   const title = cleanTitle(post.title || post.raw?.title || "");
-  const body = cleanTitle(post.raw?.contentSnippet || stripHtml(post.text || ""));
-  return displayLead(title) || displayLead(body);
+  const { body } = splitImageDescription(rawPostText(post));
+  return displayLead(title) || displayLead(cleanTitle(body));
 }
-function snippetFromPost(post) {
-  const snippet = stripHtml(post.raw?.contentSnippet || post.text || "");
-  const title = cleanTitle(post.title || post.raw?.title || "");
-  const body = snippet || title;
+var IMAGE_MARKER = "[Image]";
+function rawPostText(post) {
+  return post.text || post.raw?.contentSnippet || "";
+}
+function splitImageDescription(raw) {
+  const text = stripHtml(raw);
+  if (!text) return { body: "" };
+  const idx = text.lastIndexOf(IMAGE_MARKER);
+  if (idx === -1) return { body: text };
+  const after = text.slice(idx + IMAGE_MARKER.length).trim();
+  const before = text.slice(0, idx).trim();
+  if (!after) return { body: before || text };
+  return { body: before, imageDescription: after };
+}
+function snippetFromBody(body) {
+  if (!body) return "";
   if (body.length <= 180) return body;
   const slice = body.slice(0, 180);
   const at = slice.lastIndexOf(" ");
@@ -736,18 +748,26 @@ function listDayPosts(posts, sentiments = []) {
   }
   const out = [];
   for (const post of dedupePosts(posts)) {
+    const { body, imageDescription } = splitImageDescription(rawPostText(post));
     const cleaned = displayLead(cleanTitle(post.title || post.raw?.title || ""));
-    const snippet = snippetFromPost(post);
-    const title = cleaned || displayLead(snippet) || UNTITLED_POST_LABEL;
+    const title = cleaned || displayLead(body) || UNTITLED_POST_LABEL;
+    const snippet = snippetFromBody(body);
     const id = String(post.id || post.url || postDedupeKey(post));
     const url = String(post.url || post.raw?.link || post.id || "");
     const key = postDedupeKey(post);
     const sentiment = byId.get(id) || byId.get(key) || byId.get(url);
+    const hasFullText = Boolean(body && normalizeForCompare(body) !== normalizeForCompare(title));
+    const expandable = Boolean(
+      hasFullText || title.length > 140 || imageDescription && imageDescription.length > 80
+    );
     out.push({
       id,
       url,
       title,
       snippet: isRedundantSnippet(title, snippet) ? "" : snippet,
+      ...body ? { fullText: body } : {},
+      ...imageDescription ? { imageDescription } : {},
+      ...expandable ? { expandable: true } : {},
       publishedAt: post.publishedAt,
       ...sentiment ? { sentiment } : {}
     });
@@ -833,6 +853,30 @@ function formatPostTime(iso) {
   if (Number.isNaN(d.getTime())) return iso.slice(11, 16);
   return d.toISOString().slice(11, 16) + " UTC";
 }
+function formatDayPost(post) {
+  const hasFullText = Boolean(post.fullText && post.fullText !== post.title);
+  const classes = ["day-post"];
+  if (post.expandable) classes.push("is-expandable");
+  if (hasFullText) classes.push("has-fulltext");
+  const fullText = hasFullText ? `<p class="day-post-fulltext">${escapeHtml(post.fullText)}</p>` : "";
+  const snippet = !post.expandable && post.snippet ? `<span class="day-post-snippet">${escapeHtml(post.snippet)}</span>` : "";
+  const image = post.imageDescription ? `<div class="day-post-image"><span class="day-post-image-label">Image description</span><p class="day-post-image-text">${escapeHtml(post.imageDescription)}</p></div>` : "";
+  const meta = [formatPostTime(post.publishedAt), post.sentiment].filter(Boolean).join(" \xB7 ");
+  const toggle = post.expandable ? `<button type="button" class="day-post-toggle" aria-expanded="false">Show more</button>` : "";
+  const original = post.url ? `<a class="day-post-original" href="${escapeHtml(post.url)}" target="_blank" rel="noopener noreferrer">Original post</a>` : "";
+  return `<li class="${classes.join(" ")}">
+    <div class="day-post-main">
+      <p class="day-post-title">${escapeHtml(post.title)}</p>
+      ${fullText}
+      ${snippet}
+      ${image}
+    </div>
+    <div class="day-post-footer">
+      <span class="day-post-meta">${escapeHtml(meta)}</span>
+      <div class="day-post-actions">${toggle}${original}</div>
+    </div>
+  </li>`;
+}
 function ensureDayDetail(runtime) {
   const doc = runtime.document;
   let root = doc.getElementById("day-detail");
@@ -855,7 +899,16 @@ function ensureDayDetail(runtime) {
     const target = event.target;
     if (target?.getAttribute("data-day-detail-close") === "true" || target?.id === "day-detail-close") {
       closeDayDetail(runtime, "push");
+      return;
     }
+    const toggle = target?.closest?.(".day-post-toggle");
+    if (!toggle || !root.contains(toggle)) return;
+    const item = toggle.closest(".day-post");
+    if (!item) return;
+    event.preventDefault();
+    const expanded = item.classList.toggle("is-expanded");
+    toggle.setAttribute("aria-expanded", expanded ? "true" : "false");
+    toggle.textContent = expanded ? "Show less" : "Show more";
   });
   return root;
 }
@@ -900,13 +953,7 @@ function renderDayDetail(runtime, summary) {
   const primaryTopic = board.primary.topic || summary.trendingTopic || "\u2014";
   const primaryName = board.primary.name || summary.trendingName || "";
   const secondaryRows = board.secondary.length ? board.secondary.map((s) => formatStoryItem(s, "day-story-topic", "day-story-name")).join("") : '<li class="day-empty">No additional stories</li>';
-  const postRows = board.posts.length ? board.posts.map((p) => {
-    const label = escapeHtml(p.title);
-    const snippet = p.snippet ? `<span class="day-post-snippet">${escapeHtml(p.snippet)}</span>` : "";
-    const meta = [formatPostTime(p.publishedAt), p.sentiment].filter(Boolean).join(" \xB7 ");
-    const href = p.url ? ` href="${escapeHtml(p.url)}" target="_blank" rel="noopener noreferrer"` : "";
-    return `<li class="day-post"><a class="day-post-link"${href}><span class="day-post-title">${label}</span>${snippet}<span class="day-post-meta">${escapeHtml(meta)}</span></a></li>`;
-  }).join("") : '<li class="day-empty">No posts for this day</li>';
+  const postRows = board.posts.length ? board.posts.map((p) => formatDayPost(p)).join("") : '<li class="day-empty">No posts for this day</li>';
   title.textContent = summary.date;
   body.innerHTML = `
     <section class="day-primary">
