@@ -186,6 +186,16 @@
       margin-bottom: 0.25rem;
     }
     .day-post-image-text { color: #333; font-size: 0.9rem; font-weight: 400; }
+    .day-post-media { margin-top: 0.4rem; display: grid; gap: 0.4rem; }
+    .day-post-photo {
+      display: block;
+      width: 100%;
+      height: auto;
+      max-height: 280px;
+      object-fit: contain;
+      border-radius: 8px;
+      background: #f3f3f3;
+    }
     .day-post-footer { display: grid; gap: 0.35rem; }
     .day-post-actions {
       display: flex;
@@ -237,6 +247,6 @@
   <div id="status">Loading…</div>
   <p id="empty-state" hidden>No data available for this month</p>
   <div id="grid" hidden></div>
-  <script type="module" src="./bundle.js?v=day-post-expand-1"></script>
+  <script type="module" src="./bundle.js?v=day-post-photos-1"></script>
 </body>
 </html>

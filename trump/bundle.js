@@ -276,14 +276,18 @@ var DaySummaryService = class {
     const normalizedTopics = Array.isArray(payload.topics) ? payload.topics.map((t) => typeof t === "string" ? t : String(t?.phrase ?? t?.topic ?? "")).filter(Boolean) : [];
     const sentiments = payload.counts ?? payload.sentiments ?? { positive: 0, neutral: 0, negative: 0 };
     const summaryText = payload.summary ?? payload.fallbackMessage ?? "No summary available";
-    const posts = Array.isArray(payload.posts) ? payload.posts.map((p) => ({
-      id: String(p?.id || p?.url || ""),
-      url: String(p?.url || p?.raw?.link || p?.id || ""),
-      title: typeof p?.title === "string" ? p.title : "",
-      text: typeof p?.text === "string" ? p.text : "",
-      publishedAt: typeof p?.publishedAt === "string" ? p.publishedAt : void 0,
-      raw: p?.raw && typeof p.raw === "object" ? p.raw : void 0
-    })).filter((p) => p.id || p.url) : [];
+    const posts = Array.isArray(payload.posts) ? payload.posts.map((p) => {
+      const imageUrls = Array.isArray(p?.imageUrls) ? p.imageUrls.filter((url2) => typeof url2 === "string" && /^https:\/\//i.test(url2)) : [];
+      return {
+        id: String(p?.id || p?.url || ""),
+        url: String(p?.url || p?.raw?.link || p?.id || ""),
+        title: typeof p?.title === "string" ? p.title : "",
+        text: typeof p?.text === "string" ? p.text : "",
+        publishedAt: typeof p?.publishedAt === "string" ? p.publishedAt : void 0,
+        ...imageUrls.length ? { imageUrls } : {},
+        raw: p?.raw && typeof p.raw === "object" ? p.raw : void 0
+      };
+    }).filter((p) => p.id || p.url) : [];
     const postSentiments = Array.isArray(payload.sentiments) ? payload.sentiments.map((s) => ({
       postId: String(s?.postId || ""),
       label: s?.label === "positive" || s?.label === "negative" || s?.label === "neutral" ? s.label : void 0
@@ -738,6 +742,19 @@ function isRedundantSnippet(title, snippet) {
   return n >= 32 && a.slice(0, n) === b.slice(0, n);
 }
 var UNTITLED_POST_LABEL = "Untitled post";
+var IMAGE_FILE = /\.(?:jpe?g|png|webp|gif)(?:\?|#|$)/i;
+function sanitizeImageUrls(urls) {
+  if (!Array.isArray(urls)) return [];
+  const seen = /* @__PURE__ */ new Set();
+  const out = [];
+  for (const url of urls) {
+    if (typeof url !== "string" || !/^https:\/\//i.test(url) || !IMAGE_FILE.test(url)) continue;
+    if (seen.has(url)) continue;
+    seen.add(url);
+    out.push(url);
+  }
+  return out;
+}
 function listDayPosts(posts, sentiments = []) {
   const byId = /* @__PURE__ */ new Map();
   for (const s of sentiments) {
@@ -760,6 +777,7 @@ function listDayPosts(posts, sentiments = []) {
     const expandable = Boolean(
       hasFullText || title.length > 140 || imageDescription && imageDescription.length > 80
     );
+    const imageUrls = sanitizeImageUrls(post.imageUrls);
     out.push({
       id,
       url,
@@ -767,6 +785,7 @@ function listDayPosts(posts, sentiments = []) {
       snippet: isRedundantSnippet(title, snippet) ? "" : snippet,
       ...body ? { fullText: body } : {},
       ...imageDescription ? { imageDescription } : {},
+      ...imageUrls.length ? { imageUrls } : {},
       ...expandable ? { expandable: true } : {},
       publishedAt: post.publishedAt,
       ...sentiment ? { sentiment } : {}
@@ -855,9 +874,16 @@ function formatPostTime(iso) {
 }
 function formatDayPost(post) {
   const hasFullText = Boolean(post.fullText && post.fullText !== post.title);
+  const photos = (post.imageUrls || []).map((url) => {
+    const alt = escapeHtml(post.imageDescription || "Post image");
+    return `<img class="day-post-photo" src="${escapeHtml(url)}" alt="${alt}" loading="lazy" referrerpolicy="no-referrer">`;
+  }).join("");
+  const media = photos ? `<div class="day-post-media">${photos}</div>` : "";
+  const hideUntitled = Boolean(photos && post.title === UNTITLED_POST_LABEL);
   const classes = ["day-post"];
   if (post.expandable) classes.push("is-expandable");
   if (hasFullText) classes.push("has-fulltext");
+  const title = hideUntitled ? "" : `<p class="day-post-title">${escapeHtml(post.title)}</p>`;
   const fullText = hasFullText ? `<p class="day-post-fulltext">${escapeHtml(post.fullText)}</p>` : "";
   const snippet = !post.expandable && post.snippet ? `<span class="day-post-snippet">${escapeHtml(post.snippet)}</span>` : "";
   const image = post.imageDescription ? `<div class="day-post-image"><span class="day-post-image-label">Image description</span><p class="day-post-image-text">${escapeHtml(post.imageDescription)}</p></div>` : "";
@@ -866,9 +892,10 @@ function formatDayPost(post) {
   const original = post.url ? `<a class="day-post-original" href="${escapeHtml(post.url)}" target="_blank" rel="noopener noreferrer">Original post</a>` : "";
   return `<li class="${classes.join(" ")}">
     <div class="day-post-main">
-      <p class="day-post-title">${escapeHtml(post.title)}</p>
+      ${title}
       ${fullText}
       ${snippet}
+      ${media}
       ${image}
     </div>
     <div class="day-post-footer">
