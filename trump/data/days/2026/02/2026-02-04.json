@@ -6,12 +6,25 @@
     "negative": 0
   },
   "summary": "positive:3 neutral:1 negative:0",
-  "generatedAt": "2026-04-13T07:59:35.985Z",
+  "generatedAt": "2026-09-07T14:52:19.882Z",
   "topics": [
-    "Endorsement of Clay Fuller",
-    "China-U.S. Relations Discussion",
-    "Whistleblower Complaint Confirmation"
+    "Jeb Bush praises Trump's support for Iranians a decade after primary",
+    "Inspector General finds whistleblower complaint against Tulsi Gabbard not credible",
+    "Trump discusses trade and military in call with President Xi of China"
   ],
+  "trendingTopic": "Jeb Bush praises Trump's support for Iranians a decade after primary",
+  "trendingName": "Jeb Bush",
+  "secondaryHighlights": [
+    {
+      "topic": "Inspector General finds whistleblower complaint against Tulsi Gabbard not credible",
+      "name": "Tulsi Gabbard"
+    },
+    {
+      "topic": "Trump discusses trade and military in call with President Xi of China"
+    }
+  ],
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:4:c791a56052e28dc801d961d2",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36447",
@@ -91,39 +104,26 @@
       "postId": "https://www.trumpstruth.org/statuses/36447",
       "label": "positive",
       "rationale": "The text mentions Jeb Bush praising Trump's support for Iranians, indicating a positive sentiment towards Trump's actions.",
-      "analyzedAt": "2026-04-13T07:59:35.982Z"
+      "analyzedAt": "2026-09-06T06:49:21.537Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36448",
       "label": "neutral",
-      "rationale": "The text reports on a confirmation regarding a whistleblower complaint without expressing any positive or negative sentiment.",
-      "analyzedAt": "2026-04-13T07:59:35.982Z"
+      "rationale": "The text reports on a confirmation regarding a whistleblower complaint without expressing any sentiment or opinion, making it neutral.",
+      "analyzedAt": "2026-09-06T06:49:21.537Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36449",
       "label": "positive",
       "rationale": "The text describes a productive conversation with President Xi and emphasizes the positive relationship between the U.S. and China, indicating optimism for future outcomes.",
-      "analyzedAt": "2026-04-13T07:59:35.982Z"
+      "analyzedAt": "2026-09-06T06:49:21.537Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36450",
       "label": "positive",
       "rationale": "The text expresses strong support and endorsement for Clay Fuller, highlighting his qualifications and the positive impact he is expected to have as a Congressman.",
-      "analyzedAt": "2026-04-13T07:59:35.982Z"
+      "analyzedAt": "2026-09-06T06:49:21.537Z"
     }
   ],
-  "trendingTopic": "Inspector General confirms whistleblower complaint against Tulsi Gabbard ‘did not appear credible’",
-  "selfPraiseCount": 0,
-  "trendingName": "Tulsi Gabbard",
-  "secondaryHighlights": [
-    {
-      "topic": "I have just completed an excellent telephone conversation with President Xi, of China."
-    },
-    {
-      "topic": "Jeb Bush heaps praise on Trump’s ‘unprecedented support’ for Iranians 10 years after heated primary"
-    },
-    {
-      "topic": "It is my Great Honor to endorse America First Patriot, Clay Fuller, who is running to represent the wonderful people of Georgia’s 14th Congressional District."
-    }
-  ]
+  "selfPraiseCacheKey": "self-praise-v1:4:c791a56052e28dc801d961d2"
 }

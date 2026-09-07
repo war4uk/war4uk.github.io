@@ -6,22 +6,23 @@
     "negative": 5
   },
   "summary": "positive:5 neutral:2 negative:5",
-  "generatedAt": "2026-09-06T06:44:17.273Z",
+  "generatedAt": "2026-09-07T14:50:59.832Z",
   "topics": [
-    "Discusses the benefits of tariffs for national security and prosperity",
-    "Reports on the health status of a public figure",
-    "Critiques Antifa violence and free speech at UC Berkeley"
+    "Discusses border security and compares Trump Administration to Biden Administration",
+    "Reports on the health status of a former President and his cognitive examination results",
+    "Critiques the impact of green energy on wildlife, particularly bald eagles"
   ],
-  "trendingTopic": "Discusses the benefits of tariffs for national security and prosperity",
+  "trendingTopic": "Discusses border security and compares Trump Administration to Biden Administration",
   "secondaryHighlights": [
     {
-      "topic": "Reports on the health status of a public figure"
+      "topic": "Reports on the health status of a former President and his cognitive examination results"
     },
     {
-      "topic": "Critiques Antifa violence and free speech at UC Berkeley"
+      "topic": "Critiques the impact of green energy on wildlife, particularly bald eagles"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:12:87055a5702c1a8999fde4300",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34401",
@@ -39,7 +40,10 @@
         "contentSnippet": "WOW!",
         "guid": "https://www.trumpstruth.org/statuses/34401",
         "isoDate": "2026-01-02T01:30:31.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13721/8745c66681d84792.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34402",
@@ -135,7 +139,7 @@
       "id": "https://www.trumpstruth.org/statuses/35054",
       "publishedAt": "2026-01-02T14:15:16.000Z",
       "title": "Killing birds by the millions!",
-      "text": "<p>Killing birds by the millions!</p>",
+      "text": "<p>Killing birds by the millions!</p>\n\n[Image] The image features a wind turbine with its large blades prominently displayed. In the foreground, a flock of birds is seen flying around the turbine, creating a dynamic scene. The birds appear to be in various positions, some soaring and others gliding, against a backdrop of a cloudy sky. The contrast between the mechanical structure of the turbine and the natural movement of the birds highlights the interaction between technology and nature.",
       "url": "https://www.trumpstruth.org/statuses/35054",
       "raw": {
         "creator": "",
@@ -147,13 +151,17 @@
         "contentSnippet": "Killing birds by the millions!",
         "guid": "https://www.trumpstruth.org/statuses/35054",
         "isoDate": "2026-01-02T14:15:16.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:16:16.090Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14121/73a31b390898686a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35053",
       "publishedAt": "2026-01-02T14:16:29.000Z",
       "title": "Eagles going down!",
-      "text": "<p>Eagles going down!</p>",
+      "text": "<p>Eagles going down!</p>\n\n[Image] The image shows a deceased bird, likely a raptor, lying on the ground in a field. The bird's feathers are detailed, showcasing a mix of browns and whites. In the background, several wind turbines are visible, standing tall against a cloudy sky. The scene suggests a contrast between nature and renewable energy infrastructure, raising potential concerns about wildlife impacts from wind farms. The overall atmosphere is somber, highlighting the fragility of wildlife.",
       "url": "https://www.trumpstruth.org/statuses/35053",
       "raw": {
         "creator": "",
@@ -165,7 +173,11 @@
         "contentSnippet": "Eagles going down!",
         "guid": "https://www.trumpstruth.org/statuses/35053",
         "isoDate": "2026-01-02T14:16:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:16:14.374Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14120/f9ec0269c6a1aabd.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35052",
@@ -183,7 +195,10 @@
         "contentSnippet": "https://www.washingtonpost.com/opinions/2025/11/19/trump-interview-pennsylvania-steel-tariffs/",
         "guid": "https://www.trumpstruth.org/statuses/35052",
         "isoDate": "2026-01-02T14:17:45.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14119/f9baaa3bdaa9708e.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34407",
@@ -201,7 +216,10 @@
         "contentSnippet": "How beautiful of a building is this?",
         "guid": "https://www.trumpstruth.org/statuses/34407",
         "isoDate": "2026-01-02T14:19:44.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13722/957e81873e272b6b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34408",
@@ -225,7 +243,7 @@
       "id": "https://www.trumpstruth.org/statuses/34409",
       "publishedAt": "2026-01-02T20:47:45.000Z",
       "title": "[No Title] - Post from January 2, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image depicts a man in a suit holding a hamburger in one hand and a sign in the other that reads, \"Chicago doesn't need help. We have everything under control.\" The background shows a chaotic scene with flames and what appears to be people lying on the ground, suggesting a state of emergency. The man resembles J.B. Pritzker, the Governor of Illinois, who is known for his leadership in the state. The overall tone of the image seems satirical.",
       "url": "https://www.trumpstruth.org/statuses/34409",
       "raw": {
         "creator": "",
@@ -237,7 +255,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34409",
         "isoDate": "2026-01-02T20:47:45.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:15:53.776Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13723/d215f87b0328f38e.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -314,5 +336,5 @@
       "analyzedAt": "2026-09-06T06:30:02.492Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:12:87055a5702c1a8999fde4300"
+  "selfPraiseCacheKey": "self-praise-v1:12:87055a5702c1a8999fde4300"
 }

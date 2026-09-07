@@ -6,23 +6,23 @@
     "negative": 3
   },
   "summary": "positive:3 neutral:12 negative:3",
-  "generatedAt": "2026-09-06T06:44:09.723Z",
+  "generatedAt": "2026-09-07T14:50:46.491Z",
   "topics": [
-    "New Epstein documents found, implicating Democrats in a hoax",
-    "Senator Mike Lee comments on Senate challenges and the filibuster",
-    "Marco Rubio imposes visa restrictions on European officials"
+    "More than 17,500 illegal aliens captured under Laken's Legacy law",
+    "Democrats' push for Epstein files backfires with Clinton involvement",
+    "Senator Rubio imposes visa restrictions on European officials"
   ],
-  "trendingTopic": "New Epstein documents found, implicating Democrats in a hoax",
+  "trendingTopic": "More than 17,500 illegal aliens captured under Laken's Legacy law",
   "secondaryHighlights": [
     {
-      "topic": "Senator Mike Lee comments on Senate challenges and the filibuster",
-      "name": "Mike Lee"
+      "topic": "Democrats' push for Epstein files backfires with Clinton involvement"
     },
     {
-      "topic": "Marco Rubio imposes visa restrictions on European officials"
+      "topic": "Senator Rubio imposes visa restrictions on European officials"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:18:db88adea09306e0444d61a35",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34348",
@@ -100,7 +100,7 @@
       "id": "https://www.trumpstruth.org/statuses/34349",
       "publishedAt": "2025-12-26T12:46:07.000Z",
       "title": "Big news for the USA! President DJT",
-      "text": "<p>Big news for the USA! President DJT</p>",
+      "text": "<p>Big news for the USA! President DJT</p>\n\n[Image] The image features a graph depicting federal employment trends over time, showing a decline in jobs since January 2023. The text states that federal employment is at its lowest level since 2014, with a decrease of 271,000 jobs since Donald Trump took office. The graph highlights monthly employment figures, illustrating a downward trend. The post emphasizes the message of \"promises made, promises kept.\"",
       "url": "https://www.trumpstruth.org/statuses/34349",
       "raw": {
         "creator": "",
@@ -112,13 +112,17 @@
         "contentSnippet": "Big news for the USA! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/34349",
         "isoDate": "2025-12-26T12:46:07.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:14:43.010Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13702/42ab8c310911b837.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35062",
       "publishedAt": "2025-12-26T12:57:34.000Z",
       "title": "“TRUMP IS DOING AN AMAZING JOB!”",
-      "text": "<p>“TRUMP IS DOING AN AMAZING JOB!”</p>",
+      "text": "<p>“TRUMP IS DOING AN AMAZING JOB!”</p>\n\n[Image] The image presents a chart detailing the percentage change in various types of crime in the U.S. from 2024 to 2025, based on data from 570 law enforcement agencies. It highlights a significant decline in murders by 19.8% and motor vehicle thefts by 23.2%, among other categories. Other crimes listed include robbery, burglary, property crime, violent crime, theft, rape, and aggravated assault, each showing varying degrees of decrease. The data is attributed to the Real Time Crime Index and visualized by Axios.",
       "url": "https://www.trumpstruth.org/statuses/35062",
       "raw": {
         "creator": "",
@@ -130,7 +134,11 @@
         "contentSnippet": "“TRUMP IS DOING AN AMAZING JOB!”",
         "guid": "https://www.trumpstruth.org/statuses/35062",
         "isoDate": "2025-12-26T12:57:34.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:14:41.297Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14136/8d3b017ecd22ef99.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34351",
@@ -154,7 +162,7 @@
       "id": "https://www.trumpstruth.org/statuses/34350",
       "publishedAt": "2025-12-26T12:59:51.000Z",
       "title": "[No Title] - Post from December 26, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115785988808868725</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115785988808868725</span></p>\n\n[Image] The image is a screenshot of a tweet from Bill Mitchell, who shares a message about alleged election irregularities during the 2020 election. The tweet claims that a poll watcher provided sworn testimony about a supposed \"data dump\" of votes after counting was paused in swing states. It includes a quote from the poll watcher expressing skepticism about the integrity of the election results. The tone is accusatory and suggests a conspiracy regarding the election process.",
       "url": "https://www.trumpstruth.org/statuses/34350",
       "raw": {
         "creator": "",
@@ -166,7 +174,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115785988808868725",
         "guid": "https://www.trumpstruth.org/statuses/34350",
         "isoDate": "2025-12-26T12:59:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:14:36.874Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13703/6a1d1ea181618c09.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34353",
@@ -220,13 +232,16 @@
         "contentSnippet": "It’s time to end the filibuster: https://www.washingtonpost.com/opinions/2025/11/23/scott-bessent-treasury-senate-republicans-filibuster/",
         "guid": "https://www.trumpstruth.org/statuses/34354",
         "isoDate": "2025-12-26T16:17:05.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13705/1c463b6f52dfa12f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35061",
       "publishedAt": "2025-12-26T16:20:23.000Z",
       "title": "Senator Mike Lee: “This, in my humble opinion—informed by 15 years of Senate hell—is the only way out of the Senate-imposed zombie apocalypse.”",
-      "text": "<p>Senator Mike Lee: “This, in my humble opinion—informed by 15 years of Senate hell—is the only way out of the Senate-imposed zombie apocalypse.”</p>",
+      "text": "<p>Senator Mike Lee: “This, in my humble opinion—informed by 15 years of Senate hell—is the only way out of the Senate-imposed zombie apocalypse.”</p>\n\n[Image] The image features a group of individuals dressed as zombies in front of the U.S. Capitol building. They have exaggerated, grotesque makeup with blood and tattered clothing, and their eyes appear to glow red. The accompanying text from Mike Lee discusses the Senate's 60-vote cloture standard and calls for an end to what he terms the \"zombie filibuster.\" Another user, Andrew Kolvet, comments on the political implications of the filibuster.",
       "url": "https://www.trumpstruth.org/statuses/35061",
       "raw": {
         "creator": "",
@@ -238,7 +253,11 @@
         "contentSnippet": "Senator Mike Lee: “This, in my humble opinion—informed by 15 years of Senate hell—is the only way out of the Senate-imposed zombie apocalypse.”",
         "guid": "https://www.trumpstruth.org/statuses/35061",
         "isoDate": "2025-12-26T16:20:23.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:14:25.720Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14135/466553c180650168.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35060",
@@ -256,7 +275,10 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35060",
         "isoDate": "2025-12-26T16:24:39.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14134/d85ffeea80964e5e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34355",
@@ -274,13 +296,16 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34355",
         "isoDate": "2025-12-26T16:24:50.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13706/5b56772c334ee95e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35059",
       "publishedAt": "2025-12-26T20:43:14.000Z",
       "title": "The renovated Palm Room!",
-      "text": "<p>The renovated Palm Room!</p>",
+      "text": "<p>The renovated Palm Room!</p>\n\n[Image] The images depict a spacious, elegantly designed interior space featuring a polished marble floor with intricate veining. The walls are adorned with framed artwork and photographs, and there are decorative lattice panels. A chandelier hangs from the ceiling, providing soft lighting. The entrance is marked by double doors, and the overall aesthetic is bright and sophisticated, suggesting a high-end or formal setting. The design emphasizes luxury and attention to detail.",
       "url": "https://www.trumpstruth.org/statuses/35059",
       "raw": {
         "creator": "",
@@ -292,13 +317,19 @@
         "contentSnippet": "The renovated Palm Room!",
         "guid": "https://www.trumpstruth.org/statuses/35059",
         "isoDate": "2025-12-26T20:43:14.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:14:06.817Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14131/e0a7e61d54015a87.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14132/ca5103834d3fcf38.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14133/5e0509723c0e17e0.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34356",
       "publishedAt": "2025-12-26T20:44:48.000Z",
       "title": "Potential Marble armrests for the seating at The Trump Kennedy Center. Unlike anything ever done or seen before!",
-      "text": "<p>Potential Marble armrests for the seating at The Trump Kennedy Center. Unlike anything ever done or seen before!</p>",
+      "text": "<p>Potential Marble armrests for the seating at The Trump Kennedy Center. Unlike anything ever done or seen before!</p>\n\n[Image] The image features several pieces made of marble, showcasing a white background with gray veining. There are five rectangular pieces arranged in a row, with the top piece being a larger rectangle. The pieces appear to be smooth and polished, highlighting the natural patterns of the marble. The overall aesthetic is clean and elegant, suggesting they may be used for decorative or functional purposes.",
       "url": "https://www.trumpstruth.org/statuses/34356",
       "raw": {
         "creator": "",
@@ -310,7 +341,11 @@
         "contentSnippet": "Potential Marble armrests for the seating at The Trump Kennedy Center. Unlike anything ever done or seen before!",
         "guid": "https://www.trumpstruth.org/statuses/34356",
         "isoDate": "2025-12-26T20:44:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:14:04.894Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13707/956a2642bc49c78d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34357",
@@ -459,5 +494,5 @@
       "analyzedAt": "2026-09-06T06:29:02.172Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:18:db88adea09306e0444d61a35"
+  "selfPraiseCacheKey": "self-praise-v1:18:db88adea09306e0444d61a35"
 }

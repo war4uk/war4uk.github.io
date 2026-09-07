@@ -2,16 +2,27 @@
   "date": "2026-02-06",
   "counts": {
     "positive": 9,
-    "neutral": 81,
+    "neutral": 3,
     "negative": 3
   },
-  "summary": "positive:9 neutral:81 negative:3",
-  "generatedAt": "2026-04-13T08:02:50.225Z",
+  "summary": "positive:9 neutral:3 negative:3",
+  "generatedAt": "2026-09-07T14:52:24.680Z",
   "topics": [
-    "January 6th Investigation Controversy",
-    "Stock Market Milestone",
-    "Healthcare Price Reductions"
+    "Calls for voter ID laws and highlights public support for photo ID requirements",
+    "Announces significant funding for winter storm recovery in Mississippi and Tennessee",
+    "Celebrates the Dow Jones Industrial Average hitting 50,000 for the first time"
   ],
+  "trendingTopic": "Calls for voter ID laws and highlights public support for photo ID requirements",
+  "secondaryHighlights": [
+    {
+      "topic": "Announces significant funding for winter storm recovery in Mississippi and Tennessee"
+    },
+    {
+      "topic": "Celebrates the Dow Jones Industrial Average hitting 50,000 for the first time"
+    }
+  ],
+  "selfPraiseCount": 6,
+  "topicsCacheKey": "day-themes-v10:94:198e81b8c49f907ff7150456",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36500",
@@ -35,7 +46,7 @@
       "id": "https://www.trumpstruth.org/statuses/36499",
       "publishedAt": "2026-02-06T03:36:15.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021589575926821</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021589575926821</span></p>\n\n[Image] The image is a tweet from Eric Daugherty, featuring a blue verification checkmark next to his name. The tweet discusses resurfaced footage of Barack Obama needing voter ID to vote in 2012, expressing surprise at this fact. Daugherty emphasizes that this issue is significant, suggesting it has broad support, and calls for the passage of the \"SAVE AMERICA ACT.\" The tone is political, focusing on voter ID laws and their implications.",
       "url": "https://www.trumpstruth.org/statuses/36499",
       "raw": {
         "creator": "",
@@ -47,13 +58,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021589575926821",
         "guid": "https://www.trumpstruth.org/statuses/36499",
         "isoDate": "2026-02-06T03:36:15.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:47:07.464Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15316/7b19658a19d9c745.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36498",
       "publishedAt": "2026-02-06T03:36:43.000Z",
       "title": "RT @realDonaldTrump",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span></p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span></p>\n\n[Image] The image is a tweet from Michael Dell, featuring a message directed at Americans. He discusses the Super Bowl and highlights an initiative aimed at providing investment accounts for 25 million children, mentioning a total of $6.25 billion for this purpose. The tweet encourages parents to claim their child's future through the provided website. There are references to the Super Bowl and American flags, emphasizing a patriotic theme.",
       "url": "https://www.trumpstruth.org/statuses/36498",
       "raw": {
         "creator": "",
@@ -65,7 +80,11 @@
         "contentSnippet": "RT @realDonaldTrump",
         "guid": "https://www.trumpstruth.org/statuses/36498",
         "isoDate": "2026-02-06T03:36:43.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:47:05.881Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15312/6cd969d9d3135e85.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36497",
@@ -101,13 +120,16 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021603206858436",
         "guid": "https://www.trumpstruth.org/statuses/36496",
         "isoDate": "2026-02-06T03:39:44.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15314/b230a8f56bcb0488.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36502",
       "publishedAt": "2026-02-06T03:47:31.000Z",
       "title": "Wow. So nice. Thank you Anna Paulina! President DJT",
-      "text": "<p>Wow. So nice. Thank you Anna Paulina! President DJT<br/><a href=\"https://www.onemoreforrushmore.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">onemoreforrushmore.com</span><span class=\"invisible\"></span></a></p>",
+      "text": "<p>Wow. So nice. Thank you Anna Paulina! President DJT<br/><a href=\"https://www.onemoreforrushmore.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">onemoreforrushmore.com</span><span class=\"invisible\"></span></a></p>\n\n[Image] The image features a promotional graphic shared by Roger Stone, advocating for the addition of Donald Trump to Mount Rushmore. The background shows the iconic faces of the existing presidents carved into the mountain. The text emphasizes the campaign's goal, stating, \"TIME TO ADD PRESIDENT TRUMP TO MOUNT RUSHMORE!\" It also mentions Congresswoman Anna Paulina Luna's sponsorship of the legislation and encourages viewers to sign a petition supporting the effort.",
       "url": "https://www.trumpstruth.org/statuses/36502",
       "raw": {
         "creator": "",
@@ -119,13 +141,17 @@
         "contentSnippet": "Wow. So nice. Thank you Anna Paulina! President DJT\nhttps://www.onemoreforrushmore.com",
         "guid": "https://www.trumpstruth.org/statuses/36502",
         "isoDate": "2026-02-06T03:47:31.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:46:55.324Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15319/f96bcec646f6fb03.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36501",
       "publishedAt": "2026-02-06T03:49:50.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a tweet from Hassan Sajwani, who shares news about Qatar signing an agreement with Boeing to purchase 160 aircraft, marking the largest widebody aircraft order in Boeing's history. The tweet includes the time and date of the post, May 14, 2025, and notes the tweet's view count of 78.3K. There are no images of people or prominent politicians in this tweet.",
       "url": "https://www.trumpstruth.org/statuses/36501",
       "raw": {
         "creator": "",
@@ -137,7 +163,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36501",
         "isoDate": "2026-02-06T03:49:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:46:53.466Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15318/d4a74547ffbae6bf.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36504",
@@ -161,7 +191,7 @@
       "id": "https://www.trumpstruth.org/statuses/36503",
       "publishedAt": "2026-02-06T03:51:22.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021648853586472</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021648853586472</span></p>\n\n[Image] The image features a tweet from a parody account named \"Dark Haired,\" which includes a message criticizing President Biden and discussing President Trump's stance against judicial decisions that block deportations. The tweet uses strong language, labeling Biden's actions as importing \"criminals\" and calling out \"radical leftist judges.\" The tone is provocative, reflecting a partisan viewpoint on immigration and judicial authority.",
       "url": "https://www.trumpstruth.org/statuses/36503",
       "raw": {
         "creator": "",
@@ -173,7 +203,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021648853586472",
         "guid": "https://www.trumpstruth.org/statuses/36503",
         "isoDate": "2026-02-06T03:51:22.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:46:45.666Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15320/fbbe4b3596839b7b.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36509",
@@ -197,7 +231,7 @@
       "id": "https://www.trumpstruth.org/statuses/36508",
       "publishedAt": "2026-02-06T03:55:49.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021666129349884</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021666129349884</span></p>\n\n[Image] The image features a tweet from a user with the handle @heyitsmeCarolyn. The tweet includes a message saying, \"Good Night Patriot Friends!\" accompanied by decorative star emojis. The user's profile picture appears to have a patriotic theme, possibly featuring the American flag. There are no recognizable public figures or politicians in this image. The overall tone suggests a friendly farewell to followers.",
       "url": "https://www.trumpstruth.org/statuses/36508",
       "raw": {
         "creator": "",
@@ -209,7 +243,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021666129349884",
         "guid": "https://www.trumpstruth.org/statuses/36508",
         "isoDate": "2026-02-06T03:55:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:46:41.977Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15324/8cc1ae185ec60678.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36507",
@@ -233,7 +271,7 @@
       "id": "https://www.trumpstruth.org/statuses/36506",
       "publishedAt": "2026-02-06T03:57:05.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021671379958455</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021671379958455</span></p>\n\n[Image] The image features a tweet from a user named RYancey, who has a verified account. The tweet expresses optimism, stating, \"This can be a great option if things don't work out!\" The background is simple, focusing on the text and the user's profile picture, which shows a man with a beard and a friendly expression. There are no recognizable public figures or politicians in this image.",
       "url": "https://www.trumpstruth.org/statuses/36506",
       "raw": {
         "creator": "",
@@ -245,7 +283,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021671379958455",
         "guid": "https://www.trumpstruth.org/statuses/36506",
         "isoDate": "2026-02-06T03:57:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:46:40.205Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15322/8728d10124b2eabc.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36505",
@@ -263,7 +305,10 @@
         "contentSnippet": "RT @realDonaldTrump",
         "guid": "https://www.trumpstruth.org/statuses/36505",
         "isoDate": "2026-02-06T03:57:27.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15312/6cd969d9d3135e85.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36513",
@@ -287,7 +332,7 @@
       "id": "https://www.trumpstruth.org/statuses/36519",
       "publishedAt": "2026-02-06T04:25:21.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021782498640417</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021782498640417</span></p>\n\n[Image] The image is a tweet from Sami Nathaniel, who shares a statement about public support for requiring photo ID to vote. He claims that nearly 90% of Americans back this requirement, highlighting that this support spans across various demographics. Nathaniel emphasizes that this issue should not be controversial, suggesting that it aligns with common sense. The tweet is presented in a straightforward manner, focusing on the statistics and the argument for photo ID laws.",
       "url": "https://www.trumpstruth.org/statuses/36519",
       "raw": {
         "creator": "",
@@ -299,7 +344,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021782498640417",
         "guid": "https://www.trumpstruth.org/statuses/36519",
         "isoDate": "2026-02-06T04:25:21.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:46:30.500Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15335/821370961d962c78.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36518",
@@ -323,7 +372,7 @@
       "id": "https://www.trumpstruth.org/statuses/36517",
       "publishedAt": "2026-02-06T04:26:38.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021782498640417</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021782498640417</span></p>\n\n[Image] The image features a tweet discussing the missing election day ballot images in Fulton County, Georgia, with a focus on the absence of 380,761 ballot images. It includes a quote from Janice Johnston questioning their unavailability and mentions a timeline of events related to the investigation, including FBI involvement and demands for transparency. The tweet emphasizes the need for accountability and trust in the electoral process, using hashtags related to the 2020 election.",
       "url": "https://www.trumpstruth.org/statuses/36517",
       "raw": {
         "creator": "",
@@ -335,7 +384,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021782498640417",
         "guid": "https://www.trumpstruth.org/statuses/36517",
         "isoDate": "2026-02-06T04:26:38.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:46:28.296Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15333/282024d4fa6c6a41.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36516",
@@ -359,7 +412,7 @@
       "id": "https://www.trumpstruth.org/statuses/36515",
       "publishedAt": "2026-02-06T04:27:13.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021789649098677</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021789649098677</span></p>\n\n[Image] The image features a tweet from the account @TrumpBender_3, which includes a message stating, \"THE WORLD LOVES PRESIDENT TRUMP!!!\" Accompanying the text are emojis representing the Earth, a heart, a flexed bicep, the American flag, and a mountain. The tweet expresses a positive sentiment towards Donald Trump, emphasizing support for him. The overall tone is enthusiastic and celebratory regarding his influence.",
       "url": "https://www.trumpstruth.org/statuses/36515",
       "raw": {
         "creator": "",
@@ -371,7 +424,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021789649098677",
         "guid": "https://www.trumpstruth.org/statuses/36515",
         "isoDate": "2026-02-06T04:27:13.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:46:23.772Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15331/2e9ada2571b050e0.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36514",
@@ -407,7 +464,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021782498640417",
         "guid": "https://www.trumpstruth.org/statuses/36512",
         "isoDate": "2026-02-06T04:27:44.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15328/965811a4581cd571.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36511",
@@ -431,7 +491,7 @@
       "id": "https://www.trumpstruth.org/statuses/36510",
       "publishedAt": "2026-02-06T04:28:20.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021793770694653</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021793770694653</span></p>\n\n[Image] The image features a tweet from the account \"Stand Up For Trump,\" announcing a significant economic growth projection for the U.S. GDP, stating it could reach 5.3% for Q4 2025. The tweet claims experts are surprised by the economic performance under Donald Trump, suggesting it outpaces China's growth. It includes a call for support with options for responses and encourages engagement to make the tweet go viral.",
       "url": "https://www.trumpstruth.org/statuses/36510",
       "raw": {
         "creator": "",
@@ -443,7 +503,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021793770694653",
         "guid": "https://www.trumpstruth.org/statuses/36510",
         "isoDate": "2026-02-06T04:28:20.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:46:14.550Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15326/c5df708acef0f89b.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36521",
@@ -485,7 +549,7 @@
       "id": "https://www.trumpstruth.org/statuses/36535",
       "publishedAt": "2026-02-06T04:35:10.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021821140842262</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021821140842262</span></p>\n\n[Image] The image features a tweet from an account named \"Antonio Tweets,\" which includes a blue verification checkmark. The tweet expresses admiration for \"powerful words\" and states that \"nobody in Canada talks like this.\" There are prayer hands emoji included, suggesting a tone of reverence or appreciation. The context of the tweet is not clear, as it does not specify what the \"powerful words\" refer to.",
       "url": "https://www.trumpstruth.org/statuses/36535",
       "raw": {
         "creator": "",
@@ -497,7 +561,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021821140842262",
         "guid": "https://www.trumpstruth.org/statuses/36535",
         "isoDate": "2026-02-06T04:35:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:46:12.503Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15351/32fb2a227022faba.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36534",
@@ -533,7 +601,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021823422525782",
         "guid": "https://www.trumpstruth.org/statuses/36533",
         "isoDate": "2026-02-06T04:35:47.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15349/51e37e412a717a39.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36532",
@@ -557,7 +628,7 @@
       "id": "https://www.trumpstruth.org/statuses/36531",
       "publishedAt": "2026-02-06T04:36:27.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021825864498690</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021825864498690</span></p>\n\n[Image] The image features a tweet from the account Rapid Response 47, announcing a demonstration by @jgebbia, the Chief Design Officer at ndstudio. The demonstration showcases the usability of a newly launched website, TrumpRx.Gov, which aims to help Americans find significant discounts on common prescription drugs. The tweet emphasizes the website's purpose and invites viewers to watch the demonstration.",
       "url": "https://www.trumpstruth.org/statuses/36531",
       "raw": {
         "creator": "",
@@ -569,7 +640,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021825864498690",
         "guid": "https://www.trumpstruth.org/statuses/36531",
         "isoDate": "2026-02-06T04:36:27.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:46:01.954Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15347/3c72703b6d70c2c1.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36530",
@@ -593,7 +668,7 @@
       "id": "https://www.trumpstruth.org/statuses/36529",
       "publishedAt": "2026-02-06T04:37:06.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021828606012139</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021828606012139</span></p>\n\n[Image] The image features a tweet from a user named RealRobert, discussing the 2020 election in Detroit, Michigan. The tweet claims that Michigan Secretary of State Jocelyn Benson was caught on surveillance video illegally dropping off mail-in ballots. It includes a narrative about the number of votes in 2020 and 2024, questioning the discrepancy in voter turnout. The tweet also encourages passing the Save Act. No prominent politicians are visually depicted in the image.",
       "url": "https://www.trumpstruth.org/statuses/36529",
       "raw": {
         "creator": "",
@@ -605,7 +680,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021828606012139",
         "guid": "https://www.trumpstruth.org/statuses/36529",
         "isoDate": "2026-02-06T04:37:06.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:46:00.028Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15345/0ef2002d49800ed7.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36528",
@@ -629,7 +708,7 @@
       "id": "https://www.trumpstruth.org/statuses/36527",
       "publishedAt": "2026-02-06T04:37:40.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021830932752891</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021830932752891</span></p>\n\n[Image] The image features a tweet from a user named Shannon, who expresses strong support for Donald Trump. In the tweet, Shannon states that Trump understands money and believes that if he had been allowed to do his job without interference from Democrats and the mainstream media, the country would be in better shape. Shannon emphasizes a belief in Trump and mentions that there are three years left in his term. The tweet reflects a pro-Trump sentiment.",
       "url": "https://www.trumpstruth.org/statuses/36527",
       "raw": {
         "creator": "",
@@ -641,7 +720,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021830932752891",
         "guid": "https://www.trumpstruth.org/statuses/36527",
         "isoDate": "2026-02-06T04:37:40.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:45:52.584Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15343/dc6c4e6677aa0435.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36526",
@@ -665,7 +748,7 @@
       "id": "https://www.trumpstruth.org/statuses/36525",
       "publishedAt": "2026-02-06T04:38:16.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021833186119573</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021833186119573</span></p>\n\n[Image] The image features a tweet from Katie Pavlich, who is sharing information about polling results related to Republicans in Indiana. The tweet states that those who defied Donald Trump are facing negative outcomes. It includes hashtags such as #Trump, #GOP, and #IndianaVoters, indicating a focus on political dynamics within the Republican Party in Indiana. The overall tone suggests a critique of those who oppose Trump.",
       "url": "https://www.trumpstruth.org/statuses/36525",
       "raw": {
         "creator": "",
@@ -677,7 +760,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021833186119573",
         "guid": "https://www.trumpstruth.org/statuses/36525",
         "isoDate": "2026-02-06T04:38:16.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:45:50.925Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15341/06e3b33043a9c908.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36524",
@@ -701,7 +788,7 @@
       "id": "https://www.trumpstruth.org/statuses/36523",
       "publishedAt": "2026-02-06T04:39:03.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021836549844027</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021836549844027</span></p>\n\n[Image] The image features a tweet from a user named Rojas, who has a verified account. The tweet expresses frustration, stating that \"Every Single Democrat Voted Against A Tax Cut For The American People,\" accompanied by emojis that convey exasperation and anger. The background appears to show a person wearing a hat, but no specific details about their identity or appearance are provided. The focus is on the political message regarding tax cuts.",
       "url": "https://www.trumpstruth.org/statuses/36523",
       "raw": {
         "creator": "",
@@ -713,7 +800,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021836549844027",
         "guid": "https://www.trumpstruth.org/statuses/36523",
         "isoDate": "2026-02-06T04:39:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:45:47.032Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15339/7cc836ad42daffaf.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36522",
@@ -737,7 +828,7 @@
       "id": "https://www.trumpstruth.org/statuses/36542",
       "publishedAt": "2026-02-06T04:40:07.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021839325919531</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021839325919531</span></p>\n\n[Image] The image is a tweet from a user named Common Cent$ with a verified checkmark. The text discusses the importance of understanding Black history, specifically emphasizing Black Conservative history. The user mentions plans to educate followers throughout February, likely in connection with Black History Month. An American flag emoji is included, along with a winking face emoji, suggesting a lighthearted tone. There are no recognizable public figures in the image.",
       "url": "https://www.trumpstruth.org/statuses/36542",
       "raw": {
         "creator": "",
@@ -749,7 +840,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021839325919531",
         "guid": "https://www.trumpstruth.org/statuses/36542",
         "isoDate": "2026-02-06T04:40:07.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:45:43.067Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15358/e373f4b1d9b95e16.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36541",
@@ -785,7 +880,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021852887035871",
         "guid": "https://www.trumpstruth.org/statuses/36540",
         "isoDate": "2026-02-06T04:43:14.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15356/618f16405dc30a38.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36539",
@@ -809,7 +907,7 @@
       "id": "https://www.trumpstruth.org/statuses/36538",
       "publishedAt": "2026-02-06T04:43:55.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021855060496033</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021855060496033</span></p>\n\n[Image] The image features a tweet from the account AlphaFox, which includes a comment about Donald Trump appearing on the \"Opera\" show from 1988. The tweet suggests that the content from that show is more relevant today than ever. The tweet is accompanied by a profile picture of a cat with a blue and purple gradient background. The focus is on the historical context of Trump's appearance and its perceived significance in the present day.",
       "url": "https://www.trumpstruth.org/statuses/36538",
       "raw": {
         "creator": "",
@@ -821,7 +919,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021855060496033",
         "guid": "https://www.trumpstruth.org/statuses/36538",
         "isoDate": "2026-02-06T04:43:55.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:45:29.428Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15354/c3746667a51bc313.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36537",
@@ -845,7 +947,7 @@
       "id": "https://www.trumpstruth.org/statuses/36536",
       "publishedAt": "2026-02-06T04:44:25.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021857490657707</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021857490657707</span></p>\n\n[Image] The image features a tweet from a user named RealRobert, discussing allegations of election fraud related to Dominion and Smartmatic voting systems during the 2020 U.S. presidential election. It includes quotes from Colonel Phil Waldron, claiming that vote counting was manipulated to favor Joe Biden over Donald Trump. The tweet also references Nicolás Maduro in the context of election rigging. The overall tone suggests a conspiracy theory regarding election integrity.",
       "url": "https://www.trumpstruth.org/statuses/36536",
       "raw": {
         "creator": "",
@@ -857,7 +959,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021857490657707",
         "guid": "https://www.trumpstruth.org/statuses/36536",
         "isoDate": "2026-02-06T04:44:25.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:45:26.699Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15352/b771dade8300a4bc.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36553",
@@ -881,7 +987,7 @@
       "id": "https://www.trumpstruth.org/statuses/36552",
       "publishedAt": "2026-02-06T04:45:40.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021862406891354</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021862406891354</span></p>\n\n[Image] The image is a tweet from a user named BelannF, featuring a message that references Donald Trump and Jeffrey Epstein. The text expresses disbelief about a connection between Trump and Epstein, concluding with an apology directed at Democrats. The tweet is presented in a straightforward manner, emphasizing the user's perspective on the topic. There are no images or additional visual elements included in the tweet itself.",
       "url": "https://www.trumpstruth.org/statuses/36552",
       "raw": {
         "creator": "",
@@ -893,7 +999,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021862406891354",
         "guid": "https://www.trumpstruth.org/statuses/36552",
         "isoDate": "2026-02-06T04:45:40.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:45:19.646Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15368/d8ade647195cc3ed.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36551",
@@ -917,7 +1027,7 @@
       "id": "https://www.trumpstruth.org/statuses/36550",
       "publishedAt": "2026-02-06T04:46:13.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021864423368201</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021864423368201</span></p>\n\n[Image] The image is a tweet from Jason Cohen, featuring a statement about CNN's Harry Enten discussing the influence of Donald Trump and MAGA on the GOP. The tweet emphasizes that Trump, along with JD Vance, remains a significant force within the Republican Party. The message conveys a sense of urgency regarding the perceived strength of Trump's position. The tweet includes a laughing emoji, suggesting a lighthearted tone in addressing the topic.",
       "url": "https://www.trumpstruth.org/statuses/36550",
       "raw": {
         "creator": "",
@@ -929,7 +1039,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021864423368201",
         "guid": "https://www.trumpstruth.org/statuses/36550",
         "isoDate": "2026-02-06T04:46:13.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:45:17.886Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15366/28f096dd3bcc0dc1.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36549",
@@ -953,7 +1067,7 @@
       "id": "https://www.trumpstruth.org/statuses/36548",
       "publishedAt": "2026-02-06T04:46:45.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021866653600292</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021866653600292</span></p>\n\n[Image] The image is a tweet from a user named Sebastian, who has a verified account. The tweet discusses the lack of protests against former presidents for war crimes or cover-ups, criticizing the notion that President Biden's departure from office absolves him of responsibility for issues affecting children. The message emphasizes the ongoing impact of these issues and the importance of remembering them. There are no images or prominent politicians depicted in the tweet itself.",
       "url": "https://www.trumpstruth.org/statuses/36548",
       "raw": {
         "creator": "",
@@ -965,7 +1079,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021866653600292",
         "guid": "https://www.trumpstruth.org/statuses/36548",
         "isoDate": "2026-02-06T04:46:45.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:45:10.917Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15364/3985f229e48e7256.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36547",
@@ -989,7 +1107,7 @@
       "id": "https://www.trumpstruth.org/statuses/36546",
       "publishedAt": "2026-02-06T04:47:26.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021868976310797</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021868976310797</span></p>\n\n[Image] The image features a tweet from Victoria Byrne, who has a verified account. In the tweet, she expresses her opinion on voter ID, stating that it is \"common sense\" and argues that if elections are secure, there should be no fear, suggesting that only those who cheat oppose voter ID laws. The tweet includes an emoji of a lock and a notepad, emphasizing her point about security in elections.",
       "url": "https://www.trumpstruth.org/statuses/36546",
       "raw": {
         "creator": "",
@@ -1001,7 +1119,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021868976310797",
         "guid": "https://www.trumpstruth.org/statuses/36546",
         "isoDate": "2026-02-06T04:47:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:45:09.320Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15362/49b3cbfe81dc347a.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36545",
@@ -1025,7 +1147,7 @@
       "id": "https://www.trumpstruth.org/statuses/36544",
       "publishedAt": "2026-02-06T04:49:27.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021877095083520</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021877095083520</span></p>\n\n[Image] The image features a tweet from a user named Rojas, who has a verified account. The tweet includes a nostalgic reference to a \"true American president,\" accompanied by a sunglasses emoji. There is no image attached to the tweet, but the context suggests a positive sentiment towards a past U.S. president, likely implying admiration for Donald Trump, although he is not explicitly mentioned in the text.",
       "url": "https://www.trumpstruth.org/statuses/36544",
       "raw": {
         "creator": "",
@@ -1037,7 +1159,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021877095083520",
         "guid": "https://www.trumpstruth.org/statuses/36544",
         "isoDate": "2026-02-06T04:49:27.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:45:05.149Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15360/5869c28c5c8c6c41.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36543",
@@ -1061,7 +1187,7 @@
       "id": "https://www.trumpstruth.org/statuses/36558",
       "publishedAt": "2026-02-06T04:50:05.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021879778183157</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021879778183157</span></p>\n\n[Image] The image features a tweet from a user named Essex Bloke, who has a verified account. The tweet states \"LEARN from Poland\" and includes the Polish flag emoji. There are no images or additional context provided in the tweet itself. The message seems to suggest that there is something valuable to learn from Poland, but it does not elaborate on what that might be.",
       "url": "https://www.trumpstruth.org/statuses/36558",
       "raw": {
         "creator": "",
@@ -1073,7 +1199,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021879778183157",
         "guid": "https://www.trumpstruth.org/statuses/36558",
         "isoDate": "2026-02-06T04:50:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:44:58.238Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15374/863534bea331ad0c.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36557",
@@ -1097,7 +1227,7 @@
       "id": "https://www.trumpstruth.org/statuses/36556",
       "publishedAt": "2026-02-06T04:50:36.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021881869458240</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021881869458240</span></p>\n\n[Image] The image features a tweet from a user named TONY™ with a verified blue checkmark. The tweet quotes, “If you hate our country, if you’re not happy here, you can leave,” and asserts that this message is still true today. The tweet includes a lion logo associated with the MAGA movement. There are no recognizable public figures in the image, and it focuses on a political sentiment rather than a specific event or individual.",
       "url": "https://www.trumpstruth.org/statuses/36556",
       "raw": {
         "creator": "",
@@ -1109,7 +1239,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021881869458240",
         "guid": "https://www.trumpstruth.org/statuses/36556",
         "isoDate": "2026-02-06T04:50:36.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:44:56.671Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15372/39af2f904955278c.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36555",
@@ -1145,7 +1279,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021884303371774",
         "guid": "https://www.trumpstruth.org/statuses/36554",
         "isoDate": "2026-02-06T04:51:14.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15370/927dbcdef7917251.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36562",
@@ -1169,7 +1306,7 @@
       "id": "https://www.trumpstruth.org/statuses/36561",
       "publishedAt": "2026-02-06T04:57:03.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021907139141795</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021907139141795</span></p>\n\n[Image] The image features a tweet from a user with the handle @heyitsmeCarolyn. The tweet expresses a sentiment about New York City under the leadership of \"MAYOR MAMDANI.\" There are no images or visual elements included in the tweet itself, just text. The tweet appears to convey a critical or humorous perspective on the current state of the city, but without additional context, it's unclear what specific issues are being referenced.",
       "url": "https://www.trumpstruth.org/statuses/36561",
       "raw": {
         "creator": "",
@@ -1181,7 +1318,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021907139141795",
         "guid": "https://www.trumpstruth.org/statuses/36561",
         "isoDate": "2026-02-06T04:57:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:44:46.015Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15377/56b605bbe6f44116.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36560",
@@ -1205,7 +1346,7 @@
       "id": "https://www.trumpstruth.org/statuses/36559",
       "publishedAt": "2026-02-06T04:59:50.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021917293908318</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021917293908318</span></p>\n\n[Image] The image features a tweet discussing the missing election day ballot images in Fulton County, Georgia. It highlights a concern raised by Janice Johnston regarding 380,761 ballot images that are reportedly unavailable. The tweet outlines a timeline of events, including FBI involvement and demands for transparency regarding the election process. Hashtags related to Fulton County and the 2020 election are included, emphasizing the call for trust and accountability in the electoral system.",
       "url": "https://www.trumpstruth.org/statuses/36559",
       "raw": {
         "creator": "",
@@ -1217,7 +1358,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021917293908318",
         "guid": "https://www.trumpstruth.org/statuses/36559",
         "isoDate": "2026-02-06T04:59:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:44:44.128Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15375/54b84706417e225b.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36563",
@@ -1235,7 +1380,10 @@
         "contentSnippet": "RT @realDonaldTrump",
         "guid": "https://www.trumpstruth.org/statuses/36563",
         "isoDate": "2026-02-06T05:02:55.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15312/6cd969d9d3135e85.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36564",
@@ -1259,7 +1407,7 @@
       "id": "https://www.trumpstruth.org/statuses/36565",
       "publishedAt": "2026-02-06T05:15:49.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021978407635348</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021978407635348</span></p>\n\n[Image] The image features a tweet from the account @davidjsorensen, which includes a profile picture of a man with a beard and a smile. The text discusses Julian Assange's comments about Donald Trump, stating that there is no compromising information on him, even during Obama's presidency. It claims that old allegations against Trump are unproven and have been debunked. The tweet reflects a supportive stance towards Trump.",
       "url": "https://www.trumpstruth.org/statuses/36565",
       "raw": {
         "creator": "",
@@ -1271,7 +1419,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116021978407635348",
         "guid": "https://www.trumpstruth.org/statuses/36565",
         "isoDate": "2026-02-06T05:15:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:44:34.773Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15380/aafe06e73f2cdd4c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36566",
@@ -1313,7 +1465,7 @@
       "id": "https://www.trumpstruth.org/statuses/36568",
       "publishedAt": "2026-02-06T10:44:28.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116023273116855119</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116023273116855119</span></p>\n\n[Image] The image features a tweet from the account Rapid Response 47, which includes a quote from a news segment. The quote references a discussion about a weapon called the \"discombobulator.\" The speaker, identified as @POTUS, states that they cannot discuss the weapon in detail but claims that none of the opposing equipment functions and asserts that there were no losses in personnel or equipment. The context suggests a humorous or lighthearted tone regarding military discussions.",
       "url": "https://www.trumpstruth.org/statuses/36568",
       "raw": {
         "creator": "",
@@ -1325,7 +1477,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116023273116855119",
         "guid": "https://www.trumpstruth.org/statuses/36568",
         "isoDate": "2026-02-06T10:44:28.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:44:32.584Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15382/1ab11f8c04da2f95.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36567",
@@ -1349,7 +1505,7 @@
       "id": "https://www.trumpstruth.org/statuses/36574",
       "publishedAt": "2026-02-06T10:45:00.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116023275152458900</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116023275152458900</span></p>\n\n[Image] The image features a tweet from a user with the handle @FreedomHasWon. The tweet discusses Donald Trump, stating that he has not changed over the years and mentions him calling out Barbra Streisand. There is no image included in the tweet, just the text and the user's profile picture, which shows a person with gray hair and sunglasses. The tweet reflects a political commentary on Trump's consistency over time.",
       "url": "https://www.trumpstruth.org/statuses/36574",
       "raw": {
         "creator": "",
@@ -1361,7 +1517,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116023275152458900",
         "guid": "https://www.trumpstruth.org/statuses/36574",
         "isoDate": "2026-02-06T10:45:00.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:44:28.321Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15388/7e3c49ef1f2b0033.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36573",
@@ -1385,7 +1545,7 @@
       "id": "https://www.trumpstruth.org/statuses/36572",
       "publishedAt": "2026-02-06T10:45:39.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116023277877459539</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116023277877459539</span></p>\n\n[Image] The image features a tweet from the account The SCIF, which includes a statement about CNN admitting that Donald Trump was telling the truth regarding Jeffrey Epstein's misconduct at Mar-a-Lago in 2003. The tweet suggests that CNN cut ties with Epstein after Trump learned of the allegations. The account's profile picture features a skull design within a star pattern, indicating a potentially political or activist theme.",
       "url": "https://www.trumpstruth.org/statuses/36572",
       "raw": {
         "creator": "",
@@ -1397,7 +1557,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116023277877459539",
         "guid": "https://www.trumpstruth.org/statuses/36572",
         "isoDate": "2026-02-06T10:45:39.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:44:20.953Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15386/4eeb2e5baa7b260a.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36571",
@@ -1421,7 +1585,7 @@
       "id": "https://www.trumpstruth.org/statuses/36570",
       "publishedAt": "2026-02-06T10:46:17.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116023280385985238</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116023280385985238</span></p>\n\n[Image] The image is a tweet from Mila Joy, featuring her profile picture and verified account badge. In the tweet, she expresses a sentiment about a couple in the White House being in love, questioning when that last occurred. She references \"Ronnie and Nancy,\" likely referring to Ronald Reagan and Nancy Reagan, suggesting they were a couple who exemplified love during their time in office. The tweet reflects a personal opinion on political relationships.",
       "url": "https://www.trumpstruth.org/statuses/36570",
       "raw": {
         "creator": "",
@@ -1433,7 +1597,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116023280385985238",
         "guid": "https://www.trumpstruth.org/statuses/36570",
         "isoDate": "2026-02-06T10:46:17.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:44:18.895Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15384/31aabbcc85b85646.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36575",
@@ -1457,7 +1625,7 @@
       "id": "https://www.trumpstruth.org/statuses/36577",
       "publishedAt": "2026-02-06T17:41:21.000Z",
       "title": "BAD LAWYER, USE AT YOUR OWN RISK!",
-      "text": "<p>BAD LAWYER, USE AT YOUR OWN RISK!</p>",
+      "text": "<p>BAD LAWYER, USE AT YOUR OWN RISK!</p>\n\n[Image] The image features Ty Cobb, who is identified as a former White House attorney from the Trump administration. He has a distinctive white mustache and is wearing glasses, along with a dark suit and a white shirt. The background appears neutral, and the image includes a lower banner indicating his name and title. The setting suggests a professional or interview context, likely for a news segment.",
       "url": "https://www.trumpstruth.org/statuses/36577",
       "raw": {
         "creator": "",
@@ -1469,7 +1637,11 @@
         "contentSnippet": "BAD LAWYER, USE AT YOUR OWN RISK!",
         "guid": "https://www.trumpstruth.org/statuses/36577",
         "isoDate": "2026-02-06T17:41:21.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:44:11.038Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15389/4d96602a5d7af931.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36576",
@@ -1493,7 +1665,7 @@
       "id": "https://www.trumpstruth.org/statuses/36579",
       "publishedAt": "2026-02-06T18:33:06.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image shows a CNN broadcast featuring a male presenter discussing a graphic about voter ID preferences among political parties. The graphic indicates that 71% of Democrats favor photo ID to vote, while 95% of Republicans support it. The presenter is gesturing towards the screen, which displays the statistics prominently. The broadcast is labeled as \"LIVE\" with a timestamp of 8:31 AM ET. The background includes elements typical of a news studio.",
       "url": "https://www.trumpstruth.org/statuses/36579",
       "raw": {
         "creator": "",
@@ -1505,7 +1677,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36579",
         "isoDate": "2026-02-06T18:33:06.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:44:03.818Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15391/662136a65dadd509.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36578",
@@ -1523,7 +1699,10 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36578",
         "isoDate": "2026-02-06T18:33:44.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15390/e5e2949bd3552a12.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36580",
@@ -1547,7 +1726,7 @@
       "id": "https://www.trumpstruth.org/statuses/36581",
       "publishedAt": "2026-02-06T19:56:40.000Z",
       "title": "[No Title] - Post from February 6, 2026",
-      "text": "<p><a href=\"https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-06-2026\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/livecoverage/stock-mar</span><span class=\"invisible\">ket-today-dow-sp-500-nasdaq-02-06-2026</span></a></p>",
+      "text": "<p><a href=\"https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-06-2026\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/livecoverage/stock-mar</span><span class=\"invisible\">ket-today-dow-sp-500-nasdaq-02-06-2026</span></a></p>\n\n[Image] The image features bold text announcing a significant milestone in the stock market, stating \"Stock Market Today: Dow Hits 50000.\" The design emphasizes the achievement with a clear and prominent font. This announcement likely reflects a notable moment in financial news, indicating a high point for the Dow Jones Industrial Average, which is a key indicator of the stock market's performance. The context suggests a focus on economic trends and investor sentiment.",
       "url": "https://www.trumpstruth.org/statuses/36581",
       "raw": {
         "creator": "",
@@ -1559,7 +1738,11 @@
         "contentSnippet": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-06-2026",
         "guid": "https://www.trumpstruth.org/statuses/36581",
         "isoDate": "2026-02-06T19:56:40.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:43:52.824Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15392/12ce32e42c11dcfd.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36582",
@@ -1710,573 +1893,567 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/36496",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36497",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36498",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is a retweet and does not express a clear sentiment.",
+      "analyzedAt": "2026-09-06T06:49:56.309Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36499",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36500",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36501",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36502",
       "label": "positive",
-      "rationale": "The text expresses gratitude and positivity towards Anna Paulina, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text expresses gratitude and appreciation, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:49:56.309Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36503",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36504",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36505",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet mention without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36506",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36507",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36508",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36509",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36510",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36511",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36512",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36513",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36514",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36515",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36516",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36517",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36518",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36519",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36520",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36521",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36522",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36523",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36524",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36525",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36526",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36527",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36528",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36529",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36530",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36531",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36532",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36533",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36534",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36535",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36536",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36537",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36538",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36539",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36540",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36541",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36542",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36543",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36544",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36545",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36546",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36547",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36548",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36549",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36550",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36551",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36552",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36553",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36554",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36555",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36556",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36557",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36558",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36559",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36560",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36561",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36562",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36563",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet mention without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36564",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36565",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36566",
       "label": "neutral",
-      "rationale": "The text discusses a voting requirement without expressing a clear positive or negative sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text reports on a legislative action without expressing a clear positive or negative sentiment.",
+      "analyzedAt": "2026-09-06T06:49:56.309Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36567",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36568",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36569",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36570",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36571",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36572",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36573",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36574",
       "label": "neutral",
-      "rationale": "The text is a retweet and does not convey any original sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a retweet link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36575",
       "label": "positive",
-      "rationale": "The text describes a positive meeting and expresses appreciation for the people involved.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text describes a positive meeting and expresses appreciation for the people involved, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:49:56.309Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36576",
       "label": "negative",
-      "rationale": "The text uses derogatory language to criticize specific individuals, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text uses derogatory language to criticize Ty Cobb and Miles Taylor, expressing strong negative sentiments.",
+      "analyzedAt": "2026-09-06T06:49:56.309Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36577",
       "label": "negative",
-      "rationale": "The text expresses a negative sentiment towards a lawyer, indicating dissatisfaction.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text contains a negative statement about a lawyer, indicating a strong negative sentiment.",
+      "analyzedAt": "2026-09-06T06:49:56.309Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36578",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36579",
       "label": "neutral",
-      "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text is empty, providing no sentiment.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36580",
       "label": "positive",
-      "rationale": "The text celebrates the Dow hitting 50,000, framing it as a significant achievement.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text celebrates the Dow hitting 50,000, framing it as a significant achievement for America.",
+      "analyzedAt": "2026-09-06T06:49:56.309Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/36581",
+      "label": "neutral",
+      "rationale": "The text contains a link to a news article without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36582",
       "label": "positive",
       "rationale": "The text expresses love for the people of Mississippi and announces financial support, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "analyzedAt": "2026-09-06T06:49:56.309Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36583",
       "label": "positive",
-      "rationale": "The text expresses support for Tennessee and announces financial aid, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "rationale": "The text expresses support for Tennessee and announces financial aid, conveying a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:49:56.309Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36584",
       "label": "positive",
       "rationale": "The text announces a drop in Ozempic price, which is a positive development for consumers.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "analyzedAt": "2026-09-06T06:49:56.309Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36585",
       "label": "positive",
       "rationale": "The text describes a new initiative to lower prescription drug prices, which is framed positively.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "analyzedAt": "2026-09-06T06:49:56.309Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36586",
       "label": "positive",
       "rationale": "The text presents a positive statement about the murder rate dropping under Trump's administration, suggesting a successful outcome.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "analyzedAt": "2026-09-06T06:49:56.309Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36587",
       "label": "neutral",
       "rationale": "The text reports on arrests without expressing a clear positive or negative sentiment.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "analyzedAt": "2026-09-06T06:49:56.309Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36588",
       "label": "positive",
       "rationale": "The text highlights a positive achievement regarding the Dow hitting 50,000, framing it as a success for the speaker.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "analyzedAt": "2026-09-06T06:49:56.309Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36589",
       "label": "negative",
       "rationale": "The text expresses strong negative sentiments towards Democrats and specific individuals, using derogatory language and accusations.",
-      "analyzedAt": "2026-04-13T08:02:50.220Z"
+      "analyzedAt": "2026-09-06T06:49:56.309Z"
     }
   ],
-  "trendingTopic": "The Dow Jones Industrial Average just hit 50,000 for the first time in History",
-  "selfPraiseCount": 2,
-  "secondaryHighlights": [
-    {
-      "topic": "White House launches ‘TrumpRx’ to lower prescription drug prices"
-    },
-    {
-      "topic": "Trump Announces Dramatic Drop in Ozempic Price"
-    },
-    {
-      "topic": "White House touts arrests of more than 4,000 criminal illegal immigrants in Minneapolis"
-    }
-  ]
+  "selfPraiseCacheKey": "self-praise-v1:94:198e81b8c49f907ff7150456"
 }

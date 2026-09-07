@@ -6,12 +6,23 @@
     "negative": 3
   },
   "summary": "positive:8 neutral:12 negative:3",
-  "generatedAt": "2026-04-13T08:03:53.726Z",
+  "generatedAt": "2026-09-07T14:52:36.120Z",
   "topics": [
-    "Congressional Endorsements in Florida",
-    "Border Security and Migrant Crime",
-    "Federal Court Rulings on Migrant Protections"
+    "Federal appeals court rules against migrant protections, a significant win for Trump",
+    "Trump's approval rating among Hispanic voters sees a notable increase",
+    "Congressional endorsements highlight support for America First policies in Florida"
   ],
+  "trendingTopic": "Federal appeals court rules against migrant protections, a significant win for Trump",
+  "secondaryHighlights": [
+    {
+      "topic": "Trump's approval rating among Hispanic voters sees a notable increase"
+    },
+    {
+      "topic": "Congressional endorsements highlight support for America First policies in Florida"
+    }
+  ],
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:23:4c26270dc62008c55d560637",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36620",
@@ -83,7 +94,10 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36626",
         "isoDate": "2026-02-10T11:30:48.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15405/84452b2cb47e5518.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36625",
@@ -107,7 +121,7 @@
       "id": "https://www.trumpstruth.org/statuses/36624",
       "publishedAt": "2026-02-10T11:31:28.000Z",
       "title": "[No Title] - Post from February 10, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116046106893215315</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116046106893215315</span></p>\n\n[Image] The image is a tweet from John Fitzgerald Kennedy Jr., where he reflects on Donald Trump's past statements as a real estate developer. Kennedy mentions that Trump spoke about America being taken advantage of by other countries nearly 40 years ago. He praises Trump for consistently advocating for making America great and describes him as a \"true man of principle.\" The tweet includes a patriotic emoji and encourages followers to connect with Kennedy's account.",
       "url": "https://www.trumpstruth.org/statuses/36624",
       "raw": {
         "creator": "",
@@ -119,13 +133,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116046106893215315",
         "guid": "https://www.trumpstruth.org/statuses/36624",
         "isoDate": "2026-02-10T11:31:28.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:48:27.427Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15403/299128312ee07332.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36623",
       "publishedAt": "2026-02-10T11:31:51.000Z",
       "title": "[No Title] - Post from February 10, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a crowd at an event, with a focus on a man holding a sign that reads \"Hispanics for Trump.\" The audience appears engaged, with a mix of individuals, some wearing hats and casual clothing. The background includes people seated in a large venue. The accompanying text discusses a poll indicating Donald Trump's approval rating among Hispanic voters, highlighting a significant increase. The message emphasizes support for Trump's immigration policies.",
       "url": "https://www.trumpstruth.org/statuses/36623",
       "raw": {
         "creator": "",
@@ -137,7 +155,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36623",
         "isoDate": "2026-02-10T11:31:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:48:25.766Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15402/a543b609d66211c8.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36622",
@@ -161,7 +183,7 @@
       "id": "https://www.trumpstruth.org/statuses/36621",
       "publishedAt": "2026-02-10T11:34:01.000Z",
       "title": "[No Title] - Post from February 10, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116046114905283832</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116046114905283832</span></p>\n\n[Image] The image features a tweet from Elon Musk discussing election fraud, specifically mentioning mail-in voting. Musk asserts that banning mail-in voting is essential to prevent fraud. The tweet references the 2020 election in Pennsylvania, claiming discrepancies in mail-in ballot counts and alleging fraudulent activity related to Joe Biden's vote spike. The message implies that these issues contributed to Donald Trump's loss in the election.",
       "url": "https://www.trumpstruth.org/statuses/36621",
       "raw": {
         "creator": "",
@@ -173,7 +195,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116046114905283832",
         "guid": "https://www.trumpstruth.org/statuses/36621",
         "isoDate": "2026-02-10T11:34:01.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:48:17.905Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15400/fd89718c7d2d7963.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36631",
@@ -209,7 +235,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116046122963627074",
         "guid": "https://www.trumpstruth.org/statuses/36630",
         "isoDate": "2026-02-10T11:35:38.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15409/d516765b2a0644cf.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36629",
@@ -227,7 +256,10 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36629",
         "isoDate": "2026-02-10T11:36:00.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15408/cd766b9482fef2e0.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36628",
@@ -251,7 +283,7 @@
       "id": "https://www.trumpstruth.org/statuses/36627",
       "publishedAt": "2026-02-10T11:37:04.000Z",
       "title": "[No Title] - Post from February 10, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116046128032274537</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116046128032274537</span></p>\n\n[Image] The image features a tweet from Elon Musk discussing CBS's alleged election interference prior to its current ownership. Below it, a tweet from the account \"Stand Up For Trump\" shares a breaking news update about CBS investigative journalist Catherine Herridge, claiming that CBS executives suppressed the Hunter Biden laptop story to benefit the Democratic Party. The post encourages responses and urges readers to make it go viral. Donald Trump is referenced in the context of the tweet.",
       "url": "https://www.trumpstruth.org/statuses/36627",
       "raw": {
         "creator": "",
@@ -263,13 +295,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116046128032274537",
         "guid": "https://www.trumpstruth.org/statuses/36627",
         "isoDate": "2026-02-10T11:37:04.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:47:57.755Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15406/3808c02e4680aebb.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36632",
       "publishedAt": "2026-02-10T12:52:03.000Z",
       "title": "[No Title] - Post from February 10, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a tweet from Mila Joy discussing the salaries of several public figures. It mentions Pete Hegseth, Jeanine Pirro, and Sean Duffy, providing their estimated earnings for 2024 and their new salaries. The tweet emphasizes that these individuals are \"pure patriots\" and not motivated by money. The accompanying images show headshots of Hegseth, Pirro, and Duffy, all of whom are known for their roles in media and politics.",
       "url": "https://www.trumpstruth.org/statuses/36632",
       "raw": {
         "creator": "",
@@ -281,7 +317,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36632",
         "isoDate": "2026-02-10T12:52:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:47:55.962Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15411/d3376718d3c23e1d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36633",
@@ -299,7 +339,11 @@
         "contentSnippet": "Two views of the Great Ballroom being built on the site of our wonderful White House — It is on budget, and ahead of schedule! When completed, it will be the finest Ballroom ever built anywhere in the World, one that has been sought by Presidents for over 150 years — and now they are getting THE BEST! Because of its unprecedented structural, safety, and security features, it will also be used for future Presidential Inaugurations. Thank you for your attention to this matter! PRESIDENT DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/36633",
         "isoDate": "2026-02-10T18:41:34.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15412/77d78d8be491003c.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15413/c06d580dbd703455.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36640",
@@ -432,156 +476,141 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/36618",
       "label": "negative",
-      "rationale": "The text discusses a conspiracy case against Obama's administration, which carries a negative connotation regarding election meddling.",
-      "analyzedAt": "2026-04-13T08:03:53.723Z"
+      "rationale": "The text discusses a conspiracy case against Obama's administration, which carries a negative connotation regarding election integrity.",
+      "analyzedAt": "2026-09-06T06:51:05.548Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36619",
       "label": "negative",
       "rationale": "The text mentions an ethics inquiry into Rep. Vindman, suggesting potential wrongdoing, which conveys a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:03:53.723Z"
+      "analyzedAt": "2026-09-06T06:51:05.548Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36620",
       "label": "negative",
-      "rationale": "The text reports a federal appeals court decision that ends protections for migrants, which is likely to be viewed negatively by those supporting migrant rights.",
-      "analyzedAt": "2026-04-13T08:03:53.723Z"
+      "rationale": "The text reports a court decision that ends protections for migrants, which is likely to be viewed negatively by those concerned about immigration issues.",
+      "analyzedAt": "2026-09-06T06:51:05.548Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36621",
       "label": "neutral",
-      "rationale": "The text is a retweet reference and does not provide any sentiment on its own.",
-      "analyzedAt": "2026-04-13T08:03:53.723Z"
+      "rationale": "The text is a retweet link and does not provide any sentiment on its own.",
+      "analyzedAt": "2026-09-06T06:51:05.548Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36622",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:03:53.723Z"
+      "analyzedAt": "2026-09-06T06:51:05.548Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36623",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:03:53.723Z"
+      "analyzedAt": "2026-09-06T06:51:05.548Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36624",
       "label": "neutral",
-      "rationale": "The text is a retweet reference and does not provide any sentiment on its own.",
-      "analyzedAt": "2026-04-13T08:03:53.723Z"
+      "rationale": "The text is a retweet link and does not provide any sentiment on its own.",
+      "analyzedAt": "2026-09-06T06:51:05.548Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36625",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:03:53.723Z"
+      "analyzedAt": "2026-09-06T06:51:05.548Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36626",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:03:53.723Z"
+      "analyzedAt": "2026-09-06T06:51:05.548Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36627",
       "label": "neutral",
-      "rationale": "The text is a retweet reference and does not provide any sentiment on its own.",
-      "analyzedAt": "2026-04-13T08:03:53.723Z"
+      "rationale": "The text is a retweet link and does not provide any sentiment on its own.",
+      "analyzedAt": "2026-09-06T06:51:05.548Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36628",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:03:53.723Z"
+      "analyzedAt": "2026-09-06T06:51:05.548Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36629",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:03:53.723Z"
+      "analyzedAt": "2026-09-06T06:51:05.548Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36630",
       "label": "neutral",
-      "rationale": "The text is a retweet reference and does not provide any sentiment on its own.",
-      "analyzedAt": "2026-04-13T08:03:53.723Z"
+      "rationale": "The text is a retweet link and does not provide any sentiment on its own.",
+      "analyzedAt": "2026-09-06T06:51:05.548Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36631",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:03:53.723Z"
+      "analyzedAt": "2026-09-06T06:51:05.548Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36632",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:03:53.723Z"
+      "analyzedAt": "2026-09-06T06:51:05.548Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36633",
       "label": "positive",
-      "rationale": "The text describes the construction of a ballroom at the White House in a positive light, emphasizing its significance and quality.",
-      "analyzedAt": "2026-04-13T08:03:53.723Z"
+      "rationale": "The text discusses the construction of a new ballroom at the White House, presenting it in a positive light as a significant achievement.",
+      "analyzedAt": "2026-09-06T06:51:05.548Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36634",
       "label": "positive",
       "rationale": "The text expresses strong support and praise for Congressman Carlos Gimenez, highlighting his accomplishments and dedication to the community.",
-      "analyzedAt": "2026-04-13T08:03:53.723Z"
+      "analyzedAt": "2026-09-06T06:51:05.548Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36635",
       "label": "positive",
       "rationale": "The text conveys admiration for Congresswoman María Elvira Salazar, emphasizing her effectiveness and commitment to her constituents.",
-      "analyzedAt": "2026-04-13T08:03:53.723Z"
+      "analyzedAt": "2026-09-06T06:51:05.548Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36636",
       "label": "positive",
       "rationale": "The text praises Congressman Brian Mast as a 'MAGA Warrior' and highlights his dedication to various important issues, indicating strong support.",
-      "analyzedAt": "2026-04-13T08:03:53.723Z"
+      "analyzedAt": "2026-09-06T06:51:05.548Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36637",
       "label": "positive",
       "rationale": "The text commends Congressman Daniel Webster for his efforts and effectiveness, showcasing a positive sentiment towards his work.",
-      "analyzedAt": "2026-04-13T08:03:53.723Z"
+      "analyzedAt": "2026-09-06T06:51:05.548Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36638",
       "label": "positive",
       "rationale": "The text describes Congressman Cory Mills as a 'Tremendous Champion' and emphasizes his commitment to various issues, reflecting a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:03:53.723Z"
+      "analyzedAt": "2026-09-06T06:51:05.548Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36639",
       "label": "positive",
       "rationale": "The text expresses strong support for Congressman John Rutherford, highlighting his background and dedication to law enforcement and military support.",
-      "analyzedAt": "2026-04-13T08:03:53.723Z"
+      "analyzedAt": "2026-09-06T06:51:05.548Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36640",
       "label": "positive",
-      "rationale": "The text praises Congressman Aaron Bean for his role and efforts, indicating a strong positive sentiment towards his work.",
-      "analyzedAt": "2026-04-13T08:03:53.723Z"
+      "rationale": "The text praises Congressman Aaron Bean as a 'Tremendous Champion' and highlights his efforts in various policy areas, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:51:05.548Z"
     }
   ],
-  "trendingTopic": "Congressman John Rutherford is an incredible Representative for the wonderful People of Florida’s 5th Congressional District!",
-  "selfPraiseCount": 0,
-  "trendingName": "John Rutherford",
-  "secondaryHighlights": [
-    {
-      "topic": "Congressman Daniel Webster is doing an incredible job representing the Great People of Florida’s 11th Congressional District!",
-      "name": "Daniel Webster"
-    },
-    {
-      "topic": "Congressman Brian Mast is a MAGA Warrior and Fantastic Advocate for Florida’s 21st Congressional District!",
-      "name": "Brian Mast"
-    },
-    {
-      "topic": "Pentagon wants ethics inquiry on Rep. Vindman’s Ukraine business deals"
-    }
-  ]
+  "selfPraiseCacheKey": "self-praise-v1:23:4c26270dc62008c55d560637"
 }

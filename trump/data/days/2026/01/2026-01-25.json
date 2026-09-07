@@ -6,22 +6,19 @@
     "negative": 4
   },
   "summary": "positive:3 neutral:0 negative:4",
-  "generatedAt": "2026-09-06T06:44:48.966Z",
+  "generatedAt": "2026-09-07T14:51:52.396Z",
   "topics": [
-    "Critiques Biden's leadership and illegal immigration issues",
-    "Calls for cooperation from Democratic leaders on law enforcement",
-    "Comments on Canada's situation and influence from China"
+    "Critiques of Minnesota's handling of financial fraud and insurrection",
+    "Concerns over Canada's political situation and influence from China"
   ],
-  "trendingTopic": "Critiques Biden's leadership and illegal immigration issues",
+  "trendingTopic": "Critiques of Minnesota's handling of financial fraud and insurrection",
   "secondaryHighlights": [
     {
-      "topic": "Calls for cooperation from Democratic leaders on law enforcement"
-    },
-    {
-      "topic": "Comments on Canada's situation and influence from China"
+      "topic": "Concerns over Canada's political situation and influence from China"
     }
   ],
   "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:7:b2e2eb67311a8695f8b9c215",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34649",
@@ -194,5 +191,5 @@
       "analyzedAt": "2026-09-06T06:35:32.023Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:7:b2e2eb67311a8695f8b9c215"
+  "selfPraiseCacheKey": "self-praise-v1:7:b2e2eb67311a8695f8b9c215"
 }

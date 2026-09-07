@@ -6,18 +6,30 @@
     "negative": 0
   },
   "summary": "positive:12 neutral:12 negative:0",
-  "generatedAt": "2026-04-13T07:58:58.278Z",
+  "generatedAt": "2026-09-07T14:52:13.477Z",
   "topics": [
-    "Steel Production Achievement",
-    "Endorsements for Indiana Senate Candidates",
-    "Melania Trump Film Success"
+    "Melania Trump's documentary earns $8 million in opening weekend",
+    "Donald Trump endorses multiple candidates in Indiana's Senate primaries",
+    "U.S. steel production surpasses Japan for the first time in 26 years"
   ],
+  "trendingTopic": "Melania Trump's documentary earns $8 million in opening weekend",
+  "trendingName": "Melania Trump",
+  "secondaryHighlights": [
+    {
+      "topic": "Donald Trump endorses multiple candidates in Indiana's Senate primaries"
+    },
+    {
+      "topic": "U.S. steel production surpasses Japan for the first time in 26 years"
+    }
+  ],
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:24:0b4f3711cb4f8a0473b33442",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36390",
       "publishedAt": "2026-02-01T02:57:59.000Z",
       "title": "[No Title] - Post from February 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a group of women dressed in matching black and white gowns, standing in front of a movie poster for \"MELANIA.\" They are posed in a way that highlights their outfits, which have off-the-shoulder designs and high slits. The tweet is from Dr. Robert Jeffress, who mentions that these women are referred to as \"church ladies\" and expresses a prayer for the President and First Lady, referencing Donald Trump and Melania Trump.",
       "url": "https://www.trumpstruth.org/statuses/36390",
       "raw": {
         "creator": "",
@@ -29,13 +41,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36390",
         "isoDate": "2026-02-01T02:57:59.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:42:05.589Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15274/17ac00d8f3553803.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36391",
       "publishedAt": "2026-02-01T06:32:28.000Z",
       "title": "[No Title] - Post from February 1, 2026",
-      "text": "<p><a href=\"https://x.com/huberton/status/2017809513479327924/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/huberton/status/20178095</span><span class=\"invisible\">13479327924/</span></a></p>",
+      "text": "<p><a href=\"https://x.com/huberton/status/2017809513479327924/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/huberton/status/20178095</span><span class=\"invisible\">13479327924/</span></a></p>\n\n[Image] The image is a screenshot of a tweet from AJ Huber, featuring a red alert symbol. The tweet discusses President Trump engaging with the press on Air Force One while en route to Palm Beach, Florida, on January 31, 2026. It also mentions Trump's intention to sue author Michael Wolff for allegedly conspiring with Jeffrey Epstein. The tweet notes the last edit time and the number of views.",
       "url": "https://www.trumpstruth.org/statuses/36391",
       "raw": {
         "creator": "",
@@ -47,7 +63,11 @@
         "contentSnippet": "https://x.com/huberton/status/2017809513479327924/",
         "guid": "https://www.trumpstruth.org/statuses/36391",
         "isoDate": "2026-02-01T06:32:28.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:42:03.882Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15275/b0def7e2758874d8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36392",
@@ -173,7 +193,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115996004887528511",
         "guid": "https://www.trumpstruth.org/statuses/36396",
         "isoDate": "2026-02-01T15:09:41.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15276/8d6e21e0aea9e3b5.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36400",
@@ -191,13 +214,16 @@
         "contentSnippet": "https://www.hollywoodreporter.com/movies/movie-news/box-office-melania-opening-weekend-1236490092/",
         "guid": "https://www.trumpstruth.org/statuses/36400",
         "isoDate": "2026-02-01T16:26:38.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15280/a88f4999adcfbfab.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36399",
       "publishedAt": "2026-02-01T16:26:53.000Z",
       "title": "[No Title] - Post from February 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Melania Trump, who is smiling and posing for the camera. She is dressed in a black outfit and has long, wavy hair. In the background, the word \"MELANIA\" is prominently displayed, indicating the focus on her. The accompanying text mentions a documentary titled \"Melania,\" which reportedly earned $8 million during its opening weekend, marking a significant debut for a documentary in over a decade. The tweet is from Fox News.",
       "url": "https://www.trumpstruth.org/statuses/36399",
       "raw": {
         "creator": "",
@@ -209,7 +235,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36399",
         "isoDate": "2026-02-01T16:26:53.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:41:41.448Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15279/a0becd0511c53840.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36413",
@@ -233,7 +263,7 @@
       "id": "https://www.trumpstruth.org/statuses/36412",
       "publishedAt": "2026-02-01T18:50:14.000Z",
       "title": "Niall Ferguson: How Trump Won Davos:",
-      "text": "<p>Niall Ferguson: How Trump Won Davos: <a href=\"https://www.thefp.com/p/niall-ferguson-how-trump-won-davos/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">thefp.com/p/niall-ferguson-how</span><span class=\"invisible\">-trump-won-davos/</span></a></p>",
+      "text": "<p>Niall Ferguson: How Trump Won Davos: <a href=\"https://www.thefp.com/p/niall-ferguson-how-trump-won-davos/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">thefp.com/p/niall-ferguson-how</span><span class=\"invisible\">-trump-won-davos/</span></a></p>\n\n[Image] The text discusses Donald Trump's influence at the Davos World Economic Forum, emphasizing his dominance in discussions and his controversial remarks about Greenland. It references historical parallels, particularly the Melian Dialogue from Thucydides, to illustrate the dynamics of power and international relations. Trump is portrayed as assertive, threatening tariffs and military action regarding Greenland, while European leaders express concern over his approach. The piece critiques the implications of his rhetoric on global diplomacy.",
       "url": "https://www.trumpstruth.org/statuses/36412",
       "raw": {
         "creator": "",
@@ -245,13 +275,18 @@
         "contentSnippet": "Niall Ferguson: How Trump Won Davos: https://www.thefp.com/p/niall-ferguson-how-trump-won-davos/",
         "guid": "https://www.trumpstruth.org/statuses/36412",
         "isoDate": "2026-02-01T18:50:14.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:41:39.313Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15286/ef2be90cf24a5e43.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15287/fab687f590c8bd7d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36411",
       "publishedAt": "2026-02-01T18:50:27.000Z",
       "title": "[No Title] - Post from February 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a tweet from Roma Daravi discussing financial issues at the Trump Kennedy Center, highlighting a $100 million operating deficit and a $26 million bottom-line deficit. It mentions that under Donald Trump, the center has achieved a balanced budget. The tweet includes a message from Donald Trump, where he claims to have saved the Kennedy Center from its financial troubles. The post emphasizes gratitude towards Trump for his leadership.",
       "url": "https://www.trumpstruth.org/statuses/36411",
       "raw": {
         "creator": "",
@@ -263,7 +298,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36411",
         "isoDate": "2026-02-01T18:50:27.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:41:30.619Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15284/12387504d83e5b28.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36410",
@@ -281,7 +320,10 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36410",
         "isoDate": "2026-02-01T18:50:43.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15283/d46dd03b004ad224.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36409",
@@ -305,7 +347,7 @@
       "id": "https://www.trumpstruth.org/statuses/36407",
       "publishedAt": "2026-02-01T18:51:29.000Z",
       "title": "RT @realDonaldTrumpIt is my Great Honor to endorse MAGA Warrior and Fountain County GOP Chair, Paula Copenhaver, a terrific Candidate for Indiana's 23rd State Senate District (which I won by 26 points!). Paula is running against an incompetent and ineffective RINO incumbent named Spencer Deery who, for whatever reason, betrayed his voters by voting against Redistricting in Indiana. Deery and his RINO friends made Indiana, a State I love and have been very good to, the only State in the Country that essentially said they don’t care if Democrats and Radical Liberal Judges keep conspiring to steal seats in the United States Congress from Republicans. We could have easily picked up two seats in Indiana, but Deery, an America Last politician, would rather side with Far Left Democrats who will do anything and everything in their power to reverse the incredible progress we have made for the American people over the last year since I reassumed the Office of President. While “RINO” Spencer Deery prefers Democrats, Paula Copenhaver has helped REAL Republicans get elected across her Community, As your next State Senator, Paula will work hard to Protect \"Hoosier\" Values, Advocate for the Working Men and Women of Indiana, Grow the Economy, Cut Taxes and Regulations, Promote American Manufacturing, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Ensure LAW AND ORDER, Support our Brave Military, Veterans, and Law Enforcement, Safeguard our Elections, and Protect our always under siege Second Amendment.  Paula Copenhaver has my Complete and Total Endorsement to be the next State Senator from Indiana's 23rd Senate District. Unlike incumbent Spencer Deery, a “RINO” who has become a favorite politician of the Far Left, PAULA COPENHAVER IS A WINNER WHO WILL NEVER LET YOU DOWN!  ",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>It is my Great Honor to endorse MAGA Warrior and Fountain County GOP Chair, Paula Copenhaver, a terrific Candidate for Indiana's 23rd State Senate District (which I won by 26 points!). Paula is running against an incompetent and ineffective RINO incumbent named Spencer Deery who, for whatever reason, betrayed his voters by voting against Redistricting in Indiana. Deery and his RINO friends made Indiana, a State I love and have been very good to, the only State in the Country that essentially said they don’t care if Democrats and Radical Liberal Judges keep conspiring to steal seats in the United States Congress from Republicans. We could have easily picked up two seats in Indiana, but Deery, an America Last politician, would rather side with Far Left Democrats who will do anything and everything in their power to reverse the incredible progress we have made for the American people over the last year since I reassumed the Office of President.<br/> <br/>While “RINO” Spencer Deery prefers Democrats, Paula Copenhaver has helped REAL Republicans get elected across her Community, As your next State Senator, Paula will work hard to Protect \"Hoosier\" Values, Advocate for the Working Men and Women of Indiana, Grow the Economy, Cut Taxes and Regulations, Promote American Manufacturing, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Ensure LAW AND ORDER, Support our Brave Military, Veterans, and Law Enforcement, Safeguard our Elections, and Protect our always under siege Second Amendment. <br/> <br/>Paula Copenhaver has my Complete and Total Endorsement to be the next State Senator from Indiana's 23rd Senate District. Unlike incumbent Spencer Deery, a “RINO” who has become a favorite politician of the Far Left, PAULA COPENHAVER IS A WINNER WHO WILL NEVER LET YOU DOWN!  </p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>It is my Great Honor to endorse MAGA Warrior and Fountain County GOP Chair, Paula Copenhaver, a terrific Candidate for Indiana's 23rd State Senate District (which I won by 26 points!). Paula is running against an incompetent and ineffective RINO incumbent named Spencer Deery who, for whatever reason, betrayed his voters by voting against Redistricting in Indiana. Deery and his RINO friends made Indiana, a State I love and have been very good to, the only State in the Country that essentially said they don’t care if Democrats and Radical Liberal Judges keep conspiring to steal seats in the United States Congress from Republicans. We could have easily picked up two seats in Indiana, but Deery, an America Last politician, would rather side with Far Left Democrats who will do anything and everything in their power to reverse the incredible progress we have made for the American people over the last year since I reassumed the Office of President.<br/> <br/>While “RINO” Spencer Deery prefers Democrats, Paula Copenhaver has helped REAL Republicans get elected across her Community, As your next State Senator, Paula will work hard to Protect \"Hoosier\" Values, Advocate for the Working Men and Women of Indiana, Grow the Economy, Cut Taxes and Regulations, Promote American Manufacturing, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Ensure LAW AND ORDER, Support our Brave Military, Veterans, and Law Enforcement, Safeguard our Elections, and Protect our always under siege Second Amendment. <br/> <br/>Paula Copenhaver has my Complete and Total Endorsement to be the next State Senator from Indiana's 23rd Senate District. Unlike incumbent Spencer Deery, a “RINO” who has become a favorite politician of the Far Left, PAULA COPENHAVER IS A WINNER WHO WILL NEVER LET YOU DOWN!  </p>\n\n[Image] The image presents polling data for the Republican primary in Indiana's Senate District 23. It features two bar graphs comparing current polling and hypothetical polling if Donald Trump endorses challenger Paula Copenhaver. In the current polling, incumbent Spencer Deery leads with 35%, while Copenhaver has 13% and 52% are undecided. If Trump endorses Copenhaver, she leads with 54%, Deery drops to 23%, and undecided remains at 23%. Donald Trump is depicted in the image.",
       "url": "https://www.trumpstruth.org/statuses/36407",
       "raw": {
         "creator": "",
@@ -317,13 +359,17 @@
         "contentSnippet": "RT @realDonaldTrumpIt is my Great Honor to endorse MAGA Warrior and Fountain County GOP Chair, Paula Copenhaver, a terrific Candidate for Indiana's 23rd State Senate District (which I won by 26 points!). Paula is running against an incompetent and ineffective RINO incumbent named Spencer Deery who, for whatever reason, betrayed his voters by voting against Redistricting in Indiana. Deery and his RINO friends made Indiana, a State I love and have been very good to, the only State in the Country that essentially said they don’t care if Democrats and Radical Liberal Judges keep conspiring to steal seats in the United States Congress from Republicans. We could have easily picked up two seats in Indiana, but Deery, an America Last politician, would rather side with Far Left Democrats who will do anything and everything in their power to reverse the incredible progress we have made for the American people over the last year since I reassumed the Office of President.\n While “RINO” Spencer Deery prefers Democrats, Paula Copenhaver has helped REAL Republicans get elected across her Community, As your next State Senator, Paula will work hard to Protect \"Hoosier\" Values, Advocate for the Working Men and Women of Indiana, Grow the Economy, Cut Taxes and Regulations, Promote American Manufacturing, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Ensure LAW AND ORDER, Support our Brave Military, Veterans, and Law Enforcement, Safeguard our Elections, and Protect our always under siege Second Amendment. \n Paula Copenhaver has my Complete and Total Endorsement to be the next State Senator from Indiana's 23rd Senate District. Unlike incumbent Spencer Deery, a “RINO” who has become a favorite politician of the Far Left, PAULA COPENHAVER IS A WINNER WHO WILL NEVER LET YOU DOWN!",
         "guid": "https://www.trumpstruth.org/statuses/36407",
         "isoDate": "2026-02-01T18:51:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:41:16.819Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13797/60397106ee45a071.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36406",
       "publishedAt": "2026-02-01T18:51:37.000Z",
       "title": "RT @realDonaldTrumpVigo County Commissioner Brenda Wilson, a Proven America First Patriot, is running against “No Goode” Greg Goode (BAD FOR THE U.S.A.!) in the Republican Primary for Indiana’s 38th Senate District, which I won by 28 points! “No Goode” is an incompetent and ineffective RINO incumbent who, for whatever reason, voted against Redistricting in Indiana, which has made him a hero to Hakeem Jeffries, Ilhan Omar, and every other Radical Left Member of the U.S. House of Representatives. “No Goode” and his RINO friends made Indiana, a State I have tremendous love for, the only State in the Country that essentially said they don’t care about what happens to the United States Congress, and therefore to America’s future. We could have easily picked up two seats in Indiana, but No Goode, an America Last politician, threw in with the Democrats, thereby putting our Country in a very dangerous position, and risking the reversal of so much of the incredible progress we have made over the last year for our Country and our people. Brenda Wilson, on the other hand, is a Successful Family Farmer, and Highly Respected Vigo County Commissioner, who will be a strong and effective Voice for our amazing Farmers and Indiana Agriculture. As your next State Senator, Brenda will fight tirelessly to Protect \"Hoosier\" Values, Champion Small Businesses, Promote MADE IN THE U.S.A., Grow our Economy, Cut Taxes and Regulations, Advance American Energy DOMINANCE, Keep our Border SECURE, Support our incredible Military, Veterans, and Law Enforcement, Advance Election Integrity, and Protect our always under siege Second Amendment. Brenda Wilson has my Complete and Total Endorsement, and, unlike “No Goode” — BRENDA WILL NOT LET YOU DOWN!",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>Vigo County Commissioner Brenda Wilson, a Proven America First Patriot, is running against “No Goode” Greg Goode (BAD FOR THE U.S.A.!) in the Republican Primary for Indiana’s 38th Senate District, which I won by 28 points! “No Goode” is an incompetent and ineffective RINO incumbent who, for whatever reason, voted against Redistricting in Indiana, which has made him a hero to Hakeem Jeffries, Ilhan Omar, and every other Radical Left Member of the U.S. House of Representatives. “No Goode” and his RINO friends made Indiana, a State I have tremendous love for, the only State in the Country that essentially said they don’t care about what happens to the United States Congress, and therefore to America’s future. We could have easily picked up two seats in Indiana, but No Goode, an America Last politician, threw in with the Democrats, thereby putting our Country in a very dangerous position, and risking the reversal of so much of the incredible progress we have made over the last year for our Country and our people.<br/> <br/>Brenda Wilson, on the other hand, is a Successful Family Farmer, and Highly Respected Vigo County Commissioner, who will be a strong and effective Voice for our amazing Farmers and Indiana Agriculture. As your next State Senator, Brenda will fight tirelessly to Protect \"Hoosier\" Values, Champion Small Businesses, Promote MADE IN THE U.S.A., Grow our Economy, Cut Taxes and Regulations, Advance American Energy DOMINANCE, Keep our Border SECURE, Support our incredible Military, Veterans, and Law Enforcement, Advance Election Integrity, and Protect our always under siege Second Amendment.<br/> <br/>Brenda Wilson has my Complete and Total Endorsement, and, unlike “No Goode” — BRENDA WILL NOT LET YOU DOWN!</p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>Vigo County Commissioner Brenda Wilson, a Proven America First Patriot, is running against “No Goode” Greg Goode (BAD FOR THE U.S.A.!) in the Republican Primary for Indiana’s 38th Senate District, which I won by 28 points! “No Goode” is an incompetent and ineffective RINO incumbent who, for whatever reason, voted against Redistricting in Indiana, which has made him a hero to Hakeem Jeffries, Ilhan Omar, and every other Radical Left Member of the U.S. House of Representatives. “No Goode” and his RINO friends made Indiana, a State I have tremendous love for, the only State in the Country that essentially said they don’t care about what happens to the United States Congress, and therefore to America’s future. We could have easily picked up two seats in Indiana, but No Goode, an America Last politician, threw in with the Democrats, thereby putting our Country in a very dangerous position, and risking the reversal of so much of the incredible progress we have made over the last year for our Country and our people.<br/> <br/>Brenda Wilson, on the other hand, is a Successful Family Farmer, and Highly Respected Vigo County Commissioner, who will be a strong and effective Voice for our amazing Farmers and Indiana Agriculture. As your next State Senator, Brenda will fight tirelessly to Protect \"Hoosier\" Values, Champion Small Businesses, Promote MADE IN THE U.S.A., Grow our Economy, Cut Taxes and Regulations, Advance American Energy DOMINANCE, Keep our Border SECURE, Support our incredible Military, Veterans, and Law Enforcement, Advance Election Integrity, and Protect our always under siege Second Amendment.<br/> <br/>Brenda Wilson has my Complete and Total Endorsement, and, unlike “No Goode” — BRENDA WILL NOT LET YOU DOWN!</p>\n\n[Image] The image presents polling data for the Republican primary in Indiana's Senate District 38. It features two graphs comparing current polling and hypothetical polling if Donald Trump endorses a challenger. In the current polling, Greg Goode has 39%, Brenda Wilson 14%, and 46% are undecided. If Trump endorses, Wilson leads with 59%, Goode at 20%, and 21% undecided. Donald Trump is depicted in the top right corner of the image.",
       "url": "https://www.trumpstruth.org/statuses/36406",
       "raw": {
         "creator": "",
@@ -335,13 +381,17 @@
         "contentSnippet": "RT @realDonaldTrumpVigo County Commissioner Brenda Wilson, a Proven America First Patriot, is running against “No Goode” Greg Goode (BAD FOR THE U.S.A.!) in the Republican Primary for Indiana’s 38th Senate District, which I won by 28 points! “No Goode” is an incompetent and ineffective RINO incumbent who, for whatever reason, voted against Redistricting in Indiana, which has made him a hero to Hakeem Jeffries, Ilhan Omar, and every other Radical Left Member of the U.S. House of Representatives. “No Goode” and his RINO friends made Indiana, a State I have tremendous love for, the only State in the Country that essentially said they don’t care about what happens to the United States Congress, and therefore to America’s future. We could have easily picked up two seats in Indiana, but No Goode, an America Last politician, threw in with the Democrats, thereby putting our Country in a very dangerous position, and risking the reversal of so much of the incredible progress we have made over the last year for our Country and our people.\n Brenda Wilson, on the other hand, is a Successful Family Farmer, and Highly Respected Vigo County Commissioner, who will be a strong and effective Voice for our amazing Farmers and Indiana Agriculture. As your next State Senator, Brenda will fight tirelessly to Protect \"Hoosier\" Values, Champion Small Businesses, Promote MADE IN THE U.S.A., Grow our Economy, Cut Taxes and Regulations, Advance American Energy DOMINANCE, Keep our Border SECURE, Support our incredible Military, Veterans, and Law Enforcement, Advance Election Integrity, and Protect our always under siege Second Amendment.\n Brenda Wilson has my Complete and Total Endorsement, and, unlike “No Goode” — BRENDA WILL NOT LET YOU DOWN!",
         "guid": "https://www.trumpstruth.org/statuses/36406",
         "isoDate": "2026-02-01T18:51:37.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:41:15.097Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13796/97a6c248f520c489.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36404",
       "publishedAt": "2026-02-01T18:51:54.000Z",
       "title": "RT @realDonaldTrumpIt is my Great Honor to endorse State Representative Michelle Davis, a REAL Republican running for Indiana's 41st State Senate District (which I won by 33 points!), against RINO incumbent Greg Walker! Michelle will be a fantastic replacement for Walker who, for whatever reason, voted against Redistricting in Indiana, which puts the United States Congress in jeopardy. Walker and his RINO friends made Indiana, a State I love and have been very good to, the only State in the Country that essentially said they don’t care about what happens in the United States Congress. We could have easily picked up two seats in Indiana, so Walker, an America Last politician, put our Majority in the House of Representatives at risk, thereby putting our Country in a very dangerous position in losing some of the magnificent gains that we have made over the last year, since I assumed the Office of President. State Representative Michelle Davis, on the other hand, strongly voted WITH Republicans to pass Redistricting in the State House, unlike “RINO” Greg Walker, who voted with the Democrats in the State Senate to stop it. As your next State Senator, Michelle will fight tirelessly to Protect \"Hoosier\" Values, Advocate for the Working Men and Women of Indiana, Grow our Economy, Cut Taxes and Regulations, Promote American Manufacturing, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Support our Military, Veterans, and Law Enforcement, Advance Election Integrity, and Defend our always under siege Second Amendment.  Michelle Davis has my Complete and Total Endorsement to be the next State Senator from Indiana's 41st Senate District. Unlike incumbent Greg Walker, a “RINO” LOSER who has failed the fantastic people of Indiana so badly, MICHELLE DAVIS IS A WINNER WHO WILL NOT LET YOU DOWN!",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>It is my Great Honor to endorse State Representative Michelle Davis, a REAL Republican running for Indiana's 41st State Senate District (which I won by 33 points!), against RINO incumbent Greg Walker! Michelle will be a fantastic replacement for Walker who, for whatever reason, voted against Redistricting in Indiana, which puts the United States Congress in jeopardy. Walker and his RINO friends made Indiana, a State I love and have been very good to, the only State in the Country that essentially said they don’t care about what happens in the United States Congress. We could have easily picked up two seats in Indiana, so Walker, an America Last politician, put our Majority in the House of Representatives at risk, thereby putting our Country in a very dangerous position in losing some of the magnificent gains that we have made over the last year, since I assumed the Office of President.<br/> <br/>State Representative Michelle Davis, on the other hand, strongly voted WITH Republicans to pass Redistricting in the State House, unlike “RINO” Greg Walker, who voted with the Democrats in the State Senate to stop it. As your next State Senator, Michelle will fight tirelessly to Protect \"Hoosier\" Values, Advocate for the Working Men and Women of Indiana, Grow our Economy, Cut Taxes and Regulations, Promote American Manufacturing, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Support our Military, Veterans, and Law Enforcement, Advance Election Integrity, and Defend our always under siege Second Amendment. <br/> <br/>Michelle Davis has my Complete and Total Endorsement to be the next State Senator from Indiana's 41st Senate District. Unlike incumbent Greg Walker, a “RINO” LOSER who has failed the fantastic people of Indiana so badly, MICHELLE DAVIS IS A WINNER WHO WILL NOT LET YOU DOWN!</p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>It is my Great Honor to endorse State Representative Michelle Davis, a REAL Republican running for Indiana's 41st State Senate District (which I won by 33 points!), against RINO incumbent Greg Walker! Michelle will be a fantastic replacement for Walker who, for whatever reason, voted against Redistricting in Indiana, which puts the United States Congress in jeopardy. Walker and his RINO friends made Indiana, a State I love and have been very good to, the only State in the Country that essentially said they don’t care about what happens in the United States Congress. We could have easily picked up two seats in Indiana, so Walker, an America Last politician, put our Majority in the House of Representatives at risk, thereby putting our Country in a very dangerous position in losing some of the magnificent gains that we have made over the last year, since I assumed the Office of President.<br/> <br/>State Representative Michelle Davis, on the other hand, strongly voted WITH Republicans to pass Redistricting in the State House, unlike “RINO” Greg Walker, who voted with the Democrats in the State Senate to stop it. As your next State Senator, Michelle will fight tirelessly to Protect \"Hoosier\" Values, Advocate for the Working Men and Women of Indiana, Grow our Economy, Cut Taxes and Regulations, Promote American Manufacturing, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Support our Military, Veterans, and Law Enforcement, Advance Election Integrity, and Defend our always under siege Second Amendment. <br/> <br/>Michelle Davis has my Complete and Total Endorsement to be the next State Senator from Indiana's 41st Senate District. Unlike incumbent Greg Walker, a “RINO” LOSER who has failed the fantastic people of Indiana so badly, MICHELLE DAVIS IS A WINNER WHO WILL NOT LET YOU DOWN!</p>\n\n[Image] The image presents polling data for the Republican primary in Indiana's Senate District 41. It compares current polling results, showing incumbent Greg Walker at 34% and Michelle Davis at 20%, with 46% undecided, indicating a +14% lead for Walker. The second part illustrates potential polling if Donald Trump endorses Davis, where she leads with 59% compared to Walker's 23%, resulting in a +36% spread for Davis. The data is sourced from Fabrizio, Lee & Associates.",
       "url": "https://www.trumpstruth.org/statuses/36404",
       "raw": {
         "creator": "",
@@ -353,7 +403,11 @@
         "contentSnippet": "RT @realDonaldTrumpIt is my Great Honor to endorse State Representative Michelle Davis, a REAL Republican running for Indiana's 41st State Senate District (which I won by 33 points!), against RINO incumbent Greg Walker! Michelle will be a fantastic replacement for Walker who, for whatever reason, voted against Redistricting in Indiana, which puts the United States Congress in jeopardy. Walker and his RINO friends made Indiana, a State I love and have been very good to, the only State in the Country that essentially said they don’t care about what happens in the United States Congress. We could have easily picked up two seats in Indiana, so Walker, an America Last politician, put our Majority in the House of Representatives at risk, thereby putting our Country in a very dangerous position in losing some of the magnificent gains that we have made over the last year, since I assumed the Office of President.\n State Representative Michelle Davis, on the other hand, strongly voted WITH Republicans to pass Redistricting in the State House, unlike “RINO” Greg Walker, who voted with the Democrats in the State Senate to stop it. As your next State Senator, Michelle will fight tirelessly to Protect \"Hoosier\" Values, Advocate for the Working Men and Women of Indiana, Grow our Economy, Cut Taxes and Regulations, Promote American Manufacturing, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Support our Military, Veterans, and Law Enforcement, Advance Election Integrity, and Defend our always under siege Second Amendment. \n Michelle Davis has my Complete and Total Endorsement to be the next State Senator from Indiana's 41st Senate District. Unlike incumbent Greg Walker, a “RINO” LOSER who has failed the fantastic people of Indiana so badly, MICHELLE DAVIS IS A WINNER WHO WILL NOT LET YOU DOWN!",
         "guid": "https://www.trumpstruth.org/statuses/36404",
         "isoDate": "2026-02-01T18:51:54.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:41:07.977Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13801/9434a5df92fe4f4a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36403",
@@ -377,7 +431,7 @@
       "id": "https://www.trumpstruth.org/statuses/36402",
       "publishedAt": "2026-02-01T18:52:55.000Z",
       "title": "[No Title] - Post from February 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image shows a letter dated February 23, 1989, addressed to Donald Trump from George M. Steinbrenner III, the former owner of the New York Yankees. The letter is printed on New York Yankees letterhead and expresses admiration for Trump's appearance on a television show, suggesting he should consider running for President. The letter is signed by Steinbrenner, and there is a handwritten note at the top with the name \"Robert.\"",
       "url": "https://www.trumpstruth.org/statuses/36402",
       "raw": {
         "creator": "",
@@ -389,7 +443,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36402",
         "isoDate": "2026-02-01T18:52:55.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:41:00.235Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15282/7c91d9dc7ffbfa21.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36401",
@@ -407,7 +465,10 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36401",
         "isoDate": "2026-02-01T18:53:00.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15281/cf52aa1a26522320.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36414",
@@ -450,161 +511,147 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/36390",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment or information.",
-      "analyzedAt": "2026-04-13T07:58:58.275Z"
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:48:41.121Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36391",
       "label": "neutral",
-      "rationale": "The text is a link with no sentiment expressed.",
-      "analyzedAt": "2026-04-13T07:58:58.275Z"
+      "rationale": "The text is a link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:48:41.121Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36392",
       "label": "positive",
-      "rationale": "The text indicates excitement about the success of a documentary related to Melania Trump, suggesting a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:58:58.275Z"
+      "rationale": "The text expresses excitement about the success of a Melania Trump film, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:48:41.121Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36393",
       "label": "positive",
-      "rationale": "The text indicates excitement about the success of a documentary related to Melania Trump, suggesting a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:58:58.275Z"
+      "rationale": "The text expresses excitement about the success of a Melania Trump film, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:48:41.121Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36394",
       "label": "neutral",
-      "rationale": "The text is a link with no sentiment expressed.",
-      "analyzedAt": "2026-04-13T07:58:58.275Z"
+      "rationale": "The text is a link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:48:41.121Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36395",
       "label": "positive",
       "rationale": "The statement highlights a significant achievement in U.S. steel production, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:58:58.275Z"
+      "analyzedAt": "2026-09-06T06:48:41.121Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36396",
       "label": "neutral",
-      "rationale": "The text is a retweet reference with no sentiment expressed.",
-      "analyzedAt": "2026-04-13T07:58:58.275Z"
+      "rationale": "The text is a retweet reference without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:48:41.121Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36397",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment or information.",
-      "analyzedAt": "2026-04-13T07:58:58.275Z"
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:48:41.121Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36398",
       "label": "positive",
-      "rationale": "The statement expresses excitement and positivity about a situation being beneficial for America and children, using strong positive language like 'GREAT' and 'A MUST WATCH'.",
-      "analyzedAt": "2026-04-13T07:58:58.275Z"
+      "rationale": "The statement expresses excitement and positivity about a situation being great for America and children, indicating a strong positive sentiment.",
+      "analyzedAt": "2026-09-06T06:48:41.121Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36399",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment or information.",
-      "analyzedAt": "2026-04-13T07:58:58.275Z"
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:48:41.121Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36400",
       "label": "neutral",
-      "rationale": "The text is a link with no sentiment expressed.",
-      "analyzedAt": "2026-04-13T07:58:58.275Z"
+      "rationale": "The text is a link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:48:41.121Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36401",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment or information.",
-      "analyzedAt": "2026-04-13T07:58:58.275Z"
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:48:41.121Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36402",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment or information.",
-      "analyzedAt": "2026-04-13T07:58:58.275Z"
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:48:41.121Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36403",
       "label": "positive",
-      "rationale": "The endorsement of John E. Sununu is filled with positive affirmations about his capabilities and the benefits he will bring, indicating a strong positive sentiment.",
-      "analyzedAt": "2026-04-13T07:58:58.275Z"
+      "rationale": "The endorsement of John E. Sununu is filled with positive language about his capabilities and the agenda he will support, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:48:41.121Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36404",
       "label": "positive",
-      "rationale": "The endorsement of Michelle Davis is enthusiastic and highlights her positive attributes and the negative aspects of her opponent, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:58:58.275Z"
+      "rationale": "The endorsement of Michelle Davis is enthusiastic and highlights her positive attributes and the agenda she will support, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:48:41.121Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36406",
       "label": "positive",
-      "rationale": "The endorsement of Brenda Wilson is positive, emphasizing her qualifications and the negative traits of her opponent, showcasing a strong positive sentiment.",
-      "analyzedAt": "2026-04-13T07:58:58.275Z"
+      "rationale": "The endorsement of Brenda Wilson is filled with positive language about her qualifications and the values she will support, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:48:41.121Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36407",
       "label": "positive",
-      "rationale": "The endorsement of Paula Copenhaver is enthusiastic and highlights her positive attributes while criticizing her opponent, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:58:58.275Z"
+      "rationale": "The endorsement of Paula Copenhaver is enthusiastic and highlights her positive attributes and the agenda she will support, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:48:41.121Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36409",
       "label": "positive",
-      "rationale": "The potential endorsement of Blake Fiechter is positive, emphasizing his community service and qualifications while criticizing his opponent, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:58:58.275Z"
+      "rationale": "The text expresses support for Blake Fiechter and highlights his positive attributes, indicating a positive sentiment.",
+      "analyzedAt": "2026-09-06T06:48:41.121Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36410",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment or information.",
-      "analyzedAt": "2026-04-13T07:58:58.275Z"
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:48:41.121Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36411",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment or information.",
-      "analyzedAt": "2026-04-13T07:58:58.275Z"
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:48:41.121Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36412",
       "label": "neutral",
-      "rationale": "The text is a link with no sentiment expressed.",
-      "analyzedAt": "2026-04-13T07:58:58.275Z"
+      "rationale": "The text is a link without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:48:41.121Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36413",
       "label": "positive",
       "rationale": "The statement indicates positive economic outcomes for Iowans after Trump's return, suggesting a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:58:58.275Z"
+      "analyzedAt": "2026-09-06T06:48:41.121Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36414",
       "label": "positive",
-      "rationale": "The text conveys excitement and positivity about a situation being beneficial for America and children, using strong positive language like 'GREAT' and 'A MUST WATCH'.",
-      "analyzedAt": "2026-04-13T07:58:58.275Z"
+      "rationale": "The text expresses excitement and positivity about a situation being great for America and children, indicating a strong positive sentiment.",
+      "analyzedAt": "2026-09-06T06:48:41.121Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36416",
       "label": "positive",
       "rationale": "The statement expresses gratitude towards President Trump for the achievement of U.S. steel production exceeding Japan's, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:58:58.275Z"
+      "analyzedAt": "2026-09-06T06:48:41.121Z"
     }
   ],
-  "trendingTopic": "It is my Great Honor to endorse State Representative Michelle Davis, a REAL Republican running for Indiana's 41st State Senate District (which I won by 33 points!), against RINO incumbent Greg Walker!",
-  "selfPraiseCount": 5,
-  "trendingName": "Greg Walker",
-  "secondaryHighlights": [
-    {
-      "topic": "BLOCKBUSTER!Melania Trump film on track for best opening weekend of any documentary in last 10 years",
-      "name": "Melania Trump"
-    },
-    {
-      "topic": "This is so GREAT for America, and our wonderful children"
-    },
-    {
-      "topic": "Data centers for jobs and growth"
-    }
-  ]
+  "selfPraiseCacheKey": "self-praise-v1:24:0b4f3711cb4f8a0473b33442"
 }

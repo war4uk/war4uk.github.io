@@ -6,19 +6,26 @@
     "negative": 0
   },
   "summary": "positive:1 neutral:7 negative:0",
-  "generatedAt": "2026-09-06T06:44:04.099Z",
+  "generatedAt": "2026-09-07T14:50:37.600Z",
   "topics": [
-    "Appoints Jeff Landry as Special Envoy to Greenland"
+    "Highlights economic achievements with shrinking trade deficit and dropping inflation",
+    "Announces appointment of Jeff Landry as Special Envoy to Greenland"
   ],
-  "trendingTopic": "Appoints Jeff Landry as the United States Special Envoy to Greenland",
-  "trendingName": "Jeff Landry",
-  "selfPraiseCount": 0,
+  "trendingTopic": "Highlights economic achievements with shrinking trade deficit and dropping inflation",
+  "secondaryHighlights": [
+    {
+      "topic": "Announces appointment of Jeff Landry as Special Envoy to Greenland",
+      "name": "Jeff Landry"
+    }
+  ],
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:8:607a8c047e65ec4304989607",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/35173",
       "publishedAt": "2025-12-22T01:12:44.000Z",
       "title": "[No Title] - Post from December 22, 2025",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump, who is standing with a serious expression and gesturing with his hands. He is dressed in a dark suit and a red tie. Surrounding him are headlines from various news outlets discussing the U.S. trade deficit, noting its unexpected shrinkage to the smallest level since 2020 and mentioning the impact of Trump's tariffs. The background appears to be a stage setting, likely from a public event or rally.",
       "url": "https://www.trumpstruth.org/statuses/35173",
       "raw": {
         "creator": "",
@@ -30,13 +37,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35173",
         "isoDate": "2025-12-22T01:12:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:10:09.699Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14243/901e883c7a341210.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35172",
       "publishedAt": "2025-12-22T01:13:02.000Z",
       "title": "[No Title] - Post from December 22, 2025",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump speaking at a rally, with a crowd visible in the background holding signs. The backdrop includes a blue curtain with the text \"Lower Prices Bigger Paychecks.\" The scene conveys a political atmosphere, emphasizing economic themes, as indicated by the headline stating \"Paychecks Outpace Inflation for Fifth Straight Quarter.\" The audience appears engaged, reflecting support for Trump's message.",
       "url": "https://www.trumpstruth.org/statuses/35172",
       "raw": {
         "creator": "",
@@ -48,13 +59,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35172",
         "isoDate": "2025-12-22T01:13:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:10:07.775Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14242/14069a22c1913a87.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35171",
       "publishedAt": "2025-12-22T01:13:10.000Z",
       "title": "[No Title] - Post from December 22, 2025",
-      "text": "<p></p>",
+      "text": "[Image] The image features a split design contrasting the Republican and Democratic Congresses. On the left, it highlights GOP achievements like \"historic tax relief,\" \"secure borders,\" and \"safer communities,\" accompanied by a photo of Donald Trump, who appears pleased. On the right, it lists Democratic actions labeled as obstruction, including \"government shutdown\" and \"yet another impeachment,\" featuring images of Hakeem Jeffries and Chuck Schumer. The overall tone is politically charged.",
       "url": "https://www.trumpstruth.org/statuses/35171",
       "raw": {
         "creator": "",
@@ -66,7 +81,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35171",
         "isoDate": "2025-12-22T01:13:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:10:00.418Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14241/513c55a050924e55.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35170",
@@ -84,13 +103,16 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35170",
         "isoDate": "2025-12-22T01:13:23.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14240/be98c856479dccac.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35169",
       "publishedAt": "2025-12-22T01:13:42.000Z",
       "title": "[No Title] - Post from December 22, 2025",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump standing confidently with a serious expression, dressed in a dark suit and red tie. Behind him, a large green arrow points downward, symbolizing a drop in inflation, which is stated to be at 2.7%. Bold text above him reads \"INFLATION DROPS TO 2.7% DEFYING EXPECTATIONS.\" The background includes a blurred crowd, suggesting a rally or event setting. The overall tone conveys a sense of achievement regarding economic news.",
       "url": "https://www.trumpstruth.org/statuses/35169",
       "raw": {
         "creator": "",
@@ -102,13 +124,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35169",
         "isoDate": "2025-12-22T01:13:42.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:09:46.366Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14239/2fa9bea99a446b17.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34289",
       "publishedAt": "2025-12-22T01:14:50.000Z",
       "title": "[No Title] - Post from December 22, 2025",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump standing at a podium adorned with a golden eagle emblem. He is dressed in a dark suit and a light blue tie, appearing to deliver a speech. The background includes festive decorations, such as greenery and lights, suggesting a holiday setting. The text \"The PEACE PRESIDENT\" is prominently displayed above him, indicating a theme related to peace. The overall atmosphere conveys a formal and celebratory tone.",
       "url": "https://www.trumpstruth.org/statuses/34289",
       "raw": {
         "creator": "",
@@ -120,7 +146,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34289",
         "isoDate": "2025-12-22T01:14:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:09:44.598Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13669/7a6a08860025e7f0.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35168",
@@ -209,11 +239,5 @@
       "analyzedAt": "2026-09-06T06:27:57.026Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:8:607a8c047e65ec4304989607",
-  "secondaryHighlights": [
-    {
-      "topic": "I am pleased to announce that I am appointing the GREAT Governor of Louisiana, Jeff Landry, as the United States Special Envoy to Greenland.",
-      "name": "Jeff Landry"
-    }
-  ]
+  "selfPraiseCacheKey": "self-praise-v1:8:607a8c047e65ec4304989607"
 }

@@ -6,22 +6,23 @@
     "negative": 4
   },
   "summary": "positive:2 neutral:2 negative:4",
-  "generatedAt": "2026-09-06T06:43:58.005Z",
+  "generatedAt": "2026-09-07T14:50:22.352Z",
   "topics": [
-    "Venezuela surrounded by the largest Armada in South America",
-    "Trump's $10 billion lawsuit against BBC over Jan 6 documentary",
-    "Trump's upcoming address to the nation from the White House"
+    "Trump files $10 billion lawsuit against BBC over January 6 documentary",
+    "Trump announces ADDRESS TO THE NATION from the White House",
+    "Trump criticizes the Unselect Committee for destroying evidence"
   ],
-  "trendingTopic": "Venezuela surrounded by the largest Armada in South America",
+  "trendingTopic": "Trump files $10 billion lawsuit against BBC over January 6 documentary",
   "secondaryHighlights": [
     {
-      "topic": "Trump's $10 billion lawsuit against BBC over Jan 6 documentary"
+      "topic": "Trump announces ADDRESS TO THE NATION from the White House"
     },
     {
-      "topic": "Trump's upcoming address to the nation from the White House"
+      "topic": "Trump criticizes the Unselect Committee for destroying evidence"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:8:a284b8116f0d4c14b23cbe6f",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34238",
@@ -117,7 +118,7 @@
       "id": "https://www.trumpstruth.org/statuses/34243",
       "publishedAt": "2025-12-16T19:46:10.000Z",
       "title": "[No Title] - Post from December 16, 2025",
-      "text": "<p></p>",
+      "text": "[Image] The image features a tweet from Thomas Catenacci discussing the Department of Energy's decision to scrap $615 million in green funding from the Biden administration, which includes a $257 million grant for Colorado's state energy office. The accompanying graphic outlines Colorado's approach to environmental justice, emphasizing the connection between climate change, energy, and social equity. The tweet was posted on December 16, 2025, and has garnered over 7,400 views.",
       "url": "https://www.trumpstruth.org/statuses/34243",
       "raw": {
         "creator": "",
@@ -129,7 +130,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34243",
         "isoDate": "2025-12-16T19:46:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:09:21.347Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13663/5b4c209e8c44661c.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34244",
@@ -218,5 +223,5 @@
       "analyzedAt": "2026-09-06T06:26:59.907Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:8:a284b8116f0d4c14b23cbe6f"
+  "selfPraiseCacheKey": "self-praise-v1:8:a284b8116f0d4c14b23cbe6f"
 }

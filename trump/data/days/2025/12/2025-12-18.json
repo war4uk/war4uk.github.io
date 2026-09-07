@@ -6,22 +6,26 @@
     "negative": 0
   },
   "summary": "positive:6 neutral:0 negative:0",
-  "generatedAt": "2026-09-06T06:44:00.752Z",
+  "generatedAt": "2026-09-07T14:50:30.265Z",
   "topics": [
-    "Endorses Chris Gober for Texas' 10th Congressional District",
-    "Endorses Eric Flores for Texas' 34th Congressional District",
+    "Endorses Paul LePage for Maine's 2nd Congressional District",
+    "Endorses Kevin Lincoln for California's 13th Congressional District",
     "Endorses Matt Van Epps for Tennessee's 7th Congressional District"
   ],
-  "trendingTopic": "Endorses multiple candidates for Congressional Districts in Texas and Tennessee",
+  "trendingTopic": "Endorses multiple candidates for Congress across various states",
   "secondaryHighlights": [
     {
-      "topic": "Endorses Kevin Lincoln for California's 13th Congressional District"
+      "topic": "Endorses Tony Gonzales for Texas' 23rd Congressional District"
     },
     {
-      "topic": "Supports Paul LePage for Maine's 2nd Congressional District"
+      "topic": "Endorses Eric Flores for Texas' 34th Congressional District"
+    },
+    {
+      "topic": "Endorses Chris Gober for Texas' 10th Congressional District"
     }
   ],
   "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v10:6:0d95cc1ee3f7d0dff9f7793a",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34259",
@@ -170,5 +174,5 @@
       "analyzedAt": "2026-09-06T06:27:18.409Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:6:0d95cc1ee3f7d0dff9f7793a"
+  "selfPraiseCacheKey": "self-praise-v1:6:0d95cc1ee3f7d0dff9f7793a"
 }

@@ -6,22 +6,23 @@
     "negative": 7
   },
   "summary": "positive:8 neutral:3 negative:7",
-  "generatedAt": "2026-09-06T06:44:41.426Z",
+  "generatedAt": "2026-09-07T14:51:39.032Z",
   "topics": [
-    "Trump focuses on affordability issues as mortgage rates drop",
-    "Criticism of media coverage on ICE operations in Minnesota",
-    "Concerns over corruption and election integrity in the U.S."
+    "Critiques of immigration policies and ICE enforcement",
+    "Concerns over corruption and election integrity",
+    "Trump's strong start in 2026 on affordability issues"
   ],
-  "trendingTopic": "Trump focuses on affordability issues as mortgage rates drop",
+  "trendingTopic": "Critiques of immigration policies and ICE enforcement dominate discussions",
   "secondaryHighlights": [
     {
-      "topic": "Criticism of media coverage on ICE operations in Minnesota"
+      "topic": "Concerns over corruption and election integrity"
     },
     {
-      "topic": "Concerns over corruption and election integrity in the U.S."
+      "topic": "Trump's strong start in 2026 on affordability issues"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:18:ed7e70484cd074f74c8a65bf",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34595",
@@ -171,7 +172,7 @@
       "id": "https://www.trumpstruth.org/statuses/34912",
       "publishedAt": "2026-01-19T20:47:24.000Z",
       "title": "[No Title] - Post from January 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is a tweet from the Border Patrol Union, expressing strong opinions about immigration and law enforcement. It criticizes \"criminal aliens\" and those who protest against ICE and Border Patrol, suggesting they do not care about America. The tweet thanks Donald Trump for his support in enforcing immigration laws and expresses a commitment to removing individuals without legal rights to remain in the country. The post includes hashtags and mentions related to Trump.",
       "url": "https://www.trumpstruth.org/statuses/34912",
       "raw": {
         "creator": "",
@@ -183,13 +184,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34912",
         "isoDate": "2026-01-19T20:47:24.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:27:36.950Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13979/1700034b49a05d98.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34603",
       "publishedAt": "2026-01-19T20:47:39.000Z",
       "title": "[No Title] - Post from January 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a tweet from a user named Moni, who expresses concern over a group of elderly women receiving 40 years in prison for protesting at an abortion clinic, citing a violation of the FACE Act. Moni suggests that similar sentences should be applied to Don Lemon and others involved in a church incident. The tweet is dated January 19, 2026, and has 58 views. There are no images or additional visuals included in the tweet.",
       "url": "https://www.trumpstruth.org/statuses/34603",
       "raw": {
         "creator": "",
@@ -201,7 +206,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34603",
         "isoDate": "2026-01-19T20:47:39.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:27:35.115Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13792/36d843480a1137b5.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34604",
@@ -458,5 +467,5 @@
       "analyzedAt": "2026-09-06T06:33:43.409Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:18:ed7e70484cd074f74c8a65bf"
+  "selfPraiseCacheKey": "self-praise-v1:18:ed7e70484cd074f74c8a65bf"
 }

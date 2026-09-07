@@ -6,28 +6,30 @@
     "negative": 5
   },
   "summary": "positive:3 neutral:1 negative:5",
-  "generatedAt": "2026-09-06T06:44:34.092Z",
+  "generatedAt": "2026-09-07T14:51:25.410Z",
   "topics": [
-    "Discusses progress in Venezuela with Interim President Delcy Rodríguez",
-    "Calls for action against NATO and Denmark regarding foreign presence",
-    "Announces significant improvements in U.S. trade deficit and GDP"
+    "Congratulates Jon Maples on his victory as GOP nominee for Florida's HD-87",
+    "Reports on the lowest Trade Deficit in the U.S. since 2009 and GDP predictions",
+    "Calls for action against sanctuary cities and their impact on crime"
   ],
-  "trendingTopic": "Discusses progress in Venezuela with Interim President Delcy Rodríguez",
+  "trendingTopic": "Congratulates Jon Maples on his victory as GOP nominee for Florida's HD-87",
+  "trendingName": "Jon Maples",
   "secondaryHighlights": [
     {
-      "topic": "Calls for action against NATO and Denmark regarding foreign presence"
+      "topic": "Reports on the lowest Trade Deficit in the U.S. since 2009 and GDP predictions"
     },
     {
-      "topic": "Announces significant improvements in U.S. trade deficit and GDP"
+      "topic": "Calls for action against sanctuary cities and their impact on crime"
     }
   ],
   "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v10:9:3fb952626919292aa6bc7876",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34555",
       "publishedAt": "2026-01-14T01:32:31.000Z",
       "title": "Congratulations Jon!",
-      "text": "<p>Congratulations Jon!</p>",
+      "text": "<p>Congratulations Jon!</p>\n\n[Image] The image features Donald Trump alongside Jon Maples, who is identified as the GOP nominee for Florida's HD-87. The text highlights Maples' victory and notes that he is endorsed by Trump. Trump is depicted with a serious expression, while Maples is smiling, wearing a suit and tie. The background is a gradient of colors, and there are promotional elements like \"TRUMP VANCE\" and \"MAKE AMERICA GREAT AGAIN!\" prominently displayed.",
       "url": "https://www.trumpstruth.org/statuses/34555",
       "raw": {
         "creator": "",
@@ -39,7 +41,11 @@
         "contentSnippet": "Congratulations Jon!",
         "guid": "https://www.trumpstruth.org/statuses/34555",
         "isoDate": "2026-01-14T01:32:31.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:26:45.730Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13783/624b62911f683846.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34556",
@@ -242,6 +248,5 @@
       "analyzedAt": "2026-09-06T06:32:55.281Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:9:3fb952626919292aa6bc7876",
-  "trendingName": "Delcy Rodríguez"
+  "selfPraiseCacheKey": "self-praise-v1:9:3fb952626919292aa6bc7876"
 }

@@ -6,22 +6,23 @@
     "negative": 2
   },
   "summary": "positive:11 neutral:2 negative:2",
-  "generatedAt": "2026-09-06T06:44:21.826Z",
+  "generatedAt": "2026-09-07T14:51:07.395Z",
   "topics": [
-    "Announces the turnover of sanctioned oil from Venezuela to the U.S.",
-    "Nominates multiple judges to U.S. District Courts across various states",
-    "Endorses America First candidates running for state and congressional positions"
+    "U.S. markets reach all-time highs thanks to tariffs",
+    "Endorses multiple America First candidates in Arizona and Washington",
+    "Nominations for judges in Texas, Arkansas, and Louisiana"
   ],
-  "trendingTopic": "Announces the turnover of sanctioned oil from Venezuela to the U.S.",
+  "trendingTopic": "U.S. markets reach all-time highs thanks to tariffs",
   "secondaryHighlights": [
     {
-      "topic": "Nominates multiple judges to U.S. District Courts across various states"
+      "topic": "Endorses multiple America First candidates in Arizona and Washington"
     },
     {
-      "topic": "Endorses America First candidates running for state and congressional positions"
+      "topic": "Nominations for judges in Texas, Arkansas, and Louisiana"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:15:0b48e7a4d8071f7e2b69fc9d",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34460",
@@ -39,7 +40,10 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34460",
         "isoDate": "2026-01-06T04:29:11.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13764/ecca449fbf762e6f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34461",
@@ -99,7 +103,7 @@
       "id": "https://www.trumpstruth.org/statuses/34464",
       "publishedAt": "2026-01-06T19:20:01.000Z",
       "title": "[No Title] - Post from January 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image presents a poll regarding net approval of the U.S. detention of Nicolás Maduro across various Latin American countries. Costa Rica leads with an approval rating of +80, followed by Colombia (+67) and Peru (+63). The chart contrasts these positive ratings with negative ones, where Mexico has the lowest approval at +1. The data is sourced from an Altica Survey conducted from January 3 to 4, 2026, and highlights varying public opinions in the region.",
       "url": "https://www.trumpstruth.org/statuses/34464",
       "raw": {
         "creator": "",
@@ -111,7 +115,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34464",
         "isoDate": "2026-01-06T19:20:01.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:23:41.273Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13765/89a6a43439f323b9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34465",
@@ -386,5 +394,5 @@
       "analyzedAt": "2026-09-06T06:31:23.488Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:15:0b48e7a4d8071f7e2b69fc9d"
+  "selfPraiseCacheKey": "self-praise-v1:15:0b48e7a4d8071f7e2b69fc9d"
 }

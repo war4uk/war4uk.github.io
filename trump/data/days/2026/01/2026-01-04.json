@@ -6,9 +6,10 @@
     "negative": 0
   },
   "summary": "positive:0 neutral:1 negative:0",
-  "generatedAt": "2026-09-06T06:44:19.135Z",
+  "generatedAt": "2026-09-07T14:51:02.540Z",
   "topics": [],
   "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v10:1:c88e42b0012533e8c7b939ec",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34434",
@@ -26,7 +27,10 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34434",
         "isoDate": "2026-01-04T14:47:32.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13742/2b77efffc69a0709.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -37,5 +41,5 @@
       "analyzedAt": "2026-09-06T06:30:36.720Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:1:c88e42b0012533e8c7b939ec"
+  "selfPraiseCacheKey": "self-praise-v1:1:c88e42b0012533e8c7b939ec"
 }

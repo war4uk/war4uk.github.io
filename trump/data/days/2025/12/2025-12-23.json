@@ -6,23 +6,24 @@
     "negative": 3
   },
   "summary": "positive:7 neutral:3 negative:3",
-  "generatedAt": "2026-09-06T06:44:05.563Z",
+  "generatedAt": "2026-09-07T14:50:39.718Z",
   "topics": [
-    "Hosts the Trump Kennedy Center Honors event broadcast on CBS",
-    "Harriet Hageman announces candidacy for the United States Senate in Wyoming",
-    "Discusses positive GDP growth and economic policies"
+    "Discusses economic success attributed to tariffs and GDP growth",
+    "Hosts the Trump Kennedy Center Honors event",
+    "Supports Harriet Hageman's Senate campaign in Wyoming"
   ],
-  "trendingTopic": "Hosts the Trump Kennedy Center Honors event broadcast on CBS",
+  "trendingTopic": "Discusses economic success attributed to tariffs and GDP growth",
   "secondaryHighlights": [
     {
-      "topic": "Harriet Hageman announces candidacy for the United States Senate in Wyoming",
-      "name": "Harriet Hageman"
+      "topic": "Hosts the Trump Kennedy Center Honors event"
     },
     {
-      "topic": "Discusses positive GDP growth and economic policies"
+      "topic": "Supports Harriet Hageman's Senate campaign in Wyoming",
+      "name": "Harriet Hageman"
     }
   ],
-  "selfPraiseCount": 2,
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:13:315648e8e34c8db8760624fd",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34291",
@@ -238,7 +239,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115771424134739431Thank you Joshua. Total Crooks!!!",
         "guid": "https://www.trumpstruth.org/statuses/34302",
         "isoDate": "2025-12-23T23:15:54.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13673/9a7ac62c05b7d7ff.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34301",
@@ -339,5 +343,5 @@
       "analyzedAt": "2026-09-06T06:28:05.763Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:13:315648e8e34c8db8760624fd"
+  "selfPraiseCacheKey": "self-praise-v1:13:315648e8e34c8db8760624fd"
 }

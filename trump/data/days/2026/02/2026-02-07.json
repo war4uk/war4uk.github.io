@@ -1,17 +1,28 @@
 {
   "date": "2026-02-07",
   "counts": {
-    "positive": 6,
-    "neutral": 4,
+    "positive": 4,
+    "neutral": 6,
     "negative": 0
   },
-  "summary": "positive:6 neutral:4 negative:0",
-  "generatedAt": "2026-04-13T08:03:02.009Z",
+  "summary": "positive:4 neutral:6 negative:0",
+  "generatedAt": "2026-09-07T14:52:27.031Z",
   "topics": [
-    "Stock Market Milestone",
-    "Border Security and Deportation Efforts",
-    "Media Competition and Regulation"
+    "Record Stock Market driven by Trumponomics predicts DOW at 100,000",
+    "FCC probes ABC's 'The View' for equal time violations",
+    "Trump hailed as 'Liberator' of Latin America amid mass detention ruling"
   ],
+  "trendingTopic": "Record Stock Market driven by Trumponomics predicts DOW at 100,000",
+  "secondaryHighlights": [
+    {
+      "topic": "FCC probes ABC's 'The View' for equal time violations"
+    },
+    {
+      "topic": "Trump hailed as 'Liberator' of Latin America amid mass detention ruling"
+    }
+  ],
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:10:e4cbc422b114787806a72203",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36590",
@@ -198,75 +209,63 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/36590",
       "label": "positive",
-      "rationale": "The text predicts a record stock market and emphasizes Trump's correctness, conveying a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:03:02.007Z"
+      "rationale": "The text expresses confidence in the stock market and praises Trump's tariffs.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36591",
       "label": "neutral",
-      "rationale": "The text discusses an FCC probe without expressing a clear sentiment, making it neutral.",
-      "analyzedAt": "2026-04-13T08:03:02.007Z"
+      "rationale": "The text contains a link to a news article without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36592",
       "label": "positive",
-      "rationale": "The text highlights Trump's actions to support the fishing industry and encourages voting Republican, conveying a strong positive sentiment.",
-      "analyzedAt": "2026-04-13T08:03:02.007Z"
+      "rationale": "The text highlights Trump's achievements in revitalizing the fishing industry and encourages voting Republican.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36593",
       "label": "neutral",
-      "rationale": "The text poses a question about America's resolve without expressing a clear sentiment, making it neutral.",
-      "analyzedAt": "2026-04-13T08:03:02.007Z"
+      "rationale": "The text contains a link to a news article without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36594",
       "label": "neutral",
-      "rationale": "The text mentions Trump's achievements but does not provide an opinion or sentiment, making it neutral.",
-      "analyzedAt": "2026-04-13T08:03:02.007Z"
+      "rationale": "The text contains a link to a news article without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36595",
-      "label": "positive",
-      "rationale": "The text suggests that Europeans would benefit from listening to Trump, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:03:02.007Z"
+      "label": "neutral",
+      "rationale": "The text contains a link to a news article without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36596",
-      "label": "positive",
-      "rationale": "The text refers to Trump as a 'Liberator' of Latin America, which is a positive characterization.",
-      "analyzedAt": "2026-04-13T08:03:02.007Z"
+      "label": "neutral",
+      "rationale": "The text contains a link to a news article without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36597",
       "label": "neutral",
-      "rationale": "The text reports on a legal ruling without expressing a clear positive or negative sentiment, making it neutral.",
-      "analyzedAt": "2026-04-13T08:03:02.007Z"
+      "rationale": "The text contains a link to a news article without any sentiment expressed.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36598",
       "label": "positive",
-      "rationale": "The text expresses a strong belief in the benefits of increased competition against 'Fake News' and encourages action, indicating a positive outlook.",
-      "analyzedAt": "2026-04-13T08:03:02.007Z"
+      "rationale": "The text advocates for competition against fake news and expresses optimism about a deal.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36611",
       "label": "positive",
-      "rationale": "The text celebrates a significant milestone in the stock market, attributing it to Trump and his economic policies, which conveys a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:03:02.007Z"
+      "rationale": "The text expresses excitement about the stock market hitting 50k and praises Trumponomics.",
+      "analyzedAt": "2026-09-06T06:50:32.436Z"
     }
   ],
-  "trendingTopic": "FCC launching probe into ABC's 'The View' amid crackdown on equal time for candidates",
-  "selfPraiseCount": 0,
-  "secondaryHighlights": [
-    {
-      "topic": "Another BIG WIN for Maine, and all of New England!"
-    },
-    {
-      "topic": "Trump’s most important achievement"
-    },
-    {
-      "topic": "Does America have the resolve to deport illegal border crossers"
-    }
-  ]
+  "selfPraiseCacheKey": "self-praise-v1:10:e4cbc422b114787806a72203"
 }

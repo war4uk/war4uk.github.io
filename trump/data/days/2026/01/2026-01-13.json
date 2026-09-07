@@ -6,23 +6,23 @@
     "negative": 4
   },
   "summary": "positive:5 neutral:2 negative:4",
-  "generatedAt": "2026-09-06T06:44:32.785Z",
+  "generatedAt": "2026-09-07T14:51:22.714Z",
   "topics": [
-    "Highlights economic growth and low inflation under his leadership",
-    "Remembers Scott Adams and his influence",
-    "Calls for action from Iranian protesters"
+    "Supports Roger Marshall's Credit Card Competition Act to combat Swipe Fee issues",
+    "Comments on the state of crime and safety in Minnesota",
+    "Remembers Scott Adams and his impact"
   ],
-  "trendingTopic": "Highlights economic growth and low inflation under his leadership",
+  "trendingTopic": "Supports Roger Marshall's Credit Card Competition Act to combat Swipe Fee issues",
   "secondaryHighlights": [
     {
-      "topic": "Remembers Scott Adams and his influence",
-      "name": "Scott Adams"
+      "topic": "Comments on the state of crime and safety in Minnesota"
     },
     {
-      "topic": "Calls for action from Iranian protesters"
+      "topic": "Remembers Scott Adams and his impact"
     }
   ],
-  "selfPraiseCount": 1,
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:11:44d386333c0338b8c6847b4a",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34545",
@@ -172,7 +172,7 @@
       "id": "https://www.trumpstruth.org/statuses/34552",
       "publishedAt": "2026-01-13T16:09:18.000Z",
       "title": "Sadly, the Great Influencer, Scott Adams, has passed away. He was a fantastic guy, who liked and respected me when it wasn’t fashionable to do so. He bravely fought a long battle against a terrible disease. My condolences go out to his family, and all of his many friends and listeners. He will be truly missed. God bless you Scott!",
-      "text": "<p>Sadly, the Great Influencer, Scott Adams, has passed away. He was a fantastic guy, who liked and respected me when it wasn’t fashionable to do so. He bravely fought a long battle against a terrible disease. My condolences go out to his family, and all of his many friends and listeners. He will be truly missed. God bless you Scott!</p>",
+      "text": "<p>Sadly, the Great Influencer, Scott Adams, has passed away. He was a fantastic guy, who liked and respected me when it wasn’t fashionable to do so. He bravely fought a long battle against a terrible disease. My condolences go out to his family, and all of his many friends and listeners. He will be truly missed. God bless you Scott!</p>\n\n[Image] The image shows Donald Trump seated at the Resolute Desk in the Oval Office, smiling at the camera. He is wearing a dark suit with a blue tie. Standing next to him is a man in a black suit with a red and blue striped tie, who appears to be posing for the photo. The background features the American flag and the presidential seal, along with large windows draped with golden curtains. The setting is formal and reflects the decor of the Oval Office.",
       "url": "https://www.trumpstruth.org/statuses/34552",
       "raw": {
         "creator": "",
@@ -184,7 +184,11 @@
         "contentSnippet": "Sadly, the Great Influencer, Scott Adams, has passed away. He was a fantastic guy, who liked and respected me when it wasn’t fashionable to do so. He bravely fought a long battle against a terrible disease. My condolences go out to his family, and all of his many friends and listeners. He will be truly missed. God bless you Scott!",
         "guid": "https://www.trumpstruth.org/statuses/34552",
         "isoDate": "2026-01-13T16:09:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:26:37.955Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13782/e5f829a39645177f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34554",
@@ -291,5 +295,6 @@
       "analyzedAt": "2026-09-06T06:32:46.150Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:11:44d386333c0338b8c6847b4a"
+  "trendingName": "Roger Marshall",
+  "selfPraiseCacheKey": "self-praise-v1:11:44d386333c0338b8c6847b4a"
 }

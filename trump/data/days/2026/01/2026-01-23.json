@@ -6,22 +6,23 @@
     "negative": 7
   },
   "summary": "positive:33 neutral:60 negative:7",
-  "generatedAt": "2026-09-06T06:44:46.748Z",
+  "generatedAt": "2026-09-07T14:51:48.608Z",
   "topics": [
-    "Thanks President Aliyev and Prime Minister Pashinyan for upholding Peace Agreement",
-    "Record Cold Wave and Historic Winter Storm expected across the U.S.",
-    "Trump launches Board of Peace at Davos with world leaders"
+    "Trump launches Board of Peace at Davos and signs Gaza charter with world leaders",
+    "Allegations of fraud in Minnesota elections and small business loans",
+    "Support for various Republican Congress members and their America First policies"
   ],
-  "trendingTopic": "Thanks President Aliyev and Prime Minister Pashinyan for upholding Peace Agreement",
+  "trendingTopic": "Trump launches Board of Peace at Davos and signs Gaza charter with world leaders",
   "secondaryHighlights": [
     {
-      "topic": "Record Cold Wave and Historic Winter Storm expected across the U.S."
+      "topic": "Allegations of fraud in Minnesota elections and small business loans"
     },
     {
-      "topic": "Trump launches Board of Peace at Davos with world leaders"
+      "topic": "Support for various Republican Congress members and their America First policies"
     }
   ],
-  "selfPraiseCount": 3,
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v10:100:bc1e2a046f8fbb8a3511b6d3",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34771",
@@ -45,7 +46,7 @@
       "id": "https://www.trumpstruth.org/statuses/34770",
       "publishedAt": "2026-01-23T05:54:34.000Z",
       "title": "[No Title] - Post from January 23, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942860600639196</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942860600639196</span></p>\n\n[Image] The image is a tweet from the account @TheSCIF, which features a critical statement about President Joe Biden. It alleges that Biden's administration operated like a \"ruthless mafia,\" claiming he paid over $150,000 to informants related to the January 6 Capitol riot. The tweet expresses disbelief at the actions of government officials against American citizens. There are no images or recognizable public figures in the text itself.",
       "url": "https://www.trumpstruth.org/statuses/34770",
       "raw": {
         "creator": "",
@@ -57,7 +58,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942860600639196",
         "guid": "https://www.trumpstruth.org/statuses/34770",
         "isoDate": "2026-01-23T05:54:34.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:34:59.234Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13863/5f1f0d87e156e89b.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34769",
@@ -81,7 +86,7 @@
       "id": "https://www.trumpstruth.org/statuses/34768",
       "publishedAt": "2026-01-23T05:56:12.000Z",
       "title": "[No Title] - Post from January 23, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942866344000585</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942866344000585</span></p>\n\n[Image] The image features a tweet from the account Wall Street Apes, discussing comments made by Small Business Administrator Kelly Loeffler. She claims that 7,000 fraudulent small business loans have been identified in Minnesota, amounting to $430 million in taxpayer losses. Loeffler mentions discovering $3 million worth of fraud within just two days of investigation, warning of potential legal consequences for those involved.",
       "url": "https://www.trumpstruth.org/statuses/34768",
       "raw": {
         "creator": "",
@@ -93,7 +98,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942866344000585",
         "guid": "https://www.trumpstruth.org/statuses/34768",
         "isoDate": "2026-01-23T05:56:12.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:34:57.009Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13861/3a0ff50572a7f727.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34767",
@@ -117,7 +126,7 @@
       "id": "https://www.trumpstruth.org/statuses/34766",
       "publishedAt": "2026-01-23T05:57:12.000Z",
       "title": "[No Title] - Post from January 23, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942870766839354</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942870766839354</span></p>\n\n[Image] The image is a tweet from a user named Black Rebel, featuring a blue checkmark indicating a verified account. The tweet discusses a video released by the White House, describing it as a defining moment in history and a clear mandate from the American people. It mentions that 365 days later, President Donald J. Trump is delivering on promises, with themes of rising patriotism and a narrative that \"America is BACK.\" The tone is supportive of Trump's presidency.",
       "url": "https://www.trumpstruth.org/statuses/34766",
       "raw": {
         "creator": "",
@@ -129,7 +138,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942870766839354",
         "guid": "https://www.trumpstruth.org/statuses/34766",
         "isoDate": "2026-01-23T05:57:12.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:34:50.147Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13859/73188a0821fe9b10.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34765",
@@ -153,7 +166,7 @@
       "id": "https://www.trumpstruth.org/statuses/34764",
       "publishedAt": "2026-01-23T05:58:47.000Z",
       "title": "[No Title] - Post from January 23, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942875404473282</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942875404473282</span></p>\n\n[Image] The image features a tweet from Sami Nathaniel, who has a verified account. The tweet expresses support for someone named Nick Shirley and suggests that Gavin Newsom is feeling threatened, implying that he may be the next target in a political context. The tone of the message indicates a competitive or confrontational political atmosphere. There are no images or visual elements to describe beyond the text.",
       "url": "https://www.trumpstruth.org/statuses/34764",
       "raw": {
         "creator": "",
@@ -165,7 +178,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942875404473282",
         "guid": "https://www.trumpstruth.org/statuses/34764",
         "isoDate": "2026-01-23T05:58:47.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:34:48.199Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13857/61045be0a5c404e0.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34763",
@@ -189,7 +206,7 @@
       "id": "https://www.trumpstruth.org/statuses/34762",
       "publishedAt": "2026-01-23T05:59:30.000Z",
       "title": "[No Title] - Post from January 23, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942880305077733</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942880305077733</span></p>\n\n[Image] The image is a tweet from Sami Nathaniel, featuring a statement about voter ID requirements in relation to the states won by Kamala Harris and Donald Trump. It notes that out of the 19 states Kamala won, 12 did not require photo ID, while of the 30 states Trump won, 28 had voter ID laws. The tweet highlights a comparison of voting regulations in these states, emphasizing the differences in voter ID requirements between the two candidates.",
       "url": "https://www.trumpstruth.org/statuses/34762",
       "raw": {
         "creator": "",
@@ -201,7 +218,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942880305077733",
         "guid": "https://www.trumpstruth.org/statuses/34762",
         "isoDate": "2026-01-23T05:59:30.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:34:43.944Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13855/04cf74bab0806e12.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34761",
@@ -225,7 +246,7 @@
       "id": "https://www.trumpstruth.org/statuses/34760",
       "publishedAt": "2026-01-23T06:02:27.000Z",
       "title": "[No Title] - Post from January 23, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942891320427170</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942891320427170</span></p>\n\n[Image] The image features a tweet from Sami Nathaniel, who has a verified account. The text reads, \"Great news! Do you voted for this?\" The tweet seems to express a critical or sarcastic sentiment, likely in response to a recent event or decision. There are no images or additional context provided in the tweet itself, making it difficult to determine the specific subject matter being referenced.",
       "url": "https://www.trumpstruth.org/statuses/34760",
       "raw": {
         "creator": "",
@@ -237,7 +258,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942891320427170",
         "guid": "https://www.trumpstruth.org/statuses/34760",
         "isoDate": "2026-01-23T06:02:27.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:34:40.116Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13853/4c628a1a3c0a476c.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34759",
@@ -261,7 +286,7 @@
       "id": "https://www.trumpstruth.org/statuses/34758",
       "publishedAt": "2026-01-23T06:03:15.000Z",
       "title": "[No Title] - Post from January 23, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942894962284011</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942894962284011</span></p>\n\n[Image] The image features a tweet from Victoria Byrne, who expresses support for someone referred to as \"Sec. Hegseth,\" encouraging them to continue fighting for warriors and freedom. The tweet includes a call to action for \"Pete\" and is accompanied by several American flag emojis. The context suggests a political or military theme, emphasizing patriotism and support for veterans. No images of individuals are present in the tweet itself.",
       "url": "https://www.trumpstruth.org/statuses/34758",
       "raw": {
         "creator": "",
@@ -273,7 +298,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942894962284011",
         "guid": "https://www.trumpstruth.org/statuses/34758",
         "isoDate": "2026-01-23T06:03:15.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:34:33.253Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13851/57c8328d15950871.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34757",
@@ -297,7 +326,7 @@
       "id": "https://www.trumpstruth.org/statuses/34756",
       "publishedAt": "2026-01-23T06:03:49.000Z",
       "title": "[No Title] - Post from January 23, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942897150403839</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942897150403839</span></p>\n\n[Image] The image is a tweet from the account \"Stand Up For Truth,\" which features a breaking news alert. It claims that Tim Walz, Ilhan Omar, and Keith Ellison are directly tied to a Somali fraud ring. The tweet encourages readers to share the information widely on the platform X (formerly Twitter) and includes a call to action with clapping emojis. The tone suggests a controversial or sensational topic aimed at generating discussion.",
       "url": "https://www.trumpstruth.org/statuses/34756",
       "raw": {
         "creator": "",
@@ -309,7 +338,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942897150403839",
         "guid": "https://www.trumpstruth.org/statuses/34756",
         "isoDate": "2026-01-23T06:03:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:34:30.907Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13849/84f5cc9357472f4d.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34755",
@@ -345,7 +378,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942899488386629",
         "guid": "https://www.trumpstruth.org/statuses/34754",
         "isoDate": "2026-01-23T06:04:25.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13847/7a62a0e252cecafe.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34753",
@@ -369,7 +405,7 @@
       "id": "https://www.trumpstruth.org/statuses/34752",
       "publishedAt": "2026-01-23T06:05:05.000Z",
       "title": "[No Title] - Post from January 23, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942901786435347</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942901786435347</span></p>\n\n[Image] The image is a tweet from a user named Audrey, who has a verified account. The tweet lists eight Republican politicians who are reportedly opposing the Save Act, labeling them as \"RINOs\" (Republicans In Name Only). The individuals mentioned include Susan Collins, Lisa Murkowski, Rand Paul, Mitch McConnell, Thom Tillis, Todd Young, Chuck Grassley, and Jerry Moran. The tweet encourages followers to express their feelings about these politicians' actions.",
       "url": "https://www.trumpstruth.org/statuses/34752",
       "raw": {
         "creator": "",
@@ -381,13 +417,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942901786435347",
         "guid": "https://www.trumpstruth.org/statuses/34752",
         "isoDate": "2026-01-23T06:05:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:34:16.843Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13845/b9c822cd174e1336.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34751",
       "publishedAt": "2026-01-23T06:06:09.000Z",
       "title": "[No Title] - Post from January 23, 2026",
-      "text": "<p><a href=\"https://x.com/thescif/status/2013695055333036195?s=10\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/thescif/status/201369505</span><span class=\"invisible\">5333036195?s=10</span></a></p>",
+      "text": "<p><a href=\"https://x.com/thescif/status/2013695055333036195?s=10\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/thescif/status/201369505</span><span class=\"invisible\">5333036195?s=10</span></a></p>\n\n[Image] The image is a screenshot of a tweet from the account @TheSCIF. It features a logo with a skull and red eyes, surrounded by stars. The text discusses alleged fraud in the 2020 election in Michigan, claiming that election officials have revealed significant orchestrated fraud. The tweet emphasizes that this information is crucial for understanding elections. There are no recognizable public figures in the image.",
       "url": "https://www.trumpstruth.org/statuses/34751",
       "raw": {
         "creator": "",
@@ -399,7 +439,11 @@
         "contentSnippet": "https://x.com/thescif/status/2013695055333036195?s=10",
         "guid": "https://www.trumpstruth.org/statuses/34751",
         "isoDate": "2026-01-23T06:06:09.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:34:15.348Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13844/591d2b090b5e7330.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34749",
@@ -441,7 +485,7 @@
       "id": "https://www.trumpstruth.org/statuses/34748",
       "publishedAt": "2026-01-23T06:10:02.000Z",
       "title": "[No Title] - Post from January 23, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942909711696332</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942909711696332</span></p>\n\n[Image] The image is a tweet from Sarah Fields, who expresses a strong opinion about Tim Walz, the Governor of Minnesota. She suggests that he should be removed from office, using metaphorical language to describe the Minnesota government as a \"snake.\" The tweet reflects a critical stance towards Walz and implies a need for significant change in leadership. There are no images or additional context provided in the tweet itself.",
       "url": "https://www.trumpstruth.org/statuses/34748",
       "raw": {
         "creator": "",
@@ -453,7 +497,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942909711696332",
         "guid": "https://www.trumpstruth.org/statuses/34748",
         "isoDate": "2026-01-23T06:10:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:34:10.829Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13841/5801b6ccbbc79bdd.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34747",
@@ -477,7 +525,7 @@
       "id": "https://www.trumpstruth.org/statuses/34746",
       "publishedAt": "2026-01-23T06:10:36.000Z",
       "title": "[No Title] - Post from January 23, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942923974394234</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942923974394234</span></p>\n\n[Image] The image is a tweet from a user named NahBabyNah, featuring a profile picture of a raccoon. The tweet inquires whether Ilhan Omar has commented on alleged fraud in Minnesota. The tweet includes American flag and fire emojis, suggesting a passionate tone. There are no images of people or prominent politicians in the tweet itself, just text and the user's profile picture.",
       "url": "https://www.trumpstruth.org/statuses/34746",
       "raw": {
         "creator": "",
@@ -489,7 +537,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942923974394234",
         "guid": "https://www.trumpstruth.org/statuses/34746",
         "isoDate": "2026-01-23T06:10:36.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:34:06.491Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13839/be8dc2e32a8afd6f.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34745",
@@ -513,7 +565,7 @@
       "id": "https://www.trumpstruth.org/statuses/34744",
       "publishedAt": "2026-01-23T06:11:10.000Z",
       "title": "[No Title] - Post from January 23, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942926015949034</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942926015949034</span></p>\n\n[Image] The image features a tweet from a user named Ricky Doggin, who is identified as \"A Man Of Memes\" with a verified blue checkmark. The tweet expresses concern with the statement, \"I fear this is just the tip of the iceberg.\" There are no images or additional context provided in the tweet itself, focusing solely on the text. The background or any visual elements are not described, as the content is primarily textual.",
       "url": "https://www.trumpstruth.org/statuses/34744",
       "raw": {
         "creator": "",
@@ -525,7 +577,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942926015949034",
         "guid": "https://www.trumpstruth.org/statuses/34744",
         "isoDate": "2026-01-23T06:11:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:34:02.142Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13837/ab3dd9886f3d487a.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34743",
@@ -561,7 +617,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942928642310793",
         "guid": "https://www.trumpstruth.org/statuses/34742",
         "isoDate": "2026-01-23T06:11:48.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13835/b78bbc3828f4aa1d.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34741",
@@ -579,7 +638,10 @@
         "contentSnippet": "https://x.com/thescif/status/2013775023174041699?s=10",
         "guid": "https://www.trumpstruth.org/statuses/34741",
         "isoDate": "2026-01-23T06:12:21.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13834/c6592da41a32f982.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34740",
@@ -615,7 +677,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942935122938870",
         "guid": "https://www.trumpstruth.org/statuses/34739",
         "isoDate": "2026-01-23T06:13:33.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13832/6d0caaf1768c125d.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34738",
@@ -651,7 +716,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942939505867893",
         "guid": "https://www.trumpstruth.org/statuses/34737",
         "isoDate": "2026-01-23T06:14:37.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13830/f2bac45ef056b1da.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34736",
@@ -687,7 +755,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942941878271585",
         "guid": "https://www.trumpstruth.org/statuses/34735",
         "isoDate": "2026-01-23T06:15:30.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13828/5a860f266f0a7bee.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34734",
@@ -723,7 +794,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942952756807016",
         "guid": "https://www.trumpstruth.org/statuses/34733",
         "isoDate": "2026-01-23T06:20:22.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13826/abd900dc0b8c70c3.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34732",
@@ -831,7 +905,10 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34727",
         "isoDate": "2026-01-23T06:24:45.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13825/bf0e81969a096c31.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34726",
@@ -849,7 +926,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34726",
         "isoDate": "2026-01-23T06:26:47.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13824/a654308d643919c6.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13825/bf0e81969a096c31.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34725",
@@ -867,7 +948,12 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34725",
         "isoDate": "2026-01-23T06:27:16.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13823/3a97042cf541dccc.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13824/a654308d643919c6.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13825/bf0e81969a096c31.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34724",
@@ -885,13 +971,19 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942990576577515",
         "guid": "https://www.trumpstruth.org/statuses/34724",
         "isoDate": "2026-01-23T06:27:55.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13822/d7e967cf316e900c.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13823/3a97042cf541dccc.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13824/a654308d643919c6.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13825/bf0e81969a096c31.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34723",
       "publishedAt": "2026-01-23T06:28:19.000Z",
       "title": "[No Title] - Post from January 23, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The first image features Donald Trump smiling broadly, with a quote about prioritizing American needs over foreign interests. The second image shows Trump shaking hands with Vladimir Putin at Elmendorf Air Force Base in Alaska, highlighting a diplomatic meeting. The third image discusses Trump's foreign policy approach, emphasizing a focus on American interests. The fourth image depicts a press event in the Oval Office, showcasing Trump's direct communication style. The fifth image addresses U.S. military actions against drug cartels in the Caribbean and South America.",
       "url": "https://www.trumpstruth.org/statuses/34723",
       "raw": {
         "creator": "",
@@ -903,13 +995,21 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34723",
         "isoDate": "2026-01-23T06:28:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:32:43.114Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13821/497c7fa00f7bc472.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13822/d7e967cf316e900c.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13823/3a97042cf541dccc.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13824/a654308d643919c6.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13825/bf0e81969a096c31.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34651",
       "publishedAt": "2026-01-23T06:28:44.000Z",
       "title": "[No Title] - Post from January 23, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942994713320602</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942994713320602</span></p>\n\n[Image] The images depict various pages from a December 2025 issue of Newsmax featuring Donald Trump prominently. The first cover shows Trump in a military-style jacket and headset, with the headline \"Donald Trump's Brave New World.\" Subsequent pages include a close-up of Trump smiling, quotes about prioritizing American needs, and a meeting with Vladimir Putin, highlighting Trump's foreign policy approach. The overall theme emphasizes Trump's leadership and international relations.",
       "url": "https://www.trumpstruth.org/statuses/34651",
       "raw": {
         "creator": "",
@@ -921,7 +1021,16 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115942994713320602",
         "guid": "https://www.trumpstruth.org/statuses/34651",
         "isoDate": "2026-01-23T06:28:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:32:40.162Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13806/883551b113f1c1c7.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13821/497c7fa00f7bc472.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13822/d7e967cf316e900c.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13823/3a97042cf541dccc.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13824/a654308d643919c6.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13825/bf0e81969a096c31.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34721",
@@ -1071,7 +1180,7 @@
       "id": "https://www.trumpstruth.org/statuses/34706",
       "publishedAt": "2026-01-23T12:00:26.000Z",
       "title": "[No Title] - Post from January 23, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a graph illustrating the monthly inflation rate over several years, highlighting the periods of the Trump and Biden administrations. The graph indicates a significant depreciation of the dollar by nearly 25% during Biden's term, with a note claiming this is unprecedented and worse than the Great Depression. The post is shared by The Conservative Alternative, emphasizing the economic impact under Biden's leadership.",
       "url": "https://www.trumpstruth.org/statuses/34706",
       "raw": {
         "creator": "",
@@ -1083,7 +1192,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34706",
         "isoDate": "2026-01-23T12:00:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:32:32.277Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13819/41eb14d522106951.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34705",
@@ -1101,7 +1214,10 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34705",
         "isoDate": "2026-01-23T12:00:41.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13818/ca675441d977a55a.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34704",
@@ -1119,7 +1235,10 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34704",
         "isoDate": "2026-01-23T12:00:51.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13817/3b00b6c8384659f5.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34703",
@@ -1161,7 +1280,7 @@
       "id": "https://www.trumpstruth.org/statuses/34701",
       "publishedAt": "2026-01-23T16:42:43.000Z",
       "title": "[No Title] - Post from January 23, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image shows U.S. Ambassador Sergio Gor presenting his credentials to Indian President Droupadi Murmu in a formal setting. Gor is smiling and wearing a dark suit with a red tie, while Murmu is dressed in a light gray coat. In the background, a military officer in uniform stands, adding to the ceremonial atmosphere. The tweet highlights the strengthening of U.S.-India relations in various sectors, including security and technology. Donald Trump is mentioned in the context of Gor's appointment.",
       "url": "https://www.trumpstruth.org/statuses/34701",
       "raw": {
         "creator": "",
@@ -1173,7 +1292,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34701",
         "isoDate": "2026-01-23T16:42:43.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:32:11.397Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13816/62b1f7d47ebfab4b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34700",
@@ -1197,7 +1320,7 @@
       "id": "https://www.trumpstruth.org/statuses/34699",
       "publishedAt": "2026-01-23T17:00:02.000Z",
       "title": "[No Title] - Post from January 23, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features three views of a grand archway, labeled \"The Independence Arch.\" The arch is adorned with intricate designs, including golden accents and statues. In the center view, a statue of a prominent figure stands beneath the arch. The surrounding area is populated with people walking and sitting, set against a backdrop of trees and a clear sky. The architectural style suggests a blend of classical and modern elements, creating an impressive visual landmark.",
       "url": "https://www.trumpstruth.org/statuses/34699",
       "raw": {
         "creator": "",
@@ -1209,7 +1332,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34699",
         "isoDate": "2026-01-23T17:00:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:32:09.041Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13815/251b1d29e45a3b81.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34698",
@@ -1269,7 +1396,7 @@
       "id": "https://www.trumpstruth.org/statuses/34695",
       "publishedAt": "2026-01-23T20:43:38.000Z",
       "title": "One month before a monster took him away from us, the Great Charlie Kirk finished his final Book, “Stop, in the Name of God: Why Honoring the Sabbath Will Transform Your Life.” As Charlie often said, “If I’m to be known for anything, I want to be known for being courageous for my Faith.” Charlie cared deeply about God and Country and, in this powerful book, his Wisdom, Courage, and Conviction inspires us all to turn to God for guidance against the Evil in this World, which we too can overcome, SO HELP US GOD. Get your copy today at 45books.com, or anywhere books are sold!",
-      "text": "<p>One month before a monster took him away from us, the Great Charlie Kirk finished his final Book, “Stop, in the Name of God: Why Honoring the Sabbath Will Transform Your Life.” As Charlie often said, “If I’m to be known for anything, I want to be known for being courageous for my Faith.” Charlie cared deeply about God and Country and, in this powerful book, his Wisdom, Courage, and Conviction inspires us all to turn to God for guidance against the Evil in this World, which we too can overcome, SO HELP US GOD. Get your copy today at 45books.com, or anywhere books are sold!<br/><a href=\"https://45books.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">45books.com</span><span class=\"invisible\"></span></a></p>",
+      "text": "<p>One month before a monster took him away from us, the Great Charlie Kirk finished his final Book, “Stop, in the Name of God: Why Honoring the Sabbath Will Transform Your Life.” As Charlie often said, “If I’m to be known for anything, I want to be known for being courageous for my Faith.” Charlie cared deeply about God and Country and, in this powerful book, his Wisdom, Courage, and Conviction inspires us all to turn to God for guidance against the Evil in this World, which we too can overcome, SO HELP US GOD. Get your copy today at 45books.com, or anywhere books are sold!<br/><a href=\"https://45books.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">45books.com</span><span class=\"invisible\"></span></a></p>\n\n[Image] The image features a book titled \"STOP, IN THE NAME OF GOD\" by Charlie Kirk. The cover design is predominantly black and white, showcasing a hand raised in a stopping gesture. The title is prominently displayed in large, bold yellow letters, with a subtitle that reads, \"WHY HONORING THE SABBATH WILL TRANSFORM YOUR LIFE.\" The book appears to focus on themes related to faith and the significance of the Sabbath.",
       "url": "https://www.trumpstruth.org/statuses/34695",
       "raw": {
         "creator": "",
@@ -1281,7 +1408,11 @@
         "contentSnippet": "One month before a monster took him away from us, the Great Charlie Kirk finished his final Book, “Stop, in the Name of God: Why Honoring the Sabbath Will Transform Your Life.” As Charlie often said, “If I’m to be known for anything, I want to be known for being courageous for my Faith.” Charlie cared deeply about God and Country and, in this powerful book, his Wisdom, Courage, and Conviction inspires us all to turn to God for guidance against the Evil in this World, which we too can overcome, SO HELP US GOD. Get your copy today at 45books.com, or anywhere books are sold!\nhttps://45books.com",
         "guid": "https://www.trumpstruth.org/statuses/34695",
         "isoDate": "2026-01-23T20:43:38.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:32:03.417Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13812/9c0997de3f75eacd.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34694",
@@ -1803,7 +1934,10 @@
         "contentSnippet": "I have been briefed on the Record Cold Wave and Historic Winter Storm that will be hitting much of the United States this weekend. The Trump Administration is coordinating with State and Local Officials. FEMA is fully prepared to respond. Stay Safe and Stay Warm! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/34666",
         "isoDate": "2026-01-23T23:38:29.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13811/550488d7149fe3db.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34665",
@@ -2426,5 +2560,5 @@
       "analyzedAt": "2026-09-06T06:35:12.776Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:100:bc1e2a046f8fbb8a3511b6d3"
+  "selfPraiseCacheKey": "self-praise-v1:100:bc1e2a046f8fbb8a3511b6d3"
 }

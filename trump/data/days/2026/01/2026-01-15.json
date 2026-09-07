@@ -6,28 +6,29 @@
     "negative": 3
   },
   "summary": "positive:4 neutral:1 negative:3",
-  "generatedAt": "2026-09-06T06:44:35.416Z",
+  "generatedAt": "2026-09-07T14:51:28.554Z",
   "topics": [
-    "Announces formation of THE BOARD OF PEACE",
-    "Comments on financial success attributed to tariffs",
-    "Defends I.C.E. operations in Minnesota against political corruption"
+    "Critiques food stamp businesses in Minneapolis for fraud and lack of service",
+    "Supports I.C.E. operations in Minnesota and threatens to invoke the Insurrection Act",
+    "Announces formation of THE BOARD OF PEACE"
   ],
-  "trendingTopic": "Announces formation of THE BOARD OF PEACE as the Greatest and Most Prestigious Board ever assembled",
+  "trendingTopic": "Critiques food stamp businesses in Minneapolis for fraud and lack of service",
   "secondaryHighlights": [
     {
-      "topic": "Comments on financial success attributed to tariffs"
+      "topic": "Supports I.C.E. operations in Minnesota and threatens to invoke the Insurrection Act"
     },
     {
-      "topic": "Defends I.C.E. operations in Minnesota against political corruption"
+      "topic": "Announces formation of THE BOARD OF PEACE"
     }
   ],
-  "selfPraiseCount": 1,
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:8:be9030794e4c1381b2f4d643",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34564",
       "publishedAt": "2026-01-15T01:34:39.000Z",
       "title": "[No Title] - Post from January 15, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image shows a storefront with signs for \"AM FOOD MARKET & TOBACCO,\" \"GREEN & GRILL,\" and \"hardware.\" The building has a brick facade, and there are two individuals standing outside. One person is wearing a white outfit, while the other is in a tank top and shorts. A leasing information sign is visible on the wall. The area appears to be urban, with a few vehicles parked nearby and additional businesses in the background.",
       "url": "https://www.trumpstruth.org/statuses/34564",
       "raw": {
         "creator": "",
@@ -39,7 +40,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34564",
         "isoDate": "2026-01-15T01:34:39.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:27:04.769Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13785/ebd6c069b956bfa1.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34565",
@@ -57,7 +62,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115896541448142781Does anybody believe that in Minneapolis, these are the Food Stamp Businesses? There’s no Food, there’s no cleanliness, there’s no service, there’s no nothing, except FRAUD. They get sent Millions of Dollars of Taxpayer Money, and laugh at how STUPID the Americans are, but not anymore. These people should be sent back to Somalia, or any other Country from where they came. California, Illinois, New York, and so many other places are equally as bad. It’s all a giant Democrat SCAM, with protection from the Fake News Media but, it will end, as we, MAKE AMERICA GREAT AGAIN!",
         "guid": "https://www.trumpstruth.org/statuses/34565",
         "isoDate": "2026-01-15T01:36:13.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13786/3b6d230949ef4a40.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13785/ebd6c069b956bfa1.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34566",
@@ -117,7 +126,7 @@
       "id": "https://www.trumpstruth.org/statuses/34569",
       "publishedAt": "2026-01-15T15:55:53.000Z",
       "title": "This is very unfair for our Tech Companies, and for the United States of America!",
-      "text": "<p>This is very unfair for our Tech Companies, and for the United States of America!</p>",
+      "text": "<p>This is very unfair for our Tech Companies, and for the United States of America!</p>\n\n[Image] The image presents a graphic comparing fines imposed by the EU on US tech companies to the income tax paid by public European tech firms in 2024. It highlights that the EU fined US companies €3.8 billion, while European tech companies paid only €3.2 billion in taxes. The graphic features bar charts showing the fines for companies like Uber, Amazon, Meta, and Apple, alongside European firms like SAP and Zalando, with their respective financial figures displayed.",
       "url": "https://www.trumpstruth.org/statuses/34569",
       "raw": {
         "creator": "",
@@ -129,7 +138,11 @@
         "contentSnippet": "This is very unfair for our Tech Companies, and for the United States of America!",
         "guid": "https://www.trumpstruth.org/statuses/34569",
         "isoDate": "2026-01-15T15:55:53.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:26:49.130Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13787/f109a5ba0a930531.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34570",
@@ -218,5 +231,5 @@
       "analyzedAt": "2026-09-06T06:33:03.973Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:8:be9030794e4c1381b2f4d643"
+  "selfPraiseCacheKey": "self-praise-v1:8:be9030794e4c1381b2f4d643"
 }

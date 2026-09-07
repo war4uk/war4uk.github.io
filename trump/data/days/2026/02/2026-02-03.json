@@ -6,12 +6,23 @@
     "negative": 5
   },
   "summary": "positive:2 neutral:4 negative:5",
-  "generatedAt": "2026-04-13T07:59:30.748Z",
+  "generatedAt": "2026-09-07T14:52:17.665Z",
   "topics": [
-    "White House Ballroom Announcement",
-    "Harvard University Controversy",
-    "Diplomacy with Iran and Cuba"
+    "Trump maintains high poll numbers despite challenges from ICE and media",
+    "Criticism of Harvard University and The New York Times over antisemitism claims",
+    "Trump explores diplomatic talks with Iran and Cuba amid rising tensions"
   ],
+  "trendingTopic": "Trump maintains high poll numbers despite challenges from ICE and media",
+  "secondaryHighlights": [
+    {
+      "topic": "Criticism of Harvard University and The New York Times over antisemitism claims"
+    },
+    {
+      "topic": "Trump explores diplomatic talks with Iran and Cuba amid rising tensions"
+    }
+  ],
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:11:2e987d5f2aa5e9ac115f7715",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36436",
@@ -191,7 +202,10 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36445",
         "isoDate": "2026-02-03T20:12:44.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15294/d2f7fe99855e457a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36446",
@@ -209,88 +223,79 @@
         "contentSnippet": "This beautiful building will be, when complete, the much anticipated White House Ballroom — The Greatest of its kind ever built! It is a rendering from the Treasury Building, directly across the street, and replaces the very small, dilapidated, and rebuilt many times, East Wing, with a magnificent New East Wing, consisting of a glorious Ballroom that has been asked for by Presidents for over 150 years. Being an identical height and scale, it is totally in keeping with our historic White House. This is the first rendering shown to the Public. If you notice, the North Wall is a replica of the North Facade of the White House, shown at the right hand side of the picture. This space will serve our Country well for, hopefully, Centuries into the future! PRESIDENT DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/36446",
         "isoDate": "2026-02-03T20:45:22.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15295/6021ea732e931a65.jpg"
+      ]
     }
   ],
   "sentiments": [
     {
       "postId": "https://www.trumpstruth.org/statuses/36436",
       "label": "positive",
-      "rationale": "The text expresses pride in achieving high poll numbers and suggests that people appreciate a strong economy, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:59:30.744Z"
+      "rationale": "The text highlights the highest poll numbers received and expresses a positive view about the country's strength and economy.",
+      "analyzedAt": "2026-09-06T06:49:09.641Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36437",
       "label": "neutral",
       "rationale": "The text reports on a poll result without expressing any positive or negative sentiment.",
-      "analyzedAt": "2026-04-13T07:59:30.744Z"
+      "analyzedAt": "2026-09-06T06:49:09.641Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36438",
       "label": "negative",
-      "rationale": "The text contains strong negative language about Harvard University and its president, indicating a critical and negative sentiment.",
-      "analyzedAt": "2026-04-13T07:59:30.744Z"
+      "rationale": "The text accuses Harvard University of serious wrongdoings and expresses a desire for justice, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:49:09.641Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36439",
       "label": "negative",
       "rationale": "The text criticizes the New York Times for its coverage and expresses frustration, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:59:30.744Z"
+      "analyzedAt": "2026-09-06T06:49:09.641Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36440",
       "label": "negative",
       "rationale": "The text expresses strong criticism of the New York Times, calling it corrupt and unprincipled, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:59:30.744Z"
+      "analyzedAt": "2026-09-06T06:49:09.641Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36441",
       "label": "neutral",
       "rationale": "The text reports on Trump's confirmation of talks with Cuba without expressing any positive or negative sentiment.",
-      "analyzedAt": "2026-04-13T07:59:30.744Z"
+      "analyzedAt": "2026-09-06T06:49:09.641Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36442",
       "label": "neutral",
       "rationale": "The text discusses Trump's consideration of diplomacy with Iran, presenting information without a clear sentiment.",
-      "analyzedAt": "2026-04-13T07:59:30.744Z"
+      "analyzedAt": "2026-09-06T06:49:09.641Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36443",
       "label": "negative",
       "rationale": "The text questions Ilhan Omar's motives and implies a negative view of her, suggesting a critical sentiment.",
-      "analyzedAt": "2026-04-13T07:59:30.744Z"
+      "analyzedAt": "2026-09-06T06:49:09.641Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36444",
       "label": "negative",
       "rationale": "The text criticizes Leonard Leo, calling him a 'sleazebag' and expressing concern about his influence and legal issues, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T07:59:30.744Z"
+      "analyzedAt": "2026-09-06T06:49:09.641Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36445",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:59:30.744Z"
+      "analyzedAt": "2026-09-06T06:49:09.641Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36446",
       "label": "positive",
       "rationale": "The text expresses excitement and positivity about the new White House Ballroom, describing it as beautiful and magnificent, and emphasizes its historical significance.",
-      "analyzedAt": "2026-04-13T07:59:30.744Z"
+      "analyzedAt": "2026-09-06T06:49:09.641Z"
     }
   ],
-  "trendingTopic": "The highest Poll Numbers I have ever received",
-  "selfPraiseCount": 1,
-  "secondaryHighlights": [
-    {
-      "topic": "McLaughlin Poll: ICE Hit, But Trump Stays Solid"
-    },
-    {
-      "topic": "The Failing New York Times story was completely wrong concerning Harvard University"
-    },
-    {
-      "topic": "Trump weighs diplomacy with Iran amid rising tensions"
-    }
-  ]
+  "selfPraiseCacheKey": "self-praise-v1:11:2e987d5f2aa5e9ac115f7715"
 }

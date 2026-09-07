@@ -1,17 +1,28 @@
 {
   "date": "2026-02-12",
   "counts": {
-    "positive": 9,
+    "positive": 10,
     "neutral": 6,
-    "negative": 1
+    "negative": 0
   },
-  "summary": "positive:9 neutral:6 negative:1",
-  "generatedAt": "2026-04-13T08:05:00.212Z",
+  "summary": "positive:10 neutral:6 negative:0",
+  "generatedAt": "2026-09-07T14:52:40.689Z",
   "topics": [
-    "Manufacturing and Economic Recovery",
-    "U.S.-Venezuela Relations and Oil",
-    "Judicial Nominations and Legal Integrity"
+    "TrumpRx.gov provides immediate drug price relief to millions",
+    "Nominations of judges to U.S. District Courts in Montana, South Carolina, and the Virgin Islands",
+    "First Lady Melania Trump visits NIH to charm young patients for Valentine's Day"
   ],
+  "trendingTopic": "TrumpRx.gov provides immediate drug price relief to millions",
+  "secondaryHighlights": [
+    {
+      "topic": "Nominations of judges to U.S. District Courts in Montana, South Carolina, and the Virgin Islands"
+    },
+    {
+      "topic": "First Lady Melania Trump visits NIH to charm young patients for Valentine's Day"
+    }
+  ],
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:16:465b48f36a13f6e6241cedec",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36683",
@@ -306,112 +317,99 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/36682",
       "label": "neutral",
-      "rationale": "The statement about a crime crash is factual and does not express a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:05:00.210Z"
+      "rationale": "The statement about crime is factual and does not express a clear sentiment.",
+      "analyzedAt": "2026-09-06T06:51:38.384Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36683",
       "label": "positive",
-      "rationale": "The text highlights the positive impact of TrumpRx.gov in providing drug price relief, indicating a beneficial outcome.",
-      "analyzedAt": "2026-04-13T08:05:00.210Z"
+      "rationale": "The announcement of TrumpRx.gov bringing drug price relief is framed positively, indicating a beneficial outcome for millions.",
+      "analyzedAt": "2026-09-06T06:51:38.384Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36684",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:05:00.210Z"
+      "analyzedAt": "2026-09-06T06:51:38.384Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36685",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:05:00.210Z"
+      "analyzedAt": "2026-09-06T06:51:38.384Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36686",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T08:05:00.210Z"
+      "analyzedAt": "2026-09-06T06:51:38.384Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36687",
       "label": "positive",
-      "rationale": "The text describes First Lady Melania Trump positively engaging with young patients, indicating a warm and caring image.",
-      "analyzedAt": "2026-04-13T08:05:00.210Z"
+      "rationale": "The description of Melania Trump's visit is positive, highlighting her charm and engagement with young patients.",
+      "analyzedAt": "2026-09-06T06:51:38.384Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36688",
       "label": "neutral",
       "rationale": "The statement about the Pentagon preparing an aircraft carrier is factual and does not convey a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:05:00.210Z"
+      "analyzedAt": "2026-09-06T06:51:38.384Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36689",
       "label": "positive",
-      "rationale": "The nomination of Kara Westercamp is framed positively, emphasizing her experience and dedication to the America First agenda.",
-      "analyzedAt": "2026-04-13T08:05:00.210Z"
+      "rationale": "The nomination of Kara Westercamp is framed positively, highlighting her experience and dedication to the America First agenda.",
+      "analyzedAt": "2026-09-06T06:51:38.384Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36690",
       "label": "positive",
       "rationale": "The announcement of Sheria Clarke's nomination is positive, focusing on her qualifications and commitment to integrity in the legal system.",
-      "analyzedAt": "2026-04-13T08:05:00.210Z"
+      "analyzedAt": "2026-09-06T06:51:38.384Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36691",
       "label": "positive",
-      "rationale": "The text positively presents Katie Lane's nomination, highlighting her qualifications and experience in combating voter fraud.",
-      "analyzedAt": "2026-04-13T08:05:00.210Z"
+      "rationale": "The text positively presents Katie Lane's nomination, emphasizing her qualifications and past achievements.",
+      "analyzedAt": "2026-09-06T06:51:38.384Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36692",
       "label": "positive",
-      "rationale": "The text reflects positively on Governor Stitt's election and Trump's endorsement, emphasizing successful political support.",
-      "analyzedAt": "2026-04-13T08:05:00.210Z"
+      "rationale": "The statement reflects a positive endorsement of Governor Kevin Stitt and highlights Trump's past electoral success, suggesting a favorable view.",
+      "analyzedAt": "2026-09-06T06:51:38.384Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36693",
       "label": "positive",
-      "rationale": "The nomination of Evan Rikhye is presented positively, highlighting his qualifications and commitment to the rule of law.",
-      "analyzedAt": "2026-04-13T08:05:00.210Z"
+      "rationale": "The nomination of Evan Rikhye is presented positively, emphasizing his qualifications and commitment to the rule of law.",
+      "analyzedAt": "2026-09-06T06:51:38.384Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36694",
-      "label": "negative",
-      "rationale": "The text expresses strong negative sentiments towards the 'Trump Deranged Radical Left Lunatics' and criticizes Democrats, indicating a confrontational tone.",
-      "analyzedAt": "2026-04-13T08:05:00.210Z"
+      "label": "positive",
+      "rationale": "The statement defends Trump and praises AG Pam Bondi's performance, portraying a sense of victory and exoneration from accusations.",
+      "analyzedAt": "2026-09-06T06:51:38.384Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36695",
       "label": "neutral",
       "rationale": "The text discusses Wall Street's misunderstanding of Trumpnomics without expressing a clear positive or negative sentiment.",
-      "analyzedAt": "2026-04-13T08:05:00.210Z"
+      "analyzedAt": "2026-09-06T06:51:38.384Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36696",
       "label": "positive",
       "rationale": "The text describes positive relations between the U.S. and Venezuela, with mentions of successful oil flow and financial aid, indicating a favorable situation.",
-      "analyzedAt": "2026-04-13T08:05:00.210Z"
+      "analyzedAt": "2026-09-06T06:51:38.384Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36697",
       "label": "positive",
       "rationale": "The statement highlights a positive achievement by Trump in reversing a decline in manufacturing, suggesting improvement and success.",
-      "analyzedAt": "2026-04-13T08:05:00.210Z"
+      "analyzedAt": "2026-09-06T06:51:38.384Z"
     }
   ],
-  "trendingTopic": "I am pleased to announce the nomination of Katie Lane to serve as Judge on the United States District Court for the District of Montana.",
-  "selfPraiseCount": 2,
-  "secondaryHighlights": [
-    {
-      "topic": "First Lady Melania Trump charms young patients during NIH visit to mark Valentine's Day",
-      "name": "Melania Trump"
-    },
-    {
-      "topic": "1 big thing: Stunning crime crash"
-    },
-    {
-      "topic": "Pentagon Prepares Second Aircraft Carrier to Deploy to the Middle East"
-    }
-  ]
+  "selfPraiseCacheKey": "self-praise-v1:16:465b48f36a13f6e6241cedec"
 }

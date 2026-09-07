@@ -6,23 +6,24 @@
     "negative": 5
   },
   "summary": "positive:8 neutral:2 negative:5",
-  "generatedAt": "2026-09-06T06:44:50.471Z",
+  "generatedAt": "2026-09-07T14:51:54.636Z",
   "topics": [
-    "Reports on Venezuela releasing political prisoners as a humanitarian gesture",
+    "Reports on the release of political prisoners in Venezuela",
     "Endorses Michelle Davis for Indiana's 41st State Senate District",
-    "Discusses trade deals and tariff reductions with trading partners"
+    "Discusses collaboration with Minnesota officials"
   ],
-  "trendingTopic": "Reports on Venezuela releasing political prisoners as a humanitarian gesture",
+  "trendingTopic": "Reports on the release of political prisoners in Venezuela",
   "secondaryHighlights": [
     {
       "topic": "Endorses Michelle Davis for Indiana's 41st State Senate District",
       "name": "Michelle Davis"
     },
     {
-      "topic": "Discusses trade deals and tariff reductions with trading partners"
+      "topic": "Discusses collaboration with Minnesota officials"
     }
   ],
   "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:15:412296ceedbcdd8ff042199f",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34641",
@@ -166,7 +167,10 @@
         "contentSnippet": "MELANIA, the Movie, is a MUST WATCH. Get your tickets today — Selling out, FAST!\nPhoto: Regine Mahaux\nhttps://www.amazon.com/salp/melaniamovie?hhf",
         "guid": "https://www.trumpstruth.org/statuses/34634",
         "isoDate": "2026-01-26T17:01:46.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13804/6f0442043db30555.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34633",
@@ -220,7 +224,10 @@
         "contentSnippet": "The incredible people of Kentucky’s 4th Congressional District, who want desperately to get rid of Thomas Massie, the Worst “Republican” Congressman we have had in many years, gave us a mandate to, MAKE AMERICA GREAT AGAIN! The person that will help us do the job, and do it right, is Navy SEAL, Army Ranger, Fifth Generation Kentucky Farmer, and American Hero, Captain Ed Gallrein, a true Patriot. Today, Ed, who also happens to be central casting, officially filed to run for Congress. I have heard that there are other Candidates exploring a run for this seat, but I am asking all MAGA Warriors to rally behind Captain Ed Gallrein, the Candidate who is, far and away, best positioned to DEFEAT Third Rate Congressman Thomas Massie, a Weak and Pathetic RINO from the beautiful Commonwealth of Kentucky, a place I love, and won BIG, ALL THREE TIMES.\n A Brave Combat Veteran, Ed knows the Wisdom and Courage required to Defend our Country, Support our Military/Veterans, and Ensure PEACE THROUGH STRENGTH. He is a big fan of our recent attack on Nicolas Maduro, the Dictator of Venezuela. Additionally, as a very successful Businessman, Ed knows how to Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Support our Amazing Farmers and American Agriculture, Unleash American Energy Dominance, and Champion our Nation’s Golden Age. In Congress, he will fight tirelessly to Keep our now very Secure Border, SECURE, Stop Migrant Crime, and Defend our always under siege Second Amendment.\n Captain Ed Gallrein has my Complete and Total Endorsement against “Congressman” Thomas Massie — He only votes AGAINST the Republican Party, making life very easy for the Radical Left. Unlike “lightweight” Congressman Massie, a true hater of Israel, and a totally ineffective LOSER who has failed us so badly, CAPTAIN ED GALLREIN IS A WINNER WHO WILL NOT LET KENTUCKY DOWN!",
         "guid": "https://www.trumpstruth.org/statuses/34631",
         "isoDate": "2026-01-26T20:16:09.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13802/dbbee51c2e9db761.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34630",
@@ -238,7 +245,10 @@
         "contentSnippet": "It is my Great Honor to endorse State Representative Michelle Davis, a REAL Republican running for Indiana's 41st State Senate District (which I won by 33 points!), against RINO incumbent Greg Walker! Michelle will be a fantastic replacement for Walker who, for whatever reason, voted against Redistricting in Indiana, which puts the United States Congress in jeopardy. Walker and his RINO friends made Indiana, a State I love and have been very good to, the only State in the Country that essentially said they don’t care about what happens in the United States Congress. We could have easily picked up two seats in Indiana, so Walker, an America Last politician, put our Majority in the House of Representatives at risk, thereby putting our Country in a very dangerous position in losing some of the magnificent gains that we have made over the last year, since I assumed the Office of President.\n State Representative Michelle Davis, on the other hand, strongly voted WITH Republicans to pass Redistricting in the State House, unlike “RINO” Greg Walker, who voted with the Democrats in the State Senate to stop it. As your next State Senator, Michelle will fight tirelessly to Protect \"Hoosier\" Values, Advocate for the Working Men and Women of Indiana, Grow our Economy, Cut Taxes and Regulations, Promote American Manufacturing, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Support our Military, Veterans, and Law Enforcement, Advance Election Integrity, and Defend our always under siege Second Amendment. \n Michelle Davis has my Complete and Total Endorsement to be the next State Senator from Indiana's 41st Senate District. Unlike incumbent Greg Walker, a “RINO” LOSER who has failed the fantastic people of Indiana so badly, MICHELLE DAVIS IS A WINNER WHO WILL NOT LET YOU DOWN!",
         "guid": "https://www.trumpstruth.org/statuses/34630",
         "isoDate": "2026-01-26T20:21:50.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13801/9434a5df92fe4f4a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34629",
@@ -387,5 +397,5 @@
       "analyzedAt": "2026-09-06T06:35:42.487Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:15:412296ceedbcdd8ff042199f"
+  "selfPraiseCacheKey": "self-praise-v1:15:412296ceedbcdd8ff042199f"
 }

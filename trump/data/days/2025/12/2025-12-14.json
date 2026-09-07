@@ -6,28 +6,29 @@
     "negative": 1
   },
   "summary": "positive:2 neutral:1 negative:1",
-  "generatedAt": "2026-09-06T06:43:55.029Z",
+  "generatedAt": "2026-09-07T14:50:18.198Z",
   "topics": [
-    "Promotes TRUMP CARD merchandise",
-    "Highlights White House lobby",
-    "Discusses impact of Trump's election on Hamas"
+    "Celebrates the holiday season with festive decorations and artwork featuring Donald Trump",
+    "Highlights Trump's presence at a formal event in the White House",
+    "Promotes the TRUMP CARD with a photo of Trump in the Oval Office"
   ],
-  "trendingTopic": "Discusses impact of Trump's election on Hamas",
+  "trendingTopic": "Celebrates the holiday season with festive decorations and artwork featuring Donald Trump",
   "secondaryHighlights": [
     {
-      "topic": "Promotes TRUMP CARD merchandise"
+      "topic": "Highlights Trump's presence at a formal event in the White House"
     },
     {
-      "topic": "Highlights White House lobby"
+      "topic": "Promotes the TRUMP CARD with a photo of Trump in the Oval Office"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:4:297a5e1dac5fed33c6aaf061",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34225",
       "publishedAt": "2025-12-14T02:19:58.000Z",
       "title": "[No Title] - Post from December 14, 2025",
-      "text": "<p></p>",
+      "text": "[Image] The image features a festive setting with two decorated Christmas trees adorned with ornaments and lights. In the center, there is a large painting of Donald Trump, depicted in profile with a thoughtful expression. The background is simple, with greenery and soft lighting enhancing the holiday atmosphere. The scene suggests a celebration or event, likely themed around the holiday season, with the artwork prominently displayed.",
       "url": "https://www.trumpstruth.org/statuses/34225",
       "raw": {
         "creator": "",
@@ -39,7 +40,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34225",
         "isoDate": "2025-12-14T02:19:58.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:08:51.506Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13657/684f1fdbd97cdc56.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34226",
@@ -63,7 +68,7 @@
       "id": "https://www.trumpstruth.org/statuses/35184",
       "publishedAt": "2025-12-14T22:00:18.000Z",
       "title": "In the lobby of our beautiful White House!",
-      "text": "<p>In the lobby of our beautiful White House!</p>",
+      "text": "<p>In the lobby of our beautiful White House!</p>\n\n[Image] Donald Trump is standing in a formal black tuxedo in a room with elegant decor. Behind him is a large painting depicting a scene with Trump and several supporters, with an American flag in the background. The setting features a polished floor and ornate furnishings, including a decorative lamp. The overall atmosphere suggests a formal event or gathering, highlighting Trump's presence in front of the artwork.",
       "url": "https://www.trumpstruth.org/statuses/35184",
       "raw": {
         "creator": "",
@@ -75,13 +80,17 @@
         "contentSnippet": "In the lobby of our beautiful White House!",
         "guid": "https://www.trumpstruth.org/statuses/35184",
         "isoDate": "2025-12-14T22:00:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:08:49.323Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14247/f0a7ce1c133784dc.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34227",
       "publishedAt": "2025-12-14T22:05:03.000Z",
       "title": "Get your TRUMP CARD today!",
-      "text": "<p>Get your TRUMP CARD today!<br/><a href=\"https://trumpcard.gov\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">trumpcard.gov</span><span class=\"invisible\"></span></a></p>",
+      "text": "<p>Get your TRUMP CARD today!<br/><a href=\"https://trumpcard.gov\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">trumpcard.gov</span><span class=\"invisible\"></span></a></p>\n\n[Image] Donald Trump is seated at the Resolute Desk in the Oval Office, smiling and holding a card in his hands. The background features various U.S. flags and military insignia, along with a statue of George Washington. The desk is adorned with a nameplate that reads \"PRESIDENT\" and other items. A framed photo is visible on the desk, and the room is illuminated by natural light coming through the windows. The overall atmosphere conveys a sense of formality and authority.",
       "url": "https://www.trumpstruth.org/statuses/34227",
       "raw": {
         "creator": "",
@@ -93,7 +102,11 @@
         "contentSnippet": "Get your TRUMP CARD today!\nhttps://trumpcard.gov",
         "guid": "https://www.trumpstruth.org/statuses/34227",
         "isoDate": "2025-12-14T22:05:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:08:47.331Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13658/6599e2005fc290c6.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -122,5 +135,5 @@
       "analyzedAt": "2026-09-06T06:26:42.535Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:4:297a5e1dac5fed33c6aaf061"
+  "selfPraiseCacheKey": "self-praise-v1:4:297a5e1dac5fed33c6aaf061"
 }

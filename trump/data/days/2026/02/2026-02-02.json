@@ -6,12 +6,23 @@
     "negative": 5
   },
   "summary": "positive:5 neutral:9 negative:5",
-  "generatedAt": "2026-04-13T07:59:19.682Z",
+  "generatedAt": "2026-09-07T14:52:15.519Z",
   "topics": [
-    "Thomas Massie Criticism",
-    "Government Funding and Shutdown Concerns",
-    "Iran and Middle East Relations"
+    "Critiques Democrats for being soft on crime and protecting criminals",
+    "Highlights success of Melania Trump's documentary surpassing projections",
+    "Discusses Trump's relationship with India and Modi"
   ],
+  "trendingTopic": "Critiques Democrats for being soft on crime and protecting criminals",
+  "secondaryHighlights": [
+    {
+      "topic": "Highlights success of Melania Trump's documentary surpassing projections"
+    },
+    {
+      "topic": "Discusses Trump's relationship with India and Modi"
+    }
+  ],
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:19:b17962032e69b87e0bf91970",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36417",
@@ -107,7 +118,7 @@
       "id": "https://www.trumpstruth.org/statuses/36426",
       "publishedAt": "2026-02-02T14:25:13.000Z",
       "title": "[No Title] - Post from February 2, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Melania Trump, who is smiling and dressed in a black outfit with a belt. She stands in front of a large illuminated sign that reads \"MELANIA.\" The accompanying text discusses the documentary titled \"Melania,\" which has grossed $7 million, surpassing initial projections of $2 to $5 million. The post highlights its success as the best opening for a documentary in the last decade. The source of the image is Getty Images.",
       "url": "https://www.trumpstruth.org/statuses/36426",
       "raw": {
         "creator": "",
@@ -119,7 +130,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36426",
         "isoDate": "2026-02-02T14:25:13.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:42:32.697Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15292/381787d7b32596d9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36425",
@@ -143,7 +158,7 @@
       "id": "https://www.trumpstruth.org/statuses/36424",
       "publishedAt": "2026-02-02T14:26:21.000Z",
       "title": "[No Title] - Post from February 2, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features the cover of \"India Today,\" showcasing two prominent political figures: Narendra Modi and Donald Trump. Modi is depicted on the left, wearing traditional Indian attire with a serious expression, while Trump is on the right, looking directly at the viewer with his signature hairstyle. The cover highlights them as \"Newsmakers of the Year 2025,\" with the tagline \"The Mover & The Shaker,\" indicating their significant influence in global politics.",
       "url": "https://www.trumpstruth.org/statuses/36424",
       "raw": {
         "creator": "",
@@ -155,13 +170,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36424",
         "isoDate": "2026-02-02T14:26:21.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:42:30.281Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15291/58add01d77ea28c4.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36423",
       "publishedAt": "2026-02-02T14:29:23.000Z",
       "title": "India’s beautiful Triumphal Arch. Ours will be the greatest of them all!",
-      "text": "<p>India’s beautiful Triumphal Arch. Ours will be the greatest of them all!</p>",
+      "text": "<p>India’s beautiful Triumphal Arch. Ours will be the greatest of them all!</p>\n\n[Image] The image features the India Gate, a prominent war memorial located in New Delhi, India. The structure is made of red and pale sandstone and commemorates Indian soldiers who died in World War I. In the foreground, a few people are seen, some of whom appear to be admiring the monument. The atmosphere is clear, and the surrounding area includes lampposts and greenery, contributing to the scenic view of this historical landmark.",
       "url": "https://www.trumpstruth.org/statuses/36423",
       "raw": {
         "creator": "",
@@ -173,7 +192,11 @@
         "contentSnippet": "India’s beautiful Triumphal Arch. Ours will be the greatest of them all!",
         "guid": "https://www.trumpstruth.org/statuses/36423",
         "isoDate": "2026-02-02T14:29:23.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:42:22.559Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15290/f3f1127e704e7a2d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36422",
@@ -191,7 +214,10 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36422",
         "isoDate": "2026-02-02T14:29:37.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15289/b35c10594dcdbe9b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36427",
@@ -209,7 +235,10 @@
         "contentSnippet": "Two very good guys who were treated so unfairly by Sleepy Joe Biden. But now, they are bigger than ever!!! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/36427",
         "isoDate": "2026-02-02T14:32:21.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15293/7c4e96299ca852a0.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36430",
@@ -360,132 +389,117 @@
     {
       "postId": "https://www.trumpstruth.org/statuses/36417",
       "label": "negative",
-      "rationale": "The text criticizes Democrats for being 'soft on crime' and expresses a strong negative sentiment towards their policies.",
-      "analyzedAt": "2026-04-13T07:59:19.678Z"
+      "rationale": "The text criticizes Democrats for being 'SOFT ON CRIME' and portrays them negatively.",
+      "analyzedAt": "2026-09-06T06:48:58.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36418",
       "label": "neutral",
-      "rationale": "The text is a factual statement about an investigation without expressing any personal sentiment.",
-      "analyzedAt": "2026-04-13T07:59:19.678Z"
+      "rationale": "The text reports on an investigation without expressing any sentiment, making it neutral.",
+      "analyzedAt": "2026-09-06T06:48:58.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36419",
       "label": "positive",
-      "rationale": "The text describes positive achievements attributed to Trump, indicating a favorable sentiment.",
-      "analyzedAt": "2026-04-13T07:59:19.678Z"
+      "rationale": "The text describes positive achievements attributed to Trump, suggesting a favorable view.",
+      "analyzedAt": "2026-09-06T06:48:58.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36420",
       "label": "negative",
-      "rationale": "Similar to the previous entry, this text expresses strong negative feelings towards the Grammy Awards and Trevor Noah, indicating a defensive and aggressive sentiment.",
-      "analyzedAt": "2026-04-13T07:59:19.678Z"
+      "rationale": "Similar to the previous entry, this text expresses strong negative feelings towards the Grammy Awards and Trevor Noah.",
+      "analyzedAt": "2026-09-06T06:48:58.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36421",
       "label": "negative",
-      "rationale": "The text expresses strong negative feelings towards the Grammy Awards and Trevor Noah, using derogatory language and indicating a desire for legal action.",
-      "analyzedAt": "2026-04-13T07:59:19.678Z"
+      "rationale": "The text expresses strong negative feelings towards the Grammy Awards and Trevor Noah, using derogatory language.",
+      "analyzedAt": "2026-09-06T06:48:58.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36422",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:59:19.678Z"
+      "analyzedAt": "2026-09-06T06:48:58.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36423",
       "label": "positive",
-      "rationale": "The text expresses a positive sentiment about India's Triumphal Arch and suggests a sense of pride in future achievements.",
-      "analyzedAt": "2026-04-13T07:59:19.678Z"
+      "rationale": "The text expresses a positive sentiment about India's Triumphal Arch and suggests a sense of pride.",
+      "analyzedAt": "2026-09-06T06:48:58.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36424",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:59:19.678Z"
+      "analyzedAt": "2026-09-06T06:48:58.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36425",
       "label": "neutral",
-      "rationale": "The text is a factual statement about Trump's welcome of investments without expressing any personal sentiment.",
-      "analyzedAt": "2026-04-13T07:59:19.678Z"
+      "rationale": "The text reports on Trump's comments regarding investment in Venezuela without expressing sentiment.",
+      "analyzedAt": "2026-09-06T06:48:58.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36426",
       "label": "neutral",
       "rationale": "The text is empty and does not convey any sentiment.",
-      "analyzedAt": "2026-04-13T07:59:19.678Z"
+      "analyzedAt": "2026-09-06T06:48:58.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36427",
       "label": "positive",
-      "rationale": "The text expresses support for two individuals who are described as 'very good guys' and suggests they have become more successful, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:59:19.678Z"
+      "rationale": "The text expresses support for individuals treated unfairly, framing them positively and suggesting they have overcome adversity.",
+      "analyzedAt": "2026-09-06T06:48:58.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36428",
       "label": "neutral",
-      "rationale": "The text is a factual statement about a message from the State Department regarding Iran, lacking emotional content.",
-      "analyzedAt": "2026-04-13T07:59:19.678Z"
+      "rationale": "The text is a factual statement about the State Department's position on Iran, lacking emotional content.",
+      "analyzedAt": "2026-09-06T06:48:58.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36429",
       "label": "neutral",
-      "rationale": "The text discusses Trump's openness to a deal with Iran without expressing any strong sentiment, making it neutral.",
-      "analyzedAt": "2026-04-13T07:59:19.678Z"
+      "rationale": "The text discusses a potential deal with Iran without expressing any strong sentiment, making it neutral.",
+      "analyzedAt": "2026-09-06T06:48:58.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36430",
       "label": "neutral",
-      "rationale": "The text presents a statement about Iran without any emotional language, thus it is neutral.",
-      "analyzedAt": "2026-04-13T07:59:19.678Z"
+      "rationale": "The text presents an opinion about Iran without emotional language, thus remaining neutral.",
+      "analyzedAt": "2026-09-06T06:48:58.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36431",
       "label": "neutral",
-      "rationale": "The text reports on a military action without expressing any personal sentiment or opinion, making it neutral.",
-      "analyzedAt": "2026-04-13T07:59:19.678Z"
+      "rationale": "The text reports on a military action without expressing any sentiment, making it neutral.",
+      "analyzedAt": "2026-09-06T06:48:58.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36432",
       "label": "positive",
-      "rationale": "The text highlights a positive relationship with Prime Minister Modi and discusses beneficial trade agreements, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T07:59:19.678Z"
+      "rationale": "The text highlights a positive relationship with Prime Minister Modi and discusses beneficial trade agreements, portraying the interaction in a favorable light.",
+      "analyzedAt": "2026-09-06T06:48:58.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36433",
       "label": "negative",
-      "rationale": "The text contains accusations against Jeffrey Epstein and Michael Wolff, portraying them negatively and defending against their claims, indicating a defensive and negative sentiment.",
-      "analyzedAt": "2026-04-13T07:59:19.678Z"
+      "rationale": "The text contains accusations against Jeffrey Epstein and Michael Wolff, portraying them negatively and suggesting a conspiracy against the speaker.",
+      "analyzedAt": "2026-09-06T06:48:58.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36434",
       "label": "positive",
       "rationale": "The text conveys a sense of urgency and determination to pass a funding deal, emphasizing cooperation between Republicans and Democrats, which is framed positively.",
-      "analyzedAt": "2026-04-13T07:59:19.678Z"
+      "analyzedAt": "2026-09-06T06:48:58.409Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36435",
       "label": "negative",
       "rationale": "The text expresses strong disapproval of Thomas Massie, labeling him as a 'Complete and Total Disaster' and suggesting he is disloyal to the Republican Party.",
-      "analyzedAt": "2026-04-13T07:59:19.678Z"
+      "analyzedAt": "2026-09-06T06:48:58.409Z"
     }
   ],
-  "trendingTopic": "The Grammy Awards are the WORST, virtually unwatchable!",
-  "selfPraiseCount": 1,
-  "secondaryHighlights": [
-    {
-      "topic": "'Amazing' what Trump has done in 12 months: Jason Chaffetz",
-      "name": "Jason Chaffetz"
-    },
-    {
-      "topic": "Two very good guys who were treated so unfairly by Sleepy Joe Biden",
-      "name": "Joe Biden"
-    },
-    {
-      "topic": "Iran is turning into the 'North Korea of the Middle East': Mark Levin",
-      "name": "Mark Levin"
-    }
-  ]
+  "selfPraiseCacheKey": "self-praise-v1:19:b17962032e69b87e0bf91970"
 }

@@ -6,25 +6,23 @@
     "negative": 1
   },
   "summary": "positive:4 neutral:1 negative:1",
-  "generatedAt": "2026-09-06T06:44:36.685Z",
+  "generatedAt": "2026-09-07T14:51:30.697Z",
   "topics": [
-    "Praises Iran for cancelling scheduled hangings",
-    "Critiques Minnesota leadership over unrest",
+    "Announces next phase of Gaza's 20-Point Peace Plan and record humanitarian aid delivery",
+    "Meets with María Corina Machado of Venezuela",
     "Discusses healthcare funding directly to the people"
   ],
-  "trendingTopic": "Praises Iran for cancelling scheduled hangings",
+  "trendingTopic": "Announces next phase of Gaza's 20-Point Peace Plan and record humanitarian aid delivery",
   "secondaryHighlights": [
     {
-      "topic": "Critiques Minnesota leadership over unrest"
+      "topic": "Meets with María Corina Machado of Venezuela"
     },
     {
       "topic": "Discusses healthcare funding directly to the people"
-    },
-    {
-      "topic": "Meets with María Corina Machado of Venezuela"
     }
   ],
   "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v10:6:e539e5fe2c3415b79d3fc1dd",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34573",
@@ -42,7 +40,10 @@
         "contentSnippet": "As Steve Witkoff announced, we have OFFICIALLY entered the next phase of Gaza’s 20-Point Peace Plan!\n Since the Ceasefire, my team has helped deliver RECORD LEVELS of Humanitarian Aid to Gaza, reaching Civilians at HISTORIC speed and scale. Even the United Nations has acknowledged this achievement as UNPRECEDENTED. These results have set the stage for this next phase.\n As Chairman of the Board of Peace, I am backing a newly appointed Palestinian Technocratic Government, the National Committee for the Administration of Gaza, supported by the Board's High Representative, to govern Gaza during its transition. These Palestinian leaders are unwaveringly committed to a PEACEFUL future!\n With the support of Egypt, Turkey, and Qatar, we will secure a COMPREHENSIVE Demilitarization Agreement with Hamas, including the surrender of ALL weapons, and the dismantling of EVERY tunnel. Hamas must IMMEDIATELY honor its commitments, including the return of the final body to Israel, and proceed without delay to full Demilitarization. As I have said before, they can do this the easy way, or the hard way. The people of Gaza have suffered long enough. The time is NOW.\n PEACE THROUGH STRENGTH.",
         "guid": "https://www.trumpstruth.org/statuses/34573",
         "isoDate": "2026-01-16T00:47:13.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13788/803c527ab16d7d57.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34572",
@@ -120,7 +121,7 @@
       "id": "https://www.trumpstruth.org/statuses/34577",
       "publishedAt": "2026-01-16T20:21:05.000Z",
       "title": "[No Title] - Post from January 16, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is a letter from the White House dated January 16, 2026, addressed to Abdel Fattah El-Sisi, the President of Egypt. The letter expresses gratitude for El-Sisi's leadership in mediating a ceasefire between Israel and Hamas and discusses ongoing humanitarian challenges. It emphasizes the importance of U.S. mediation in resolving issues related to the Nile River and water sharing among Egypt, Sudan, and Ethiopia. The letter highlights the commitment to peace and cooperation in the region.",
       "url": "https://www.trumpstruth.org/statuses/34577",
       "raw": {
         "creator": "",
@@ -132,7 +133,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34577",
         "isoDate": "2026-01-16T20:21:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:27:06.748Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13789/f351af7d69aea798.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -173,5 +178,5 @@
       "analyzedAt": "2026-09-06T06:33:12.430Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:6:e539e5fe2c3415b79d3fc1dd"
+  "selfPraiseCacheKey": "self-praise-v1:6:e539e5fe2c3415b79d3fc1dd"
 }

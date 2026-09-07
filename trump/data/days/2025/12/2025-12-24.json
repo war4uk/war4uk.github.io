@@ -6,23 +6,23 @@
     "negative": 4
   },
   "summary": "positive:5 neutral:1 negative:4",
-  "generatedAt": "2026-09-06T06:44:07.025Z",
+  "generatedAt": "2026-09-07T14:50:41.788Z",
   "topics": [
-    "John Brennan targeted in Florida grand jury probe amid election meddling allegations",
-    "Trump's urban policy appeal highlighted by Nicki Minaj's support",
-    "Rubio sanctions European officials for censorship attempts"
+    "Trump's first year sees growth up and inflation down",
+    "Criticism of late night hosts and their ratings",
+    "Democrats' push for Epstein files backfires with Clinton involvement"
   ],
-  "trendingTopic": "John Brennan targeted in Florida grand jury probe amid election meddling allegations",
-  "trendingName": "John Brennan",
+  "trendingTopic": "Trump's first year sees growth up and inflation down",
   "secondaryHighlights": [
     {
-      "topic": "Trump's urban policy appeal highlighted by Nicki Minaj's support"
+      "topic": "Criticism of late night hosts and their ratings"
     },
     {
-      "topic": "Rubio sanctions European officials for censorship attempts"
+      "topic": "Democrats' push for Epstein files backfires with Clinton involvement"
     }
   ],
   "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v10:10:8e9a40c49363e8a601c7bdae",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34304",
@@ -267,5 +267,5 @@
       "analyzedAt": "2026-09-06T06:28:15.719Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:10:8e9a40c49363e8a601c7bdae"
+  "selfPraiseCacheKey": "self-praise-v1:10:8e9a40c49363e8a601c7bdae"
 }

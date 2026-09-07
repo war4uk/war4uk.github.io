@@ -6,22 +6,23 @@
     "negative": 2
   },
   "summary": "positive:3 neutral:2 negative:2",
-  "generatedAt": "2026-09-06T06:44:24.715Z",
+  "generatedAt": "2026-09-07T14:51:11.499Z",
   "topics": [
-    "U.S. Trade Deficit reaches lowest level since 2009 with GDP predictions over 5%",
-    "Criticism of Biden's handling of the Housing Market and other issues",
-    "Intel launches first SUB 2 NANOMETER CPU PROCESSOR in the U.S."
+    "Criticizes Senators for voting with Democrats on national defense issues",
+    "Highlights Intel's launch of the first SUB 2 NANOMETER CPU PROCESSOR in the U.S.",
+    "Discusses Biden's handling of various national issues including crime and inflation"
   ],
-  "trendingTopic": "U.S. Trade Deficit reaches lowest level since 2009 with GDP predictions over 5%",
+  "trendingTopic": "Criticizes Senators for voting with Democrats on national defense issues",
   "secondaryHighlights": [
     {
-      "topic": "Criticism of Biden's handling of the Housing Market and other issues"
+      "topic": "Highlights Intel's launch of the first SUB 2 NANOMETER CPU PROCESSOR in the U.S."
     },
     {
-      "topic": "Intel launches first SUB 2 NANOMETER CPU PROCESSOR in the U.S."
+      "topic": "Discusses Biden's handling of various national issues including crime and inflation"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:7:bf29756b8f3f97f37853aff9",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34485",
@@ -63,7 +64,7 @@
       "id": "https://www.trumpstruth.org/statuses/34487",
       "publishedAt": "2026-01-08T14:36:55.000Z",
       "title": "[No Title] - Post from January 8, 2026",
-      "text": "<p><a href=\"https://x.com/basedmikelee/status/2009003045342806036?s=46\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/basedmikelee/status/2009</span><span class=\"invisible\">003045342806036?s=46</span></a></p>",
+      "text": "<p><a href=\"https://x.com/basedmikelee/status/2009003045342806036?s=46\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/basedmikelee/status/2009</span><span class=\"invisible\">003045342806036?s=46</span></a></p>\n\n[Image] The image features a tweet from Mike Lee, a U.S. Senator, discussing the SAVE Act, which aims to prevent noncitizens from voting. He criticizes the Senate Appropriations Committee for including a $500,000 earmark in a spending bill that he claims supports leftist lobbying against the SAVE Act. The tweet emphasizes his stance on voting rights and the implications of the proposed funding. The background includes an American flag, reinforcing the patriotic theme.",
       "url": "https://www.trumpstruth.org/statuses/34487",
       "raw": {
         "creator": "",
@@ -75,7 +76,11 @@
         "contentSnippet": "https://x.com/basedmikelee/status/2009003045342806036?s=46",
         "guid": "https://www.trumpstruth.org/statuses/34487",
         "isoDate": "2026-01-08T14:36:55.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:23:54.024Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13768/62887607bbea9b57.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34488",
@@ -194,5 +199,5 @@
       "analyzedAt": "2026-09-06T06:31:45.239Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:7:bf29756b8f3f97f37853aff9"
+  "selfPraiseCacheKey": "self-praise-v1:7:bf29756b8f3f97f37853aff9"
 }

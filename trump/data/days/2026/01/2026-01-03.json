@@ -6,23 +6,24 @@
     "negative": 0
   },
   "summary": "positive:3 neutral:70 negative:0",
-  "generatedAt": "2026-09-06T06:44:18.685Z",
+  "generatedAt": "2026-09-07T14:51:02.010Z",
   "topics": [
-    "U.S. carries out successful operation against Venezuela and captures Nicolas Maduro",
-    "Democrat Wasserman Schultz supports Trump's operation in Venezuela",
-    "Trump's actions contrast with Obama's past in supporting Iran's freedom protesters"
+    "U.S. military operation successfully captures Venezuelan President Nicolas Maduro",
+    "Emmanuel Macron expresses support for Venezuelan people after Maduro's removal",
+    "Donald Trump receives praise from supporters for actions in Venezuela"
   ],
-  "trendingTopic": "U.S. carries out successful operation against Venezuela and captures Nicolas Maduro",
+  "trendingTopic": "U.S. military operation successfully captures Venezuelan President Nicolas Maduro",
+  "trendingName": "Nicolas Maduro",
   "secondaryHighlights": [
     {
-      "topic": "Democrat Wasserman Schultz supports Trump's operation in Venezuela",
-      "name": "Debbie Wasserman Schultz"
+      "topic": "Emmanuel Macron expresses support for Venezuelan people after Maduro's removal"
     },
     {
-      "topic": "Trump's actions contrast with Obama's past in supporting Iran's freedom protesters"
+      "topic": "Donald Trump receives praise from supporters for actions in Venezuela"
     }
   ],
   "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v10:73:e4f15e0a6ee488b13266d816",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34410",
@@ -76,13 +77,16 @@
         "contentSnippet": "Nicolas Maduro on board the USS Iwo Jima.",
         "guid": "https://www.trumpstruth.org/statuses/34412",
         "isoDate": "2026-01-03T16:23:32.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13725/e1bb18adb65ba857.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35051",
       "publishedAt": "2026-01-03T18:01:19.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump is standing in a dimly lit room, wearing a dark suit and a white shirt. He appears to be looking off to the side, with a serious expression. Behind him, several men in suits are positioned, some looking at Trump while others are focused elsewhere. The setting includes gold chairs and black curtains, suggesting a formal event. The atmosphere seems tense, with Trump at the center of attention among the group.",
       "url": "https://www.trumpstruth.org/statuses/35051",
       "raw": {
         "creator": "",
@@ -94,13 +98,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35051",
         "isoDate": "2026-01-03T18:01:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:19:50.663Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14118/64f9fc12df345458.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35050",
       "publishedAt": "2026-01-03T18:01:35.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump in the foreground, partially out of focus, with a serious expression. In the center, Marco Rubio is clearly visible, looking directly at the camera with a thoughtful demeanor, his hand raised in a gesture. Another individual is seen in the background, slightly blurred, with a bald head and wearing a light blue jacket. The setting appears to be a meeting or discussion, indicated by the dark backdrop and the arrangement of the individuals.",
       "url": "https://www.trumpstruth.org/statuses/35050",
       "raw": {
         "creator": "",
@@ -112,7 +120,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35050",
         "isoDate": "2026-01-03T18:01:35.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:19:47.982Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14117/2e3505e59219974e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35049",
@@ -130,7 +142,10 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35049",
         "isoDate": "2026-01-03T18:01:48.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14116/c4b16437bb6e0c98.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35048",
@@ -148,13 +163,16 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35048",
         "isoDate": "2026-01-03T18:01:59.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14115/8ddfef6e64b39abc.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35047",
       "publishedAt": "2026-01-03T18:02:09.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image shows a group of men in a dimly lit room, with a black backdrop. One man, dressed in a blue suit, is pointing and appears to be speaking assertively. Another man, also in a blue suit, stands with his arms crossed, looking serious. Seated at a table is Donald Trump, who has a contemplative expression. Various electronic devices are visible on the table, including phones and a laptop. The atmosphere suggests a serious discussion or meeting.",
       "url": "https://www.trumpstruth.org/statuses/35047",
       "raw": {
         "creator": "",
@@ -166,13 +184,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35047",
         "isoDate": "2026-01-03T18:02:09.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:19:26.977Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14114/a65a657dc9e35259.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35046",
       "publishedAt": "2026-01-03T18:02:29.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump seated at a table, looking serious and contemplative. He is surrounded by several men, including Marco Rubio, who stands with his arms crossed, appearing focused. The setting has a dark backdrop, and the overall tone is somber. Other individuals are present in the background, observing the scene. The image captures a moment of tension or deliberation among the group.",
       "url": "https://www.trumpstruth.org/statuses/35046",
       "raw": {
         "creator": "",
@@ -184,7 +206,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35046",
         "isoDate": "2026-01-03T18:02:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:19:25.053Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14113/c51d86a93ffa288a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35045",
@@ -202,7 +228,10 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35045",
         "isoDate": "2026-01-03T18:02:39.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14112/ddd8d89a3021c94f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35044",
@@ -220,13 +249,16 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35044",
         "isoDate": "2026-01-03T18:02:51.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14111/78ca5cd2038ea1d7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35043",
       "publishedAt": "2026-01-03T18:03:06.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image shows three men in a dimly lit room with a black backdrop. One man is seated at a desk, focused on a laptop, while another man stands behind him, appearing contemplative. The third man, also seated, looks towards the screen, which displays social media content. The atmosphere suggests a serious or strategic discussion, possibly related to a political or organizational event. There are multiple electronic devices on the table, indicating a tech-savvy environment.",
       "url": "https://www.trumpstruth.org/statuses/35043",
       "raw": {
         "creator": "",
@@ -238,13 +270,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35043",
         "isoDate": "2026-01-03T18:03:06.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:19:04.888Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14110/8abbb613f75a92e7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35042",
       "publishedAt": "2026-01-03T18:03:19.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump on the left, partially in profile, with his distinctive hairstyle visible. To the right, Marco Rubio is shown looking directly at the camera, dressed in a suit and tie, appearing engaged in conversation. The background is dark, and the image is in black and white, emphasizing the expressions of the two politicians. The focus seems to be on a discussion or meeting setting, highlighting their interaction.",
       "url": "https://www.trumpstruth.org/statuses/35042",
       "raw": {
         "creator": "",
@@ -256,7 +292,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35042",
         "isoDate": "2026-01-03T18:03:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:19:02.219Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14109/ec931d769415f208.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35041",
@@ -274,7 +314,10 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35041",
         "isoDate": "2026-01-03T18:03:31.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14108/49648ce05e2ec22b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35040",
@@ -292,13 +335,16 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35040",
         "isoDate": "2026-01-03T18:03:51.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14107/a31870a7463e5979.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35039",
       "publishedAt": "2026-01-03T18:04:08.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump seated at a table with his hands clasped in front of him, appearing serious and focused. He is dressed in a dark suit and a white shirt. In the background, a man in a blue suit stands slightly behind Trump, looking towards him. The setting appears to be indoors, with a dark backdrop that adds to the serious atmosphere of the scene. The overall mood suggests a significant discussion or meeting is taking place.",
       "url": "https://www.trumpstruth.org/statuses/35039",
       "raw": {
         "creator": "",
@@ -310,13 +356,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35039",
         "isoDate": "2026-01-03T18:04:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:18:41.482Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14106/f5e0a0f46fae2d4b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35038",
       "publishedAt": "2026-01-03T18:04:21.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image shows a man with short, gray hair, wearing a black vest over a white shirt. He is seated and appears to be deep in thought, with one hand on his chin and the other pointing outward. The background is dark, which contrasts with his attire. The setting suggests a professional or formal environment, possibly a meeting or conference. No recognizable public figures are present in the image.",
       "url": "https://www.trumpstruth.org/statuses/35038",
       "raw": {
         "creator": "",
@@ -328,7 +378,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35038",
         "isoDate": "2026-01-03T18:04:21.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:18:39.699Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14105/39b0ea3430ba7418.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35037",
@@ -346,7 +400,10 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35037",
         "isoDate": "2026-01-03T18:04:39.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14104/38bbac8ac8eed242.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34413",
@@ -364,13 +421,16 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34413",
         "isoDate": "2026-01-03T18:04:57.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13726/b33ff2d11ec1283e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34414",
       "publishedAt": "2026-01-03T18:05:12.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image shows Donald Trump seated at a table with two other men, one on his left and one on his right. Trump appears focused, with his hands clasped in front of him. The man to his left is wearing a blue blazer and has a serious expression, while the man on his right is also in a suit and appears attentive. In the background, several individuals are standing, partially obscured by black curtains. The setting suggests a serious discussion or meeting.",
       "url": "https://www.trumpstruth.org/statuses/34414",
       "raw": {
         "creator": "",
@@ -382,7 +442,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34414",
         "isoDate": "2026-01-03T18:05:12.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:18:23.860Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13727/1e5481e71137acd0.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34420",
@@ -406,7 +470,7 @@
       "id": "https://www.trumpstruth.org/statuses/34415",
       "publishedAt": "2026-01-03T19:36:37.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is a tweet from Emmanuel Macron, the President of France, dated January 3, 2026. In the tweet, Macron discusses the situation in Venezuela, expressing support for the Venezuelan people following the removal of Nicolás Maduro's dictatorship. He emphasizes the need for a peaceful and democratic transition, mentioning President Edmundo González Urrutia, who is expected to take office in 2024. Macron also notes France's commitment to ensuring the safety of its nationals during these uncertain times.",
       "url": "https://www.trumpstruth.org/statuses/34415",
       "raw": {
         "creator": "",
@@ -418,7 +482,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34415",
         "isoDate": "2026-01-03T19:36:37.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:18:21.249Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13728/5dc38c0fea4ecae7.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34431",
@@ -472,7 +540,10 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34417",
         "isoDate": "2026-01-03T21:59:25.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13729/d7db09038e913b1c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35036",
@@ -490,13 +561,16 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35036",
         "isoDate": "2026-01-03T22:00:47.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14103/899f267086dac910.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34418",
       "publishedAt": "2026-01-03T22:01:16.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a tweet from Laura Loomer expressing her enthusiasm for Donald Trump. She states that he makes her feel proud to be an American and describes him as exciting and the greatest president the country has ever had. The tweet is dated January 3, 2026, and has garnered 147,000 views. The background includes a profile picture of Loomer, who is known for her political activism.",
       "url": "https://www.trumpstruth.org/statuses/34418",
       "raw": {
         "creator": "",
@@ -508,7 +582,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34418",
         "isoDate": "2026-01-03T22:01:16.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:18:04.231Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13730/42f348145e3fa6bb.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35035",
@@ -532,7 +610,7 @@
       "id": "https://www.trumpstruth.org/statuses/35034",
       "publishedAt": "2026-01-03T22:07:19.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833439769647936</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833439769647936</span></p>\n\n[Image] The image features a tweet from Wall Street Apes discussing California's financial issues under Governor Gavin Newsom. It highlights that eight agencies are designated as high risk for waste, fraud, and mismanagement, with an estimated $76 billion in improper payments identified. The tweet quotes Representative Kevin Kiley, who claims California is the \"fraud capital of America,\" emphasizing systemic failures across state government functions.",
       "url": "https://www.trumpstruth.org/statuses/35034",
       "raw": {
         "creator": "",
@@ -544,7 +622,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833439769647936",
         "guid": "https://www.trumpstruth.org/statuses/35034",
         "isoDate": "2026-01-03T22:07:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:18:02.321Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14101/e54d305a3c966931.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35033",
@@ -568,7 +650,7 @@
       "id": "https://www.trumpstruth.org/statuses/35032",
       "publishedAt": "2026-01-03T22:07:59.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833442250867489</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833442250867489</span></p>\n\n[Image] The image features a tweet from The SCIF account discussing allegations related to the 2020 U.S. presidential election. It claims that trucks of ballots were delivered from a company called Runbeck in Arizona, raising concerns about the oversight of ballot counting. The tweet contrasts Arizona's ballot counting timeline with Florida's, suggesting discrepancies in election integrity. The overall tone implies accusations of election fraud.",
       "url": "https://www.trumpstruth.org/statuses/35032",
       "raw": {
         "creator": "",
@@ -580,7 +662,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833442250867489",
         "guid": "https://www.trumpstruth.org/statuses/35032",
         "isoDate": "2026-01-03T22:07:59.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:17:54.370Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14099/010945c201e00165.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34419",
@@ -622,7 +708,7 @@
       "id": "https://www.trumpstruth.org/statuses/35030",
       "publishedAt": "2026-01-03T22:10:31.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833452621954447</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833452621954447</span></p>\n\n[Image] The image features a tweet from Sami Nathaniel, who has a verified account. In the tweet, he expresses appreciation for someone named Nick Shirley, thanking him for his hard work. The message is straightforward and conveys gratitude, but there are no images or additional context provided in the tweet itself. The focus is solely on the acknowledgment of Nick Shirley's efforts.",
       "url": "https://www.trumpstruth.org/statuses/35030",
       "raw": {
         "creator": "",
@@ -634,7 +720,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833452621954447",
         "guid": "https://www.trumpstruth.org/statuses/35030",
         "isoDate": "2026-01-03T22:10:31.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:17:49.661Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14097/41b1c7f77191b01d.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35029",
@@ -658,7 +748,7 @@
       "id": "https://www.trumpstruth.org/statuses/35028",
       "publishedAt": "2026-01-03T22:11:03.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833454328733787</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833454328733787</span></p>\n\n[Image] The image features a tweet from the account \"God & Country,\" which includes a black and white profile picture of a person. The text reads \"Never give up\" followed by three American flag emojis. The overall tone suggests a patriotic message, emphasizing perseverance. There are no recognizable public figures or specific imagery beyond the text and profile picture.",
       "url": "https://www.trumpstruth.org/statuses/35028",
       "raw": {
         "creator": "",
@@ -670,7 +760,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833454328733787",
         "guid": "https://www.trumpstruth.org/statuses/35028",
         "isoDate": "2026-01-03T22:11:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:17:45.249Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14095/0d9eae666c3a25f5.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34422",
@@ -694,7 +788,7 @@
       "id": "https://www.trumpstruth.org/statuses/34421",
       "publishedAt": "2026-01-03T22:11:29.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833456351024317</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833456351024317</span></p>\n\n[Image] The image is a tweet from the account SaltyGoat, which features a profile picture of a man wearing sunglasses and a hat. The text discusses allegations against Jack Smith, suggesting he tampered with evidence and lied in court as part of a scheme to \"get Trump.\" The tweet expresses frustration about the situation and questions when Jack Smith might face legal consequences. The tone is critical and confrontational regarding the legal proceedings involving Donald Trump.",
       "url": "https://www.trumpstruth.org/statuses/34421",
       "raw": {
         "creator": "",
@@ -706,7 +800,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833456351024317",
         "guid": "https://www.trumpstruth.org/statuses/34421",
         "isoDate": "2026-01-03T22:11:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:17:41.412Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13732/8bb549ff638c9d7f.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35027",
@@ -730,7 +828,7 @@
       "id": "https://www.trumpstruth.org/statuses/35026",
       "publishedAt": "2026-01-03T22:20:59.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833493516873736</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833493516873736</span></p>\n\n[Image] The image features a tweet from a user named Caroline, who has a verified account. The tweet states, \"Trump is the Greatest President and leader ever.\" There is a profile picture that appears to include a seal or emblem, but the details are not clear. The tweet expresses a strong opinion in favor of Donald Trump, highlighting a positive view of his leadership.",
       "url": "https://www.trumpstruth.org/statuses/35026",
       "raw": {
         "creator": "",
@@ -742,7 +840,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833493516873736",
         "guid": "https://www.trumpstruth.org/statuses/35026",
         "isoDate": "2026-01-03T22:20:59.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:17:34.390Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14093/3b3697657191ca4b.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35025",
@@ -784,7 +886,7 @@
       "id": "https://www.trumpstruth.org/statuses/35023",
       "publishedAt": "2026-01-03T22:22:49.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833500742771102</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833500742771102</span></p>\n\n[Image] The image is a tweet from Eric Daugherty, featuring a statement about Minnesota Attorney General Keith Ellison. The tweet claims that Ellison personally met with individuals involved in fraud to accept campaign donations and alleges that these individuals are connected to significant fraud scandals in Minnesota. It further asserts that the entire Minnesota Democratic apparatus is implicated. The tweet uses bold text for emphasis on certain points.",
       "url": "https://www.trumpstruth.org/statuses/35023",
       "raw": {
         "creator": "",
@@ -796,7 +898,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833500742771102",
         "guid": "https://www.trumpstruth.org/statuses/35023",
         "isoDate": "2026-01-03T22:22:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:17:32.307Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14090/131db36dc4d0547f.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35022",
@@ -832,7 +938,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833503727011090",
         "guid": "https://www.trumpstruth.org/statuses/35021",
         "isoDate": "2026-01-03T22:23:40.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14088/dd240b53f41ca868.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35020",
@@ -856,7 +965,7 @@
       "id": "https://www.trumpstruth.org/statuses/35019",
       "publishedAt": "2026-01-03T22:24:30.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a tweet from a user named RealRobert, dated January 1, 2026. The tweet references Michael Scheuer, a CIA analyst, discussing alleged vote manipulation in favor of Joe Biden during the 2020 election. It claims that the CIA toppled the U.S. government and mentions specific numbers of votes purportedly switched from Donald Trump to Biden. The tweet also references Jack Smith's testimony regarding Trump's First Amendment rights related to the election.",
       "url": "https://www.trumpstruth.org/statuses/35019",
       "raw": {
         "creator": "",
@@ -868,7 +977,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35019",
         "isoDate": "2026-01-03T22:24:30.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:17:22.485Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14086/08ce7cd746e8a1bf.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34423",
@@ -892,7 +1005,7 @@
       "id": "https://www.trumpstruth.org/statuses/35018",
       "publishedAt": "2026-01-03T22:25:18.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833510381888705</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833510381888705</span></p>\n\n[Image] The image is a tweet from Mila Joy, who has a verified account. In the tweet, she discusses a situation involving a Somali daycare scam, suggesting it could be part of a larger nationwide money laundering scheme. The message is direct and raises concerns about the implications of the alleged scam. There are no images or additional context provided in the tweet itself.",
       "url": "https://www.trumpstruth.org/statuses/35018",
       "raw": {
         "creator": "",
@@ -904,7 +1017,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833510381888705",
         "guid": "https://www.trumpstruth.org/statuses/35018",
         "isoDate": "2026-01-03T22:25:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:17:20.587Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14085/446fc2eb5e553e50.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35017",
@@ -928,7 +1045,7 @@
       "id": "https://www.trumpstruth.org/statuses/35016",
       "publishedAt": "2026-01-03T22:26:44.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833515924676452</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833515924676452</span></p>\n\n[Image] The image is a tweet from the account @TheSCIF discussing mail-in ballots in Pennsylvania during the 2020 election. It claims that Pennsylvania received nearly a million more mail-in ballots than it sent out and mentions testimony about non-election personnel uploading USB devices to voting machines. The tweet highlights discrepancies in ballot counts from Allegheny and Philadelphia County and suggests that the mail-in ballot figures were altered after the election.",
       "url": "https://www.trumpstruth.org/statuses/35016",
       "raw": {
         "creator": "",
@@ -940,7 +1057,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833515924676452",
         "guid": "https://www.trumpstruth.org/statuses/35016",
         "isoDate": "2026-01-03T22:26:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:17:13.356Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14083/bef3b51ba84090cf.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35015",
@@ -964,7 +1085,7 @@
       "id": "https://www.trumpstruth.org/statuses/35014",
       "publishedAt": "2026-01-03T22:27:34.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833519433918963</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833519433918963</span></p>\n\n[Image] The image features a text post by Scott Presler discussing alleged voter fraud in Minnesota. It claims that 500,000 voters, nearly 19% of all voters in the state, were registered on Election Day. Presler references Al Franken's election, stating he won by just 312 votes, and criticizes the integrity of the election process, suggesting that one person can vouch for multiple migrants. The post calls for a full forensic audit of Minnesota's election.",
       "url": "https://www.trumpstruth.org/statuses/35014",
       "raw": {
         "creator": "",
@@ -976,7 +1097,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833519433918963",
         "guid": "https://www.trumpstruth.org/statuses/35014",
         "isoDate": "2026-01-03T22:27:34.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:17:05.301Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14081/426d9f1b1acb05c8.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34425",
@@ -1012,7 +1137,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833528674608330",
         "guid": "https://www.trumpstruth.org/statuses/34424",
         "isoDate": "2026-01-03T22:29:54.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13735/e5a10587ac45fb74.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35013",
@@ -1036,7 +1164,7 @@
       "id": "https://www.trumpstruth.org/statuses/35012",
       "publishedAt": "2026-01-03T22:30:56.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833532611005753</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833532611005753</span></p>\n\n[Image] The image features a tweet from the account Wall Street Apes, discussing comments made by Senator Trey Stewart. He claims that Democrats initiated kickback schemes during the Barack Obama administration, which have continued under the Biden administration and involve various Democratic governors. Stewart emphasizes that this system is designed for financial benefit among certain groups. He mentions Governor Walz and Governor Mills in his remarks.",
       "url": "https://www.trumpstruth.org/statuses/35012",
       "raw": {
         "creator": "",
@@ -1048,7 +1176,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833532611005753",
         "guid": "https://www.trumpstruth.org/statuses/35012",
         "isoDate": "2026-01-03T22:30:56.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:16:51.062Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14079/1876150dd052f912.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35011",
@@ -1072,7 +1204,7 @@
       "id": "https://www.trumpstruth.org/statuses/35010",
       "publishedAt": "2026-01-03T22:31:54.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833536533915176</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833536533915176</span></p>\n\n[Image] The image is a screenshot of a tweet by Bridgett Fertig, who is identified by her handle @LightOnLiberty. In the tweet, she questions whether Minnesota State Representative Melissa Hortman was murdered due to her opposition to alleged fraud involving illegal immigrants in Minnesota. Fertig claims that this fraud implicates specific groups and suggests a connection to corruption within the government. The tweet expresses a strong opinion on a controversial topic.",
       "url": "https://www.trumpstruth.org/statuses/35010",
       "raw": {
         "creator": "",
@@ -1084,7 +1216,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833536533915176",
         "guid": "https://www.trumpstruth.org/statuses/35010",
         "isoDate": "2026-01-03T22:31:54.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:16:48.944Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14077/084eef9039a6f23a.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35009",
@@ -1108,7 +1244,7 @@
       "id": "https://www.trumpstruth.org/statuses/35008",
       "publishedAt": "2026-01-03T22:33:24.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833542410700079</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833542410700079</span></p>\n\n[Image] The image is a tweet from Mila Joy discussing a financial figure of $93 billion related to the Department of Energy, which she claims was allocated after Donald Trump was elected but before he took office. She emphasizes that this amount pertains to non-qualified entities and suggests that people should be held accountable. She also mentions Senator Kennedy, implying he supports her point. The tweet reflects a critical stance on government spending.",
       "url": "https://www.trumpstruth.org/statuses/35008",
       "raw": {
         "creator": "",
@@ -1120,7 +1256,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833542410700079",
         "guid": "https://www.trumpstruth.org/statuses/35008",
         "isoDate": "2026-01-03T22:33:24.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:16:47.235Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14075/2a714c77506527d2.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34427",
@@ -1144,7 +1284,7 @@
       "id": "https://www.trumpstruth.org/statuses/34426",
       "publishedAt": "2026-01-03T22:34:54.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833546671458707</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833546671458707</span></p>\n\n[Image] The image features a tweet from Vince Langman, who is verified on Twitter. In the tweet, he mentions that citizens of Venezuela are celebrating freedom and expressing gratitude towards President Trump. He also comments that this situation will provoke reactions from \"the Panican's and the radical left.\" The tweet reflects a political sentiment regarding recent events in Venezuela and Trump's influence.",
       "url": "https://www.trumpstruth.org/statuses/34426",
       "raw": {
         "creator": "",
@@ -1156,7 +1296,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833546671458707",
         "guid": "https://www.trumpstruth.org/statuses/34426",
         "isoDate": "2026-01-03T22:34:54.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:16:42.297Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13737/5fe507c229c24b48.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35007",
@@ -1180,7 +1324,7 @@
       "id": "https://www.trumpstruth.org/statuses/35006",
       "publishedAt": "2026-01-03T22:35:40.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833551401004864</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833551401004864</span></p>\n\n[Image] The image features a tweet from Ethan Ray, who has a verified account. The tweet states, \"The best secretary of state we ever had,\" accompanied by an American flag emoji. There are no images or additional context provided in the tweet itself. The identity of the secretary of state being referenced is not specified in the text. The tweet reflects a positive sentiment towards a past official in that role.",
       "url": "https://www.trumpstruth.org/statuses/35006",
       "raw": {
         "creator": "",
@@ -1192,7 +1336,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833551401004864",
         "guid": "https://www.trumpstruth.org/statuses/35006",
         "isoDate": "2026-01-03T22:35:40.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:16:40.345Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14073/aa2b66b9cc81e357.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34429",
@@ -1216,7 +1364,7 @@
       "id": "https://www.trumpstruth.org/statuses/34428",
       "publishedAt": "2026-01-03T22:37:58.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833560215962217</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833560215962217</span></p>\n\n[Image] The image features a tweet from a user named Erica, who has a verified account. In the tweet, she discusses a Minnesota judge who allegedly threw out a unanimous guilty verdict in a $7 million Medicare fraud case. Erica questions the judge's integrity, asking who paid her and how much, expressing that the people of Minnesota should be outraged by the situation. The tweet reflects a critical stance on the judicial decision.",
       "url": "https://www.trumpstruth.org/statuses/34428",
       "raw": {
         "creator": "",
@@ -1228,7 +1376,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833560215962217",
         "guid": "https://www.trumpstruth.org/statuses/34428",
         "isoDate": "2026-01-03T22:37:58.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:16:35.301Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13739/03f3977015906d66.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35005",
@@ -1264,7 +1416,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833590937787294",
         "guid": "https://www.trumpstruth.org/statuses/35004",
         "isoDate": "2026-01-03T22:46:02.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14071/a8a3fc05a93dcd6b.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35003",
@@ -1779,6 +1934,5 @@
       "analyzedAt": "2026-09-06T06:30:30.643Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:73:e4f15e0a6ee488b13266d816",
-  "trendingName": "Nicolas Maduro"
+  "selfPraiseCacheKey": "self-praise-v1:73:e4f15e0a6ee488b13266d816"
 }

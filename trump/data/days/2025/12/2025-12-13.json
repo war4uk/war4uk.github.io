@@ -6,22 +6,23 @@
     "negative": 3
   },
   "summary": "positive:4 neutral:3 negative:3",
-  "generatedAt": "2026-09-06T06:43:54.141Z",
+  "generatedAt": "2026-09-07T14:50:15.831Z",
   "topics": [
-    "Shooting incident at Brown University with FBI involvement",
-    "Mourning the loss of three American Patriots in Syria",
-    "Support for Army-Navy Game and political commentary on Indiana Republicans"
+    "Criticizes Indiana State Senate Republicans for voting against House Majority",
+    "Mourns the loss of three American Patriots in Syria",
+    "Comments on the shooting incident at Brown University"
   ],
-  "trendingTopic": "Shooting incident at Brown University with FBI involvement",
+  "trendingTopic": "Criticizes Indiana State Senate Republicans for voting against House Majority",
   "secondaryHighlights": [
     {
-      "topic": "Mourning the loss of three American Patriots in Syria"
+      "topic": "Mourns the loss of three American Patriots in Syria"
     },
     {
-      "topic": "Support for Army-Navy Game and political commentary on Indiana Republicans"
+      "topic": "Comments on the shooting incident at Brown University"
     }
   ],
-  "selfPraiseCount": 3,
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:10:a38cb57ff76ede5bb5e02de0",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34215",
@@ -135,7 +136,7 @@
       "id": "https://www.trumpstruth.org/statuses/34222",
       "publishedAt": "2025-12-13T20:09:19.000Z",
       "title": "The new mirror and bronze lettering at the door to The West Wing, along The Presidential Walk of Fame!",
-      "text": "<p>The new mirror and bronze lettering at the door to The West Wing, along The Presidential Walk of Fame!</p>",
+      "text": "<p>The new mirror and bronze lettering at the door to The West Wing, along The Presidential Walk of Fame!</p>\n\n[Image] Donald Trump is standing in a hallway adorned with gold-framed portraits of various U.S. presidents, including himself and Barack Obama. He is wearing a dark suit with a red tie and has a serious expression. In the background, a reflection of another person can be seen, walking away. The decor features ornate gold accents, and the setting appears to be part of a formal building, likely the White House. The overall atmosphere is one of significance and history.",
       "url": "https://www.trumpstruth.org/statuses/34222",
       "raw": {
         "creator": "",
@@ -147,7 +148,11 @@
         "contentSnippet": "The new mirror and bronze lettering at the door to The West Wing, along The Presidential Walk of Fame!",
         "guid": "https://www.trumpstruth.org/statuses/34222",
         "isoDate": "2025-12-13T20:09:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:08:43.452Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13656/aab4823fa5c005f5.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34221",
@@ -266,5 +271,5 @@
       "analyzedAt": "2026-09-06T06:26:35.013Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:10:a38cb57ff76ede5bb5e02de0"
+  "selfPraiseCacheKey": "self-praise-v1:10:a38cb57ff76ede5bb5e02de0"
 }

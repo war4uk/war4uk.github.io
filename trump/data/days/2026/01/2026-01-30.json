@@ -6,24 +6,25 @@
     "negative": 1
   },
   "summary": "positive:5 neutral:3 negative:1",
-  "generatedAt": "2026-09-06T06:44:56.609Z",
+  "generatedAt": "2026-09-07T14:52:06.068Z",
   "topics": [
     "Nominates Kevin Warsh as Chairman of the Federal Reserve",
-    "Endorses Leigh Wambsganss for State Senate in Texas",
-    "Comments on Alex Pretti's recent behavior"
+    "Endorses Leigh Wambsganss for Texas State Senate",
+    "Critiques Alex Pretti's behavior towards ICE Officer"
   ],
   "trendingTopic": "Nominates Kevin Warsh as Chairman of the Federal Reserve",
   "trendingName": "Kevin Warsh",
   "secondaryHighlights": [
     {
-      "topic": "Endorses Leigh Wambsganss for State Senate in Texas",
+      "topic": "Endorses Leigh Wambsganss for Texas State Senate",
       "name": "Leigh Wambsganss"
     },
     {
-      "topic": "Comments on Alex Pretti's recent behavior"
+      "topic": "Critiques Alex Pretti's behavior towards ICE Officer"
     }
   ],
   "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v10:9:eda01d9fd39e1a0635fd1194",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36358",
@@ -244,5 +245,5 @@
       "analyzedAt": "2026-09-06T06:36:48.579Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:9:eda01d9fd39e1a0635fd1194"
+  "selfPraiseCacheKey": "self-praise-v1:9:eda01d9fd39e1a0635fd1194"
 }

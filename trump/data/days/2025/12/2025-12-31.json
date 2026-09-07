@@ -6,22 +6,23 @@
     "negative": 11
   },
   "summary": "positive:5 neutral:1 negative:11",
-  "generatedAt": "2026-09-06T06:44:14.852Z",
+  "generatedAt": "2026-09-07T14:50:55.869Z",
   "topics": [
-    "George and Amal Clooney become citizens of France amid crime issues",
-    "Concerns over Minnesota day care fraud linked to election policies",
-    "Criticism of Democratic voter ID policies and election integrity"
+    "Critiques of voter fraud and election integrity in Minnesota and California",
+    "Concerns over the exodus from California and Colorado due to poor governance",
+    "Comments on the removal of the National Guard from major cities"
   ],
-  "trendingTopic": "Concerns over Minnesota day care fraud linked to election policies",
+  "trendingTopic": "Critiques of voter fraud and election integrity in Minnesota and California",
   "secondaryHighlights": [
     {
-      "topic": "George and Amal Clooney become citizens of France amid crime issues"
+      "topic": "Concerns over the exodus from California and Colorado due to poor governance"
     },
     {
-      "topic": "Criticism of Democratic voter ID policies and election integrity"
+      "topic": "Comments on the removal of the National Guard from major cities"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:17:f91decd88d77b52ec5d09176",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34383",
@@ -434,5 +435,5 @@
       "analyzedAt": "2026-09-06T06:29:45.358Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:17:f91decd88d77b52ec5d09176"
+  "selfPraiseCacheKey": "self-praise-v1:17:f91decd88d77b52ec5d09176"
 }

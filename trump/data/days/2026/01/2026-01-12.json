@@ -6,23 +6,23 @@
     "negative": 3
   },
   "summary": "positive:4 neutral:3 negative:3",
-  "generatedAt": "2026-09-06T06:44:31.626Z",
+  "generatedAt": "2026-09-07T14:51:20.582Z",
   "topics": [
-    "Announces 25% Tariff on Countries Doing Business with Iran",
-    "Congestion Pricing in Manhattan Criticized as a Disaster",
-    "Congratulates Dina Powell McCormick on Becoming President of Meta"
+    "Federal prosecutors investigate NY AG Letitia James over campaign payments",
+    "Mortgage rates drop to three-year low following Trump intervention",
+    "Congestion Pricing in Manhattan criticized as a disaster"
   ],
-  "trendingTopic": "Announces 25% Tariff on Countries Doing Business with Iran",
+  "trendingTopic": "Federal prosecutors investigate NY AG Letitia James over campaign payments",
   "secondaryHighlights": [
     {
-      "topic": "Congestion Pricing in Manhattan Criticized as a Disaster"
+      "topic": "Mortgage rates drop to three-year low following Trump intervention"
     },
     {
-      "topic": "Congratulates Dina Powell McCormick on Becoming President of Meta",
-      "name": "Dina Powell McCormick"
+      "topic": "Congestion Pricing in Manhattan criticized as a disaster"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:10:9e456e410801eaab5ce5adb8",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34535",
@@ -46,7 +46,7 @@
       "id": "https://www.trumpstruth.org/statuses/34536",
       "publishedAt": "2026-01-12T01:23:11.000Z",
       "title": "[No Title] - Post from January 12, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump in an official portrait for 2025. He is depicted with a serious expression, wearing a dark suit and a red tie, with an American flag pin on his lapel. The text below identifies him as the Acting President of Venezuela, as well as the 45th and 47th President of the United States, with an assumed office date of January 20, 2025, and lists JD Vance as the Vice President.",
       "url": "https://www.trumpstruth.org/statuses/34536",
       "raw": {
         "creator": "",
@@ -58,7 +58,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34536",
         "isoDate": "2026-01-12T01:23:11.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:26:28.580Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13780/2a1f2c2ae567451a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34537",
@@ -267,5 +271,6 @@
       "analyzedAt": "2026-09-06T06:32:33.354Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:10:9e456e410801eaab5ce5adb8"
+  "trendingName": "Letitia James",
+  "selfPraiseCacheKey": "self-praise-v1:10:9e456e410801eaab5ce5adb8"
 }

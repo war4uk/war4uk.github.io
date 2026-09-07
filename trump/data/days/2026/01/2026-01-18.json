@@ -6,24 +6,25 @@
     "negative": 3
   },
   "summary": "positive:6 neutral:0 negative:3",
-  "generatedAt": "2026-09-06T06:44:39.998Z",
+  "generatedAt": "2026-09-07T14:51:35.790Z",
   "topics": [
-    "ICE removes violent criminals from the U.S. amid Minnesota's opposition",
-    "Julia Letlow considers Senate campaign in Louisiana",
-    "Barry Moore announces Senate run in Alabama"
+    "Concerns over the Army-Navy Game being overshadowed by College Playoff Games",
+    "Julia Letlow considering a Senate campaign in Louisiana",
+    "Barry Moore running for the United States Senate in Alabama"
   ],
-  "trendingTopic": "ICE removes violent criminals from the U.S. amid Minnesota's opposition",
+  "trendingTopic": "Concerns over the Army-Navy Game being overshadowed by College Playoff Games",
   "secondaryHighlights": [
     {
-      "topic": "Julia Letlow considers Senate campaign in Louisiana",
+      "topic": "Julia Letlow considering a Senate campaign in Louisiana",
       "name": "Julia Letlow"
     },
     {
-      "topic": "Barry Moore announces Senate run in Alabama",
+      "topic": "Barry Moore running for the United States Senate in Alabama",
       "name": "Barry Moore"
     }
   ],
-  "selfPraiseCount": 4,
+  "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v10:9:e33ff453d49f638e9d28fcc0",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34585",
@@ -244,5 +245,5 @@
       "analyzedAt": "2026-09-06T06:33:30.839Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:9:e33ff453d49f638e9d28fcc0"
+  "selfPraiseCacheKey": "self-praise-v1:9:e33ff453d49f638e9d28fcc0"
 }

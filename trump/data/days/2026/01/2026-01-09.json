@@ -6,29 +6,29 @@
     "negative": 1
   },
   "summary": "positive:5 neutral:12 negative:1",
-  "generatedAt": "2026-09-06T06:44:26.225Z",
+  "generatedAt": "2026-09-07T14:51:13.754Z",
   "topics": [
-    "Supports Megan Degenfelder's potential campaign for Governor of Wyoming",
-    "Comments on U.S. actions regarding Venezuela and oil",
-    "Critiques California leadership during wildfire crisis"
+    "Highlights job growth disparity between red and blue states based on recent economic data",
+    "Discusses Venezuela's release of political prisoners and cooperation with the U.S.",
+    "Announces upcoming meeting with Colombia's President Gustavo Petro"
   ],
-  "trendingTopic": "Supports Megan Degenfelder's potential campaign for Governor of Wyoming",
-  "trendingName": "Megan Degenfelder",
+  "trendingTopic": "Highlights job growth disparity between red and blue states based on recent economic data",
   "secondaryHighlights": [
     {
-      "topic": "Comments on U.S. actions regarding Venezuela and oil"
+      "topic": "Discusses Venezuela's release of political prisoners and cooperation with the U.S."
     },
     {
-      "topic": "Critiques California leadership during wildfire crisis"
+      "topic": "Announces upcoming meeting with Colombia's President Gustavo Petro"
     }
   ],
-  "selfPraiseCount": 1,
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v10:18:a18bd16a1657159fa74c4e6d",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34930",
       "publishedAt": "2026-01-09T01:20:16.000Z",
       "title": "[No Title] - Post from January 9, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image contains a slide titled \"Key Economic Takeaways\" from the Council of Economic Advisers. It outlines several points regarding job growth in states won by Donald Trump, stating they have added 11 times more jobs than those in left-leaning states. It discusses trends in housing and construction jobs, private sector wages, and forecasts for U.S. economic growth in the fourth quarter. The slide emphasizes the disparity in job gains and losses between red and blue states.",
       "url": "https://www.trumpstruth.org/statuses/34930",
       "raw": {
         "creator": "",
@@ -40,7 +40,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34930",
         "isoDate": "2026-01-09T01:20:16.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:24:33.728Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13999/d0eddce64b1da730.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34929",
@@ -58,7 +62,10 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34929",
         "isoDate": "2026-01-09T01:20:31.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13998/8bdbf44c49011c8e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34928",
@@ -76,13 +83,16 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34928",
         "isoDate": "2026-01-09T01:20:44.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13997/95d6c0000f52c4f6.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34927",
       "publishedAt": "2026-01-09T01:20:56.000Z",
       "title": "[No Title] - Post from January 9, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image presents a bar graph illustrating job creation trends since January. It shows that the private sector has added 654,000 jobs, while federal government jobs have decreased by 277,000, resulting in a net loss of 181,000 government jobs. The graph is labeled with \"More Private Sector Jobs\" and \"Fewer Government Jobs,\" and it cites sources from the Bureau of Labor Statistics and the Council of Economic Advisers.",
       "url": "https://www.trumpstruth.org/statuses/34927",
       "raw": {
         "creator": "",
@@ -94,13 +104,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34927",
         "isoDate": "2026-01-09T01:20:56.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:24:13.176Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13996/4646554422a778ab.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34492",
       "publishedAt": "2026-01-09T01:21:07.000Z",
       "title": "[No Title] - Post from January 9, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image presents a bar graph illustrating manufacturing productivity rates, labeled as \"Manufacturing productivity is booming since Trump took office.\" The graph shows seasonally adjusted annualized rates in percentage from Q1 2024 to Q3 2025. It indicates negative productivity rates in early 2024, with a notable increase projected in 2025, peaking at 3.5% in Q1 2025. The source of the data is the Bureau of Labor Statistics (BLS).",
       "url": "https://www.trumpstruth.org/statuses/34492",
       "raw": {
         "creator": "",
@@ -112,7 +126,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34492",
         "isoDate": "2026-01-09T01:21:07.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:24:11.472Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13769/c8512eef648387d0.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34493",
@@ -298,7 +316,7 @@
       "id": "https://www.trumpstruth.org/statuses/34502",
       "publishedAt": "2026-01-09T22:00:00.000Z",
       "title": "Art Laffer and Stephen Moore have written an incredible Book, “The Trump Economic Miracle: And the Plan to Unleash Prosperity Again.” In just under one year, thanks to our use of Tariffs, our Nation’s National and Economic Security is stronger than ever before. Trillions of Dollars of Investment (and Jobs!) are pouring into our Country, our Trade Deficit is reaching Record Lows, our Nation’s GDP is skyrocketing past 5%, and we’re just getting started. Art and Stephen understand the America First Policies required to save our Nation from ruin, and make it greater, richer, and stronger than ever before. Get your copy of this GREAT Book today. THE BEST IS YET TO COME!",
-      "text": "<p>Art Laffer and Stephen Moore have written an incredible Book, “The Trump Economic Miracle: And the Plan to Unleash Prosperity Again.” In just under one year, thanks to our use of Tariffs, our Nation’s National and Economic Security is stronger than ever before. Trillions of Dollars of Investment (and Jobs!) are pouring into our Country, our Trade Deficit is reaching Record Lows, our Nation’s GDP is skyrocketing past 5%, and we’re just getting started. Art and Stephen understand the America First Policies required to save our Nation from ruin, and make it greater, richer, and stronger than ever before. Get your copy of this GREAT Book today. THE BEST IS YET TO COME!<br/><a href=\"https://www.amazon.com/Trump-Economic-Miracle-Unleash-Prosperity/dp/B0DHWHBXSJ\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">amazon.com/Trump-Economic-Mira</span><span class=\"invisible\">cle-Unleash-Prosperity/dp/B0DHWHBXSJ</span></a></p>",
+      "text": "<p>Art Laffer and Stephen Moore have written an incredible Book, “The Trump Economic Miracle: And the Plan to Unleash Prosperity Again.” In just under one year, thanks to our use of Tariffs, our Nation’s National and Economic Security is stronger than ever before. Trillions of Dollars of Investment (and Jobs!) are pouring into our Country, our Trade Deficit is reaching Record Lows, our Nation’s GDP is skyrocketing past 5%, and we’re just getting started. Art and Stephen understand the America First Policies required to save our Nation from ruin, and make it greater, richer, and stronger than ever before. Get your copy of this GREAT Book today. THE BEST IS YET TO COME!<br/><a href=\"https://www.amazon.com/Trump-Economic-Miracle-Unleash-Prosperity/dp/B0DHWHBXSJ\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">amazon.com/Trump-Economic-Mira</span><span class=\"invisible\">cle-Unleash-Prosperity/dp/B0DHWHBXSJ</span></a></p>\n\n[Image] The image features a book cover titled \"The Trump Economic Miracle\" with a subtitle about unleashing prosperity again. Prominently displayed is Donald Trump, who is shown with a confident expression and a raised fist, symbolizing determination. The background includes bold red shapes, enhancing the visual impact. The authors, Arthur B. Laffer and Stephen Moore, are credited at the bottom, indicating a focus on economic themes related to Trump's policies.",
       "url": "https://www.trumpstruth.org/statuses/34502",
       "raw": {
         "creator": "",
@@ -310,7 +328,11 @@
         "contentSnippet": "Art Laffer and Stephen Moore have written an incredible Book, “The Trump Economic Miracle: And the Plan to Unleash Prosperity Again.” In just under one year, thanks to our use of Tariffs, our Nation’s National and Economic Security is stronger than ever before. Trillions of Dollars of Investment (and Jobs!) are pouring into our Country, our Trade Deficit is reaching Record Lows, our Nation’s GDP is skyrocketing past 5%, and we’re just getting started. Art and Stephen understand the America First Policies required to save our Nation from ruin, and make it greater, richer, and stronger than ever before. Get your copy of this GREAT Book today. THE BEST IS YET TO COME!\nhttps://www.amazon.com/Trump-Economic-Miracle-Unleash-Prosperity/dp/B0DHWHBXSJ",
         "guid": "https://www.trumpstruth.org/statuses/34502",
         "isoDate": "2026-01-09T22:00:00.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:24:01.652Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13771/9401520b5d2de657.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34503",
@@ -459,5 +481,5 @@
       "analyzedAt": "2026-09-06T06:31:57.693Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:18:a18bd16a1657159fa74c4e6d"
+  "selfPraiseCacheKey": "self-praise-v1:18:a18bd16a1657159fa74c4e6d"
 }

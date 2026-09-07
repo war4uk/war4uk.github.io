@@ -6,23 +6,23 @@
     "negative": 3
   },
   "summary": "positive:5 neutral:3 negative:3",
-  "generatedAt": "2026-09-06T06:43:56.431Z",
+  "generatedAt": "2026-09-07T14:50:20.131Z",
   "topics": [
-    "Remembers Rob Reiner and his contributions to film and comedy",
-    "Promotes Scott Jennings' new book",
-    "Critiques Democrats for economic issues and inflation"
+    "Critiques Biden's economic policies and highlights Trump's progress",
+    "Remembers Rob Reiner's legacy and impact on Hollywood",
+    "Promotes Scott Jennings' new book"
   ],
-  "trendingTopic": "Remembers Rob Reiner and his contributions to film and comedy",
+  "trendingTopic": "Critiques Biden's economic policies and highlights Trump's progress",
   "secondaryHighlights": [
     {
-      "topic": "Promotes Scott Jennings' new book",
-      "name": "Scott Jennings"
+      "topic": "Remembers Rob Reiner's legacy and impact on Hollywood"
     },
     {
-      "topic": "Critiques Democrats for economic issues and inflation"
+      "topic": "Promotes Scott Jennings' new book"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:11:08bf2da437883e4e4a5b91ff",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34228",
@@ -46,7 +46,7 @@
       "id": "https://www.trumpstruth.org/statuses/35182",
       "publishedAt": "2025-12-15T13:05:10.000Z",
       "title": "RT @IStandWithTrump47President Trump has turned the “Biden- Depression” into the #NewGoldenAge 🙌🙏🏻🇺🇸 Incredible!",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@IStandWithTrump47\" class=\"u-url mention\">@<span>IStandWithTrump47</span></a></span>President Trump has turned the “Biden- Depression” into the <a href=\"https://truthsocial.com/tags/NewGoldenAge\" class=\"mention hashtag\" rel=\"tag\">#<span>NewGoldenAge</span></a> 🙌🙏🏻🇺🇸 Incredible!</p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@IStandWithTrump47\" class=\"u-url mention\">@<span>IStandWithTrump47</span></a></span>President Trump has turned the “Biden- Depression” into the <a href=\"https://truthsocial.com/tags/NewGoldenAge\" class=\"mention hashtag\" rel=\"tag\">#<span>NewGoldenAge</span></a> 🙌🙏🏻🇺🇸 Incredible!</p>\n\n[Image] The image features bold white text on a black background that reads, \"JOE BIDEN'S PRESIDENCY WAS THE BIGGEST SCAM IN U.S. HISTORY!\" The statement expresses a strong opinion about Joe Biden's presidency, suggesting it is fraudulent. The use of capital letters emphasizes the message, and an exclamation mark at the end adds intensity. There are no images or additional elements present in the visual.",
       "url": "https://www.trumpstruth.org/statuses/35182",
       "raw": {
         "creator": "",
@@ -58,13 +58,17 @@
         "contentSnippet": "RT @IStandWithTrump47President Trump has turned the “Biden- Depression” into the #NewGoldenAge 🙌🙏🏻🇺🇸 Incredible!",
         "guid": "https://www.trumpstruth.org/statuses/35182",
         "isoDate": "2025-12-15T13:05:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:09:06.119Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14246/2d4b69aad962b51c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35180",
       "publishedAt": "2025-12-15T13:05:26.000Z",
       "title": "RT @IStandWithTrump47",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@IStandWithTrump47\" class=\"u-url mention\">@<span>IStandWithTrump47</span></a></span></p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@IStandWithTrump47\" class=\"u-url mention\">@<span>IStandWithTrump47</span></a></span></p>\n\n[Image] The image features Donald Trump seated and speaking on the phone, appearing to be in a private jet. He is holding papers in one hand and wearing a suit. A red \"Make America Great Again\" hat is visible in the foreground. The text overlay states that President Trump is trying hard to improve the country while suggesting that Democrats are working against him. The overall tone of the image is political and supportive of Trump.",
       "url": "https://www.trumpstruth.org/statuses/35180",
       "raw": {
         "creator": "",
@@ -76,7 +80,11 @@
         "contentSnippet": "RT @IStandWithTrump47",
         "guid": "https://www.trumpstruth.org/statuses/35180",
         "isoDate": "2025-12-15T13:05:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:09:03.855Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14245/114a9e1bc787558a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35178",
@@ -118,7 +126,7 @@
       "id": "https://www.trumpstruth.org/statuses/35174",
       "publishedAt": "2025-12-15T13:08:16.000Z",
       "title": "RT @SomethinG00D",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@SomethinG00D\" class=\"u-url mention\">@<span>SomethinG00D</span></a></span></p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@SomethinG00D\" class=\"u-url mention\">@<span>SomethinG00D</span></a></span></p>\n\n[Image] The image depicts a green dumpster labeled \"2020\" that is engulfed in flames. The flames are bright orange and yellow, creating a dramatic effect. This visual likely symbolizes the chaotic and challenging events of the year 2020, which included the COVID-19 pandemic, social unrest, and a contentious election. The imagery conveys a sense of frustration or discontent with the year as a whole.",
       "url": "https://www.trumpstruth.org/statuses/35174",
       "raw": {
         "creator": "",
@@ -130,13 +138,17 @@
         "contentSnippet": "RT @SomethinG00D",
         "guid": "https://www.trumpstruth.org/statuses/35174",
         "isoDate": "2025-12-15T13:08:16.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:08:59.364Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14244/a3c8d481256be374.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34232",
       "publishedAt": "2025-12-15T13:09:13.000Z",
       "title": "RT @DMcKin68",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@DMcKin68\" class=\"u-url mention\">@<span>DMcKin68</span></a></span></p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@DMcKin68\" class=\"u-url mention\">@<span>DMcKin68</span></a></span></p>\n\n[Image] The image features a quote criticizing the Biden administration, attributed to Mark Alexander. The text accuses the Biden/Harris regime of negatively impacting American consumers through inflation and suggests that Democrats are shifting blame for affordability issues onto Donald Trump. The design includes a portrait of Mark Alexander at the bottom, with his name prominently displayed. The overall tone is politically charged, reflecting a partisan viewpoint.",
       "url": "https://www.trumpstruth.org/statuses/34232",
       "raw": {
         "creator": "",
@@ -148,7 +160,11 @@
         "contentSnippet": "RT @DMcKin68",
         "guid": "https://www.trumpstruth.org/statuses/34232",
         "isoDate": "2025-12-15T13:09:13.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:08:56.585Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13660/28a897c587b583fa.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34230",
@@ -208,7 +224,7 @@
       "id": "https://www.trumpstruth.org/statuses/34237",
       "publishedAt": "2025-12-15T21:53:52.000Z",
       "title": "NEW RELEASE: Get your copy of Scott Jennings’ GREAT Book today:",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115567293174185547</span>NEW RELEASE: Get your copy of Scott Jennings’ GREAT Book today:<br/><a href=\"https://www.amazon.com/Revolution-Common-Sense-Washington-Civilization/dp/0063472171\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">amazon.com/Revolution-Common-S</span><span class=\"invisible\">ense-Washington-Civilization/dp/0063472171</span></a></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115567293174185547</span>NEW RELEASE: Get your copy of Scott Jennings’ GREAT Book today:<br/><a href=\"https://www.amazon.com/Revolution-Common-Sense-Washington-Civilization/dp/0063472171\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">amazon.com/Revolution-Common-S</span><span class=\"invisible\">ense-Washington-Civilization/dp/0063472171</span></a></p>\n\n[Image] The first image features Donald Trump seated at a desk in the Oval Office, smiling while holding a book titled \"A Revolution of Common Sense\" by Scott Jennings. Standing beside him is a man in a suit, also smiling. The background includes the U.S. flags and a statue of George Washington. The second image is the book cover, showing Trump walking down the steps of the White House, flanked by Marines, with the title and subtitle prominently displayed.",
       "url": "https://www.trumpstruth.org/statuses/34237",
       "raw": {
         "creator": "",
@@ -220,7 +236,12 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115567293174185547NEW RELEASE: Get your copy of Scott Jennings’ GREAT Book today:\nhttps://www.amazon.com/Revolution-Common-Sense-Washington-Civilization/dp/0063472171",
         "guid": "https://www.trumpstruth.org/statuses/34237",
         "isoDate": "2025-12-15T21:53:52.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:08:53.970Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13661/a9d7a68fbaf4d5d1.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13529/e7d4fce733dd0639.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -291,6 +312,5 @@
       "analyzedAt": "2026-09-06T06:26:51.700Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:11:08bf2da437883e4e4a5b91ff",
-  "trendingName": "Rob Reiner"
+  "selfPraiseCacheKey": "self-praise-v1:11:08bf2da437883e4e4a5b91ff"
 }

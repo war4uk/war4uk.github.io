@@ -6,12 +6,24 @@
     "negative": 2
   },
   "summary": "positive:6 neutral:2 negative:2",
-  "generatedAt": "2026-04-13T08:03:13.664Z",
+  "generatedAt": "2026-09-07T14:52:28.940Z",
   "topics": [
-    "Super Bowl Celebration",
-    "Stock Market and Tariffs",
-    "Election Integrity and Voter ID"
+    "Supports Nasry Asfura's campaign during meeting at Mar-a-Lago",
+    "Congratulates Sanae Takaichi on her coalition's victory",
+    "Comments on the Cricket World Cup and Team USA"
   ],
+  "trendingTopic": "Supports Nasry Asfura's campaign during meeting at Mar-a-Lago",
+  "trendingName": "Nasry Asfura",
+  "secondaryHighlights": [
+    {
+      "topic": "Congratulates Sanae Takaichi on her coalition's victory"
+    },
+    {
+      "topic": "Comments on the Cricket World Cup and Team USA"
+    }
+  ],
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:10:a0b56c4bbaf650c6eadd6432",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36599",
@@ -29,7 +41,10 @@
         "contentSnippet": "I had a very important meeting with my friend, and the President of Honduras, Nasry “Tito” Asfura, today at Mar-a-Lago in Palm Beach, Florida. It was my Great Honor to support Tito's Campaign. Once I gave him my strong\nEndorsement, he won his Election! Tito and I share many of the same America First Values. We have a close partnership on Security, working together to counter dangerous Cartels and Drug Traffickers, and deporting Illegal Migrants and Gang Members out of the United States. We discussed many other issues, including Investment and Trade between our two Countries. He loves the people of Honduras, and is focused on their Health, Well-being, Education, and Economic Prosperity. I look forward to welcoming President Asfura back to the United States. Tito: Congratulations on your Great Victory! PRESIDENT DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/36599",
         "isoDate": "2026-02-08T02:55:56.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15393/c627ea94ff2e0ec1.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36601",
@@ -89,7 +104,7 @@
       "id": "https://www.trumpstruth.org/statuses/36604",
       "publishedAt": "2026-02-08T15:42:46.000Z",
       "title": "I just heard the Cricket World Cup is underway in India! I wish the best of luck to TEAM USA! We have a very strong team. America is rooting for you!",
-      "text": "<p>I just heard the Cricket World Cup is underway in India! I wish the best of luck to TEAM USA! We have a very strong team. America is rooting for you!</p>",
+      "text": "<p>I just heard the Cricket World Cup is underway in India! I wish the best of luck to TEAM USA! We have a very strong team. America is rooting for you!</p>\n\n[Image] The image features a group of cricket players from the USA, posing together on the field during the ICC Men's T20 World Cup. They are wearing matching blue and red uniforms with \"USA\" printed on them. The background shows a packed stadium with spectators. A few individuals in formal attire are also present among the players, likely officials or team representatives. The atmosphere appears celebratory, reflecting the excitement of the tournament.",
       "url": "https://www.trumpstruth.org/statuses/36604",
       "raw": {
         "creator": "",
@@ -101,7 +116,11 @@
         "contentSnippet": "I just heard the Cricket World Cup is underway in India! I wish the best of luck to TEAM USA! We have a very strong team. America is rooting for you!",
         "guid": "https://www.trumpstruth.org/statuses/36604",
         "isoDate": "2026-02-08T15:42:46.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:47:15.023Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15394/b0a093e65fb63796.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36603",
@@ -199,75 +218,62 @@
       "postId": "https://www.trumpstruth.org/statuses/36599",
       "label": "positive",
       "rationale": "The message expresses honor and support for a political ally, highlighting shared values and a positive partnership.",
-      "analyzedAt": "2026-04-13T08:03:13.662Z"
+      "analyzedAt": "2026-09-06T06:50:42.313Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36600",
       "label": "neutral",
-      "rationale": "The message reports a poll result without expressing a clear positive or negative sentiment.",
-      "analyzedAt": "2026-04-13T08:03:13.662Z"
+      "rationale": "The message reports on a poll without expressing a clear positive or negative sentiment, remaining factual.",
+      "analyzedAt": "2026-09-06T06:50:42.313Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36601",
       "label": "neutral",
-      "rationale": "The text reports a legal ruling without expressing a clear positive or negative sentiment.",
-      "analyzedAt": "2026-04-13T08:03:13.662Z"
+      "rationale": "The text reports on a court ruling without expressing a clear positive or negative sentiment, remaining factual.",
+      "analyzedAt": "2026-09-06T06:50:42.313Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36602",
       "label": "negative",
       "rationale": "The text criticizes an Olympic skier harshly, expressing disappointment and negativity towards the individual.",
-      "analyzedAt": "2026-04-13T08:03:13.662Z"
+      "analyzedAt": "2026-09-06T06:50:42.313Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36603",
       "label": "negative",
       "rationale": "The message conveys a strong negative sentiment about elections being rigged and stolen, expressing urgency and concern for the country's future.",
-      "analyzedAt": "2026-04-13T08:03:13.662Z"
+      "analyzedAt": "2026-09-06T06:50:42.313Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36604",
       "label": "positive",
       "rationale": "The message expresses support and encouragement for the U.S. Olympic team, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:03:13.662Z"
+      "analyzedAt": "2026-09-06T06:50:42.313Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36605",
       "label": "positive",
       "rationale": "The text congratulates a political leader on a significant victory, expressing support and optimism for future success.",
-      "analyzedAt": "2026-04-13T08:03:13.662Z"
+      "analyzedAt": "2026-09-06T06:50:42.313Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36606",
       "label": "positive",
       "rationale": "The message expresses optimism and positivity about the Super Bowl and the state of the country, emphasizing strength and a hopeful future.",
-      "analyzedAt": "2026-04-13T08:03:13.662Z"
+      "analyzedAt": "2026-09-06T06:50:42.313Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36607",
       "label": "positive",
       "rationale": "The text highlights record achievements in the stock market and national security, projecting confidence in future success.",
-      "analyzedAt": "2026-04-13T08:03:13.662Z"
+      "analyzedAt": "2026-09-06T06:50:42.313Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36608",
       "label": "positive",
       "rationale": "The message praises individuals for their accomplishments, indicating admiration and positivity.",
-      "analyzedAt": "2026-04-13T08:03:13.662Z"
+      "analyzedAt": "2026-09-06T06:50:42.313Z"
     }
   ],
-  "trendingTopic": "U.S. Olympic Skier, Hunter Hess, a real Loser, says he doesn’t represent his Country in the current Winter Olympics.",
-  "selfPraiseCount": 0,
-  "trendingName": "Hunter Hess",
-  "secondaryHighlights": [
-    {
-      "topic": "Appeals court sides with Trump admin with mass detention ruling"
-    },
-    {
-      "topic": "Poll: Majority prefer Trump's immigration policies over Biden's"
-    },
-    {
-      "topic": "I just heard the Cricket World Cup is underway in India!"
-    }
-  ]
+  "selfPraiseCacheKey": "self-praise-v1:10:a0b56c4bbaf650c6eadd6432"
 }

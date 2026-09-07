@@ -6,18 +6,23 @@
     "negative": 3
   },
   "summary": "positive:3 neutral:94 negative:3",
-  "generatedAt": "2026-09-06T06:44:08.136Z",
+  "generatedAt": "2026-09-07T14:50:44.199Z",
   "topics": [
-    "Condemns individuals associated with Jeffrey Epstein on Christmas Day",
-    "Announces military strike against ISIS in Northwest Nigeria targeting Christians"
+    "Allegations of election fraud and misconduct in various states",
+    "Criticism of the Affordable Care Act and calls for healthcare reform",
+    "Donald Trump's economic performance compared to Joe Biden's"
   ],
-  "trendingTopic": "Announces military strike against ISIS in Northwest Nigeria targeting Christians",
+  "trendingTopic": "Allegations of election fraud and misconduct in various states",
   "secondaryHighlights": [
     {
-      "topic": "Condemns individuals associated with Jeffrey Epstein on Christmas Day"
+      "topic": "Criticism of the Affordable Care Act and calls for healthcare reform"
+    },
+    {
+      "topic": "Donald Trump's economic performance compared to Joe Biden's"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:100:276f5637b55dcb3fcae5ea15",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/35140",
@@ -41,7 +46,7 @@
       "id": "https://www.trumpstruth.org/statuses/35139",
       "publishedAt": "2025-12-25T05:33:55.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778572842051310</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778572842051310</span></p>\n\n[Image] The image features a tweet from a user named RealRobert, discussing Stephen Miller, who served as the United States Deputy Chief of Staff for Policy and Homeland Security Advisor. The tweet quotes Miller, alleging a conspiracy involving figures like James Comey, John Brennan, and Barack Obama to undermine the U.S. government. The message emphasizes claims about the \"Russiagate hoax\" and various alleged assaults on American liberties.",
       "url": "https://www.trumpstruth.org/statuses/35139",
       "raw": {
         "creator": "",
@@ -53,7 +58,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778572842051310",
         "guid": "https://www.trumpstruth.org/statuses/35139",
         "isoDate": "2025-12-25T05:33:55.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:13:56.918Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14211/fbb1044a36173f6c.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35138",
@@ -77,7 +86,7 @@
       "id": "https://www.trumpstruth.org/statuses/35137",
       "publishedAt": "2025-12-25T05:34:42.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778575983394525</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778575983394525</span></p>\n\n[Image] The image is a tweet from a user named MaggieWise, who has a verified account. The tweet discusses a claim of $94 million in fraud related to Obamacare, stating that deceased individuals are receiving payments. It criticizes Democrats for allegedly wanting to maintain this system and calls for reform, urging support for \"Trump's plan.\" The tweet reflects a political stance aligned with Donald Trump, emphasizing the need for changes in healthcare policy.",
       "url": "https://www.trumpstruth.org/statuses/35137",
       "raw": {
         "creator": "",
@@ -89,7 +98,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778575983394525",
         "guid": "https://www.trumpstruth.org/statuses/35137",
         "isoDate": "2025-12-25T05:34:42.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:13:53.170Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14209/d3c92a60cbbb0a26.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34323",
@@ -125,7 +138,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778578078563877",
         "guid": "https://www.trumpstruth.org/statuses/35136",
         "isoDate": "2025-12-25T05:35:13.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14208/c5993055658bb1e6.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35135",
@@ -149,7 +165,7 @@
       "id": "https://www.trumpstruth.org/statuses/35134",
       "publishedAt": "2025-12-25T05:35:44.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778580038684590</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778580038684590</span></p>\n\n[Image] The image features a tweet from a user named Sebastian, who has a verified account. The tweet expresses a critical opinion about \"elite Democrats,\" labeling them as hypocrites and suggesting they belong to the same social class. Accompanying the text are several emojis that convey anger and disapproval, including a frowning face, a devil face, and thumbs down. The overall tone of the tweet is negative towards the mentioned group.",
       "url": "https://www.trumpstruth.org/statuses/35134",
       "raw": {
         "creator": "",
@@ -161,7 +177,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778580038684590",
         "guid": "https://www.trumpstruth.org/statuses/35134",
         "isoDate": "2025-12-25T05:35:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:13:42.461Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14206/ea04cff33fbbd32c.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35133",
@@ -185,7 +205,7 @@
       "id": "https://www.trumpstruth.org/statuses/35132",
       "publishedAt": "2025-12-25T05:36:37.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778583422297223</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778583422297223</span></p>\n\n[Image] The image features a tweet from The SCIF account discussing President Trump targeting ActBlue, a Democratic fundraising platform. The tweet alleges that ActBlue is involved in election fraud, foreign involvement, and illegal campaign donations. It mentions that Trump has given the Department of Justice six months to produce a report on these claims. The tweet emphasizes the significance of this development and calls for ActBlue to be dismantled.",
       "url": "https://www.trumpstruth.org/statuses/35132",
       "raw": {
         "creator": "",
@@ -197,7 +217,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778583422297223",
         "guid": "https://www.trumpstruth.org/statuses/35132",
         "isoDate": "2025-12-25T05:36:37.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:13:40.766Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14204/afcd6577bb71ac2c.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34327",
@@ -233,7 +257,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778594988363844",
         "guid": "https://www.trumpstruth.org/statuses/35131",
         "isoDate": "2025-12-25T05:39:30.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14203/51cc7373d8f49396.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34325",
@@ -257,7 +284,7 @@
       "id": "https://www.trumpstruth.org/statuses/34324",
       "publishedAt": "2025-12-25T05:39:57.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778596639202404</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778596639202404</span></p>\n\n[Image] The image features a tweet from Rep. Claudia Tenney, who is identified by her profile picture and handle. In the tweet, she discusses Republican policies, emphasizing tax cuts, reducing regulations, and promoting American energy to lower costs and create jobs. She criticizes New York Democrats for allegedly raising taxes and increasing costs, suggesting they hinder progress for their constituents. The tweet reflects her political stance and messaging.",
       "url": "https://www.trumpstruth.org/statuses/34324",
       "raw": {
         "creator": "",
@@ -269,7 +296,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778596639202404",
         "guid": "https://www.trumpstruth.org/statuses/34324",
         "isoDate": "2025-12-25T05:39:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:13:31.849Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13684/8a4a33809c431a54.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35130",
@@ -293,7 +324,7 @@
       "id": "https://www.trumpstruth.org/statuses/35129",
       "publishedAt": "2025-12-25T05:40:41.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778599025665795</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778599025665795</span></p>\n\n[Image] The image features a tweet from Sami Nathaniel, who has a verified account. The tweet expresses support for Marco Rubio, stating, \"Good job Marco Rubio!!!\" There are no images or additional context provided in the tweet itself. The focus is on the positive acknowledgment of Rubio's actions or achievements, but the specific details of what he is being commended for are not included.",
       "url": "https://www.trumpstruth.org/statuses/35129",
       "raw": {
         "creator": "",
@@ -305,7 +336,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778599025665795",
         "guid": "https://www.trumpstruth.org/statuses/35129",
         "isoDate": "2025-12-25T05:40:41.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:13:29.510Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14201/94863c6f7ec1bbc8.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35122",
@@ -329,7 +364,7 @@
       "id": "https://www.trumpstruth.org/statuses/35128",
       "publishedAt": "2025-12-25T05:41:12.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778601424529510</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778601424529510</span></p>\n\n[Image] The image is a tweet from a user named Thê Thê, discussing Colorado's financial issues, including a $1 billion budget deficit, slow job growth, and housing shortages. It mentions the Trump administration's investigation into HUD fraud, highlighting concerns about ineligible recipients and misused taxpayer funds. The tweet also compares Colorado's situation to that of Minnesota under Governor Tim Walz, criticizing both states for lacking accountability in financial matters.",
       "url": "https://www.trumpstruth.org/statuses/35128",
       "raw": {
         "creator": "",
@@ -341,7 +376,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778601424529510",
         "guid": "https://www.trumpstruth.org/statuses/35128",
         "isoDate": "2025-12-25T05:41:12.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:13:27.291Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14200/82442df23fee34f5.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35124",
@@ -365,7 +404,7 @@
       "id": "https://www.trumpstruth.org/statuses/35127",
       "publishedAt": "2025-12-25T05:41:34.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778603096536572</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778603096536572</span></p>\n\n[Image] The image is a tweet from a user named @lakemonstercl1, featuring a profile picture of a man wearing sunglasses and a hat. The tweet expresses support for Roseanne Barr, stating she is \"speaking the truth\" and calls for the abolition of mail-in ballots, suggesting that issues may arise again if they remain in place. The tweet reflects a political stance regarding voting methods, particularly in the context of past elections.",
       "url": "https://www.trumpstruth.org/statuses/35127",
       "raw": {
         "creator": "",
@@ -377,7 +416,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778603096536572",
         "guid": "https://www.trumpstruth.org/statuses/35127",
         "isoDate": "2025-12-25T05:41:34.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:13:24.252Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14199/8111116f3fafd723.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35126",
@@ -401,7 +444,7 @@
       "id": "https://www.trumpstruth.org/statuses/35125",
       "publishedAt": "2025-12-25T05:42:00.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778604619699090</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778604619699090</span></p>\n\n[Image] The image is a tweet from the user @Chicago1Ray, discussing the certification of a contested election in Fulton County. The tweet claims that the election process was flawed, mentioning an evacuation of a polling center and allegations of ballot stuffing. It also references Donald Trump, stating he challenged the election results and was indicted, while asserting that he won Georgia by a significant margin. The tweet reflects a critical perspective on the election's integrity.",
       "url": "https://www.trumpstruth.org/statuses/35125",
       "raw": {
         "creator": "",
@@ -413,7 +456,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778604619699090",
         "guid": "https://www.trumpstruth.org/statuses/35125",
         "isoDate": "2025-12-25T05:42:00.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:13:19.553Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14197/7c834789f3cf4663.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35123",
@@ -491,7 +538,7 @@
       "id": "https://www.trumpstruth.org/statuses/35120",
       "publishedAt": "2025-12-25T05:50:53.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778636060609960</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778636060609960</span></p>\n\n[Image] The image features a tweet from a verified user named Sebastian, who has the handle @Azariel91. The tweet begins with the phrase \"Attention Democrats and progressive white allies:\" but does not provide further context or content. The background is simple, focusing on the text of the tweet. There are no images or additional elements present in the tweet itself.",
       "url": "https://www.trumpstruth.org/statuses/35120",
       "raw": {
         "creator": "",
@@ -503,7 +550,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778636060609960",
         "guid": "https://www.trumpstruth.org/statuses/35120",
         "isoDate": "2025-12-25T05:50:53.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:13:14.111Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14194/6d134ddceac00a6c.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35119",
@@ -527,7 +578,7 @@
       "id": "https://www.trumpstruth.org/statuses/35118",
       "publishedAt": "2025-12-25T05:51:42.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778641377291130</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778641377291130</span></p>\n\n[Image] The image features a tweet from the account \"A Man Of Memes,\" which discusses a cabinet meeting involving Homeland Security Secretary Kristi Noem and President Trump. The tweet claims that Noem stated half of all visa holders in Minnesota submitted \"fraudulent\" applications and criticizes Minnesota Governor Tim Walz. The tweet reflects a political commentary on immigration and governance.",
       "url": "https://www.trumpstruth.org/statuses/35118",
       "raw": {
         "creator": "",
@@ -539,7 +590,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778641377291130",
         "guid": "https://www.trumpstruth.org/statuses/35118",
         "isoDate": "2025-12-25T05:51:42.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:13:10.395Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14192/6dba477a9aa97a50.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35117",
@@ -563,7 +618,7 @@
       "id": "https://www.trumpstruth.org/statuses/35116",
       "publishedAt": "2025-12-25T05:52:18.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778644445259589</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778644445259589</span></p>\n\n[Image] The image is a screenshot of a tweet from a user named Caroline, who has a verified account. The tweet expresses enthusiasm for someone named Karoline, stating, \"Awesome karoline !!! Shes the best.\" There are no images or additional context provided in the tweet itself. The focus is on the positive sentiment towards Karoline, but no further details about her or the context of the tweet are included.",
       "url": "https://www.trumpstruth.org/statuses/35116",
       "raw": {
         "creator": "",
@@ -575,7 +630,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778644445259589",
         "guid": "https://www.trumpstruth.org/statuses/35116",
         "isoDate": "2025-12-25T05:52:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:13:03.016Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14190/27f12f5bea5a4899.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35115",
@@ -599,7 +658,7 @@
       "id": "https://www.trumpstruth.org/statuses/35114",
       "publishedAt": "2025-12-25T05:52:48.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778647199873730</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778647199873730</span></p>\n\n[Image] The image features a tweet from a user named Johnny Midnight, who expresses a critical opinion about Fani Willis, suggesting that she is attempting to advance her political career by targeting Donald Trump. The tweet characterizes her actions as indicative of a \"Corrupt Democrat.\" The text reflects a partisan viewpoint, highlighting the ongoing political tensions surrounding Trump and his legal challenges.",
       "url": "https://www.trumpstruth.org/statuses/35114",
       "raw": {
         "creator": "",
@@ -611,7 +670,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778647199873730",
         "guid": "https://www.trumpstruth.org/statuses/35114",
         "isoDate": "2025-12-25T05:52:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:13:01.260Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14188/378d0bfd5a737903.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35113",
@@ -635,7 +698,7 @@
       "id": "https://www.trumpstruth.org/statuses/35112",
       "publishedAt": "2025-12-25T05:53:24.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778649006380422</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778649006380422</span></p>\n\n[Image] The image features a tweet from Colton Moore, a state senator, discussing his stance on the 2020 election and his campaign for Congress. He emphasizes his efforts to address voter fraud in Georgia and criticizes the political establishment for ignoring these issues. The tweet includes a call to action for support in his campaign, directing followers to his website for contributions. The post reflects his commitment to confronting controversial political topics.",
       "url": "https://www.trumpstruth.org/statuses/35112",
       "raw": {
         "creator": "",
@@ -647,7 +710,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778649006380422",
         "guid": "https://www.trumpstruth.org/statuses/35112",
         "isoDate": "2025-12-25T05:53:24.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:12:53.964Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14186/fd4295af11a9e318.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34330",
@@ -671,7 +738,7 @@
       "id": "https://www.trumpstruth.org/statuses/34329",
       "publishedAt": "2025-12-25T05:53:57.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778651498555895</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778651498555895</span></p>\n\n[Image] The image features a tweet from Sami Nathaniel, who is verified on Twitter. In the tweet, he praises Karoline Leavitt, suggesting she effectively addresses \"fake news.\" The message is straightforward and expresses support for Leavitt's approach. There are no images or additional context provided in the tweet itself, focusing solely on the text and the interaction between the users.",
       "url": "https://www.trumpstruth.org/statuses/34329",
       "raw": {
         "creator": "",
@@ -683,7 +750,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778651498555895",
         "guid": "https://www.trumpstruth.org/statuses/34329",
         "isoDate": "2025-12-25T05:53:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:12:49.240Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13688/8a6e330d3b6dd8a7.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35111",
@@ -707,7 +778,7 @@
       "id": "https://www.trumpstruth.org/statuses/35110",
       "publishedAt": "2025-12-25T05:56:18.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778659846417183</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778659846417183</span></p>\n\n[Image] The image is a tweet from a user named Erica, who has a verified account. In the tweet, she addresses Pam Bondi, mentioning evidence related to the 2020 election. Erica calls for accountability and states that Barack Obama should be charged and prosecuted, emphasizing that this is not a request. The tweet includes mentions of other users, including Tulsi Gabbard and the DNI (Director of National Intelligence). The tone suggests a strong opinion on political accountability.",
       "url": "https://www.trumpstruth.org/statuses/35110",
       "raw": {
         "creator": "",
@@ -719,7 +790,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778659846417183",
         "guid": "https://www.trumpstruth.org/statuses/35110",
         "isoDate": "2025-12-25T05:56:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:12:44.642Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14184/2ac9d5e5cc69d47a.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35109",
@@ -773,7 +848,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778665075791255",
         "guid": "https://www.trumpstruth.org/statuses/35107",
         "isoDate": "2025-12-25T05:57:23.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14181/41b735a93131dde3.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35106",
@@ -797,7 +875,7 @@
       "id": "https://www.trumpstruth.org/statuses/35105",
       "publishedAt": "2025-12-25T05:57:53.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778667013629679</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778667013629679</span></p>\n\n[Image] The image features a tweet from the account Wall Street Apes discussing the Affordable Care Act, specifically criticizing its implementation and alleged fraud. It claims that a single Social Security number was used for multiple insurance policies, resulting in significant financial losses. The tweet mentions that 58,000 deceased individuals received benefits, raising concerns about oversight and accountability in the system. The tone is critical of government checks and Big Pharma's involvement.",
       "url": "https://www.trumpstruth.org/statuses/35105",
       "raw": {
         "creator": "",
@@ -809,7 +887,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778667013629679",
         "guid": "https://www.trumpstruth.org/statuses/35105",
         "isoDate": "2025-12-25T05:57:53.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:12:32.733Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14179/2b574044de48348b.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35104",
@@ -833,7 +915,7 @@
       "id": "https://www.trumpstruth.org/statuses/35103",
       "publishedAt": "2025-12-25T05:58:20.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778668835030119</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778668835030119</span></p>\n\n[Image] The image features a tweet from Vince Langman, who is verified on Twitter. In the tweet, he expresses a strong opinion about the Affordable Care Act, commonly known as Obamacare, stating that it is \"a complete disaster.\" There are no images or additional context provided in the tweet itself, just the text and Langman's profile picture.",
       "url": "https://www.trumpstruth.org/statuses/35103",
       "raw": {
         "creator": "",
@@ -845,7 +927,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778668835030119",
         "guid": "https://www.trumpstruth.org/statuses/35103",
         "isoDate": "2025-12-25T05:58:20.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:12:30.456Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14177/eba8baf7ee692d05.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35102",
@@ -869,7 +955,7 @@
       "id": "https://www.trumpstruth.org/statuses/35101",
       "publishedAt": "2025-12-25T05:58:44.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778670557856261</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778670557856261</span></p>\n\n[Image] The image features a tweet from the account @redpillb0t, which includes a statement from Donald Trump. In the tweet, Trump criticizes Nancy Pelosi for her substantial net worth compared to her salary, suggesting she should be scrutinized. The tweet also questions why Martha Stewart faced legal consequences for insider trading while Pelosi has not. The overall tone reflects a critical view of certain politicians.",
       "url": "https://www.trumpstruth.org/statuses/35101",
       "raw": {
         "creator": "",
@@ -881,7 +967,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778670557856261",
         "guid": "https://www.trumpstruth.org/statuses/35101",
         "isoDate": "2025-12-25T05:58:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:12:28.774Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14175/5b7cede6a128a4cb.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34332",
@@ -917,7 +1007,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778672773886558",
         "guid": "https://www.trumpstruth.org/statuses/34331",
         "isoDate": "2025-12-25T05:59:19.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13690/2597a47bccb4e9de.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35100",
@@ -941,7 +1034,7 @@
       "id": "https://www.trumpstruth.org/statuses/35099",
       "publishedAt": "2025-12-25T06:01:48.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778682549907588</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778682549907588</span></p>\n\n[Image] The image features a tweet from a user named Julie Donuts, who expresses strong sentiments regarding voting machines and allegations of government overthrow. The tweet includes phrases like \"DOMINION/SERBIA/VOTING MACHINES\" and asserts that those responsible will not escape accountability. Accompanying emojis convey frustration and determination. The overall tone suggests a focus on political issues related to election integrity and governance.",
       "url": "https://www.trumpstruth.org/statuses/35099",
       "raw": {
         "creator": "",
@@ -953,7 +1046,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778682549907588",
         "guid": "https://www.trumpstruth.org/statuses/35099",
         "isoDate": "2025-12-25T06:01:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:12:18.140Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14173/a25c2a19a3595a16.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35098",
@@ -977,7 +1074,7 @@
       "id": "https://www.trumpstruth.org/statuses/35097",
       "publishedAt": "2025-12-25T06:02:17.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778684555980272</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778684555980272</span></p>\n\n[Image] The image features a tweet from Eric Daugherty discussing allegations of up to $76.5 billion in fraudulent spending in California. He compares the situation to Minnesota, calling California the \"fraud capital of America.\" Daugherty mentions various state agencies and issues, including food stamp program mismanagement, COVID relief fund fraud, and infrastructure problems. He concludes with a strong statement about California's governance.",
       "url": "https://www.trumpstruth.org/statuses/35097",
       "raw": {
         "creator": "",
@@ -989,7 +1086,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778684555980272",
         "guid": "https://www.trumpstruth.org/statuses/35097",
         "isoDate": "2025-12-25T06:02:17.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:12:16.038Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14171/3730b45f85ace8bd.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35096",
@@ -1013,7 +1114,7 @@
       "id": "https://www.trumpstruth.org/statuses/35095",
       "publishedAt": "2025-12-25T06:02:50.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778686572490561</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778686572490561</span></p>\n\n[Image] The image is a screenshot of a tweet from the account @MAGA_X_Times, featuring a list of statements regarding legal matters involving Donald Trump and his associates. The statements include claims about the legality of actions taken at Mar-a-Lago, a phone call made by Trump, and the involvement of Rudy Giuliani, Fani Willis, and Jenna Ellis. Some statements are marked with checkmarks indicating agreement, while others are crossed out, indicating disagreement.",
       "url": "https://www.trumpstruth.org/statuses/35095",
       "raw": {
         "creator": "",
@@ -1025,7 +1126,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778686572490561",
         "guid": "https://www.trumpstruth.org/statuses/35095",
         "isoDate": "2025-12-25T06:02:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:12:12.192Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14169/a980936c97b0c538.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35094",
@@ -1049,7 +1154,7 @@
       "id": "https://www.trumpstruth.org/statuses/35093",
       "publishedAt": "2025-12-25T06:03:22.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778688581006735</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778688581006735</span></p>\n\n[Image] The image features a tweet from a user named Trump Girl, who has a verified account. The tweet expresses a belief that the election was \"STOLEN\" and states that President Trump was correct. The user is wearing a red hat, likely associated with Donald Trump's campaign. The message reflects a sentiment commonly found among some of Trump's supporters regarding the legitimacy of the election results.",
       "url": "https://www.trumpstruth.org/statuses/35093",
       "raw": {
         "creator": "",
@@ -1061,7 +1166,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778688581006735",
         "guid": "https://www.trumpstruth.org/statuses/35093",
         "isoDate": "2025-12-25T06:03:22.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:12:04.930Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14167/00b7aed9c4f77595.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35092",
@@ -1085,7 +1194,7 @@
       "id": "https://www.trumpstruth.org/statuses/35091",
       "publishedAt": "2025-12-25T06:03:57.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778690709770144</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778690709770144</span></p>\n\n[Image] The image is a tweet from a user named JamieR, who expresses strong opinions about Ruby Freeman, alleging misconduct related to ballot counting in Fulton County. The tweet claims that Freeman was caught on camera committing fraud and criticizes President Biden for awarding her a \"Citizens Medal.\" The user also mentions Rudy Giuliani, suggesting he was correct in his assertions. The tone is accusatory and reflects a partisan viewpoint.",
       "url": "https://www.trumpstruth.org/statuses/35091",
       "raw": {
         "creator": "",
@@ -1097,7 +1206,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778690709770144",
         "guid": "https://www.trumpstruth.org/statuses/35091",
         "isoDate": "2025-12-25T06:03:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:12:02.975Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14165/c55a4b1208c1026d.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35090",
@@ -1121,7 +1234,7 @@
       "id": "https://www.trumpstruth.org/statuses/35089",
       "publishedAt": "2025-12-25T06:04:29.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778692737114852</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778692737114852</span></p>\n\n[Image] The image features a tweet from the account \"TRUTH TELLER,\" which includes a verified blue checkmark. The text reads, \"Merry Christmas America from Donald Trump and Team Maga,\" accompanied by an American flag emoji. The tweet conveys a holiday message attributed to Donald Trump and his supporters, emphasizing a festive greeting. The overall tone is celebratory, reflecting a political and cultural sentiment associated with Trump's base.",
       "url": "https://www.trumpstruth.org/statuses/35089",
       "raw": {
         "creator": "",
@@ -1133,7 +1246,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778692737114852",
         "guid": "https://www.trumpstruth.org/statuses/35089",
         "isoDate": "2025-12-25T06:04:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:11:58.415Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14163/17d13227d7ccb4f1.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34334",
@@ -1157,7 +1274,7 @@
       "id": "https://www.trumpstruth.org/statuses/34333",
       "publishedAt": "2025-12-25T06:04:58.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778694936771888</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778694936771888</span></p>\n\n[Image] The image features a tweet from the account @RWB_American, which includes a message praising Tom Homan for his work with ICE. The tweet describes Homan as a straightforward individual whose efforts are contributing to the agency's success in deporting undocumented immigrants. It concludes with a holiday greeting, wishing Homan a Merry Christmas. The tweet is accompanied by a verified badge, indicating the account's authenticity.",
       "url": "https://www.trumpstruth.org/statuses/34333",
       "raw": {
         "creator": "",
@@ -1169,7 +1286,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778694936771888",
         "guid": "https://www.trumpstruth.org/statuses/34333",
         "isoDate": "2025-12-25T06:04:58.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:11:54.390Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13692/c7d2cb4ceee2d847.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35088",
@@ -1205,7 +1326,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778696925387181",
         "guid": "https://www.trumpstruth.org/statuses/35087",
         "isoDate": "2025-12-25T06:05:24.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14161/e0b6f41e74cf9789.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35086",
@@ -1229,7 +1353,7 @@
       "id": "https://www.trumpstruth.org/statuses/35085",
       "publishedAt": "2025-12-25T06:09:48.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778713746344564</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778713746344564</span></p>\n\n[Image] The image features a tweet from a fan account named \"Charlie’s Voice Rising,\" discussing alleged corruption involving $2.3 billion sent to Los Angeles County over four years, which reportedly has no records or answers. It mentions U.S. Attorney Bill Essyali, who has indicated that investigations are ongoing, with two indictments already made. The tweet emphasizes the need for oversight and accountability regarding the misuse of funds intended to combat homelessness.",
       "url": "https://www.trumpstruth.org/statuses/35085",
       "raw": {
         "creator": "",
@@ -1241,7 +1365,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778713746344564",
         "guid": "https://www.trumpstruth.org/statuses/35085",
         "isoDate": "2025-12-25T06:09:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:11:40.323Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14159/b30c24d0de6cded2.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34335",
@@ -1265,7 +1393,7 @@
       "id": "https://www.trumpstruth.org/statuses/35084",
       "publishedAt": "2025-12-25T06:10:22.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778715628906112</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778715628906112</span></p>\n\n[Image] The image is a tweet from Eric Daugherty, featuring a statement about a Fulton election official who testified under oath regarding military absentee ballots in the 2020 election. The tweet claims that the official saw 100% of these ballots go to Joe Biden and mentions that Fulton has admitted to hundreds of thousands of ballots being illegally counted. The tone suggests a critique of conspiracy theories related to the election.",
       "url": "https://www.trumpstruth.org/statuses/35084",
       "raw": {
         "creator": "",
@@ -1277,7 +1405,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778715628906112",
         "guid": "https://www.trumpstruth.org/statuses/35084",
         "isoDate": "2025-12-25T06:10:22.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:11:38.408Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14158/118c94c4b0d95f05.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35083",
@@ -1301,7 +1433,7 @@
       "id": "https://www.trumpstruth.org/statuses/35082",
       "publishedAt": "2025-12-25T06:10:57.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778718352842271</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778718352842271</span></p>\n\n[Image] The image features a tweet from the account Wall Street Apes discussing alleged irregularities in Michigan's voter registration process ahead of the 2024 election. It claims that Michigan has 500,000 more registered voters than voting-age adults and questions the increase of 750,000 new voters found by Secretary of State Jocelyn Benson. The tweet mentions the use of a system called ERIC for voter registration and highlights concerns about transparency in the process.",
       "url": "https://www.trumpstruth.org/statuses/35082",
       "raw": {
         "creator": "",
@@ -1313,7 +1445,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778718352842271",
         "guid": "https://www.trumpstruth.org/statuses/35082",
         "isoDate": "2025-12-25T06:10:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:11:31.652Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14156/946adbc57145980b.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35081",
@@ -1349,7 +1485,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778720750810683",
         "guid": "https://www.trumpstruth.org/statuses/35080",
         "isoDate": "2025-12-25T06:11:31.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14154/9dd271053974e7ab.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35079",
@@ -1373,7 +1512,7 @@
       "id": "https://www.trumpstruth.org/statuses/35078",
       "publishedAt": "2025-12-25T06:12:24.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778722819007127</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778722819007127</span></p>\n\n[Image] The image is a tweet from Eric Daugherty, featuring a statement about a situation in Minnesota involving homes purchased by Somalis. Daugherty expresses outrage, claiming that these homes are left empty while the state is billed millions annually. He mentions that 455 homes have been confirmed in this context and describes the situation as infuriating, suggesting it is a scheme to exploit Minnesota taxpayers.",
       "url": "https://www.trumpstruth.org/statuses/35078",
       "raw": {
         "creator": "",
@@ -1385,7 +1524,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778722819007127",
         "guid": "https://www.trumpstruth.org/statuses/35078",
         "isoDate": "2025-12-25T06:12:24.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:11:20.631Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14152/5294663cf8f78d7e.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35077",
@@ -1409,7 +1552,7 @@
       "id": "https://www.trumpstruth.org/statuses/35076",
       "publishedAt": "2025-12-25T06:12:50.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778725810620003</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778725810620003</span></p>\n\n[Image] The text discusses Donald Trump directing the Justice Department to investigate the Democratic fundraising platform ActBlue. It mentions that Trump is giving the DOJ six months to report on allegations that Democrats are using ActBlue to bypass campaign finance laws and accept foreign contributions. The memo emphasizes concerns about illegal straw donors and the potential influence of foreign money on elections, highlighting ActBlue's significant fundraising since 2004.",
       "url": "https://www.trumpstruth.org/statuses/35076",
       "raw": {
         "creator": "",
@@ -1421,7 +1564,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778725810620003",
         "guid": "https://www.trumpstruth.org/statuses/35076",
         "isoDate": "2025-12-25T06:12:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:11:18.865Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14150/08f56c0fb4f9f611.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35075",
@@ -1445,7 +1592,7 @@
       "id": "https://www.trumpstruth.org/statuses/35074",
       "publishedAt": "2025-12-25T06:13:14.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778727549815214</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778727549815214</span></p>\n\n[Image] The image features a tweet from Karoline Leavitt, identified as a parody account. The tweet claims that Rep. Comer has revealed that 75% of Somalis in Minnesota are on welfare, quoting him directly. It poses a provocative question about deportation, offering two options for response: \"Absolutely yes\" or \"No.\" The tweet is presented with an alert symbol, emphasizing its controversial nature.",
       "url": "https://www.trumpstruth.org/statuses/35074",
       "raw": {
         "creator": "",
@@ -1457,7 +1604,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778727549815214",
         "guid": "https://www.trumpstruth.org/statuses/35074",
         "isoDate": "2025-12-25T06:13:14.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:11:11.515Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14148/a752e2200cf065d0.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35073",
@@ -1481,7 +1632,7 @@
       "id": "https://www.trumpstruth.org/statuses/35072",
       "publishedAt": "2025-12-25T06:13:54.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778730021385271</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778730021385271</span></p>\n\n[Image] The image features a tweet from Eric Daugherty, highlighting comments made by Commerce Secretary Howard Lutnick regarding economic growth. Lutnick compares the economic performance of the United Kingdom, European Union, and Japan to that of Donald Trump's economy, which he claims grew by 4.3%. The tweet emphasizes the positive implications for American earnings, job growth, and lower costs, concluding with a festive note about the upcoming Christmas season.",
       "url": "https://www.trumpstruth.org/statuses/35072",
       "raw": {
         "creator": "",
@@ -1493,7 +1644,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778730021385271",
         "guid": "https://www.trumpstruth.org/statuses/35072",
         "isoDate": "2025-12-25T06:13:54.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:11:03.415Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14146/e2d92177bcd0b6cf.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34337",
@@ -1517,7 +1672,7 @@
       "id": "https://www.trumpstruth.org/statuses/34336",
       "publishedAt": "2025-12-25T06:15:00.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778734057730784</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778734057730784</span></p>\n\n[Image] The image features a tweet from Bill Mitchell discussing issues related to the 2020 election in Fulton County. He highlights concerns about poll workers and the certification of ballots without signatures, mentioning a lawsuit by the Department of Justice. The tweet emphasizes public anxiety over election integrity, citing a study indicating that 78% of respondents are worried about unsigned ballots. The tone is urgent, calling for accountability in the electoral process.",
       "url": "https://www.trumpstruth.org/statuses/34336",
       "raw": {
         "creator": "",
@@ -1529,7 +1684,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778734057730784",
         "guid": "https://www.trumpstruth.org/statuses/34336",
         "isoDate": "2025-12-25T06:15:00.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:10:55.867Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13695/719a5d356b67967d.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34339",
@@ -1553,7 +1712,7 @@
       "id": "https://www.trumpstruth.org/statuses/34338",
       "publishedAt": "2025-12-25T06:15:25.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778736168364585</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778736168364585</span></p>\n\n[Image] The image features a tweet from the account Rapid Response 47, quoting Mark Tepper. In the quote, Tepper discusses recent economic growth, noting that it exceeded expectations, coming in at 4.3% instead of the anticipated 3.3%. He attributes this growth to the policies implemented by the current President, referred to as @POTUS. The tweet emphasizes the positive economic indicators and their implications.",
       "url": "https://www.trumpstruth.org/statuses/34338",
       "raw": {
         "creator": "",
@@ -1565,7 +1724,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778736168364585",
         "guid": "https://www.trumpstruth.org/statuses/34338",
         "isoDate": "2025-12-25T06:15:25.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:10:51.908Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13697/7462cb7c8a8a7627.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35071",
@@ -1607,7 +1770,7 @@
       "id": "https://www.trumpstruth.org/statuses/35069",
       "publishedAt": "2025-12-25T20:52:29.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115782185027062947</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115782185027062947</span></p>\n\n[Image] The image features a tweet from Johnny Midnight, who has a verified account. The tweet discusses California's financial situation, suggesting that if the public were to scrutinize it, it could make Governor Gavin Newsom appear foolish and potentially lead to legal consequences for him. The tone is critical, implying dissatisfaction with Newsom's handling of state finances. There are no images or additional visual elements provided in the tweet.",
       "url": "https://www.trumpstruth.org/statuses/35069",
       "raw": {
         "creator": "",
@@ -1619,13 +1782,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115782185027062947",
         "guid": "https://www.trumpstruth.org/statuses/35069",
         "isoDate": "2025-12-25T20:52:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:10:46.677Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14143/9e63db188df1da17.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34340",
       "publishedAt": "2025-12-25T20:52:55.000Z",
       "title": "Trump's 79% Increase in GDP Growth Rate — 5 Ways He Did It:",
-      "text": "<p>Trump's 79% Increase in GDP Growth Rate — 5 Ways He Did It: <a href=\"https://www.newsmax.com/politics/donald-trump-gdp-growth/2025/12/25/id/1239654/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/politics/donald-tr</span><span class=\"invisible\">ump-gdp-growth/2025/12/25/id/1239654/</span></a></p>",
+      "text": "<p>Trump's 79% Increase in GDP Growth Rate — 5 Ways He Did It: <a href=\"https://www.newsmax.com/politics/donald-trump-gdp-growth/2025/12/25/id/1239654/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/politics/donald-tr</span><span class=\"invisible\">ump-gdp-growth/2025/12/25/id/1239654/</span></a></p>\n\n[Image] The image compares GDP growth rates between Joe Biden and Donald Trump. It shows Biden's projected GDP growth of 2.4% for Q4 2024, while Trump's projected growth for Q3 2025 is 4.3%. An upward arrow indicates a 79% increase, suggesting a comparison of economic performance. Biden is depicted with a blue background, while Trump is shown with a red background, emphasizing the political divide. The graphic is likely aimed at highlighting economic differences between the two administrations.",
       "url": "https://www.trumpstruth.org/statuses/34340",
       "raw": {
         "creator": "",
@@ -1637,7 +1804,11 @@
         "contentSnippet": "Trump's 79% Increase in GDP Growth Rate — 5 Ways He Did It: https://www.newsmax.com/politics/donald-trump-gdp-growth/2025/12/25/id/1239654/",
         "guid": "https://www.trumpstruth.org/statuses/34340",
         "isoDate": "2025-12-25T20:52:55.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:10:42.667Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13699/aaf5b7a8ba622486.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35068",
@@ -1661,7 +1832,7 @@
       "id": "https://www.trumpstruth.org/statuses/35067",
       "publishedAt": "2025-12-25T20:56:24.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115782200419465450</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115782200419465450</span></p>\n\n[Image] The image features a tweet from Sami Nathaniel, who is verified on Twitter. The text reads, \"America is for American again!!!\" The tweet expresses a sentiment related to American identity or nationalism. There are no images or additional context provided in the tweet itself. The overall tone suggests a strong patriotic message, but without further context, the specific intent or audience is unclear.",
       "url": "https://www.trumpstruth.org/statuses/35067",
       "raw": {
         "creator": "",
@@ -1673,7 +1844,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115782200419465450",
         "guid": "https://www.trumpstruth.org/statuses/35067",
         "isoDate": "2025-12-25T20:56:24.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:10:37.929Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14141/2c9f45bb5ce96c90.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35066",
@@ -1697,7 +1872,7 @@
       "id": "https://www.trumpstruth.org/statuses/35065",
       "publishedAt": "2025-12-25T20:56:52.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115782202206500080</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115782202206500080</span></p>\n\n[Image] The image features a tweet from a user named RealRobert, discussing allegations of election fraud related to U.S. military ballots from November 3, 2020. The tweet includes a quote from a poll watcher claiming that only Joe Biden's name was selected on the ballots observed, with none for Donald Trump. The post concludes with a statement asserting that the 2020 election was not legitimate, labeling it a \"treasonous conspiracy.\"",
       "url": "https://www.trumpstruth.org/statuses/35065",
       "raw": {
         "creator": "",
@@ -1709,7 +1884,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115782202206500080",
         "guid": "https://www.trumpstruth.org/statuses/35065",
         "isoDate": "2025-12-25T20:56:52.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:10:30.922Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14139/bd44430021e31fd9.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35064",
@@ -1733,7 +1912,7 @@
       "id": "https://www.trumpstruth.org/statuses/35063",
       "publishedAt": "2025-12-25T20:58:39.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115782209190075395</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115782209190075395</span></p>\n\n[Image] The image is a tweet from a user with the handle @lakemonstercl1, who identifies as \"Steve2A\" and emphasizes themes of God, family, and country. The tweet expresses agreement with someone named Andy, advocating for the removal of \"RINOs\" (Republicans In Name Only) from the administration, suggesting that failure to do so will lead to ongoing betrayal. The tweet features a strong emotional tone, indicated by the use of emojis and bold text.",
       "url": "https://www.trumpstruth.org/statuses/35063",
       "raw": {
         "creator": "",
@@ -1745,7 +1924,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115782209190075395",
         "guid": "https://www.trumpstruth.org/statuses/35063",
         "isoDate": "2025-12-25T20:58:39.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:10:26.313Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14137/b3c70f32d87d6335.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34342",
@@ -1769,7 +1952,7 @@
       "id": "https://www.trumpstruth.org/statuses/34341",
       "publishedAt": "2025-12-25T20:59:08.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115782210942962911</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115782210942962911</span></p>\n\n[Image] The image is a tweet from the account \"One Bad Dude,\" featuring a profile picture of a person wearing a red \"Make America Great Again\" hat. The tweet discusses perceived election fraud in blue states, specifically mentioning Minnesota and California. It expresses skepticism about the integrity of elections and suggests that these states are robbing people of their freedoms and money. The tone is critical of Democratic governance and implies a conspiracy regarding election integrity.",
       "url": "https://www.trumpstruth.org/statuses/34341",
       "raw": {
         "creator": "",
@@ -1781,7 +1964,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115782210942962911",
         "guid": "https://www.trumpstruth.org/statuses/34341",
         "isoDate": "2025-12-25T20:59:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:10:23.403Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13700/ea6f5063f49c54da.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34343",
@@ -2422,5 +2609,5 @@
       "analyzedAt": "2026-09-06T06:28:50.859Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:100:276f5637b55dcb3fcae5ea15"
+  "selfPraiseCacheKey": "self-praise-v1:100:276f5637b55dcb3fcae5ea15"
 }

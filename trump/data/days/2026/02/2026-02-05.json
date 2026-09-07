@@ -6,12 +6,23 @@
     "negative": 3
   },
   "summary": "positive:20 neutral:22 negative:3",
-  "generatedAt": "2026-04-13T08:00:31.339Z",
+  "generatedAt": "2026-09-07T14:52:22.059Z",
   "topics": [
-    "Election Integrity and Voter ID",
-    "Endorsements for Congressional Candidates",
-    "National Security and Military Strength"
+    "Endorses multiple America First candidates in Congressional races across various states",
+    "Discusses the importance of the SAVE America Act and election integrity",
+    "Highlights discussions with international leaders and military strategy"
   ],
+  "trendingTopic": "Endorses multiple America First candidates in Congressional races across various states",
+  "secondaryHighlights": [
+    {
+      "topic": "Discusses the importance of the SAVE America Act and election integrity"
+    },
+    {
+      "topic": "Highlights discussions with international leaders and military strategy"
+    }
+  ],
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:45:f78ceb0f62ebf28757d3e7fd",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36451",
@@ -407,13 +418,16 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36474",
         "isoDate": "2026-02-05T06:06:33.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15298/2e644243f0d28519.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36473",
       "publishedAt": "2026-02-05T06:07:23.000Z",
       "title": "[No Title] - Post from February 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116016519138654706</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116016519138654706</span></p>\n\n[Image] The image features a tweet from Senator Ashley Moody, identified by her handle @SenAshleyMoody. In the tweet, she calls for a return to tradition and urges debate on what she describes as the most pressing issue facing the country, advocating for the passage of the SAVE America Act. The tweet includes a hand gesture emoji and an American flag emoji, indicating her patriotic stance. It was posted at 10:07 AM on February 4, 2026, and has garnered 188,000 views.",
       "url": "https://www.trumpstruth.org/statuses/36473",
       "raw": {
         "creator": "",
@@ -425,13 +439,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116016519138654706",
         "guid": "https://www.trumpstruth.org/statuses/36473",
         "isoDate": "2026-02-05T06:07:23.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:43:32.074Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15298/2e644243f0d28519.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36472",
       "publishedAt": "2026-02-05T06:07:44.000Z",
       "title": "[No Title] - Post from February 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116016522427379373</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116016522427379373</span></p>\n\n[Image] The images feature tweets from Mike Lee and Ashley Moody, both prominent political figures. Mike Lee's tweet discusses the need to return to Senate traditions, emphasizing the requirement for senators to speak during filibusters and advocating for the passage of the SAVE America Act. Ashley Moody's tweet echoes this sentiment, calling for a return to tradition and urging debate on pressing issues, also supporting the SAVE America Act. Both tweets reflect their political priorities.",
       "url": "https://www.trumpstruth.org/statuses/36472",
       "raw": {
         "creator": "",
@@ -443,7 +461,12 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116016522427379373",
         "guid": "https://www.trumpstruth.org/statuses/36472",
         "isoDate": "2026-02-05T06:07:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:43:30.283Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15296/c21810e6be62afef.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15298/2e644243f0d28519.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36483",
@@ -467,7 +490,7 @@
       "id": "https://www.trumpstruth.org/statuses/36482",
       "publishedAt": "2026-02-05T11:05:55.000Z",
       "title": "[No Title] - Post from February 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116017695134870674</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116017695134870674</span></p>\n\n[Image] The image features a tweet from the account @ElectionWiz, which includes a quote from Senator Tuberville. In the quote, Tuberville expresses a desire to eliminate voting machines, claiming that several individuals in the House and Senate were not legitimately elected and stating, \"We've seen the evidence.\" The tweet reflects ongoing discussions about election integrity and voting processes in the United States.",
       "url": "https://www.trumpstruth.org/statuses/36482",
       "raw": {
         "creator": "",
@@ -479,7 +502,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116017695134870674",
         "guid": "https://www.trumpstruth.org/statuses/36482",
         "isoDate": "2026-02-05T11:05:55.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:43:25.303Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15305/5f73fb1cf476f16e.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36481",
@@ -515,7 +542,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116017697075556610",
         "guid": "https://www.trumpstruth.org/statuses/36480",
         "isoDate": "2026-02-05T11:06:20.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15303/86f7499b5fe19821.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36479",
@@ -539,7 +569,7 @@
       "id": "https://www.trumpstruth.org/statuses/36478",
       "publishedAt": "2026-02-05T11:06:44.000Z",
       "title": "[No Title] - Post from February 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116017698703982666</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116017698703982666</span></p>\n\n[Image] The image features a tweet from Bill Mitchell, who discusses economic growth under Donald Trump. He claims that the GDP has reached an annualized growth rate of 5.3% in Q4 2025, surpassing China's growth of 4.5%. Mitchell expresses enthusiasm for Trump's economic policies, encouraging support from his followers. He emphasizes the positive impact of these policies on job creation and inflation control, inviting engagement from verified MAGA accounts.",
       "url": "https://www.trumpstruth.org/statuses/36478",
       "raw": {
         "creator": "",
@@ -551,7 +581,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116017698703982666",
         "guid": "https://www.trumpstruth.org/statuses/36478",
         "isoDate": "2026-02-05T11:06:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:43:14.757Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15301/f38271af1e49499b.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36477",
@@ -575,7 +609,7 @@
       "id": "https://www.trumpstruth.org/statuses/36476",
       "publishedAt": "2026-02-05T11:07:15.000Z",
       "title": "[No Title] - Post from February 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116017700690606409</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116017700690606409</span></p>\n\n[Image] The image features a tweet from Brandon Straka, who is known for his #WalkAway movement. The tweet discusses alleged corruption, claiming that LA County has 30 times more taxpayer-funded hospices than Florida, despite having 300,000 fewer seniors. The message emphasizes a disparity in hospice funding between the two regions. Straka's profile picture is visible, and he has a verified account.",
       "url": "https://www.trumpstruth.org/statuses/36476",
       "raw": {
         "creator": "",
@@ -587,7 +621,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116017700690606409",
         "guid": "https://www.trumpstruth.org/statuses/36476",
         "isoDate": "2026-02-05T11:07:15.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:43:12.633Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15299/85d26fc473e7268f.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36475",
@@ -659,7 +697,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116018163712932907",
         "guid": "https://www.trumpstruth.org/statuses/36487",
         "isoDate": "2026-02-05T13:05:02.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15309/6d62f8c4eba603e1.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36486",
@@ -677,13 +718,16 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/36486",
         "isoDate": "2026-02-05T13:05:18.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15308/259ef02a23e4efdc.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36488",
       "publishedAt": "2026-02-05T17:42:58.000Z",
       "title": "The Great Country of Japan is having a very important Legislative Election on Sunday, February 8, 2026. The results of this Election are very important to the future of Japan. The Prime Minister, Sanae Takaichi, has already proven to be a strong, powerful, and wise Leader, and one that truly loves her Country. I look forward to welcoming Prime Minister Takaichi to the White House on March 19th. In my visit to Japan I, and all of my Representatives, were extremely impressed with her. In addition to National Security, the United States and Japan have worked closely together on making a very substantial Trade Deal, one that strongly benefits both Countries. Prime Minister Takaichi is someone who deserves powerful recognition for the job she and her Coalition are doing and, therefore, as President of the United States of America, it is my Honor to give a Complete and Total Endorsement of her, and what her highly respected Coalition is representing. SHE WILL NOT LET THE PEOPLE OF JAPAN DOWN! Good luck on your very important Sunday Vote. PRESIDENT DONALD J. TRUMP",
-      "text": "<p>The Great Country of Japan is having a very important Legislative Election on Sunday, February 8, 2026. The results of this Election are very important to the future of Japan. The Prime Minister, Sanae Takaichi, has already proven to be a strong, powerful, and wise Leader, and one that truly loves her Country. I look forward to welcoming Prime Minister Takaichi to the White House on March 19th. In my visit to Japan I, and all of my Representatives, were extremely impressed with her. In addition to National Security, the United States and Japan have worked closely together on making a very substantial Trade Deal, one that strongly benefits both Countries. Prime Minister Takaichi is someone who deserves powerful recognition for the job she and her Coalition are doing and, therefore, as President of the United States of America, it is my Honor to give a Complete and Total Endorsement of her, and what her highly respected Coalition is representing. SHE WILL NOT LET THE PEOPLE OF JAPAN DOWN! Good luck on your very important Sunday Vote. PRESIDENT DONALD J. TRUMP</p>",
+      "text": "<p>The Great Country of Japan is having a very important Legislative Election on Sunday, February 8, 2026. The results of this Election are very important to the future of Japan. The Prime Minister, Sanae Takaichi, has already proven to be a strong, powerful, and wise Leader, and one that truly loves her Country. I look forward to welcoming Prime Minister Takaichi to the White House on March 19th. In my visit to Japan I, and all of my Representatives, were extremely impressed with her. In addition to National Security, the United States and Japan have worked closely together on making a very substantial Trade Deal, one that strongly benefits both Countries. Prime Minister Takaichi is someone who deserves powerful recognition for the job she and her Coalition are doing and, therefore, as President of the United States of America, it is my Honor to give a Complete and Total Endorsement of her, and what her highly respected Coalition is representing. SHE WILL NOT LET THE PEOPLE OF JAPAN DOWN! Good luck on your very important Sunday Vote. PRESIDENT DONALD J. TRUMP</p>\n\n[Image] Donald Trump is seen walking on a tarmac, saluting while wearing a white cap that says \"USA.\" He is accompanied by a woman in a black suit, who appears to be smiling. In the background, a helicopter, likely Marine One, is visible, along with personnel in uniforms, some of whom are saluting. The setting suggests a formal or official event, possibly related to a diplomatic visit or departure. The atmosphere is professional and respectful.",
       "url": "https://www.trumpstruth.org/statuses/36488",
       "raw": {
         "creator": "",
@@ -695,7 +739,11 @@
         "contentSnippet": "The Great Country of Japan is having a very important Legislative Election on Sunday, February 8, 2026. The results of this Election are very important to the future of Japan. The Prime Minister, Sanae Takaichi, has already proven to be a strong, powerful, and wise Leader, and one that truly loves her Country. I look forward to welcoming Prime Minister Takaichi to the White House on March 19th. In my visit to Japan I, and all of my Representatives, were extremely impressed with her. In addition to National Security, the United States and Japan have worked closely together on making a very substantial Trade Deal, one that strongly benefits both Countries. Prime Minister Takaichi is someone who deserves powerful recognition for the job she and her Coalition are doing and, therefore, as President of the United States of America, it is my Honor to give a Complete and Total Endorsement of her, and what her highly respected Coalition is representing. SHE WILL NOT LET THE PEOPLE OF JAPAN DOWN! Good luck on your very important Sunday Vote. PRESIDENT DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/36488",
         "isoDate": "2026-02-05T17:42:58.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:42:56.928Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15310/d6909dda83f9bed2.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36489",
@@ -719,7 +767,7 @@
       "id": "https://www.trumpstruth.org/statuses/36490",
       "publishedAt": "2026-02-05T17:59:34.000Z",
       "title": "Highly Respected Prime Minister of Hungary, Viktor Orbán, is a truly strong and powerful Leader, with a proven track record of delivering phenomenal results. He fights tirelessly for, and loves, his Great Country and People, just like I do for the United States of America. Viktor works hard to Protect Hungary, Grow the Economy, Create Jobs, Promote Trade, Stop Illegal Immigration, and Ensure LAW AND ORDER! Relations between Hungary and the United States have reached new heights of cooperation and spectacular achievement under my Administration, thanks largely to Prime Minister Orbán. I look forward to continuing working closely with him so that both of our Countries can further advance this tremendous path to SUCCESS and cooperation. I was proud to ENDORSE Viktor for Re-Election in 2022, and am honored to do so again. Viktor Orbán is a true friend, fighter, and WINNER, and has my Complete and Total Endorsement for Re-Election as Prime Minister of Hungary — HE WILL NEVER LET THE GREAT PEOPLE OF HUNGARY DOWN! PRESIDENT DONALD J. TRUMP",
-      "text": "<p>Highly Respected Prime Minister of Hungary, Viktor Orbán, is a truly strong and powerful Leader, with a proven track record of delivering phenomenal results. He fights tirelessly for, and loves, his Great Country and People, just like I do for the United States of America. Viktor works hard to Protect Hungary, Grow the Economy, Create Jobs, Promote Trade, Stop Illegal Immigration, and Ensure LAW AND ORDER! Relations between Hungary and the United States have reached new heights of cooperation and spectacular achievement under my Administration, thanks largely to Prime Minister Orbán. I look forward to continuing working closely with him so that both of our Countries can further advance this tremendous path to SUCCESS and cooperation. I was proud to ENDORSE Viktor for Re-Election in 2022, and am honored to do so again. Viktor Orbán is a true friend, fighter, and WINNER, and has my Complete and Total Endorsement for Re-Election as Prime Minister of Hungary — HE WILL NEVER LET THE GREAT PEOPLE OF HUNGARY DOWN! PRESIDENT DONALD J. TRUMP</p>",
+      "text": "<p>Highly Respected Prime Minister of Hungary, Viktor Orbán, is a truly strong and powerful Leader, with a proven track record of delivering phenomenal results. He fights tirelessly for, and loves, his Great Country and People, just like I do for the United States of America. Viktor works hard to Protect Hungary, Grow the Economy, Create Jobs, Promote Trade, Stop Illegal Immigration, and Ensure LAW AND ORDER! Relations between Hungary and the United States have reached new heights of cooperation and spectacular achievement under my Administration, thanks largely to Prime Minister Orbán. I look forward to continuing working closely with him so that both of our Countries can further advance this tremendous path to SUCCESS and cooperation. I was proud to ENDORSE Viktor for Re-Election in 2022, and am honored to do so again. Viktor Orbán is a true friend, fighter, and WINNER, and has my Complete and Total Endorsement for Re-Election as Prime Minister of Hungary — HE WILL NEVER LET THE GREAT PEOPLE OF HUNGARY DOWN! PRESIDENT DONALD J. TRUMP</p>\n\n[Image] The image shows Donald Trump standing alongside Viktor Orbán, the Prime Minister of Hungary. They are both smiling and dressed in formal suits, with Trump wearing a light-colored tie and Orbán in a darker suit with a red tie. The background features the White House, with manicured greenery and columns visible. The setting appears to be a formal meeting or photo opportunity, highlighting their political relationship.",
       "url": "https://www.trumpstruth.org/statuses/36490",
       "raw": {
         "creator": "",
@@ -731,7 +779,11 @@
         "contentSnippet": "Highly Respected Prime Minister of Hungary, Viktor Orbán, is a truly strong and powerful Leader, with a proven track record of delivering phenomenal results. He fights tirelessly for, and loves, his Great Country and People, just like I do for the United States of America. Viktor works hard to Protect Hungary, Grow the Economy, Create Jobs, Promote Trade, Stop Illegal Immigration, and Ensure LAW AND ORDER! Relations between Hungary and the United States have reached new heights of cooperation and spectacular achievement under my Administration, thanks largely to Prime Minister Orbán. I look forward to continuing working closely with him so that both of our Countries can further advance this tremendous path to SUCCESS and cooperation. I was proud to ENDORSE Viktor for Re-Election in 2022, and am honored to do so again. Viktor Orbán is a true friend, fighter, and WINNER, and has my Complete and Total Endorsement for Re-Election as Prime Minister of Hungary — HE WILL NEVER LET THE GREAT PEOPLE OF HUNGARY DOWN! PRESIDENT DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/36490",
         "isoDate": "2026-02-05T17:59:34.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:42:54.843Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15311/bd988fb05743c879.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36491",
@@ -809,7 +861,7 @@
       "id": "https://www.trumpstruth.org/statuses/36494",
       "publishedAt": "2026-02-05T23:23:25.000Z",
       "title": "[No Title] - Post from February 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116020595387854027</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116020595387854027</span></p>\n\n[Image] The image is a tweet from Michael Dell, featuring a message directed at Americans. He discusses the Super Bowl and highlights an initiative aimed at providing investment accounts for 25 million children, mentioning a total of $6.25 billion for this purpose. The tweet encourages parents to claim their child's future through the provided link. There are American flag emojis and references to the Super Bowl and investment accounts.",
       "url": "https://www.trumpstruth.org/statuses/36494",
       "raw": {
         "creator": "",
@@ -821,7 +873,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116020595387854027",
         "guid": "https://www.trumpstruth.org/statuses/36494",
         "isoDate": "2026-02-05T23:23:25.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:42:52.155Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15312/6cd969d9d3135e85.png"
+      ]
     }
   ],
   "sentiments": [
@@ -829,286 +885,272 @@
       "postId": "https://www.trumpstruth.org/statuses/36451",
       "label": "positive",
       "rationale": "The text endorses Chris McGowan positively, detailing his achievements and the positive impact he aims to have as a Congressman.",
-      "analyzedAt": "2026-04-13T08:00:31.336Z"
+      "analyzedAt": "2026-09-06T06:49:44.085Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36452",
       "label": "neutral",
       "rationale": "The text presents a factual statement about Tom Suozzi's stock portfolio performance without expressing a clear positive or negative sentiment.",
-      "analyzedAt": "2026-04-13T08:00:31.336Z"
+      "analyzedAt": "2026-09-06T06:49:44.085Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36453",
       "label": "positive",
-      "rationale": "The text endorses Mike LiPetri positively, emphasizing his qualifications and commitment to the community, while also criticizing his opponent harshly.",
-      "analyzedAt": "2026-04-13T08:00:31.336Z"
+      "rationale": "The text endorses Mike LiPetri positively, emphasizing his qualifications and commitment to the community, while also criticizing his opponent in a negative light.",
+      "analyzedAt": "2026-09-06T06:49:44.085Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36454",
       "label": "positive",
       "rationale": "The text expresses strong support and endorsement for Peter Oberacker, highlighting his positive attributes and accomplishments while criticizing his opponent negatively.",
-      "analyzedAt": "2026-04-13T08:00:31.336Z"
+      "analyzedAt": "2026-09-06T06:49:44.085Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36455",
       "label": "positive",
-      "rationale": "The text expresses strong endorsement for Blake Miguez, highlighting his qualifications positively.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text expresses strong endorsement for Blake Miguez, highlighting his dedication to the community.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36456",
       "label": "positive",
-      "rationale": "The text expresses concern and support for a family in distress, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text expresses concern and support for a family in distress, showing empathy.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36457",
       "label": "positive",
-      "rationale": "The text expresses strong endorsement for Mark Teixeira, highlighting his achievements positively.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text expresses strong endorsement for Mark Teixeira, highlighting his achievements.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36458",
       "label": "positive",
-      "rationale": "The text expresses strong endorsement for Jace Yarbrough, highlighting his qualifications positively.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text expresses strong endorsement for Jace Yarbrough, highlighting his qualifications.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36459",
       "label": "positive",
-      "rationale": "The text expresses concern and support for a family in distress, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text expresses concern and support for a family in distress, showing empathy.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36460",
       "label": "positive",
-      "rationale": "The text expresses concern and support for a family in distress, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text expresses concern and support for a family in distress, showing empathy.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36461",
       "label": "positive",
-      "rationale": "The text expresses strong endorsement for James Gallagher, highlighting his qualifications positively.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text expresses strong endorsement for James Gallagher, highlighting his qualifications.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36462",
       "label": "positive",
-      "rationale": "The text expresses strong endorsement for James Gallagher, highlighting his qualifications positively.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text expresses strong endorsement for James Gallagher, highlighting his qualifications.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36463",
       "label": "positive",
-      "rationale": "The text expresses strong endorsement for Mark Teixeira, highlighting his achievements positively.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text expresses strong endorsement for Mark Teixeira, highlighting his achievements.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36464",
       "label": "positive",
-      "rationale": "The text expresses strong endorsement for Blake Miguez, highlighting his dedication and qualifications positively.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text expresses strong endorsement for Blake Miguez, highlighting his dedication to the community.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36465",
       "label": "negative",
-      "rationale": "The text criticizes Josh Riley and the Radical Left, indicating a strong negative sentiment.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text criticizes Josh Riley and the radical left, indicating a negative sentiment.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36466",
       "label": "positive",
-      "rationale": "The text expresses strong endorsement for Mike LiPetri, highlighting his qualifications positively.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text expresses strong endorsement for Mike LiPetri, highlighting his qualifications.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36467",
       "label": "neutral",
       "rationale": "The text is a news link without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36468",
       "label": "positive",
-      "rationale": "The text expresses strong endorsement for Chris McGowan, highlighting his qualifications positively.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text expresses strong endorsement for Chris McGowan, highlighting his achievements.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36469",
       "label": "positive",
-      "rationale": "The text expresses strong endorsement for Clay Fuller, highlighting his qualifications positively.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text expresses strong endorsement for Clay Fuller, highlighting his qualifications.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36470",
       "label": "neutral",
       "rationale": "The text is a news link without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36471",
       "label": "neutral",
       "rationale": "The text is a news link without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36472",
       "label": "neutral",
       "rationale": "The text is a retweet link without any sentiment expressed.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36473",
       "label": "neutral",
       "rationale": "The text is a retweet link without any sentiment expressed.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36474",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36475",
       "label": "neutral",
       "rationale": "The text is a news link without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36476",
       "label": "neutral",
       "rationale": "The text is a retweet link without any sentiment expressed.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36477",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36478",
       "label": "neutral",
       "rationale": "The text is a retweet link without any sentiment expressed.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36479",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36480",
       "label": "neutral",
       "rationale": "The text is a retweet link without any sentiment expressed.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36481",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36482",
       "label": "neutral",
       "rationale": "The text is a retweet link without any sentiment expressed.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36483",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36484",
       "label": "negative",
       "rationale": "The text criticizes Justice Ketanji Brown Jackson, indicating a negative sentiment.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36485",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36486",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36487",
       "label": "neutral",
       "rationale": "The text is a retweet link without any sentiment expressed.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36488",
       "label": "positive",
-      "rationale": "The text expresses support for Prime Minister Takaichi and highlights her leadership positively.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text expresses support for Prime Minister Takaichi and highlights her leadership.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36489",
       "label": "neutral",
-      "rationale": "The text discusses military operations and a lease deal without expressing a clear sentiment.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text discusses military operations without expressing a clear sentiment.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36490",
       "label": "positive",
-      "rationale": "The text expresses admiration for Viktor Orbán and highlights successful cooperation, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text expresses admiration for Viktor Orbán and the cooperation between Hungary and the U.S.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36491",
       "label": "positive",
-      "rationale": "The text conveys pride in military achievements and expresses a strong sense of national security, indicating a positive sentiment.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text highlights the strength of the U.S. military and expresses pride in military achievements.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36492",
       "label": "positive",
-      "rationale": "The text expresses support and endorsement for Cody Simpson, highlighting his qualifications and potential contributions positively.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text expresses support and endorsement for Cody Simpson, highlighting his qualifications and potential.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36493",
       "label": "negative",
-      "rationale": "The text expresses a strong negative sentiment about elections being 'rigged' and 'stolen', indicating a lack of faith in the electoral process.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text expresses a negative view about America's elections being rigged and stolen.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36494",
       "label": "neutral",
       "rationale": "The text is a retweet link without any sentiment expressed.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/36495",
       "label": "neutral",
-      "rationale": "The text is empty, providing no sentiment.",
-      "analyzedAt": "2026-04-13T08:00:23.820Z"
+      "rationale": "The text is empty and does not convey any sentiment.",
+      "analyzedAt": "2026-09-06T06:49:42.250Z"
     }
   ],
-  "trendingTopic": "It is my Great Honor to endorse Peter Oberacker, an incredible Candidate who is running to represent the fantastic people of New York’s 19th Congressional District.",
-  "selfPraiseCount": 1,
-  "secondaryHighlights": [
-    {
-      "topic": "I spoke with Savannah Guthrie, and let her know that I am directing ALL Federal Law Enforcement to be at the family’s, and Local Law Enforcement’s, complete disposal, IMMEDIATELY. We are deploying all resources to get her mother home safely."
-    },
-    {
-      "topic": "Long Island Rep. Tom Suozzi beats Pelosi’s stock portfolio performance with 35% return",
-      "name": "Tom Suozzi"
-    },
-    {
-      "topic": "Mark Teixeira is a former Major League Baseball STAR, and tremendous America First Candidate, who is running to represent the incredible people of Texas’ 21st Congressional District!",
-      "name": "Mark Teixeira"
-    }
-  ]
+  "selfPraiseCacheKey": "self-praise-v1:45:f78ceb0f62ebf28757d3e7fd"
 }

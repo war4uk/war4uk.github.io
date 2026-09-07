@@ -6,22 +6,24 @@
     "negative": 1
   },
   "summary": "positive:4 neutral:7 negative:1",
-  "generatedAt": "2026-09-06T06:44:43.980Z",
+  "generatedAt": "2026-09-07T14:51:43.716Z",
   "topics": [
-    "Discusses future deal with NATO regarding Greenland and the Arctic Region",
-    "Plans to represent America at Davos and participate in an interview",
-    "Critiques FCC's application of equal time rules to entertainment shows"
+    "Represents America at Davos and discusses future Arctic deal",
+    "Reveals FBI payments to anti-Trump informants related to January 6",
+    "Critiques Democrats' immigration and voting policies"
   ],
-  "trendingTopic": "Discusses future deal with NATO regarding Greenland and the Arctic Region",
+  "trendingTopic": "Represents America at Davos and discusses future Arctic deal",
+  "trendingName": "Rep Brian Mast",
   "secondaryHighlights": [
     {
-      "topic": "Plans to represent America at Davos and participate in an interview"
+      "topic": "Reveals FBI payments to anti-Trump informants related to January 6"
     },
     {
-      "topic": "Critiques FCC's application of equal time rules to entertainment shows"
+      "topic": "Critiques Democrats' immigration and voting policies"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:12:c93f3af7ba264fa2fb8b1b27",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34867",
@@ -129,7 +131,10 @@
         "contentSnippet": "https://x.com/BasedMikeLee/status/2013782673924170231",
         "guid": "https://www.trumpstruth.org/statuses/34862",
         "isoDate": "2026-01-21T02:40:05.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13942/3763cd4a17c67ef2.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34861",
@@ -207,7 +212,7 @@
       "id": "https://www.trumpstruth.org/statuses/34857",
       "publishedAt": "2026-01-21T20:48:53.000Z",
       "title": "[No Title] - Post from January 21, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115935044672081563</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115935044672081563</span></p>\n\n[Image] The image features a tweet from the account Wall Street Apes discussing a controversial perspective on immigration and voting laws in the United States. It outlines a series of claims about how Democrats allegedly plan to secure single-party rule through immigration policies, prioritizing non-citizens over American citizens, and manipulating voting laws. The tone is critical and accusatory, suggesting that these actions undermine democracy and are funded by taxpayers.",
       "url": "https://www.trumpstruth.org/statuses/34857",
       "raw": {
         "creator": "",
@@ -219,7 +224,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115935044672081563",
         "guid": "https://www.trumpstruth.org/statuses/34857",
         "isoDate": "2026-01-21T20:48:53.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:29:44.670Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13939/bb193d9198caa410.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34856",
@@ -314,6 +323,5 @@
       "analyzedAt": "2026-09-06T06:34:11.906Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:12:c93f3af7ba264fa2fb8b1b27",
-  "trendingName": "Mark Rutte"
+  "selfPraiseCacheKey": "self-praise-v1:12:c93f3af7ba264fa2fb8b1b27"
 }

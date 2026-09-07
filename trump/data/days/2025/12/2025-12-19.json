@@ -6,22 +6,23 @@
     "negative": 4
   },
   "summary": "positive:9 neutral:2 negative:4",
-  "generatedAt": "2026-09-06T06:44:02.045Z",
+  "generatedAt": "2026-09-07T14:50:32.328Z",
   "topics": [
-    "Announces retaliation against ISIS for attacks on American Patriots in Syria",
-    "Approves funding for recovery efforts in Kansas and La Jolla Band of Luiseno Indians",
-    "Comments on Democrats' low approval ratings in Congress"
+    "Announces funding for recovery efforts in La Jolla and Kansas after severe storms",
+    "Comments on economic performance and unemployment rates",
+    "Critiques Democrats' approval ratings in Congress"
   ],
-  "trendingTopic": "Announces retaliation against ISIS for attacks on American Patriots in Syria",
+  "trendingTopic": "Announces funding for recovery efforts in La Jolla and Kansas after severe storms",
   "secondaryHighlights": [
     {
-      "topic": "Approves funding for recovery efforts in Kansas and La Jolla Band of Luiseno Indians"
+      "topic": "Comments on economic performance and unemployment rates"
     },
     {
-      "topic": "Comments on Democrats' low approval ratings in Congress"
+      "topic": "Critiques Democrats' approval ratings in Congress"
     }
   ],
   "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:15:42dbcabd6f7ee74083cbe0c7",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34264",
@@ -63,7 +64,7 @@
       "id": "https://www.trumpstruth.org/statuses/34266",
       "publishedAt": "2025-12-19T04:30:09.000Z",
       "title": "It’s all happening!!!",
-      "text": "<p>It’s all happening!!!<br/><a href=\"https://justthenews.com/government/white-house/trump-defies-odds-achieves-economic-hat-trick-rate-cuts-tariffs-and-cooling\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/trump-defies-odds-achieves-economic-hat-trick-rate-cuts-tariffs-and-cooling</span></a></p>",
+      "text": "<p>It’s all happening!!!<br/><a href=\"https://justthenews.com/government/white-house/trump-defies-odds-achieves-economic-hat-trick-rate-cuts-tariffs-and-cooling\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/trump-defies-odds-achieves-economic-hat-trick-rate-cuts-tariffs-and-cooling</span></a></p>\n\n[Image] The image features Donald Trump speaking at a press event, gesturing with his hands as he addresses the media. He is wearing a dark suit with a red tie, and there are microphones in front of him, indicating a press conference setting. The background shows a clear blue sky and part of an aircraft, suggesting he is at an airport or similar location. The accompanying text discusses Trump's economic policies and achievements related to rate cuts, tariffs, and inflation.",
       "url": "https://www.trumpstruth.org/statuses/34266",
       "raw": {
         "creator": "",
@@ -75,7 +76,11 @@
         "contentSnippet": "It’s all happening!!!\nhttps://justthenews.com/government/white-house/trump-defies-odds-achieves-economic-hat-trick-rate-cuts-tariffs-and-cooling",
         "guid": "https://www.trumpstruth.org/statuses/34266",
         "isoDate": "2025-12-19T04:30:09.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:09:30.882Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13665/9d5950e2769eccd4.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34267",
@@ -386,5 +391,5 @@
       "analyzedAt": "2026-09-06T06:27:35.383Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:15:42dbcabd6f7ee74083cbe0c7"
+  "selfPraiseCacheKey": "self-praise-v1:15:42dbcabd6f7ee74083cbe0c7"
 }

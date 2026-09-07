@@ -6,22 +6,23 @@
     "negative": 0
   },
   "summary": "positive:2 neutral:1 negative:0",
-  "generatedAt": "2026-09-06T06:44:11.013Z",
+  "generatedAt": "2026-09-07T14:50:48.060Z",
   "topics": [
-    "Highlights the success of tariffs in boosting wealth and national security",
-    "Attributes low crime rates to effective Southern Border operations",
-    "Discusses pushback against election trimester created by blue states"
+    "Pushback against election trimester ballots in blue states",
+    "Record low crime rates attributed to Southern Border operations",
+    "Benefits of tariffs for national security and wealth"
   ],
-  "trendingTopic": "Highlights the success of tariffs in boosting wealth and national security",
+  "trendingTopic": "Pushback against election trimester ballots in blue states",
   "secondaryHighlights": [
     {
-      "topic": "Attributes low crime rates to effective Southern Border operations"
+      "topic": "Record low crime rates attributed to Southern Border operations"
     },
     {
-      "topic": "Discusses pushback against election trimester created by blue states"
+      "topic": "Benefits of tariffs for national security and wealth"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:3:bb95072775a5f19c8e420458",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34359",
@@ -98,5 +99,5 @@
       "analyzedAt": "2026-09-06T06:29:09.487Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:3:bb95072775a5f19c8e420458"
+  "selfPraiseCacheKey": "self-praise-v1:3:bb95072775a5f19c8e420458"
 }

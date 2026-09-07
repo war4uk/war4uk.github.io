@@ -6,23 +6,23 @@
     "negative": 3
   },
   "summary": "positive:3 neutral:90 negative:3",
-  "generatedAt": "2026-09-06T06:44:20.421Z",
+  "generatedAt": "2026-09-07T14:51:05.343Z",
   "topics": [
-    "Cuts off $10B in funding to five blue states over fraud fears",
-    "Announces updated Childhood Vaccination Schedule based on scientific consensus",
-    "Criticizes Minnesota Governor for alleged corruption and mismanagement"
+    "Claims of election fraud and integrity issues surrounding the 2020 election",
+    "Celebrations among Venezuelans following Trump's actions against Maduro",
+    "Criticism of teachers' unions and calls for their dissolution"
   ],
-  "trendingTopic": "Cuts off $10B in funding to five blue states over fraud fears",
+  "trendingTopic": "Claims of election fraud and integrity issues surrounding the 2020 election",
   "secondaryHighlights": [
     {
-      "topic": "Announces updated Childhood Vaccination Schedule based on scientific consensus"
+      "topic": "Celebrations among Venezuelans following Trump's actions against Maduro"
     },
     {
-      "topic": "Criticizes Minnesota Governor for alleged corruption and mismanagement",
-      "name": "Tim Walz"
+      "topic": "Criticism of teachers' unions and calls for their dissolution"
     }
   ],
-  "selfPraiseCount": 1,
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:96:6f1c002490ac90e06aa309f3",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/35002",
@@ -46,7 +46,7 @@
       "id": "https://www.trumpstruth.org/statuses/35001",
       "publishedAt": "2026-01-05T05:45:50.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840904778907661</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840904778907661</span></p>\n\n[Image] The image features a person wearing a red baseball cap with the text \"TRUMP\" prominently displayed. The tweet expresses a positive sentiment about a protest referred to as the \"real No Kings protest.\" The tone suggests a celebration of the protest's message. The account belongs to a user named \"One Bad Dude,\" who is verified on the platform. The context implies a connection to political themes, particularly those associated with Donald Trump.",
       "url": "https://www.trumpstruth.org/statuses/35001",
       "raw": {
         "creator": "",
@@ -58,7 +58,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840904778907661",
         "guid": "https://www.trumpstruth.org/statuses/35001",
         "isoDate": "2026-01-05T05:45:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:23:37.160Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14069/707316a99746c160.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35000",
@@ -82,7 +86,7 @@
       "id": "https://www.trumpstruth.org/statuses/34999",
       "publishedAt": "2026-01-05T05:46:16.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840907012678848</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840907012678848</span></p>\n\n[Image] The image is a tweet from a user named Julie Donuts, who has a verified account. The tweet references a post by Donald Trump, stating \"More 2020 ELECTION FRAUD!!\" accompanied by fire emojis and a clock emoji. The tweet emphasizes a claim regarding election fraud related to the 2020 presidential election. The overall tone suggests a strong opinion on the topic, reflecting ongoing discussions surrounding the election's integrity.",
       "url": "https://www.trumpstruth.org/statuses/34999",
       "raw": {
         "creator": "",
@@ -94,7 +98,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840907012678848",
         "guid": "https://www.trumpstruth.org/statuses/34999",
         "isoDate": "2026-01-05T05:46:16.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:23:33.049Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14067/c24e22f7bec3d7de.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34998",
@@ -118,7 +126,7 @@
       "id": "https://www.trumpstruth.org/statuses/34997",
       "publishedAt": "2026-01-05T05:46:51.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840909315602853</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840909315602853</span></p>\n\n[Image] The image is a tweet from a user named Brandie with a bee emoji in their handle. The tweet discusses the perceived reasons behind Democrats' concerns regarding Maduro, suggesting that systems facilitating election manipulation are being dismantled. The user claims this will lead to \"honest elections\" and includes a blue folder emoji at the end. There are no recognizable public figures or images in this text-based tweet.",
       "url": "https://www.trumpstruth.org/statuses/34997",
       "raw": {
         "creator": "",
@@ -130,7 +138,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840909315602853",
         "guid": "https://www.trumpstruth.org/statuses/34997",
         "isoDate": "2026-01-05T05:46:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:23:26.042Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14065/b37bdf43bf812f9f.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34996",
@@ -154,7 +166,7 @@
       "id": "https://www.trumpstruth.org/statuses/34995",
       "publishedAt": "2026-01-05T05:49:40.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840919957497137</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840919957497137</span></p>\n\n[Image] The image features a tweet from The SCIF discussing allegations of election fraud during the 2020 election. It mentions testimony from election workers claiming that 17,327 deceased individuals had their votes counted, with specific references to backdated ballots and a \"glitch\" that supposedly affected vote tallies. The tweet also cites Secretary of State Jocelyn Benson and mentions Donald Trump, stating he was ahead in votes before a sudden change occurred.",
       "url": "https://www.trumpstruth.org/statuses/34995",
       "raw": {
         "creator": "",
@@ -166,7 +178,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840919957497137",
         "guid": "https://www.trumpstruth.org/statuses/34995",
         "isoDate": "2026-01-05T05:49:40.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:23:20.274Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14063/c5a30795a7416e1c.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34435",
@@ -190,7 +206,7 @@
       "id": "https://www.trumpstruth.org/statuses/34994",
       "publishedAt": "2026-01-05T05:50:18.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840922419069490</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840922419069490</span></p>\n\n[Image] The image features a tweet from a user named Shannon, who has a verified account. The tweet expresses a strong opinion about teachers' unions, stating, \"Time to end teachers unions. Post haste!\" The profile picture shows a woman with dark hair and a light complexion. The tweet reflects a controversial stance on education policy, likely aimed at sparking discussion or debate on the topic.",
       "url": "https://www.trumpstruth.org/statuses/34994",
       "raw": {
         "creator": "",
@@ -202,7 +218,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840922419069490",
         "guid": "https://www.trumpstruth.org/statuses/34994",
         "isoDate": "2026-01-05T05:50:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:23:15.813Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14062/ed12090f64717f85.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34993",
@@ -238,7 +258,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840929679489463",
         "guid": "https://www.trumpstruth.org/statuses/34992",
         "isoDate": "2026-01-05T05:52:05.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14060/13bf68b90d099dd1.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34991",
@@ -292,7 +315,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840932600858716",
         "guid": "https://www.trumpstruth.org/statuses/34989",
         "isoDate": "2026-01-05T05:52:55.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14057/f17ba569ff1f9f1a.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34437",
@@ -316,7 +342,7 @@
       "id": "https://www.trumpstruth.org/statuses/34436",
       "publishedAt": "2026-01-05T05:54:26.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840939084970831</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840939084970831</span></p>\n\n[Image] The image is a tweet from a user named RealRobert, featuring a profile picture of a man in a light-colored shirt and sunglasses. The tweet claims that a significant crime has been committed against the U.S. government and its people, referencing a specific number of votes—138,000—without any votes for Donald Trump. The message appears to be politically charged, likely addressing election-related controversies.",
       "url": "https://www.trumpstruth.org/statuses/34436",
       "raw": {
         "creator": "",
@@ -328,7 +354,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840939084970831",
         "guid": "https://www.trumpstruth.org/statuses/34436",
         "isoDate": "2026-01-05T05:54:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:23:00.207Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13744/3a1cbd60fdea9445.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34988",
@@ -352,7 +382,7 @@
       "id": "https://www.trumpstruth.org/statuses/34987",
       "publishedAt": "2026-01-05T05:55:27.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840942634506785</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840942634506785</span></p>\n\n[Image] The image features a tweet from Bridgett Fertig, expressing strong support for Donald Trump. The text discusses perceived corruption in the government and emphasizes the importance of the upcoming election as a pivotal moment for the nation. Fertig argues that the current political establishment is failing and that the movement aims to empower the American people. The tweet concludes with a message of gratitude towards Trump and a hopeful outlook for 2026.",
       "url": "https://www.trumpstruth.org/statuses/34987",
       "raw": {
         "creator": "",
@@ -364,7 +394,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840942634506785",
         "guid": "https://www.trumpstruth.org/statuses/34987",
         "isoDate": "2026-01-05T05:55:27.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:22:58.048Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14055/2f209873611e5bce.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34986",
@@ -388,7 +422,7 @@
       "id": "https://www.trumpstruth.org/statuses/34985",
       "publishedAt": "2026-01-05T05:57:14.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840949934342570</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840949934342570</span></p>\n\n[Image] The image is a screenshot of a social media post from a commentary account related to Donald Trump. It features a timestamp and mentions a video posted by Donald Trump on Truth Social. The post states that Trump shared a video of conservative figure Victor Davis Hanson, who claims that \"California is the fraud capital\" of the USA. The account is identified as @TrumpDailyPosts, and it includes an American flag icon.",
       "url": "https://www.trumpstruth.org/statuses/34985",
       "raw": {
         "creator": "",
@@ -400,7 +434,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840949934342570",
         "guid": "https://www.trumpstruth.org/statuses/34985",
         "isoDate": "2026-01-05T05:57:14.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:22:55.884Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14053/f02bb702c7e2eeb4.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34984",
@@ -424,7 +462,7 @@
       "id": "https://www.trumpstruth.org/statuses/34983",
       "publishedAt": "2026-01-05T05:59:04.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840957094849115</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840957094849115</span></p>\n\n[Image] The image features a tweet from Sami Nathaniel, who is verified on Twitter. The tweet discusses Venezuelan refugees planning to return home now that conditions are deemed safe. There are no images or visual elements included in the tweet itself, just the text. The focus is on the situation of Venezuelan refugees and their potential return to their home country.",
       "url": "https://www.trumpstruth.org/statuses/34983",
       "raw": {
         "creator": "",
@@ -436,7 +474,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840957094849115",
         "guid": "https://www.trumpstruth.org/statuses/34983",
         "isoDate": "2026-01-05T05:59:04.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:22:51.141Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14051/c7a65f3b80e7e874.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34439",
@@ -460,7 +502,7 @@
       "id": "https://www.trumpstruth.org/statuses/34438",
       "publishedAt": "2026-01-05T05:59:32.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840959069077658</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840959069077658</span></p>\n\n[Image] The image is a tweet from Mila Joy, featuring a quote from Scott Jennings. The quote states that Donald Trump is the most consequential political force in the modern era and emphasizes that his base remains steadfast. The tweet includes Mila Joy's verified account name. There are no images or additional visual elements present in the tweet itself.",
       "url": "https://www.trumpstruth.org/statuses/34438",
       "raw": {
         "creator": "",
@@ -472,7 +514,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840959069077658",
         "guid": "https://www.trumpstruth.org/statuses/34438",
         "isoDate": "2026-01-05T05:59:32.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:22:44.374Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13746/bac28ae2a6c221e9.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34982",
@@ -496,7 +542,7 @@
       "id": "https://www.trumpstruth.org/statuses/34981",
       "publishedAt": "2026-01-05T06:02:26.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840970415557539</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840970415557539</span></p>\n\n[Image] The image features a tweet from a user named Shannon, who expresses support for Donald Trump. The tweet discusses Trump's focus on voter fraud allegations from the 2020 elections, suggesting this is relevant as the 2026 elections approach. Shannon criticizes the Democratic Party, referring to them as \"Hell Democrats\" and implies they have negatively impacted the country. The tweet reflects a political stance aligned with Trump and his supporters.",
       "url": "https://www.trumpstruth.org/statuses/34981",
       "raw": {
         "creator": "",
@@ -508,7 +554,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840970415557539",
         "guid": "https://www.trumpstruth.org/statuses/34981",
         "isoDate": "2026-01-05T06:02:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:22:42.780Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14049/77e4db0f6a4a8f1e.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34980",
@@ -532,7 +582,7 @@
       "id": "https://www.trumpstruth.org/statuses/34979",
       "publishedAt": "2026-01-05T06:03:07.000Z",
       "title": "The Fake News just won’t cover the TRUTH!",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840972152948496</span>The Fake News just won’t cover the TRUTH!</p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840972152948496</span>The Fake News just won’t cover the TRUTH!</p>\n\n[Image] The image is a tweet from Eric Daugherty, featuring a blue verification checkmark next to his name. The tweet claims that the left-wing media is ignoring celebrations by Venezuelans in Buenos Aires for Donald Trump's victory over Nicolás Maduro. It expresses a strong opinion that the media's refusal to cover this event is motivated by a dislike for Trump, suggesting that this leads to suffering for Venezuelans. The tweet emphasizes the scale of the celebration.",
       "url": "https://www.trumpstruth.org/statuses/34979",
       "raw": {
         "creator": "",
@@ -544,7 +594,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840972152948496The Fake News just won’t cover the TRUTH!",
         "guid": "https://www.trumpstruth.org/statuses/34979",
         "isoDate": "2026-01-05T06:03:07.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:22:40.461Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14047/b16a1d896895288b.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34978",
@@ -568,7 +622,7 @@
       "id": "https://www.trumpstruth.org/statuses/34977",
       "publishedAt": "2026-01-05T06:03:32.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840974859212570</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840974859212570</span></p>\n\n[Image] The image features a Twitter post from the user TaraBull, who has a verified account. The text states, \"This is exactly what the media doesn't want the world to see.\" There are no images or additional context provided in the tweet itself. The post appears to express a sentiment about media bias or censorship, but without further details or accompanying visuals, the specific subject matter remains unclear.",
       "url": "https://www.trumpstruth.org/statuses/34977",
       "raw": {
         "creator": "",
@@ -580,7 +634,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840974859212570",
         "guid": "https://www.trumpstruth.org/statuses/34977",
         "isoDate": "2026-01-05T06:03:32.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:22:32.290Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14045/48c21e17e19092f4.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34976",
@@ -604,7 +662,7 @@
       "id": "https://www.trumpstruth.org/statuses/34975",
       "publishedAt": "2026-01-05T06:04:04.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840976968948675</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840976968948675</span></p>\n\n[Image] The image features a tweet from a user named MaggieWise, who has a verified account. The tweet discusses a statement made by Tulsi Gabbard, claiming that the C.T.C. has identified approximately 18,000 known and suspected terrorists that the Biden Administration has allowed into the country. The tweet uses alarming language and emphasizes the seriousness of the claim. There are no images or visual elements included in the text.",
       "url": "https://www.trumpstruth.org/statuses/34975",
       "raw": {
         "creator": "",
@@ -616,7 +674,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840976968948675",
         "guid": "https://www.trumpstruth.org/statuses/34975",
         "isoDate": "2026-01-05T06:04:04.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:22:30.228Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14043/0050843519b99d4c.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34974",
@@ -640,7 +702,7 @@
       "id": "https://www.trumpstruth.org/statuses/34973",
       "publishedAt": "2026-01-05T06:08:15.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840992764753488</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840992764753488</span></p>\n\n[Image] The image is a tweet from a user named Gunther Eagleman, featuring a message that suggests not to repost the content as it may upset Democrats. The tweet claims that the people of Venezuela are celebrating Donald Trump for removing an \"illegitimate Narco Terrorist President.\" The tone of the message appears to be provocative, aimed at stirring political sentiment regarding Trump's actions and their impact on Venezuela.",
       "url": "https://www.trumpstruth.org/statuses/34973",
       "raw": {
         "creator": "",
@@ -652,7 +714,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840992764753488",
         "guid": "https://www.trumpstruth.org/statuses/34973",
         "isoDate": "2026-01-05T06:08:15.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:22:26.333Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14041/b288a74547467cea.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34972",
@@ -688,7 +754,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840995009952834",
         "guid": "https://www.trumpstruth.org/statuses/34971",
         "isoDate": "2026-01-05T06:08:42.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14039/d2916d12b035ab3e.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34970",
@@ -712,7 +781,7 @@
       "id": "https://www.trumpstruth.org/statuses/34969",
       "publishedAt": "2026-01-05T06:09:08.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840996862694998</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840996862694998</span></p>\n\n[Image] The image features a tweet from a user named Audrey, who has a verified account. The tweet expresses a political opinion, stating that Democrats need to recognize their mistakes and claims that Venezuelans are now happy and free. The text is straightforward and reflects a critical view of the Democratic Party's stance on Venezuela. There are decorative elements, including flowers, around the user's name.",
       "url": "https://www.trumpstruth.org/statuses/34969",
       "raw": {
         "creator": "",
@@ -724,7 +793,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840996862694998",
         "guid": "https://www.trumpstruth.org/statuses/34969",
         "isoDate": "2026-01-05T06:09:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:22:14.808Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14037/241e8d3ed8056036.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34441",
@@ -748,7 +821,7 @@
       "id": "https://www.trumpstruth.org/statuses/34440",
       "publishedAt": "2026-01-05T06:09:45.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840998648539750</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840998648539750</span></p>\n\n[Image] The image features a tweet from a user named @Real_RobN, sharing a statement attributed to Stephen Miller. The tweet criticizes the Democratic Party and the Biden-Harris administration, alleging that they are using taxpayer dollars to import populations from dysfunctional regions and resettle them in Republican areas. The message includes inflammatory language and references to Hunter Biden. There are no recognizable public figures in the image.",
       "url": "https://www.trumpstruth.org/statuses/34440",
       "raw": {
         "creator": "",
@@ -760,7 +833,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840998648539750",
         "guid": "https://www.trumpstruth.org/statuses/34440",
         "isoDate": "2026-01-05T06:09:45.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:22:13.105Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13748/16f1b6a06b92d10c.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34968",
@@ -784,7 +861,7 @@
       "id": "https://www.trumpstruth.org/statuses/34967",
       "publishedAt": "2026-01-05T06:10:22.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841001645494032</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841001645494032</span></p>\n\n[Image] The image features a tweet from The SCIF account discussing an anomaly found by Arizona 2020 election auditors. It claims that 11,326 voters were absent from the November voter rolls, which matches Joe Biden's margin of victory in the state. The tweet suggests that these missing voters appeared later, raising questions about the integrity of the election. It emphasizes the need for answers and reforms in the electoral process.",
       "url": "https://www.trumpstruth.org/statuses/34967",
       "raw": {
         "creator": "",
@@ -796,7 +873,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841001645494032",
         "guid": "https://www.trumpstruth.org/statuses/34967",
         "isoDate": "2026-01-05T06:10:22.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:22:06.188Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14035/2c723ea514b8e4ae.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34966",
@@ -820,7 +901,7 @@
       "id": "https://www.trumpstruth.org/statuses/34965",
       "publishedAt": "2026-01-05T06:11:45.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841007031440553</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841007031440553</span></p>\n\n[Image] The image is a tweet from a user named @KAGdrogo, featuring a profile picture of a man with a beard and wearing a cap. The tweet discusses a video posted by Donald Trump regarding alleged fraud involving Dominion voting machines. It questions the timing of the video and mentions a Venezuelan Military Intelligence whistleblower who claims that the CIA outsources election rigging technology from Venezuela. The tweet implies a connection between these claims and Trump's post.",
       "url": "https://www.trumpstruth.org/statuses/34965",
       "raw": {
         "creator": "",
@@ -832,7 +913,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841007031440553",
         "guid": "https://www.trumpstruth.org/statuses/34965",
         "isoDate": "2026-01-05T06:11:45.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:22:01.345Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14033/c742568bb3fe713c.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34443",
@@ -856,7 +941,7 @@
       "id": "https://www.trumpstruth.org/statuses/34442",
       "publishedAt": "2026-01-05T06:12:11.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841009029900352</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841009029900352</span></p>\n\n[Image] The image features a tweet from Sami Nathaniel, who has a verified account. The tweet simply states \"Boom!!!\" with no additional context or accompanying media. The text suggests a strong reaction or emphasis, but without further information, it's unclear what event or topic he is referring to. The overall tone appears to convey excitement or a significant moment.",
       "url": "https://www.trumpstruth.org/statuses/34442",
       "raw": {
         "creator": "",
@@ -868,7 +953,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841009029900352",
         "guid": "https://www.trumpstruth.org/statuses/34442",
         "isoDate": "2026-01-05T06:12:11.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:21:56.854Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13750/474589a12817fb26.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34964",
@@ -892,7 +981,7 @@
       "id": "https://www.trumpstruth.org/statuses/34963",
       "publishedAt": "2026-01-05T06:17:46.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841030598263107</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841030598263107</span></p>\n\n[Image] The image is a tweet from the account \"RealAF Patriot,\" which features a message claiming corruption in Nevada related to the certification of the 2020 election. It references Jesse Binnall's testimony during a U.S. Senate hearing and asserts that the election was fraudulent. The tweet also mentions January 6, 2021, as a cover-up for an alleged insurrection on November 3, 2020. There are no recognizable public figures in the image.",
       "url": "https://www.trumpstruth.org/statuses/34963",
       "raw": {
         "creator": "",
@@ -904,7 +993,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841030598263107",
         "guid": "https://www.trumpstruth.org/statuses/34963",
         "isoDate": "2026-01-05T06:17:46.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:21:50.329Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14031/84581d6e6c2e90af.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34962",
@@ -928,7 +1021,7 @@
       "id": "https://www.trumpstruth.org/statuses/34961",
       "publishedAt": "2026-01-05T06:18:15.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841032565347229</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841032565347229</span></p>\n\n[Image] The image is a tweet from Eric Daugherty, featuring a blue checkmark indicating a verified account. The tweet discusses the media's reaction to videos showing Venezuelans expressing support for Donald Trump, mentioning a \"white Democrat\" who is described as clueless regarding the situation with Maduro. The tweet concludes with the phrase \"FREEDOM IS RINGING!\" emphasizing a strong political sentiment.",
       "url": "https://www.trumpstruth.org/statuses/34961",
       "raw": {
         "creator": "",
@@ -940,7 +1033,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841032565347229",
         "guid": "https://www.trumpstruth.org/statuses/34961",
         "isoDate": "2026-01-05T06:18:15.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:21:48.548Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14029/c77267683d931e3d.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34960",
@@ -964,7 +1061,7 @@
       "id": "https://www.trumpstruth.org/statuses/34959",
       "publishedAt": "2026-01-05T06:18:44.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841034596491191</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841034596491191</span></p>\n\n[Image] The image is a tweet from a user named \"A Man Of Memes,\" featuring a message about following a money trail related to alleged fraud. The tweet expresses skepticism about mainstream media's involvement and mentions an investigation into someone named Nick Shirley in Minnesota. The tone suggests a critical view of politicians and media, implying they are not addressing the issue adequately. There are no recognizable public figures in the text.",
       "url": "https://www.trumpstruth.org/statuses/34959",
       "raw": {
         "creator": "",
@@ -976,7 +1073,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841034596491191",
         "guid": "https://www.trumpstruth.org/statuses/34959",
         "isoDate": "2026-01-05T06:18:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:21:41.144Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14027/c762a84b11689c81.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34958",
@@ -1000,7 +1101,7 @@
       "id": "https://www.trumpstruth.org/statuses/34957",
       "publishedAt": "2026-01-05T06:19:17.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841036607191081</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841036607191081</span></p>\n\n[Image] The image features a tweet from Tosca Austen discussing Minnesota Rep. Jason Lewis and allegations of fraud related to Somali daycare services. Austen criticizes both political parties for ignoring these claims and mentions the involvement of former President Obama and current Minnesota Governor Tim Walz. The tweet suggests that Walz has mishandled state funds and created a new state flag resembling the Somali flag. It concludes with a call for investigation and prosecution.",
       "url": "https://www.trumpstruth.org/statuses/34957",
       "raw": {
         "creator": "",
@@ -1012,7 +1113,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841036607191081",
         "guid": "https://www.trumpstruth.org/statuses/34957",
         "isoDate": "2026-01-05T06:19:17.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:21:33.340Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14025/57e7640ba95d7e63.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34445",
@@ -1036,7 +1141,7 @@
       "id": "https://www.trumpstruth.org/statuses/34444",
       "publishedAt": "2026-01-05T06:19:46.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841038484322716</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841038484322716</span></p>\n\n[Image] The image features a tweet from the account Rapid Response 47, quoting a statement from the President of the United States regarding Greenland. The quote emphasizes the strategic importance of Greenland, mentioning the presence of Russian and Chinese ships in the area. The tweet highlights a national security concern related to Greenland's geopolitical significance. There are no images of individuals in this tweet.",
       "url": "https://www.trumpstruth.org/statuses/34444",
       "raw": {
         "creator": "",
@@ -1048,7 +1153,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841038484322716",
         "guid": "https://www.trumpstruth.org/statuses/34444",
         "isoDate": "2026-01-05T06:19:46.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:21:31.436Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13752/d7767b6a52cfb4b2.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34956",
@@ -1072,7 +1181,7 @@
       "id": "https://www.trumpstruth.org/statuses/34955",
       "publishedAt": "2026-01-05T06:20:52.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841042942747622</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841042942747622</span></p>\n\n[Image] The image is a tweet from Ada Lluch, featuring her commentary on Venezuelans' reactions to Donald Trump's actions regarding Nicolás Maduro. She states that she has not encountered any Venezuelans upset with Trump for arresting Maduro, emphasizing her point with \"Not one.\" The tweet reflects a political perspective on the situation in Venezuela and the U.S. response. There are no images or additional visuals included in the tweet.",
       "url": "https://www.trumpstruth.org/statuses/34955",
       "raw": {
         "creator": "",
@@ -1084,7 +1193,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841042942747622",
         "guid": "https://www.trumpstruth.org/statuses/34955",
         "isoDate": "2026-01-05T06:20:52.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:21:27.516Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14023/67cea4ab1584b71c.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34954",
@@ -1108,7 +1221,7 @@
       "id": "https://www.trumpstruth.org/statuses/34953",
       "publishedAt": "2026-01-05T06:21:28.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841045212479352</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841045212479352</span></p>\n\n[Image] The image features a tweet from the account Visegrád 24, stating that thousands of Venezuelan refugees have gathered in Panama to celebrate the capture of Nicolás Maduro. The tweet includes flags of the United States, Panama, and Venezuela. There are no images or photographs included in the tweet itself, just text and emojis representing the flags. The context suggests a significant political event related to Venezuelan leadership.",
       "url": "https://www.trumpstruth.org/statuses/34953",
       "raw": {
         "creator": "",
@@ -1120,7 +1233,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841045212479352",
         "guid": "https://www.trumpstruth.org/statuses/34953",
         "isoDate": "2026-01-05T06:21:28.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:21:23.141Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14021/5bac22b7da58a9e4.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34952",
@@ -1156,7 +1273,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841047136997408",
         "guid": "https://www.trumpstruth.org/statuses/34951",
         "isoDate": "2026-01-05T06:21:56.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14019/83dee9cd8e11e344.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34950",
@@ -1180,7 +1300,7 @@
       "id": "https://www.trumpstruth.org/statuses/34949",
       "publishedAt": "2026-01-05T06:22:35.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841049646107061</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841049646107061</span></p>\n\n[Image] The image features a tweet from a user named \"DUTCH,\" who has a verified account. The tweet expresses admiration with the phrase \"What a beautiful sight...\" followed by a heart-eyed emoji. There are no images or additional context provided in the tweet itself, so it's unclear what specific sight is being referred to. The account name suggests a patriotic theme, but no prominent politicians or recognizable figures are mentioned.",
       "url": "https://www.trumpstruth.org/statuses/34949",
       "raw": {
         "creator": "",
@@ -1192,7 +1312,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841049646107061",
         "guid": "https://www.trumpstruth.org/statuses/34949",
         "isoDate": "2026-01-05T06:22:35.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:21:14.336Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14017/6550b8e60ee727b5.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34948",
@@ -1216,7 +1340,7 @@
       "id": "https://www.trumpstruth.org/statuses/34947",
       "publishedAt": "2026-01-05T06:23:04.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841051659711505</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841051659711505</span></p>\n\n[Image] The image is a tweet from Molly Pitcher, who has a verified account. In the tweet, she comments on a perceived reaction from Democrats in the USA, contrasting it with celebrations in Venezuela. She expresses her belief in the Venezuelan people over the Democratic Party's statements. The tweet reflects a political viewpoint and engages with current events, highlighting a divide in perspectives on political issues.",
       "url": "https://www.trumpstruth.org/statuses/34947",
       "raw": {
         "creator": "",
@@ -1228,7 +1352,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841051659711505",
         "guid": "https://www.trumpstruth.org/statuses/34947",
         "isoDate": "2026-01-05T06:23:04.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:21:12.631Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14015/fe737e096c880981.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34946",
@@ -1252,7 +1380,7 @@
       "id": "https://www.trumpstruth.org/statuses/34945",
       "publishedAt": "2026-01-05T06:23:42.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841053931003033</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841053931003033</span></p>\n\n[Image] The image features a tweet from a user named Johnny Midnight, who criticizes Joe Biden's comments about Nicolás Maduro, suggesting that Biden's statements were ineffective. The tweet expresses a negative opinion about Biden's credibility regarding his remarks on Maduro. There are no images or visual elements included in the tweet itself, just text.",
       "url": "https://www.trumpstruth.org/statuses/34945",
       "raw": {
         "creator": "",
@@ -1264,7 +1392,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841053931003033",
         "guid": "https://www.trumpstruth.org/statuses/34945",
         "isoDate": "2026-01-05T06:23:42.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:21:09.527Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14013/7e2d68311c6d392a.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34446",
@@ -1288,7 +1420,7 @@
       "id": "https://www.trumpstruth.org/statuses/34944",
       "publishedAt": "2026-01-05T06:25:23.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841059338447850</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841059338447850</span></p>\n\n[Image] The image features a tweet from a user named Sebastian, expressing gratitude and highlighting a message about freedom and opportunity from a Venezuelan perspective. The tweet emphasizes the horrors of socialism and praises Donald Trump for his fight for the nation. It concludes with a call for patriotism and a blessing for America and Trump, accompanied by American flag emojis. The overall tone is supportive of Trump and critical of socialism.",
       "url": "https://www.trumpstruth.org/statuses/34944",
       "raw": {
         "creator": "",
@@ -1300,7 +1432,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841059338447850",
         "guid": "https://www.trumpstruth.org/statuses/34944",
         "isoDate": "2026-01-05T06:25:23.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:21:05.749Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14012/1a043d67f6a661e4.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34943",
@@ -1324,7 +1460,7 @@
       "id": "https://www.trumpstruth.org/statuses/34942",
       "publishedAt": "2026-01-05T06:28:06.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841071217721759</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841071217721759</span></p>\n\n[Image] The image is a tweet from Mila Joy, where she makes serious allegations against Ilhan Omar, including money laundering, racketeering, and immigration fraud. The tweet concludes with a call to \"lock her up then boot her out.\" The tone is accusatory and reflects a strong political stance against Omar. The content suggests a contentious political climate and highlights ongoing debates surrounding Omar's actions and integrity.",
       "url": "https://www.trumpstruth.org/statuses/34942",
       "raw": {
         "creator": "",
@@ -1336,7 +1472,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841071217721759",
         "guid": "https://www.trumpstruth.org/statuses/34942",
         "isoDate": "2026-01-05T06:28:06.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:21:01.560Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14010/58f8e10d34e61195.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34941",
@@ -1360,7 +1500,7 @@
       "id": "https://www.trumpstruth.org/statuses/34940",
       "publishedAt": "2026-01-05T06:28:46.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is a tweet from a user named RealRobert, featuring a text post discussing voter ID laws and allegations of election fraud. It claims that twenty public officials bought votes and references Barack Obama, stating he was never qualified for the primary in Indiana due to forged signatures. The tweet argues against the Democratic stance on voter ID laws. There are no images or visual elements included in the text.",
       "url": "https://www.trumpstruth.org/statuses/34940",
       "raw": {
         "creator": "",
@@ -1372,7 +1512,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34940",
         "isoDate": "2026-01-05T06:28:46.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:20:54.407Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14008/659ea23cc9c54609.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34939",
@@ -1414,7 +1558,7 @@
       "id": "https://www.trumpstruth.org/statuses/34937",
       "publishedAt": "2026-01-05T06:29:36.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a tweet from a user with the handle @lakemonsterc1. The profile picture shows a man wearing sunglasses and a hat, with a patriotic theme in his username, which includes references to God, family, and country. The tweet expresses frustration with the government, questioning why tax money is paid to what the user describes as a \"broken, lying, thieving government.\" There are no recognizable public figures in the image.",
       "url": "https://www.trumpstruth.org/statuses/34937",
       "raw": {
         "creator": "",
@@ -1426,7 +1570,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34937",
         "isoDate": "2026-01-05T06:29:36.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:20:49.768Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14005/4dc327e47aca7e18.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34448",
@@ -1450,7 +1598,7 @@
       "id": "https://www.trumpstruth.org/statuses/34447",
       "publishedAt": "2026-01-05T06:30:04.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841079110796190</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841079110796190</span></p>\n\n[Image] The image features a tweet from a user named Sebastian, who has a verified account. The tweet expresses a controversial opinion, stating that \"Literal YT Women\" are \"The Most Damaging Creatures on Earth.\" The tone appears provocative, likely aimed at sparking discussion or debate. There are no recognizable public figures or images in the tweet itself, just text.",
       "url": "https://www.trumpstruth.org/statuses/34447",
       "raw": {
         "creator": "",
@@ -1462,7 +1610,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841079110796190",
         "guid": "https://www.trumpstruth.org/statuses/34447",
         "isoDate": "2026-01-05T06:30:04.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:20:44.319Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13755/088549923a8c8478.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34936",
@@ -1486,7 +1638,7 @@
       "id": "https://www.trumpstruth.org/statuses/34935",
       "publishedAt": "2026-01-05T06:32:31.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841088852238579</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841088852238579</span></p>\n\n[Image] The image features a tweet from a user named Dar, who expresses support for Nick Shirley, describing him as a \"solid young man.\" The tweet mentions that Shirley is part of an interview with Patrick Bet David, where he claims to embody everything the left opposes and aspires to be their \"worst enemy.\" The tweet includes various emojis to emphasize enthusiasm and approval for Shirley's stance. No prominent politicians are identified in the image.",
       "url": "https://www.trumpstruth.org/statuses/34935",
       "raw": {
         "creator": "",
@@ -1498,7 +1650,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841088852238579",
         "guid": "https://www.trumpstruth.org/statuses/34935",
         "isoDate": "2026-01-05T06:32:31.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:20:40.392Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14003/4e5942eabb16f7ac.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34934",
@@ -1522,7 +1678,7 @@
       "id": "https://www.trumpstruth.org/statuses/34933",
       "publishedAt": "2026-01-05T06:33:06.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841091088639392</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841091088639392</span></p>\n\n[Image] The image is a tweet from a user named @lakemonstercl1, who has a profile picture of a man wearing sunglasses and a hat. The tweet expresses frustration about a perceived lack of arrests despite what the user describes as clear evidence of wrongdoing. The message includes strong language and emphasizes themes of patriotism and family values, indicated by the use of American flags and phrases like \"God, Family, Country.\"",
       "url": "https://www.trumpstruth.org/statuses/34933",
       "raw": {
         "creator": "",
@@ -1534,7 +1690,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841091088639392",
         "guid": "https://www.trumpstruth.org/statuses/34933",
         "isoDate": "2026-01-05T06:33:06.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:20:37.806Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14001/464414fd7536cce5.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34450",
@@ -1570,7 +1730,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841093691693876",
         "guid": "https://www.trumpstruth.org/statuses/34449",
         "isoDate": "2026-01-05T06:33:45.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13757/67e36a5dd4abcfd8.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34932",
@@ -1612,7 +1775,7 @@
       "id": "https://www.trumpstruth.org/statuses/34451",
       "publishedAt": "2026-01-05T06:40:32.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841120314021927</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841120314021927</span></p>\n\n[Image] The image is a tweet from a user named RealRobert, featuring a text post discussing claims about the Dominion Voting Systems and alleged election fraud. It mentions an IT expert demonstrating how votes were switched from Donald Trump to Joe Biden during the 2020 election. The tweet also references Tina Peters, suggesting she is imprisoned. The content reflects ongoing controversies surrounding election integrity and voting technology.",
       "url": "https://www.trumpstruth.org/statuses/34451",
       "raw": {
         "creator": "",
@@ -1624,7 +1787,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841120314021927",
         "guid": "https://www.trumpstruth.org/statuses/34451",
         "isoDate": "2026-01-05T06:40:32.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:20:22.945Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13759/8edf5a785a994165.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34453",
@@ -1648,7 +1815,7 @@
       "id": "https://www.trumpstruth.org/statuses/34455",
       "publishedAt": "2026-01-05T19:12:57.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a tweet from Pete Hegseth, identified as the Secretary of War, discussing actions against Senator Mark Kelly. Hegseth accuses Kelly of reckless misconduct related to a video undermining military discipline. He outlines administrative actions, including a retirement grade determination process that could affect Kelly's military pension. The tweet emphasizes accountability and the potential consequences of Kelly's statements, which are deemed seditious.",
       "url": "https://www.trumpstruth.org/statuses/34455",
       "raw": {
         "creator": "",
@@ -1660,7 +1827,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34455",
         "isoDate": "2026-01-05T19:12:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:20:21.265Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13761/b836df7ce935ffaa.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34454",
@@ -1696,7 +1867,10 @@
         "contentSnippet": "The incredible people of Kentucky’s 4th Congressional District, who want desperately to get rid of Thomas Massie, the Worst “Republican” Congressman we have had in many years, gave us a mandate to, MAKE AMERICA GREAT AGAIN! The person that will help us do the job, and do it right, is Navy SEAL, Army Ranger, Fifth Generation Kentucky Farmer, and American Hero, Captain Ed Gallrein, a true Patriot. Today, Ed, who also happens to be central casting, officially filed to run for Congress. I have heard that there are other Candidates exploring a run for this seat, but I am asking all MAGA Warriors to rally behind Captain Ed Gallrein, the Candidate who is, far and away, best positioned to DEFEAT Third Rate Congressman Thomas Massie, a Weak and Pathetic RINO from the beautiful Commonwealth of Kentucky, a place I love, and won BIG, ALL THREE TIMES.\n A Brave Combat Veteran, Ed knows the Wisdom and Courage required to Defend our Country, Support our Military/Veterans, and Ensure PEACE THROUGH STRENGTH. He is a big fan of our recent attack on Nicolas Maduro, the Dictator of Venezuela. Additionally, as a very successful Businessman, Ed knows how to Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Support our Amazing Farmers and American Agriculture, Unleash American Energy Dominance, and Champion our Nation’s Golden Age. In Congress, he will fight tirelessly to Keep our now very Secure Border, SECURE, Stop Migrant Crime, and Defend our always under siege Second Amendment.\n Captain Ed Gallrein has my Complete and Total Endorsement against “Congressman” Thomas Massie — He only votes AGAINST the Republican Party, making life very easy for the Radical Left. Unlike “lightweight” Congressman Massie, a true hater of Israel, and a totally ineffective LOSER who has failed us so badly, CAPTAIN ED GALLREIN IS A WINNER WHO WILL NOT LET KENTUCKY DOWN!",
         "guid": "https://www.trumpstruth.org/statuses/34456",
         "isoDate": "2026-01-05T22:08:18.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13762/78290b40e2725cfe.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34457",
@@ -1720,7 +1894,7 @@
       "id": "https://www.trumpstruth.org/statuses/34458",
       "publishedAt": "2026-01-05T22:31:41.000Z",
       "title": "Today, the Trump Administration is proud to announce the United States of America’s updated Childhood Vaccination Schedule. This Schedule is rooted in the Gold Standard of Science, and widely agreed upon by Scientists and Experts all over the World. Effective today, America will no longer require 72 “jabs” for our beautiful, healthy children. We are moving to a far more reasonable Schedule, where all children will only be recommended to receive Vaccinations for 11 of the most serious and dangerous diseases. Parents can still choose to give their children all of the Vaccinations, if they wish, and they will still be covered by insurance. However, this updated Schedule finally aligns the United States with other Developed Nations around the World. Congratulations to HHS Secretary Bobby Kennedy, CDC Acting Director Jim O’Neil, FDA Commissioner Marty Makary, CMS Administrator Dr. Oz, NIH Director Jay Bhattacharya, and all of the Medical Experts and Professionals who worked very hard to make this happen. Many Americans, especially the “MAHA Moms,” have been praying for these COMMON SENSE reforms for many years. Thank you for your attention to this matter! DONALD J. TRUMPPRESIDENT OF THE UNITED STATES OF AMERICA",
-      "text": "<p>Today, the Trump Administration is proud to announce the United States of America’s updated Childhood Vaccination Schedule. This Schedule is rooted in the Gold Standard of Science, and widely agreed upon by Scientists and Experts all over the World. Effective today, America will no longer require 72 “jabs” for our beautiful, healthy children. We are moving to a far more reasonable Schedule, where all children will only be recommended to receive Vaccinations for 11 of the most serious and dangerous diseases. Parents can still choose to give their children all of the Vaccinations, if they wish, and they will still be covered by insurance. However, this updated Schedule finally aligns the United States with other Developed Nations around the World. Congratulations to HHS Secretary Bobby Kennedy, CDC Acting Director Jim O’Neil, FDA Commissioner Marty Makary, CMS Administrator Dr. Oz, NIH Director Jay Bhattacharya, and all of the Medical Experts and Professionals who worked very hard to make this happen. Many Americans, especially the “MAHA Moms,” have been praying for these COMMON SENSE reforms for many years. Thank you for your attention to this matter!<br/> <br/>DONALD J. TRUMP<br/>PRESIDENT OF THE UNITED STATES OF AMERICA</p>",
+      "text": "<p>Today, the Trump Administration is proud to announce the United States of America’s updated Childhood Vaccination Schedule. This Schedule is rooted in the Gold Standard of Science, and widely agreed upon by Scientists and Experts all over the World. Effective today, America will no longer require 72 “jabs” for our beautiful, healthy children. We are moving to a far more reasonable Schedule, where all children will only be recommended to receive Vaccinations for 11 of the most serious and dangerous diseases. Parents can still choose to give their children all of the Vaccinations, if they wish, and they will still be covered by insurance. However, this updated Schedule finally aligns the United States with other Developed Nations around the World. Congratulations to HHS Secretary Bobby Kennedy, CDC Acting Director Jim O’Neil, FDA Commissioner Marty Makary, CMS Administrator Dr. Oz, NIH Director Jay Bhattacharya, and all of the Medical Experts and Professionals who worked very hard to make this happen. Many Americans, especially the “MAHA Moms,” have been praying for these COMMON SENSE reforms for many years. Thank you for your attention to this matter!<br/> <br/>DONALD J. TRUMP<br/>PRESIDENT OF THE UNITED STATES OF AMERICA</p>\n\n[Image] The image compares childhood vaccination schedules between a European country and the United States. On the left, a cartoon baby is depicted with 11 syringes surrounding it, representing the number of injections in the European country. On the right, the same baby is shown with 72 syringes encircling it, indicating the number of injections in the United States. The visual emphasizes the significant difference in vaccination requirements between the two regions.",
       "url": "https://www.trumpstruth.org/statuses/34458",
       "raw": {
         "creator": "",
@@ -1732,7 +1906,11 @@
         "contentSnippet": "Today, the Trump Administration is proud to announce the United States of America’s updated Childhood Vaccination Schedule. This Schedule is rooted in the Gold Standard of Science, and widely agreed upon by Scientists and Experts all over the World. Effective today, America will no longer require 72 “jabs” for our beautiful, healthy children. We are moving to a far more reasonable Schedule, where all children will only be recommended to receive Vaccinations for 11 of the most serious and dangerous diseases. Parents can still choose to give their children all of the Vaccinations, if they wish, and they will still be covered by insurance. However, this updated Schedule finally aligns the United States with other Developed Nations around the World. Congratulations to HHS Secretary Bobby Kennedy, CDC Acting Director Jim O’Neil, FDA Commissioner Marty Makary, CMS Administrator Dr. Oz, NIH Director Jay Bhattacharya, and all of the Medical Experts and Professionals who worked very hard to make this happen. Many Americans, especially the “MAHA Moms,” have been praying for these COMMON SENSE reforms for many years. Thank you for your attention to this matter!\n DONALD J. TRUMP\nPRESIDENT OF THE UNITED STATES OF AMERICA",
         "guid": "https://www.trumpstruth.org/statuses/34458",
         "isoDate": "2026-01-05T22:31:41.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:20:09.352Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13763/486409900a60deca.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34459",
@@ -2331,5 +2509,5 @@
       "analyzedAt": "2026-09-06T06:31:11.977Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:96:6f1c002490ac90e06aa309f3"
+  "selfPraiseCacheKey": "self-praise-v1:96:6f1c002490ac90e06aa309f3"
 }

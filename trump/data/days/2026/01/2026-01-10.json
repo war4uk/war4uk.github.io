@@ -6,23 +6,24 @@
     "negative": 3
   },
   "summary": "positive:13 neutral:8 negative:3",
-  "generatedAt": "2026-09-06T06:44:27.827Z",
+  "generatedAt": "2026-09-07T14:51:16.255Z",
   "topics": [
-    "Venezuela begins releasing political prisoners and seeks to improve relations",
-    "Endorses Jon Maples for Florida's 87th State House District",
-    "Protests at Iranian Embassy in London signal desire for freedom"
+    "Trump's initiatives to lower mortgage rates and make homeownership affordable",
+    "Support for the Iranian people's fight for freedom and criticism of the Obama administration",
+    "Endorsement of Jon Maples for Florida's 87th State House District"
   ],
-  "trendingTopic": "Venezuela begins releasing political prisoners and seeks to improve relations",
+  "trendingTopic": "Trump's initiatives to lower mortgage rates and make homeownership affordable",
   "secondaryHighlights": [
     {
-      "topic": "Endorses Jon Maples for Florida's 87th State House District",
-      "name": "Jon Maples"
+      "topic": "Support for the Iranian people's fight for freedom and criticism of the Obama administration"
     },
     {
-      "topic": "Protests at Iranian Embassy in London signal desire for freedom"
+      "topic": "Endorsement of Jon Maples for Florida's 87th State House District",
+      "name": "Jon Maples"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v10:24:321e8a36773f203f896997bd",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34505",
@@ -94,7 +95,10 @@
         "contentSnippet": "Now featured at the National Portrait Gallery (8th and G Streets NW, Washington, D.C. 20001)!",
         "guid": "https://www.trumpstruth.org/statuses/34508",
         "isoDate": "2026-01-10T01:17:47.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13772/6147570969d022b9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34925",
@@ -130,7 +134,10 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115670577719463498Venom and Valor Earns Prestigious Recognition as Best Leadership and Resilience Book of 2025: https://markets.financialcontent.com/stocks/article/marketersmedia-2026-1-9-venom-and-valor-earns-prestigious-recognition-as-best-leadership-and-resilience-book-of-2025",
         "guid": "https://www.trumpstruth.org/statuses/34509",
         "isoDate": "2026-01-10T01:33:18.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13644/a3dfc0280a1adcbb.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34510",
@@ -154,7 +161,7 @@
       "id": "https://www.trumpstruth.org/statuses/34924",
       "publishedAt": "2026-01-10T01:50:41.000Z",
       "title": "[No Title] - Post from January 10, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a graph showing mortgage rates dropping below 6% for the first time in four years. The rates are plotted over a week, with a notable decline from 6.21% to 5.875%. A tweet from Donald Trump is included, stating his intention to instruct representatives to buy $200 billion in mortgage bonds to lower rates and make homeownership more affordable. The image also lists mortgage rates from two lenders: New American Funding at 5.63% and First Federal Bank at 5.75%.",
       "url": "https://www.trumpstruth.org/statuses/34924",
       "raw": {
         "creator": "",
@@ -166,13 +173,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34924",
         "isoDate": "2026-01-10T01:50:41.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:24:56.010Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13993/f963b6c9c51c786f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34511",
       "publishedAt": "2026-01-10T01:50:59.000Z",
       "title": "[No Title] - Post from January 10, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a CNBC news article headline stating that mortgage rates have dropped to their lowest level in nearly three years, coinciding with Donald Trump's order for the purchase of $200 billion in mortgage bonds. The article is authored by Diana Olick, whose social media handles are displayed. Key points mention analysts predicting a drop in rates by a quarter to half a percentage point. The publication date is January 9, 2026.",
       "url": "https://www.trumpstruth.org/statuses/34511",
       "raw": {
         "creator": "",
@@ -184,7 +195,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34511",
         "isoDate": "2026-01-10T01:50:59.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:24:53.807Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13774/1a74399a3033fac2.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34512",
@@ -298,7 +313,7 @@
       "id": "https://www.trumpstruth.org/statuses/34518",
       "publishedAt": "2026-01-10T16:35:23.000Z",
       "title": "[No Title] - Post from January 10, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features a tweet from Lindsey Graham, where he praises Marco Rubio for his stance on supporting the Iranian people against their regime. Graham criticizes the previous Obama administration's approach and emphasizes the U.S. commitment to standing with those protesting for a better life in Iran. He concludes with the phrase \"Make Iran Great Again.\" The tweet includes a retweet from Marco Rubio, expressing support for the brave people of Iran.",
       "url": "https://www.trumpstruth.org/statuses/34518",
       "raw": {
         "creator": "",
@@ -310,7 +325,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34518",
         "isoDate": "2026-01-10T16:35:23.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:24:44.915Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13775/5d74037970ada26c.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34519",
@@ -603,5 +622,5 @@
       "analyzedAt": "2026-09-06T06:32:11.472Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:24:321e8a36773f203f896997bd"
+  "selfPraiseCacheKey": "self-praise-v1:24:321e8a36773f203f896997bd"
 }

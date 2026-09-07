@@ -6,23 +6,23 @@
     "negative": 2
   },
   "summary": "positive:8 neutral:12 negative:2",
-  "generatedAt": "2026-09-06T06:44:58.237Z",
+  "generatedAt": "2026-09-07T14:52:08.493Z",
   "topics": [
-    "Encourages voters in Texas' 9th State Senate District to support Leigh Wambsganss",
-    "Celebrates the success of the film 'MELANIA' with high audience ratings",
-    "Criticizes the Biden Administration for alleged fraud in Minnesota"
+    "Encourages Texas voters to support Leigh Wambsganss in State Senate election",
+    "Promotes the film 'MELANIA' as a must-see with strong audience reception",
+    "Critiques the Bureau of Labor Statistics and nominates Brett Mat for Commissioner"
   ],
-  "trendingTopic": "Encourages voters in Texas' 9th State Senate District to support Leigh Wambsganss",
-  "trendingName": "Leigh Wambsganss",
+  "trendingTopic": "Encourages Texas voters to support Leigh Wambsganss in State Senate election",
   "secondaryHighlights": [
     {
-      "topic": "Celebrates the success of the film 'MELANIA'"
+      "topic": "Promotes the film 'MELANIA' as a must-see with strong audience reception"
     },
     {
-      "topic": "Criticizes the Biden Administration for alleged fraud in Minnesota"
+      "topic": "Critiques the Bureau of Labor Statistics and nominates Brett Mat for Commissioner"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:22:d54577c710e8e631930d87ab",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36367",
@@ -136,7 +136,7 @@
       "id": "https://www.trumpstruth.org/statuses/36373",
       "publishedAt": "2026-01-31T16:27:12.000Z",
       "title": "The people of our once again great Country want Law, Order, and Justice!",
-      "text": "<p>The people of our once again great Country want Law, Order, and Justice!</p>",
+      "text": "<p>The people of our once again great Country want Law, Order, and Justice!</p>\n\n[Image] The image presents a survey conducted by Harper Polling regarding the opinions of likely Trump GOP voters. It highlights that 92% approve of Donald Trump, while 81% approve of Kristi Noem, the Secretary of Homeland Security. The survey indicates strong support for immigration policies, with 93% approving of deportations and 87% approving of Noem's strategies. The data reflects a general belief among respondents that U.S. border security has improved over the past year.",
       "url": "https://www.trumpstruth.org/statuses/36373",
       "raw": {
         "creator": "",
@@ -148,7 +148,11 @@
         "contentSnippet": "The people of our once again great Country want Law, Order, and Justice!",
         "guid": "https://www.trumpstruth.org/statuses/36373",
         "isoDate": "2026-01-31T16:27:12.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:40:44.710Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15260/7e60d5d327811d71.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36376",
@@ -172,7 +176,7 @@
       "id": "https://www.trumpstruth.org/statuses/36375",
       "publishedAt": "2026-01-31T17:13:04.000Z",
       "title": "[No Title] - Post from January 31, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115990827602274653</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115990827602274653</span></p>\n\n[Image] The image is a tweet from a user named Kosher, featuring a blue verified checkmark. The tweet states \"HAPPENING NOW - Tehran\" and claims that the IRGC (Islamic Revolutionary Guard Corps) is in a state of panic. The language used is informal and expresses urgency regarding the situation in Tehran. There are no recognizable public figures or images in this tweet.",
       "url": "https://www.trumpstruth.org/statuses/36375",
       "raw": {
         "creator": "",
@@ -184,7 +188,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115990827602274653",
         "guid": "https://www.trumpstruth.org/statuses/36375",
         "isoDate": "2026-01-31T17:13:04.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:40:42.398Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15262/f4c56dca512f008b.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36374",
@@ -226,7 +234,7 @@
       "id": "https://www.trumpstruth.org/statuses/36385",
       "publishedAt": "2026-01-31T17:15:31.000Z",
       "title": "[No Title] - Post from January 31, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115990834742814001</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115990834742814001</span></p>\n\n[Image] The image is a tweet from a user named RealRobert, featuring a message about the November 3, 2020, election. The tweet claims that raw data from the election was scrubbed from state websites, alleging significant fraudulent votes in Pennsylvania, Georgia, and Arizona. It states that 1.5 million votes in Pennsylvania, nearly 200,000 in Georgia, and 36,400 illegal votes in Arizona were counted. The tweet concludes by asserting that the 2020 election was a \"treasonous conspiracy.\"",
       "url": "https://www.trumpstruth.org/statuses/36385",
       "raw": {
         "creator": "",
@@ -238,13 +246,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115990834742814001",
         "guid": "https://www.trumpstruth.org/statuses/36385",
         "isoDate": "2026-01-31T17:15:31.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:40:35.329Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15272/fe778f0f6e8bb6cf.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36383",
       "publishedAt": "2026-01-31T17:15:47.000Z",
       "title": "[No Title] - Post from January 31, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115990836583962276</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115990836583962276</span></p>\n\n[Image] The image is a tweet from a user with the handle @XTexasGirlX. The tweet discusses the issue of unaccompanied migrant children and criticizes the Biden administration for allegedly ignoring calls for help, claiming that a hotline had only one staff member. The user contrasts this situation with how they believe it would have been perceived if it had occurred under Donald Trump, accusing Democrats of hypocrisy. The tweet includes emojis for emphasis.",
       "url": "https://www.trumpstruth.org/statuses/36383",
       "raw": {
         "creator": "",
@@ -256,7 +268,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115990836583962276",
         "guid": "https://www.trumpstruth.org/statuses/36383",
         "isoDate": "2026-01-31T17:15:47.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:40:31.445Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15270/058d7b8346f92bb6.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36382",
@@ -280,7 +296,7 @@
       "id": "https://www.trumpstruth.org/statuses/36381",
       "publishedAt": "2026-01-31T17:17:42.000Z",
       "title": "[No Title] - Post from January 31, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115990845824481036</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115990845824481036</span></p>\n\n[Image] The image features a tweet from a user named Shannon, who expresses support for Donald Trump, referring to him as \"President Trump.\" The tweet emphasizes his dedication to protecting \"we the people\" and mentions his sacrifices. Accompanying the text are American flag emojis and a prayer emoji, indicating a patriotic sentiment. The tweet is verified, as indicated by the blue checkmark next to the user's name.",
       "url": "https://www.trumpstruth.org/statuses/36381",
       "raw": {
         "creator": "",
@@ -292,7 +308,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115990845824481036",
         "guid": "https://www.trumpstruth.org/statuses/36381",
         "isoDate": "2026-01-31T17:17:42.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:40:24.215Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15268/8d8af80dab9aad74.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36380",
@@ -316,7 +336,7 @@
       "id": "https://www.trumpstruth.org/statuses/36379",
       "publishedAt": "2026-01-31T17:18:15.000Z",
       "title": "[No Title] - Post from January 31, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115990847997564990</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115990847997564990</span></p>\n\n[Image] The image features a tweet from Bill Mitchell discussing a recent Supreme Court ruling that he claims grants Donald Trump broad wartime authority under the 1798 Alien Enemies Act. The tweet emphasizes the implications of this ruling for gang deportations, specifically mentioning \"Tren de Aragua thugs\" and their potential deportation to El Salvador. The tone suggests a strong support for the ruling and its intended impact on public safety.",
       "url": "https://www.trumpstruth.org/statuses/36379",
       "raw": {
         "creator": "",
@@ -328,7 +348,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115990847997564990",
         "guid": "https://www.trumpstruth.org/statuses/36379",
         "isoDate": "2026-01-31T17:18:15.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:40:22.199Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15266/5f75badb5d2a398a.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36378",
@@ -364,13 +388,16 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115990850047628823",
         "guid": "https://www.trumpstruth.org/statuses/36377",
         "isoDate": "2026-01-31T17:18:47.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15264/1470e0947c90761a.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36387",
       "publishedAt": "2026-01-31T18:17:09.000Z",
       "title": "MELANIA, the film.#1 Highest Opening In 10 Yrs (Doc)Loved By All - “A”CinemaScore",
-      "text": "<p>MELANIA, the film.<br/><a href=\"https://truthsocial.com/tags/1\" class=\"mention hashtag\" rel=\"tag\">#<span>1</span></a> Highest Opening In 10 Yrs (Doc)<br/>Loved By All - “A”CinemaScore</p>",
+      "text": "<p>MELANIA, the film.<br/><a href=\"https://truthsocial.com/tags/1\" class=\"mention hashtag\" rel=\"tag\">#<span>1</span></a> Highest Opening In 10 Yrs (Doc)<br/>Loved By All - “A”CinemaScore</p>\n\n[Image] Melania Trump is standing in front of a large sign that reads \"MELANIA.\" She is wearing a white button-up shirt tucked into high-waisted black pants, paired with black heels. Her hair is styled in loose waves, and she is smiling while posing with one hand in her pocket. The background is simple and elegant, emphasizing her presence at the event. The overall atmosphere appears to be formal and stylish.",
       "url": "https://www.trumpstruth.org/statuses/36387",
       "raw": {
         "creator": "",
@@ -382,13 +409,17 @@
         "contentSnippet": "MELANIA, the film.\n#1 Highest Opening In 10 Yrs (Doc)\nLoved By All - “A”CinemaScore",
         "guid": "https://www.trumpstruth.org/statuses/36387",
         "isoDate": "2026-01-31T18:17:09.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:40:08.239Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15273/09fe6c59cea3822d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36386",
       "publishedAt": "2026-01-31T19:02:03.000Z",
       "title": "RT @MelaniaTrumpMELANIA, the film.#1 Highest Opening In 10 Yrs (Doc)Loved By All - “A”CinemaScore",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@MelaniaTrump\" class=\"u-url mention\">@<span>MelaniaTrump</span></a></span>MELANIA, the film.<br/><a href=\"https://truthsocial.com/tags/1\" class=\"mention hashtag\" rel=\"tag\">#<span>1</span></a> Highest Opening In 10 Yrs (Doc)<br/>Loved By All - “A”CinemaScore</p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@MelaniaTrump\" class=\"u-url mention\">@<span>MelaniaTrump</span></a></span>MELANIA, the film.<br/><a href=\"https://truthsocial.com/tags/1\" class=\"mention hashtag\" rel=\"tag\">#<span>1</span></a> Highest Opening In 10 Yrs (Doc)<br/>Loved By All - “A”CinemaScore</p>\n\n[Image] Melania Trump is standing in front of a large sign that reads \"MELANIA.\" She is wearing a white button-up shirt tucked into high-waisted black pants, complemented by black high-heeled shoes. Her hair is styled in loose waves, and she is smiling while posing with one hand on her hip. The background is simple and elegant, focusing attention on her and the sign. The setting appears to be a promotional or branding event related to her name.",
       "url": "https://www.trumpstruth.org/statuses/36386",
       "raw": {
         "creator": "",
@@ -400,7 +431,11 @@
         "contentSnippet": "RT @MelaniaTrumpMELANIA, the film.\n#1 Highest Opening In 10 Yrs (Doc)\nLoved By All - “A”CinemaScore",
         "guid": "https://www.trumpstruth.org/statuses/36386",
         "isoDate": "2026-01-31T19:02:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:40:06.618Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15273/09fe6c59cea3822d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/36388",
@@ -555,5 +590,5 @@
       "analyzedAt": "2026-09-06T06:37:03.286Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:22:d54577c710e8e631930d87ab"
+  "selfPraiseCacheKey": "self-praise-v1:22:d54577c710e8e631930d87ab"
 }

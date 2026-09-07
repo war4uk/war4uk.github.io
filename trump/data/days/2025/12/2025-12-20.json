@@ -6,23 +6,23 @@
     "negative": 0
   },
   "summary": "positive:6 neutral:4 negative:0",
-  "generatedAt": "2026-09-06T06:44:03.361Z",
+  "generatedAt": "2026-09-07T14:50:35.172Z",
   "topics": [
-    "Gas prices hit lowest December levels in 4 years as holiday travel increases",
-    "Trump administration claims record low migrant exits as border security touted",
-    "Bruce Blakeman announces candidacy for Governor of New York"
+    "Attends event in North Carolina and supports Michael Whatley for Senate",
+    "Approves Emergency Declaration for Montana due to severe storms",
+    "Celebrates birthday of the United States Space Force"
   ],
-  "trendingTopic": "Gas prices hit lowest December levels in 4 years as holiday travel increases",
+  "trendingTopic": "Attends event in North Carolina and supports Michael Whatley for Senate",
   "secondaryHighlights": [
     {
-      "topic": "Trump administration claims record low migrant exits as border security touted"
+      "topic": "Approves Emergency Declaration for Montana due to severe storms"
     },
     {
-      "topic": "Bruce Blakeman announces candidacy for Governor of New York",
-      "name": "Bruce Blakeman"
+      "topic": "Celebrates birthday of the United States Space Force"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:10:42b5662b78f5ce5d4ec5152b",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34280",
@@ -118,7 +118,7 @@
       "id": "https://www.trumpstruth.org/statuses/34282",
       "publishedAt": "2025-12-20T19:46:19.000Z",
       "title": "[No Title] - Post from December 20, 2025",
-      "text": "<p></p>",
+      "text": "[Image] The image celebrates the birthday of the United States Space Force, featuring a rocket launch against a twilight sky. The rocket is ascending, leaving a trail of smoke and flames, with clouds billowing around the launch pad. The text \"HAPPY BIRTHDAY UNITED STATES SPACE FORCE\" is prominently displayed, along with the logos of the Department of Defense and the Space Force. The phrase \"SEMPER SUPRA\" is included, emphasizing the mission of the Space Force.",
       "url": "https://www.trumpstruth.org/statuses/34282",
       "raw": {
         "creator": "",
@@ -130,7 +130,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34282",
         "isoDate": "2025-12-20T19:46:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:09:36.104Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13668/b992cc17e345167f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34283",
@@ -267,5 +271,5 @@
       "analyzedAt": "2026-09-06T06:27:44.246Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:10:42b5662b78f5ce5d4ec5152b"
+  "selfPraiseCacheKey": "self-praise-v1:10:42b5662b78f5ce5d4ec5152b"
 }

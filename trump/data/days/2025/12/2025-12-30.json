@@ -6,22 +6,23 @@
     "negative": 3
   },
   "summary": "positive:6 neutral:9 negative:3",
-  "generatedAt": "2026-09-06T06:44:13.418Z",
+  "generatedAt": "2026-09-07T14:50:52.277Z",
   "topics": [
-    "Trump's address forecasts economic recovery and announces 'Warrior Dividend' for troops",
-    "Kennedy Center to be renamed Trump-Kennedy Center",
-    "Windmills harming Bald Eagles"
+    "Kennedy Center Board votes to rename venue to Trump-Kennedy Center",
+    "Trump addresses the nation, promising economic recovery and a 'Warrior Dividend' for troops",
+    "Concerns raised over wind energy's impact on wildlife and local communities"
   ],
-  "trendingTopic": "Trump's address forecasts economic recovery and announces 'Warrior Dividend' for troops",
+  "trendingTopic": "Kennedy Center Board votes to rename venue to Trump-Kennedy Center",
   "secondaryHighlights": [
     {
-      "topic": "Kennedy Center to be renamed Trump-Kennedy Center"
+      "topic": "Trump addresses the nation, promising economic recovery and a 'Warrior Dividend' for troops"
     },
     {
-      "topic": "Windmills harming Bald Eagles"
+      "topic": "Concerns raised over wind energy's impact on wildlife and local communities"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:18:6d89c508188f9413eec5af23",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34369",
@@ -219,13 +220,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35058",
         "isoDate": "2025-12-30T22:36:15.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14129/4e7eac03dd8ea243.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14130/c25dee1749bd62f2.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35057",
       "publishedAt": "2025-12-30T22:36:27.000Z",
       "title": "[No Title] - Post from December 30, 2025",
-      "text": "<p></p>",
+      "text": "[Image] The images consist of a series of tweets discussing the Kennedy Center and its connection to Donald Trump. Users express opinions on the Kennedy family's involvement and the proposed renaming of the center to the Trump-Kennedy Center. Some tweets highlight Trump's role in revitalizing the center, while others criticize the Kennedy family's historical neglect. The conversation reflects polarized views on political affiliations and the significance of the name change.",
       "url": "https://www.trumpstruth.org/statuses/35057",
       "raw": {
         "creator": "",
@@ -237,7 +242,12 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35057",
         "isoDate": "2025-12-30T22:36:27.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:15:35.577Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14127/866c83ddeed55b7e.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14128/97d01de40cfd0d15.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34380",
@@ -255,7 +265,10 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34380",
         "isoDate": "2025-12-30T22:36:40.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13715/655d0b1d8cd0e461.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34379",
@@ -273,13 +286,16 @@
         "contentSnippet": "https://www.washingtonpost.com/opinions/2025/11/19/trump-interview-pennsylvania-steel-tariffs/",
         "guid": "https://www.trumpstruth.org/statuses/34379",
         "isoDate": "2025-12-30T22:38:15.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13714/8543a67e4b13fa4e.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35056",
       "publishedAt": "2025-12-30T22:43:12.000Z",
       "title": "[No Title] - Post from December 30, 2025",
-      "text": "<p></p>",
+      "text": "[Image] The images contain text from an article discussing a lawsuit filed by neighbors of a wind farm in Albany County, New York. The plaintiffs claim that the wind turbines cause noise and light disturbances, leading to health issues and financial losses. They allege negligence by the companies involved in the project, which began operating in 2011. The article details specific complaints from various plaintiffs regarding the impact on their properties and livelihoods.",
       "url": "https://www.trumpstruth.org/statuses/35056",
       "raw": {
         "creator": "",
@@ -291,7 +307,12 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35056",
         "isoDate": "2025-12-30T22:43:12.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:15:20.017Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14125/3ebaebbe06eabe3d.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14126/bda5b9a0902d423b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35055",
@@ -309,13 +330,18 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35055",
         "isoDate": "2025-12-30T22:43:43.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14122/649de99d1cdca2d2.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14123/9268b9225a943c22.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14124/43ca44a36398c50d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34382",
       "publishedAt": "2025-12-30T22:44:16.000Z",
       "title": "[No Title] - Post from December 30, 2025",
-      "text": "<p></p>",
+      "text": "[Image] The image features a collage related to wind energy and its impact on wildlife. It includes a damaged wind turbine with a torn blade, a person inspecting a turbine, and a flock of birds near wind farms. There are also statistics about bird fatalities associated with wind power, citing that 37 birds are killed per turbine annually, with projections suggesting that 50 turbines could lead to the death of nearly 20,000 birds over ten years. The quotes from Ted Williams and the U.S. Fish and Wildlife Services highlight concerns about environmental effects.",
       "url": "https://www.trumpstruth.org/statuses/34382",
       "raw": {
         "creator": "",
@@ -327,13 +353,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34382",
         "isoDate": "2025-12-30T22:44:16.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:15:04.988Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13717/611e3bc5771cf849.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34381",
       "publishedAt": "2025-12-30T22:44:47.000Z",
       "title": "Windmills are killing all of our beautiful Bald Eagles!",
-      "text": "<p>Windmills are killing all of our beautiful Bald Eagles!</p>",
+      "text": "<p>Windmills are killing all of our beautiful Bald Eagles!</p>\n\n[Image] The image shows a deceased bird lying on the ground in front of a wind turbine. The turbine is tall and white, with a number \"13\" visible on its side. In the background, several other wind turbines are visible against a clear blue sky. The ground is rocky, and there are some signs nearby, possibly indicating the area or providing warnings. The scene highlights the intersection of wildlife and renewable energy infrastructure.",
       "url": "https://www.trumpstruth.org/statuses/34381",
       "raw": {
         "creator": "",
@@ -345,7 +375,11 @@
         "contentSnippet": "Windmills are killing all of our beautiful Bald Eagles!",
         "guid": "https://www.trumpstruth.org/statuses/34381",
         "isoDate": "2025-12-30T22:44:47.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:15:02.647Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13716/71bd142ff9d46f51.png"
+      ]
     }
   ],
   "sentiments": [
@@ -458,5 +492,5 @@
       "analyzedAt": "2026-09-06T06:29:33.577Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:18:6d89c508188f9413eec5af23"
+  "selfPraiseCacheKey": "self-praise-v1:18:6d89c508188f9413eec5af23"
 }

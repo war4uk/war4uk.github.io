@@ -6,22 +6,23 @@
     "negative": 3
   },
   "summary": "positive:1 neutral:3 negative:3",
-  "generatedAt": "2026-09-06T06:44:38.462Z",
+  "generatedAt": "2026-09-07T14:51:33.394Z",
   "topics": [
-    "Claims Biden's use of Autopen is illegal and invalidates signed documents",
-    "Denies offering Jamie Dimon the Fed Chairman position and plans to sue JPMorgan Chase",
-    "Critiques Radical Left for attempting to destroy the country"
+    "Claims Radical Left is attempting to destroy the country and should face consequences",
+    "Denies offering Jamie Dimon the job of Fed Chairman and plans to sue JPMorgan Chase",
+    "Questions legality of documents signed with an Autopen"
   ],
-  "trendingTopic": "Claims Biden's use of Autopen is illegal and invalidates signed documents",
+  "trendingTopic": "Claims Radical Left is attempting to destroy the country and should face consequences",
   "secondaryHighlights": [
     {
-      "topic": "Denies offering Jamie Dimon the Fed Chairman position and plans to sue JPMorgan Chase"
+      "topic": "Denies offering Jamie Dimon the job of Fed Chairman and plans to sue JPMorgan Chase"
     },
     {
-      "topic": "Critiques Radical Left for attempting to destroy the country"
+      "topic": "Questions legality of documents signed with an Autopen"
     }
   ],
   "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v10:7:d29f89648e41848f241122c3",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34578",
@@ -63,7 +64,7 @@
       "id": "https://www.trumpstruth.org/statuses/34913",
       "publishedAt": "2026-01-17T03:31:08.000Z",
       "title": "[No Title] - Post from January 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump in a black-and-white setting, leaning forward with a serious expression while placing his hands on a polished surface, likely a desk. Behind him are American flags and various items that suggest an official setting, possibly the Oval Office. The text \"Mister Tariff\" is prominently displayed above him, hinting at a focus on trade policies. The overall tone conveys a sense of determination and authority.",
       "url": "https://www.trumpstruth.org/statuses/34913",
       "raw": {
         "creator": "",
@@ -75,7 +76,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34913",
         "isoDate": "2026-01-17T03:31:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:27:24.178Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13980/c03d701414766686.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34580",
@@ -93,7 +98,10 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34580",
         "isoDate": "2026-01-17T03:31:19.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13791/908c05075c9ee842.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34581",
@@ -194,6 +202,5 @@
       "analyzedAt": "2026-09-06T06:33:21.250Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:7:d29f89648e41848f241122c3",
-  "trendingName": "Joe Biden"
+  "selfPraiseCacheKey": "self-praise-v1:7:d29f89648e41848f241122c3"
 }
