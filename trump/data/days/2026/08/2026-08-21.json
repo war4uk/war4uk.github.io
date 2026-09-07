@@ -6,34 +6,32 @@
     "negative": 11
   },
   "summary": "positive:31 neutral:36 negative:11",
-  "generatedAt": "2026-09-05T08:04:56.283Z",
+  "generatedAt": "2026-09-07T20:29:26.366Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Economic Growth and Job Creation",
-    "Political Commentary and Controversies"
+    "Trump administration touts strong U.S. growth, rising tax refunds, and falling consumer and drug prices",
+    "Trump escalates pressure on Iran while claiming control of the Strait of Hormuz",
+    "Supreme Court allows Trump administration to resume White House ballroom construction"
   ],
-  "trendingTopic": "I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place.",
-  "trendingName": "Lindsey Graham",
+  "trendingTopic": "Trump administration touts strong U.S. growth, rising tax refunds, and falling consumer and drug prices",
   "secondaryHighlights": [
     {
-      "topic": "Melania Trump links up with IndyCar for foster kid scholarships",
-      "name": "Melania Trump"
+      "topic": "Trump administration touts historic declines in violent crime and fentanyl deaths"
     },
     {
-      "topic": "Work on Trump White House ballroom can continue, Supreme Court Chief Justice John Roberts rules",
-      "name": "John Roberts"
+      "topic": "Justice Department defends Trump’s National Guard deployment in Washington, D.C."
     },
     {
-      "topic": "Trump Is Right: Judges Can’t Be Construction Foremen"
+      "topic": "Trump administration advances a national drone dominance initiative"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 23,
+  "topicsCacheKey": "day-themes-v10:78:bda72810ce7020131a2f6bfb",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41040",
       "publishedAt": "2026-08-21T03:32:53.000Z",
       "title": "[No Title] - Post from August 21, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An aerial view looks down the National Mall toward the Lincoln Memorial and its long reflecting pool. Trees, walkways, and visitors line both sides, with Washington, D.C., buildings visible beyond the memorial. A large line drawing of Donald Trump in side profile, including his distinctive hairstyle, is superimposed or painted across the pool’s blue surface.",
       "url": "https://www.trumpstruth.org/statuses/41040",
       "raw": {
         "creator": "",
@@ -45,13 +43,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41040",
         "isoDate": "2026-08-21T03:32:53.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:19:35.558Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17750/b2aede9d649d9ec7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41039",
       "publishedAt": "2026-08-21T03:34:30.000Z",
       "title": "[No Title] - Post from August 21, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is a political illustration titled “The Best Press Secretary,” showing Donald Trump speaking at a White House press briefing podium. American flags and the presidential seal are visible behind him, while cameras and journalists’ heads fill the foreground. The White House emblem appears on the backdrop.",
       "url": "https://www.trumpstruth.org/statuses/41039",
       "raw": {
         "creator": "",
@@ -63,13 +65,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41039",
         "isoDate": "2026-08-21T03:34:30.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:19:32.456Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17749/263a18d47669b2f9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41038",
       "publishedAt": "2026-08-21T03:34:32.000Z",
       "title": "[No Title] - Post from August 21, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump is depicted walking toward the viewer through an ornate, column-lined interior. He wears a dark blue suit, white shirt, patterned tie, and U.S. flag lapel pin. A red carpet runs down the polished floor, with chandeliers, framed artwork, tables, and plants in the background. The image has a painterly, textured appearance.",
       "url": "https://www.trumpstruth.org/statuses/41038",
       "raw": {
         "creator": "",
@@ -81,13 +87,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41038",
         "isoDate": "2026-08-21T03:34:32.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:19:30.585Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17748/4f300afd2ebac97c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41041",
       "publishedAt": "2026-08-21T03:37:47.000Z",
       "title": "[No Title] - Post from August 21, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump is depicted in a dramatic, stylized scene pulling a large black pipeline labeled “KEYSTONE” from the ground. American flags and storm clouds fill the background, while a stone marker in the foreground reads “BURIED BY BIDEN.” A sign on the pipeline says “Keystone Pipeline, Completely Free, 1,000 Jobs, America First.”",
       "url": "https://www.trumpstruth.org/statuses/41041",
       "raw": {
         "creator": "",
@@ -99,7 +109,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41041",
         "isoDate": "2026-08-21T03:37:47.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:19:28.654Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17751/a646efee6adc57f6.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41042",
@@ -123,7 +137,7 @@
       "id": "https://www.trumpstruth.org/statuses/41043",
       "publishedAt": "2026-08-21T14:16:30.000Z",
       "title": "[No Title] - Post from August 21, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A smartphone screenshot shows the CBS News website in dark mode, with a CBS News 24/7 live video thumbnail at the top showing a man wearing a light-colored cap. The headline reports that The New York Times was ordered to pay former Alabama basketball player Kai Spears $9.25 million for defamation. The article describes the jury’s finding and the newspaper’s later correction.",
       "url": "https://www.trumpstruth.org/statuses/41043",
       "raw": {
         "creator": "",
@@ -135,7 +149,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41043",
         "isoDate": "2026-08-21T14:16:30.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:19:19.320Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17752/d8f3aad3a9a89115.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41044",
@@ -177,7 +195,7 @@
       "id": "https://www.trumpstruth.org/statuses/41046",
       "publishedAt": "2026-08-21T15:58:19.000Z",
       "title": "[No Title] - Post from August 21, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post by Hugh Hewitt on August 15, 2026, discusses Chief Justice John Roberts considering Donald Trump’s request to pause a court order halting White House construction. Hewitt argues the president should control security facilities and urges the Supreme Court to act quickly, citing terrorist threats and surveillance technology. The post shows 51K views.",
       "url": "https://www.trumpstruth.org/statuses/41046",
       "raw": {
         "creator": "",
@@ -189,7 +207,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41046",
         "isoDate": "2026-08-21T15:58:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:19:16.001Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17753/a299610bb141ba9e.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41047",
@@ -213,7 +235,7 @@
       "id": "https://www.trumpstruth.org/statuses/41053",
       "publishedAt": "2026-08-21T16:25:56.000Z",
       "title": "[No Title] - Post from August 21, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Two pages show a letterhead document from the U.S. Department of Justice’s Office of the Deputy Attorney General, dated August 12, 2026, and addressed to the District of Columbia Council. Signed by Colin M. McDonald, it defends National Guard deployment in Washington, D.C., cites crime statistics, and praises Donald Trump’s emergency action and leadership.",
       "url": "https://www.trumpstruth.org/statuses/41053",
       "raw": {
         "creator": "",
@@ -225,13 +247,18 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41053",
         "isoDate": "2026-08-21T16:25:56.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:19:13.334Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17762/ac742de47c13a045.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17763/a7d10996790ee4ba.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41052",
       "publishedAt": "2026-08-21T16:26:07.000Z",
       "title": "[No Title] - Post from August 21, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134429829202518</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134429829202518</span></p>\n\n[Image] A screenshot of a U.S. Department of Justice post says the D.C. City Council asked 10 governors to remove National Guard members serving in Washington, D.C. It supports the Guard and the Make D.C. Safe and Beautiful Task Force, citing Donald Trump. Two pages show an August 12, 2026 letter from Assistant Attorney General Colin McDonald to the council, with a DOJ seal and signature.",
       "url": "https://www.trumpstruth.org/statuses/41052",
       "raw": {
         "creator": "",
@@ -243,13 +270,19 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134429829202518",
         "guid": "https://www.trumpstruth.org/statuses/41052",
         "isoDate": "2026-08-21T16:26:07.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:19:09.688Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17761/8af974cc84808c78.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17762/ac742de47c13a045.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17763/a7d10996790ee4ba.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41051",
       "publishedAt": "2026-08-21T16:26:40.000Z",
       "title": "[No Title] - Post from August 21, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A collage shows Donald Trump in the Oval Office with several older women. In one image, he sits behind the Resolute Desk surrounded by women and military flags; in others, he shakes hands with and speaks to a woman in a black cardigan, poses beside another woman, and smiles beside a woman in a floral blouse.",
       "url": "https://www.trumpstruth.org/statuses/41051",
       "raw": {
         "creator": "",
@@ -261,13 +294,20 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41051",
         "isoDate": "2026-08-21T16:26:40.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:19:06.368Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17757/362575b516823f9c.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17758/ce8e62021d4d491a.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17759/03eed214764c3ebb.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17760/db1b825935105444.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41050",
       "publishedAt": "2026-08-21T16:26:51.000Z",
       "title": "[No Title] - Post from August 21, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134432679930032</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134432679930032</span></p>\n\n[Image] A social-media post from the Israel Heritage Foundation praises Donald Trump for welcoming Holocaust survivors to the Oval Office. The accompanying photos show Trump seated at the Resolute Desk with several elderly women, including a Holocaust survivor, amid American and military flags. Other images show a woman greeting Trump and speaking with him in the office.",
       "url": "https://www.trumpstruth.org/statuses/41050",
       "raw": {
         "creator": "",
@@ -279,13 +319,21 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134432679930032",
         "guid": "https://www.trumpstruth.org/statuses/41050",
         "isoDate": "2026-08-21T16:26:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:19:03.640Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17756/fb8a411a37af5db9.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17757/362575b516823f9c.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17758/ce8e62021d4d491a.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17759/03eed214764c3ebb.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17760/db1b825935105444.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41049",
       "publishedAt": "2026-08-21T16:27:07.000Z",
       "title": "[No Title] - Post from August 21, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post by Bill Melugin dated July 8, 2026, says DHS confirmed that Valmir Djempsly was arrested and charged with murder after an alleged stabbing at a Michigan meat plant. The post quotes DHS Acting Assistant Secretary Lauren Bis and includes a mugshot-style photo of a dark-skinned man in front of a height chart.",
       "url": "https://www.trumpstruth.org/statuses/41049",
       "raw": {
         "creator": "",
@@ -297,13 +345,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41049",
         "isoDate": "2026-08-21T16:27:07.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:19:00.765Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17755/14e7305362f4f2bc.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41048",
       "publishedAt": "2026-08-21T16:27:16.000Z",
       "title": "[No Title] - Post from August 21, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a social media post by Bill Melugin reports that DHS released a mugshot and Massachusetts commercial driver’s license for Michael Bon, identified in the post as a Haitian national charged in a fatal Pennsylvania crash involving State Trooper Michael Pahira Jr. The collage shows Bon’s mugshot and ID, Pahira’s official portrait, and Bon being restrained by officers.",
       "url": "https://www.trumpstruth.org/statuses/41048",
       "raw": {
         "creator": "",
@@ -315,13 +367,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41048",
         "isoDate": "2026-08-21T16:27:16.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:18:57.563Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17754/2395e79129a001ff.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41061",
       "publishedAt": "2026-08-21T16:27:43.000Z",
       "title": "[No Title] - Post from August 21, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A post by Abe Hamadeh says he is filing articles of impeachment against Judge Sparkle L. Sooknanan, accusing her of opposing President Donald Trump and calling for only Americans to vote. Below the text are an image of an impeachment resolution and a portrait of Sparkle Sooknanan wearing a black judicial robe.",
       "url": "https://www.trumpstruth.org/statuses/41061",
       "raw": {
         "creator": "",
@@ -333,13 +389,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41061",
         "isoDate": "2026-08-21T16:27:43.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:18:54.578Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17771/f1c0ea42bd0e6c9c.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41060",
       "publishedAt": "2026-08-21T16:27:54.000Z",
       "title": "[No Title] - Post from August 21, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post by Wade Miller claims that Senate Parliamentarian Elizabeth MacDonough is thwarting the America First agenda and calls for her dismissal. An embedded news-style image shows Harry Reid greeting a smiling woman identified by the surrounding text as MacDonough. A banner says the parliamentarian was hired by Reid and that John Thune has refused to replace her.",
       "url": "https://www.trumpstruth.org/statuses/41060",
       "raw": {
         "creator": "",
@@ -351,13 +411,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41060",
         "isoDate": "2026-08-21T16:27:54.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:18:50.581Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17770/2ee71adba92fdf52.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41059",
       "publishedAt": "2026-08-21T16:28:30.000Z",
       "title": "[No Title] - Post from August 21, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of an X post from Treasury Secretary Scott Bessent praises photographer Daniel Torok and says his portrait of Donald Trump will be immortalized on a new $1 coin. The embedded portrait shows Donald Trump in a dark suit, white shirt, red tie, and American flag lapel pin against a dark background.",
       "url": "https://www.trumpstruth.org/statuses/41059",
       "raw": {
         "creator": "",
@@ -369,7 +433,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41059",
         "isoDate": "2026-08-21T16:28:30.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:18:46.060Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17769/61257045a8f2a6ed.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41058",
@@ -393,7 +461,7 @@
       "id": "https://www.trumpstruth.org/statuses/41057",
       "publishedAt": "2026-08-21T16:29:45.000Z",
       "title": "[No Title] - Post from August 21, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134443801937584</span><a href=\"https://www.washingtonexaminer.com/opinion/columnists/4652360/trump-dave-mccormick-jamie-dimon-manufacturing-push-pennsylvania/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/opinion</span><span class=\"invisible\">/columnists/4652360/trump-dave-mccormick-jamie-dimon-manufacturing-push-pennsylvania/</span></a></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134443801937584</span><a href=\"https://www.washingtonexaminer.com/opinion/columnists/4652360/trump-dave-mccormick-jamie-dimon-manufacturing-push-pennsylvania/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/opinion</span><span class=\"invisible\">/columnists/4652360/trump-dave-mccormick-jamie-dimon-manufacturing-push-pennsylvania/</span></a></p>\n\n[Image] A screenshot of a social-media post by verified user “salenazito” reports on an event in Carlisle, Pennsylvania. The text says Jamie Dimon appeared onstage with President Donald Trump, Sen. David McCormick, Secretary of War Pete Hegseth, Secretary of the Army Dan Driscoll, and investors at an inaugural Defense and Innovation Summit. A Washington Examiner link is partially visible.",
       "url": "https://www.trumpstruth.org/statuses/41057",
       "raw": {
         "creator": "",
@@ -405,13 +473,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134443801937584https://www.washingtonexaminer.com/opinion/columnists/4652360/trump-dave-mccormick-jamie-dimon-manufacturing-push-pennsylvania/",
         "guid": "https://www.trumpstruth.org/statuses/41057",
         "isoDate": "2026-08-21T16:29:45.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:18:43.246Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17767/950904280ae35d88.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41056",
       "publishedAt": "2026-08-21T16:30:10.000Z",
       "title": "[No Title] - Post from August 21, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a verified Twitter post from Kamala Harris, posted under the handle @KamalaHarris on March 31, 2019, at 1:47 PM. The post says paper ballots are the safest way to secure votes against foreign attacks, noting that Russia cannot hack paper, and references the Secure Elections Act and election preparedness.",
       "url": "https://www.trumpstruth.org/statuses/41056",
       "raw": {
         "creator": "",
@@ -423,7 +495,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41056",
         "isoDate": "2026-08-21T16:30:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:18:40.765Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17766/a82cbcbf68167637.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41055",
@@ -447,7 +523,7 @@
       "id": "https://www.trumpstruth.org/statuses/41054",
       "publishedAt": "2026-08-21T16:30:35.000Z",
       "title": "[No Title] - Post from August 21, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134447318347925</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134447318347925</span></p>\n\n[Image] A screenshot of a Rapid Response 47 post on X quotes Stephen Miller saying fractures among Iran’s leadership demonstrate the success of Donald Trump’s policy. The quote describes “giant, canyon-sized fissures” in Iran and calls for unity behind a peace program and denuclearization to secure the country’s future.",
       "url": "https://www.trumpstruth.org/statuses/41054",
       "raw": {
         "creator": "",
@@ -459,13 +535,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134447318347925",
         "guid": "https://www.trumpstruth.org/statuses/41054",
         "isoDate": "2026-08-21T16:30:35.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:18:38.422Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17764/43b1a4cb099d6807.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41062",
       "publishedAt": "2026-08-21T16:31:11.000Z",
       "title": "[No Title] - Post from August 21, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a Glenn Beck post tells the story of Mary Anne MacLeod, Donald Trump’s mother, and her immigration to the United States from Scotland. The post includes a photograph of a man in a tuxedo speaking at a podium beside a large framed painting of a young woman, with blue stage lighting and projected imagery in the background.",
       "url": "https://www.trumpstruth.org/statuses/41062",
       "raw": {
         "creator": "",
@@ -477,7 +557,12 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41062",
         "isoDate": "2026-08-21T16:31:11.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:18:35.761Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17772/81b5319874b13524.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17773/cb96ee6e786e999b.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41205",
@@ -501,7 +586,7 @@
       "id": "https://www.trumpstruth.org/statuses/41070",
       "publishedAt": "2026-08-21T17:06:02.000Z",
       "title": "From Greg Wischer at the United States Department of the Interior: “Another fountain has been fixed! The National Park Service has repaired the fountain at Benjamin Banneker Park, which is named after the 18th century astronomer, mathematician, and surveyor. A free African American, Banneker assisted in surveying the boundaries for new federal capital, Washington, D.C. The park overlooks The Wharf in southwest DC.”",
-      "text": "<p>From Greg Wischer at the United States Department of the Interior: “Another fountain has been fixed! The National Park Service has repaired the fountain at Benjamin Banneker Park, which is named after the 18th century astronomer, mathematician, and surveyor. A free African American, Banneker assisted in surveying the boundaries for new federal capital, Washington, D.C. The park overlooks The Wharf in southwest DC.”</p>",
+      "text": "<p>From Greg Wischer at the United States Department of the Interior: “Another fountain has been fixed! The National Park Service has repaired the fountain at Benjamin Banneker Park, which is named after the 18th century astronomer, mathematician, and surveyor. A free African American, Banneker assisted in surveying the boundaries for new federal capital, Washington, D.C. The park overlooks The Wharf in southwest DC.”</p>\n\n[Image] Three views of Benjamin Banneker Park show a large, elongated black fountain basin with multiple jets and flowing water. The park has brick paving, trees, globe-topped lamps, benches, and informational signs. Modern multi-story office and residential buildings surround the plaza, while a stone sign identifies the park in the first image.",
       "url": "https://www.trumpstruth.org/statuses/41070",
       "raw": {
         "creator": "",
@@ -513,13 +598,19 @@
         "contentSnippet": "From Greg Wischer at the United States Department of the Interior: “Another fountain has been fixed! The National Park Service has repaired the fountain at Benjamin Banneker Park, which is named after the 18th century astronomer, mathematician, and surveyor. A free African American, Banneker assisted in surveying the boundaries for new federal capital, Washington, D.C. The park overlooks The Wharf in southwest DC.”",
         "guid": "https://www.trumpstruth.org/statuses/41070",
         "isoDate": "2026-08-21T17:06:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:18:32.539Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17778/86bdc5e51c2eade4.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17779/8e36b7a97d4814f3.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17780/8de4e43afdea780f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41069",
       "publishedAt": "2026-08-21T17:07:39.000Z",
       "title": "It Was a Great Scam While It Lasted:",
-      "text": "<p>It Was a Great Scam While It Lasted: <a href=\"https://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2026/08/13/opinion</span><span class=\"invisible\">/us-tariffs-economy-trade-transshipment-scam.html</span></a></p>",
+      "text": "<p>It Was a Great Scam While It Lasted: <a href=\"https://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2026/08/13/opinion</span><span class=\"invisible\">/us-tariffs-economy-trade-transshipment-scam.html</span></a></p>\n\n[Image] Four pages from a New York Times opinion article titled “It Was a Great Scam While It Lasted,” by Peter Navarro, dated Aug. 13, 2026. The article discusses tariff evasion and transshipment through third countries, mentioning President Trump and proposed customs enforcement. The opening page features stacked shipping containers against turbulent ocean waves.",
       "url": "https://www.trumpstruth.org/statuses/41069",
       "raw": {
         "creator": "",
@@ -531,7 +622,14 @@
         "contentSnippet": "It Was a Great Scam While It Lasted: https://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
         "guid": "https://www.trumpstruth.org/statuses/41069",
         "isoDate": "2026-08-21T17:07:39.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:18:30.071Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17774/4883bc802d1967ce.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17775/5ab2d3517af4747f.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17776/e3f2f59b0d45ad87.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17777/8842feecf03f48ec.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41068",
@@ -1221,7 +1319,7 @@
       "id": "https://www.trumpstruth.org/statuses/41105",
       "publishedAt": "2026-08-21T18:11:45.000Z",
       "title": "Dr. Sebastian Gorka: “Kevin Rideout, the Christian Missionary taken by ISIS, was reunited with his wife. See pictures below. He sounds incredibly good and wouldn’t stop saying how grateful he is to President Trump. (He even shared that he kept singing in his head the song ‘Proud to be an American!’ when he knew he would be coming home.”",
-      "text": "<p>Dr. Sebastian Gorka: “Kevin Rideout, the Christian Missionary taken by ISIS, was reunited with his wife. See pictures below. He sounds incredibly good and wouldn’t stop saying how grateful he is to President Trump. (He even shared that he kept singing in his head the song ‘Proud to be an American!’ when he knew he would be coming home.”</p>",
+      "text": "<p>Dr. Sebastian Gorka: “Kevin Rideout, the Christian Missionary taken by ISIS, was reunited with his wife. See pictures below. He sounds incredibly good and wouldn’t stop saying how grateful he is to President Trump. (He even shared that he kept singing in his head the song ‘Proud to be an American!’ when he knew he would be coming home.”</p>\n\n[Image] Two photographs show a gray-haired man and a woman in a hospital room with an American flag behind them. In the first, they embrace closely while the man closes his eyes; in the second, they stand side by side smiling at the camera. Hospital furnishings, medical equipment, and a patterned blanket are visible.",
       "url": "https://www.trumpstruth.org/statuses/41105",
       "raw": {
         "creator": "",
@@ -1233,13 +1331,18 @@
         "contentSnippet": "Dr. Sebastian Gorka: “Kevin Rideout, the Christian Missionary taken by ISIS, was reunited with his wife. See pictures below. He sounds incredibly good and wouldn’t stop saying how grateful he is to President Trump. (He even shared that he kept singing in his head the song ‘Proud to be an American!’ when he knew he would be coming home.”",
         "guid": "https://www.trumpstruth.org/statuses/41105",
         "isoDate": "2026-08-21T18:11:45.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:18:19.291Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17782/9878c08e19871c79.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17783/69233eeb055baa10.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41104",
       "publishedAt": "2026-08-21T18:12:37.000Z",
       "title": "[No Title] - Post from August 21, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post by Katie Pavlich, displaying her verified profile photo, name, handle, and a Subscribe button. The post says construction of the White House ballroom will halt unless the Supreme Court rules today, noting it is 65 percent complete. It quotes Leonard Leo discussing federal-court standing and the “ballroom case.” Dated Aug. 21, 2026, with 3,624 views.",
       "url": "https://www.trumpstruth.org/statuses/41104",
       "raw": {
         "creator": "",
@@ -1251,7 +1354,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41104",
         "isoDate": "2026-08-21T18:12:37.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:18:16.799Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17781/ef964fa9adbb93f8.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41106",
@@ -1311,7 +1418,7 @@
       "id": "https://www.trumpstruth.org/statuses/41111",
       "publishedAt": "2026-08-21T21:12:14.000Z",
       "title": "[No Title] - Post from August 21, 2026",
-      "text": "<p><a href=\"https://www.bloomberg.com/news/articles/2026-08-21/us-business-activity-expands-at-the-fastest-pace-since-2022\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bloomberg.com/news/articles/20</span><span class=\"invisible\">26-08-21/us-business-activity-expands-at-the-fastest-pace-since-2022</span></a></p>",
+      "text": "<p><a href=\"https://www.bloomberg.com/news/articles/2026-08-21/us-business-activity-expands-at-the-fastest-pace-since-2022\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bloomberg.com/news/articles/20</span><span class=\"invisible\">26-08-21/us-business-activity-expands-at-the-fastest-pace-since-2022</span></a></p>\n\n[Image] Two-page Bloomberg article titled “US Business Activity Expands at the Fastest Pace Since 2022,” by Jeffrey Sparshott, dated August 21, 2026. The first page shows a warehouse worker operating a red forklift between tall shelving racks at a fulfillment center in Elizabeth, New Jersey. The article discusses stronger US business activity, hiring, service-sector growth, manufacturing, prices, tariffs, and Middle East tensions.",
       "url": "https://www.trumpstruth.org/statuses/41111",
       "raw": {
         "creator": "",
@@ -1323,7 +1430,12 @@
         "contentSnippet": "https://www.bloomberg.com/news/articles/2026-08-21/us-business-activity-expands-at-the-fastest-pace-since-2022",
         "guid": "https://www.trumpstruth.org/statuses/41111",
         "isoDate": "2026-08-21T21:12:14.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:18:13.642Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17785/7c35bbcdb41426ad.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17786/a35e468d3743f825.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41110",
@@ -1347,7 +1459,7 @@
       "id": "https://www.trumpstruth.org/statuses/41109",
       "publishedAt": "2026-08-21T21:13:40.000Z",
       "title": "[No Title] - Post from August 21, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A collage of news-style headlines about Donald Trump’s administration claims reduced illegal immigration, zero border releases, a 94% drop in apprehensions, increased tax refunds, and a large decline in violent crime. Other headlines cite falling prescription drug prices, a manufacturing boom, human-smuggling profits dropping, and Iran losing control of the Strait of Hormuz.",
       "url": "https://www.trumpstruth.org/statuses/41109",
       "raw": {
         "creator": "",
@@ -1359,7 +1471,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41109",
         "isoDate": "2026-08-21T21:13:40.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:18:10.780Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17784/a7dec737147bbcac.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41112",
@@ -1401,7 +1517,7 @@
       "id": "https://www.trumpstruth.org/statuses/41114",
       "publishedAt": "2026-08-21T22:11:54.000Z",
       "title": "[No Title] - Post from August 21, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117135789576192806</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117135789576192806</span></p>\n\n[Image] A screenshot of a social media post by Jack Posobiec, showing his verified account name and handle, @JackPosobiec. The post reads, “Natalie Harp and Karoline Leavitt - incredible patriots all the way back in 2021!” A black Subscribe button and interface icons appear on the right. No photograph of Natalie Harp or Karoline Leavitt is shown.",
       "url": "https://www.trumpstruth.org/statuses/41114",
       "raw": {
         "creator": "",
@@ -1413,7 +1529,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117135789576192806",
         "guid": "https://www.trumpstruth.org/statuses/41114",
         "isoDate": "2026-08-21T22:11:54.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:18:07.859Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17787/5ba3f960bf3f3bef.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41113",
@@ -1903,5 +2023,6 @@
       "rationale": "The text discusses a booming economy and criticizes media narratives, indicating a positive sentiment.",
       "analyzedAt": "2026-09-05T07:50:25.831Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:78:bda72810ce7020131a2f6bfb"
 }

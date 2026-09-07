@@ -6,32 +6,32 @@
     "negative": 2
   },
   "summary": "positive:15 neutral:27 negative:2",
-  "generatedAt": "2026-09-05T08:04:45.354Z",
+  "generatedAt": "2026-09-07T20:28:13.086Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Trump backs and celebrates Republican primary candidates winning across Florida and Alaska races",
+    "Trump nominates nine federal judicial candidates across seven states",
+    "Trump escalates Iran messaging with a naval blockade and no scheduled talks"
   ],
-  "trendingTopic": "I am pleased to nominate Daniel Ballou to serve as Judge on the United States District Court for the Eastern District of Kentucky.",
-  "trendingName": "Daniel Ballou",
+  "trendingTopic": "Trump backs and celebrates Republican primary candidates winning across Florida and Alaska races",
   "secondaryHighlights": [
     {
-      "topic": "I am pleased to nominate Robert (Bobby) Long to serve as Judge on the U.S. District Court for the Middle District of Florida.",
-      "name": "Robert Long"
+      "topic": "Trump nominates nine federal judicial candidates across seven states"
     },
     {
-      "topic": "Florida, Vote for Byron Donalds for Governor."
+      "topic": "Trump escalates Iran messaging with a naval blockade and no scheduled talks"
     },
     {
-      "topic": "The Senate must vote on the NO MORE CHANGING THE CLOCKS ACT as soon as possible"
+      "topic": "Trump promotes election-integrity claims involving voter records and foreign interference"
     }
   ],
-  "selfPraiseCount": 3,
+  "selfPraiseCount": 6,
+  "topicsCacheKey": "day-themes-v10:44:410cf7e2710bdb744b889104",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40953",
       "publishedAt": "2026-08-18T00:54:38.000Z",
       "title": "[No Title] - Post from August 18, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117113347902795107</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117113347902795107</span></p>\n\n[Image] A screenshot of a social-media post by Ambassador Sergio Gor says Donald Trump is correct about voter identification in India and urges passage of the SAVE AMERICA Act. An embedded post from Donald Trump references India’s Chief Election Commissioner Gyanesh Kumar and 646 million voters. A photo shows Gor shaking hands with Kumar indoors.",
       "url": "https://www.trumpstruth.org/statuses/40953",
       "raw": {
         "creator": "",
@@ -43,7 +43,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117113347902795107",
         "guid": "https://www.trumpstruth.org/statuses/40953",
         "isoDate": "2026-08-18T00:54:38.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:17:03.454Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17686/c75c93ceceae84af.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40954",
@@ -121,7 +125,7 @@
       "id": "https://www.trumpstruth.org/statuses/40957",
       "publishedAt": "2026-08-18T11:09:26.000Z",
       "title": "[No Title] - Post from August 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic labeled “NEW U.S. Territory” shows a map of the Persian Gulf, Iran, and the Gulf of Oman. A dark blue circle highlights the Strait of Hormuz, with a line pointing to a banner bearing its name. The design uses U.S.-flag-inspired red, white, and blue stripes and stars, implying a political or satirical claim about the area.",
       "url": "https://www.trumpstruth.org/statuses/40957",
       "raw": {
         "creator": "",
@@ -133,7 +137,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40957",
         "isoDate": "2026-08-18T11:09:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:17:00.079Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17687/96b2b0b1bf1a0511.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40960",
@@ -157,7 +165,7 @@
       "id": "https://www.trumpstruth.org/statuses/40961",
       "publishedAt": "2026-08-18T13:16:48.000Z",
       "title": "Lindsey having fun just a few weeks ago! Check out the hat! President DJT",
-      "text": "<p>Lindsey having fun just a few weeks ago! Check out the hat! President DJT</p>",
+      "text": "<p>Lindsey having fun just a few weeks ago! Check out the hat! President DJT</p>\n\n[Image] A seated man in a restaurant wears a black “Make Iran Great Again” cap and holds a printed portrait labeled “Donald Trump.” The sheet includes text describing Trump as the incumbent president of Venezuela and naming JD Vance as vice president. American and Florida flags stand behind him, with tables, drinks, and other partially visible diners in the room.",
       "url": "https://www.trumpstruth.org/statuses/40961",
       "raw": {
         "creator": "",
@@ -169,7 +177,11 @@
         "contentSnippet": "Lindsey having fun just a few weeks ago! Check out the hat! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/40961",
         "isoDate": "2026-08-18T13:16:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:16:57.401Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17688/fc86ae115b051643.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40962",
@@ -247,7 +259,7 @@
       "id": "https://www.trumpstruth.org/statuses/40967",
       "publishedAt": "2026-08-18T18:46:05.000Z",
       "title": "[No Title] - Post from August 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “We are making DC SAFE & BEAUTIFUL” lists reported improvements, including 2,300 lights fixed, 1,460 benches rehabilitated or installed, 500+ graffiti cleanups, debris removed from the Carp Pond, pothole repairs, 162 homeless encampments removed, 134 rat-resistant trash cans installed, 83 statues and memorials cleaned, 22 fountains fixed, and fencing repainted. Photos show Washington, D.C., landmarks and statues.",
       "url": "https://www.trumpstruth.org/statuses/40967",
       "raw": {
         "creator": "",
@@ -259,13 +271,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40967",
         "isoDate": "2026-08-18T18:46:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:16:54.296Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17691/1df1b2a072702b6c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40966",
       "publishedAt": "2026-08-18T18:46:15.000Z",
       "title": "The Restoration of the Thomas Jefferson Columns at the White House — The work turned out beautifully! President DONALD J. TRUMP",
-      "text": "<p>The Restoration of the Thomas Jefferson Columns at the White House — The work turned out beautifully! President DONALD J. TRUMP</p>",
+      "text": "<p>The Restoration of the Thomas Jefferson Columns at the White House — The work turned out beautifully! President DONALD J. TRUMP</p>\n\n[Image] A worker wearing a gray shirt, cap, and cargo pants kneels beside a large white architectural column, securing or repairing its base with blue painter’s tape and a long white strip. A tool bag rests nearby on the glossy black tiled surface. The second image shows a close-up of the column’s freshly painted white pedestal and square base in bright sunlight.",
       "url": "https://www.trumpstruth.org/statuses/40966",
       "raw": {
         "creator": "",
@@ -277,13 +293,18 @@
         "contentSnippet": "The Restoration of the Thomas Jefferson Columns at the White House — The work turned out beautifully! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/40966",
         "isoDate": "2026-08-18T18:46:15.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:16:51.305Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17689/09c1228a510bcb08.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17690/bda7303ffaadc1d9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40968",
       "publishedAt": "2026-08-18T20:48:29.000Z",
       "title": "The Census Bureau has begun checking the Voter Records from 2020 against their Citizenship Records. On the first 128,000,000 Voters, the Census Bureau proves that over 24,000 Noncitizens voted illegally! The Census Bureau is going to analyze the next 32,000,000 Voters, and this number will explode. I WON THE ELECTION! We must pass THE SAVE AMERICA ACT. Thank you for your attention to this matter! President DONALD J. TRUMP",
-      "text": "<p>The Census Bureau has begun checking the Voter Records from 2020 against their Citizenship Records. On the first 128,000,000 Voters, the Census Bureau proves that over 24,000 Noncitizens voted illegally! The Census Bureau is going to analyze the next 32,000,000 Voters, and this number will explode. I WON THE ELECTION! We must pass THE SAVE AMERICA ACT. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "text": "<p>The Census Bureau has begun checking the Voter Records from 2020 against their Citizenship Records. On the first 128,000,000 Voters, the Census Bureau proves that over 24,000 Noncitizens voted illegally! The Census Bureau is going to analyze the next 32,000,000 Voters, and this number will explode. I WON THE ELECTION! We must pass THE SAVE AMERICA ACT. Thank you for your attention to this matter! President DONALD J. TRUMP</p>\n\n[Image] Three U.S. Census Bureau–branded infographics present an analysis of noncitizen voting in the 2020 election. They state that 160 million ballots were cast, 128 million records linked to U.S. citizens, and more than 24,000 linked to noncitizens, with 32 million records remaining to be analyzed. Other panels explain classification criteria and list birth countries, led by Mexico with 3,800.",
       "url": "https://www.trumpstruth.org/statuses/40968",
       "raw": {
         "creator": "",
@@ -295,7 +316,13 @@
         "contentSnippet": "The Census Bureau has begun checking the Voter Records from 2020 against their Citizenship Records. On the first 128,000,000 Voters, the Census Bureau proves that over 24,000 Noncitizens voted illegally! The Census Bureau is going to analyze the next 32,000,000 Voters, and this number will explode. I WON THE ELECTION! We must pass THE SAVE AMERICA ACT. Thank you for your attention to this matter! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/40968",
         "isoDate": "2026-08-18T20:48:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:16:48.644Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17692/e0aad3cf156e730a.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17693/b7fbdf3806891d6a.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17694/beb1dbc6cda7a696.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40969",
@@ -463,7 +490,7 @@
       "id": "https://www.trumpstruth.org/statuses/40990",
       "publishedAt": "2026-08-18T23:07:36.000Z",
       "title": "[No Title] - Post from August 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “Congresswoman (FL-03) Kat Cammack wins!” and says she was endorsed by President Donald Trump. It shows portraits of Donald Trump in a dark suit and blue tie and Kat Cammack in a red top with a U.S. flag pin. A Trump-Vance campaign logo appears at the bottom against a blue-to-red gradient background.",
       "url": "https://www.trumpstruth.org/statuses/40990",
       "raw": {
         "creator": "",
@@ -475,13 +502,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40990",
         "isoDate": "2026-08-18T23:07:36.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:16:42.807Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17707/863067e616e7d96d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40989",
       "publishedAt": "2026-08-18T23:07:47.000Z",
       "title": "[No Title] - Post from August 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic features Donald Trump beside Aaron Bean, both in suits and ties. Large text reads “Congressman (FL-04) Aaron Bean Wins!” and a red banner says “Endorsed by President Trump!” A Trump-Vance logo appears at the bottom against a blue-to-maroon gradient background.",
       "url": "https://www.trumpstruth.org/statuses/40989",
       "raw": {
         "creator": "",
@@ -493,13 +524,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40989",
         "isoDate": "2026-08-18T23:07:47.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:16:40.242Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17706/1d84526276bf6b0c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40988",
       "publishedAt": "2026-08-18T23:07:55.000Z",
       "title": "[No Title] - Post from August 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “Congressman (FL-08) Mike Haridopolos Wins!” and says he is endorsed by President Donald Trump. It shows portraits of Donald Trump and Mike Haridopolos in suits against a blue-to-red gradient background. A Trump-Vance logo with the slogan “Make America Great Again!” appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/40988",
       "raw": {
         "creator": "",
@@ -511,13 +546,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40988",
         "isoDate": "2026-08-18T23:07:55.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:16:37.518Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17705/763810e9aded1d00.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40987",
       "publishedAt": "2026-08-18T23:08:05.000Z",
       "title": "[No Title] - Post from August 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic features portraits of Donald Trump and Congressman Gus Bilirakis, who wears glasses, a suit, and a red tie. Large text reads “Congressman (FL-12) Gus Bilirakis Wins!” and states that he is endorsed by President Trump. A Trump-Vance logo appears at the bottom against a blue-to-red gradient background.",
       "url": "https://www.trumpstruth.org/statuses/40987",
       "raw": {
         "creator": "",
@@ -529,13 +568,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40987",
         "isoDate": "2026-08-18T23:08:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:16:35.042Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17704/1949e8bf6d49f9aa.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40986",
       "publishedAt": "2026-08-18T23:08:14.000Z",
       "title": "[No Title] - Post from August 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic announces “Congresswoman (FL-13) Anna Paulina Luna Wins!” and says she was endorsed by President Donald Trump. It shows a large portrait of Donald Trump in a suit beside Anna Paulina Luna, who is smiling and wearing a gray blazer. A Trump-Vance “Make America Great Again” logo appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/40986",
       "raw": {
         "creator": "",
@@ -547,13 +590,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40986",
         "isoDate": "2026-08-18T23:08:14.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:16:32.726Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17703/5c7091ca1260088b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40985",
       "publishedAt": "2026-08-18T23:08:22.000Z",
       "title": "[No Title] - Post from August 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic features portraits of Donald Trump and Congresswoman Laurel Lee, identified as representing Florida’s 15th district. Large text announces “Laurel Lee Wins!” and says she was endorsed by President Trump. A “Trump-Vance” logo appears at the bottom, against a blue-to-red gradient background.",
       "url": "https://www.trumpstruth.org/statuses/40985",
       "raw": {
         "creator": "",
@@ -565,13 +612,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40985",
         "isoDate": "2026-08-18T23:08:22.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:16:29.937Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17702/4c13d23ed731a6b6.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40984",
       "publishedAt": "2026-08-18T23:08:32.000Z",
       "title": "[No Title] - Post from August 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic features portraits of Donald Trump and Congressman Greg Steube, who wears a suit and congressional lapel pin. Large text reads “CONGRESSMAN (FL-17) GREG STEUBE WINS!” and a red banner says “ENDORSED BY PRESIDENT TRUMP!” The bottom includes a Trump-Vance campaign logo and the slogan “Make America Great Again.”",
       "url": "https://www.trumpstruth.org/statuses/40984",
       "raw": {
         "creator": "",
@@ -583,13 +634,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40984",
         "isoDate": "2026-08-18T23:08:32.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:16:27.624Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17701/081fb4a625f23caa.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40983",
       "publishedAt": "2026-08-18T23:08:46.000Z",
       "title": "[No Title] - Post from August 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political campaign graphic shows Donald Trump on the left and Congressman Scott Franklin of Florida’s 18th District on the right, both wearing suits and ties. Large text reads “Congressman (FL-18) Scott Franklin Wins!” and a red banner states “Endorsed by President Trump!” A Trump-Vance logo appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/40983",
       "raw": {
         "creator": "",
@@ -601,13 +656,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40983",
         "isoDate": "2026-08-18T23:08:46.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:16:25.252Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17700/9002abfdeec27de4.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40982",
       "publishedAt": "2026-08-18T23:08:53.000Z",
       "title": "[No Title] - Post from August 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic features Donald Trump beside Congressman Brian Mast, who is identified as the winner of Florida’s 21st Congressional District. Large text says Mast was endorsed by President Trump, while a Trump-Vance logo appears at the bottom. Trump wears a blue suit and tie, and Mast wears a dark suit with a striped red-and-blue tie.",
       "url": "https://www.trumpstruth.org/statuses/40982",
       "raw": {
         "creator": "",
@@ -619,13 +678,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40982",
         "isoDate": "2026-08-18T23:08:53.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:16:22.883Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17699/2a2fb42b8406252c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40981",
       "publishedAt": "2026-08-18T23:09:02.000Z",
       "title": "[No Title] - Post from August 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic announces “Congressman (FL-26) Mario Díaz-Balart wins!” and states that he was endorsed by President Donald Trump. It shows portraits of Donald Trump and Mario Díaz-Balart in suits against a blue-to-red gradient background, with a “Trump Vance” logo and “Make America Great Again!” text at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/40981",
       "raw": {
         "creator": "",
@@ -637,13 +700,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40981",
         "isoDate": "2026-08-18T23:09:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:16:20.866Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17698/fbd2f15ad0adc02a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40980",
       "publishedAt": "2026-08-18T23:09:10.000Z",
       "title": "[No Title] - Post from August 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political campaign graphic announces “Congressman (FL-28) Carlos Gimenez Wins!” and says he was endorsed by President Donald Trump. Portraits of Donald Trump and former Vice President Mike Pence appear below the headline, alongside a “Trump Vance” logo and the slogan “Make America Great Again.” The design uses a dark blue-to-red gradient background with white and red lettering.",
       "url": "https://www.trumpstruth.org/statuses/40980",
       "raw": {
         "creator": "",
@@ -655,13 +722,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40980",
         "isoDate": "2026-08-18T23:09:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:16:18.323Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17697/095cc2ac12008689.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40979",
       "publishedAt": "2026-08-18T23:09:19.000Z",
       "title": "[No Title] - Post from August 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic announces “Attorney General of Florida James Uthmeier Wins!” and says he was endorsed by President Trump. It features portraits of Donald Trump on the left and James Uthmeier on the right, both in suits, against a blue-to-red gradient background. A Trump-Vance “Make America Great Again” logo appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/40979",
       "raw": {
         "creator": "",
@@ -673,13 +744,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40979",
         "isoDate": "2026-08-18T23:09:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:16:14.781Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17696/e1b06b0dbe38f75e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40978",
       "publishedAt": "2026-08-18T23:09:27.000Z",
       "title": "[No Title] - Post from August 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic reads “Florida State Representative (FL-HD-94) Meg Weinberger Wins!” and says she was endorsed by President Donald Trump. It shows portraits of Donald Trump in a suit and tie and Meg Weinberger in a pink blazer. A Trump-Vance 2024 logo appears at the bottom against a blue-to-maroon gradient background.",
       "url": "https://www.trumpstruth.org/statuses/40978",
       "raw": {
         "creator": "",
@@ -691,13 +766,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40978",
         "isoDate": "2026-08-18T23:09:27.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:16:11.113Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17695/e912a3ff0a682fe8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40997",
       "publishedAt": "2026-08-18T23:53:25.000Z",
       "title": "[No Title] - Post from August 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic reads “Congressman (FL-05) John Rutherford Wins!” and states “Endorsed by President Trump!” It shows Donald Trump on the left and Congressman John Rutherford on the right, both in suits. A Trump-Vance logo appears at the bottom, with a dark blue-to-red gradient background and a thin white border.",
       "url": "https://www.trumpstruth.org/statuses/40997",
       "raw": {
         "creator": "",
@@ -709,13 +788,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40997",
         "isoDate": "2026-08-18T23:53:25.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:16:07.850Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17714/767022dc6a038821.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40996",
       "publishedAt": "2026-08-18T23:53:37.000Z",
       "title": "[No Title] - Post from August 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic announces “Congressman (FL-06) Randy Fine Wins!” and says he was endorsed by President Donald Trump. Portraits of Donald Trump and Randy Fine appear side by side, both wearing suits and ties. The design uses a blue-to-red gradient background, large white and red lettering, and a Trump-Vance logo at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/40996",
       "raw": {
         "creator": "",
@@ -727,13 +810,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40996",
         "isoDate": "2026-08-18T23:53:37.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:16:04.848Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17713/f2ff938ca419033f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40995",
       "publishedAt": "2026-08-18T23:53:47.000Z",
       "title": "[No Title] - Post from August 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “Republican Nominee for FL-16” and “Sydney Gruters Wins!” It states that Gruters is endorsed by President Donald Trump. Portraits of Donald Trump in a suit and Sydney Gruters, a smiling blonde woman, appear above a Trump-Vance “Make America Great Again” logo. The background fades from dark blue to burgundy.",
       "url": "https://www.trumpstruth.org/statuses/40995",
       "raw": {
         "creator": "",
@@ -745,13 +832,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40995",
         "isoDate": "2026-08-18T23:53:47.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:16:01.994Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17712/ced1ac2759dadfa0.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40994",
       "publishedAt": "2026-08-18T23:53:59.000Z",
       "title": "[No Title] - Post from August 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic announces “Congresswoman (FL-27) María Elvira Salazar Wins!” and says she is endorsed by President Donald Trump. It features large portraits of Donald Trump in a suit and María Elvira Salazar in a red jacket, with a Trump-Vance logo and a blue-to-red gradient background.",
       "url": "https://www.trumpstruth.org/statuses/40994",
       "raw": {
         "creator": "",
@@ -763,13 +854,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40994",
         "isoDate": "2026-08-18T23:53:59.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:15:58.833Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17711/1c34f74ac506bc8a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40993",
       "publishedAt": "2026-08-18T23:54:07.000Z",
       "title": "[No Title] - Post from August 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “Florida State Representative (FL-HD-18) Kim Kendall Wins!” and says she was endorsed by President Donald Trump. It shows portraits of Donald Trump in a suit and Kim Kendall wearing a dark blazer over a red top. A “Trump-Vance” logo with the slogan “Make America Great Again!” appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/40993",
       "raw": {
         "creator": "",
@@ -781,13 +876,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40993",
         "isoDate": "2026-08-18T23:54:07.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:15:56.119Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17710/ea14bdec23c0d284.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40992",
       "publishedAt": "2026-08-18T23:54:21.000Z",
       "title": "[No Title] - Post from August 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “J.J. Grow wins!” in the Florida State Representative race for district FL-HD-23 and says he was endorsed by President Trump. It shows Donald Trump in a suit beside J.J. Grow, who wears a gray suit, striped red tie, and lapel pin. A Trump-Vance logo appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/40992",
       "raw": {
         "creator": "",
@@ -799,13 +898,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40992",
         "isoDate": "2026-08-18T23:54:21.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:15:52.300Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17709/143fe7a673e24871.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/40991",
       "publishedAt": "2026-08-18T23:54:33.000Z",
       "title": "[No Title] - Post from August 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “Jon Maples wins!” in the Republican primary for Florida State Representative, District 87, and says he is endorsed by President Donald Trump. It shows portraits of Donald Trump and Jon Maples in suits against a blue-to-red gradient background. A “Trump Vance” logo with the slogan “Make America Great Again” appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/40991",
       "raw": {
         "creator": "",
@@ -817,7 +920,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/40991",
         "isoDate": "2026-08-18T23:54:33.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:15:49.356Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17708/9e76f569ca48ea89.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -1085,5 +1192,6 @@
       "rationale": "The text is empty.",
       "analyzedAt": "2026-09-05T07:49:31.690Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:44:410cf7e2710bdb744b889104"
 }

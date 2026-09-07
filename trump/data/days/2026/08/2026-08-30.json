@@ -6,32 +6,29 @@
     "negative": 3
   },
   "summary": "positive:12 neutral:13 negative:3",
-  "generatedAt": "2026-09-05T08:06:29.783Z",
+  "generatedAt": "2026-09-07T20:33:14.531Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Economic Growth and Job Creation",
-    "Political Commentary and Controversies"
+    "Trump celebrates NASA’s successful launch and highlights America’s new Space Academy",
+    "Trump urges Canadian companies to relocate to the United States",
+    "Trump plans to use Venezuelan oil to replenish the Strategic Petroleum Reserve"
   ],
-  "trendingTopic": "Google Maps changes Lake Ontario to ‘Lake America’ on US phones",
+  "trendingTopic": "Trump celebrates NASA’s successful launch and highlights America’s new Space Academy",
   "secondaryHighlights": [
     {
-      "topic": "THE FAKE POLLS USED BY OUR CROOKED MEDIA ARE OUT OF CONTROL, AND SOMETHING MUST BE DONE ABOUT IT. FCC TO THE RESCUE!"
+      "topic": "Trump touts his record creating jobs, investment, and economic growth"
     },
     {
-      "topic": "A wonderful new book by Ted Cruz, about a Great Supreme Court Justice, Clarence Thomas, is just out!",
-      "name": "Ted Cruz"
-    },
-    {
-      "topic": "Trump breaks Big Four meat processor grip, restores ranchers’ freedom to process"
+      "topic": "Google Maps labels Lake Ontario as “Lake America” on U.S. phones"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v10:29:abebf6f036d23a388ee72af9",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41380",
       "publishedAt": "2026-08-30T02:35:44.000Z",
       "title": "[No Title] - Post from August 30, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic titled “Service Academies” displays six academy logos in two rows. The top row shows West Point Academy, Coast Guard Academy, and the United States Space Academy, with red “NEW” labels beside the Space Academy emblem. The bottom row shows the Merchant Marine Academy, Air Force Academy, and Naval Academy.",
       "url": "https://www.trumpstruth.org/statuses/41380",
       "raw": {
         "creator": "",
@@ -43,13 +40,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41380",
         "isoDate": "2026-08-30T02:35:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:26:19.164Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17947/3ba4c89e6582090b-ba7bbc627bdb.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41379",
       "publishedAt": "2026-08-30T02:35:59.000Z",
       "title": "[No Title] - Post from August 30, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands on a stage in a dark suit and striped tie while a bald man in a flight suit helps him put on a jacket. The jacket displays mission-style patches, including “45” and “47.” People in matching flight suits stand behind them, with NASA logos and a large image of the Moon visible in the background.",
       "url": "https://www.trumpstruth.org/statuses/41379",
       "raw": {
         "creator": "",
@@ -61,13 +62,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41379",
         "isoDate": "2026-08-30T02:35:59.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:26:16.927Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17946/32ca01de09442078-fb02bb6aeb3e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41378",
       "publishedAt": "2026-08-30T02:36:13.000Z",
       "title": "[No Title] - Post from August 30, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands on a stage in a dark suit, raising one hand, while a group of people in NASA-branded flight suits stand to his left. Several astronauts in full spacesuits are positioned behind him and at the far right. The black-and-white scene includes a large moon graphic and NASA logos on the backdrop.",
       "url": "https://www.trumpstruth.org/statuses/41378",
       "raw": {
         "creator": "",
@@ -79,13 +84,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41378",
         "isoDate": "2026-08-30T02:36:13.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:26:14.180Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17945/e3120f4eca7b7aba-748a8f463d08.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41377",
       "publishedAt": "2026-08-30T02:36:22.000Z",
       "title": "[No Title] - Post from August 30, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump speaks at a podium bearing the presidential seal during an event with NASA branding. He gestures toward the audience between two teleprompters, while NASA personnel stand behind him. Large NASA logos, space-themed graphics, stage lighting, and an image of Earth form the backdrop. The image is presented in black and white.",
       "url": "https://www.trumpstruth.org/statuses/41377",
       "raw": {
         "creator": "",
@@ -97,7 +106,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41377",
         "isoDate": "2026-08-30T02:36:22.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:26:12.215Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17944/f136273db57a5914-b0f46b3d19db.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41376",
@@ -229,7 +242,7 @@
       "id": "https://www.trumpstruth.org/statuses/41386",
       "publishedAt": "2026-08-30T13:00:03.000Z",
       "title": "Kristen Welker, the Unpopular “Hostess” of the once great Meet the Press, now considered Meet the Fake Press, just stated that Donald Trump has “mixed results” on his Endorsements of Candidates, when the recent WINS of Darline Graham and Mike Mazzei, stand at 100% for the U.S. Senate, and 98% for the U.S. House, recently and over the longterm. How can anyone be allowed to say this, working for freely given Public Airwaves? Results are attached. Because of this purposeful inaccuracy, she will be reported to the FCC for rebuke or punishment. Unfortunately, she is not the only one. The Radical Left News is going out of their way to harass, demean, and libel anything “TRUMP.” Their new weapon is to say that my 99% SUCCESS Rate on Endorsements, 100% on Senatorial Endorsements (Many of whom were not even given a shot of winning until I Endorsed!), is either a mixed result, or not very good. In actuality, it is, without question, the strongest Endorsement in the History of Politics. If it were not, I would be the first to admit it. Darline Graham’s run for the Senate was the biggest story in all of Politics, because she wasn’t expected to win, and then, when I Endorsed her, and she easily won, the story of her Victory was hardly covered by anybody. Likewise, the future Governor of Oklahoma, who was behind in every Poll, I Endorsed him, he won, and the story was barely covered! The Press is a Disgrace to our Nation, and I hope that Chairman Brendan Carr, and the fine people of his Commission, will take this Threat to our Country very seriously. Thank you for your attention to this very important matter of Fake Polls and Commentary! President DONALD J. TRUMP",
-      "text": "<p>Kristen Welker, the Unpopular “Hostess” of the once great Meet the Press, now considered Meet the Fake Press, just stated that Donald Trump has “mixed results” on his Endorsements of Candidates, when the recent WINS of Darline Graham and Mike Mazzei, stand at 100% for the U.S. Senate, and 98% for the U.S. House, recently and over the longterm. How can anyone be allowed to say this, working for freely given Public Airwaves? Results are attached. Because of this purposeful inaccuracy, she will be reported to the FCC for rebuke or punishment. Unfortunately, she is not the only one. The Radical Left News is going out of their way to harass, demean, and libel anything “TRUMP.” Their new weapon is to say that my 99% SUCCESS Rate on Endorsements, 100% on Senatorial Endorsements (Many of whom were not even given a shot of winning until I Endorsed!), is either a mixed result, or not very good. In actuality, it is, without question, the strongest Endorsement in the History of Politics. If it were not, I would be the first to admit it. Darline Graham’s run for the Senate was the biggest story in all of Politics, because she wasn’t expected to win, and then, when I Endorsed her, and she easily won, the story of her Victory was hardly covered by anybody. Likewise, the future Governor of Oklahoma, who was behind in every Poll, I Endorsed him, he won, and the story was barely covered! The Press is a Disgrace to our Nation, and I hope that Chairman Brendan Carr, and the fine people of his Commission, will take this Threat to our Country very seriously. Thank you for your attention to this very important matter of Fake Polls and Commentary! President DONALD J. TRUMP</p>",
+      "text": "<p>Kristen Welker, the Unpopular “Hostess” of the once great Meet the Press, now considered Meet the Fake Press, just stated that Donald Trump has “mixed results” on his Endorsements of Candidates, when the recent WINS of Darline Graham and Mike Mazzei, stand at 100% for the U.S. Senate, and 98% for the U.S. House, recently and over the longterm. How can anyone be allowed to say this, working for freely given Public Airwaves? Results are attached. Because of this purposeful inaccuracy, she will be reported to the FCC for rebuke or punishment. Unfortunately, she is not the only one. The Radical Left News is going out of their way to harass, demean, and libel anything “TRUMP.” Their new weapon is to say that my 99% SUCCESS Rate on Endorsements, 100% on Senatorial Endorsements (Many of whom were not even given a shot of winning until I Endorsed!), is either a mixed result, or not very good. In actuality, it is, without question, the strongest Endorsement in the History of Politics. If it were not, I would be the first to admit it. Darline Graham’s run for the Senate was the biggest story in all of Politics, because she wasn’t expected to win, and then, when I Endorsed her, and she easily won, the story of her Victory was hardly covered by anybody. Likewise, the future Governor of Oklahoma, who was behind in every Poll, I Endorsed him, he won, and the story was barely covered! The Press is a Disgrace to our Nation, and I hope that Chairman Brendan Carr, and the fine people of his Commission, will take this Threat to our Country very seriously. Thank you for your attention to this very important matter of Fake Polls and Commentary! President DONALD J. TRUMP</p>\n\n[Image] An infographic titled “Endorsement Record in Republican Primaries” presents a 2026 record for U.S. House and Senate races. It states that 239 of 243 endorsed candidates won, representing 98.35%. The breakdown shows 215 of 219 U.S. House candidates winning, or 98%, and all 24 of 24 U.S. Senate candidates winning, or 100%.",
       "url": "https://www.trumpstruth.org/statuses/41386",
       "raw": {
         "creator": "",
@@ -241,7 +254,11 @@
         "contentSnippet": "Kristen Welker, the Unpopular “Hostess” of the once great Meet the Press, now considered Meet the Fake Press, just stated that Donald Trump has “mixed results” on his Endorsements of Candidates, when the recent WINS of Darline Graham and Mike Mazzei, stand at 100% for the U.S. Senate, and 98% for the U.S. House, recently and over the longterm. How can anyone be allowed to say this, working for freely given Public Airwaves? Results are attached. Because of this purposeful inaccuracy, she will be reported to the FCC for rebuke or punishment. Unfortunately, she is not the only one. The Radical Left News is going out of their way to harass, demean, and libel anything “TRUMP.” Their new weapon is to say that my 99% SUCCESS Rate on Endorsements, 100% on Senatorial Endorsements (Many of whom were not even given a shot of winning until I Endorsed!), is either a mixed result, or not very good. In actuality, it is, without question, the strongest Endorsement in the History of Politics. If it were not, I would be the first to admit it. Darline Graham’s run for the Senate was the biggest story in all of Politics, because she wasn’t expected to win, and then, when I Endorsed her, and she easily won, the story of her Victory was hardly covered by anybody. Likewise, the future Governor of Oklahoma, who was behind in every Poll, I Endorsed him, he won, and the story was barely covered! The Press is a Disgrace to our Nation, and I hope that Chairman Brendan Carr, and the fine people of his Commission, will take this Threat to our Country very seriously. Thank you for your attention to this very important matter of Fake Polls and Commentary! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/41386",
         "isoDate": "2026-08-30T13:00:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:26:08.791Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17949/ca77cf2c64c0cd7f-7c6f3cf82281.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41387",
@@ -301,7 +318,7 @@
       "id": "https://www.trumpstruth.org/statuses/41389",
       "publishedAt": "2026-08-30T13:59:40.000Z",
       "title": "Congratulations to NASA Administrator Jared Isaacman, and the Great Patriots at NASA, on a successful launch. This is THE GOLDEN AGE OF AMERICA! President DONALD J. TRUMP",
-      "text": "<p>Congratulations to NASA Administrator Jared Isaacman, and the Great Patriots at NASA, on a successful launch. This is THE GOLDEN AGE OF AMERICA! President DONALD J. TRUMP</p>",
+      "text": "<p>Congratulations to NASA Administrator Jared Isaacman, and the Great Patriots at NASA, on a successful launch. This is THE GOLDEN AGE OF AMERICA! President DONALD J. TRUMP</p>\n\n[Image] A rocket ascends vertically in front of a huge, intensely bright full moon, creating a dramatic silhouette. The rocket’s exhaust plume expands downward and catches the golden sunlight, while thin clouds streak across the warm-toned sky. No people or politicians are visible.",
       "url": "https://www.trumpstruth.org/statuses/41389",
       "raw": {
         "creator": "",
@@ -313,7 +330,11 @@
         "contentSnippet": "Congratulations to NASA Administrator Jared Isaacman, and the Great Patriots at NASA, on a successful launch. This is THE GOLDEN AGE OF AMERICA! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/41389",
         "isoDate": "2026-08-30T13:59:40.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:26:05.526Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17951/48a0e2f71b9d6511-8d1d0e3fbc00.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41392",
@@ -355,7 +376,7 @@
       "id": "https://www.trumpstruth.org/statuses/41394",
       "publishedAt": "2026-08-30T15:45:05.000Z",
       "title": "[No Title] - Post from August 30, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A satellite-style map shows Lake Ontario labeled “Lake America,” with Toronto and Hamilton on the Canadian shore and Rochester and Oswego on the U.S. shore. Major roads and city markers are overlaid, along with a white angular boundary or route crossing the lake from the western shore toward the northeast.",
       "url": "https://www.trumpstruth.org/statuses/41394",
       "raw": {
         "creator": "",
@@ -367,7 +388,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41394",
         "isoDate": "2026-08-30T15:45:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:26:03.377Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17953/9d9a8ef788ad49a9-222a668ea260.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41393",
@@ -463,7 +488,7 @@
       "id": "https://www.trumpstruth.org/statuses/41399",
       "publishedAt": "2026-08-30T20:53:39.000Z",
       "title": "[No Title] - Post from August 30, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An artistic, dramatic portrait of Donald Trump shows him standing in a black overcoat and suit with a bright red tie and a red “Make America Great Again” cap. He faces forward with a stern expression. A distressed American flag, smoky golden splashes, and a dark city skyline fill the background, including a tall skyscraper resembling the Empire State Building.",
       "url": "https://www.trumpstruth.org/statuses/41399",
       "raw": {
         "creator": "",
@@ -475,7 +500,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41399",
         "isoDate": "2026-08-30T20:53:39.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:25:59.582Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17954/0a34355854087cd2-d7aca6c545b7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41400",
@@ -499,7 +528,7 @@
       "id": "https://www.trumpstruth.org/statuses/41401",
       "publishedAt": "2026-08-30T22:48:48.000Z",
       "title": "Look what VANDALS did to the grass connecting the vandalized World War II Monument and the vandalized Reflecting Pool, which will be opened again, and better than ever, shortly. Anybody who thinks the Reflecting Pool wasn’t vandalized should go back to Law School! The grass is being replaced shortly, and the Reflecting Pool is almost completely fixed, including the various inflow and outflow pipes, which we were saving for the end of the year, but will do now. President DONALD J. TRUMP",
-      "text": "<p>Look what VANDALS did to the grass connecting the vandalized World War II Monument and the vandalized Reflecting Pool, which will be opened again, and better than ever, shortly. Anybody who thinks the Reflecting Pool wasn’t vandalized should go back to Law School! The grass is being replaced shortly, and the Reflecting Pool is almost completely fixed, including the various inflow and outflow pipes, which we were saving for the end of the year, but will do now. President DONALD J. TRUMP</p>",
+      "text": "<p>Look what VANDALS did to the grass connecting the vandalized World War II Monument and the vandalized Reflecting Pool, which will be opened again, and better than ever, shortly. Anybody who thinks the Reflecting Pool wasn’t vandalized should go back to Law School! The grass is being replaced shortly, and the Reflecting Pool is almost completely fixed, including the various inflow and outflow pipes, which we were saving for the end of the year, but will do now. President DONALD J. TRUMP</p>\n\n[Image] Two aerial views show the National Mall in Washington, D.C. The first looks down on a large rectangular grass field with worn patches, paved paths, equipment, temporary structures, and seating areas. The second looks toward the Lincoln Memorial and Reflecting Pool, with the Washington Monument grounds in the foreground, tree-lined paths, visitors, and the city skyline beyond.",
       "url": "https://www.trumpstruth.org/statuses/41401",
       "raw": {
         "creator": "",
@@ -511,7 +540,12 @@
         "contentSnippet": "Look what VANDALS did to the grass connecting the vandalized World War II Monument and the vandalized Reflecting Pool, which will be opened again, and better than ever, shortly. Anybody who thinks the Reflecting Pool wasn’t vandalized should go back to Law School! The grass is being replaced shortly, and the Reflecting Pool is almost completely fixed, including the various inflow and outflow pipes, which we were saving for the end of the year, but will do now. President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/41401",
         "isoDate": "2026-08-30T22:48:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:25:56.878Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17955/9b0d158d59bae305-752c65c70b11.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17956/0664a5e5f75783e8-6e3cb3983c89.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41402",
@@ -535,7 +569,7 @@
       "id": "https://www.trumpstruth.org/statuses/41403",
       "publishedAt": "2026-08-30T23:56:46.000Z",
       "title": "A wonderful new book by Ted Cruz, about a Great Supreme Court Justice, Clarence Thomas, is just out! It tells the true story about Justice Thomas’s rise, and all of the wonderful things he has done for America. A MUST READ! Get your copy now:",
-      "text": "<p>A wonderful new book by Ted Cruz, about a Great Supreme Court Justice, Clarence Thomas, is just out! It tells the true story about Justice Thomas’s rise, and all of the wonderful things he has done for America. A MUST READ! Get your copy now: <a href=\"https://www.amazon.com/dp/B0GXNLZ6W8?lv=shuf&amp;channelId=500&amp;plpRedirect=mhFallback\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">amazon.com/dp/B0GXNLZ6W8?lv=sh</span><span class=\"invisible\">uf&amp;channelId=500&amp;plpRedirect=mhFallback</span></a></p>",
+      "text": "<p>A wonderful new book by Ted Cruz, about a Great Supreme Court Justice, Clarence Thomas, is just out! It tells the true story about Justice Thomas’s rise, and all of the wonderful things he has done for America. A MUST READ! Get your copy now: <a href=\"https://www.amazon.com/dp/B0GXNLZ6W8?lv=shuf&amp;channelId=500&amp;plpRedirect=mhFallback\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">amazon.com/dp/B0GXNLZ6W8?lv=sh</span><span class=\"invisible\">uf&amp;channelId=500&amp;plpRedirect=mhFallback</span></a></p>\n\n[Image] A black-and-white close-up portrait of U.S. Supreme Court Justice Clarence Thomas shows him wearing glasses, a dark suit, white shirt, and patterned tie against a black background. Large white text reads “Going Further” and “The Incomparable Clarence Thomas,” while “Ted Cruz” appears prominently in the lower-left corner.",
       "url": "https://www.trumpstruth.org/statuses/41403",
       "raw": {
         "creator": "",
@@ -547,7 +581,11 @@
         "contentSnippet": "A wonderful new book by Ted Cruz, about a Great Supreme Court Justice, Clarence Thomas, is just out! It tells the true story about Justice Thomas’s rise, and all of the wonderful things he has done for America. A MUST READ! Get your copy now: https://www.amazon.com/dp/B0GXNLZ6W8?lv=shuf&channelId=500&plpRedirect=mhFallback",
         "guid": "https://www.trumpstruth.org/statuses/41403",
         "isoDate": "2026-08-30T23:56:46.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:25:53.918Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17957/9312bc5d9e511dfa-d6e38c7ba232.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -725,5 +763,6 @@
       "rationale": "The text expresses enthusiasm for a new book and highlights the positive contributions of Justice Clarence Thomas, calling it a 'MUST READ'.",
       "analyzedAt": "2026-09-05T08:06:29.779Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:29:abebf6f036d23a388ee72af9"
 }

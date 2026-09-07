@@ -6,28 +6,26 @@
     "negative": 5
   },
   "summary": "positive:10 neutral:16 negative:5",
-  "generatedAt": "2026-09-05T08:05:10.434Z",
+  "generatedAt": "2026-09-07T20:30:53.998Z",
   "topics": [
-    "Disaster Recovery and Assistance",
-    "Economic Growth and Job Creation",
-    "Endorsements and Support for Candidates"
+    "Donald Trump rallies South Carolina voters behind Darline Graham in Republican Senate runoff",
+    "Trump escalates dispute with Canada over tariffs, trade losses, French-language rights, and renaming Lake Ontario",
+    "Trump highlights Iran’s unpaid military, protest killings, mine removals, and new U.S. financial pressure"
   ],
-  "trendingTopic": "Secretary Sean Duffy: My job is to get my daughter into heaven, not Harvard",
-  "trendingName": "Sean Duffy",
+  "trendingTopic": "Donald Trump rallies South Carolina voters behind Darline Graham in Republican Senate runoff",
   "secondaryHighlights": [
     {
-      "topic": "Gavin Newsom hails Trump Accounts as ‘best’ thing the prez has ever done in rare lovefest",
-      "name": "Gavin Newsom"
+      "topic": "Trump promotes AI-powered energy production to support data centers and protect household electricity prices"
     },
     {
-      "topic": "Donald Trump, Dave McCormick, and Jamie Dimon unveil a massive manufacturing push in Pennsylvania",
-      "name": "Jamie Dimon"
+      "topic": "Trump and business commentators tout booming U.S. business conditions and manufacturing investment"
     },
     {
-      "topic": "Lake Ontario renamed Lake America"
+      "topic": "Trump administration showcases repairs, beautification, and safety improvements across Washington, D.C."
     }
   ],
-  "selfPraiseCount": 2,
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v10:31:bdc58d2e434404c0ba20b57c",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41181",
@@ -159,7 +157,7 @@
       "id": "https://www.trumpstruth.org/statuses/41189",
       "publishedAt": "2026-08-25T14:04:49.000Z",
       "title": "[No Title] - Post from August 25, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A stylized map of the Great Lakes region shows Lake Ontario crossed out with a large red X and relabeled “Lake America” beside a U.S. flag. Toronto is labeled to the northwest and New York to the southeast. A purple boundary-like line traces across the map, and a “Team Trump” logo appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/41189",
       "raw": {
         "creator": "",
@@ -171,7 +169,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41189",
         "isoDate": "2026-08-25T14:04:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:21:09.067Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17817/bf5936e745203d09.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41190",
@@ -465,7 +467,7 @@
       "id": "https://www.trumpstruth.org/statuses/41200",
       "publishedAt": "2026-08-25T15:42:12.000Z",
       "title": "[No Title] - Post from August 25, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117156903407897572</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117156903407897572</span></p>\n\n[Image] A screenshot of an X post by David Sacks, whose profile photo and verified account name appear at the top. The post says President Trump required AI companies to generate their own electricity so data centers would not raise residential power prices. It argues data centers could lower costs and fund grid upgrades, schools, social services, and reduced property taxes.",
       "url": "https://www.trumpstruth.org/statuses/41200",
       "raw": {
         "creator": "",
@@ -477,13 +479,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117156903407897572",
         "guid": "https://www.trumpstruth.org/statuses/41200",
         "isoDate": "2026-08-25T15:42:12.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:21:01.986Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17821/195dacd77e8587b2.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41199",
       "publishedAt": "2026-08-25T15:42:46.000Z",
       "title": "[No Title] - Post from August 25, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A series of screenshots from Eric W.’s verified social-media account discusses the Supreme Court allowing construction of Donald Trump’s White House ballroom to continue pending further order. The posts quote a court order signed by Chief Justice John Roberts and commentary from former Attorney General Bill Barr, Attorney General Todd Blanche, Leonard Leo, and legal expert Ed Whelan. One embedded image shows White House construction.",
       "url": "https://www.trumpstruth.org/statuses/41199",
       "raw": {
         "creator": "",
@@ -495,13 +501,19 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41199",
         "isoDate": "2026-08-25T15:42:46.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:20:59.295Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17818/6be447f70254553e.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17819/dacf14957bd4da1d.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17820/f1f33434618ba030.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41210",
       "publishedAt": "2026-08-25T15:46:50.000Z",
       "title": "[No Title] - Post from August 25, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Two New York Post newspaper pages dated August 25, 2026 cover U.S. sanctions targeting Iran. The first features a map of Iran and the UAE, Dubai’s role in Iranian trade, and headlines about economic pressure. The second, titled “Poison Snake,” shows Treasury Secretary Scott Bessent speaking at a podium beside images of seized currency and explains tightened financial restrictions.",
       "url": "https://www.trumpstruth.org/statuses/41210",
       "raw": {
         "creator": "",
@@ -513,13 +525,18 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41210",
         "isoDate": "2026-08-25T15:46:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:20:55.992Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17824/9d5689c9c903ca1e.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17825/7bb99cd6a368ee08.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41209",
       "publishedAt": "2026-08-25T15:47:02.000Z",
       "title": "[No Title] - Post from August 25, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117156925333799291</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117156925333799291</span></p>\n\n[Image] Three New York Post pages report on US economic pressure against Iran, with headlines including “OUT OF MULLAH” and “SQUEEZING.” The cover shows a bearded, turbaned Iranian cleric gesturing beside an Iranian flag. Inside are a map of Iran and the UAE, currency images, and Treasury Secretary Scott Bessent speaking at a podium. Donald Trump is mentioned in the text.",
       "url": "https://www.trumpstruth.org/statuses/41209",
       "raw": {
         "creator": "",
@@ -531,13 +548,19 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117156925333799291",
         "guid": "https://www.trumpstruth.org/statuses/41209",
         "isoDate": "2026-08-25T15:47:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:20:52.998Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17823/8b429cf93eaa56fb.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17824/9d5689c9c903ca1e.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17825/7bb99cd6a368ee08.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41212",
       "publishedAt": "2026-08-25T18:19:39.000Z",
       "title": "[No Title] - Post from August 25, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A grand stone fountain cascades down a long series of stepped basins in a formal garden. A large arched structure with columns, balustrades, and a smaller central fountain stands at the top, flanked by symmetrical stairways and urns. Dense evergreen and deciduous trees surround the sunlit architectural scene beneath a clear blue sky.",
       "url": "https://www.trumpstruth.org/statuses/41212",
       "raw": {
         "creator": "",
@@ -549,13 +572,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41212",
         "isoDate": "2026-08-25T18:19:39.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:20:47.779Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17827/47b24fb29d9842a7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41211",
       "publishedAt": "2026-08-25T18:19:49.000Z",
       "title": "[No Title] - Post from August 25, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “We are making DC SAFE & BEAUTIFUL” lists reported improvements, including 2,300 lights fixed, 1,460 benches repaired or installed, graffiti cleaned, debris removed from the Carp Pond, potholes repaired, homeless encampments removed, trash cans installed, monuments cleaned, fountains fixed, and fencing repainted. Photos show the Caesar Rodney statue, Reflecting Pool, Dupont Circle fountain, and Art of War statue.",
       "url": "https://www.trumpstruth.org/statuses/41211",
       "raw": {
         "creator": "",
@@ -567,7 +594,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41211",
         "isoDate": "2026-08-25T18:19:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:20:44.672Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17826/7deba428e26b8bed.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41213",
@@ -775,5 +806,6 @@
       "rationale": "The text expresses sadness over the passing of Dolly Parton, indicating a loss felt by many.",
       "analyzedAt": "2026-09-05T07:51:22.035Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:31:bdc58d2e434404c0ba20b57c"
 }

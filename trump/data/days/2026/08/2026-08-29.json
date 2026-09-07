@@ -6,26 +6,26 @@
     "negative": 2
   },
   "summary": "positive:5 neutral:11 negative:2",
-  "generatedAt": "2026-09-05T08:06:15.970Z",
+  "generatedAt": "2026-09-07T20:32:44.396Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies",
-    "Disaster Recovery and Assistance"
+    "Donald Trump tours NASA facilities and meets Administrator Jared Isaacman, astronauts, and space officials",
+    "Trump attacks Kathy Hochul over Canada and promotes renaming Lake Ontario “Lake America”",
+    "Trump announces a historic U.S.-Venezuela oil deal to boost production and private investment"
   ],
-  "trendingTopic": "Jared Isaacman, the Head of NASA, yesterday, at NASA Mission Control!",
-  "trendingName": "Jared Isaacman",
+  "trendingTopic": "Donald Trump tours NASA facilities and meets Administrator Jared Isaacman, astronauts, and space officials",
   "secondaryHighlights": [
     {
-      "topic": "Our deal with Venezuela is the biggest oil deal, by far, in World history!"
+      "topic": "Trump claims victory in the Iran war and urges supporters to stay the course"
     },
     {
-      "topic": "Lake Ontario renamed Lake America"
+      "topic": "Trump declares CNN and MSNOW are in a ratings death spiral"
     },
     {
-      "topic": "Trump is winning the Iran war— stay the course"
+      "topic": "Trump accepts honorary chairmanship of the upcoming Presidents Cup at Medinah Country Club"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v10:18:987be6002e5b2f47f91ee68d",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41357",
@@ -85,7 +85,7 @@
       "id": "https://www.trumpstruth.org/statuses/41360",
       "publishedAt": "2026-08-29T02:48:35.000Z",
       "title": "[No Title] - Post from August 29, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic displays a written announcement that Venezuela has reached a “historic agreement” with the United States to increase oil production, attract private investment, and develop 17 strategic fields. The statement thanks U.S. President Donald Trump and Secretary of State Marco Rubio, citing economic recovery, infrastructure modernization, and energy security. Venezuelan and U.S. flag colors frame the text.",
       "url": "https://www.trumpstruth.org/statuses/41360",
       "raw": {
         "creator": "",
@@ -97,7 +97,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41360",
         "isoDate": "2026-08-29T02:48:35.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:25:50.710Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17931/04d2ddd1db333e1d-36aa392425c8.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41361",
@@ -193,7 +197,7 @@
       "id": "https://www.trumpstruth.org/statuses/41365",
       "publishedAt": "2026-08-29T14:50:44.000Z",
       "title": "[No Title] - Post from August 29, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117179353254305954</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117179353254305954</span></p>\n\n[Image] A screenshot of an X post from an account labeled “Popmemes by Jon...” shows large black text reading “LAKE AMERICA – PROTECTED BY DONALD DUCKS,” followed by a U.S. flag emoji. The post displays a blue verified badge, a “1d” timestamp, and a circular profile image of a long-haired person wearing dark sunglasses.",
       "url": "https://www.trumpstruth.org/statuses/41365",
       "raw": {
         "creator": "",
@@ -205,13 +209,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117179353254305954",
         "guid": "https://www.trumpstruth.org/statuses/41365",
         "isoDate": "2026-08-29T14:50:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:25:46.533Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17934/135ea36d5f0a6df2-874afaccb088.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41371",
       "publishedAt": "2026-08-29T15:16:10.000Z",
       "title": "[No Title] - Post from August 29, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A vintage-style illustrated poster labels Lake Ontario as “Lake America” and calls it “The Great Lakes” and a “Freshwater Sea.” It shows the lake between Ontario, Canada, and New York, USA, with Toronto, Kingston, Ajax, Rochester, Oswego, Niagara River, and the St. Lawrence River marked. Sailboats, an anchor, a sunset, compass roses, mountains, forests, and a lighthouse decorate the map.",
       "url": "https://www.trumpstruth.org/statuses/41371",
       "raw": {
         "creator": "",
@@ -223,13 +231,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41371",
         "isoDate": "2026-08-29T15:16:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:25:43.826Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17940/6e9d1f92831c9a53-c6c7bbb4ee9c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41370",
       "publishedAt": "2026-08-29T15:16:26.000Z",
       "title": "NASA Mission Control yesterday! President DONALD J. TRUMP",
-      "text": "<p>NASA Mission Control yesterday! President DONALD J. TRUMP</p>",
+      "text": "<p>NASA Mission Control yesterday! President DONALD J. TRUMP</p>\n\n[Image] Donald Trump stands in a NASA mission control room with several staff members. Operators sit at workstations filled with computer monitors, while large wall displays show Earth views, weather imagery, flight paths, spacecraft graphics, and technical data. The black-and-white photograph captures Trump touring the control center and speaking with personnel.",
       "url": "https://www.trumpstruth.org/statuses/41370",
       "raw": {
         "creator": "",
@@ -241,13 +253,17 @@
         "contentSnippet": "NASA Mission Control yesterday! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/41370",
         "isoDate": "2026-08-29T15:16:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:25:41.194Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17939/7f622e3b3049098d-c6ca4bbc0fd2.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41369",
       "publishedAt": "2026-08-29T15:16:57.000Z",
       "title": "[No Title] - Post from August 29, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands beside a black vehicle, raising one fist as he walks toward the camera. He wears a dark suit, white shirt, and bright pink tie. Two suited security personnel stand nearby, while a woman in sunglasses is visible behind the vehicle. The scene appears to take place outside a building or aircraft hangar.",
       "url": "https://www.trumpstruth.org/statuses/41369",
       "raw": {
         "creator": "",
@@ -259,13 +275,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41369",
         "isoDate": "2026-08-29T15:16:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:25:38.578Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17938/e303946a8358fb47-204ba4343829.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41368",
       "publishedAt": "2026-08-29T15:17:15.000Z",
       "title": "[No Title] - Post from August 29, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands at a podium bearing the presidential seal during a NASA event, with a large American flag and NASA insignia behind him. A group of astronauts in blue flight suits stands onstage, while several spacesuits are displayed to the right. A spacecraft capsule occupies the left side, and an audience watches from the foreground.",
       "url": "https://www.trumpstruth.org/statuses/41368",
       "raw": {
         "creator": "",
@@ -277,13 +297,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41368",
         "isoDate": "2026-08-29T15:17:15.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:25:36.662Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17937/09f4dd85c58c381c-f8eaa00984ae.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41367",
       "publishedAt": "2026-08-29T15:17:24.000Z",
       "title": "Jared Isaacman, the Head of NASA, yesterday, at NASA Mission Control! President DONALD J. TRUMP",
-      "text": "<p>Jared Isaacman, the Head of NASA, yesterday, at NASA Mission Control! President DONALD J. TRUMP</p>",
+      "text": "<p>Jared Isaacman, the Head of NASA, yesterday, at NASA Mission Control! President DONALD J. TRUMP</p>\n\n[Image] Donald Trump sits at a workstation in a control room surrounded by computer monitors and equipment. A suited man stands beside him, holding a commemorative plaque reading “America Has Returned,” while several staff members observe in the background. An American flag and mission or organizational insignia are visible on the walls.",
       "url": "https://www.trumpstruth.org/statuses/41367",
       "raw": {
         "creator": "",
@@ -295,7 +319,11 @@
         "contentSnippet": "Jared Isaacman, the Head of NASA, yesterday, at NASA Mission Control! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/41367",
         "isoDate": "2026-08-29T15:17:24.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:25:34.012Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17936/b224b9cf71e2a89a-249f5477e4a7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41372",
@@ -319,7 +347,7 @@
       "id": "https://www.trumpstruth.org/statuses/41373",
       "publishedAt": "2026-08-29T18:43:49.000Z",
       "title": "NASA Administrator Jared Isaacman, Secretary of Education Linda McMahon, Stephanie McMahon, and Triple H, at Kennedy Space Center! President DONALD J. TRUMP",
-      "text": "<p>NASA Administrator Jared Isaacman, Secretary of Education Linda McMahon, Stephanie McMahon, and Triple H, at Kennedy Space Center! President DONALD J. TRUMP</p>",
+      "text": "<p>NASA Administrator Jared Isaacman, Secretary of Education Linda McMahon, Stephanie McMahon, and Triple H, at Kennedy Space Center! President DONALD J. TRUMP</p>\n\n[Image] Four people pose on an airport tarmac in front of a twin-seat military jet with its canopies open. Three wear blue flight suits with NASA, U.S. flag, and mission patches, while the woman in the center wears a white blazer and dark trousers. Another blue aircraft and a large solar-panel structure are visible in the background under a partly cloudy sky.",
       "url": "https://www.trumpstruth.org/statuses/41373",
       "raw": {
         "creator": "",
@@ -331,7 +359,11 @@
         "contentSnippet": "NASA Administrator Jared Isaacman, Secretary of Education Linda McMahon, Stephanie McMahon, and Triple H, at Kennedy Space Center! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/41373",
         "isoDate": "2026-08-29T18:43:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:25:30.197Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17941/49589bb8bc4a0328-bb3ca5bcff66.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41374",
@@ -461,5 +493,6 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:06:15.965Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:18:987be6002e5b2f47f91ee68d"
 }

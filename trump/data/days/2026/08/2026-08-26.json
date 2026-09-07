@@ -6,35 +6,32 @@
     "negative": 5
   },
   "summary": "positive:10 neutral:35 negative:5",
-  "generatedAt": "2026-09-05T08:05:13.890Z",
+  "generatedAt": "2026-09-07T20:31:41.764Z",
   "topics": [
-    "Disaster Recovery and Assistance",
-    "Economic Growth and Job Creation",
-    "Endorsements and Support for Candidates"
+    "Trump showcases restored Washington, D.C., monuments, fountains, and public spaces after cleanup and repairs",
+    "Trump-endorsed candidates win Republican nominations in South Carolina and Oklahoma",
+    "Trump administration touts 150 victories for people of faith and religious-policy achievements"
   ],
-  "trendingTopic": "Speaker of the House, Mike Johnson, is GREAT. He gets it done!!!",
-  "trendingName": "Mike Johnson",
+  "trendingTopic": "Trump showcases restored Washington, D.C., monuments, fountains, and public spaces after cleanup and repairs",
   "secondaryHighlights": [
     {
-      "topic": "JD Vance, Ohio Figures Give Rousing Middletown Speech on Manufacturing Investments",
-      "name": "JD Vance"
+      "topic": "Trump and Scott Bessent promote an intensified economic offensive against Iran"
     },
     {
-      "topic": "Ralph Norman had the look of a good Congressman (Not great, but good), but ruined his career when he endorsed Nikki Haley.",
-      "name": "Nikki Haley"
+      "topic": "President Donald J. Trump International Airport signage debuts along the Florida approach"
     },
     {
-      "topic": "Mike Waltz Takes Cuba to School: https://www.wsj.com/opinion/mike-waltz-takes-cuba-to-school-25912dc2",
-      "name": "Mike Waltz"
+      "topic": "Trump honors 13 American service members killed in the Kabul withdrawal anniversary"
     }
   ],
-  "selfPraiseCount": 2,
+  "selfPraiseCount": 13,
+  "topicsCacheKey": "day-themes-v10:50:5b0159c1fdeb7aecee95dcab",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41214",
       "publishedAt": "2026-08-26T00:44:40.000Z",
       "title": "[No Title] - Post from August 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political campaign graphic reads “U.S. Senator from South Carolina Darline Graham Wins!” and says she is endorsed by President Trump. It shows a large portrait of Donald Trump beside a woman in a white jacket. A “Trump Vance” logo with “Make America Great Again!” appears at the bottom against a blue-to-red gradient background.",
       "url": "https://www.trumpstruth.org/statuses/41214",
       "raw": {
         "creator": "",
@@ -46,7 +43,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41214",
         "isoDate": "2026-08-26T00:44:40.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:22:52.924Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17828/341e734e65f637b2-007ef56112b7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41215",
@@ -70,7 +71,7 @@
       "id": "https://www.trumpstruth.org/statuses/41216",
       "publishedAt": "2026-08-26T02:52:09.000Z",
       "title": "[No Title] - Post from August 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces Mike Mazzei as the Republican nominee for governor of Oklahoma, declaring that he “wins” and is endorsed by Donald Trump. Portraits of Donald Trump and Mike Mazzei appear against a blue-to-red gradient background. A “Trump Vance” logo with “Make America Great Again” is displayed at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/41216",
       "raw": {
         "creator": "",
@@ -82,7 +83,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41216",
         "isoDate": "2026-08-26T02:52:09.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:22:48.939Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17829/2a489a93ae84b09c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41218",
@@ -160,7 +165,7 @@
       "id": "https://www.trumpstruth.org/statuses/41228",
       "publishedAt": "2026-08-26T15:40:40.000Z",
       "title": "[No Title] - Post from August 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A low-angle view shows the ornate neoclassical façade of the United States Supreme Court Building. Tall fluted Corinthian columns support an elaborately decorated entablature and coffered portico ceiling, with dark windows behind them. The white stone architecture stands against a partly cloudy blue-gray sky, and no people are visible.",
       "url": "https://www.trumpstruth.org/statuses/41228",
       "raw": {
         "creator": "",
@@ -172,13 +177,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41228",
         "isoDate": "2026-08-26T15:40:40.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:22:45.244Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17839/1f6b0fe4e5079273-73adf8ac43c5.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41227",
       "publishedAt": "2026-08-26T15:41:51.000Z",
       "title": "[No Title] - Post from August 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A broad, tiered stone fountain cascades down a long staircase into a shallow pool. Numerous visitors sit and stand along the steps and sloped walls, with trees lining both sides. At the top, an arched stone structure and balustrade frame the view beneath a clear blue sky.",
       "url": "https://www.trumpstruth.org/statuses/41227",
       "raw": {
         "creator": "",
@@ -190,13 +199,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41227",
         "isoDate": "2026-08-26T15:41:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:22:42.494Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17838/227deed8aae8a255-b8c4a2a73dae.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41226",
       "publishedAt": "2026-08-26T15:42:08.000Z",
       "title": "[No Title] - Post from August 26, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162567997143475</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162567997143475</span></p>\n\n[Image] Three views show a large tiered urban fountain surrounded by evergreen trees, paved walkways, and many visitors. The first image shows the fountain mostly drained and overgrown, while the other two show water cascading down multiple levels. A stone arch and balustrade stand at the upper end, with office and residential buildings visible beyond.",
       "url": "https://www.trumpstruth.org/statuses/41226",
       "raw": {
         "creator": "",
@@ -208,13 +221,19 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162567997143475",
         "guid": "https://www.trumpstruth.org/statuses/41226",
         "isoDate": "2026-08-26T15:42:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:22:39.833Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17836/53b481d8e1148f0a-bfd10208ee1e.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17837/cd54199c616a3dbe-ffb2242e867c.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17838/227deed8aae8a255-b8c4a2a73dae.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41225",
       "publishedAt": "2026-08-26T15:42:25.000Z",
       "title": "[No Title] - Post from August 26, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162569163470489</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162569163470489</span></p>\n\n[Image] A social-media post from “Trump War Room” displays a small profile image of Donald Trump and compares Meridian Hill Park before and after restoration. The first view shows a dry, overgrown cascading fountain and worn pavement. Later views show flowing water, cleaned terraces, surrounding trees, and many visitors sitting or walking near the restored fountain.",
       "url": "https://www.trumpstruth.org/statuses/41225",
       "raw": {
         "creator": "",
@@ -226,13 +245,20 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162569163470489",
         "guid": "https://www.trumpstruth.org/statuses/41225",
         "isoDate": "2026-08-26T15:42:25.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:22:36.667Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17835/0f2df53e62872952-17bdfdf07f4e.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17836/53b481d8e1148f0a-bfd10208ee1e.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17837/cd54199c616a3dbe-ffb2242e867c.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17838/227deed8aae8a255-b8c4a2a73dae.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41224",
       "publishedAt": "2026-08-26T15:43:06.000Z",
       "title": "[No Title] - Post from August 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Two views of an equestrian statue in Lafayette Square, Washington, D.C., with the White House and Washington Monument visible behind it. The first shows U.S. Park Police officers, fencing, graffiti, ropes, debris, and a damaged or dismantled cannon near the monument. The second shows the statue and park in autumn, behind an iron fence.",
       "url": "https://www.trumpstruth.org/statuses/41224",
       "raw": {
         "creator": "",
@@ -244,13 +270,18 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41224",
         "isoDate": "2026-08-26T15:43:06.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:22:32.891Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17833/0543d9ced199d812-385aa1d2c153.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17834/542cf595a8a45738-4858b8cca0e7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41223",
       "publishedAt": "2026-08-26T15:43:29.000Z",
       "title": "[No Title] - Post from August 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The word “CLEAN” appears in large black letters above a white marble monument and fountain. Sculpted classical figures and winged forms surround the monument, which stands beneath a bright blue sky with scattered clouds. An American flag flies on a pole to the right, while pale turquoise water fills the foreground basin.",
       "url": "https://www.trumpstruth.org/statuses/41223",
       "raw": {
         "creator": "",
@@ -262,13 +293,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41223",
         "isoDate": "2026-08-26T15:43:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:22:29.801Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17832/5b455c50d193b572-1dc4a653570a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41222",
       "publishedAt": "2026-08-26T15:43:45.000Z",
       "title": "[No Title] - Post from August 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A split-image comparison labeled “COLUMBUS CIRCLE,” with “Biden” above the left photo and “Trump” above the right. The left image shows a worn, largely empty stone fountain basin and damaged sculpture details in an urban park. The right shows a clean, intact white marble monument with sculpted figures against a bright blue sky.",
       "url": "https://www.trumpstruth.org/statuses/41222",
       "raw": {
         "creator": "",
@@ -280,13 +315,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41222",
         "isoDate": "2026-08-26T15:43:45.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:22:26.581Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17831/5bd089acad0c6568-96c4431300c8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41221",
       "publishedAt": "2026-08-26T15:43:53.000Z",
       "title": "[No Title] - Post from August 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A split-image graphic titled “COLUMBUS CIRCLE” compares panels labeled “Biden” and “Trump.” The left shows the Columbus monument covered in graffiti, including “HAMAS IS COMING,” “FREE PALESTINE,” and other slogans, with a Palestinian-colored cloth draped over the statue. The right shows the clean monument under a blue sky, with several people wearing hats standing in front.",
       "url": "https://www.trumpstruth.org/statuses/41221",
       "raw": {
         "creator": "",
@@ -298,7 +337,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41221",
         "isoDate": "2026-08-26T15:43:53.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:22:24.077Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17830/ec0925e6bec1be13-264bb0fc07ef.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41230",
@@ -322,7 +365,7 @@
       "id": "https://www.trumpstruth.org/statuses/41229",
       "publishedAt": "2026-08-26T15:48:58.000Z",
       "title": "[No Title] - Post from August 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A covered outdoor corridor is lined with tall white columns and ornate bases, casting long shadows across the dark gray floor. Framed displays or plaques run along the left wall, while a glass-paneled doorway sits at the far end. Manicured hedges and leafy trees are visible beyond the columns in bright sunlight.",
       "url": "https://www.trumpstruth.org/statuses/41229",
       "raw": {
         "creator": "",
@@ -334,13 +377,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41229",
         "isoDate": "2026-08-26T15:48:58.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:22:20.089Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17840/fa78f51d69a5d660-dbc37e200e46.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41236",
       "publishedAt": "2026-08-26T15:55:10.000Z",
       "title": "[No Title] - Post from August 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A social media post by Joel Fischer reads, “The parents who save the world.” The attached photograph shows a young Donald Trump in a black suit and bright red tie standing between an elderly woman in a floral dress and pearls and an elderly mustached man in a dark suit with a red pocket square, inside an ornate marble-paneled room.",
       "url": "https://www.trumpstruth.org/statuses/41236",
       "raw": {
         "creator": "",
@@ -352,13 +399,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41236",
         "isoDate": "2026-08-26T15:55:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:22:17.760Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17847/3983bcfffa8babe3-967138f300cf.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41235",
       "publishedAt": "2026-08-26T15:55:19.000Z",
       "title": "[No Title] - Post from August 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A social media post from “The Name of War” is captioned “Donald Trump in military academy.” The black-and-white photograph shows an older man in a suit and a woman wearing a fur-trimmed coat standing beside a formally dressed military cadet holding a sword. Trees and a lawn are visible in the background.",
       "url": "https://www.trumpstruth.org/statuses/41235",
       "raw": {
         "creator": "",
@@ -370,13 +421,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41235",
         "isoDate": "2026-08-26T15:55:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:22:13.060Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17846/fa73e3ffb2044607-6760d489b836.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41234",
       "publishedAt": "2026-08-26T15:55:28.000Z",
       "title": "[No Title] - Post from August 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A split black-and-white image shows Donald Trump and Barack Obama at age 18. On the left, Trump wears a formal military-style uniform and smiles at the camera. On the right, Obama wears a wide-brimmed hat and collared shirt, with a cigarette in his mouth. Captions identify them as “D. Trump, 18” and “B. H. Obama, 18.”",
       "url": "https://www.trumpstruth.org/statuses/41234",
       "raw": {
         "creator": "",
@@ -388,13 +443,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41234",
         "isoDate": "2026-08-26T15:55:28.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:22:10.319Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17845/22b0bc6adeb33c6d-5259c3826240.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41233",
       "publishedAt": "2026-08-26T15:55:53.000Z",
       "title": "[No Title] - Post from August 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A typed letter on New York Yankees letterhead is dated February 23, 1989, and signed by George M. Steinbrenner III from the Tampa office. Addressed to Donald Trump, it praises his appearance on Morton Downey’s show, says he “tells it like it is,” and suggests he should run for president. “Robert” is handwritten at the top.",
       "url": "https://www.trumpstruth.org/statuses/41233",
       "raw": {
         "creator": "",
@@ -406,13 +465,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41233",
         "isoDate": "2026-08-26T15:55:53.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:22:07.871Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17844/1129edded5cc4a3c-47963749b682.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41232",
       "publishedAt": "2026-08-26T15:56:02.000Z",
       "title": "[No Title] - Post from August 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political montage centers Donald Trump in a dark suit and red tie, set against an aircraft carrier, fighter jets, smoke, and large U.S. flags. George W. Bush appears at lower left beside a sign reading “Mission Not Accomplished 2001–2021,” while Ayatollah Ali Khamenei appears at lower right near a sign reading “Mission Accomplished 2026.”",
       "url": "https://www.trumpstruth.org/statuses/41232",
       "raw": {
         "creator": "",
@@ -424,13 +487,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41232",
         "isoDate": "2026-08-26T15:56:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:22:04.979Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17843/4afc8e66a81ea94f-76330ed7bc39.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41231",
       "publishedAt": "2026-08-26T15:57:12.000Z",
       "title": "Mike Waltz Takes Cuba to School:",
-      "text": "<p>Mike Waltz Takes Cuba to School: <a href=\"https://www.wsj.com/opinion/mike-waltz-takes-cuba-to-school-25912dc2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/opinion/mike-waltz-tak</span><span class=\"invisible\">es-cuba-to-school-25912dc2</span></a></p>",
+      "text": "<p>Mike Waltz Takes Cuba to School: <a href=\"https://www.wsj.com/opinion/mike-waltz-takes-cuba-to-school-25912dc2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/opinion/mike-waltz-tak</span><span class=\"invisible\">es-cuba-to-school-25912dc2</span></a></p>\n\n[Image] Two pages of a Wall Street Journal Opinion article titled “Mike Waltz Takes Cuba to School,” dated July 9, 2026. The first page shows U.S. Ambassador to the U.N. Mike Waltz seated at a United Nations meeting with a “UNITED STATES” placard. The article discusses Cuba’s government, U.S. sanctions and Waltz’s criticism of Havana.",
       "url": "https://www.trumpstruth.org/statuses/41231",
       "raw": {
         "creator": "",
@@ -442,13 +509,18 @@
         "contentSnippet": "Mike Waltz Takes Cuba to School: https://www.wsj.com/opinion/mike-waltz-takes-cuba-to-school-25912dc2",
         "guid": "https://www.trumpstruth.org/statuses/41231",
         "isoDate": "2026-08-26T15:57:12.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:22:01.809Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17841/de7d71b9d4289010-ed909ea64cc1.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17842/3cf3e102bda57187-172275566042.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41237",
       "publishedAt": "2026-08-26T15:59:00.000Z",
       "title": "[No Title] - Post from August 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Two photos show workers restoring an ornate neoclassical interior surrounded by extensive scaffolding. In the first, a worker in a hard hat applies material to a large column beside an elaborate acanthus-and-scroll capital while holding a tray of compound. The second shows multiple levels of scaffolding, columns, tools, buckets, fans, and protective floor coverings inside the building.",
       "url": "https://www.trumpstruth.org/statuses/41237",
       "raw": {
         "creator": "",
@@ -460,13 +532,18 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41237",
         "isoDate": "2026-08-26T15:59:00.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:21:59.091Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17848/28369706eaab3e25-cb03e0c27714.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17849/4d296e1ffa35958c-8a36ee43357a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41239",
       "publishedAt": "2026-08-26T16:05:52.000Z",
       "title": "[No Title] - Post from August 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post by Matt Van Swol on X argues that the Republican Party is failing to deliver on Donald Trump’s agenda. The text cites a lack of accountability, spending cuts, mass deportations, deficit reduction, and legislative progress, while warning that frustrated voters may punish Republicans in the midterm elections. The post shows 562.3K views and is dated July 14, 2026.",
       "url": "https://www.trumpstruth.org/statuses/41239",
       "raw": {
         "creator": "",
@@ -478,13 +555,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41239",
         "isoDate": "2026-08-26T16:05:52.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:21:56.173Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17852/6ea8ae09ce1b658c-a751a0832354.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41238",
       "publishedAt": "2026-08-26T16:06:16.000Z",
       "title": "[No Title] - Post from August 26, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162662461574744</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162662461574744</span></p>\n\n[Image] Two screenshots show posts on X about Donald Trump and his administration. The first, from Coffee & Covid News, lists claimed accomplishments including immigration enforcement, economic growth, deregulation, energy production, foreign policy, military policy, and agency changes. The second, by Matt Van Swol, argues that Republicans are failing to deliver promised reforms and warns of voter backlash.",
       "url": "https://www.trumpstruth.org/statuses/41238",
       "raw": {
         "creator": "",
@@ -496,7 +577,13 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162662461574744",
         "guid": "https://www.trumpstruth.org/statuses/41238",
         "isoDate": "2026-08-26T16:06:16.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:21:51.765Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17850/9e268d38c0d21a0d-808aa1bd3289.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17851/a224a671da645ecc-8b52a8b9a1b4.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17852/6ea8ae09ce1b658c-a751a0832354.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41247",
@@ -646,7 +733,7 @@
       "id": "https://www.trumpstruth.org/statuses/41252",
       "publishedAt": "2026-08-26T16:26:54.000Z",
       "title": "Trump Unleashes Scott Bessent on Iran:",
-      "text": "<p>Trump Unleashes Scott Bessent on Iran: <a href=\"https://www.wsj.com/opinion/donald-trump-scott-bessent-sanctions-iran-oil-economy-96362772\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/opinion/donald-trump-s</span><span class=\"invisible\">cott-bessent-sanctions-iran-oil-economy-96362772</span></a></p>",
+      "text": "<p>Trump Unleashes Scott Bessent on Iran: <a href=\"https://www.wsj.com/opinion/donald-trump-scott-bessent-sanctions-iran-oil-economy-96362772\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/opinion/donald-trump-s</span><span class=\"invisible\">cott-bessent-sanctions-iran-oil-economy-96362772</span></a></p>\n\n[Image] Four pages of a Wall Street Journal Opinion article titled “Trump Unleashes Scott Bessent on Iran.” The first page shows Treasury Secretary Scott Bessent speaking at a podium between U.S. flags, with the Treasury Department seal visible. The text discusses Donald Trump’s Iran sanctions strategy, and a chart tracks the falling value of Iran’s rial from 2018 to 2026.",
       "url": "https://www.trumpstruth.org/statuses/41252",
       "raw": {
         "creator": "",
@@ -658,13 +745,20 @@
         "contentSnippet": "Trump Unleashes Scott Bessent on Iran: https://www.wsj.com/opinion/donald-trump-scott-bessent-sanctions-iran-oil-economy-96362772",
         "guid": "https://www.trumpstruth.org/statuses/41252",
         "isoDate": "2026-08-26T16:26:54.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:21:47.150Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17866/51deee2c38d74092-fb0073c777bc.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17867/9701667ea768acbd-20e1887fd271.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17868/2fc86e1857ecbe5f-870f40512235.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17869/7da4c5967e9b6188-21bea8d6daaa.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41251",
       "publishedAt": "2026-08-26T16:27:52.000Z",
       "title": "[No Title] - Post from August 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Four pages from a numbered document list claims about Donald Trump’s policies and actions on religious freedom, Israel, foreign affairs, American values, and faith. The text mentions Benjamin Netanyahu, Mike Huckabee, Vice President Vance, Pope Francis, and Charlie Kirk, and references Gaza, Iran, religious holidays, Holocaust remembrance, and various proclamations and messages.",
       "url": "https://www.trumpstruth.org/statuses/41251",
       "raw": {
         "creator": "",
@@ -676,13 +770,20 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41251",
         "isoDate": "2026-08-26T16:27:52.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:21:43.239Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17862/9afb732b810ba18b-f9313e361244.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17863/ab47df91cd66b923-14e0a06b94af.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17864/9d2036c48d7938f7-678338eb0b92.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17865/950dea0778bdd142-f294344e41da.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41250",
       "publishedAt": "2026-08-26T16:28:33.000Z",
       "title": "[No Title] - Post from August 26, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162748946903706</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162748946903706</span></p>\n\n[Image] Four pages of a text-heavy report list claimed actions by Donald Trump and his administration involving gender-related policies, foster care, adoption, abortion, military rules, DEI, courts, and international religious freedom. The pages include headings such as “Strengthening Families,” “Protecting Life Through Your Tax Dollars,” and “Strengthening Our Military,” with numbered statements and highlighted action words.",
       "url": "https://www.trumpstruth.org/statuses/41250",
       "raw": {
         "creator": "",
@@ -694,13 +795,20 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162748946903706",
         "guid": "https://www.trumpstruth.org/statuses/41250",
         "isoDate": "2026-08-26T16:28:33.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:21:40.244Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17858/885c6022f2e6cc9a-847bd360a875.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17859/81f375d0c5230327-a84dfee9583b.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17860/593872ec224c3e2a-ec132a161587.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17861/b6cec214ccd5a4b4-5d731672dc71.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41249",
       "publishedAt": "2026-08-26T16:29:15.000Z",
       "title": "[No Title] - Post from August 26, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162751648515478</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162751648515478</span></p>\n\n[Image] A multi-page policy document lists claimed actions by Donald Trump and federal agencies. Topics include religious liberty, free speech, opposition to antisemitism, school choice, parental rights, women’s sports, biological sex, foster care, abortion policy, military reforms, ending diversity programs, court appointments, and international religious freedom. The pages use bold numbered statements with gold underlined hyperlinks.",
       "url": "https://www.trumpstruth.org/statuses/41249",
       "raw": {
         "creator": "",
@@ -712,13 +820,24 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162751648515478",
         "guid": "https://www.trumpstruth.org/statuses/41249",
         "isoDate": "2026-08-26T16:29:15.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:21:36.247Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17854/26d034a2805cd664-da43d37225d9.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17855/3db9e74e135848c0-0a2d27566db8.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17856/88a99ebe7d6b931f-2ceeba92440e.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17857/28af2e5d4583b982-57067d6a7ef6.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17858/885c6022f2e6cc9a-847bd360a875.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17859/81f375d0c5230327-a84dfee9583b.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17860/593872ec224c3e2a-ec132a161587.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17861/b6cec214ccd5a4b4-5d731672dc71.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41248",
       "publishedAt": "2026-08-26T16:29:38.000Z",
       "title": "[No Title] - Post from August 26, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162754379459312</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162754379459312</span></p>\n\n[Image] A multi-page White House Faith Office document titled “President Trump’s Top 150 Victories for People of Faith,” dated February 6, 2026. It features a drawing of the White House and lists claims about Donald Trump’s policies on religious liberty, free speech, education, abortion, gender issues, military policy, DEI, courts, and international religious freedom.",
       "url": "https://www.trumpstruth.org/statuses/41248",
       "raw": {
         "creator": "",
@@ -730,13 +849,25 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162754379459312",
         "guid": "https://www.trumpstruth.org/statuses/41248",
         "isoDate": "2026-08-26T16:29:38.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:21:32.941Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17853/0e8bab9193112c63-efb22a57c932.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17854/26d034a2805cd664-da43d37225d9.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17855/3db9e74e135848c0-0a2d27566db8.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17856/88a99ebe7d6b931f-2ceeba92440e.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17857/28af2e5d4583b982-57067d6a7ef6.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17858/885c6022f2e6cc9a-847bd360a875.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17859/81f375d0c5230327-a84dfee9583b.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17860/593872ec224c3e2a-ec132a161587.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17861/b6cec214ccd5a4b4-5d731672dc71.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41258",
       "publishedAt": "2026-08-26T16:31:52.000Z",
       "title": "[No Title] - Post from August 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A black-and-white photograph shows a formally dressed man and woman standing outdoors beside a ceremonial military officer. The man wears a suit and holds a hat, while the woman wears a fur stole over a dark dress, layered necklaces, and holds a bouquet. The officer wears a decorated dark uniform, helmet with face guard, white gloves, and carries a sword.",
       "url": "https://www.trumpstruth.org/statuses/41258",
       "raw": {
         "creator": "",
@@ -748,13 +879,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41258",
         "isoDate": "2026-08-26T16:31:52.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:21:29.534Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17872/f8132b816d05aa2c-d0c9f0ff9388.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41262",
       "publishedAt": "2026-08-26T16:31:55.000Z",
       "title": "President Donald J. Trump International Airport shining bright at night.A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸",
-      "text": "<p>President Donald J. Trump International Airport shining bright at night.</p><p>A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸</p>",
+      "text": "<p>President Donald J. Trump International Airport shining bright at night.</p><p>A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸</p>\n\n[Image] A nighttime photograph taken from inside a moving vehicle shows a large illuminated overhead sign reading “Welcome to President Donald J. Trump International Airport,” with an eagle emblem and stars. The roadway leads beneath the sign toward airport lights, traffic, and construction barrels. Palm trees line both sides of the multilane approach.",
       "url": "https://www.trumpstruth.org/statuses/41262",
       "raw": {
         "creator": "",
@@ -766,13 +901,17 @@
         "contentSnippet": "President Donald J. Trump International Airport shining bright at night.\nA beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸",
         "guid": "https://www.trumpstruth.org/statuses/41262",
         "isoDate": "2026-08-26T16:31:55.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:21:26.215Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17873/7cafe992ec51accc-41196813bf19.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41257",
       "publishedAt": "2026-08-26T16:31:58.000Z",
       "title": "[No Title] - Post from August 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A large gilded sculptural group is shown inside scaffolding and protective sheeting. The centerpiece is a monumental horse’s head beside a broad, feathered form, while a smaller classical human figure stands in front. Wooden planks and metal platforms surround the sculpture, suggesting restoration or installation work. Through the coverings, buildings and sky are faintly visible.",
       "url": "https://www.trumpstruth.org/statuses/41257",
       "raw": {
         "creator": "",
@@ -784,7 +923,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41257",
         "isoDate": "2026-08-26T16:31:58.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:21:22.836Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17871/aa405221fdc17990-5fd5f5102d3f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41256",
@@ -826,7 +969,7 @@
       "id": "https://www.trumpstruth.org/statuses/41254",
       "publishedAt": "2026-08-26T16:33:49.000Z",
       "title": "[No Title] - Post from August 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands in front of a large American flag, wearing a dark suit, white shirt, and bright red tie. He gestures with both hands and appears to be speaking, with a small American flag pin on his lapel. A dark stage area and part of a speaker are visible around him.",
       "url": "https://www.trumpstruth.org/statuses/41254",
       "raw": {
         "creator": "",
@@ -838,7 +981,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41254",
         "isoDate": "2026-08-26T16:33:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:21:18.741Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17870/302518547de9ba0c-79a807a11106.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41253",
@@ -898,7 +1045,7 @@
       "id": "https://www.trumpstruth.org/statuses/41261",
       "publishedAt": "2026-08-26T16:42:55.000Z",
       "title": "RT @megforfloridaPresident Donald J. Trump International Airport shining bright at night.A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@megforflorida\" class=\"u-url mention\">@<span>megforflorida</span></a></span>President Donald J. Trump International Airport shining bright at night.</p><p>A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸</p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@megforflorida\" class=\"u-url mention\">@<span>megforflorida</span></a></span>President Donald J. Trump International Airport shining bright at night.</p><p>A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸</p>\n\n[Image] A nighttime view from inside a car shows a freeway approaching an illuminated overhead sign reading “Welcome to … President Donald J. Trump International Airport.” Palm trees line the roadway, while vehicles, lane markings, streetlights, and construction barriers are visible ahead. The sign features an eagle emblem and stars.",
       "url": "https://www.trumpstruth.org/statuses/41261",
       "raw": {
         "creator": "",
@@ -910,13 +1057,17 @@
         "contentSnippet": "RT @megforfloridaPresident Donald J. Trump International Airport shining bright at night.\nA beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸",
         "guid": "https://www.trumpstruth.org/statuses/41261",
         "isoDate": "2026-08-26T16:42:55.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:21:15.687Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17873/7cafe992ec51accc-41196813bf19.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41263",
       "publishedAt": "2026-08-26T19:07:41.000Z",
       "title": "Today, we honor the 13 brave American HEROES who were tragically killed five years ago by evil Jihadi terrorists in Kabul, Afghanistan. This catastrophe was a result of Sleepy Joe Biden’s totally botched Withdrawal from the Country, which left our wonderful Servicemen and women defenseless, and allowed the Taliban to free thousands of bloodthirsty terrorists and criminals held at Bagram Prison. This was one of the greatest atrocities in the History of our Nation, and we can never forget that it was the result of the sheer incompetence of Joe Biden and the Democrats who were in charge. During my 2024 Campaign, I met with the Abbey Gate Gold Star Families, wonderful people and Great Patriots, who were totally ignored and disrespected by the Democrat Party. I promised them we would deliver Justice when I returned to the White House — and we have! We quickly apprehended the evil mastermind responsible for the deaths of our Service members, and it has been one of my Greatest Honors as Commander in Chief. May God Bless America, and may God Bless the Abbey Gate Gold Star Families. You will NEVER be forgotten! President DONALD J. TRUMP",
-      "text": "<p>Today, we honor the 13 brave American HEROES who were tragically killed five years ago by evil Jihadi terrorists in Kabul, Afghanistan. This catastrophe was a result of Sleepy Joe Biden’s totally botched Withdrawal from the Country, which left our wonderful Servicemen and women defenseless, and allowed the Taliban to free thousands of bloodthirsty terrorists and criminals held at Bagram Prison. This was one of the greatest atrocities in the History of our Nation, and we can never forget that it was the result of the sheer incompetence of Joe Biden and the Democrats who were in charge.<br/> <br/>During my 2024 Campaign, I met with the Abbey Gate Gold Star Families, wonderful people and Great Patriots, who were totally ignored and disrespected by the Democrat Party. I promised them we would deliver Justice when I returned to the White House — and we have! We quickly apprehended the evil mastermind responsible for the deaths of our Service members, and it has been one of my Greatest Honors as Commander in Chief. May God Bless America, and may God Bless the Abbey Gate Gold Star Families. You will NEVER be forgotten! President DONALD J. TRUMP</p>",
+      "text": "<p>Today, we honor the 13 brave American HEROES who were tragically killed five years ago by evil Jihadi terrorists in Kabul, Afghanistan. This catastrophe was a result of Sleepy Joe Biden’s totally botched Withdrawal from the Country, which left our wonderful Servicemen and women defenseless, and allowed the Taliban to free thousands of bloodthirsty terrorists and criminals held at Bagram Prison. This was one of the greatest atrocities in the History of our Nation, and we can never forget that it was the result of the sheer incompetence of Joe Biden and the Democrats who were in charge.<br/> <br/>During my 2024 Campaign, I met with the Abbey Gate Gold Star Families, wonderful people and Great Patriots, who were totally ignored and disrespected by the Democrat Party. I promised them we would deliver Justice when I returned to the White House — and we have! We quickly apprehended the evil mastermind responsible for the deaths of our Service members, and it has been one of my Greatest Honors as Commander in Chief. May God Bless America, and may God Bless the Abbey Gate Gold Star Families. You will NEVER be forgotten! President DONALD J. TRUMP</p>\n\n[Image] Donald Trump stands at the center of a large group posing for a photograph in a formal room. American flags and blue curtains are behind them, with patterned carpeting and tall windows visible. The group includes men and women in suits, dresses, and business-casual clothing; one person wears an American-flag-patterned jacket.",
       "url": "https://www.trumpstruth.org/statuses/41263",
       "raw": {
         "creator": "",
@@ -928,7 +1079,11 @@
         "contentSnippet": "Today, we honor the 13 brave American HEROES who were tragically killed five years ago by evil Jihadi terrorists in Kabul, Afghanistan. This catastrophe was a result of Sleepy Joe Biden’s totally botched Withdrawal from the Country, which left our wonderful Servicemen and women defenseless, and allowed the Taliban to free thousands of bloodthirsty terrorists and criminals held at Bagram Prison. This was one of the greatest atrocities in the History of our Nation, and we can never forget that it was the result of the sheer incompetence of Joe Biden and the Democrats who were in charge.\n During my 2024 Campaign, I met with the Abbey Gate Gold Star Families, wonderful people and Great Patriots, who were totally ignored and disrespected by the Democrat Party. I promised them we would deliver Justice when I returned to the White House — and we have! We quickly apprehended the evil mastermind responsible for the deaths of our Service members, and it has been one of my Greatest Honors as Commander in Chief. May God Bless America, and may God Bless the Abbey Gate Gold Star Families. You will NEVER be forgotten! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/41263",
         "isoDate": "2026-08-26T19:07:41.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:21:13.492Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17874/3c0cd7afcf702d89-05869f75c08a.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -1232,5 +1387,6 @@
       "rationale": "The text expresses anger and blame towards Joe Biden and the Democrats for the deaths of American servicemen, describing it as a catastrophe and incompetence.",
       "analyzedAt": "2026-09-05T07:57:17.011Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:50:5b0159c1fdeb7aecee95dcab"
 }

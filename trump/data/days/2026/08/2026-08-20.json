@@ -6,26 +6,28 @@
     "negative": 0
   },
   "summary": "positive:4 neutral:16 negative:0",
-  "generatedAt": "2026-09-05T08:04:52.769Z",
+  "generatedAt": "2026-09-07T20:28:44.749Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Stephen Miller and allies tout Donald Trump’s second-term record on border, economy, and foreign policy",
+    "Trump administration urges the Supreme Court to allow White House East Wing construction to proceed",
+    "Trump nominates Jesus Osete and Phil Axt to federal district judgeships"
   ],
-  "trendingTopic": "James Braid, our Director of Legislative Affairs, will be leaving the White House in September",
-  "trendingName": "James Braid",
+  "trendingTopic": "Stephen Miller and allies tout Donald Trump’s second-term record on border, economy, and foreign policy",
   "secondaryHighlights": [
     {
-      "topic": "I am pleased to nominate Phil Axt to the U.S. District Court for the District of North Dakota",
-      "name": "Phil Axt"
+      "topic": "James Braid to leave White House legislative affairs post in September",
+      "name": "James Braid"
     },
     {
-      "topic": "MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed"
+      "topic": "Trump’s support empowers law enforcement to make the country safer"
     },
     {
-      "topic": "Trump’s support ‘empowers’ law enforcement to make the country safer: Former FBI agent"
+      "topic": "Michael Cohen’s latest statements reportedly undermine the factual basis of Trump’s hush money conviction",
+      "name": "Michael Cohen"
     }
   ],
-  "selfPraiseCount": 1,
+  "selfPraiseCount": 7,
+  "topicsCacheKey": "day-themes-v10:20:b20080720d189a9c3bca6321",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41019",
@@ -49,7 +51,7 @@
       "id": "https://www.trumpstruth.org/statuses/41018",
       "publishedAt": "2026-08-20T01:49:17.000Z",
       "title": "[No Title] - Post from August 20, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117125319695089292</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117125319695089292</span></p>\n\n[Image] A screenshot of an X post by Eric Daugherty, quoting Stephen Miller. The large text praises Donald Trump’s border policies, energy and supply-chain actions, fight against drug cartels, stance toward Iran, pipelines, lower gas prices, reduced inflation, and tax cuts. The post ends with “Massive winning” and tags @StephenM.",
       "url": "https://www.trumpstruth.org/statuses/41018",
       "raw": {
         "creator": "",
@@ -61,7 +63,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117125319695089292",
         "guid": "https://www.trumpstruth.org/statuses/41018",
         "isoDate": "2026-08-20T01:49:17.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:18:04.486Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17733/4008300a984333d1.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41021",
@@ -85,7 +91,7 @@
       "id": "https://www.trumpstruth.org/statuses/41020",
       "publishedAt": "2026-08-20T01:54:36.000Z",
       "title": "[No Title] - Post from August 20, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117125340444071624</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117125340444071624</span></p>\n\n[Image] A screenshot of an X post by Benny Johnson, whose profile photo and verified account appear at the top. The post praises Stephen Miller’s remarks that Donald Trump rebuilt the Republican Party, transformed it into a working- and middle-class party, and helped Republicans win Senate majorities. A “Subscribe” button and quoted text are visible.",
       "url": "https://www.trumpstruth.org/statuses/41020",
       "raw": {
         "creator": "",
@@ -97,13 +103,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117125340444071624",
         "guid": "https://www.trumpstruth.org/statuses/41020",
         "isoDate": "2026-08-20T01:54:36.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:18:00.723Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17735/c9ad12e1c3a7d10c.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41022",
       "publishedAt": "2026-08-20T03:08:33.000Z",
       "title": "[No Title] - Post from August 20, 2026",
-      "text": "<p><a href=\"https://m.youtube.com/watch?v=VXHfx0tl0Wk&amp;ra=m\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">m.youtube.com/watch?v=VXHfx0tl</span><span class=\"invisible\">0Wk&amp;ra=m</span></a></p>",
+      "text": "<p><a href=\"https://m.youtube.com/watch?v=VXHfx0tl0Wk&amp;ra=m\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">m.youtube.com/watch?v=VXHfx0tl</span><span class=\"invisible\">0Wk&amp;ra=m</span></a></p>\n\n[Image] A screenshot of a post by Hugh Hewitt, dated Aug. 19, 2026. The post discusses a federal court injunction affecting construction in the White House East Wing, national security concerns, and the possibility that the Chief Justice or Supreme Court will act. It mentions Chief Justice John Roberts, Justice Brett Kavanaugh, President Reagan, and President Donald Trump.",
       "url": "https://www.trumpstruth.org/statuses/41022",
       "raw": {
         "creator": "",
@@ -115,7 +125,11 @@
         "contentSnippet": "https://m.youtube.com/watch?v=VXHfx0tl0Wk&ra=m",
         "guid": "https://www.trumpstruth.org/statuses/41022",
         "isoDate": "2026-08-20T03:08:33.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:17:58.087Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17737/752837b25fa4bfc2.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41023",
@@ -175,7 +189,7 @@
       "id": "https://www.trumpstruth.org/statuses/41025",
       "publishedAt": "2026-08-20T04:29:37.000Z",
       "title": "[No Title] - Post from August 20, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117125949632758649</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117125949632758649</span></p>\n\n[Image] A screenshot of a post from the Rapid Response 47 account quotes @StephenM praising Donald Trump’s record during his second term. The text claims he rebalanced trade with Canada, protected manufacturing, restored NATO fairness, pursued peace in Korea, toppled Maduro, fought cartels, stopped Iran from obtaining nuclear weapons, expanded energy, reduced inflation, cut taxes, and secured the border.",
       "url": "https://www.trumpstruth.org/statuses/41025",
       "raw": {
         "creator": "",
@@ -187,7 +201,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117125949632758649",
         "guid": "https://www.trumpstruth.org/statuses/41025",
         "isoDate": "2026-08-20T04:29:37.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:17:54.734Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17738/48c43ffff5ae7dca.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41027",
@@ -265,7 +283,7 @@
       "id": "https://www.trumpstruth.org/statuses/41033",
       "publishedAt": "2026-08-20T21:21:33.000Z",
       "title": "[No Title] - Post from August 20, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117129928672171856</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117129928672171856</span></p>\n\n[Image] A screenshot of a post by Eric Daugherty quotes Stephen Miller praising an unnamed leader’s immigration, energy, national security, and economic policies. The text claims zero border releases for 15 months, action against drug cartels and Iran, lower gas prices and inflation, tax cuts, and expanded energy production. It ends with “Massive winning” and tags @StephenM.",
       "url": "https://www.trumpstruth.org/statuses/41033",
       "raw": {
         "creator": "",
@@ -277,7 +295,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117129928672171856",
         "guid": "https://www.trumpstruth.org/statuses/41033",
         "isoDate": "2026-08-20T21:21:33.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:17:50.806Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17743/09fb91736139fcd5.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41032",
@@ -301,7 +323,7 @@
       "id": "https://www.trumpstruth.org/statuses/41031",
       "publishedAt": "2026-08-20T21:22:26.000Z",
       "title": "[No Title] - Post from August 20, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117129931396749934</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117129931396749934</span></p>\n\n[Image] A screenshot of a post by Benny Johnson reads, “Stephen Miller Just Gave An On-Air Masterclass on Why The GOP is ‘The Party of Trump.’” It quotes Stephen Miller praising Donald Trump for rebuilding the Republican Party, expanding its working- and middle-class base, and helping Republicans win Senate races. The post ends, “Well said @StephenM.”",
       "url": "https://www.trumpstruth.org/statuses/41031",
       "raw": {
         "creator": "",
@@ -313,7 +335,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117129931396749934",
         "guid": "https://www.trumpstruth.org/statuses/41031",
         "isoDate": "2026-08-20T21:22:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:17:47.966Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17741/9e5107cfeca12117.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41030",
@@ -337,7 +363,7 @@
       "id": "https://www.trumpstruth.org/statuses/41035",
       "publishedAt": "2026-08-20T21:23:19.000Z",
       "title": "[No Title] - Post from August 20, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117129934429426476</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117129934429426476</span></p>\n\n[Image] A screenshot of a post from the Rapid Response 47 account quotes Stephen M: “President Trump” has been in office for a year and a half and has solved longstanding national problems. The post credits Donald Trump with changes involving Canada, China, NATO, Korea, Maduro, cartels, Iran, energy, inflation, taxes, and border security.",
       "url": "https://www.trumpstruth.org/statuses/41035",
       "raw": {
         "creator": "",
@@ -349,7 +375,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117129934429426476",
         "guid": "https://www.trumpstruth.org/statuses/41035",
         "isoDate": "2026-08-20T21:23:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:17:44.437Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17745/d17c7a3051b6e3e7.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41036",
@@ -373,7 +403,7 @@
       "id": "https://www.trumpstruth.org/statuses/41037",
       "publishedAt": "2026-08-20T22:52:35.000Z",
       "title": "[No Title] - Post from August 20, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117130257407138275</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117130257407138275</span></p>\n\n[Image] A screenshot of a post by Byron York (@ByronYork) states: “CNN legal analyst Elie Honig: Michael Cohen's latest statements demolish the factual basis of the hush money prosecution and conviction of President Trump.” The post is timestamped 5:21 PM on Aug. 20, 2026, and shows 24.8K views.",
       "url": "https://www.trumpstruth.org/statuses/41037",
       "raw": {
         "creator": "",
@@ -385,7 +415,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117130257407138275",
         "guid": "https://www.trumpstruth.org/statuses/41037",
         "isoDate": "2026-08-20T22:52:35.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:17:41.459Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17747/1e0b5e1400c30889.png"
+      ]
     }
   ],
   "sentiments": [
@@ -509,5 +543,6 @@
       "rationale": "The text is a retweet link without any additional commentary or sentiment.",
       "analyzedAt": "2026-09-05T07:49:53.404Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:20:b20080720d189a9c3bca6321"
 }

@@ -6,26 +6,23 @@
     "negative": 8
   },
   "summary": "positive:14 neutral:36 negative:8",
-  "generatedAt": "2026-09-05T08:06:02.858Z",
+  "generatedAt": "2026-09-07T20:32:28.118Z",
   "topics": [
-    "Economic Growth and Job Creation",
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Trump administration highlights restoration work at the White House and Washington monuments",
+    "Trump touts a 97% GOP primary endorsement record after key Republican victories",
+    "Trump administration highlights expanded ICE arrests and deportations of criminal migrants"
   ],
-  "trendingTopic": ". did warn you... .@realdonaldtrump did warn you",
+  "trendingTopic": "Trump administration highlights restoration work at the White House and Washington monuments",
   "secondaryHighlights": [
     {
-      "topic": "Laura Ingraham: “Year-to-date, the goods and services deficit decreased $189.3 billion, or 33.8 percent, from the same period in 2025.",
-      "name": "Laura Ingraham"
+      "topic": "Trump touts a 97% GOP primary endorsement record after key Republican victories"
     },
     {
-      "topic": "From Greg Wischer at the United States Department of the Interior: “So far, 83 statues, monuments, and memorials have been cleaned and fixed."
-    },
-    {
-      "topic": "Maggot Hagerman, the Fake Reporter from The Failing New York Times, an unattractive person both inside and out, and who knows less about me than most reporters on the beat (She’s a SCAMMER!), made up a story that on September 11th, I’m not going to the World Trade Center, in New York City, because they won’t let me make a speech, and I’m going to the Pentagon in D.C., because I’m a featured speaker."
+      "topic": "Trump administration highlights expanded ICE arrests and deportations of criminal migrants"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 10,
+  "topicsCacheKey": "day-themes-v10:58:90a5b73a28621bab3ce77dd6",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41299",
@@ -49,7 +46,7 @@
       "id": "https://www.trumpstruth.org/statuses/41301",
       "publishedAt": "2026-08-28T01:24:42.000Z",
       "title": "[No Title] - Post from August 28, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Workers in helmets and protective clothing restore ornate cream-colored architectural detailing from scaffolding. The central worker kneels on a wooden platform, holding a plastering tray and applying material to a large column topped with carved acanthus leaves and spiral volutes. Other workers and scaffolding are visible in the background.",
       "url": "https://www.trumpstruth.org/statuses/41301",
       "raw": {
         "creator": "",
@@ -61,13 +58,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41301",
         "isoDate": "2026-08-28T01:24:42.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:25:26.250Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17902/aef92f9ad2d8e8cf-316eb91b8c68.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41300",
       "publishedAt": "2026-08-28T01:24:52.000Z",
       "title": "[No Title] - Post from August 28, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An ornate interior is undergoing construction or restoration, with extensive metal scaffolding surrounding large decorative columns and upper-level walkways. Several workers in hard hats are positioned on the scaffolding and floor. Plastic sheeting covers the steps and floor, while buckets, tools, fans, ladders, and construction materials are scattered throughout the bright, partially enclosed space.",
       "url": "https://www.trumpstruth.org/statuses/41300",
       "raw": {
         "creator": "",
@@ -79,13 +80,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41300",
         "isoDate": "2026-08-28T01:24:52.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:25:22.806Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17901/dc65298c3daf06fe-eb8ea0435f0f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41302",
       "publishedAt": "2026-08-28T02:17:04.000Z",
       "title": "[No Title] - Post from August 28, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “U.S. Territories” displays a map section labeled “NEW” and “The Strait of Hormuz,” with a circled coastal area. Below it are flags and labels for Puerto Rico, Northern Mariana Islands, U.S. Virgin Islands, Guam, Wake Island, Washington, D.C., American Samoa, the Federated States of Micronesia, and the Marshall Islands.",
       "url": "https://www.trumpstruth.org/statuses/41302",
       "raw": {
         "creator": "",
@@ -97,7 +102,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41302",
         "isoDate": "2026-08-28T02:17:04.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:25:19.824Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17903/a91fb5bb45f99338-41cb9974e86e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41303",
@@ -121,7 +130,7 @@
       "id": "https://www.trumpstruth.org/statuses/41305",
       "publishedAt": "2026-08-28T12:25:23.000Z",
       "title": "[No Title] - Post from August 28, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political poster contrasts “Five Who Built America” with “Five Who Broke It.” The upper section shows George Washington, Abraham Lincoln, Thomas Jefferson, Ronald Reagan, and Donald Trump, labeled with positive traits. The lower section shows James Buchanan, Woodrow Wilson, Jimmy Carter, Barack Obama, and Joe Biden, labeled with negative traits including failure, bureaucracy, weakness, division, and decline.",
       "url": "https://www.trumpstruth.org/statuses/41305",
       "raw": {
         "creator": "",
@@ -133,13 +142,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41305",
         "isoDate": "2026-08-28T12:25:23.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:25:16.515Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17905/5ccecf54c9123ba9-4921e02d54b1.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41304",
       "publishedAt": "2026-08-28T12:26:38.000Z",
       "title": "[No Title] - Post from August 28, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A social-media post shows Donald Trump in a black suit, sunglasses, and tie, holding a rifle in front of a mountainous desert settlement engulfed in explosions and smoke. Large text above reads “NO MORE MR. NICE GUY!” alongside a U.S. flag emoji. The post displays 3.04K ReTruths, 12.4K likes, and a date of April 29, 2026.",
       "url": "https://www.trumpstruth.org/statuses/41304",
       "raw": {
         "creator": "",
@@ -151,7 +164,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41304",
         "isoDate": "2026-08-28T12:26:38.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:25:13.984Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17904/b3f9089d3d36e3f0-1b6d8df8f447.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41306",
@@ -301,7 +318,7 @@
       "id": "https://www.trumpstruth.org/statuses/41312",
       "publishedAt": "2026-08-28T15:23:48.000Z",
       "title": "[No Title] - Post from August 28, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117173820921004362</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117173820921004362</span></p>\n\n[Image] A screenshot of a social media post from F.A. United States Attorney Bill Essayli describes Operation Guardian Angel and arrests at California jails, while linking to a New York Post report about deportations. The embedded image shows a bearded man in a red shirt being escorted, a seated man in a white shirt, and another man being led away; some faces are pixelated.",
       "url": "https://www.trumpstruth.org/statuses/41312",
       "raw": {
         "creator": "",
@@ -313,13 +330,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117173820921004362",
         "guid": "https://www.trumpstruth.org/statuses/41312",
         "isoDate": "2026-08-28T15:23:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:25:09.699Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17914/ff5e8a1888b1fcae-95f817342d73.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41311",
       "publishedAt": "2026-08-28T15:23:58.000Z",
       "title": "[No Title] - Post from August 28, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A large gilded sculpture of a muscular winged bull fills the center of the image, with a smaller human head and shoulders visible near its base. The sculpture is enclosed by extensive metal scaffolding, wooden platforms, and protective white sheeting, suggesting restoration or construction work. Sunlight reflects strongly off the gold-colored surface.",
       "url": "https://www.trumpstruth.org/statuses/41311",
       "raw": {
         "creator": "",
@@ -331,13 +352,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41311",
         "isoDate": "2026-08-28T15:23:58.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:25:06.080Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17913/20fc2dbf09c1517d-17baa5545521.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41310",
       "publishedAt": "2026-08-28T15:24:03.000Z",
       "title": "[No Title] - Post from August 28, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A close-up view shows a large sculpture of a bull coated in reflective gold paint. The bull’s head dominates the foreground, with its eye, muzzle, nostrils, horns, and textured surface clearly visible; another gold-painted section is behind it. Scaffolding, protective plastic, work materials, and a translucent construction enclosure surround the sculpture.",
       "url": "https://www.trumpstruth.org/statuses/41310",
       "raw": {
         "creator": "",
@@ -349,13 +374,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41310",
         "isoDate": "2026-08-28T15:24:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:25:03.150Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17912/1cfecb4a77f1d9f8-46d103ae1e01.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41309",
       "publishedAt": "2026-08-28T15:24:10.000Z",
       "title": "[No Title] - Post from August 28, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Workers on a scaffold apply gold leaf or finish to an elaborate, oversized decorative sculpture with sweeping, feather-like forms. The structure is surrounded by work platforms, tools, protective coverings, paint buckets, and exposed framing beneath a wooden ceiling. Large windows and temporary construction materials fill the background.",
       "url": "https://www.trumpstruth.org/statuses/41309",
       "raw": {
         "creator": "",
@@ -367,13 +396,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41309",
         "isoDate": "2026-08-28T15:24:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:25:00.335Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17911/06403915d365173b-4136b14784e6.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41308",
       "publishedAt": "2026-08-28T15:24:21.000Z",
       "title": "From Greg Wischer at the United States Department of the Interior: “So far, 83 statues, monuments, and memorials have been cleaned and fixed. Here are photos of the in-progress cleaning of the Union General George Thomas statue located northeast of the White House.”",
-      "text": "<p>From Greg Wischer at the United States Department of the Interior: “So far, 83 statues, monuments, and memorials have been cleaned and fixed. Here are photos of the in-progress cleaning of the Union General George Thomas statue located northeast of the White House.”</p>",
+      "text": "<p>From Greg Wischer at the United States Department of the Interior: “So far, 83 statues, monuments, and memorials have been cleaned and fixed. Here are photos of the in-progress cleaning of the Union General George Thomas statue located northeast of the White House.”</p>\n\n[Image] Two views show workers in green protective clothing and respirators using elevated work platforms beside an equestrian statue. The bronze monument depicts Union Army general George H. Thomas on horseback, mounted on an ornate stone pedestal at an urban intersection. Trucks, buildings, trees, and overcast skies surround the monument as it is cleaned or restored.",
       "url": "https://www.trumpstruth.org/statuses/41308",
       "raw": {
         "creator": "",
@@ -385,13 +418,18 @@
         "contentSnippet": "From Greg Wischer at the United States Department of the Interior: “So far, 83 statues, monuments, and memorials have been cleaned and fixed. Here are photos of the in-progress cleaning of the Union General George Thomas statue located northeast of the White House.”",
         "guid": "https://www.trumpstruth.org/statuses/41308",
         "isoDate": "2026-08-28T15:24:21.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:24:57.872Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17909/6c329e1f0b2a69a0-17670c3abc99.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17910/46b102bdf5026707-fa92f03cc1b5.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41307",
       "publishedAt": "2026-08-28T15:24:36.000Z",
       "title": "Cleaning and Regrouting the Granite, for the first time in 63 years, at the White House North Entrance. Perfect work. President DONALD J. TRUMP",
-      "text": "<p>Cleaning and Regrouting the Granite, for the first time in 63 years, at the White House North Entrance. Perfect work. President DONALD J. TRUMP</p>",
+      "text": "<p>Cleaning and Regrouting the Granite, for the first time in 63 years, at the White House North Entrance. Perfect work. President DONALD J. TRUMP</p>\n\n[Image] Three images show workers repairing a gray stone walkway marked with blue tape in a grid pattern. One worker kneels while applying gray mortar with hand tools, and three workers work across the broader paved area. Buckets, tools, and a vacuum are nearby. White government buildings, manicured lawns, trees, and fencing are visible in the background. A small label identifies the stone as Amritsar.",
       "url": "https://www.trumpstruth.org/statuses/41307",
       "raw": {
         "creator": "",
@@ -403,13 +441,19 @@
         "contentSnippet": "Cleaning and Regrouting the Granite, for the first time in 63 years, at the White House North Entrance. Perfect work. President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/41307",
         "isoDate": "2026-08-28T15:24:36.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:24:54.375Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17906/b2989273ddb83da7-0171ef97ae30.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17907/607217a606933309-fb8f222c89b8.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17908/ba0d47a24afb5adb-516621eeff6a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41321",
       "publishedAt": "2026-08-28T15:25:03.000Z",
       "title": "Fixing and Restoring the Thomas Jefferson Columns at the White House — Better than new! President DONALD J. TRUMP",
-      "text": "<p>Fixing and Restoring the Thomas Jefferson Columns at the White House — Better than new! President DONALD J. TRUMP</p>",
+      "text": "<p>Fixing and Restoring the Thomas Jefferson Columns at the White House — Better than new! President DONALD J. TRUMP</p>\n\n[Image] A large white, round architectural column stands on a square base with curved molding. The surrounding floor is covered with protective plastic sheeting splattered with white material and secured with blue painter’s tape. Brown protective cardboard covers the foreground, with printed handling instructions and a QR code. Trimmed green hedges form the background.",
       "url": "https://www.trumpstruth.org/statuses/41321",
       "raw": {
         "creator": "",
@@ -421,13 +465,17 @@
         "contentSnippet": "Fixing and Restoring the Thomas Jefferson Columns at the White House — Better than new! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/41321",
         "isoDate": "2026-08-28T15:25:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:24:50.389Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17918/7a6b024d43fa5b54-e9a8211d59b1.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41320",
       "publishedAt": "2026-08-28T15:27:22.000Z",
       "title": "From Greg Wischer at the United States Department of the Interior: “I visited the Reflecting Pool this morning, and pictures are included below of the pool reflecting and the American Flag Blue color. As you can tell, many of the photos posted in the New York Times articles were taken after the largest fireworks show in history—which had launch points alongside the pool—deposited significant debris in the pool. The Reflecting Pool has been partially refilled to allow National Park Service staff and contractors to flush the pool’s piping system for the first time in more than a decade. After years of neglect by previous administrations, more than half of the 58 water supply ports were so clogged that they were deemed nonfunctioning. This work is ongoing. We waited until after July 4th to do. Coming out great! The National Park Service has also, for the second time, cleaned the granite, pressure washed the sidewalk, and removed several hazardous trees next to the Reflecting Pool. Will be opening in a few weeks. Will be a beauty. NO VANDALS PLEASE.”",
-      "text": "<p>From Greg Wischer at the United States Department of the Interior: “I visited the Reflecting Pool this morning, and pictures are included below of the pool reflecting and the American Flag Blue color.<br/> <br/>As you can tell, many of the photos posted in the New York Times articles were taken after the largest fireworks show in history—which had launch points alongside the pool—deposited significant debris in the pool.<br/> <br/>The Reflecting Pool has been partially refilled to allow National Park Service staff and contractors to flush the pool’s piping system for the first time in more than a decade. After years of neglect by previous administrations, more than half of the 58 water supply ports were so clogged that they were deemed nonfunctioning. This work is ongoing. We waited until after July 4th to do. Coming out great!<br/> <br/>The National Park Service has also, for the second time, cleaned the granite, pressure washed the sidewalk, and removed several hazardous trees next to the Reflecting Pool. Will be opening in a few weeks. Will be a beauty. NO VANDALS PLEASE.”</p>",
+      "text": "<p>From Greg Wischer at the United States Department of the Interior: “I visited the Reflecting Pool this morning, and pictures are included below of the pool reflecting and the American Flag Blue color.<br/> <br/>As you can tell, many of the photos posted in the New York Times articles were taken after the largest fireworks show in history—which had launch points alongside the pool—deposited significant debris in the pool.<br/> <br/>The Reflecting Pool has been partially refilled to allow National Park Service staff and contractors to flush the pool’s piping system for the first time in more than a decade. After years of neglect by previous administrations, more than half of the 58 water supply ports were so clogged that they were deemed nonfunctioning. This work is ongoing. We waited until after July 4th to do. Coming out great!<br/> <br/>The National Park Service has also, for the second time, cleaned the granite, pressure washed the sidewalk, and removed several hazardous trees next to the Reflecting Pool. Will be opening in a few weeks. Will be a beauty. NO VANDALS PLEASE.”</p>\n\n[Image] Three views of the National Mall in Washington, D.C. The Lincoln Memorial stands at the far end of the Reflecting Pool, framed by trees and reflected in the still water. Another image shows visitors on the memorial steps and temporary barriers along the pool. The Washington Monument rises over the pool in a sunset silhouette, with its reflection visible.",
       "url": "https://www.trumpstruth.org/statuses/41320",
       "raw": {
         "creator": "",
@@ -439,7 +487,13 @@
         "contentSnippet": "From Greg Wischer at the United States Department of the Interior: “I visited the Reflecting Pool this morning, and pictures are included below of the pool reflecting and the American Flag Blue color.\n As you can tell, many of the photos posted in the New York Times articles were taken after the largest fireworks show in history—which had launch points alongside the pool—deposited significant debris in the pool.\n The Reflecting Pool has been partially refilled to allow National Park Service staff and contractors to flush the pool’s piping system for the first time in more than a decade. After years of neglect by previous administrations, more than half of the 58 water supply ports were so clogged that they were deemed nonfunctioning. This work is ongoing. We waited until after July 4th to do. Coming out great!\n The National Park Service has also, for the second time, cleaned the granite, pressure washed the sidewalk, and removed several hazardous trees next to the Reflecting Pool. Will be opening in a few weeks. Will be a beauty. NO VANDALS PLEASE.”",
         "guid": "https://www.trumpstruth.org/statuses/41320",
         "isoDate": "2026-08-28T15:27:22.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:24:47.612Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17915/da8f8043a8ca238d-2ad909dbce79.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17916/409a695bbbabc5d0-d173e5e28460.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17917/2b783bed1d6004f6-ffe828590971.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41351",
@@ -463,7 +517,7 @@
       "id": "https://www.trumpstruth.org/statuses/41322",
       "publishedAt": "2026-08-28T15:49:55.000Z",
       "title": "[No Title] - Post from August 28, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A nautical-style chart titled “Lake America” depicts a large, irregular lake shaped roughly like the continental United States. It includes shoreline outlines, bathymetric contour lines, depth soundings, navigation routes, compass roses, latitude and longitude grid lines, and surrounding pale yellow water. NOAA-style markings and legends appear along the bottom edge.",
       "url": "https://www.trumpstruth.org/statuses/41322",
       "raw": {
         "creator": "",
@@ -475,13 +529,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41322",
         "isoDate": "2026-08-28T15:49:55.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:24:44.694Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17919/c17ba11f1646a7aa-18dc133368cd.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41326",
       "publishedAt": "2026-08-28T15:50:40.000Z",
       "title": "[No Title] - Post from August 28, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A stylized map of the Lake Ontario region shows Toronto to the northwest and New York to the south. The lake is labeled “Lake Ontario” but crossed out with a large red X, while prominent gold lettering says “Lake América” beside a U.S. flag. A purple boundary or route traces around the lake, and “TEAM TRUMP” appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/41326",
       "raw": {
         "creator": "",
@@ -493,13 +551,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41326",
         "isoDate": "2026-08-28T15:50:40.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:24:41.638Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17923/b359898bf1c961fc-22317958bbbe.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41325",
       "publishedAt": "2026-08-28T15:52:25.000Z",
       "title": "[No Title] - Post from August 28, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “Endorsement Record in Republican Primaries” shows results by year from 2018 through 2026. Green bars represent wins and red sections losses. The chart reports success rates of 97% in 2018, 98% in 2020, 96% in 2022, 98% in 2024, and 97% in 2026, with 762 wins out of 785 endorsements overall.",
       "url": "https://www.trumpstruth.org/statuses/41325",
       "raw": {
         "creator": "",
@@ -511,13 +573,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41325",
         "isoDate": "2026-08-28T15:52:25.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:24:38.682Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17922/9a8106ba39c46ce1-e2619c1430ea.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41324",
       "publishedAt": "2026-08-28T15:52:36.000Z",
       "title": "[No Title] - Post from August 28, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “Endorsement Record in Republican Primaries” summarizes records by office from 2018 through 2026. It reports an overall success rate of 99% for U.S. Senate endorsements, 98% for U.S. House endorsements, and 86% for governors. The cycle totals are 97%, 98%, 96%, 98%, and 97%, with an overall total of 97% across 762 of 785 endorsements.",
       "url": "https://www.trumpstruth.org/statuses/41324",
       "raw": {
         "creator": "",
@@ -529,13 +595,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41324",
         "isoDate": "2026-08-28T15:52:36.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:24:35.929Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17921/e642b19f42e71bd1-d1e12409a035.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41323",
       "publishedAt": "2026-08-28T15:52:45.000Z",
       "title": "[No Title] - Post from August 28, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “Endorsement Record in Republican Primaries” presents a claimed 2026 record. It says 256 of 264 endorsed candidates won, or 97% overall. Separate donut charts report 100% for U.S. Senate races, with 24 of 24 wins; 98% for U.S. House races, with 215 of 219 wins; and 81% for governor races, with 17 of 21 wins.",
       "url": "https://www.trumpstruth.org/statuses/41323",
       "raw": {
         "creator": "",
@@ -547,7 +617,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41323",
         "isoDate": "2026-08-28T15:52:45.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:24:32.977Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17920/ae35046d204a8591-86923bb9a95f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41327",
@@ -859,7 +933,7 @@
       "id": "https://www.trumpstruth.org/statuses/41334",
       "publishedAt": "2026-08-28T18:07:10.000Z",
       "title": "[No Title] - Post from August 28, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a verified Kobეissi Letter post on X discusses President Donald Trump’s proposed capital-gains tax changes. It says gains could be indexed for inflation before taxation, using a $100,000-to-$200,000 stock example with a 20% inflation adjustment. It also mentions possible exemptions for home sales of $2 million or less and is timestamped 7:37 PM on Aug. 11, 2026.",
       "url": "https://www.trumpstruth.org/statuses/41334",
       "raw": {
         "creator": "",
@@ -871,13 +945,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41334",
         "isoDate": "2026-08-28T18:07:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:24:26.383Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17929/cc8f5ef0bf020532-b560479eaf4b.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41333",
       "publishedAt": "2026-08-28T18:07:23.000Z",
       "title": "[No Title] - Post from August 28, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A collage titled “Trump Endorsement Success 8.26.2026” shows social-media posts claiming Donald Trump’s endorsements helped Darlene Graham win a South Carolina Republican Senate runoff and Mike Mazzei win Oklahoma’s GOP governor primary. Posts feature portraits of Darlene Graham and Mike Mazzei, along with election graphics and commentary from Fox News Politics, Hugh Hewitt, and MAGA Voice.",
       "url": "https://www.trumpstruth.org/statuses/41333",
       "raw": {
         "creator": "",
@@ -889,13 +967,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41333",
         "isoDate": "2026-08-28T18:07:23.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:24:23.135Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17928/5d683d9214be97a5-ad5e347baf5e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41332",
       "publishedAt": "2026-08-28T18:07:32.000Z",
       "title": "[No Title] - Post from August 28, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A collage titled “Trump Endorsement Success 8.26.2026” shows social-media posts praising Donald Trump’s political endorsements. One post features a stylized portrait of Donald Trump, while another quotes him endorsing candidates from South Carolina and Oklahoma. Other panels discuss Senate primary results, including Darlene Graham, and show news footage and photos of political figures at campaign events.",
       "url": "https://www.trumpstruth.org/statuses/41332",
       "raw": {
         "creator": "",
@@ -907,13 +989,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41332",
         "isoDate": "2026-08-28T18:07:32.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:24:19.351Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17927/dae67e7638a151a1-08870f6993d7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41331",
       "publishedAt": "2026-08-28T18:07:40.000Z",
       "title": "[No Title] - Post from August 28, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A collage titled “Trump Endorsement Success 8.26.2026” shows social-media posts praising Donald Trump’s endorsements. Posts report Lindsey Graham winning a South Carolina Republican primary and Mike Mazzei winning an Oklahoma Republican gubernatorial primary. Photos show Lindsey Graham speaking at a podium and a portrait of Graham, alongside election graphics and Donald Trump’s endorsement statement.",
       "url": "https://www.trumpstruth.org/statuses/41331",
       "raw": {
         "creator": "",
@@ -925,13 +1011,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41331",
         "isoDate": "2026-08-28T18:07:40.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:24:15.765Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17926/463dbf49a03bfebf-d0955c399824.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41330",
       "publishedAt": "2026-08-28T18:07:47.000Z",
       "title": "[No Title] - Post from August 28, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic titled “Trump Endorsement Success 8.26.2026” compiles news headlines and social-media posts about Donald Trump’s endorsed candidates winning Republican primary runoffs. It highlights Darlene Graham’s Senate victory in South Carolina and Mike Mazzei’s win in Oklahoma, while other posts discuss Trump’s influence in additional races. One map shows South Carolina county results.",
       "url": "https://www.trumpstruth.org/statuses/41330",
       "raw": {
         "creator": "",
@@ -943,13 +1033,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41330",
         "isoDate": "2026-08-28T18:07:47.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:24:12.857Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17925/440a423869538d18-31031c8c9e80.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41329",
       "publishedAt": "2026-08-28T18:07:55.000Z",
       "title": "[No Title] - Post from August 28, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A collage titled “Trump Endorsement Success 8.26.2026” displays mockups of headlines from CNN Politics, The Hill, Politico, The Guardian, NPR, The New York Times, The Washington Post and other outlets. The headlines say Donald Trump-backed Darlene Graham won a South Carolina Senate primary, while Mike Mazzei won an Oklahoma gubernatorial primary.",
       "url": "https://www.trumpstruth.org/statuses/41329",
       "raw": {
         "creator": "",
@@ -961,7 +1055,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41329",
         "isoDate": "2026-08-28T18:07:55.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:24:10.155Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17924/ab0844a9bc5bc4a3-7ec0be0d9dd8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41350",
@@ -1003,7 +1101,7 @@
       "id": "https://www.trumpstruth.org/statuses/41353",
       "publishedAt": "2026-08-28T20:37:02.000Z",
       "title": "RT @realDonaldTrump",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span></p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span></p>\n\n[Image] A poster ranks U.S. presidents in tiers, placing Donald Trump alone under “The Greatest.” “Great” includes Abraham Lincoln, George Washington, Franklin D. Roosevelt, Woodrow Wilson, Thomas Jefferson, and Andrew Jackson. Lower tiers list other presidents, including Joe Biden, Barack Obama, Ulysses S. Grant, Jimmy Carter, Bill Clinton, Theodore Roosevelt, and Richard Nixon, with labels ranging from “Near Great” to “Failures.”",
       "url": "https://www.trumpstruth.org/statuses/41353",
       "raw": {
         "creator": "",
@@ -1015,7 +1113,11 @@
         "contentSnippet": "RT @realDonaldTrump",
         "guid": "https://www.trumpstruth.org/statuses/41353",
         "isoDate": "2026-08-28T20:37:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:24:07.091Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17896/5581676812461f86-a4434a73ed5e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41354",
@@ -1421,5 +1523,6 @@
       "rationale": "The text celebrates a significant agreement with Venezuela, highlighting benefits for the U.S. economy and oil supply, which is framed positively.",
       "analyzedAt": "2026-09-05T08:06:02.855Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:58:90a5b73a28621bab3ce77dd6"
 }

@@ -6,27 +6,26 @@
     "negative": 4
   },
   "summary": "positive:5 neutral:26 negative:4",
-  "generatedAt": "2026-09-05T08:05:38.811Z",
+  "generatedAt": "2026-09-07T20:31:58.033Z",
   "topics": [
-    "Economic Growth and Job Creation",
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Attacks Texas Senate candidate James Talarico over his religious, gender, education, and policy views",
+    "Highlights vintage and alternate depictions of MAD magazine mascot Alfred E. Neuman",
+    "Promotes renaming Lake Ontario as Lake America"
   ],
-  "trendingTopic": "Mold, rodents found in Barack Obama Elementary School, RPS says",
-  "trendingName": "Barack Obama",
+  "trendingTopic": "Attacks Texas Senate candidate James Talarico over his religious, gender, education, and policy views",
   "secondaryHighlights": [
     {
-      "topic": "Jonathan Hunt of FoxNews did a particularly inaccurate report on the Failing Islamic Republic of Iran.",
-      "name": "Jonathan Hunt"
+      "topic": "Claims Iran is failing and says its leaders are begging to negotiate a deal"
     },
     {
-      "topic": "Lake Ontario renamed Lake America"
+      "topic": "Highlights polling showing Donald Trump is the president Republicans admire most"
     },
     {
-      "topic": "Iran Is a Failing Nation!"
+      "topic": "Celebrates major U.S. investments and record sales from Micron and Nvidia"
     }
   ],
-  "selfPraiseCount": 1,
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v10:35:dc79b4c3392ceee82b5e7b9e",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41264",
@@ -68,7 +67,7 @@
       "id": "https://www.trumpstruth.org/statuses/41265",
       "publishedAt": "2026-08-27T02:09:26.000Z",
       "title": "[No Title] - Post from August 27, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117165035124737967</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117165035124737967</span></p>\n\n[Image] A social-media post from the verified account “johnny maga” states that CNN reported Donald Trump ranks first among presidents Republicans admire, receiving nearly three times the responses Ronald Reagan received and six times those for Abraham Lincoln. The post adds that Trump fundamentally transformed the Republican Party for generations.",
       "url": "https://www.trumpstruth.org/statuses/41265",
       "raw": {
         "creator": "",
@@ -80,7 +79,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117165035124737967",
         "guid": "https://www.trumpstruth.org/statuses/41265",
         "isoDate": "2026-08-27T02:09:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:24:02.998Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17875/080da739cb0f615f-f60e49e74469.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41267",
@@ -140,7 +143,7 @@
       "id": "https://www.trumpstruth.org/statuses/41270",
       "publishedAt": "2026-08-27T20:04:08.000Z",
       "title": "[No Title] - Post from August 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A large gilded sculpture is shown inside a scaffolded structure. The central figure is a horse’s head with flowing mane, surrounded by additional sculpted animal forms and a smaller human figure in draped clothing at the lower left. Wooden planks, metal platforms, protective sheeting, and city buildings visible through the openings indicate restoration or construction work.",
       "url": "https://www.trumpstruth.org/statuses/41270",
       "raw": {
         "creator": "",
@@ -152,13 +155,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41270",
         "isoDate": "2026-08-27T20:04:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:23:59.924Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17878/3ef57e51405e556d-2646dc349748.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41273",
       "publishedAt": "2026-08-27T20:11:54.000Z",
       "title": "[No Title] - Post from August 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a verified Libs of TikTok post quotes James Talarico saying, “I always think of myself as a Christian who hates Christianity.” Below the text, James Talarico is pictured in a dark suit, white shirt, and navy tie, speaking in front of a wooden church backdrop. The post shows a June 23, 2026 timestamp and engagement counts.",
       "url": "https://www.trumpstruth.org/statuses/41273",
       "raw": {
         "creator": "",
@@ -170,13 +177,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41273",
         "isoDate": "2026-08-27T20:11:54.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:23:56.692Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17881/8e5df74c9e05db38-59fead20951f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41272",
       "publishedAt": "2026-08-27T20:12:32.000Z",
       "title": "[No Title] - Post from August 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post from the Libs of TikTok account claims that James Talarico repeatedly urged students to call his cell phone outside school hours, calling the behavior “extremely creepy.” It includes three archived Facebook posts by “Mr. Talarico” from 2012 assigning reading and activities and inviting students to call or comment with questions.",
       "url": "https://www.trumpstruth.org/statuses/41272",
       "raw": {
         "creator": "",
@@ -188,13 +199,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41272",
         "isoDate": "2026-08-27T20:12:32.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:23:54.197Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17880/c556012b0c939e60-06f90ac0fd80.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41271",
       "publishedAt": "2026-08-27T20:13:02.000Z",
       "title": "[No Title] - Post from August 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post by Chad Prather (@WatchChad) quotes Texas politician James Talarico saying, “Christians and Muslims and Jews all worship the same God.” The post disputes the statement and includes a video still of James Talarico seated indoors in a suit, with a lamp, framed picture, and flags behind him. It shows engagement counts and 163.2K views.",
       "url": "https://www.trumpstruth.org/statuses/41271",
       "raw": {
         "creator": "",
@@ -206,13 +221,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41271",
         "isoDate": "2026-08-27T20:13:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:23:51.587Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17879/bc0a56c434a6ac25-a898ff24082b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41275",
       "publishedAt": "2026-08-27T20:17:56.000Z",
       "title": "[No Title] - Post from August 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A vintage-style graphic titled “Alfred E. Neuman” shows two illustrated portraits of the grinning MAD magazine mascot. Both figures wear red-and-yellow checked jackets, white shirts, and green ties, with exaggerated ears, noses, and uneven teeth. The caption “ME WORRY?” appears beneath each portrait in bold black letters.",
       "url": "https://www.trumpstruth.org/statuses/41275",
       "raw": {
         "creator": "",
@@ -224,13 +243,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41275",
         "isoDate": "2026-08-27T20:17:56.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:23:48.296Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17883/b8469d7220ef4aae-cdeca748802d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41274",
       "publishedAt": "2026-08-27T20:18:33.000Z",
       "title": "[No Title] - Post from August 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A close-up portrait shows a short-haired man with light skin and a neutral expression, wearing a dark shirt against a pale background. Large black text on the right reads, “God is non-binary.” The quote is attributed to James Talafreako.",
       "url": "https://www.trumpstruth.org/statuses/41274",
       "raw": {
         "creator": "",
@@ -242,13 +265,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41274",
         "isoDate": "2026-08-27T20:18:33.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:23:45.752Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17882/5c14199b32e3c961-6939c10d0e41.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41279",
       "publishedAt": "2026-08-27T20:25:10.000Z",
       "title": "[No Title] - Post from August 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is a political-style graphic reading “TALA FREAKO FOR TEXAS,” with stars surrounding “FOR TEXAS.” Below the headline are two side-by-side portraits: a vintage illustration of a smiling, freckled red-haired boy and a close-up photograph of a dark-haired adult man speaking or smiling. No recognizable public figure can be confidently identified.",
       "url": "https://www.trumpstruth.org/statuses/41279",
       "raw": {
         "creator": "",
@@ -260,13 +287,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41279",
         "isoDate": "2026-08-27T20:25:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:23:43.179Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17887/7485db5d38ec948b-598005fdea05.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41278",
       "publishedAt": "2026-08-27T20:30:23.000Z",
       "title": "[No Title] - Post from August 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A close-up portrait of a light-skinned man with short dark hair and stubble appears on the left. On the right, bold black text reads, “There are many more than two biological sexes. In fact, there are six.” The quote is attributed to “James Talafreako.”",
       "url": "https://www.trumpstruth.org/statuses/41278",
       "raw": {
         "creator": "",
@@ -278,13 +309,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41278",
         "isoDate": "2026-08-27T20:30:23.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:23:39.943Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17886/7c09aa2cdb204a26-b8d9dcd64252.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41277",
       "publishedAt": "2026-08-27T20:30:29.000Z",
       "title": "[No Title] - Post from August 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a Remarks social-media post dated July 24, 2026, says, “JUST IN: Texas Democrat US Senate candidate James Talarico endorses plan for Texans to pay slavery reparations.” It includes a portrait of James Talarico beside a black graphic reading “TEXAS” above a Texas-shaped flag design. The post shows 1.8 million views.",
       "url": "https://www.trumpstruth.org/statuses/41277",
       "raw": {
         "creator": "",
@@ -296,13 +331,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41277",
         "isoDate": "2026-08-27T20:30:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:23:37.252Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17885/a7abe973d1c0c05b-9082c8dee010.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41276",
       "publishedAt": "2026-08-27T20:30:42.000Z",
       "title": "[No Title] - Post from August 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A split image shows a man wearing a gray baseball cap, white shirt, blue apron, and blue gloves while serving food in a cafeteria. A tray with prepared dishes is visible in the foreground, and another worker stands behind him. The right side displays a quote attributed to James Talafreako: “It is now existential that we try to reduce our meat consumption.”",
       "url": "https://www.trumpstruth.org/statuses/41276",
       "raw": {
         "creator": "",
@@ -314,13 +353,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41276",
         "isoDate": "2026-08-27T20:30:42.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:23:34.586Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17884/c3a50885d98c56f0-ad8f83015c00.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41283",
       "publishedAt": "2026-08-27T20:31:14.000Z",
       "title": "[No Title] - Post from August 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a December 25, 2021 post by James Talarico reads, “I got the coolest action figure for Christmas!” and thanks health care workers, urging people to get vaccinated and boosted. The attached photo shows a boxed action figure labeled “FAUCI,” depicting Anthony Fauci in a white medical coat, face mask, glasses, and tie beside a Christmas tree.",
       "url": "https://www.trumpstruth.org/statuses/41283",
       "raw": {
         "creator": "",
@@ -332,13 +375,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41283",
         "isoDate": "2026-08-27T20:31:14.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:23:32.389Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17891/109f93c4e810d7a0-cc8f2f2b3025.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41282",
       "publishedAt": "2026-08-27T20:31:16.000Z",
       "title": "[No Title] - Post from August 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A side-by-side image shows two vintage MAD magazine cover designs dated October 1959, priced at 25 cents. The left cover features a smiling illustrated portrait of John F. Kennedy surrounded by fishing rods and tackle. The right cover shows MAD mascot Alfred E. Neuman with exaggerated facial features, also framed by fishing equipment.",
       "url": "https://www.trumpstruth.org/statuses/41282",
       "raw": {
         "creator": "",
@@ -350,13 +397,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41282",
         "isoDate": "2026-08-27T20:31:16.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:23:29.840Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17890/3838e5afd89c4ae6-41304deab3be.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41281",
       "publishedAt": "2026-08-27T20:31:23.000Z",
       "title": "[No Title] - Post from August 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Two vintage MAD magazine covers are shown side by side in ornate reddish-brown frames. The left cover, dated December 1966, features a realistic smiling adult man labeled Alfred E. Neuman, while the right, dated December 1960, shows the familiar freckled, gap-toothed Alfred E. Neuman as a boy. Both covers include snarling cartoon figures and the phrase “What—me worry?”",
       "url": "https://www.trumpstruth.org/statuses/41281",
       "raw": {
         "creator": "",
@@ -368,13 +419,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41281",
         "isoDate": "2026-08-27T20:31:23.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:23:26.623Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17889/638a1af886446478-5bc19da14ac0.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41280",
       "publishedAt": "2026-08-27T20:31:28.000Z",
       "title": "[No Title] - Post from August 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A black-and-white graphic is headed “Alfred E. Neuman” in large bold lettering. Below the title are two stylized line-art portraits: a dark-haired, freckled person smiling broadly on the left, and a second freckled person with short dark hair, prominent ears, and a broad smile on the right. The image uses a stark black-on-white design.",
       "url": "https://www.trumpstruth.org/statuses/41280",
       "raw": {
         "creator": "",
@@ -386,7 +441,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41280",
         "isoDate": "2026-08-27T20:31:28.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:23:22.926Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17888/42a0ac5462963df5-362a03cc7744.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41284",
@@ -410,7 +469,7 @@
       "id": "https://www.trumpstruth.org/statuses/41285",
       "publishedAt": "2026-08-27T20:54:24.000Z",
       "title": "[No Title] - Post from August 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A digitally composed political image shows Donald Trump in a dark suit and red tie standing before American flags, an aircraft carrier, fighter jets, smoke, and flames. Portraits of George W. Bush and Ayatollah Ali Khamenei appear near the bottom. Signs read “MISSION NOT ACCOMPLISHED 2001–2021” and “MISSION ACCOMPLISHED 2026,” presenting a militaristic scene.",
       "url": "https://www.trumpstruth.org/statuses/41285",
       "raw": {
         "creator": "",
@@ -422,13 +481,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41285",
         "isoDate": "2026-08-27T20:54:24.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:23:19.117Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17892/e4733cda81aa7903-748a32c2b78b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41286",
       "publishedAt": "2026-08-27T21:10:15.000Z",
       "title": "[No Title] - Post from August 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political meme shows a young, clean-shaven man in a dark suit and red tie standing inside a government building near an ornate staircase and columns. Large text reads “He Is For…,” followed by 11 allegations involving Texas income tax, gun confiscation, abortion, immigration, LGBT issues, transgender participation, judicial appointments, the Electoral College, and incarceration.",
       "url": "https://www.trumpstruth.org/statuses/41286",
       "raw": {
         "creator": "",
@@ -440,13 +503,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41286",
         "isoDate": "2026-08-27T21:10:15.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:23:16.005Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17893/ea480b119eb46c3d-56428667fe5b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41287",
       "publishedAt": "2026-08-27T21:10:54.000Z",
       "title": "[No Title] - Post from August 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A poster ranks U.S. presidents in tiers. Donald Trump is shown at the top under “The Greatest,” followed by Abraham Lincoln, George Washington, Franklin D. Roosevelt, Woodrow Wilson, Thomas Jefferson, and Andrew Jackson in the “Great” category. Lower sections list other presidents from “Near Great” to “Failures,” ending with Joe Biden, Barack Obama, Ulysses S. Grant, Warren Harding, and Jimmy Carter.",
       "url": "https://www.trumpstruth.org/statuses/41287",
       "raw": {
         "creator": "",
@@ -458,7 +525,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41287",
         "isoDate": "2026-08-27T21:10:54.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:23:10.352Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17894/3bf2a9c264bdd72a-a4434a73ed5e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41288",
@@ -482,7 +553,7 @@
       "id": "https://www.trumpstruth.org/statuses/41289",
       "publishedAt": "2026-08-27T21:27:07.000Z",
       "title": "BREAKING NEWS!TO: Office of the Secretary, Department of the Interior FROM: Director, U.S. Geological SurveyRE: Lake America rename  Sir,  As of 4:30 pm today the U.S. Geological Survey has officially designated the former Lake Ontario to be renamed as Lake America in all official USGS electronic documents. The change will begin occurring in printed documents over the next several days.   This change has also been made official in the Geographic Names Information System. Should you have any further questions please contact me for clarification. Thank you  Ned Dr. Ned MamulaDirector, U.S. Geological SurveyUnited States Department of the Interior",
-      "text": "<p>BREAKING NEWS!</p><p>TO: Office of the Secretary, Department of the Interior <br/>FROM: Director, U.S. Geological Survey<br/>RE: Lake America rename <br/> <br/>Sir, <br/> <br/>As of 4:30 pm today the U.S. Geological Survey has officially designated the former Lake Ontario to be renamed as Lake America in all official USGS electronic documents.<br/> <br/>The change will begin occurring in printed documents over the next several days.  <br/> <br/>This change has also been made official in the Geographic Names Information System.<br/> <br/>Should you have any further questions please contact me for clarification.<br/> <br/>Thank you  <br/>Ned<br/> <br/>Dr. Ned Mamula<br/>Director, U.S. Geological Survey<br/>United States Department of the Interior</p>",
+      "text": "<p>BREAKING NEWS!</p><p>TO: Office of the Secretary, Department of the Interior <br/>FROM: Director, U.S. Geological Survey<br/>RE: Lake America rename <br/> <br/>Sir, <br/> <br/>As of 4:30 pm today the U.S. Geological Survey has officially designated the former Lake Ontario to be renamed as Lake America in all official USGS electronic documents.<br/> <br/>The change will begin occurring in printed documents over the next several days.  <br/> <br/>This change has also been made official in the Geographic Names Information System.<br/> <br/>Should you have any further questions please contact me for clarification.<br/> <br/>Thank you  <br/>Ned<br/> <br/>Dr. Ned Mamula<br/>Director, U.S. Geological Survey<br/>United States Department of the Interior</p>\n\n[Image] A USGS map shows the Great Lakes region along the border of Canada and the United States. The central lake is labeled “Lake America,” while Lake Huron and Lake Erie retain their usual names. New York is marked to the east, and the map includes USGS and U.S. Department of the Interior branding, a scale bar, and shaded terrain.",
       "url": "https://www.trumpstruth.org/statuses/41289",
       "raw": {
         "creator": "",
@@ -494,7 +565,11 @@
         "contentSnippet": "BREAKING NEWS!\nTO: Office of the Secretary, Department of the Interior \nFROM: Director, U.S. Geological Survey\nRE: Lake America rename \n Sir, \n As of 4:30 pm today the U.S. Geological Survey has officially designated the former Lake Ontario to be renamed as Lake America in all official USGS electronic documents.\n The change will begin occurring in printed documents over the next several days.  \n This change has also been made official in the Geographic Names Information System.\n Should you have any further questions please contact me for clarification.\n Thank you  \nNed\n Dr. Ned Mamula\nDirector, U.S. Geological Survey\nUnited States Department of the Interior",
         "guid": "https://www.trumpstruth.org/statuses/41289",
         "isoDate": "2026-08-27T21:27:07.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:23:06.957Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17895/20ddacc7653e98dc-995ac70660f1.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41290",
@@ -536,7 +611,7 @@
       "id": "https://www.trumpstruth.org/statuses/41293",
       "publishedAt": "2026-08-27T21:51:57.000Z",
       "title": "[No Title] - Post from August 27, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117169684795013584</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117169684795013584</span></p>\n\n[Image] A screenshot of a post by the verified account “johnny maga” (@johnnymaga) says CNN reports Donald Trump ranks first among presidents Republicans most admire, receiving nearly three times the responses Ronald Reagan received and six times those for Abraham Lincoln. The post adds that he fundamentally transformed the Republican Party for generations.",
       "url": "https://www.trumpstruth.org/statuses/41293",
       "raw": {
         "creator": "",
@@ -548,13 +623,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117169684795013584",
         "guid": "https://www.trumpstruth.org/statuses/41293",
         "isoDate": "2026-08-27T21:51:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:23:03.990Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17898/7c06505de25ec39a-f60e49e74469.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41291",
       "publishedAt": "2026-08-27T21:52:30.000Z",
       "title": "[No Title] - Post from August 27, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117169684795013584</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117169684795013584</span></p>\n\n[Image] A poster ranks U.S. presidents in tiers. Donald Trump appears alone at the top under “The Greatest.” Lincoln, Washington, Franklin D. Roosevelt, Wilson, Jefferson, and Jackson are listed as “Great.” Other tiers include Theodore Roosevelt, Cleveland, Adams, Polk, Clinton, Obama, Biden, Grant, Carter, and several additional presidents. The rankings are opinion-based.",
       "url": "https://www.trumpstruth.org/statuses/41291",
       "raw": {
         "creator": "",
@@ -566,7 +645,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117169684795013584",
         "guid": "https://www.trumpstruth.org/statuses/41291",
         "isoDate": "2026-08-27T21:52:30.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:23:00.779Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17896/5581676812461f86-a4434a73ed5e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41294",
@@ -626,7 +709,7 @@
       "id": "https://www.trumpstruth.org/statuses/41298",
       "publishedAt": "2026-08-27T22:38:21.000Z",
       "title": "[No Title] - Post from August 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A stylized map shows the United States and Canada, with the Great Lakes shaded blue and Newfoundland and Labrador outlined in red. Large red text across the upper map reads “Lake America.” The surrounding waters are labeled “Atlantic Ocean” and “Gulf of America,” while state and provincial borders are faintly marked.",
       "url": "https://www.trumpstruth.org/statuses/41298",
       "raw": {
         "creator": "",
@@ -638,13 +721,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41298",
         "isoDate": "2026-08-27T22:38:21.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:22:57.381Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17900/2d7a71cef824742c-174b5e2ca1ce.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41297",
       "publishedAt": "2026-08-27T22:38:48.000Z",
       "title": "[No Title] - Post from August 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is a watercolor-style illustration titled “President Trump and Dolly Parton.” Donald Trump wears a dark suit and tie, standing beside Dolly Parton, who wears a bright pink coat with a feathered collar. They are pictured arm in arm in a grand colonnaded setting resembling the White House, with an American flag visible in the background.",
       "url": "https://www.trumpstruth.org/statuses/41297",
       "raw": {
         "creator": "",
@@ -656,7 +743,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41297",
         "isoDate": "2026-08-27T22:38:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T20:22:54.676Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17899/92280d6d2ea50814-7f6f6ba2382a.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -870,5 +961,7 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:05:38.809Z"
     }
-  ]
+  ],
+  "trendingName": "James Talarico",
+  "selfPraiseCacheKey": "self-praise-v1:35:dc79b4c3392ceee82b5e7b9e"
 }
