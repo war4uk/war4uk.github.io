@@ -134,40 +134,54 @@
     {
       "date": "2026-09-06",
       "counts": {
-        "positive": 3,
-        "neutral": 31,
-        "negative": 7
+        "positive": 8,
+        "neutral": 70,
+        "negative": 12
       },
-      "summary": "positive:3 neutral:31 negative:7",
+      "summary": "positive:8 neutral:70 negative:12",
       "topics": [
-        "Critiques Spain's border control issues",
-        "Comments on U.S.-Canada currency imbalance",
-        "Calls for Voter ID approval"
+        "Critiques Spain's border control and calls for action",
+        "Comments on the U.S.-Canada currency imbalance",
+        "Calls for voter ID and critiques election integrity"
       ],
-      "postsCount": 41,
+      "postsCount": 90,
       "hasDetail": true,
-      "generatedAt": "2026-09-06T20:00:24.739Z",
-      "trendingTopic": "Critiques Spain's border control issues",
+      "generatedAt": "2026-09-07T00:03:25.313Z",
+      "trendingTopic": "Critiques Spain's border control and calls for action",
       "secondaryHighlights": [
         {
-          "topic": "Comments on U.S.-Canada currency imbalance"
+          "topic": "Comments on the U.S.-Canada currency imbalance"
         },
         {
-          "topic": "Calls for Voter ID approval"
+          "topic": "Calls for voter ID and critiques election integrity"
         }
       ],
       "selfPraiseCount": 0
+    },
+    {
+      "date": "2026-09-07",
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "positive:0 neutral:0 negative:0",
+      "topics": [],
+      "postsCount": 0,
+      "hasDetail": true,
+      "generatedAt": "2026-09-07T00:03:17.726Z",
+      "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-06T20:00:24.739Z",
+  "generatedAt": "2026-09-07T00:03:25.313Z",
   "trendingTopic": "Endorses multiple America First candidates across various states including Iowa, Florida, and Texas",
   "secondaryHighlights": [
     {
-      "topic": "Critiques Spain's border control issues"
+      "topic": "Comments on the U.S.-Canada currency imbalance"
     },
     {
       "topic": "Announces Adam Telle as Acting Secretary of the Army"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:6:1860d69e27c83c49ea223c67"
+  "topicsCacheKey": "month-themes-v5:6:dca826f81e786d9990dc644f"
 }
