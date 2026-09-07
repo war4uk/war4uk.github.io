@@ -146,7 +146,7 @@
       ],
       "postsCount": 90,
       "hasDetail": true,
-      "generatedAt": "2026-09-07T00:03:25.313Z",
+      "generatedAt": "2026-09-07T04:00:18.421Z",
       "trendingTopic": "Critiques Spain's border control and calls for action",
       "secondaryHighlights": [
         {
@@ -161,27 +161,40 @@
     {
       "date": "2026-09-07",
       "counts": {
-        "positive": 0,
-        "neutral": 0,
+        "positive": 5,
+        "neutral": 10,
         "negative": 0
       },
-      "summary": "positive:0 neutral:0 negative:0",
-      "topics": [],
-      "postsCount": 0,
+      "summary": "positive:5 neutral:10 negative:0",
+      "topics": [
+        "Trump headlines GOP convention in Dallas and focuses on Texas Senate race",
+        "Trump celebrates strong job gains and calls for lower interest rates",
+        "Trump promotes tourism boom and Americanism"
+      ],
+      "postsCount": 15,
       "hasDetail": true,
-      "generatedAt": "2026-09-07T00:03:17.726Z",
+      "generatedAt": "2026-09-07T04:00:35.821Z",
+      "trendingTopic": "Trump headlines GOP convention in Dallas and focuses on Texas Senate race",
+      "secondaryHighlights": [
+        {
+          "topic": "Trump celebrates strong job gains and calls for lower interest rates"
+        },
+        {
+          "topic": "Trump promotes tourism boom and Americanism"
+        }
+      ],
       "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-07T00:03:25.313Z",
+  "generatedAt": "2026-09-07T04:00:35.821Z",
   "trendingTopic": "Endorses multiple America First candidates across various states including Iowa, Florida, and Texas",
   "secondaryHighlights": [
     {
       "topic": "Comments on the U.S.-Canada currency imbalance"
     },
     {
-      "topic": "Announces Adam Telle as Acting Secretary of the Army"
+      "topic": "Trump headlines GOP convention in Dallas and focuses on Texas Senate race"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:6:dca826f81e786d9990dc644f"
+  "topicsCacheKey": "month-themes-v5:7:349d126568c9e878e3973dc9"
 }
