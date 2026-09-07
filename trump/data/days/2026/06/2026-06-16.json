@@ -6,24 +6,27 @@
     "negative": 2
   },
   "summary": "positive:2 neutral:0 negative:2",
-  "generatedAt": "2026-09-06T06:03:26.774Z",
+  "generatedAt": "2026-09-07T18:28:18.246Z",
   "topics": [
-    "Biden DOJ targeted parents at school board meetings despite objections",
-    "FBI stopped alleged terror plot to attack UFC 250 event",
-    "US attorney suspects voter fraud investigation will result in charges"
+    "Biden DOJ allegedly targeted parents at school board meetings despite law enforcement objections",
+    "California voter fraud investigation expected to result in criminal charges",
+    "Former Trump economist predicts Iran deal will trigger major U.S. economic boom"
   ],
-  "trendingTopic": "Biden DOJ targeted parents at school board meetings despite objections",
+  "trendingTopic": "Biden DOJ allegedly targeted parents at school board meetings despite law enforcement objections",
   "trendingName": "Joe Biden",
   "secondaryHighlights": [
     {
-      "topic": "FBI stopped alleged terror plot to attack UFC 250 event"
+      "topic": "California voter fraud investigation expected to result in criminal charges"
     },
     {
-      "topic": "US attorney suspects voter fraud investigation will result in charges"
+      "topic": "Former Trump economist predicts Iran deal will trigger major U.S. economic boom"
+    },
+    {
+      "topic": "FBI stopped alleged drone-and-sniper terror plot targeting UFC 250"
     }
   ],
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v8:4:4520b5cc88b4fc38efaad79e",
+  "topicsCacheKey": "day-themes-v10:4:4520b5cc88b4fc38efaad79e",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39297",
@@ -123,5 +126,6 @@
       "rationale": "The FBI's action in stopping a terror plot is presented positively, highlighting a successful intervention to protect public safety.",
       "analyzedAt": "2026-09-05T08:36:21.119Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:4:4520b5cc88b4fc38efaad79e"
 }

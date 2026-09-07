@@ -6,23 +6,23 @@
     "negative": 6
   },
   "summary": "positive:34 neutral:25 negative:6",
-  "generatedAt": "2026-09-06T06:03:07.367Z",
+  "generatedAt": "2026-09-07T18:24:19.874Z",
   "topics": [
-    "Announces new Executive Order to combat illegal immigration and fraud",
-    "Endorses multiple candidates for Congress and Governor across various states",
-    "Comments on the rescheduling of the White House Correspondents' Dinner"
+    "Trump endorses and promotes Republican candidates across California, Iowa, Montana, New Jersey, and other states",
+    "Trump and allies challenge alleged political weaponization in Bragg, Mar-a-Lago, Georgia, and Hunter Biden matters",
+    "Trump EPA advances right-to-repair rules and rolls back vehicle emissions regulations"
   ],
-  "trendingTopic": "Announces new Executive Order to combat illegal immigration and fraud",
+  "trendingTopic": "Trump endorses and promotes Republican candidates across California, Iowa, Montana, New Jersey, and other states",
   "secondaryHighlights": [
     {
-      "topic": "Endorses multiple candidates for Congress and Governor across various states"
+      "topic": "Trump says Iran talks continue while demanding Tehran surrender its military"
     },
     {
-      "topic": "Comments on the rescheduling of the White House Correspondents' Dinner"
+      "topic": "White House compiles positive coverage of Trump administration policies and officials"
     }
   ],
-  "selfPraiseCount": 6,
-  "topicsCacheKey": "day-themes-v8:65:ceef7ca0475ebf2fb5f08d33",
+  "selfPraiseCount": 14,
+  "topicsCacheKey": "day-themes-v10:65:ceef7ca0475ebf2fb5f08d33",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38984",
@@ -82,7 +82,7 @@
       "id": "https://www.trumpstruth.org/statuses/38980",
       "publishedAt": "2026-06-02T01:19:19.000Z",
       "title": "[No Title] - Post from June 2, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post by Dan Patrick says he is proud to serve as a three-time Texas campaign chair for Donald Trump and celebrates primary victories by Ken Paxton, Mayes Middleton, and Alex Mealer. Below, Dan Patrick and Donald Trump pose between U.S. flags, both giving thumbs-up. Trump wears a red “Make America Great Again” hat.",
       "url": "https://www.trumpstruth.org/statuses/38980",
       "raw": {
         "creator": "",
@@ -94,7 +94,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38980",
         "isoDate": "2026-06-02T01:19:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:53:37.707Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16556/ea1430f7d63c5c42.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38992",
@@ -118,7 +122,7 @@
       "id": "https://www.trumpstruth.org/statuses/38991",
       "publishedAt": "2026-06-02T01:22:31.000Z",
       "title": "[No Title] - Post from June 2, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116677891769590469</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116677891769590469</span></p>\n\n[Image] A Times Now social-media post reports that U.S. Ambassador to India Sergio Gor called Donald Trump on speakerphone during an event in Delhi. The post quotes Trump saying, “I love India” and “I love PM Modi,” and identifies Narendra Modi as India’s prime minister. It includes the Times Now logo, account handle, and tagged users.",
       "url": "https://www.trumpstruth.org/statuses/38991",
       "raw": {
         "creator": "",
@@ -130,7 +134,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116677891769590469",
         "guid": "https://www.trumpstruth.org/statuses/38991",
         "isoDate": "2026-06-02T01:22:31.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:53:32.436Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16562/d96bd9f5c72faebc.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38990",
@@ -154,7 +162,7 @@
       "id": "https://www.trumpstruth.org/statuses/38989",
       "publishedAt": "2026-06-02T01:23:05.000Z",
       "title": "[No Title] - Post from June 2, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116677894020847693</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116677894020847693</span></p>\n\n[Image] A screenshot of a post by Eric Daugherty displays text praising Donald Trump’s 2026 endorsement record. It claims Trump endorsed winning candidates for governor, the U.S. House, and the U.S. Senate, while stating Ken Paxton was outspent 9:1. Fire emojis and a closing remark say that opposing Trump harms Republican careers.",
       "url": "https://www.trumpstruth.org/statuses/38989",
       "raw": {
         "creator": "",
@@ -166,13 +174,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116677894020847693",
         "guid": "https://www.trumpstruth.org/statuses/38989",
         "isoDate": "2026-06-02T01:23:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:53:29.524Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16560/f3cb63f569e7bbc2.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38988",
       "publishedAt": "2026-06-02T01:23:17.000Z",
       "title": "[No Title] - Post from June 2, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116677894810247197</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116677894810247197</span></p>\n\n[Image] Two screenshots of social media posts are shown. Eric Trump writes that attempts to jail or harm Donald Trump explain why he will become history’s greatest “RINO hunter.” Eric Daugherty shares a post praising Donald Trump’s 2026 endorsement record, citing wins among governors, House and Senate candidates, and saying Ken Paxton was outspent 9:1.",
       "url": "https://www.trumpstruth.org/statuses/38988",
       "raw": {
         "creator": "",
@@ -184,13 +196,18 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116677894810247197",
         "guid": "https://www.trumpstruth.org/statuses/38988",
         "isoDate": "2026-06-02T01:23:17.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:53:27.156Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16559/d4e364881accaeeb.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16560/f3cb63f569e7bbc2.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38987",
       "publishedAt": "2026-06-02T01:23:29.000Z",
       "title": "[No Title] - Post from June 2, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a social-media post from Ambassador Tom Barrack, identified as the U.S. ambassador to Türkiye. The post says Syrian authorities and the OPCW discovered and secured undeclared Assad-era chemical weapons, with support from the POTUS and international partners. An aerial image shows a heavily damaged site with rows of rectangular structures and debris.",
       "url": "https://www.trumpstruth.org/statuses/38987",
       "raw": {
         "creator": "",
@@ -202,13 +219,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38987",
         "isoDate": "2026-06-02T01:23:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:53:24.280Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16558/d6f3814de47e8304.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38986",
       "publishedAt": "2026-06-02T01:23:38.000Z",
       "title": "[No Title] - Post from June 2, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post by Steve Guest discussing a Washington Post Style article titled “Did Trump pick the right blue for the Reflecting Pool? We asked a pool guy.” The post says Donald Trump chose the correct blue, citing pool expert Steve Goodale’s view that a dark liner would create a sharper reflection and greater contrast with the sky and clouds. An article screenshot appears below.",
       "url": "https://www.trumpstruth.org/statuses/38986",
       "raw": {
         "creator": "",
@@ -220,7 +241,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38986",
         "isoDate": "2026-06-02T01:23:38.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:53:21.472Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16557/0af161103028c043.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38985",
@@ -244,7 +269,7 @@
       "id": "https://www.trumpstruth.org/statuses/39003",
       "publishedAt": "2026-06-02T01:24:59.000Z",
       "title": "[No Title] - Post from June 2, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Two pages of an EPA fact sheet titled “Diesel Exhaust Fluid (DEF) Sensor Guidance Letter,” dated March 2026. The document discusses EPA Administrator Lee Zeldin’s actions to address faulty DEF systems, including alternative NOx sensors, right-to-repair guidance, reduced equipment shutdowns, and estimated savings for farmers, truckers, and other operators. It repeatedly refers to the “Trump EPA.”",
       "url": "https://www.trumpstruth.org/statuses/39003",
       "raw": {
         "creator": "",
@@ -256,13 +281,18 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39003",
         "isoDate": "2026-06-02T01:24:59.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:53:18.068Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16574/77c99ccf01efa981.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16575/51785dfefeba24af.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39002",
       "publishedAt": "2026-06-02T01:25:38.000Z",
       "title": "[No Title] - Post from June 2, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A white page displays the U.S. Environmental Protection Agency seal and a section titled “Other Actions Related to Emissions / Farms.” Bullet points discuss repealing greenhouse-gas standards, proposed heavy-duty vehicle deregulation, and California emissions waivers. The text repeatedly references President Donald Trump and claims the measures will reduce vehicle costs and regulation.",
       "url": "https://www.trumpstruth.org/statuses/39002",
       "raw": {
         "creator": "",
@@ -274,13 +304,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39002",
         "isoDate": "2026-06-02T01:25:38.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:53:14.783Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16573/aa113c6a49ca2c4a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39001",
       "publishedAt": "2026-06-02T01:25:56.000Z",
       "title": "[No Title] - Post from June 2, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Three screenshots show pages headed “The White House Washington,” containing quoted news excerpts about U.S. military cooperation with Guatemala and Honduras, pressure on Mexico, and President Claudia Sheinbaum’s opposition. They also discuss Donald Trump’s mail-in voting executive order, Senate Republicans including John Thune and John Cornyn, and Treasury Secretary Scott Bessent’s Trump Accounts app.",
       "url": "https://www.trumpstruth.org/statuses/39001",
       "raw": {
         "creator": "",
@@ -292,13 +326,19 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39001",
         "isoDate": "2026-06-02T01:25:56.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:53:11.232Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16570/bc729c375b7d69b9.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16571/9e38f49d5eb683f3.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16572/3af4f050a9d8a871.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39000",
       "publishedAt": "2026-06-02T01:26:10.000Z",
       "title": "[No Title] - Post from June 2, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116677906069551278</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116677906069551278</span></p>\n\n[Image] Five pages of a White House document dated May 28, 2026, carrying the headline “President Trump Positive Press.” The text cites reports about Donald Trump’s fraud task force, JD Vance, Scott Bessent’s Trump Accounts app, Bernardo Arévalo, Pete Hegseth, Claudia Sheinbaum, mail-in voting, and Republican figures John Thune, John Cornyn, and Ken Paxton.",
       "url": "https://www.trumpstruth.org/statuses/39000",
       "raw": {
         "creator": "",
@@ -310,7 +350,15 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116677906069551278",
         "guid": "https://www.trumpstruth.org/statuses/39000",
         "isoDate": "2026-06-02T01:26:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:53:05.763Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16568/871fc886bd015dcc.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16569/a37e6fb0e59bd5a2.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16570/bc729c375b7d69b9.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16571/9e38f49d5eb683f3.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16572/3af4f050a9d8a871.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38999",
@@ -334,7 +382,7 @@
       "id": "https://www.trumpstruth.org/statuses/38998",
       "publishedAt": "2026-06-02T01:27:24.000Z",
       "title": "[No Title] - Post from June 2, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A blue reflecting pool with several fountains fills the foreground of a sunny outdoor scene. Beyond it stands a dark bronze equestrian statue of a uniformed figure holding a raised sword, mounted on a tall stone pedestal. The Washington Monument rises in the background among leafy trees, with historic buildings, fencing, and a shaded canopy nearby.",
       "url": "https://www.trumpstruth.org/statuses/38998",
       "raw": {
         "creator": "",
@@ -346,13 +394,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38998",
         "isoDate": "2026-06-02T01:27:24.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:53:00.649Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16567/87cb79ab83bf80bc.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38997",
       "publishedAt": "2026-06-02T01:27:39.000Z",
       "title": "[No Title] - Post from June 2, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Three views of the Andrew Jackson equestrian statue in Lafayette Square, Washington, D.C., with the White House and Washington Monument behind it. The first is a vintage colorized photograph. The second shows US Park Police near a graffiti-covered pedestal during a protest, with equipment and debris on the lawn. The third shows the restored monument in autumn.",
       "url": "https://www.trumpstruth.org/statuses/38997",
       "raw": {
         "creator": "",
@@ -364,7 +416,13 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38997",
         "isoDate": "2026-06-02T01:27:39.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:52:54.353Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16564/c2d9a144f99ea87a.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16565/59bc50c33ae543b7.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16566/e754176033367fe9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38996",
@@ -838,7 +896,7 @@
       "id": "https://www.trumpstruth.org/statuses/39026",
       "publishedAt": "2026-06-02T01:47:26.000Z",
       "title": "[No Title] - Post from June 2, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political rally stage features JD Vance speaking at a podium marked “Trump Vance 2024.” Supporters surround him holding signs reading “Trump Vance,” while banners promote “Made in the USA” and a “15% Corporate Tax.” A large screen displays a chart titled “Illegal Immigration into the U.S.,” with American flags and patriotic star decorations throughout.",
       "url": "https://www.trumpstruth.org/statuses/39026",
       "raw": {
         "creator": "",
@@ -850,7 +908,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39026",
         "isoDate": "2026-06-02T01:47:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:52:44.922Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16576/cfe4f0e6abfdaf39.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39027",
@@ -1108,7 +1170,7 @@
       "id": "https://www.trumpstruth.org/statuses/39041",
       "publishedAt": "2026-06-02T17:34:28.000Z",
       "title": "It was very nice having Flávio Bolsonaro in the Oval Office of the White House — A smart young man who loves his Country, Brazil, very much! President DONALD J. TRUMP",
-      "text": "<p>It was very nice having Flávio Bolsonaro in the Oval Office of the White House — A smart young man who loves his Country, Brazil, very much! President DONALD J. TRUMP</p>",
+      "text": "<p>It was very nice having Flávio Bolsonaro in the Oval Office of the White House — A smart young man who loves his Country, Brazil, very much! President DONALD J. TRUMP</p>\n\n[Image] Donald Trump sits behind the Resolute Desk in the Oval Office, with a suited official standing beside him. The room is decorated with military flags, medals, books, telephones, portraits, and a large eagle sculpture. In the second image, Trump meets with three suited officials around the desk, with a bust and stacks of historical guides in the foreground.",
       "url": "https://www.trumpstruth.org/statuses/39041",
       "raw": {
         "creator": "",
@@ -1120,7 +1182,12 @@
         "contentSnippet": "It was very nice having Flávio Bolsonaro in the Oval Office of the White House — A smart young man who loves his Country, Brazil, very much! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/39041",
         "isoDate": "2026-06-02T17:34:28.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:52:37.921Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16577/1ae345bf4aaa8d68.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16578/a86df75a16df0624.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39042",
@@ -1180,7 +1247,7 @@
       "id": "https://www.trumpstruth.org/statuses/39045",
       "publishedAt": "2026-06-02T21:19:05.000Z",
       "title": "We cannot allow this to happen to the Great State of Texas! President DONALD J. TRUMP",
-      "text": "<p>We cannot allow this to happen to the Great State of Texas! President DONALD J. TRUMP</p>",
+      "text": "<p>We cannot allow this to happen to the Great State of Texas! President DONALD J. TRUMP</p>\n\n[Image] An image titled “Alfred E. Neuman” shows a side-by-side comparison. On the left is the illustrated Mad magazine mascot, with tousled reddish hair, large ears, freckles, and a gap-toothed grin. On the right is a close-up photograph of a dark-haired man with prominent ears and a similar open-mouthed smile.",
       "url": "https://www.trumpstruth.org/statuses/39045",
       "raw": {
         "creator": "",
@@ -1192,7 +1259,11 @@
         "contentSnippet": "We cannot allow this to happen to the Great State of Texas! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/39045",
         "isoDate": "2026-06-02T21:19:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:52:32.593Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16579/758492c14d7abcb2.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -1586,5 +1657,6 @@
       "rationale": "The statement expresses a strong sentiment of support for Texas and implies a call to action, reflecting a positive outlook.",
       "analyzedAt": "2026-09-05T08:33:15.347Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:65:ceef7ca0475ebf2fb5f08d33"
 }

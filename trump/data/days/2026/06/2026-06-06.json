@@ -6,23 +6,19 @@
     "negative": 2
   },
   "summary": "positive:3 neutral:8 negative:2",
-  "generatedAt": "2026-09-06T06:03:13.835Z",
+  "generatedAt": "2026-09-07T18:25:52.459Z",
   "topics": [
-    "Nominates James Crowell and Stuart Nash to the District of Columbia Court of Appeals",
-    "Governor Wes Moore halts renovation of golf courses at Joint Base Andrews",
-    "Inspects the Reflecting Pool before submerging it in clean water"
+    "Highlights Washington projects involving Andrews golf-course renovations, the Reflecting Pool, and a proposed drone port",
+    "Nominates Stuart Nash and Judge James Crowell to the D.C. Court of Appeals"
   ],
-  "trendingTopic": "Nominates James Crowell and Stuart Nash to the District of Columbia Court of Appeals",
+  "trendingTopic": "Highlights Washington projects involving Andrews golf-course renovations, the Reflecting Pool, and a proposed drone port",
   "secondaryHighlights": [
     {
-      "topic": "Governor Wes Moore halts renovation of golf courses at Joint Base Andrews"
-    },
-    {
-      "topic": "Inspects the Reflecting Pool before submerging it in clean water"
+      "topic": "Nominates Stuart Nash and Judge James Crowell to the D.C. Court of Appeals"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v8:13:ad23c0a34bd53b58a39c3bbc",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:13:ad23c0a34bd53b58a39c3bbc",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39123",
@@ -118,7 +114,7 @@
       "id": "https://www.trumpstruth.org/statuses/39126",
       "publishedAt": "2026-06-06T12:12:12.000Z",
       "title": "[No Title] - Post from June 6, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116703094991947376</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116703094991947376</span></p>\n\n[Image] A dark social-media post from the verified account “ac132” shows a profile photo, the username, and a large Follow button. The post’s white text reads, “I am proud to be endorsed by President Trump who I wrote this song about.” Donald Trump is mentioned in the text, but no photograph of him appears.",
       "url": "https://www.trumpstruth.org/statuses/39126",
       "raw": {
         "creator": "",
@@ -130,13 +126,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116703094991947376",
         "guid": "https://www.trumpstruth.org/statuses/39126",
         "isoDate": "2026-06-06T12:12:12.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:56:13.822Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16632/d8073e84c999f42f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39129",
       "publishedAt": "2026-06-06T17:48:56.000Z",
       "title": "All work is complete! Great American Patriots, primarily from the Great State of Oklahoma, plus Doug Burgum, Secretary of the Interior, inspecting the very complex, but powerful, Dark Blue surface of the Reflecting Pool, prior to submerging it in CLEAN, BEAUTIFUL WATER. It was originally opened in 1922, but never functioned properly — now it does! Thank you President Trump, thank you Department of the Interior — AND THE BEST IS YET TO COME with The Trump Promenade at The Lincoln Memorial, and The Triumphal Arch, which will be, along with the White House Ballroom, when completed, the Greatest Structure in Washington. President DONALD J. TRUMP",
-      "text": "<p>All work is complete! Great American Patriots, primarily from the Great State of Oklahoma, plus Doug Burgum, Secretary of the Interior, inspecting the very complex, but powerful, Dark Blue surface of the Reflecting Pool, prior to submerging it in CLEAN, BEAUTIFUL WATER. It was originally opened in 1922, but never functioned properly — now it does! Thank you President Trump, thank you Department of the Interior — AND THE BEST IS YET TO COME with The Trump Promenade at The Lincoln Memorial, and The Triumphal Arch, which will be, along with the White House Ballroom, when completed, the Greatest Structure in Washington. President DONALD J. TRUMP</p>",
+      "text": "<p>All work is complete! Great American Patriots, primarily from the Great State of Oklahoma, plus Doug Burgum, Secretary of the Interior, inspecting the very complex, but powerful, Dark Blue surface of the Reflecting Pool, prior to submerging it in CLEAN, BEAUTIFUL WATER. It was originally opened in 1922, but never functioned properly — now it does! Thank you President Trump, thank you Department of the Interior — AND THE BEST IS YET TO COME with The Trump Promenade at The Lincoln Memorial, and The Triumphal Arch, which will be, along with the White House Ballroom, when completed, the Greatest Structure in Washington. President DONALD J. TRUMP</p>\n\n[Image] A Polaris utility vehicle carries three people across a broad paved roadway near the National Mall in Washington, D.C. The driver wears a white hard hat and light blue shirt, while another passenger wears a dark uniform. A large American flag is mounted above the vehicle, and the Washington Monument stands in the background among trees and construction equipment.",
       "url": "https://www.trumpstruth.org/statuses/39129",
       "raw": {
         "creator": "",
@@ -148,13 +148,17 @@
         "contentSnippet": "All work is complete! Great American Patriots, primarily from the Great State of Oklahoma, plus Doug Burgum, Secretary of the Interior, inspecting the very complex, but powerful, Dark Blue surface of the Reflecting Pool, prior to submerging it in CLEAN, BEAUTIFUL WATER. It was originally opened in 1922, but never functioned properly — now it does! Thank you President Trump, thank you Department of the Interior — AND THE BEST IS YET TO COME with The Trump Promenade at The Lincoln Memorial, and The Triumphal Arch, which will be, along with the White House Ballroom, when completed, the Greatest Structure in Washington. President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/39129",
         "isoDate": "2026-06-06T17:48:56.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:56:10.057Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16635/2600400ff997cd02.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39128",
       "publishedAt": "2026-06-06T17:49:29.000Z",
       "title": "The Barack Hussein Obama Library, in 10 years, when fully matured!",
-      "text": "<p>The Barack Hussein Obama Library, in 10 years, when fully matured!</p>",
+      "text": "<p>The Barack Hussein Obama Library, in 10 years, when fully matured!</p>\n\n[Image] An aerial view shows a large outdoor encampment spread through a park beside a river, with hundreds of tents, vehicles, makeshift shelters, and scattered belongings. At the center stands a towering concrete trash can topped with an oversized black garbage bag. A dense city skyline rises in the background under an overcast sky.",
       "url": "https://www.trumpstruth.org/statuses/39128",
       "raw": {
         "creator": "",
@@ -166,13 +170,17 @@
         "contentSnippet": "The Barack Hussein Obama Library, in 10 years, when fully matured!",
         "guid": "https://www.trumpstruth.org/statuses/39128",
         "isoDate": "2026-06-06T17:49:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:56:07.232Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16634/16f50b7757403295.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39134",
       "publishedAt": "2026-06-06T20:23:21.000Z",
       "title": "[No Title] - Post from June 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A black-and-white image shows Donald Trump in a dark suit and tie, leaning forward with both hands on a glossy table. Flags and framed objects are visible in the background. Text at the top reads, “Just sit back and relax, it will all work out well in the end - It always does!”",
       "url": "https://www.trumpstruth.org/statuses/39134",
       "raw": {
         "creator": "",
@@ -184,13 +192,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39134",
         "isoDate": "2026-06-06T20:23:21.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:56:04.229Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16640/19ea8f22288e98a6.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39133",
       "publishedAt": "2026-06-06T20:23:32.000Z",
       "title": "[No Title] - Post from June 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump is shown towering over the National Mall at night while holding a large American flag. Illuminated Washington, D.C., landmarks and buildings stretch across the horizon, with bright lights near the reflecting pool. The pool mirrors an upside-down image of Trump and the flag, creating a dramatic composite scene.",
       "url": "https://www.trumpstruth.org/statuses/39133",
       "raw": {
         "creator": "",
@@ -202,13 +214,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39133",
         "isoDate": "2026-06-06T20:23:32.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:56:01.741Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16639/9c5dc6bdab97817e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39132",
       "publishedAt": "2026-06-06T20:23:47.000Z",
       "title": "[No Title] - Post from June 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A collage headed “She (?) is OBSESSED!” shows the same bespectacled woman in four scenes: lying in bed, reading, washing dishes, and driving. In each panel, she is shown thinking about Donald Trump, depicted in thought bubbles or prominent images. The images have a stylized, digitally generated appearance.",
       "url": "https://www.trumpstruth.org/statuses/39132",
       "raw": {
         "creator": "",
@@ -220,13 +236,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39132",
         "isoDate": "2026-06-06T20:23:47.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:55:59.036Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16638/155d2f7b4f1bfd01.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39131",
       "publishedAt": "2026-06-06T20:23:58.000Z",
       "title": "[No Title] - Post from June 6, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump is seen from behind wearing a light-colored baseball cap and dark jacket, standing on an airfield or open grassy area. Three military helicopters, including two large tandem-rotor helicopters, fly in formation against a partly cloudy sky. The foreground figure is out of focus, while the aircraft are sharper in the distance.",
       "url": "https://www.trumpstruth.org/statuses/39131",
       "raw": {
         "creator": "",
@@ -238,13 +258,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39131",
         "isoDate": "2026-06-06T20:23:58.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:55:51.973Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16637/70ba054abefe4f47.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39130",
       "publishedAt": "2026-06-06T20:24:17.000Z",
       "title": "This will someday save Washington. Judge Leon has to get out of the way, and FAST. He is putting our Country in danger!",
-      "text": "<p>This will someday save Washington. Judge Leon has to get out of the way, and FAST. He is putting our Country in danger!</p>",
+      "text": "<p>This will someday save Washington. Judge Leon has to get out of the way, and FAST. He is putting our Country in danger!</p>\n\n[Image] The image is labeled “Drone Port” and shows a digitally rendered rooftop or elevated platform crowded with military-style drones, personnel, and equipment. A White House Historical Association emblem appears in the upper left, while a cityscape and government-style buildings extend across the background. The scene is presented as a conceptual or illustrative aerial facility.",
       "url": "https://www.trumpstruth.org/statuses/39130",
       "raw": {
         "creator": "",
@@ -256,7 +280,11 @@
         "contentSnippet": "This will someday save Washington. Judge Leon has to get out of the way, and FAST. He is putting our Country in danger!",
         "guid": "https://www.trumpstruth.org/statuses/39130",
         "isoDate": "2026-06-06T20:24:17.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:55:48.284Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16636/4443b942bbc533cc.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -338,5 +366,6 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:34:25.313Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:13:ad23c0a34bd53b58a39c3bbc"
 }

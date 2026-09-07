@@ -6,26 +6,28 @@
     "negative": 9
   },
   "summary": "positive:5 neutral:3 negative:9",
-  "generatedAt": "2026-09-05T08:48:18.302Z",
+  "generatedAt": "2026-09-07T18:11:55.764Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Highlights support for efforts to halt Iran’s nuclear program while pressuring Germany over the issue",
+    "Urges Louisiana Republicans to defeat Senator Bill Cassidy in the primary",
+    "Presses Tennessee and Louisiana governors to correct unconstitutional congressional maps"
   ],
-  "trendingTopic": "Hakeem Jeffries just called the Supreme Court of the United States an illegitimate Court!",
-  "trendingName": "Hakeem Jeffries",
+  "trendingTopic": "Donald Trump highlights support while pressing allies over efforts to halt Iran’s nuclear program",
   "secondaryHighlights": [
     {
-      "topic": "Harvard Harris Poll: Strong Majority back President Trump on Iran Nuclear stoppage"
+      "topic": "Nominates Nicole Saphier to serve as Surgeon General",
+      "name": "Nicole Saphier"
     },
     {
-      "topic": "Congratulations to Ali al-Zaidi on his Nomination to be the next Prime Minister of Iraq!"
+      "topic": "Removes whiskey tariffs and restrictions affecting Scotland-Kentucky cooperation"
     },
     {
-      "topic": "“86” is a mob term for “kill him.” They say 86 him! 86 47 means “kill President Trump.”James Comey, who is a Dirty Cop, one of the worst, knows this full well!",
-      "name": "James Comey"
+      "topic": "Congratulates Ali al-Zaidi on his nomination as Iraq’s next prime minister",
+      "name": "Ali al-Zaidi"
     }
   ],
-  "selfPraiseCount": 1,
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:17:5998fae8038f95298e60bfe9",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38094",
@@ -265,7 +267,7 @@
       "id": "https://www.trumpstruth.org/statuses/38106",
       "publishedAt": "2026-04-30T17:44:49.000Z",
       "title": "Hakeem Jeffries just called the Supreme Court of the United States an illegitimate Court! This is a Low IQ individual, who should not be allowed to talk that way about one of the Greatest Institutions anywhere in the World. He should withdraw the statement, IMMEDIATELY! President DONALD J. TRUMP",
-      "text": "<p>Hakeem Jeffries just called the Supreme Court of the United States an illegitimate Court! This is a Low IQ individual, who should not be allowed to talk that way about one of the Greatest Institutions anywhere in the World. He should withdraw the statement, IMMEDIATELY! President DONALD J. TRUMP</p>",
+      "text": "<p>Hakeem Jeffries just called the Supreme Court of the United States an illegitimate Court! This is a Low IQ individual, who should not be allowed to talk that way about one of the Greatest Institutions anywhere in the World. He should withdraw the statement, IMMEDIATELY! President DONALD J. TRUMP</p>\n\n[Image] Donald Trump stands behind a polished desk in a formal office, leaning forward with both hands on the surface and a stern expression. He wears a dark suit, white shirt, tie, and American flag lapel pin. U.S. flags and a large official-looking seal are visible behind him. The image is rendered in black and white.",
       "url": "https://www.trumpstruth.org/statuses/38106",
       "raw": {
         "creator": "",
@@ -277,7 +279,11 @@
         "contentSnippet": "Hakeem Jeffries just called the Supreme Court of the United States an illegitimate Court! This is a Low IQ individual, who should not be allowed to talk that way about one of the Greatest Institutions anywhere in the World. He should withdraw the statement, IMMEDIATELY! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/38106",
         "isoDate": "2026-04-30T17:44:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:06:06.981Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16026/0376cdd18bba5326.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38108",
@@ -437,5 +443,6 @@
       "rationale": "The text expresses gratitude and positive sentiments towards the King and Queen of the United Kingdom, highlighting the removal of tariffs and restrictions as a beneficial action.",
       "analyzedAt": "2026-09-05T08:48:18.294Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:17:5998fae8038f95298e60bfe9"
 }

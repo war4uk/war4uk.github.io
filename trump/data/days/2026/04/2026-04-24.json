@@ -6,25 +6,27 @@
     "negative": 6
   },
   "summary": "positive:5 neutral:13 negative:6",
-  "generatedAt": "2026-09-05T08:47:20.605Z",
+  "generatedAt": "2026-09-07T18:10:00.693Z",
   "topics": [
-    "Disaster Recovery and Assistance",
-    "Political Commentary and Controversies"
+    "Trump amplifies allegations that the Southern Poverty Law Center committed fraud and targeted conservatives",
+    "Trump and supporters allege Obama-era officials conspired over the 2016 Russia investigation",
+    "Trump highlights birth-tourism concerns and efforts to restrict birthright citizenship"
   ],
-  "trendingTopic": "This is the Reflecting Pool at The Lincoln Memorial",
+  "trendingTopic": "Trump amplifies allegations that the Southern Poverty Law Center committed fraud and targeted conservatives",
   "secondaryHighlights": [
     {
-      "topic": "The first time Lafayette Park Fountains, opposite the White House, have worked in decades"
+      "topic": "Trump and supporters allege Obama-era officials conspired over the 2016 Russia investigation"
     },
     {
-      "topic": "Cryin’ Chuck Schumer should resign over this",
-      "name": "Chuck Schumer"
+      "topic": "Mike Lee proposes requiring senators to speak during filibusters",
+      "name": "Mike Lee"
     },
     {
-      "topic": "Trump admin live updates: Prez announces Israel-Lebanon cease-fire extended by 3 weeks"
+      "topic": "Trump showcases restoration work at the National Mall Reflecting Pool"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:29:ea41940fec8d64e6b40a2dbf",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38022",
@@ -48,7 +50,7 @@
       "id": "https://www.trumpstruth.org/statuses/38025",
       "publishedAt": "2026-04-24T04:18:19.000Z",
       "title": "Cryin’ Chuck Schumer should resign over this. He won’t be missed! President DJT",
-      "text": "<p>Cryin’ Chuck Schumer should resign over this. He won’t be missed! President DJT</p>",
+      "text": "<p>Cryin’ Chuck Schumer should resign over this. He won’t be missed! President DJT</p>\n\n[Image] A screenshot of an X post from Border Patrol Union – NBPC (@BPUnion). The post says the National Border Patrol Council will defend agents and criticizes Senator Chuck Schumer for allegedly undermining Border Patrol and ICE officers. It praises their emergency and law-enforcement work and expresses support for all law enforcement. The post tags Donald Trump and other accounts.",
       "url": "https://www.trumpstruth.org/statuses/38025",
       "raw": {
         "creator": "",
@@ -60,13 +62,17 @@
         "contentSnippet": "Cryin’ Chuck Schumer should resign over this. He won’t be missed! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/38025",
         "isoDate": "2026-04-24T04:18:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:04:45.853Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15971/87ad9bcc8b62eeae.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38024",
       "publishedAt": "2026-04-24T04:19:03.000Z",
       "title": "Great Patriots!!! President DJT",
-      "text": "<p>Great Patriots!!! President DJT</p>",
+      "text": "<p>Great Patriots!!! President DJT</p>\n\n[Image] A screenshot of a Border Patrol Union–NBPC post congratulates its elected national leadership for 2026–2029. The post thanks Donald Trump, DHS Secretary Markwayne Mullin, Texas Governor Greg Abbott, John Cornyn, Ted Cruz, and others for addressing members. Below is a graphic listing the elected NBPC executive board and the 2026 convention.",
       "url": "https://www.trumpstruth.org/statuses/38024",
       "raw": {
         "creator": "",
@@ -78,13 +84,17 @@
         "contentSnippet": "Great Patriots!!! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/38024",
         "isoDate": "2026-04-24T04:19:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:04:39.609Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15970/76a015ba855f97b4.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38023",
       "publishedAt": "2026-04-24T04:19:45.000Z",
       "title": "[No Title] - Post from April 24, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116446310089816543</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116446310089816543</span></p>\n\n[Image] A screenshot of an X post by Gunther Eagleman carries the headline “OBAMA EXPOSED!” and attributes a statement to Donald Trump. The text alleges that Barack Obama, James Comey, John Brennan, James Clapper, Susan Rice, Joe Biden, and Hillary Clinton participated in a conspiracy involving the 2016 election and Russia-collusion claims, and calls for accountability.",
       "url": "https://www.trumpstruth.org/statuses/38023",
       "raw": {
         "creator": "",
@@ -96,7 +106,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116446310089816543",
         "guid": "https://www.trumpstruth.org/statuses/38023",
         "isoDate": "2026-04-24T04:19:45.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:04:34.769Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15969/c0d05626f023f0db.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38028",
@@ -120,7 +134,7 @@
       "id": "https://www.trumpstruth.org/statuses/38027",
       "publishedAt": "2026-04-24T04:22:17.000Z",
       "title": "[No Title] - Post from April 24, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116457768187860591</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116457768187860591</span></p>\n\n[Image] A screenshot of a post by Mike Lee (@BasedMikeLee), shown with a verified account badge and a circular profile photo. The post says he would keep the filibuster but require filibustering senators to speak, arguing that it should protect robust Senate debate. It says the current system forestalls debate and concludes: “Enforce the filibuster. Or nuke it. The status quo empowers Democrats.”",
       "url": "https://www.trumpstruth.org/statuses/38027",
       "raw": {
         "creator": "",
@@ -132,13 +146,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116457768187860591",
         "guid": "https://www.trumpstruth.org/statuses/38027",
         "isoDate": "2026-04-24T04:22:17.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:04:30.386Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15973/3db39a95f7ba1c49.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38026",
       "publishedAt": "2026-04-24T04:22:31.000Z",
       "title": "[No Title] - Post from April 24, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116457769351723599</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116457769351723599</span></p>\n\n[Image] A screenshot of two posts on X. Elon Musk’s verified account says “Exactly.” Below, U.S. Senator Mike Lee’s verified account says he would keep the filibuster but require filibustering senators to speak, arguing it should protect robust Senate debate. He concludes, “Enforce the filibuster / Or nuke it” and says the status quo empowers Democrats.",
       "url": "https://www.trumpstruth.org/statuses/38026",
       "raw": {
         "creator": "",
@@ -150,7 +168,12 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116457769351723599",
         "guid": "https://www.trumpstruth.org/statuses/38026",
         "isoDate": "2026-04-24T04:22:31.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:04:25.633Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15972/9eb3bd2b22ac2a28.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15973/3db39a95f7ba1c49.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38033",
@@ -174,7 +197,7 @@
       "id": "https://www.trumpstruth.org/statuses/38032",
       "publishedAt": "2026-04-24T04:27:27.000Z",
       "title": "[No Title] - Post from April 24, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116457788834581503</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116457788834581503</span></p>\n\n[Image] A screenshot of a post from the verified account The SCIF, displaying a black-and-white skull logo and the handle @TheSCIF. The post claims Hillary Clinton funded, approved, and created the Steele dossier, Barack Obama directed events, and John Brennan’s CIA carried out wrongdoing. It calls the alleged actions treason and says Americans demand accountability.",
       "url": "https://www.trumpstruth.org/statuses/38032",
       "raw": {
         "creator": "",
@@ -186,13 +209,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116457788834581503",
         "guid": "https://www.trumpstruth.org/statuses/38032",
         "isoDate": "2026-04-24T04:27:27.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:04:22.298Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15978/0c736e774a3f8478.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38031",
       "publishedAt": "2026-04-24T04:28:01.000Z",
       "title": "[No Title] - Post from April 24, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a social media post by Steve Rambert (@RambertSte73068) tagging Barack Obama. The post says, “I hope they arrest you before your grand opening of your war bunker in southside of Chicago,” and accuses Obama and Hillary Clinton of treason against the president of the United States. It calls for prosecution and shows a timestamp of 9:42 PM on Apr. 23, 2026, with 17 views.",
       "url": "https://www.trumpstruth.org/statuses/38031",
       "raw": {
         "creator": "",
@@ -204,13 +231,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38031",
         "isoDate": "2026-04-24T04:28:01.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:04:19.633Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15977/94647f22aa0b03c3.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38030",
       "publishedAt": "2026-04-24T04:28:14.000Z",
       "title": "[No Title] - Post from April 24, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of an X post from JulietteSchwartz (@Juliett59778255) displays a link and the label “The SCIF” with the account @TheSCIF. The post text alleges that Hillary Clinton funded and approved the Steele dossier, Barack Obama directed events, and Brennan’s CIA carried out related actions, calling them treason and demanding accountability.",
       "url": "https://www.trumpstruth.org/statuses/38030",
       "raw": {
         "creator": "",
@@ -222,13 +253,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38030",
         "isoDate": "2026-04-24T04:28:14.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:04:16.684Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15976/3031ddd96e404a64.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38029",
       "publishedAt": "2026-04-24T04:29:08.000Z",
       "title": "[No Title] - Post from April 24, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A social-media post from USAPatriot shows a bearded man wearing a red “USA” cap and dark shirt, standing on a city street and shouting toward the camera. He holds a sign that reads, “Stop Telling Us Who Broke The Law & Start Telling Us Who Was Arrested!” Pedestrians, vehicles, and urban buildings are visible in the background.",
       "url": "https://www.trumpstruth.org/statuses/38029",
       "raw": {
         "creator": "",
@@ -240,7 +275,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38029",
         "isoDate": "2026-04-24T04:29:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:04:13.726Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15975/e5ef043ee4302789.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38034",
@@ -264,7 +303,7 @@
       "id": "https://www.trumpstruth.org/statuses/38039",
       "publishedAt": "2026-04-24T06:43:45.000Z",
       "title": "[No Title] - Post from April 24, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a social media post attributed to Clint Eastwood, listing rhetorical defenses of Donald Trump and criticism of Democrats, including Representative Maxine Waters. Below the text are two portraits: Clint Eastwood seated on a stool in a dark suit, and Donald Trump in a dark suit with a red tie. The post shows a timestamp and 467.6K views.",
       "url": "https://www.trumpstruth.org/statuses/38039",
       "raw": {
         "creator": "",
@@ -276,13 +315,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38039",
         "isoDate": "2026-04-24T06:43:45.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:04:10.602Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15983/7d9bae57e4bac235.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38038",
       "publishedAt": "2026-04-24T06:44:10.000Z",
       "title": "[No Title] - Post from April 24, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of an X post from Elon Musk reads, “Their scam worked for decades.” It quotes a post by Flappr stating, “We pay people to be racist so we can fight racism,” with a shortened link. The attached image shows Jon Hamm in a suit gesturing beside a board displaying the Southern Poverty Law Center logo. The post shows 29.2 million views.",
       "url": "https://www.trumpstruth.org/statuses/38038",
       "raw": {
         "creator": "",
@@ -294,13 +337,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38038",
         "isoDate": "2026-04-24T06:44:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:04:07.396Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15982/904fe7c92f1de0d6.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38037",
       "publishedAt": "2026-04-24T06:44:30.000Z",
       "title": "[No Title] - Post from April 24, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a Mario Nawfal post alleges that the Southern Poverty Law Center paid $70,000 to Paul Mullet, described as a former KKK member and Aryan Nations director. It includes an SPLC webpage screenshot about Mullet and a related post claiming Elon Musk and Charlie Kirk warned about the SPLC. The lower image shows Charlie Kirk beside Elon Musk.",
       "url": "https://www.trumpstruth.org/statuses/38037",
       "raw": {
         "creator": "",
@@ -312,13 +359,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38037",
         "isoDate": "2026-04-24T06:44:30.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:04:04.029Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15981/5d5f44f00b6c9d72.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38036",
       "publishedAt": "2026-04-24T06:44:48.000Z",
       "title": "[No Title] - Post from April 24, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116458328588094795</span><a href=\"https://x.com/elonmusk/status/2047224780374610091?s=10\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/elonmusk/status/20472247</span><span class=\"invisible\">80374610091?s=10</span></a></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116458328588094795</span><a href=\"https://x.com/elonmusk/status/2047224780374610091?s=10\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/elonmusk/status/20472247</span><span class=\"invisible\">80374610091?s=10</span></a></p>\n\n[Image] A screenshot shows posts by Elon Musk and Mario Nawfal. Nawfal’s post claims the SPLC paid $70,000 to Paul Mullett, described as a former KKK member and Aryan Nations director, and includes an SPLC webpage about him. A quoted post says Elon Musk and Charlie Kirk warned about the SPLC. Below is a side-by-side photo of Charlie Kirk and Elon Musk.",
       "url": "https://www.trumpstruth.org/statuses/38036",
       "raw": {
         "creator": "",
@@ -330,7 +381,12 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116458328588094795https://x.com/elonmusk/status/2047224780374610091?s=10",
         "guid": "https://www.trumpstruth.org/statuses/38036",
         "isoDate": "2026-04-24T06:44:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:04:00.649Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15980/b643c0087353e008.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15981/5d5f44f00b6c9d72.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38035",
@@ -426,7 +482,7 @@
       "id": "https://www.trumpstruth.org/statuses/38044",
       "publishedAt": "2026-04-24T21:08:51.000Z",
       "title": "This is the Reflecting Pool at The Lincoln Memorial. Two thousand five hundred feet, the length of the tallest Building in the World. Starting the final phase of Renovation that was supposed to cost 301 Million Dollars, and take three years, and was instead done, with the help of Secretary of the Interior Doug Burgum, and his entire Department, and a much better final result – 2 Million Dollars in one week! I do many such things for Government and, as President, it is my Honor to do so. This is just one of them. Another, and one far more exciting, is Most Favored Nations for Prescription Drugs, where the United States paid the highest price in the World, and now they are paying the lowest, with a drop of 50, 60, 70, and even 80%! President DONALD J. TRUMP",
-      "text": "<p>This is the Reflecting Pool at The Lincoln Memorial. Two thousand five hundred feet, the length of the tallest Building in the World. Starting the final phase of Renovation that was supposed to cost 301 Million Dollars, and take three years, and was instead done, with the help of Secretary of the Interior Doug Burgum, and his entire Department, and a much better final result – 2 Million Dollars in one week! I do many such things for Government and, as President, it is my Honor to do so. This is just one of them. Another, and one far more exciting, is Most Favored Nations for Prescription Drugs, where the United States paid the highest price in the World, and now they are paying the lowest, with a drop of 50, 60, 70, and even 80%! President DONALD J. TRUMP</p>",
+      "text": "<p>This is the Reflecting Pool at The Lincoln Memorial. Two thousand five hundred feet, the length of the tallest Building in the World. Starting the final phase of Renovation that was supposed to cost 301 Million Dollars, and take three years, and was instead done, with the help of Secretary of the Interior Doug Burgum, and his entire Department, and a much better final result – 2 Million Dollars in one week! I do many such things for Government and, as President, it is my Honor to do so. This is just one of them. Another, and one far more exciting, is Most Favored Nations for Prescription Drugs, where the United States paid the highest price in the World, and now they are paying the lowest, with a drop of 50, 60, 70, and even 80%! President DONALD J. TRUMP</p>\n\n[Image] Three views show workers applying a vivid blue coating to a broad paved area beside the Lincoln Memorial in Washington, D.C. In the first image, the memorial stands beyond construction barriers under a clear sky. The other views show workers spreading the coating with long-handled rollers, with paving equipment and trees in the background.",
       "url": "https://www.trumpstruth.org/statuses/38044",
       "raw": {
         "creator": "",
@@ -438,7 +494,13 @@
         "contentSnippet": "This is the Reflecting Pool at The Lincoln Memorial. Two thousand five hundred feet, the length of the tallest Building in the World. Starting the final phase of Renovation that was supposed to cost 301 Million Dollars, and take three years, and was instead done, with the help of Secretary of the Interior Doug Burgum, and his entire Department, and a much better final result – 2 Million Dollars in one week! I do many such things for Government and, as President, it is my Honor to do so. This is just one of them. Another, and one far more exciting, is Most Favored Nations for Prescription Drugs, where the United States paid the highest price in the World, and now they are paying the lowest, with a drop of 50, 60, 70, and even 80%! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/38044",
         "isoDate": "2026-04-24T21:08:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:03:56.068Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15984/4f61aeb4ded84e6c.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15985/ae0920b513e0532c.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15986/f4de852a723a5175.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38045",
@@ -462,7 +524,7 @@
       "id": "https://www.trumpstruth.org/statuses/38046",
       "publishedAt": "2026-04-24T21:42:08.000Z",
       "title": "Candace Owens’ stock, which was never very high, has fallen a long way. Her attack on the First Lady of France is despicable. I believe, in this case, without verification, she is an extremely Low IQ individual!",
-      "text": "<p>Candace Owens’ stock, which was never very high, has fallen a long way. Her attack on the First Lady of France is despicable. I believe, in this case, without verification, she is an extremely Low IQ individual!</p>",
+      "text": "<p>Candace Owens’ stock, which was never very high, has fallen a long way. Her attack on the First Lady of France is despicable. I believe, in this case, without verification, she is an extremely Low IQ individual!</p>\n\n[Image] A satirical, red-bordered mock TIME magazine cover features a close-up portrait of political commentator Candace Owens wearing a patterned head covering. It reads “VILE PERSON of the YEAR” and includes accusatory text about her statements, associations, fact-checking, and alleged protection of sex offenders, along with the handle @CANYOUFACTSME.",
       "url": "https://www.trumpstruth.org/statuses/38046",
       "raw": {
         "creator": "",
@@ -474,7 +536,11 @@
         "contentSnippet": "Candace Owens’ stock, which was never very high, has fallen a long way. Her attack on the First Lady of France is despicable. I believe, in this case, without verification, she is an extremely Low IQ individual!",
         "guid": "https://www.trumpstruth.org/statuses/38046",
         "isoDate": "2026-04-24T21:42:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:03:51.097Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15988/694d27e339c17cc4.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38047",
@@ -492,13 +558,16 @@
         "contentSnippet": "Hakeem “High Tax” Jeffries is a Low IQ individual who is not smart enough to be “running” the Democrat Party, and certainly not smart enough to be involved in running the United States of America. It’s people like this who almost destroyed our Nation with their High Tax, Open Border Policies. In the future, Hakeem, a fine American name, will forever be known as HIGH TAX!",
         "guid": "https://www.trumpstruth.org/statuses/38047",
         "isoDate": "2026-04-24T21:49:57.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15989/31dc3c9b2acedb1b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38049",
       "publishedAt": "2026-04-24T21:54:39.000Z",
       "title": "RT @realDonaldTrumpThis is the Reflecting Pool at The Lincoln Memorial. Two thousand five hundred feet, the length of the tallest Building in the World. Starting the final phase of Renovation that was supposed to cost 301 Million Dollars, and take three years, and was instead done, with the help of Secretary of the Interior Doug Burgum, and his entire Department, and a much better final result – 2 Million Dollars in one week! I do many such things for Government and, as President, it is my Honor to do so. This is just one of them. Another, and one far more exciting, is Most Favored Nations for Prescription Drugs, where the United States paid the highest price in the World, and now they are paying the lowest, with a drop of 50, 60, 70, and even 80%! President DONALD J. TRUMP",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>This is the Reflecting Pool at The Lincoln Memorial. Two thousand five hundred feet, the length of the tallest Building in the World. Starting the final phase of Renovation that was supposed to cost 301 Million Dollars, and take three years, and was instead done, with the help of Secretary of the Interior Doug Burgum, and his entire Department, and a much better final result – 2 Million Dollars in one week! I do many such things for Government and, as President, it is my Honor to do so. This is just one of them. Another, and one far more exciting, is Most Favored Nations for Prescription Drugs, where the United States paid the highest price in the World, and now they are paying the lowest, with a drop of 50, 60, 70, and even 80%! President DONALD J. TRUMP</p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>This is the Reflecting Pool at The Lincoln Memorial. Two thousand five hundred feet, the length of the tallest Building in the World. Starting the final phase of Renovation that was supposed to cost 301 Million Dollars, and take three years, and was instead done, with the help of Secretary of the Interior Doug Burgum, and his entire Department, and a much better final result – 2 Million Dollars in one week! I do many such things for Government and, as President, it is my Honor to do so. This is just one of them. Another, and one far more exciting, is Most Favored Nations for Prescription Drugs, where the United States paid the highest price in the World, and now they are paying the lowest, with a drop of 50, 60, 70, and even 80%! President DONALD J. TRUMP</p>\n\n[Image] Three views show the Lincoln Memorial in Washington, D.C., behind a large paved area being coated bright blue. In the first image, workers and construction barriers line the memorial grounds. In the next two, three workers in reflective safety vests spread the blue coating with long-handled rollers, while construction equipment and trees are visible in the background.",
       "url": "https://www.trumpstruth.org/statuses/38049",
       "raw": {
         "creator": "",
@@ -510,7 +579,13 @@
         "contentSnippet": "RT @realDonaldTrumpThis is the Reflecting Pool at The Lincoln Memorial. Two thousand five hundred feet, the length of the tallest Building in the World. Starting the final phase of Renovation that was supposed to cost 301 Million Dollars, and take three years, and was instead done, with the help of Secretary of the Interior Doug Burgum, and his entire Department, and a much better final result – 2 Million Dollars in one week! I do many such things for Government and, as President, it is my Honor to do so. This is just one of them. Another, and one far more exciting, is Most Favored Nations for Prescription Drugs, where the United States paid the highest price in the World, and now they are paying the lowest, with a drop of 50, 60, 70, and even 80%! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/38049",
         "isoDate": "2026-04-24T21:54:39.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:03:47.556Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15984/4f61aeb4ded84e6c.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15985/ae0920b513e0532c.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15986/f4de852a723a5175.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38048",
@@ -534,7 +609,7 @@
       "id": "https://www.trumpstruth.org/statuses/38050",
       "publishedAt": "2026-04-24T22:17:41.000Z",
       "title": "[No Title] - Post from April 24, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116461727359731405</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116461727359731405</span></p>\n\n[Image] A four-image sequence shows Washington, D.C.’s National Mall Reflecting Pool, with the Washington Monument and Lincoln Memorial visible. The first image includes “Coming Soon” text. In the other images, workers in safety clothing apply a bright blue coating across the drained pool using long-handled rollers, with construction equipment and barriers nearby.",
       "url": "https://www.trumpstruth.org/statuses/38050",
       "raw": {
         "creator": "",
@@ -546,7 +621,14 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116461727359731405",
         "guid": "https://www.trumpstruth.org/statuses/38050",
         "isoDate": "2026-04-24T22:17:41.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:03:41.157Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15990/7c0eaba8043024af.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15984/4f61aeb4ded84e6c.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15985/ae0920b513e0532c.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15986/f4de852a723a5175.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -724,5 +806,6 @@
       "rationale": "The text is a retweet link without any sentiment expressed.",
       "analyzedAt": "2026-09-05T08:47:20.600Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:29:ea41940fec8d64e6b40a2dbf"
 }

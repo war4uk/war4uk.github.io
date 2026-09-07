@@ -6,24 +6,23 @@
     "negative": 4
   },
   "summary": "positive:10 neutral:25 negative:4",
-  "generatedAt": "2026-09-05T08:45:55.065Z",
+  "generatedAt": "2026-09-07T18:07:34.032Z",
   "topics": [
-    "Political Commentary and Controversies",
-    "Economic Growth and Job Creation"
+    "Trump and allies revive claims that the 2020 election was stolen through fraud and intelligence interference",
+    "Trump promotes Iran gains, a reopening Strait of Hormuz, and a potential China meeting",
+    "Trump touts tax-free tips and overtime policies as major refunds for working-class Americans"
   ],
-  "trendingTopic": "'Charlie's voice is not silenced, it's roaring'",
+  "trendingTopic": "Trump and allies revive claims that the 2020 election was stolen through fraud and intelligence interference",
   "secondaryHighlights": [
     {
-      "topic": "Trump: Tax Deductions Deliver 'Biggest Refunds' for Tipped Workers"
+      "topic": "Trump promotes Iran gains, a reopening Strait of Hormuz, and a potential China meeting"
     },
     {
-      "topic": "Trump: Policies Like No Tax on Tips, Overtime Show GOP Is Party of Working Class"
-    },
-    {
-      "topic": "Trump touts ‘historic’ $300B Texas refinery as first new US plant in nearly 50 years"
+      "topic": "Trump touts tax-free tips and overtime policies as major refunds for working-class Americans"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 15,
+  "topicsCacheKey": "day-themes-v10:39:c58105b17acb87f22aa12b26",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37850",
@@ -263,7 +262,7 @@
       "id": "https://www.trumpstruth.org/statuses/37863",
       "publishedAt": "2026-04-18T04:12:23.000Z",
       "title": "[No Title] - Post from April 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post from the “Trump War Room” account reads “TRUST TRUMP. NOT PANICANS.” It features a stylized portrait of Donald Trump in a dark suit, white shirt, red tie, and American flag lapel pin, surrounded by smoky light and sparks. Large gold lettering says “THE PEACE,” with “President” in script below and a Team Trump logo at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/37863",
       "raw": {
         "creator": "",
@@ -275,13 +274,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37863",
         "isoDate": "2026-04-18T04:12:23.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:01:07.966Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15875/1144e7bf9f988832.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37867",
       "publishedAt": "2026-04-18T04:23:27.000Z",
       "title": "[No Title] - Post from April 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A social media post from Toxic Cowboy reads “Yep.” It shares a graphic claiming gas prices rose to $3.96 under Donald Trump because of his attack on Iran, and to $5.02 under Joe Biden because of his attack on Americans. The graphic shows Joe Biden with crossed arms beside a gas station price sign displaying $5.39 and $5.57, with a “gas price fact check” banner.",
       "url": "https://www.trumpstruth.org/statuses/37867",
       "raw": {
         "creator": "",
@@ -293,7 +296,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37867",
         "isoDate": "2026-04-18T04:23:27.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:01:04.571Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15879/568ccbc138c33cd0.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37866",
@@ -317,7 +324,7 @@
       "id": "https://www.trumpstruth.org/statuses/37865",
       "publishedAt": "2026-04-18T04:24:35.000Z",
       "title": "[No Title] - Post from April 18, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116423801851760712</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116423801851760712</span></p>\n\n[Image] A screenshot of a post from the verified account The SCIF (@TheSCIF) states that Donald Trump was “CLEARED” of impeachment and the “Russia Collusion Hoax.” It then calls for “TRAITORS” who allegedly stole the 2020 election to be “NAIL[ED]...to the wall.” The post includes a circular black-and-white profile icon.",
       "url": "https://www.trumpstruth.org/statuses/37865",
       "raw": {
         "creator": "",
@@ -329,7 +336,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116423801851760712",
         "guid": "https://www.trumpstruth.org/statuses/37865",
         "isoDate": "2026-04-18T04:24:35.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:01:01.357Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15877/3a774545fca8672f.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37864",
@@ -353,7 +364,7 @@
       "id": "https://www.trumpstruth.org/statuses/37868",
       "publishedAt": "2026-04-18T04:25:26.000Z",
       "title": "[No Title] - Post from April 18, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116423805453465694</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116423805453465694</span></p>\n\n[Image] A screenshot of a social media post from the verified account “FAN TRUMP ARMY” (@TRUMP_ARMY_), labeled as a fan account and featuring a small image of Donald Trump. The post says Russia is willing to resume trading with the United States in dollars, claims China is reacting strongly, and describes this as a setback for BRICS de-dollarization efforts.",
       "url": "https://www.trumpstruth.org/statuses/37868",
       "raw": {
         "creator": "",
@@ -365,7 +376,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116423805453465694",
         "guid": "https://www.trumpstruth.org/statuses/37868",
         "isoDate": "2026-04-18T04:25:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:00:57.944Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15880/be230af7301dce03.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37870",
@@ -389,7 +404,7 @@
       "id": "https://www.trumpstruth.org/statuses/37869",
       "publishedAt": "2026-04-18T05:06:40.000Z",
       "title": "THANK YOU!",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116423967114156778</span>THANK YOU!</p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116423967114156778</span>THANK YOU!</p>\n\n[Image] A social media post from verified user Mila Joy (@Milajoy) shows a small circular profile photo of a smiling woman with light hair. The post contains the text, “Donald Trump is the GOAT.” No photograph or other depiction of Donald Trump is visible in the screenshot.",
       "url": "https://www.trumpstruth.org/statuses/37869",
       "raw": {
         "creator": "",
@@ -401,7 +416,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116423967114156778THANK YOU!",
         "guid": "https://www.trumpstruth.org/statuses/37869",
         "isoDate": "2026-04-18T05:06:40.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:00:54.796Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15881/da55212074c7577d.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37874",
@@ -425,7 +444,7 @@
       "id": "https://www.trumpstruth.org/statuses/37873",
       "publishedAt": "2026-04-18T05:10:45.000Z",
       "title": "[No Title] - Post from April 18, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116423985260460652</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116423985260460652</span></p>\n\n[Image] A screenshot of a post by Andrew Kolvet reads, “NEW: President Trump lists his first-year wins in Arizona.” It attributes several claims to Donald Trump, including ending eight wars, no illegal crossings for 11 months, a historic low murder rate, reduced fentanyl and maritime drug trafficking, restrictions on gender-affirming care and women’s sports, and ending DEI and CRT.",
       "url": "https://www.trumpstruth.org/statuses/37873",
       "raw": {
         "creator": "",
@@ -437,7 +456,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116423985260460652",
         "guid": "https://www.trumpstruth.org/statuses/37873",
         "isoDate": "2026-04-18T05:10:45.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:00:50.991Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15885/adefac229342113e.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37872",
@@ -461,7 +484,7 @@
       "id": "https://www.trumpstruth.org/statuses/37871",
       "publishedAt": "2026-04-18T05:11:18.000Z",
       "title": "[No Title] - Post from April 18, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116423987219362297</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116423987219362297</span></p>\n\n[Image] A screenshot of a post by Sean Hannity, whose profile photo and verified account are shown at the top. The post quotes Victor Davis Hanson criticizing European leaders, the United Nations, the EU, NATO, and others for seeking influence after Iran was weakened. It credits Donald Trump and the Israeli Air Force with demolishing Iran in less than six weeks.",
       "url": "https://www.trumpstruth.org/statuses/37871",
       "raw": {
         "creator": "",
@@ -473,7 +496,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116423987219362297",
         "guid": "https://www.trumpstruth.org/statuses/37871",
         "isoDate": "2026-04-18T05:11:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:00:48.052Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15883/b3b09187647ebad4.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37876",
@@ -497,7 +524,7 @@
       "id": "https://www.trumpstruth.org/statuses/37875",
       "publishedAt": "2026-04-18T05:15:53.000Z",
       "title": "[No Title] - Post from April 18, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116424005080834976</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116424005080834976</span></p>\n\n[Image] A screenshot of a social-media post from @heyitsmeCarolyn, whose display name is “Bandies” with decorative symbols and a blue verification badge. The post reads, “Not just a President... Trump is the best Grandpa!” A circular profile image appears at left, showing a person wearing a dark cap and sunglasses.",
       "url": "https://www.trumpstruth.org/statuses/37875",
       "raw": {
         "creator": "",
@@ -509,7 +536,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116424005080834976",
         "guid": "https://www.trumpstruth.org/statuses/37875",
         "isoDate": "2026-04-18T05:15:53.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:00:44.754Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15887/7e292a263042d464.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37877",
@@ -533,7 +564,7 @@
       "id": "https://www.trumpstruth.org/statuses/37878",
       "publishedAt": "2026-04-18T11:29:22.000Z",
       "title": "[No Title] - Post from April 18, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116425396492356069</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116425396492356069</span></p>\n\n[Image] A screenshot of a social media post by Karli Bonne’ (@KarluskaP), marked with a U.S. flag emoji and a verified badge. The post reads, “President Trump is the best political athlete.” No photograph of Donald Trump is visible; the profile picture is a small circular graphic.",
       "url": "https://www.trumpstruth.org/statuses/37878",
       "raw": {
         "creator": "",
@@ -545,7 +576,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116425396492356069",
         "guid": "https://www.trumpstruth.org/statuses/37878",
         "isoDate": "2026-04-18T11:29:22.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:00:40.917Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15890/4f984e008817f5f8.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37879",
@@ -587,7 +622,7 @@
       "id": "https://www.trumpstruth.org/statuses/37882",
       "publishedAt": "2026-04-18T23:40:10.000Z",
       "title": "[No Title] - Post from April 18, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116428347307445462</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116428347307445462</span></p>\n\n[Image] A screenshot of a social media post by Mila Joy (@Milajoy), with a verified badge. The post claims that Stacey Abrams started an NGO and received $2 billion from the Biden administration 30 days later, says the money has not been repaid, references Elon Musk and alleged fraud, and asks, “Where is our money, Stacy?”",
       "url": "https://www.trumpstruth.org/statuses/37882",
       "raw": {
         "creator": "",
@@ -599,13 +634,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116428347307445462",
         "guid": "https://www.trumpstruth.org/statuses/37882",
         "isoDate": "2026-04-18T23:40:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:00:37.554Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15893/9befb37d47172ba1.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37881",
       "publishedAt": "2026-04-18T23:40:42.000Z",
       "title": "[No Title] - Post from April 18, 2026",
-      "text": "<p><a href=\"https://x.com/thescif/status/2045034437813903700?s=10\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/thescif/status/204503443</span><span class=\"invisible\">7813903700?s=10</span></a></p>",
+      "text": "<p><a href=\"https://x.com/thescif/status/2045034437813903700?s=10\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/thescif/status/204503443</span><span class=\"invisible\">7813903700?s=10</span></a></p>\n\n[Image] A screenshot of a post from the verified account “The SCIF” claims that 10–20 million fraudulent votes were added to steal the 2020 election from Donald Trump. It alleges that voting precincts were shut down to conceal cheating after Donald Trump’s supposed lead exceeded expectations. The post is displayed as black text on a white background.",
       "url": "https://www.trumpstruth.org/statuses/37881",
       "raw": {
         "creator": "",
@@ -617,13 +656,17 @@
         "contentSnippet": "https://x.com/thescif/status/2045034437813903700?s=10",
         "guid": "https://www.trumpstruth.org/statuses/37881",
         "isoDate": "2026-04-18T23:40:42.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:00:34.833Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15892/720cd29d9e6cf880.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37885",
       "publishedAt": "2026-04-18T23:45:17.000Z",
       "title": "[No Title] - Post from April 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A social-media post from TNMaineiac claims Democrats oppose the “Save America Act” and alleges voter fraud involving deceased people, undocumented immigrants, and mail ballots. The attached graphic shows Albert Einstein beside text comparing 74 million votes for Donald Trump with 81 million for Joe Biden, totaling 155 million against a claimed 133 million registered voters.",
       "url": "https://www.trumpstruth.org/statuses/37885",
       "raw": {
         "creator": "",
@@ -635,13 +678,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37885",
         "isoDate": "2026-04-18T23:45:17.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:00:32.502Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15895/bbccb0e324b1a564.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37886",
       "publishedAt": "2026-04-18T23:45:28.000Z",
       "title": "[No Title] - Post from April 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post from the verified @Paeonia account, dated April 17, 2026. The post addresses @SenMikeLee and @POTUS, saying that “if they hadn’t stolen the election” and the president had not “fought back,” voting would be the least of their concerns. It ends with “FIGHT FIGHT FIGHT FIGHT.”",
       "url": "https://www.trumpstruth.org/statuses/37886",
       "raw": {
         "creator": "",
@@ -653,13 +700,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37886",
         "isoDate": "2026-04-18T23:45:28.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:00:29.208Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15896/73f9d6b6e6daaccc.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37884",
       "publishedAt": "2026-04-18T23:45:43.000Z",
       "title": "A RIGGED ELECTION!!!",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116428368589554834</span>A RIGGED ELECTION!!!</p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116428368589554834</span>A RIGGED ELECTION!!!</p>\n\n[Image] A screenshot of a social-media post by TNMaineiac displays text accusing Democrats of opposing the “Save America Act” and alleging voter fraud. Below it, a black graphic shows Albert Einstein beside figures labeled “74 million Trump” and “81 million Biden,” totaling 155 million against “133 million registered United States voters.” Donald Trump is named in the graphic.",
       "url": "https://www.trumpstruth.org/statuses/37884",
       "raw": {
         "creator": "",
@@ -671,13 +722,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116428368589554834A RIGGED ELECTION!!!",
         "guid": "https://www.trumpstruth.org/statuses/37884",
         "isoDate": "2026-04-18T23:45:43.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:00:25.929Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15895/bbccb0e324b1a564.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37883",
       "publishedAt": "2026-04-18T23:49:56.000Z",
       "title": "[No Title] - Post from April 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a social media post by Janie Johnson (@jjauthor), titled “America is Exceptional,” with a verified badge and profile photo. The post lists several states—Michigan, Arizona, Colorado, Nevada, Louisiana, Washington, and California—each followed by the word “cheated.”",
       "url": "https://www.trumpstruth.org/statuses/37883",
       "raw": {
         "creator": "",
@@ -689,7 +744,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37883",
         "isoDate": "2026-04-18T23:49:56.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:00:22.970Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15894/6b42001b86faa24e.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37888",
@@ -713,7 +772,7 @@
       "id": "https://www.trumpstruth.org/statuses/37887",
       "publishedAt": "2026-04-18T23:50:59.000Z",
       "title": "[No Title] - Post from April 18, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116428389676890619</span><a href=\"https://x.com/real_robn/status/2045552110100758533?s=10\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/real_robn/status/2045552</span><span class=\"invisible\">110100758533?s=10</span></a></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116428389676890619</span><a href=\"https://x.com/real_robn/status/2045552110100758533?s=10\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/real_robn/status/2045552</span><span class=\"invisible\">110100758533?s=10</span></a></p>\n\n[Image] A screenshot of a post by @Real_RobN claims to show an email obtained through FOIA by King Solomon. The quoted exchange has CIA Director Mike Morell asking former CIA Director John Brennan to join a list of intelligence figures allegedly working to counter Donald Trump during the November 3, 2020 election. Brennan agrees, and other names are mentioned.",
       "url": "https://www.trumpstruth.org/statuses/37887",
       "raw": {
         "creator": "",
@@ -725,7 +784,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116428389676890619https://x.com/real_robn/status/2045552110100758533?s=10",
         "guid": "https://www.trumpstruth.org/statuses/37887",
         "isoDate": "2026-04-18T23:50:59.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:00:19.934Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15897/98f27ae4bb1a55ad.png"
+      ]
     }
   ],
   "sentiments": [
@@ -963,5 +1026,6 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:45:55.061Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:39:c58105b17acb87f22aa12b26"
 }

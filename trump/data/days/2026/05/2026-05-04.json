@@ -6,26 +6,26 @@
     "negative": 3
   },
   "summary": "positive:5 neutral:26 negative:3",
-  "generatedAt": "2026-09-05T08:26:21.327Z",
+  "generatedAt": "2026-09-07T18:13:03.244Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Economic Growth and Job Creation",
-    "Political Commentary and Controversies"
+    "Republicans rally behind Trump’s proposed White House ballroom as a presidential security measure",
+    "Supporters praise Trump’s State of the Union address as historic and patriotic",
+    "Trump endorses Dan Patrick for reelection and praises Greg Abbott’s Texas leadership"
   ],
-  "trendingTopic": "I am proud to once again endorse Texas Lieutenant Governor, Dan Patrick, for Re-Election",
-  "trendingName": "Dan Patrick",
+  "trendingTopic": "Republicans rally behind Trump’s proposed White House ballroom as a presidential security measure",
   "secondaryHighlights": [
     {
-      "topic": "TERMINATE THE FILIBUSTER, AND WIN!!! President DJT"
+      "topic": "Supporters praise Trump’s State of the Union address as historic and patriotic"
     },
     {
-      "topic": "Rent Check Test: How Trump's Policy Shift Is Easing Home Prices"
+      "topic": "Trump endorses Dan Patrick for reelection and praises Greg Abbott’s Texas leadership"
     },
     {
-      "topic": "Kennedy Center Rep to Newsmax: Previous Management Ran Facility Into Ground"
+      "topic": "Trump highlights Iran’s damaged military capabilities and urges South Korea to join Project Freedom"
     }
   ],
-  "selfPraiseCount": 1,
+  "selfPraiseCount": 9,
+  "topicsCacheKey": "day-themes-v10:34:b7f25e034728feaa8ef48865",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38158",
@@ -85,7 +85,7 @@
       "id": "https://www.trumpstruth.org/statuses/38161",
       "publishedAt": "2026-05-04T13:46:42.000Z",
       "title": "[No Title] - Post from May 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political infographic shows Donald Trump’s portrait beside three U.S. panels labeled “100% operational,” depicting a carrier, aircraft, and missile-defense equipment. Below, Iran is represented by Ayatollah Ali Khamenei’s portrait crossed out in red and labeled “DEAD.” Three Iranian panels, showing damaged naval equipment, a fighter jet, and an air-defense site, are labeled “DESTROYED.”",
       "url": "https://www.trumpstruth.org/statuses/38161",
       "raw": {
         "creator": "",
@@ -97,7 +97,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38161",
         "isoDate": "2026-05-04T13:46:42.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:30:28.208Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16049/bfff4b6295406391.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38162",
@@ -229,7 +233,7 @@
       "id": "https://www.trumpstruth.org/statuses/38174",
       "publishedAt": "2026-05-04T18:43:28.000Z",
       "title": "[No Title] - Post from May 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot shows a collage of social-media posts debating construction of a ballroom at the White House. Several verified accounts argue that the ballroom should be built quickly, while one post says critics cannot articulate a logical objection. Other posts call for a secure event space for the president and refer to a “White House Trump Ballroom.”",
       "url": "https://www.trumpstruth.org/statuses/38174",
       "raw": {
         "creator": "",
@@ -241,13 +245,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38174",
         "isoDate": "2026-05-04T18:43:28.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:30:21.927Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16058/c864d3d4f787b5de.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38173",
       "publishedAt": "2026-05-04T18:43:39.000Z",
       "title": "[No Title] - Post from May 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot shows a series of posts on X discussing plans for a White House ballroom. Michael Knowles jokes about security after attempted presidential assassinations, while Lauren Chen criticizes complaints about wasteful spending. Mike Engleman, Juanita Broaddrick, Brigitte Gabriel, MAGA Kitty, and MOMofDataRepublican express support for building the ballroom.",
       "url": "https://www.trumpstruth.org/statuses/38173",
       "raw": {
         "creator": "",
@@ -259,13 +267,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38173",
         "isoDate": "2026-05-04T18:43:39.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:30:18.801Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16057/06ce4786ace70850.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38172",
       "publishedAt": "2026-05-04T18:43:51.000Z",
       "title": "[No Title] - Post from May 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot shows several social-media posts about a proposed White House ballroom associated with Donald Trump. Posts attributed to Mike Johnson and Rick Scott discuss the ballroom’s safety and criticize efforts to stop construction. Posts by Nick Sortor and Ryan Fournier claim Republican senators will fast-track legislation to approve the project, calling it vital to national security and tagging John Thune.",
       "url": "https://www.trumpstruth.org/statuses/38172",
       "raw": {
         "creator": "",
@@ -277,13 +289,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38172",
         "isoDate": "2026-05-04T18:43:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:30:14.474Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16056/4a391ed5d1d63359.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38171",
       "publishedAt": "2026-05-04T18:44:00.000Z",
       "title": "[No Title] - Post from May 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot shows four social-media posts supporting construction of a secure White House ballroom for President Donald Trump. Posts are attributed to Lance Gooden, Congressman Randy Fine, Morgan Griffith, and Rep. Andy Harris, who cite security concerns and endorse the proposed “Build the Ballroom Act.” Each post includes a profile photo, verification badge, and Follow button.",
       "url": "https://www.trumpstruth.org/statuses/38171",
       "raw": {
         "creator": "",
@@ -295,13 +311,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38171",
         "isoDate": "2026-05-04T18:44:00.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:30:11.199Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16055/50c3e31f38382c64.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38170",
       "publishedAt": "2026-05-04T18:44:10.000Z",
       "title": "[No Title] - Post from May 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot shows four posts on X by Rep. Barry Moore, Rep. Marlin Stutzman, Rep. Riley M. Moore, and Congressman Troy Downing. The posts discuss alleged attempts on Donald Trump’s life, security concerns surrounding the White House Correspondents’ Dinner, and calls to build a White House ballroom and increase funding for the Department of Homeland Security.",
       "url": "https://www.trumpstruth.org/statuses/38170",
       "raw": {
         "creator": "",
@@ -313,13 +333,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38170",
         "isoDate": "2026-05-04T18:44:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:30:07.501Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16054/b17b242ad9a7532a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38169",
       "publishedAt": "2026-05-04T18:44:41.000Z",
       "title": "[No Title] - Post from May 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot shows posts from Republican representatives William Timmons, Nick Langworthy, Lauren Boebert, and Laurel Lee. The posts support funding and completing a permanent White House ballroom, criticize opponents, and mention bipartisan support, Senator John Fetterman, the White House, and an alleged assassination attempt targeting the president at the White House Correspondents’ Dinner.",
       "url": "https://www.trumpstruth.org/statuses/38169",
       "raw": {
         "creator": "",
@@ -331,13 +355,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38169",
         "isoDate": "2026-05-04T18:44:41.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:30:04.493Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16053/ab35d6bf286b42e0.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38168",
       "publishedAt": "2026-05-04T18:44:51.000Z",
       "title": "[No Title] - Post from May 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot shows posts from U.S. senators Rick Scott, Jim Banks, Marsha Blackburn, and Tim Sheehy. The posts call for Democrats to stop defunding DHS, criticize judges and opposition to a White House ballroom, and support legislation approving its construction. One post references Donald Trump and condemns political violence and threats against the president.",
       "url": "https://www.trumpstruth.org/statuses/38168",
       "raw": {
         "creator": "",
@@ -349,13 +377,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38168",
         "isoDate": "2026-05-04T18:44:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:30:00.404Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16052/f91687b0132e301c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38167",
       "publishedAt": "2026-05-04T18:44:59.000Z",
       "title": "[No Title] - Post from May 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot shows social media posts from Acting Attorney General Todd Blanche, Senator John Fetterman, Senator Rand Paul, and Senator Katie Britt. The posts discuss building a ballroom at the White House, with Fetterman citing presidential succession and Britt citing the safety of Donald Trump and future presidents. Rand Paul says he will introduce legislation supporting the proposal.",
       "url": "https://www.trumpstruth.org/statuses/38167",
       "raw": {
         "creator": "",
@@ -367,13 +399,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38167",
         "isoDate": "2026-05-04T18:44:59.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:29:57.346Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16051/1c744c847e2d501e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38166",
       "publishedAt": "2026-05-04T18:46:02.000Z",
       "title": "[No Title] - Post from May 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political collage shows an illustration of Donald Trump in a blue suit and red tie raising a fist beside an American flag, with the words “LEADERS LEAD.” The upper-right panel shows Joe Biden wearing a face mask and kneeling near vehicles, labeled “COWARDS KNEEL.” The lower-right panel shows Ali Khamenei seated while a person bows, labeled “TRAITORS BOW.”",
       "url": "https://www.trumpstruth.org/statuses/38166",
       "raw": {
         "creator": "",
@@ -385,13 +421,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38166",
         "isoDate": "2026-05-04T18:46:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:29:53.138Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16050/3bab8168f0fa32ec.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38179",
       "publishedAt": "2026-05-04T18:53:09.000Z",
       "title": "“Too Late” is a DISASTER for America! Interest Rates too high!",
-      "text": "<p>“Too Late” is a DISASTER for America! Interest Rates too high!</p>",
+      "text": "<p>“Too Late” is a DISASTER for America! Interest Rates too high!</p>\n\n[Image] A satirical image shows Jerome Powell, chairman of the U.S. Federal Reserve, falling backward into a large, open dumpster filled with papers and debris. He is wearing a dark suit, white shirt, and blue tie, with his arms and legs raised. Large black text above him reads “Jerome Powell.”",
       "url": "https://www.trumpstruth.org/statuses/38179",
       "raw": {
         "creator": "",
@@ -403,13 +443,17 @@
         "contentSnippet": "“Too Late” is a DISASTER for America! Interest Rates too high!",
         "guid": "https://www.trumpstruth.org/statuses/38179",
         "isoDate": "2026-05-04T18:53:09.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:29:48.189Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16060/73d87eb4ba0c55db.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38178",
       "publishedAt": "2026-05-04T18:54:47.000Z",
       "title": "I made the U.S.A. 45 Billion Dollars in 8 months!",
-      "text": "<p>I made the U.S.A. 45 Billion Dollars in 8 months!</p>",
+      "text": "<p>I made the U.S.A. 45 Billion Dollars in 8 months!</p>\n\n[Image] An infographic states, “Trump’s Intel Investment is Now Up $45 Billion Dollars!” A line chart shows an investment rising from $20 in August 2025 to $97 by April 2026, with fluctuations along the way. Large text reads “TRUMP BUYS at $20” and “$45B,” while the chart’s endpoint is labeled “Now worth $97.”",
       "url": "https://www.trumpstruth.org/statuses/38178",
       "raw": {
         "creator": "",
@@ -421,13 +465,17 @@
         "contentSnippet": "I made the U.S.A. 45 Billion Dollars in 8 months!",
         "guid": "https://www.trumpstruth.org/statuses/38178",
         "isoDate": "2026-05-04T18:54:47.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:29:44.652Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16059/9038cb62ea833ccd.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38180",
       "publishedAt": "2026-05-04T19:11:51.000Z",
       "title": "[No Title] - Post from May 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a social-media post by Michael Whatley criticizing former North Carolina Governor Roy Cooper and promoting Whatley. It embeds a post attributed to Donald Trump that blames Roy Cooper for a tragedy and urges voters to support Michael Whatley. Below is an Instagram screenshot showing two portraits and text about a murder case.",
       "url": "https://www.trumpstruth.org/statuses/38180",
       "raw": {
         "creator": "",
@@ -439,7 +487,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38180",
         "isoDate": "2026-05-04T19:11:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:29:41.017Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16061/5c1f34204e978cbd.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38183",
@@ -463,7 +515,7 @@
       "id": "https://www.trumpstruth.org/statuses/38182",
       "publishedAt": "2026-05-04T19:28:59.000Z",
       "title": "[No Title] - Post from May 4, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116517956925573430</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116517956925573430</span></p>\n\n[Image] A screenshot of a post by U.S. Senator Mike Lee (@BasedMikeLee). Lee says the DHS shutdown taught Senate Republicans a lesson about Democratic obstruction on border security and election integrity. He presents two choices: end the filibuster for voter ID, proof of citizenship, and immigration enforcement, or preserve the status quo and hope Democrats do not eliminate it later.",
       "url": "https://www.trumpstruth.org/statuses/38182",
       "raw": {
         "creator": "",
@@ -475,7 +527,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116517956925573430",
         "guid": "https://www.trumpstruth.org/statuses/38182",
         "isoDate": "2026-05-04T19:28:59.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:29:36.379Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16063/77edac0d20d5c5b4.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38181",
@@ -499,7 +555,7 @@
       "id": "https://www.trumpstruth.org/statuses/38187",
       "publishedAt": "2026-05-04T19:30:32.000Z",
       "title": "[No Title] - Post from May 4, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116517961880896424</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116517961880896424</span></p>\n\n[Image] A screenshot of a post from Human Events (@HumanEvents) displays the text: “.@JackPosobiec: The proposed White House ballroom has a security function that will serve future presidents as well.” The post appears on a white background with the Human Events logo and account name at the top.",
       "url": "https://www.trumpstruth.org/statuses/38187",
       "raw": {
         "creator": "",
@@ -511,7 +567,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116517961880896424",
         "guid": "https://www.trumpstruth.org/statuses/38187",
         "isoDate": "2026-05-04T19:30:32.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:29:32.702Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16068/5316ae3b34147750.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38186",
@@ -535,7 +595,7 @@
       "id": "https://www.trumpstruth.org/statuses/38185",
       "publishedAt": "2026-05-04T19:31:15.000Z",
       "title": "[No Title] - Post from May 4, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116517965109663490</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116517965109663490</span></p>\n\n[Image] A screenshot of a post by Lee Zeldin, whose profile photo shows him in a suit and tie. The post says an “uninformed Congressional Dem” triggered a debate, criticizes Rosa DeLauro by name, and states that Zeldin will follow his best reading of federal law under the U.S. Supreme Court’s Loper Bright decision.",
       "url": "https://www.trumpstruth.org/statuses/38185",
       "raw": {
         "creator": "",
@@ -547,13 +607,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116517965109663490",
         "guid": "https://www.trumpstruth.org/statuses/38185",
         "isoDate": "2026-05-04T19:31:15.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:29:27.303Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16066/bcff2c0160a40bab.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38184",
       "publishedAt": "2026-05-04T19:32:30.000Z",
       "title": "[No Title] - Post from May 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “Lifetime contribution per immigrant” compares estimated financial contributions by region. Green markers show positive figures for North America (+$573,000), Scandinavia (+$557,000), Japan (+$525,000), the UK (+$481,000), and Oceania (+$476,000). Red markers show negative figures for Somalia, the Caribbean, Middle East, Latin America, and African regions. It cites an IZA study from the Netherlands, 2024.",
       "url": "https://www.trumpstruth.org/statuses/38184",
       "raw": {
         "creator": "",
@@ -565,13 +629,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38184",
         "isoDate": "2026-05-04T19:32:30.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:29:22.437Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16065/99950c7a973f1db0.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38191",
       "publishedAt": "2026-05-04T23:30:57.000Z",
       "title": "[No Title] - Post from May 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot shows several verified social-media posts praising Donald Trump’s State of the Union speech. Dave Rubin says Trump loves America and never tires of promoting it; Sean Davis calls the speech a “home run,” Jack Posobiec says it inspires renewed love of America, and Steven F. Hayward compares it to a command performance. Paul Sperry describes Trump confronting Democrats and promoting Republican policies.",
       "url": "https://www.trumpstruth.org/statuses/38191",
       "raw": {
         "creator": "",
@@ -583,13 +651,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38191",
         "isoDate": "2026-05-04T23:30:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:29:19.562Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16072/90a401359b8b92b8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38190",
       "publishedAt": "2026-05-04T23:31:04.000Z",
       "title": "[No Title] - Post from May 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot shows a series of social-media posts praising Donald Trump and a speech described as patriotic and pro-American. Clay Travis mentions lower crime, secure borders, sports, and military service. Steven F. Hayward references Reagan, while Scott Jennings, Cernovich, and Charles Gasparino criticize Democrats and call Trump’s speech exceptional.",
       "url": "https://www.trumpstruth.org/statuses/38190",
       "raw": {
         "creator": "",
@@ -601,13 +673,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38190",
         "isoDate": "2026-05-04T23:31:04.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:29:16.052Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16071/4e5a47e6f50f5c5c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38189",
       "publishedAt": "2026-05-04T23:31:14.000Z",
       "title": "[No Title] - Post from May 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot shows several social-media posts praising Donald Trump’s State of the Union address. Clint Brown says the speech celebrates exceptional Americans and portrays the country as improving; Tim Pool calls it historic, Jack Posobiec calls it the best State of the Union he has seen, and Buck Sexton says it was the best address by any president. Marco Rubio is also mentioned.",
       "url": "https://www.trumpstruth.org/statuses/38189",
       "raw": {
         "creator": "",
@@ -619,13 +695,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38189",
         "isoDate": "2026-05-04T23:31:14.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:29:12.690Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16070/9358af58aebe5f8b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38188",
       "publishedAt": "2026-05-04T23:31:46.000Z",
       "title": "[No Title] - Post from May 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot shows four social-media posts praising a State of the Union address. Marc Thiessen calls it one of the best ever, Laura Ingraham says historians should study it to understand how Donald Trump dominated American politics, and Bo Snerdley and Matthew Boyle describe it as unlike any they have seen. The posts include profile photos, usernames, verification badges, and interface icons.",
       "url": "https://www.trumpstruth.org/statuses/38188",
       "raw": {
         "creator": "",
@@ -637,7 +717,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38188",
         "isoDate": "2026-05-04T23:31:46.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:29:09.477Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16069/ae98f7ac1bb3fe48.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -845,5 +929,6 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:26:21.322Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:34:b7f25e034728feaa8ef48865"
 }

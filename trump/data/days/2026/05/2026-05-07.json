@@ -6,28 +6,20 @@
     "negative": 3
   },
   "summary": "positive:11 neutral:5 negative:3",
-  "generatedAt": "2026-09-05T08:26:59.256Z",
+  "generatedAt": "2026-09-07T18:14:01.920Z",
   "topics": [
-    "Disaster Recovery and Assistance",
-    "Economic Growth and Job Creation",
-    "Endorsements and Support for Candidates"
+    "Endorses Barry Moore and Jackson Lahmeyer, and backs Mike Lawler in congressional races",
+    "Dow Jones reaches an all-time high as stocks surge",
+    "Highlights U.S. destroyers surviving Iranian attacks and compares the Iran conflict with past wars"
   ],
-  "trendingTopic": "Lilly commits additional $4.5 billion across Indiana manufacturing sites, opens first dedicated genetic medicine facility",
+  "trendingTopic": "Endorses Barry Moore and Jackson Lahmeyer, and backs Mike Lawler in congressional races",
   "secondaryHighlights": [
     {
-      "topic": "Chuck Devore, Army Intelligence, was fantastic tonight on Jesse Watters",
-      "name": "Chuck Devore"
-    },
-    {
-      "topic": "A highly accurate depiction of the Sleepy Joe Biden Administration",
-      "name": "Joe Biden"
-    },
-    {
-      "topic": "I had a great call with The President of the European Commission, Ursula von der Leyen",
-      "name": "Ursula von der Leyen"
+      "topic": "Discusses trade with Brazil’s Lula and Iran’s nuclear threat with European Commission President Ursula von der Leyen"
     }
   ],
   "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:19:a7c5500b3b4cd8c472a67e66",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38248",
@@ -105,7 +97,7 @@
       "id": "https://www.trumpstruth.org/statuses/38252",
       "publishedAt": "2026-05-07T02:35:15.000Z",
       "title": "Wow. Study this Chart! President DJT",
-      "text": "<p>Wow. Study this Chart! President DJT</p>",
+      "text": "<p>Wow. Study this Chart! President DJT</p>\n\n[Image] An infographic titled “Length of Wars” compares U.S. conflicts by duration in weeks using horizontal blue bars. It lists the Afghanistan War at 543 weeks, Iraq War at 457, Vietnam War at 439, U.S. Civil War at 209, World War II at 196, Korean War at 161, and War of 1812 at 139. A red-outlined entry at the bottom reads “Iran Excursion | 6.”",
       "url": "https://www.trumpstruth.org/statuses/38252",
       "raw": {
         "creator": "",
@@ -117,7 +109,11 @@
         "contentSnippet": "Wow. Study this Chart! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/38252",
         "isoDate": "2026-05-07T02:35:15.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:32:38.131Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16104/b94b7ad0d346c9d9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38253",
@@ -177,7 +173,7 @@
       "id": "https://www.trumpstruth.org/statuses/38256",
       "publishedAt": "2026-05-07T11:04:16.000Z",
       "title": "A highly accurate depiction of the Sleepy Joe Biden Administration. Tremendous damage done but, WE’RE BACK!!! President DJT",
-      "text": "<p>A highly accurate depiction of the Sleepy Joe Biden Administration. Tremendous damage done but, WE’RE BACK!!! President DJT</p>",
+      "text": "<p>A highly accurate depiction of the Sleepy Joe Biden Administration. Tremendous damage done but, WE’RE BACK!!! President DJT</p>\n\n[Image] A satirical political cartoon shows Barack Obama holding a device labeled “AUTOPEN” beside Joe Biden, who is asleep in a chair while signing a document. Hillary Clinton stands behind him with folded arms, and another person is partially visible at right. A spilled container labeled “ICE CREAM” and a person with their face on the desk add to the chaotic scene.",
       "url": "https://www.trumpstruth.org/statuses/38256",
       "raw": {
         "creator": "",
@@ -189,13 +185,17 @@
         "contentSnippet": "A highly accurate depiction of the Sleepy Joe Biden Administration. Tremendous damage done but, WE’RE BACK!!! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/38256",
         "isoDate": "2026-05-07T11:04:16.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:32:33.780Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16106/c8687459f39ecd96.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38257",
       "publishedAt": "2026-05-07T11:15:41.000Z",
       "title": "[No Title] - Post from May 7, 2026",
-      "text": "<p><a href=\"https://stocks.apple.com/symbol/%5EDJI\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">stocks.apple.com/symbol/%5EDJI</span><span class=\"invisible\"></span></a></p>",
+      "text": "<p><a href=\"https://stocks.apple.com/symbol/%5EDJI\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">stocks.apple.com/symbol/%5EDJI</span><span class=\"invisible\"></span></a></p>\n\n[Image] A screenshot displays a financial quote for the Dow Jones Industrial Average (^DJI). The index is shown at 49,910.59, up 612.34 points, or 1.24%, with the gain displayed in green. The quote states that the market closed on May 6 at 5:31:49 PM EDT.",
       "url": "https://www.trumpstruth.org/statuses/38257",
       "raw": {
         "creator": "",
@@ -207,13 +207,17 @@
         "contentSnippet": "https://stocks.apple.com/symbol/%5EDJI",
         "guid": "https://www.trumpstruth.org/statuses/38257",
         "isoDate": "2026-05-07T11:15:41.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:32:30.142Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16107/b9d71cebbb8fc560.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38258",
       "publishedAt": "2026-05-07T12:14:05.000Z",
       "title": "The Real Deal - GOLD - At Doral in Miami. Put there by great American Patriots!!! President DJT",
-      "text": "<p>The Real Deal - GOLD - At Doral in Miami. Put there by great American Patriots!!! President DJT</p>",
+      "text": "<p>The Real Deal - GOLD - At Doral in Miami. Put there by great American Patriots!!! President DJT</p>\n\n[Image] A gold-painted statue of Donald Trump stands on a tiered white pedestal in a tropical garden, raising one clenched fist. The statue wears a collared shirt, jacket, and trousers. Palm trees, dense greenery, a red-tiled building, blue sky, and clouds surround it. A large white “Telegram” watermark spans the upper portion of the image.",
       "url": "https://www.trumpstruth.org/statuses/38258",
       "raw": {
         "creator": "",
@@ -225,13 +229,17 @@
         "contentSnippet": "The Real Deal - GOLD - At Doral in Miami. Put there by great American Patriots!!! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/38258",
         "isoDate": "2026-05-07T12:14:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:32:26.461Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16108/4658b10bbf44f743.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38259",
       "publishedAt": "2026-05-07T13:05:33.000Z",
       "title": "This lunatic, Hakeem “Low IQ” Jeffries, should be charged with INCITING VIOLENCE! The Radical Left Democrats actually want to Destroy our Country. President DJT",
-      "text": "<p>This lunatic, Hakeem “Low IQ” Jeffries, should be charged with INCITING VIOLENCE! The Radical Left Democrats actually want to Destroy our Country. President DJT</p>",
+      "text": "<p>This lunatic, Hakeem “Low IQ” Jeffries, should be charged with INCITING VIOLENCE! The Radical Left Democrats actually want to Destroy our Country. President DJT</p>\n\n[Image] A graphic asks, “Should Hakeem Jeffries be charged with inciting violence?” The left panel shows Hakeem Jeffries beside U.S. flags and a poster featuring Donald Trump with the words “Maximum Warfare” and “Everywhere. All the time.” The right panel, labeled “3 days later,” shows police and other people in a building lobby surrounding equipment and a large open case.",
       "url": "https://www.trumpstruth.org/statuses/38259",
       "raw": {
         "creator": "",
@@ -243,7 +251,11 @@
         "contentSnippet": "This lunatic, Hakeem “Low IQ” Jeffries, should be charged with INCITING VIOLENCE! The Radical Left Democrats actually want to Destroy our Country. President DJT",
         "guid": "https://www.trumpstruth.org/statuses/38259",
         "isoDate": "2026-05-07T13:05:33.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:32:21.510Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16109/e33e2c70cdefdbe8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38260",
@@ -339,7 +351,7 @@
       "id": "https://www.trumpstruth.org/statuses/38264",
       "publishedAt": "2026-05-07T19:33:41.000Z",
       "title": "Congressman Mike Lawler is doing a terrific job for New York’s 17th Congressional District! Mike will most likely be running against a Radical Left Democrat named Effie Phillips-Staley, who loves High Taxes, Open Borders, Anti-Semitism, Men in Women’s Sports, and Transgender for Everybody, among other CRAZY ideas.Effie Phillips-Staley’s campaign has just been caught CHEATING, RED-HANDED, trying to file hundreds of fraudulent signatures to get on the ballot. Justice should be sought, and the fraud should be investigated, IMMEDIATELY! Effie Phillips-Staley is a FRAUDSTER, but the good news is that Congressman Mike Lawler is a WINNER, and has my Complete and Total Endorsement — MIKE WILL NEVER LET YOU DOWN!",
-      "text": "<p>Congressman Mike Lawler is doing a terrific job for New York’s 17th Congressional District! Mike will most likely be running against a Radical Left Democrat named Effie Phillips-Staley, who loves High Taxes, Open Borders, Anti-Semitism, Men in Women’s Sports, and Transgender for Everybody, among other CRAZY ideas.</p><p>Effie Phillips-Staley’s campaign has just been caught CHEATING, RED-HANDED, trying to file hundreds of fraudulent signatures to get on the ballot. Justice should be sought, and the fraud should be investigated, IMMEDIATELY! Effie Phillips-Staley is a FRAUDSTER, but the good news is that Congressman Mike Lawler is a WINNER, and has my Complete and Total Endorsement — MIKE WILL NEVER LET YOU DOWN!</p>",
+      "text": "<p>Congressman Mike Lawler is doing a terrific job for New York’s 17th Congressional District! Mike will most likely be running against a Radical Left Democrat named Effie Phillips-Staley, who loves High Taxes, Open Borders, Anti-Semitism, Men in Women’s Sports, and Transgender for Everybody, among other CRAZY ideas.</p><p>Effie Phillips-Staley’s campaign has just been caught CHEATING, RED-HANDED, trying to file hundreds of fraudulent signatures to get on the ballot. Justice should be sought, and the fraud should be investigated, IMMEDIATELY! Effie Phillips-Staley is a FRAUDSTER, but the good news is that Congressman Mike Lawler is a WINNER, and has my Complete and Total Endorsement — MIKE WILL NEVER LET YOU DOWN!</p>\n\n[Image] A screenshot of an X post by Mike Lawler (@lawler4ny) alleging that petitions filed by Effie4Congress contained significant fraud. Lawler says a judge referred the matter for criminal prosecution and asks local prosecutors, the Southern District of New York, and the FBI to investigate. An embedded post by Jason Beeferman includes a court order declaring 501 signatures fraudulent.",
       "url": "https://www.trumpstruth.org/statuses/38264",
       "raw": {
         "creator": "",
@@ -351,7 +363,11 @@
         "contentSnippet": "Congressman Mike Lawler is doing a terrific job for New York’s 17th Congressional District! Mike will most likely be running against a Radical Left Democrat named Effie Phillips-Staley, who loves High Taxes, Open Borders, Anti-Semitism, Men in Women’s Sports, and Transgender for Everybody, among other CRAZY ideas.\nEffie Phillips-Staley’s campaign has just been caught CHEATING, RED-HANDED, trying to file hundreds of fraudulent signatures to get on the ballot. Justice should be sought, and the fraud should be investigated, IMMEDIATELY! Effie Phillips-Staley is a FRAUDSTER, but the good news is that Congressman Mike Lawler is a WINNER, and has my Complete and Total Endorsement — MIKE WILL NEVER LET YOU DOWN!",
         "guid": "https://www.trumpstruth.org/statuses/38264",
         "isoDate": "2026-05-07T19:33:41.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:32:17.150Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16110/c4d7a2bfb9520df8.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38266",
@@ -487,5 +503,6 @@
       "rationale": "The text describes a successful military operation with no damage to American destroyers and the destruction of Iranian attackers, portraying a strong and victorious image.",
       "analyzedAt": "2026-09-05T08:26:59.252Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:19:a7c5500b3b4cd8c472a67e66"
 }

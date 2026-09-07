@@ -6,26 +6,27 @@
     "negative": 6
   },
   "summary": "positive:37 neutral:14 negative:6",
-  "generatedAt": "2026-09-05T08:29:45.786Z",
+  "generatedAt": "2026-09-07T18:18:29.595Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Endorses and praises Republican candidates and incumbents across Alabama, Georgia, Idaho, Kentucky, Oregon, and Pennsylvania",
+    "Escalates attacks on Thomas Massie while promoting allegations from his former girlfriend",
+    "Threatens military action against Iran while saying regional leaders asked him to delay the attack"
   ],
-  "trendingTopic": "It is my Great Honor to endorse MAGA Warrior, Jim Kingston, who is running to represent the fantastic people of Georgia’s 1st Congressional District.",
-  "trendingName": "Jim Kingston",
+  "trendingTopic": "Endorses and praises Republican candidates and incumbents across six states",
   "secondaryHighlights": [
     {
-      "topic": "Thomas Massie's Ex-Girlfriend And Former Congressional Staffer Cynthia West Tells All",
+      "topic": "Escalates attacks on Thomas Massie while promoting allegations from his former girlfriend",
       "name": "Thomas Massie"
     },
     {
-      "topic": "In Maryland, they sent out 500,000 Illegal Mail In Ballots, and they got caught!"
+      "topic": "Threatens military action against Iran while saying regional leaders asked him to delay the attack"
     },
     {
-      "topic": "I have been asked by the Emir of Qatar, Tamim bin Hamad Al Thani, the Crown Prince of Saudi Arabia, Mohammed bin Salman Al Saud, and the President of the United Arab Emirates, Mohamed bin Zayed Al Nahyan, to hold off on our planned Military attack of the Islamic Republic of Iran, which was scheduled for tomorrow, in that serious negotiations are now taking place, and that, in their opinion, as Great Leaders and Allies, a Deal will be made, which will be very acceptable to the United States of America, as well as all Countries in the Middle East, and beyond."
+      "topic": "Claims Maryland officials mishandled 500,000 allegedly illegal mail-in ballots"
     }
   ],
-  "selfPraiseCount": 8,
+  "selfPraiseCount": 10,
+  "topicsCacheKey": "day-themes-v10:57:6d7803520b59ea373f17019c",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38567",
@@ -1039,7 +1040,7 @@
       "id": "https://www.trumpstruth.org/statuses/38621",
       "publishedAt": "2026-05-18T23:57:06.000Z",
       "title": "[No Title] - Post from May 18, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post by Mark R. Levin (@marklevinshow), dated March 4, 2026. The post discusses war powers, arguing that presidents have rejected the constitutionality of the 1973 War Powers Act, Congress can declare but not necessarily compel war, and presidents retain broad authority to conduct military operations. It has 39.4K views.",
       "url": "https://www.trumpstruth.org/statuses/38621",
       "raw": {
         "creator": "",
@@ -1051,7 +1052,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38621",
         "isoDate": "2026-05-18T23:57:06.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:41:20.692Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16327/673c2923a573a83f.png"
+      ]
     }
   ],
   "sentiments": [
@@ -1397,5 +1402,6 @@
       "rationale": "The text is empty.",
       "analyzedAt": "2026-09-05T08:29:33.125Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:57:6d7803520b59ea373f17019c"
 }

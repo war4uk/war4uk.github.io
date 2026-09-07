@@ -6,24 +6,23 @@
     "negative": 2
   },
   "summary": "positive:9 neutral:11 negative:2",
-  "generatedAt": "2026-09-06T06:03:12.324Z",
+  "generatedAt": "2026-09-07T18:25:29.056Z",
   "topics": [
-    "Barry Moore running for the United States Senate in Alabama",
-    "TrumpRx.gov adds 160 discounted prescription drugs",
-    "Lindsey Graham supports THE SAVE AMERICA ACT"
+    "Washington, D.C. monuments and fountains cleaned and restored ahead of America’s 250th anniversary",
+    "May jobs report shows 172,000 jobs added, exceeding expectations",
+    "TrumpRx.gov adds 160 discounted prescription drugs, reaching more than 800"
   ],
-  "trendingTopic": "Barry Moore running for the United States Senate in Alabama",
-  "trendingName": "Barry Moore",
+  "trendingTopic": "Washington, D.C. monuments and fountains are cleaned and restored ahead of America’s 250th anniversary",
   "secondaryHighlights": [
     {
-      "topic": "TrumpRx.gov adds 160 discounted prescription drugs"
+      "topic": "May jobs report shows 172,000 jobs added, exceeding expectations"
     },
     {
-      "topic": "Lindsey Graham supports THE SAVE AMERICA ACT"
+      "topic": "TrumpRx.gov adds 160 discounted prescription drugs, reaching more than 800"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v8:22:055aa257c3cd3806cbd190c4",
+  "selfPraiseCount": 6,
+  "topicsCacheKey": "day-themes-v10:22:055aa257c3cd3806cbd190c4",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39100",
@@ -83,7 +82,7 @@
       "id": "https://www.trumpstruth.org/statuses/39103",
       "publishedAt": "2026-06-05T03:36:12.000Z",
       "title": "[No Title] - Post from June 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A man with slicked-back hair and a beard sits at an art table, using a pencil to draw a portrait of Donald Trump on white paper. The sketch shows Trump in a suit and tie, with the words “Greatest President” written beside it. Brushes, pencils, paint containers, and other art supplies surround the workspace, which is set outdoors near plants and a stone wall.",
       "url": "https://www.trumpstruth.org/statuses/39103",
       "raw": {
         "creator": "",
@@ -95,7 +94,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39103",
         "isoDate": "2026-06-05T03:36:12.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:55:44.577Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16614/c6e4c1f362068ede.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39104",
@@ -173,7 +176,7 @@
       "id": "https://www.trumpstruth.org/statuses/39108",
       "publishedAt": "2026-06-05T15:51:56.000Z",
       "title": "[No Title] - Post from June 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is a close-up portrait of Bruce Springsteen, showing him with a deeply lined, sun-reddened face, short gray hair, facial stubble, hoop earrings, and an open-collar shirt. He is smiling slightly with visible teeth. Large white text across the black upper portion reads, “What Happened to Bruce Springsteen?” A blurred crowd and bright outdoor background are visible behind him.",
       "url": "https://www.trumpstruth.org/statuses/39108",
       "raw": {
         "creator": "",
@@ -185,7 +188,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39108",
         "isoDate": "2026-06-05T15:51:56.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:55:40.539Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16616/1590c7afaa77cc7c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39110",
@@ -209,7 +216,7 @@
       "id": "https://www.trumpstruth.org/statuses/39109",
       "publishedAt": "2026-06-05T17:15:07.000Z",
       "title": "Very impressive. Proud of you! President DJT",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116698624343659358</span>Very impressive. Proud of you! President DJT</p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116698624343659358</span>Very impressive. Proud of you! President DJT</p>\n\n[Image] A screenshot of a post from Senator Rand Paul’s verified account, @SenRandPaul. The post says Republicans who campaigned on Donald Trump’s America First agenda should not work with Democrats to block a bill funding Immigration and Customs Enforcement and Border Patrol. Paul says he defeated an unrelated amendment and the funding passed.",
       "url": "https://www.trumpstruth.org/statuses/39109",
       "raw": {
         "creator": "",
@@ -221,13 +228,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116698624343659358Very impressive. Proud of you! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/39109",
         "isoDate": "2026-06-05T17:15:07.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:55:37.076Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16617/9d9911999191473d.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39113",
       "publishedAt": "2026-06-05T18:33:38.000Z",
       "title": "[No Title] - Post from June 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Two views show a large white-stone memorial with a central standing female figure, seated sculptural figures, and an eagle-topped pedestal. The first image shows the monument heavily covered in red and black graffiti, including pro-Palestinian messages, with a Palestinian flag draped over a statue. The second shows the clean monument beside a U.S. flag and fountain pool.",
       "url": "https://www.trumpstruth.org/statuses/39113",
       "raw": {
         "creator": "",
@@ -239,13 +250,18 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39113",
         "isoDate": "2026-06-05T18:33:38.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:55:34.580Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16621/c720493e37afd667.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16622/9af6260e2392c52d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39112",
       "publishedAt": "2026-06-05T18:33:51.000Z",
       "title": "[No Title] - Post from June 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The word “CLEAN” appears in large black letters above a white marble monument. The monument features classical sculptures, including a standing robed figure, a seated muscular figure, and a winged figure beside an ornate pedestal. A U.S. flag flies to the right, with blue sky and clouds behind it and a shallow pool in the foreground.",
       "url": "https://www.trumpstruth.org/statuses/39112",
       "raw": {
         "creator": "",
@@ -257,13 +273,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39112",
         "isoDate": "2026-06-05T18:33:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:55:30.383Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16620/f95193f19b7af96e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39111",
       "publishedAt": "2026-06-05T18:33:59.000Z",
       "title": "[No Title] - Post from June 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A split image labeled “COLUMBUS CIRCLE” compares two views of the monument. The left panel, labeled “Biden,” shows the statue covered in graffiti, including “HAMAS IS COM...” and other political slogans, with a Palestinian-colored cloth over part of the statue. The right panel, labeled “Trump,” shows the monument clean, with several people wearing hats in the foreground.",
       "url": "https://www.trumpstruth.org/statuses/39111",
       "raw": {
         "creator": "",
@@ -275,13 +295,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39111",
         "isoDate": "2026-06-05T18:33:59.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:55:26.756Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16619/4d30c4aededfa694.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39115",
       "publishedAt": "2026-06-05T18:36:55.000Z",
       "title": "[No Title] - Post from June 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Three views show the equestrian statue of Andrew Jackson in Lafayette Square, facing the White House in Washington, D.C. The first is a historical colorized image with cannons and the Washington Monument in the background. The second shows police near a graffitied pedestal and damaged cannon replicas during a protest. The third shows the statue and White House amid autumn foliage.",
       "url": "https://www.trumpstruth.org/statuses/39115",
       "raw": {
         "creator": "",
@@ -293,7 +317,13 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39115",
         "isoDate": "2026-06-05T18:36:55.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:55:22.501Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16624/2dc38c73febf5d4e.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16625/560b1ed5e7124998.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16626/d532a3c9c22bcdc7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39114",
@@ -317,7 +347,7 @@
       "id": "https://www.trumpstruth.org/statuses/39117",
       "publishedAt": "2026-06-05T18:40:26.000Z",
       "title": "[No Title] - Post from June 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116698954650603382</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116698954650603382</span></p>\n\n[Image] A screenshot of a post from the verified U.S. Department of the Interior account, @Interior. The post says water is flowing again at Washington, D.C.’s historic fountains, restoring public spaces ahead of America’s 250th anniversary. It says the work supports @POTUS’s efforts to keep the capital safe, beautiful, and ready for millions of visitors.",
       "url": "https://www.trumpstruth.org/statuses/39117",
       "raw": {
         "creator": "",
@@ -329,13 +359,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116698954650603382",
         "guid": "https://www.trumpstruth.org/statuses/39117",
         "isoDate": "2026-06-05T18:40:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:55:18.592Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16628/62034ee0d1aeb191.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39116",
       "publishedAt": "2026-06-05T18:40:44.000Z",
       "title": "[No Title] - Post from June 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116698960799135985</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116698960799135985</span></p>\n\n[Image] A social-media post from “Trump War Room” shows Donald Trump in the profile image and presents side-by-side photos of Meridian Hill Park in Washington, D.C. The left photo shows a dry, overgrown fountain area with cracked pavement, while the right shows flowing water, cleaned walkways, trees, and visitors. A second post from the U.S. Department of the Interior says historic Washington fountains are flowing again.",
       "url": "https://www.trumpstruth.org/statuses/39116",
       "raw": {
         "creator": "",
@@ -347,7 +381,12 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116698960799135985",
         "guid": "https://www.trumpstruth.org/statuses/39116",
         "isoDate": "2026-06-05T18:40:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:55:15.787Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16627/9e3fdb1cc246bdeb.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16628/62034ee0d1aeb191.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39118",
@@ -371,7 +410,7 @@
       "id": "https://www.trumpstruth.org/statuses/39119",
       "publishedAt": "2026-06-05T23:32:44.000Z",
       "title": "Eric Metaxas, a great guy, has written an incredible new book, “Revolution: The Birth of the Greatest Nation in the History of the World.” As we celebrate our Nation’s 250th Birthday, Eric honors the Faith, Wisdom, and Courage of the Great Patriots who sacrificed so much to secure our Independence. These stories of our shared past inspire us to build a future bigger, greater, and stronger than ever before. THE BEST IS YET TO COME! Get your copy today:",
-      "text": "<p>Eric Metaxas, a great guy, has written an incredible new book, “Revolution: The Birth of the Greatest Nation in the History of the World.” As we celebrate our Nation’s 250th Birthday, Eric honors the Faith, Wisdom, and Courage of the Great Patriots who sacrificed so much to secure our Independence. These stories of our shared past inspire us to build a future bigger, greater, and stronger than ever before. THE BEST IS YET TO COME!<br/> <br/>Get your copy today:<br/><a href=\"https://www.amazon.com/Revolution-Birth-Greatest-Nation-History/dp/1631440888\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">amazon.com/Revolution-Birth-Gr</span><span class=\"invisible\">eatest-Nation-History/dp/1631440888</span></a></p>",
+      "text": "<p>Eric Metaxas, a great guy, has written an incredible new book, “Revolution: The Birth of the Greatest Nation in the History of the World.” As we celebrate our Nation’s 250th Birthday, Eric honors the Faith, Wisdom, and Courage of the Great Patriots who sacrificed so much to secure our Independence. These stories of our shared past inspire us to build a future bigger, greater, and stronger than ever before. THE BEST IS YET TO COME!<br/> <br/>Get your copy today:<br/><a href=\"https://www.amazon.com/Revolution-Birth-Greatest-Nation-History/dp/1631440888\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">amazon.com/Revolution-Birth-Gr</span><span class=\"invisible\">eatest-Nation-History/dp/1631440888</span></a></p>\n\n[Image] A book cover titled “REVOLUTION” features a vintage-style American eagle with a shield, arrows, olive branch, and patriotic banners. The cover reads “The Birth of the Greatest Nation in the History of the World” and “1776 Supercentennial Edition! 2026.” It identifies Eric Metaxas as the author and mentions his bestselling book “Bonhoeffer.”",
       "url": "https://www.trumpstruth.org/statuses/39119",
       "raw": {
         "creator": "",
@@ -383,13 +422,17 @@
         "contentSnippet": "Eric Metaxas, a great guy, has written an incredible new book, “Revolution: The Birth of the Greatest Nation in the History of the World.” As we celebrate our Nation’s 250th Birthday, Eric honors the Faith, Wisdom, and Courage of the Great Patriots who sacrificed so much to secure our Independence. These stories of our shared past inspire us to build a future bigger, greater, and stronger than ever before. THE BEST IS YET TO COME!\n Get your copy today:\nhttps://www.amazon.com/Revolution-Birth-Greatest-Nation-History/dp/1631440888",
         "guid": "https://www.trumpstruth.org/statuses/39119",
         "isoDate": "2026-06-05T23:32:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:55:11.458Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16629/7a23a6864eeceba6.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39121",
       "publishedAt": "2026-06-05T23:37:44.000Z",
       "title": "Despite the best efforts of the America Hating Dumocrat Party, which did its very best to DESTROY the U.S.A. during the four long years of the Autopen Administration, over 172,000 AMERICANS found Jobs in the month of May alone! As usual, 100 PERCENT of Bloomberg Economists (who appear to be entering the \"Terminal\" stages of Trump Derangement Syndrome) underestimated our Economy. UNLIKE the phony California Election results, these numbers don't take months and months to \"trickle in\" (PASS THE SAVE AMERICA ACT!). They always say \"April showers bring May flowers.\" Well, here in the “HOTTEST” Country in the World, in both April AND May, IT'S RAINING JOBS! President DONALD J. TRUMP",
-      "text": "<p>Despite the best efforts of the America Hating Dumocrat Party, which did its very best to DESTROY the U.S.A. during the four long years of the Autopen Administration, over 172,000 AMERICANS found Jobs in the month of May alone! As usual, 100 PERCENT of Bloomberg Economists (who appear to be entering the \"Terminal\" stages of Trump Derangement Syndrome) underestimated our Economy. UNLIKE the phony California Election results, these numbers don't take months and months to \"trickle in\" (PASS THE SAVE AMERICA ACT!). They always say \"April showers bring May flowers.\" Well, here in the “HOTTEST” Country in the World, in both April AND May, IT'S RAINING JOBS! President DONALD J. TRUMP</p>",
+      "text": "<p>Despite the best efforts of the America Hating Dumocrat Party, which did its very best to DESTROY the U.S.A. during the four long years of the Autopen Administration, over 172,000 AMERICANS found Jobs in the month of May alone! As usual, 100 PERCENT of Bloomberg Economists (who appear to be entering the \"Terminal\" stages of Trump Derangement Syndrome) underestimated our Economy. UNLIKE the phony California Election results, these numbers don't take months and months to \"trickle in\" (PASS THE SAVE AMERICA ACT!). They always say \"April showers bring May flowers.\" Well, here in the “HOTTEST” Country in the World, in both April AND May, IT'S RAINING JOBS! President DONALD J. TRUMP</p>\n\n[Image] A bar chart titled “Job Growth Doubles Market Expectations in May” compares changes in nonfarm employment. The red “Actual” bar shows an increase of 172,000 jobs, while the blue “Expected” bar shows 85,000. The chart notes that the figures are based on a Council of Economic Advisers analysis of Bureau of Labor Statistics data.",
       "url": "https://www.trumpstruth.org/statuses/39121",
       "raw": {
         "creator": "",
@@ -401,7 +444,11 @@
         "contentSnippet": "Despite the best efforts of the America Hating Dumocrat Party, which did its very best to DESTROY the U.S.A. during the four long years of the Autopen Administration, over 172,000 AMERICANS found Jobs in the month of May alone! As usual, 100 PERCENT of Bloomberg Economists (who appear to be entering the \"Terminal\" stages of Trump Derangement Syndrome) underestimated our Economy. UNLIKE the phony California Election results, these numbers don't take months and months to \"trickle in\" (PASS THE SAVE AMERICA ACT!). They always say \"April showers bring May flowers.\" Well, here in the “HOTTEST” Country in the World, in both April AND May, IT'S RAINING JOBS! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/39121",
         "isoDate": "2026-06-05T23:37:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:55:06.927Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16630/7f05e25ae6b3138b.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39120",
@@ -555,5 +602,6 @@
       "rationale": "The text celebrates job growth and economic success, portraying a positive outlook on the economy despite political opposition.",
       "analyzedAt": "2026-09-05T08:34:14.277Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:22:055aa257c3cd3806cbd190c4"
 }

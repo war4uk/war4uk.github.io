@@ -6,27 +6,29 @@
     "negative": 1
   },
   "summary": "positive:1 neutral:3 negative:1",
-  "generatedAt": "2026-09-05T08:47:28.888Z",
+  "generatedAt": "2026-09-07T18:10:13.933Z",
   "topics": [
-    "Disaster Recovery and Assistance",
-    "Political Commentary and Controversies"
+    "Trump highlights restored beauty and clearer waters in Washington, D.C.",
+    "Trump cancels representatives’ trip to Islamabad for talks with Iranian officials",
+    "Warns failure to pass the SAVE AMERICA ACT will devastate a Senate party"
   ],
-  "trendingTopic": "I just cancelled the trip of my representatives going is Islamabad, Pakistan, to meet with the Iranians",
+  "trendingTopic": "Trump highlights restored beauty and clearer waters in Washington, D.C., while defending Lafayette Park renovations",
   "secondaryHighlights": [
     {
-      "topic": "Save America Act"
+      "topic": "Trump cancels representatives’ trip to Islamabad for talks with Iranian officials"
     },
     {
-      "topic": "Once again, The Failing New York Times has attempted to grossly mischaracterize what should be hailed as the restoration of Beauty and Grandeur to our Nation’s Capital as something else completely."
+      "topic": "Warns failure to pass the SAVE AMERICA ACT will devastate a Senate party"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:5:f72d0e1fd99b68416333d31b",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38051",
       "publishedAt": "2026-04-25T13:20:50.000Z",
       "title": "[No Title] - Post from April 25, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A side-by-side comparison shows the Washington Monument viewed from the Lincoln Memorial Reflecting Pool under a partly cloudy sky. The left panel is labeled “Hussein Obama” and shows murky, greenish water, while the right is labeled “Trump” and shows clear blue water. Trees, walkways, and small birds appear in both panels.",
       "url": "https://www.trumpstruth.org/statuses/38051",
       "raw": {
         "creator": "",
@@ -38,7 +40,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38051",
         "isoDate": "2026-04-25T13:20:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:04:49.666Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15991/3c0cb3c207ae53dd.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38052",
@@ -144,5 +150,6 @@
       "rationale": "The text praises the restoration of Lafayette Park and highlights successful improvements, indicating a positive sentiment.",
       "analyzedAt": "2026-09-05T08:47:28.882Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:5:f72d0e1fd99b68416333d31b"
 }

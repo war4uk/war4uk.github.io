@@ -6,33 +6,29 @@
     "negative": 6
   },
   "summary": "positive:4 neutral:14 negative:6",
-  "generatedAt": "2026-09-05T08:31:45.780Z",
+  "generatedAt": "2026-09-07T18:21:22.252Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Trump celebrates a Texas primary sweep and a 100% win rate for endorsed candidates",
+    "Reports allege sexual abuse and arrests in Iranian prisons during the ceasefire",
+    "Trump touts falling food prices, including a claimed 90% drop in egg prices"
   ],
-  "trendingTopic": "A Crooked Politician!!! RT @realDonaldTrumpA Crooked Politician!!!",
+  "trendingTopic": "Trump celebrates sweeping Texas primary victories and a 100% win rate for endorsed candidates",
   "secondaryHighlights": [
     {
-      "topic": "Congratulations to Ken Paxton on such a tremendous win, and to John Cornyn for having run a strong and powerful race but, more importantly, having had a truly great career.",
-      "name": "John Cornyn"
+      "topic": "Reports allege sexual abuse and arrests in Iranian prisons during the ceasefire"
     },
     {
-      "topic": "Joe Biden sues DOJ to stop release of audio recordings connected to special counsel probe",
-      "name": "Joe Biden"
-    },
-    {
-      "topic": "I am pleased to announce the nomination of Matthew Byrne to serve as Judge on the U.S. District Court for the Southern District of Ohio.",
-      "name": "Matthew Byrne"
+      "topic": "Trump touts falling food prices, including a claimed 90% drop in egg prices"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 9,
+  "topicsCacheKey": "day-themes-v10:24:058f37fc74a54e3e81a45649",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38816",
       "publishedAt": "2026-05-27T00:49:49.000Z",
       "title": "[No Title] - Post from May 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “Republican Nominee for TX-38 Jon Bonck Wins!” and says he is endorsed by President Donald Trump. Portraits of Donald Trump and Jon Bonck appear against a blue-to-red gradient background. A “Trump Vance” logo with the slogan “Make America Great Again!” is displayed at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38816",
       "raw": {
         "creator": "",
@@ -44,13 +40,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38816",
         "isoDate": "2026-05-27T00:49:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:47:47.144Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16447/e082160ae8640ea7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38815",
       "publishedAt": "2026-05-27T00:50:00.000Z",
       "title": "[No Title] - Post from May 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic announces Alex Mealer as the Republican nominee for Texas’s 9th Congressional District and declares that she wins. It features portraits of Alex Mealer and Donald Trump, with text stating that Mealer is endorsed by President Trump. A Trump-Vance logo and “Make America Great Again!” slogan appear at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38815",
       "raw": {
         "creator": "",
@@ -62,13 +62,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38815",
         "isoDate": "2026-05-27T00:50:00.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:47:44.218Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16446/4092870d0bf2caec.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38817",
       "publishedAt": "2026-05-27T01:02:15.000Z",
       "title": "[No Title] - Post from May 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political graphic features portraits of Donald Trump and Ken Paxton, identified as the Republican nominee for U.S. senator from Texas. Large text announces “KEN PAXTON WINS!” and says he was endorsed by President Trump. Both men wear suits and ties against a blue-to-red gradient background, with a “Trump Vance” campaign logo at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38817",
       "raw": {
         "creator": "",
@@ -80,7 +84,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38817",
         "isoDate": "2026-05-27T01:02:15.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:47:41.429Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16448/f5e5fa7fbcbe757e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38820",
@@ -122,7 +130,7 @@
       "id": "https://www.trumpstruth.org/statuses/38822",
       "publishedAt": "2026-05-27T02:33:29.000Z",
       "title": "[No Title] - Post from May 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political campaign graphic reads “Republican Nominee for TX-35 Carlos De La Cruz Wins!” and “Endorsed by President Trump!” It shows portraits of Donald Trump, wearing a suit and blue tie, and Carlos De La Cruz, wearing a suit and open-collar shirt. A Trump-Vance logo with the slogan “Make America Great Again!” appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38822",
       "raw": {
         "creator": "",
@@ -134,13 +142,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38822",
         "isoDate": "2026-05-27T02:33:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:47:37.979Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16450/6af85c3f606e6296.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38821",
       "publishedAt": "2026-05-27T02:33:40.000Z",
       "title": "[No Title] - Post from May 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political graphic featuring Donald Trump’s portrait inside a red circle with a large green check mark. Text reads “May 26th Election Recap: 4 Wins - 0 Losses,” “President Trump Endorsements 100%,” and “4-0 Texas” beside a white Texas state silhouette. A “Trump Vance” logo appears at the bottom with the slogan “Make America Great Again!”",
       "url": "https://www.trumpstruth.org/statuses/38821",
       "raw": {
         "creator": "",
@@ -152,7 +164,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38821",
         "isoDate": "2026-05-27T02:33:40.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:47:34.976Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16449/d28f9a8e920ef5e0.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38818",
@@ -212,7 +228,7 @@
       "id": "https://www.trumpstruth.org/statuses/38827",
       "publishedAt": "2026-05-27T12:07:06.000Z",
       "title": "[No Title] - Post from May 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A Fox News-style studio graphic features a portrait of Donald Trump beside a “Trump Endorsement Tracker” for the 2026 primary season. The table reports that candidates endorsed by Trump won 9 U.S. Senate races, 101 U.S. House races, and 8 governor’s races. Red, white, and blue panels and star symbols frame the display.",
       "url": "https://www.trumpstruth.org/statuses/38827",
       "raw": {
         "creator": "",
@@ -224,13 +240,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38827",
         "isoDate": "2026-05-27T12:07:06.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:47:31.092Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16453/94d7780c1dad8ff7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38826",
       "publishedAt": "2026-05-27T12:07:16.000Z",
       "title": "[No Title] - Post from May 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A television screen displays a “Trump Endorsement Tracker” for the 2026 primaries. It lists Donald Trump’s endorsements in U.S. Senate, U.S. House, and governor races, showing eight Senate endorsements, 101 House endorsements, and eight governor endorsements. Each category records a 100% success rate.",
       "url": "https://www.trumpstruth.org/statuses/38826",
       "raw": {
         "creator": "",
@@ -242,13 +262,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38826",
         "isoDate": "2026-05-27T12:07:16.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:47:27.910Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16452/5412faefeff7554b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38825",
       "publishedAt": "2026-05-27T12:08:43.000Z",
       "title": "[No Title] - Post from May 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a Jerusalem Post Instagram post displays the headline “Sexual abuse in Iran prisons surges during ceasefire.” The caption reports allegations of rape, abuse, and arrests of Iranian human-rights activists. Below the headline are three side-by-side portraits of women, with the Jerusalem Post logo over the right image. Instagram interface elements and engagement counts are visible.",
       "url": "https://www.trumpstruth.org/statuses/38825",
       "raw": {
         "creator": "",
@@ -260,7 +284,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38825",
         "isoDate": "2026-05-27T12:08:43.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:47:25.631Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16451/d2729f60883fcad5.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38828",
@@ -284,7 +312,7 @@
       "id": "https://www.trumpstruth.org/statuses/38830",
       "publishedAt": "2026-05-27T14:22:34.000Z",
       "title": "[No Title] - Post from May 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A satirical graphic displays the headline “CNN: Iran’s Navy is STRONG,” followed by “Meanwhile... in the BOTTOM OF THE OCEAN:”. The underwater illustration shows numerous small naval vessels scattered across the seafloor, many flying Iranian flags. Sunbeams filter through the blue water, with coral, rocks, fish, and marine plants visible around the boats.",
       "url": "https://www.trumpstruth.org/statuses/38830",
       "raw": {
         "creator": "",
@@ -296,13 +324,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38830",
         "isoDate": "2026-05-27T14:22:34.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:47:22.243Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16455/7812dc46b98c030b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38829",
       "publishedAt": "2026-05-27T14:22:48.000Z",
       "title": "[No Title] - Post from May 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic titled “Aced Cognitive Tests” shows portraits of Barack Obama, Joe Biden, and Donald Trump in three vertical panels. Obama and Biden are marked with red circles containing white Xs and scored 0, while Donald Trump is marked with a green check and scored 3. The panels use red, white, and blue backgrounds.",
       "url": "https://www.trumpstruth.org/statuses/38829",
       "raw": {
         "creator": "",
@@ -314,13 +346,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38829",
         "isoDate": "2026-05-27T14:22:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:47:19.450Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16454/2eaf32c316ee0873.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38833",
       "publishedAt": "2026-05-27T14:30:20.000Z",
       "title": "This Weak on Crime, Open Borders Dumocrat, can never be allowed to represent the Great People of Texas. His “values” are the exact opposite!!! President DJT",
-      "text": "<p>This Weak on Crime, Open Borders Dumocrat, can never be allowed to represent the Great People of Texas. His “values” are the exact opposite!!! President DJT</p>",
+      "text": "<p>This Weak on Crime, Open Borders Dumocrat, can never be allowed to represent the Great People of Texas. His “values” are the exact opposite!!! President DJT</p>\n\n[Image] The image is a side-by-side comparison labeled “Alfred E. Neuman.” On the left is the illustrated Mad magazine mascot, shown with reddish hair, large ears, freckles, and a gap-toothed grin. On the right is a close-up photograph of a young man with short dark hair and a similar broad smile, presented against an out-of-focus outdoor background.",
       "url": "https://www.trumpstruth.org/statuses/38833",
       "raw": {
         "creator": "",
@@ -332,13 +368,17 @@
         "contentSnippet": "This Weak on Crime, Open Borders Dumocrat, can never be allowed to represent the Great People of Texas. His “values” are the exact opposite!!! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/38833",
         "isoDate": "2026-05-27T14:30:20.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:47:16.676Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16458/d230c9d04149faae.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38832",
       "publishedAt": "2026-05-27T14:32:04.000Z",
       "title": "[No Title] - Post from May 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A Fox News broadcast shows a male anchor in a blue suit beside a screen titled “Trump Endorsement Tracker,” listing endorsements and 100% win rates for U.S. Senate, U.S. House, and governor races. The lower-third reports that the Associated Press projects Ken Paxton wins the Texas GOP Senate primary runoff, with results showing Allred ahead of Johnson.",
       "url": "https://www.trumpstruth.org/statuses/38832",
       "raw": {
         "creator": "",
@@ -350,13 +390,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38832",
         "isoDate": "2026-05-27T14:32:04.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:47:11.562Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16457/b2e8a65d2b506005.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38831",
       "publishedAt": "2026-05-27T14:34:03.000Z",
       "title": "[No Title] - Post from May 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A Fox News-style graphic titled “Trump Endorsement Tracker” presents Donald Trump’s record during the 2026 primary season. It shows endorsements and wins matching in each category: U.S. Senate, 9 and 9; U.S. House, 101 and 101; and governor, 8 and 8. A portrait of Trump appears on the left, with patriotic red, white, and blue graphics.",
       "url": "https://www.trumpstruth.org/statuses/38831",
       "raw": {
         "creator": "",
@@ -368,7 +412,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38831",
         "isoDate": "2026-05-27T14:34:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:47:07.929Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16456/01cf8cb6ae52fba3.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38834",
@@ -392,7 +440,7 @@
       "id": "https://www.trumpstruth.org/statuses/38835",
       "publishedAt": "2026-05-27T17:47:35.000Z",
       "title": "[No Title] - Post from May 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic headed “TRUMP’S MAKING FOOD AFFORDABLE” presents Donald Trump alongside claimed price reductions for common foods. It lists avocados at -19%, fresh berries and butter at -13%, oatmeal at -4.8%, chicken breast at -2.4%, eggs at -90%, cheese at -5.6%, olive oil at -16%, and grapes at -3%. A source line cites USDA Economic Research Service data.",
       "url": "https://www.trumpstruth.org/statuses/38835",
       "raw": {
         "creator": "",
@@ -404,7 +452,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38835",
         "isoDate": "2026-05-27T17:47:35.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:47:05.197Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16459/7bfdb19653e4a878.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38836",
@@ -606,5 +658,6 @@
       "rationale": "The text expresses strong support for Prime Minister Nikol Pashinyan and highlights positive developments for Armenia and the U.S., indicating a hopeful and optimistic sentiment.",
       "analyzedAt": "2026-09-05T08:31:45.777Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:24:058f37fc74a54e3e81a45649"
 }

@@ -6,26 +6,23 @@
     "negative": 2
   },
   "summary": "positive:10 neutral:3 negative:2",
-  "generatedAt": "2026-09-05T08:46:23.661Z",
+  "generatedAt": "2026-09-07T18:08:30.735Z",
   "topics": [
-    "Political Commentary and Controversies",
-    "Economic Growth and Job Creation",
-    "Disaster Recovery and Assistance"
+    "Trump claims major victories in the Iran war and says a new nuclear deal will surpass the JCPOA",
+    "Retail sales and housing data indicate a resilient consumer and strong Trump economy",
+    "Trump shares photos honoring and meeting a highly decorated military veteran"
   ],
-  "trendingTopic": "The Democrats are doing everything possible to hurt the very strong position we are in with respect to Iran.",
+  "trendingTopic": "Trump claims major victories in Iran war and says a new nuclear deal will surpass the JCPOA",
   "secondaryHighlights": [
     {
-      "topic": "The DEAL that we are making with Iran will be FAR BETTER than the JCPOA, commonly referred to as “The Iran Nuclear Deal,” penned by Barack Hussein Obama and Sleepy Joe Biden, one of the Worst Deals ever made having to do with the Security of our Country.",
-      "name": "Joe Biden"
+      "topic": "Retail sales and housing data indicate a resilient consumer and strong Trump economy"
     },
     {
-      "topic": "I’m winning a War, BY A LOT, things are going very well, our Military has been amazing and, if you read the Fake News, like The Failing New York Times, the absolutely horrendous and disgusting Wall Street Journal, or the now almost defunct, fortunately, Washington Post, you would actually think we are losing the War."
-    },
-    {
-      "topic": "The Iranian leadership has forced hundreds of Ships toward the United States, mostly Texas, Louisiana, and Alaska, to get their Oil — Thank you very much!"
+      "topic": "Trump shares photos honoring and meeting a highly decorated military veteran"
     }
   ],
-  "selfPraiseCount": 2,
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v10:15:2e651ebd076698118ca55a50",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37933",
@@ -175,7 +172,7 @@
       "id": "https://www.trumpstruth.org/statuses/37946",
       "publishedAt": "2026-04-20T19:00:47.000Z",
       "title": "[No Title] - Post from April 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump sits behind the Resolute Desk in the Oval Office beside an elderly uniformed military veteran wearing medals and holding a framed award. American and presidential flags, framed photographs, telephones, documents, and presentation boxes are visible around the desk. Trump wears a dark suit, white shirt, and red tie.",
       "url": "https://www.trumpstruth.org/statuses/37946",
       "raw": {
         "creator": "",
@@ -187,13 +184,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37946",
         "isoDate": "2026-04-20T19:00:47.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:02:12.230Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15933/8a68cf759fdd0e34.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37945",
       "publishedAt": "2026-04-20T19:01:00.000Z",
       "title": "[No Title] - Post from April 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands beside an elderly, highly decorated military officer in a dark dress uniform and white service cap. Trump wears a navy suit with a red tie and gives a thumbs-up. They pose inside an aircraft cabin or office, with wood-paneled walls, a large Air Force emblem, and a leather seat in the foreground. The officer wears numerous medals and ribbons.",
       "url": "https://www.trumpstruth.org/statuses/37945",
       "raw": {
         "creator": "",
@@ -205,13 +206,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37945",
         "isoDate": "2026-04-20T19:01:00.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:02:09.784Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15932/9d0021d589ea13f1.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37944",
       "publishedAt": "2026-04-20T19:01:15.000Z",
       "title": "[No Title] - Post from April 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands outdoors beside a vintage military jeep and a U.S. flag. He wears a dark navy suit with a red tie and faces an elderly military veteran in a decorated black uniform, white service cap, and blue trousers. The veteran gestures while speaking. Trees, lawn, and a paved driveway surround the scene.",
       "url": "https://www.trumpstruth.org/statuses/37944",
       "raw": {
         "creator": "",
@@ -223,7 +228,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/37944",
         "isoDate": "2026-04-20T19:01:15.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:02:05.522Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15931/7e0e9b18fd2a5732.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/37943",
@@ -389,5 +398,6 @@
       "rationale": "The text is empty and does not convey any sentiment.",
       "analyzedAt": "2026-09-05T08:46:23.659Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:15:2e651ebd076698118ca55a50"
 }

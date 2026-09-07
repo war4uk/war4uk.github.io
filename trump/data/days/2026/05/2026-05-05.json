@@ -6,27 +6,26 @@
     "negative": 1
   },
   "summary": "positive:17 neutral:2 negative:1",
-  "generatedAt": "2026-09-05T08:26:33.480Z",
+  "generatedAt": "2026-09-07T18:13:15.152Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Endorses and praises Ohio candidates and congressional incumbents across statewide and House races",
+    "Unveils official logo for Donald J. Trump International Airport in Palm Beach",
+    "Supports Indiana Senate candidates challenging established Republicans"
   ],
-  "trendingTopic": "Congressman Max Miller is a fantastic Champion for the Great People of Ohio’s 1st Congressional District!",
+  "trendingTopic": "Endorses and praises Ohio candidates and congressional incumbents across statewide and House races",
   "secondaryHighlights": [
     {
-      "topic": "Jon Husted is doing an incredible job as Senator for the Great State of Ohio!",
-      "name": "Jon Husted"
+      "topic": "Unveils official logo for Donald J. Trump International Airport in Palm Beach"
     },
     {
-      "topic": "Congressman Mike Carey is a Fantastic Advocate for Ohio’s 15th Congressional District!",
-      "name": "Mike Carey"
+      "topic": "Supports Indiana Senate candidates challenging established Republicans"
     },
     {
-      "topic": "Vivek Ramaswamy is running for Governor of the Great State of Ohio, a place I love and WON BIG, THREE TIMES, in 2016, 2020, and 2024!",
-      "name": "Vivek Ramaswamy"
+      "topic": "Reports military success against Iran and progress toward a final agreement"
     }
   ],
-  "selfPraiseCount": 1,
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v10:20:b9def356136aa4a878b2a5a7",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38192",
@@ -284,7 +283,7 @@
       "id": "https://www.trumpstruth.org/statuses/38207",
       "publishedAt": "2026-05-05T19:43:59.000Z",
       "title": "For the first time, I am extremely proud to share the OFFICIAL logo for the Donald J. Trump International Airport in Palm Beach, Florida. There is no person more deserving of this incredible honor than @realDonaldTrump! Congratulations Dad! Looking forward to seeing flights landing at “DJT” very very soon! 🇺🇸🛬",
-      "text": "<p>For the first time, I am extremely proud to share the OFFICIAL logo for the Donald J. Trump International Airport in Palm Beach, Florida. There is no person more deserving of this incredible honor than <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>! Congratulations Dad! </p><p>Looking forward to seeing flights landing at “DJT” very very soon! 🇺🇸🛬</p>",
+      "text": "<p>For the first time, I am extremely proud to share the OFFICIAL logo for the Donald J. Trump International Airport in Palm Beach, Florida. There is no person more deserving of this incredible honor than <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>! Congratulations Dad! </p><p>Looking forward to seeing flights landing at “DJT” very very soon! 🇺🇸🛬</p>\n\n[Image] A white graphic displays a gold stylized eagle emblem with a shield, crossed branches, and stars. Large black text reads “PRESIDENT DONALD J. TRUMP,” followed by “INTERNATIONAL AIRPORT.” Additional gold stars and thin black lines decorate the lower portion of the design.",
       "url": "https://www.trumpstruth.org/statuses/38207",
       "raw": {
         "creator": "",
@@ -296,7 +295,11 @@
         "contentSnippet": "For the first time, I am extremely proud to share the OFFICIAL logo for the Donald J. Trump International Airport in Palm Beach, Florida. There is no person more deserving of this incredible honor than @realDonaldTrump! Congratulations Dad! \nLooking forward to seeing flights landing at “DJT” very very soon! 🇺🇸🛬",
         "guid": "https://www.trumpstruth.org/statuses/38207",
         "isoDate": "2026-05-05T19:43:59.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:30:40.697Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16073/628d9080a238756a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38208",
@@ -320,7 +323,7 @@
       "id": "https://www.trumpstruth.org/statuses/38206",
       "publishedAt": "2026-05-05T19:46:59.000Z",
       "title": "RT @EricTrumpFor the first time, I am extremely proud to share the OFFICIAL logo for the Donald J. Trump International Airport in Palm Beach, Florida. There is no person more deserving of this incredible honor than @realDonaldTrump! Congratulations Dad! Looking forward to seeing flights landing at “DJT” very very soon! 🇺🇸🛬",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@EricTrump\" class=\"u-url mention\">@<span>EricTrump</span></a></span>For the first time, I am extremely proud to share the OFFICIAL logo for the Donald J. Trump International Airport in Palm Beach, Florida. There is no person more deserving of this incredible honor than <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>! Congratulations Dad! </p><p>Looking forward to seeing flights landing at “DJT” very very soon! 🇺🇸🛬</p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@EricTrump\" class=\"u-url mention\">@<span>EricTrump</span></a></span>For the first time, I am extremely proud to share the OFFICIAL logo for the Donald J. Trump International Airport in Palm Beach, Florida. There is no person more deserving of this incredible honor than <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>! Congratulations Dad! </p><p>Looking forward to seeing flights landing at “DJT” very very soon! 🇺🇸🛬</p>\n\n[Image] A white graphic displays a stylized gold eagle and stars above the words “PRESIDENT DONALD J. TRUMP INTERNATIONAL AIRPORT.” Gold stars and thin black lines decorate the design, which resembles a proposed or satirical airport sign. No people are pictured.",
       "url": "https://www.trumpstruth.org/statuses/38206",
       "raw": {
         "creator": "",
@@ -332,13 +335,17 @@
         "contentSnippet": "RT @EricTrumpFor the first time, I am extremely proud to share the OFFICIAL logo for the Donald J. Trump International Airport in Palm Beach, Florida. There is no person more deserving of this incredible honor than @realDonaldTrump! Congratulations Dad! \nLooking forward to seeing flights landing at “DJT” very very soon! 🇺🇸🛬",
         "guid": "https://www.trumpstruth.org/statuses/38206",
         "isoDate": "2026-05-05T19:46:59.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:30:37.196Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16073/628d9080a238756a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38209",
       "publishedAt": "2026-05-05T19:52:53.000Z",
       "title": "[No Title] - Post from May 5, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic displays the acronym “NICE” in large navy-blue letters, with the words “National Immigration and Customs Enforcement” beneath it. Above the text is a stylized bald eagle with outstretched gold-and-black wings, a shield, an olive branch, and arrows. Gold stars and horizontal lines decorate the white background.",
       "url": "https://www.trumpstruth.org/statuses/38209",
       "raw": {
         "creator": "",
@@ -350,13 +357,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38209",
         "isoDate": "2026-05-05T19:52:53.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:30:34.706Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16074/393dd115a446972a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39970",
       "publishedAt": "2026-05-05T22:41:57.000Z",
       "title": "Voters favor 56% to 28% requiring citizenship and voter ID over protecting the filibuster @realDonaldTrump is right Senate Republicans need to get this done to protect our elections @DanScavino @DevinNunes @StevenCheung",
-      "text": "<p>Voters favor 56% to 28% requiring citizenship and voter ID over protecting the filibuster <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span> is right Senate Republicans need to get this done to protect our elections <span class=\"h-card\"><a href=\"https://truthsocial.com/@DanScavino\" class=\"u-url mention\">@<span>DanScavino</span></a></span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@DevinNunes\" class=\"u-url mention\">@<span>DevinNunes</span></a></span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@StevenCheung\" class=\"u-url mention\">@<span>StevenCheung</span></a></span></p>",
+      "text": "<p>Voters favor 56% to 28% requiring citizenship and voter ID over protecting the filibuster <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span> is right Senate Republicans need to get this done to protect our elections <span class=\"h-card\"><a href=\"https://truthsocial.com/@DanScavino\" class=\"u-url mention\">@<span>DanScavino</span></a></span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@DevinNunes\" class=\"u-url mention\">@<span>DevinNunes</span></a></span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@StevenCheung\" class=\"u-url mention\">@<span>StevenCheung</span></a></span></p>\n\n[Image] A survey chart asks which issue is more important in deciding votes for the U.S. Senate and Congress: requiring voter ID and restricting federal voting to U.S. citizens, or protecting the Senate filibuster. Nationally, 56% choose voter ID, 28% choose protecting the filibuster, and 16% do not know. A table breaks results down by region, party, 2024 vote, and demographics.",
       "url": "https://www.trumpstruth.org/statuses/39970",
       "raw": {
         "creator": "",
@@ -368,7 +379,11 @@
         "contentSnippet": "Voters favor 56% to 28% requiring citizenship and voter ID over protecting the filibuster @realDonaldTrump is right Senate Republicans need to get this done to protect our elections @DanScavino @DevinNunes @StevenCheung",
         "guid": "https://www.trumpstruth.org/statuses/39970",
         "isoDate": "2026-05-05T22:41:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:30:31.848Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17124/f50456fdabae2107.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38210",
@@ -510,5 +525,6 @@
       "rationale": "The text indicates voter support for a policy and aligns with the endorsement of Senate Republicans, suggesting a positive sentiment towards election integrity.",
       "analyzedAt": "2026-09-05T08:26:33.478Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:20:b9def356136aa4a878b2a5a7"
 }

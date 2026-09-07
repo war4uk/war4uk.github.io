@@ -6,25 +6,28 @@
     "negative": 2
   },
   "summary": "positive:3 neutral:67 negative:2",
-  "generatedAt": "2026-09-05T08:28:12.334Z",
+  "generatedAt": "2026-09-07T18:16:02.460Z",
   "topics": [
-    "Disaster Recovery and Assistance",
-    "Economic Growth and Job Creation",
-    "Political Commentary and Controversies"
+    "Accuses Barack Obama and allies of orchestrating surveillance and the Russia investigation against Trump",
+    "Claims election-machine fraud and unsigned Fulton County ballots prove the 2020 election was stolen",
+    "Depicts U.S. attacks on Iranian forces while denouncing reports that Iran is winning"
   ],
-  "trendingTopic": "They are working hard!",
+  "trendingTopic": "Posts accuse Barack Obama and allies of orchestrating surveillance and the Russia investigation against Trump",
   "secondaryHighlights": [
     {
-      "topic": "No Republican has ever spoken to me about Cuba, which is a failed country and only heading in one direction - down!"
+      "topic": "Alleges Obama-era officials shielded Hillary Clinton in her private-email case",
+      "name": "Hillary Clinton"
     },
     {
-      "topic": "I want to thank Dr. Marty Makary for having done a great job at the FDA. So much was accomplished under his leadership."
+      "topic": "Marty Makary resigns as FDA commissioner after touting agency reforms",
+      "name": "Marty Makary"
     },
     {
-      "topic": "When the Fake News says that the Iranian enemy is doing well, Militarily, against us, it’s virtual TREASON in that it is such a false, and even preposterous, statement."
+      "topic": "Posts celebrate Donald Trump-linked S&P 500 records above 7,300"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 8,
+  "topicsCacheKey": "day-themes-v10:72:c4e560802bb89290fbf4ce94",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38362",
@@ -48,7 +51,7 @@
       "id": "https://www.trumpstruth.org/statuses/38361",
       "publishedAt": "2026-05-12T02:15:03.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559188641047953</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559188641047953</span></p>\n\n[Image] A screenshot of an America First Now post on X claims that 20 CIA and FBI whistleblowers exposed a “coup plot” involving Barack Obama and former CIA Director John Brennan. The post alleges they fabricated the Russia investigation to undermine Donald Trump, calls it treason, and demands prosecutions, ending with “Trump was right all along.”",
       "url": "https://www.trumpstruth.org/statuses/38361",
       "raw": {
         "creator": "",
@@ -60,7 +63,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559188641047953",
         "guid": "https://www.trumpstruth.org/statuses/38361",
         "isoDate": "2026-05-12T02:15:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:37:12.387Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16153/7bb6cf4b06fb0078.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38366",
@@ -84,7 +91,7 @@
       "id": "https://www.trumpstruth.org/statuses/38365",
       "publishedAt": "2026-05-12T02:15:34.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559191592433637</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559191592433637</span></p>\n\n[Image] A screenshot of a post from the verified-looking “FAN TRUMP ARMY” account, labeled as a fan account. The post claims that 20 CIA and FBI agents confirmed Barack Obama and a former CIA director fabricated the Russia investigation to undermine Donald Trump’s election. The text is accompanied by an explosion emoji and a small profile image of Donald Trump.",
       "url": "https://www.trumpstruth.org/statuses/38365",
       "raw": {
         "creator": "",
@@ -96,13 +103,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559191592433637",
         "guid": "https://www.trumpstruth.org/statuses/38365",
         "isoDate": "2026-05-12T02:15:34.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:37:09.474Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16157/91c7b9161bd7e4b7.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38364",
       "publishedAt": "2026-05-12T02:15:50.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559192697541893</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559192697541893</span></p>\n\n[Image] A screenshot shows two posts on a social-media platform. The first, from “Catturd,” says, “Arrest Obama the traitor.” The second, from “FAN TRUMP ARMY,” claims Barack Obama and a former CIA director fabricated the Russia investigation to discredit Donald Trump’s election, describing it as a “political nuke.”",
       "url": "https://www.trumpstruth.org/statuses/38364",
       "raw": {
         "creator": "",
@@ -114,7 +125,12 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559192697541893",
         "guid": "https://www.trumpstruth.org/statuses/38364",
         "isoDate": "2026-05-12T02:15:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:37:06.728Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16156/fdaeb16e97a47cfc.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16157/91c7b9161bd7e4b7.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38363",
@@ -138,7 +154,7 @@
       "id": "https://www.trumpstruth.org/statuses/38374",
       "publishedAt": "2026-05-12T02:22:16.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559203249761495</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559203249761495</span></p>\n\n[Image] A screenshot of a post by the verified account @Real_RobN displays text attributed to “Edison Research.” It claims that states using Dominion voting systems switched 435,000 votes from Donald Trump to Joe Biden, that Dominion deleted 2.7 million Trump votes nationwide, and that more than 1 million Pennsylvania votes were switched.",
       "url": "https://www.trumpstruth.org/statuses/38374",
       "raw": {
         "creator": "",
@@ -150,7 +166,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559203249761495",
         "guid": "https://www.trumpstruth.org/statuses/38374",
         "isoDate": "2026-05-12T02:22:16.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:37:03.433Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16166/97fbb5e32a841232.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38373",
@@ -174,7 +194,7 @@
       "id": "https://www.trumpstruth.org/statuses/38372",
       "publishedAt": "2026-05-12T02:22:49.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559220008333867</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559220008333867</span></p>\n\n[Image] A screenshot of a social media post by Lexie (@its_Lexieroy), featuring a profile photo and verification badge. The post claims Fulton County admitted 315,000 votes from 2020 had no poll-worker signatures, says Rudy Giuliani was fined $148 million for challenging the election, and asks whether his money should be refunded, with “YES” and “NO” choices.",
       "url": "https://www.trumpstruth.org/statuses/38372",
       "raw": {
         "creator": "",
@@ -186,13 +206,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559220008333867",
         "guid": "https://www.trumpstruth.org/statuses/38372",
         "isoDate": "2026-05-12T02:22:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:37:00.801Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16164/e7b2301b73c1f960.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38371",
       "publishedAt": "2026-05-12T02:23:08.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a social media post by Josh Dunlap claims that U.S. Senator John Kennedy is demanding Barack Obama return $120 million allegedly connected to ownership related to the Affordable Care Act. The post threatens a Justice Department review and includes a portrait of John Kennedy alongside two images of Barack Obama.",
       "url": "https://www.trumpstruth.org/statuses/38371",
       "raw": {
         "creator": "",
@@ -204,7 +228,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38371",
         "isoDate": "2026-05-12T02:23:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:36:57.900Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16163/5fdde6b83905d6b0.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38370",
@@ -246,7 +274,7 @@
       "id": "https://www.trumpstruth.org/statuses/38369",
       "publishedAt": "2026-05-12T02:23:47.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559222946047482</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559222946047482</span></p>\n\n[Image] A screenshot of a post from the verified X account The SCIF features the headline, “Sidney Powell blows the lid off of the stolen 2020 election. ‘There is so much evidence!’” The post alleges election-machine fraud involving Dominion, foreign connections, judges, district attorneys, and the CIA, presenting these claims as evidence of compromised election outcomes.",
       "url": "https://www.trumpstruth.org/statuses/38369",
       "raw": {
         "creator": "",
@@ -258,13 +286,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559222946047482",
         "guid": "https://www.trumpstruth.org/statuses/38369",
         "isoDate": "2026-05-12T02:23:47.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:36:54.971Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16161/2671f88829f1e715.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38367",
       "publishedAt": "2026-05-12T02:24:07.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559223384890432</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559223384890432</span></p>\n\n[Image] A screenshot of a post from the account “John F Kennedy Jr” (@John_F_K Jr) with a profile photo and verification badge. The post claims Barack Hussein Obama wiretapped Trump Tower during the 2016 election, compares it to Watergate, calls for arresting “the Renegade,” and says, “FOLLOW ME, THE NEXT DROP WILL BE SHOCKING.”",
       "url": "https://www.trumpstruth.org/statuses/38367",
       "raw": {
         "creator": "",
@@ -276,7 +308,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559223384890432",
         "guid": "https://www.trumpstruth.org/statuses/38367",
         "isoDate": "2026-05-12T02:24:07.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:36:51.717Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16159/493fa29d18e6d4dc.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38380",
@@ -300,7 +336,7 @@
       "id": "https://www.trumpstruth.org/statuses/38379",
       "publishedAt": "2026-05-12T02:27:39.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559238050447596</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559238050447596</span></p>\n\n[Image] A screenshot of an X post by Eric Daugherty (@EricLDaugh) claims that Sen. Mark Kelly should resign or face expulsion and criminal investigation over allegedly leaked classified briefings. It attributes comments to Defense Secretary Pete Hegseth and discusses weapons stockpiles, classified meetings, and moving interceptors from Europe to Ukraine.",
       "url": "https://www.trumpstruth.org/statuses/38379",
       "raw": {
         "creator": "",
@@ -312,7 +348,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559238050447596",
         "guid": "https://www.trumpstruth.org/statuses/38379",
         "isoDate": "2026-05-12T02:27:39.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:36:48.651Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16171/0e21e787f10540d3.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38378",
@@ -336,7 +376,7 @@
       "id": "https://www.trumpstruth.org/statuses/38377",
       "publishedAt": "2026-05-12T02:29:05.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559244826043931</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559244826043931</span></p>\n\n[Image] A screenshot of a Private Reports social media post features a “BOMBSHELL” headline attributed to DNI Tulsi Gabbard. The post claims Joe Biden and Kamala Harris were not in control, naming Hillary Clinton, Barack Obama, Antony Blinken, and Jake Sullivan as alleged decision-makers. It praises Donald Trump and asks whether the claims reflect treason or normal elite politics.",
       "url": "https://www.trumpstruth.org/statuses/38377",
       "raw": {
         "creator": "",
@@ -348,13 +388,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559244826043931",
         "guid": "https://www.trumpstruth.org/statuses/38377",
         "isoDate": "2026-05-12T02:29:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:36:45.338Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16169/5eedf4a88f5033c0.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38376",
       "publishedAt": "2026-05-12T02:29:30.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A social media post by @Chicago1Ray claims Sidney Powell was sentenced to six years of probation, fined $6,000, ordered to pay $2,700 in restitution, and required to apologize for challenging election results. It alleges Fulton County acknowledged 315,000 ballots lacked poll-worker signatures. Below, Sidney Powell speaks at a microphone with U.S. flags behind her.",
       "url": "https://www.trumpstruth.org/statuses/38376",
       "raw": {
         "creator": "",
@@ -366,7 +410,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38376",
         "isoDate": "2026-05-12T02:29:30.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:36:42.179Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16168/260100e3d1e17b9c.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38375",
@@ -390,7 +438,7 @@
       "id": "https://www.trumpstruth.org/statuses/38384",
       "publishedAt": "2026-05-12T02:30:00.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559248387365513</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559248387365513</span></p>\n\n[Image] A screenshot of a post from the verified “Blue Lives Matter” account, featuring a text exchange between Maria Bartiromo and Congressman Ro Khanna. Bartiromo says ten presidents before Donald Trump opposed Iran having nuclear weapons, while Khanna credits Barack Obama with delivering on that goal. Bartiromo disputes this and calls for reposts, ending with hashtags.",
       "url": "https://www.trumpstruth.org/statuses/38384",
       "raw": {
         "creator": "",
@@ -402,13 +450,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559248387365513",
         "guid": "https://www.trumpstruth.org/statuses/38384",
         "isoDate": "2026-05-12T02:30:00.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:36:38.936Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16176/60b4e9fe4cb472cb.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38383",
       "publishedAt": "2026-05-12T02:30:20.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A social-media post by @mcucolo57 claims Democrats arrested a U.S. president and associates over fabricated allegations, and calls for Jack Smith to be imprisoned. The attached graphic shows Merrick Garland on the left and Jack Smith on the right against a black-and-red background. Large text reads, “LOCK HIM UP!” and says Jack Smith was “unconstitutionally appointed.”",
       "url": "https://www.trumpstruth.org/statuses/38383",
       "raw": {
         "creator": "",
@@ -420,7 +472,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38383",
         "isoDate": "2026-05-12T02:30:20.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:36:34.720Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16175/82cc798cdaf61013.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38382",
@@ -444,7 +500,7 @@
       "id": "https://www.trumpstruth.org/statuses/38381",
       "publishedAt": "2026-05-12T02:30:46.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559251571419395</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559251571419395</span></p>\n\n[Image] A screenshot of a post from the verified Wall Street Apes account claims that James Comey signed three of four FISA warrants involving surveillance of Donald Trump’s campaign under Barack Obama. It alleges FBI personnel knew most of the Steele dossier was not credible and says the dossier was orchestrated by Barack Obama and Hillary Clinton, ending with “Treason.”",
       "url": "https://www.trumpstruth.org/statuses/38381",
       "raw": {
         "creator": "",
@@ -456,7 +512,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559251571419395",
         "guid": "https://www.trumpstruth.org/statuses/38381",
         "isoDate": "2026-05-12T02:30:46.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:36:31.345Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16173/d267a2ba515be1de.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38389",
@@ -480,7 +540,7 @@
       "id": "https://www.trumpstruth.org/statuses/38388",
       "publishedAt": "2026-05-12T02:39:02.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559283950642943</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559283950642943</span></p>\n\n[Image] A screenshot of a social-media post by Medea Greere claims in sensational language that Hillary Clinton sold out America and that Barack Obama ordered a cover-up. The post alleges wrongdoing involving the DOJ, FBI, NYPD, and a private server, labels the claims “treason,” and directs readers to an AMg-News article, video source, and Telegram channel.",
       "url": "https://www.trumpstruth.org/statuses/38388",
       "raw": {
         "creator": "",
@@ -492,7 +552,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559283950642943",
         "guid": "https://www.trumpstruth.org/statuses/38388",
         "isoDate": "2026-05-12T02:39:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:36:27.332Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16180/2a5b2c8ef0adec0d.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38387",
@@ -516,7 +580,7 @@
       "id": "https://www.trumpstruth.org/statuses/38386",
       "publishedAt": "2026-05-12T02:39:44.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559285863740366</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559285863740366</span></p>\n\n[Image] A screenshot of a social-media post from the account “WATCHMAN🇺🇸” (@watchman_78), which has a blue verification badge. The post reads, “We should send her to Haiti!” followed by a downward-pointing finger emoji. The circular profile image appears to show an American flag and a document or handwritten text, but no person is clearly identifiable.",
       "url": "https://www.trumpstruth.org/statuses/38386",
       "raw": {
         "creator": "",
@@ -528,13 +592,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559285863740366",
         "guid": "https://www.trumpstruth.org/statuses/38386",
         "isoDate": "2026-05-12T02:39:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:36:24.540Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16178/f46d18d5b6ea5afd.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38385",
       "publishedAt": "2026-05-12T02:40:06.000Z",
       "title": "They are working hard!",
-      "text": "<p>They are working hard!</p>",
+      "text": "<p>They are working hard!</p>\n\n[Image] A screenshot of a social-media post from “Shelley” (@Shelley2021), whose profile includes a U.S. flag and an illustrated avatar. The post asks how much evidence of treason the Justice Department needs before making arrests, urges the DOJ to do better, and tags @TheJusticeDept and @DAGT... (Todd Blanche). It was posted at 10:13 PM on May 11, 2026.",
       "url": "https://www.trumpstruth.org/statuses/38385",
       "raw": {
         "creator": "",
@@ -546,13 +614,17 @@
         "contentSnippet": "They are working hard!",
         "guid": "https://www.trumpstruth.org/statuses/38385",
         "isoDate": "2026-05-12T02:40:06.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:36:21.918Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16177/a4277c270720b802.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38398",
       "publishedAt": "2026-05-12T02:40:24.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a social media post from “You Wish” (@YouWishUwere4US) reads: “They never ‘applied the law in a fair and equal way’ did they?” It asks when Attorney General Todd Blanche will indict her, then mentions Comey, Brennan, Hillary, and Obama, concluding, “It’s time we get to SEE JUSTICE!” The post is dated May 11, 2026.",
       "url": "https://www.trumpstruth.org/statuses/38398",
       "raw": {
         "creator": "",
@@ -564,7 +636,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38398",
         "isoDate": "2026-05-12T02:40:24.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:36:18.827Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16190/64a52052636b3d58.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38397",
@@ -588,7 +664,7 @@
       "id": "https://www.trumpstruth.org/statuses/38396",
       "publishedAt": "2026-05-12T02:40:53.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559291176181207</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559291176181207</span></p>\n\n[Image] A screenshot of a social media post by TaraBull reads, “This is why the convenience store chain ‘Wawa’ is closing stores one after another.” The post includes a circular profile photo, a verified badge, the handle @TaraBull, and a three-dot menu icon. No additional image or person is visible.",
       "url": "https://www.trumpstruth.org/statuses/38396",
       "raw": {
         "creator": "",
@@ -600,7 +676,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559291176181207",
         "guid": "https://www.trumpstruth.org/statuses/38396",
         "isoDate": "2026-05-12T02:40:53.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:36:15.633Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16188/fd888ab8786d08c8.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38395",
@@ -624,7 +704,7 @@
       "id": "https://www.trumpstruth.org/statuses/38394",
       "publishedAt": "2026-05-12T02:41:21.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559293173830138</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559293173830138</span></p>\n\n[Image] A screenshot of a social-media post from the account “Kitten” (@Kittenwaffin), whose profile picture shows a woman with long hair. The account name is flanked by gray heart icons and a blue verification badge, and it is marked with a theater-mask icon as a parody account. The post text reads, “Always scheming...”",
       "url": "https://www.trumpstruth.org/statuses/38394",
       "raw": {
         "creator": "",
@@ -636,7 +716,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559293173830138",
         "guid": "https://www.trumpstruth.org/statuses/38394",
         "isoDate": "2026-05-12T02:41:21.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:36:13.375Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16186/0b32633cce4f3cda.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38393",
@@ -660,7 +744,7 @@
       "id": "https://www.trumpstruth.org/statuses/38392",
       "publishedAt": "2026-05-12T02:41:49.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559294847353727</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559294847353727</span></p>\n\n[Image] A screenshot of a social-media post from the account RealRobert claims Barack Obama, CIA Director John Brennan, and FBI Director James Comey directed an operation to spy on Donald Trump and his 2016 campaign. The post alleges FBI infiltration and calls for arrests and prosecution, using a headline that describes the claims as larger than Watergate.",
       "url": "https://www.trumpstruth.org/statuses/38392",
       "raw": {
         "creator": "",
@@ -672,7 +756,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559294847353727",
         "guid": "https://www.trumpstruth.org/statuses/38392",
         "isoDate": "2026-05-12T02:41:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:36:03.126Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16184/62f0a05aac96f490.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38391",
@@ -696,7 +784,7 @@
       "id": "https://www.trumpstruth.org/statuses/38390",
       "publishedAt": "2026-05-12T02:42:14.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559296757619407</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559296757619407</span></p>\n\n[Image] A screenshot of a social media post from the verified account “Papageorgio” (@gecffmn). The post reads: “I wouldn’t call him a man! A real man would never disrespect another person like this. I’ll call him what he is, a POS!” A circular profile photo is shown beside the account name, with a three-dot menu in the upper right.",
       "url": "https://www.trumpstruth.org/statuses/38390",
       "raw": {
         "creator": "",
@@ -708,7 +796,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559296757619407",
         "guid": "https://www.trumpstruth.org/statuses/38390",
         "isoDate": "2026-05-12T02:42:14.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:35:59.903Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16182/d041fe731a3d7055.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38405",
@@ -732,7 +824,7 @@
       "id": "https://www.trumpstruth.org/statuses/38404",
       "publishedAt": "2026-05-12T02:47:16.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559316327648193</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559316327648193</span></p>\n\n[Image] A screenshot of a social media post by NanLee Marie Carissimi, whose verified account is @NanLee1124. The post reads, “FACT right here: ‘OBAMA is the most DEMONIC FORCE in American politics in decades.’” Three fire emojis and the tagged account @mrddmia appear below the quote.",
       "url": "https://www.trumpstruth.org/statuses/38404",
       "raw": {
         "creator": "",
@@ -744,7 +836,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559316327648193",
         "guid": "https://www.trumpstruth.org/statuses/38404",
         "isoDate": "2026-05-12T02:47:16.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:35:56.775Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16196/458f5f052adf2dd3.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38403",
@@ -768,7 +864,7 @@
       "id": "https://www.trumpstruth.org/statuses/38402",
       "publishedAt": "2026-05-12T02:47:50.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559318573932949</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559318573932949</span></p>\n\n[Image] A screenshot of a social media post from General Mike Flynn, showing his verified profile photo and handle @GenFlynn. The post claims the 2020 election was stolen, calls the president who served afterward “fake,” accuses corporate media of complicity, criticizes the phrase “election denier,” and demands accountability.",
       "url": "https://www.trumpstruth.org/statuses/38402",
       "raw": {
         "creator": "",
@@ -780,7 +876,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559318573932949",
         "guid": "https://www.trumpstruth.org/statuses/38402",
         "isoDate": "2026-05-12T02:47:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:35:53.928Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16194/2887a02489a09b80.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38401",
@@ -804,7 +904,7 @@
       "id": "https://www.trumpstruth.org/statuses/38400",
       "publishedAt": "2026-05-12T02:49:00.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559323120268816</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559323120268816</span></p>\n\n[Image] A screenshot of a social media post from “RealRobert” claims Dominion forensic images prove unauthorized remote access and database tampering in Antrim County, Michigan, during the 2020 election. It also alleges ballot markings were altered to cause errors and accuses officials, including Michigan Secretary of State Jocelyn Benson, of participating in a conspiracy.",
       "url": "https://www.trumpstruth.org/statuses/38400",
       "raw": {
         "creator": "",
@@ -816,7 +916,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559323120268816",
         "guid": "https://www.trumpstruth.org/statuses/38400",
         "isoDate": "2026-05-12T02:49:00.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:35:50.605Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16192/b9e1cb50954c52b3.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38399",
@@ -840,7 +944,7 @@
       "id": "https://www.trumpstruth.org/statuses/38408",
       "publishedAt": "2026-05-12T02:51:14.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559327976654295</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559327976654295</span></p>\n\n[Image] A screenshot of a post from the verified account “Charlie’s Voice Rising,” labeled a fan account. The post claims former CIA Director John Ratcliffe said Lisa Page acknowledged that Barack Obama’s Justice Department told the FBI not to consider charging Hillary Clinton over her classified email case. It questions whether favoritism influenced the outcome.",
       "url": "https://www.trumpstruth.org/statuses/38408",
       "raw": {
         "creator": "",
@@ -852,7 +956,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559327976654295",
         "guid": "https://www.trumpstruth.org/statuses/38408",
         "isoDate": "2026-05-12T02:51:14.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:35:47.554Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16200/e4e1e8c787d0283d.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38407",
@@ -876,7 +984,7 @@
       "id": "https://www.trumpstruth.org/statuses/38406",
       "publishedAt": "2026-05-12T02:53:01.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559333373865983</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559333373865983</span></p>\n\n[Image] A screenshot of a post from the account “Professor Iratus Genium” claims that declassified FBI files show Barack Obama lied about knowing Hillary Clinton used a private email server, and that he allegedly used it under a pseudonym. The post also alleges that James Comey avoided pursuing the matter to prevent implicating Obama.",
       "url": "https://www.trumpstruth.org/statuses/38406",
       "raw": {
         "creator": "",
@@ -888,7 +996,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559333373865983",
         "guid": "https://www.trumpstruth.org/statuses/38406",
         "isoDate": "2026-05-12T02:53:01.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:35:44.387Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16198/53c7a1811e48bca3.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38412",
@@ -912,7 +1024,7 @@
       "id": "https://www.trumpstruth.org/statuses/38411",
       "publishedAt": "2026-05-12T03:01:05.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559368204816398</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559368204816398</span></p>\n\n[Image] A screenshot of a social-media post by “Julie Donuts” reads, “FIRE VIDEO ABOUT OBAMA,” followed by fire emojis, and “These ladies are rockstars!” It embeds a post from Promethean Action claiming Barack Obama had a bad week, citing Keir Starmer’s party’s losses in UK local elections, a Virginia Supreme Court ruling, and a court decision on race-based redistricting.",
       "url": "https://www.trumpstruth.org/statuses/38411",
       "raw": {
         "creator": "",
@@ -924,7 +1036,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559368204816398",
         "guid": "https://www.trumpstruth.org/statuses/38411",
         "isoDate": "2026-05-12T03:01:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:35:41.551Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16203/ee5cd201c224e63d.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38410",
@@ -948,7 +1064,7 @@
       "id": "https://www.trumpstruth.org/statuses/38409",
       "publishedAt": "2026-05-12T03:03:54.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559381063637126</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559381063637126</span></p>\n\n[Image] A screenshot of an X post from the account “IRISH PATRIOT” (@irishpatriot91), showing a frog-themed profile image and verified badge. The post reads “300,000 Children” with a sad emoji, claims this is only the “tip of the iceberg” of women and children suffering globally, and refers to “THE GLOBALIST MIGRATION AGENDA,” listing Ireland, the UK, Europe, Australia, Canada, and others.",
       "url": "https://www.trumpstruth.org/statuses/38409",
       "raw": {
         "creator": "",
@@ -960,7 +1076,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559381063637126",
         "guid": "https://www.trumpstruth.org/statuses/38409",
         "isoDate": "2026-05-12T03:03:54.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:35:38.108Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16201/7ef373640c07f334.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38414",
@@ -984,7 +1104,7 @@
       "id": "https://www.trumpstruth.org/statuses/38413",
       "publishedAt": "2026-05-12T03:28:31.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559478528436720</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559478528436720</span></p>\n\n[Image] A screenshot of a social-media post by M.A. Rothman claims that a senior Democratic insider gave FBI agents a sworn account accusing former House Intelligence Committee chairman Adam Schiff of directing a classified-information leak intended to damage Donald Trump during the Russia investigation. The post discusses alleged whistleblower testimony and federal crimes.",
       "url": "https://www.trumpstruth.org/statuses/38413",
       "raw": {
         "creator": "",
@@ -996,7 +1116,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116559478528436720",
         "guid": "https://www.trumpstruth.org/statuses/38413",
         "isoDate": "2026-05-12T03:28:31.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:35:35.188Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16205/ab8ab6f6bed21133.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38421",
@@ -1020,7 +1144,7 @@
       "id": "https://www.trumpstruth.org/statuses/38420",
       "publishedAt": "2026-05-12T11:53:26.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A satirical image shows Barack Obama, Joe Biden, and Nancy Pelosi partially submerged in a littered, algae-covered reflecting pool, with the Washington Monument in the background. Large text at the top reads, “Dumacracts Love Sewage,” apparently misspelling “Democrats.”",
       "url": "https://www.trumpstruth.org/statuses/38420",
       "raw": {
         "creator": "",
@@ -1032,13 +1156,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38420",
         "isoDate": "2026-05-12T11:53:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:35:32.436Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16210/b789721ed2877534.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38419",
       "publishedAt": "2026-05-12T11:54:23.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A split-panel political graphic reads “159 IRANIAN SHIPS” at the top. The left panel, labeled “Obama/Biden,” shows numerous Iranian-flagged vessels sailing across the ocean. The right panel, labeled “Trump,” depicts similar vessels scattered underwater among wreckage and a damaged seafloor. The image presents a visual comparison involving Donald Trump.",
       "url": "https://www.trumpstruth.org/statuses/38419",
       "raw": {
         "creator": "",
@@ -1050,13 +1178,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38419",
         "isoDate": "2026-05-12T11:54:23.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:35:29.920Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16209/719d8ddca5893835.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38418",
       "publishedAt": "2026-05-12T11:54:31.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic announces “ANOTHER ALL TIME HIGH!” with a large green figure reading “7,401+.” It shows Donald Trump in a circular portrait beside a rising green line chart labeled “S&P 500,” spanning 1960 to 2026. The chart ends at the 7,401-plus mark, with a green dot emphasizing the endpoint.",
       "url": "https://www.trumpstruth.org/statuses/38418",
       "raw": {
         "creator": "",
@@ -1068,13 +1200,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38418",
         "isoDate": "2026-05-12T11:54:31.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:35:26.362Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16208/9bb98becfc2ec996.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38417",
       "publishedAt": "2026-05-12T11:54:50.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image shows front and back designs for a novelty $100 bill featuring Donald Trump. The front replaces the usual portrait with Trump’s face and includes “TRUMP2024,” a signature, and “Series 2024” markings. The reverse depicts Independence Hall with the words “God Bless Donald Trump.” The note is labeled not legal tender.",
       "url": "https://www.trumpstruth.org/statuses/38417",
       "raw": {
         "creator": "",
@@ -1086,13 +1222,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38417",
         "isoDate": "2026-05-12T11:54:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:35:24.110Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16207/1509b4143ebcba55.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38426",
       "publishedAt": "2026-05-12T11:55:23.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A caricature of Illinois Governor JB Pritzker shows him eating an oversized hamburger while holding a slice of pizza. A table is crowded with fried chicken, pasta topped with cheese, meatballs, garlic bread, loaded fries, a chili-cheese hot dog, and a large dessert drink. Red smoke fills the background, and text above reads, “JB is too busy to keep Chicago safe!”",
       "url": "https://www.trumpstruth.org/statuses/38426",
       "raw": {
         "creator": "",
@@ -1104,13 +1244,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38426",
         "isoDate": "2026-05-12T11:55:23.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:35:20.882Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16215/7443d587bedfff2a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38425",
       "publishedAt": "2026-05-12T11:55:48.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political meme labels Hakeem “Low IQ” Jeffries at the top. The left panel, titled “His District,” shows a grim, trash-filled urban street with graffiti, rubble, smoke, and rats. The right panel, titled “Him at Home,” depicts Jeffries in a suit before a large white-columned house resembling the White House, surrounded by stacks of cash.",
       "url": "https://www.trumpstruth.org/statuses/38425",
       "raw": {
         "creator": "",
@@ -1122,13 +1266,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38425",
         "isoDate": "2026-05-12T11:55:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:35:14.438Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16214/164af922d1db5335.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38424",
       "publishedAt": "2026-05-12T11:56:08.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic headline reads “TRUMP’S STOCK MARKET ALL TIME HIGH!” beside a large green box showing “7,300+.” A rising green S&P 500 line chart spans 1960 to 2026, with the endpoint highlighted near 2026. A circular portrait of Donald Trump is positioned above the chart, alongside a green upward arrow and dot.",
       "url": "https://www.trumpstruth.org/statuses/38424",
       "raw": {
         "creator": "",
@@ -1140,13 +1288,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38424",
         "isoDate": "2026-05-12T11:56:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:35:11.339Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16213/a580533f7a187526.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38423",
       "publishedAt": "2026-05-12T11:56:24.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “Length of Wars” compares U.S. conflicts by duration in weeks. It lists the Afghanistan War at 543 weeks, Iraq War at 457, Vietnam War at 439, U.S. Civil War at 209, World War II at 196, Korean War at 161, and War of 1812 at 139. A red-outlined entry at the bottom reads “Iran Excursion | 6.”",
       "url": "https://www.trumpstruth.org/statuses/38423",
       "raw": {
         "creator": "",
@@ -1158,13 +1310,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38423",
         "isoDate": "2026-05-12T11:56:24.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:35:07.554Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16212/9d4190d07d0e9e7b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38422",
       "publishedAt": "2026-05-12T11:57:58.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image has a large headline reading “Lasers: Bing, Bing, GONE!!!” above a dramatic maritime scene. A gray naval ship marked with an American flag and the number 79 fires a bright red laser at a burning aircraft displaying the Iranian flag. Black smoke, flames, and debris surround the aircraft against a blue sky and ocean.",
       "url": "https://www.trumpstruth.org/statuses/38422",
       "raw": {
         "creator": "",
@@ -1176,13 +1332,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38422",
         "isoDate": "2026-05-12T11:57:58.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:35:04.476Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16211/3d8ca3d34f0d8365.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38427",
       "publishedAt": "2026-05-12T12:03:02.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is a military-themed graphic with the headline “BYE BYE, ‘Fast Boats’.” A gray unmanned aircraft bearing an American flag flies above two small speedboats flying Iranian flags. Both boats are engulfed in large fiery explosions, with smoke, debris, and missile trails visible against a gray sky over the water.",
       "url": "https://www.trumpstruth.org/statuses/38427",
       "raw": {
         "creator": "",
@@ -1194,7 +1354,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38427",
         "isoDate": "2026-05-12T12:03:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:34:57.686Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16216/98e8ec1d34d9e2b3.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38428",
@@ -1218,7 +1382,7 @@
       "id": "https://www.trumpstruth.org/statuses/38430",
       "publishedAt": "2026-05-12T19:27:13.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A smartphone message from Marty Makary to Donald Trump reads, “Dr. President Trump, Please accept my resignation, effective today.” Makary says he announced 50 major FDA reforms, reduced drug review times, advanced psychedelic research, created a rare-disease pathway, and changed menopause hormone-replacement labels. He signs off as FDA Commissioner, expressing gratitude for serving.",
       "url": "https://www.trumpstruth.org/statuses/38430",
       "raw": {
         "creator": "",
@@ -1230,7 +1394,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38430",
         "isoDate": "2026-05-12T19:27:13.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:34:54.363Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16218/110c511fe4241cad.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38429",
@@ -1272,7 +1440,7 @@
       "id": "https://www.trumpstruth.org/statuses/38432",
       "publishedAt": "2026-05-12T22:54:11.000Z",
       "title": "[No Title] - Post from May 12, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic titled “51st State” shows a map of eastern North America with one irregularly outlined region filled with the United States flag, including red-and-white stripes and a blue field with white stars. Surrounding land is shaded light gray, with dark boundary lines and blue water around the coastline.",
       "url": "https://www.trumpstruth.org/statuses/38432",
       "raw": {
         "creator": "",
@@ -1284,13 +1452,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38432",
         "isoDate": "2026-05-12T22:54:11.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:34:51.274Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16219/7343513a7fefa178.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38433",
       "publishedAt": "2026-05-12T23:07:20.000Z",
       "title": "I WANT YOU!",
-      "text": "<p>I WANT YOU!</p>",
+      "text": "<p>I WANT YOU!</p>\n\n[Image] A painted portrait of Donald Trump shows him in a dark suit, white shirt, and striped tie, pointing directly toward the viewer. Multiple American flags fill the background, with bright highlights suggesting lights or stars behind him.",
       "url": "https://www.trumpstruth.org/statuses/38433",
       "raw": {
         "creator": "",
@@ -1302,7 +1474,11 @@
         "contentSnippet": "I WANT YOU!",
         "guid": "https://www.trumpstruth.org/statuses/38433",
         "isoDate": "2026-05-12T23:07:20.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:34:43.197Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16220/532dc9ee831d9812.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38434",
@@ -1756,5 +1932,7 @@
       "rationale": "The text praises the construction efforts and expresses optimism about the outcome.",
       "analyzedAt": "2026-09-05T08:28:12.329Z"
     }
-  ]
+  ],
+  "trendingName": "Barack Obama",
+  "selfPraiseCacheKey": "self-praise-v1:72:c4e560802bb89290fbf4ce94"
 }

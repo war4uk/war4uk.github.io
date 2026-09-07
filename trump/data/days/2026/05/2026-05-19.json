@@ -6,34 +6,29 @@
     "negative": 6
   },
   "summary": "positive:2 neutral:10 negative:6",
-  "generatedAt": "2026-09-05T08:29:56.738Z",
+  "generatedAt": "2026-09-07T18:18:42.935Z",
   "topics": [
-    "Disaster Recovery and Assistance",
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Trump-backed Kentucky Republicans win primaries as he attacks Thomas Massie and touts Ed Gallrein",
+    "Trump administration highlights actions terminating green-energy regulations",
+    "Trump revisits East Palestine disaster and criticizes Biden’s response"
   ],
-  "trendingTopic": "Thank you to Great Patriot Salena Zito for this wonderful article!",
+  "trendingTopic": "Trump-backed Kentucky Republicans win primaries as he attacks Thomas Massie and touts Ed Gallrein",
   "secondaryHighlights": [
     {
-      "topic": "Thomas Massie's Ex-Girlfriend And Former Congressional Staffer Cynthia West Tells All",
-      "name": "Thomas Massie"
+      "topic": "Trump administration highlights actions terminating green-energy regulations"
     },
     {
-      "topic": "The worst Congressman in the long and storied history of the Republican Party, is Thomas Massie",
-      "name": "Thomas Massie"
-    },
-    {
-      "topic": "Bad Congressman Tom Massie voted against Tax Cuts, the Border Wall, our Military and Law Enforcement",
-      "name": "Tom Massie"
+      "topic": "Trump revisits East Palestine disaster and criticizes Biden’s response"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:18:438ce5500e4ff2a03e5196f4",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38622",
       "publishedAt": "2026-05-19T01:08:54.000Z",
       "title": "Small Water Area Test at The Reflecting Pool looking at The Lincoln Memorial! President DONALD J. TRUMP",
-      "text": "<p>Small Water Area Test at The Reflecting Pool looking at The Lincoln Memorial! President DONALD J. TRUMP</p>",
+      "text": "<p>Small Water Area Test at The Reflecting Pool looking at The Lincoln Memorial! President DONALD J. TRUMP</p>\n\n[Image] Two views of the National Mall in Washington, D.C., show the Lincoln Memorial and Washington Monument at dusk. Rainwater or wet pavement creates mirror-like reflections of the monuments and cloudy sky. Trees, construction barriers, vehicles, and event trailers line the surrounding areas, including a decorated trailer beside the reflecting pool.",
       "url": "https://www.trumpstruth.org/statuses/38622",
       "raw": {
         "creator": "",
@@ -45,7 +40,12 @@
         "contentSnippet": "Small Water Area Test at The Reflecting Pool looking at The Lincoln Memorial! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/38622",
         "isoDate": "2026-05-19T01:08:54.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:41:57.998Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16328/322c95453a5e4f1e.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16329/947332f9d217e248.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38623",
@@ -69,7 +69,7 @@
       "id": "https://www.trumpstruth.org/statuses/38624",
       "publishedAt": "2026-05-19T02:24:44.000Z",
       "title": "[No Title] - Post from May 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Three pages of a White House document feature the White House logo and dense blue text in bullet points. The pages summarize actions attributed to the Trump Administration involving environmental regulations, climate policy, finance, electricity, and Alaska energy development, including references to Biden-Harris Administration policies and agencies such as EPA, DOE, DOI, DOT, USDA, and CFTC.",
       "url": "https://www.trumpstruth.org/statuses/38624",
       "raw": {
         "creator": "",
@@ -81,13 +81,19 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38624",
         "isoDate": "2026-05-19T02:24:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:41:54.889Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16330/23561b32c8449550.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16331/dc5946f5222ef168.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16332/603dd3a316020947.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38626",
       "publishedAt": "2026-05-19T02:25:06.000Z",
       "title": "[No Title] - Post from May 19, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116598864907030187</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116598864907030187</span></p>\n\n[Image] A series of White House document pages titled “Trump Administration Actions to Terminate Green Energy Regulations.” The pages list actions attributed to Donald Trump’s administration involving permitting, coal, minerals, oil and gas, electric vehicles, environmental rules, finance, electricity, and Alaska. The text emphasizes expanding domestic energy production and reducing environmental and climate-related regulations.",
       "url": "https://www.trumpstruth.org/statuses/38626",
       "raw": {
         "creator": "",
@@ -99,7 +105,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116598864907030187",
         "guid": "https://www.trumpstruth.org/statuses/38626",
         "isoDate": "2026-05-19T02:25:06.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:41:51.921Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16333/52c30f63af81f740.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16334/ab3c5596ad094f41.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16335/9e765dc66b02d451.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16336/cff022088708ba45.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16330/23561b32c8449550.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16331/dc5946f5222ef168.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16332/603dd3a316020947.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38625",
@@ -123,7 +139,7 @@
       "id": "https://www.trumpstruth.org/statuses/38627",
       "publishedAt": "2026-05-19T12:49:09.000Z",
       "title": "[No Title] - Post from May 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A book cover titled “The American War on Election Corruption: The Crusade to Restore Trust in Voting” by Seth Keshel. The design uses large navy and red lettering and an antique-style political cartoon of a portly man beside a ballot-counting device labeled “The Tallot,” with the phrase “In counting there is strength.” It includes a foreword by Newt Gingrich.",
       "url": "https://www.trumpstruth.org/statuses/38627",
       "raw": {
         "creator": "",
@@ -135,7 +151,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38627",
         "isoDate": "2026-05-19T12:49:09.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:41:49.099Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16337/de6dada763c214a8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38632",
@@ -267,7 +287,7 @@
       "id": "https://www.trumpstruth.org/statuses/38641",
       "publishedAt": "2026-05-19T23:49:03.000Z",
       "title": "[No Title] - Post from May 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic announces “Congressman (KY-05) Hal Rogers Wins!” and states that he was endorsed by President Donald Trump. It shows portraits of Donald Trump on the left and Hal Rogers on the right, both wearing suits and ties. A “Trump Vance” logo with the slogan “Make America Great Again!” appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38641",
       "raw": {
         "creator": "",
@@ -279,13 +299,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38641",
         "isoDate": "2026-05-19T23:49:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:41:44.719Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16342/9f25f9ef7bde3a56.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38640",
       "publishedAt": "2026-05-19T23:49:14.000Z",
       "title": "[No Title] - Post from May 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic features Donald Trump alongside Congressman Brett Guthrie, who wears a suit and congressional lapel pin. Large text says “Congressman (KY-02) Brett Guthrie Wins!” and states that he is endorsed by President Trump. A “Trump Van” logo appears at the bottom against a blue-to-red gradient background.",
       "url": "https://www.trumpstruth.org/statuses/38640",
       "raw": {
         "creator": "",
@@ -297,13 +321,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38640",
         "isoDate": "2026-05-19T23:49:14.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:41:41.823Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16341/1cf73f5838e4666f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38639",
       "publishedAt": "2026-05-19T23:49:25.000Z",
       "title": "[No Title] - Post from May 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political campaign graphic announces that Congressman James Comer of Kentucky’s 1st District wins, with text stating he is endorsed by President Donald Trump. Portraits of Donald Trump and James Comer appear against a dark blue and red background. A “Trump Vance” campaign logo with the slogan “Make America Great Again!” is shown at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38639",
       "raw": {
         "creator": "",
@@ -315,13 +343,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38639",
         "isoDate": "2026-05-19T23:49:25.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:41:39.928Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16340/2433fdd99570be67.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38638",
       "publishedAt": "2026-05-19T23:49:40.000Z",
       "title": "[No Title] - Post from May 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political campaign graphic announces “Republican Nominee for U.S. Senator from Kentucky” and says “Andy Barr Wins!” Andy Barr and Donald Trump are pictured in formal attire against a blue-to-red gradient background. A red banner states that Barr was endorsed by President Trump, and a “Trump Van” logo with “Make America Great Again!” appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38638",
       "raw": {
         "creator": "",
@@ -333,13 +365,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38638",
         "isoDate": "2026-05-19T23:49:40.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:41:37.787Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16339/030e3bacf28e35f5.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38637",
       "publishedAt": "2026-05-19T23:49:49.000Z",
       "title": "[No Title] - Post from May 19, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “Republican Nominee for KY-04” and says “Ed Gallrein Wins!” It shows portraits of Donald Trump and Ed Gallrein, with a red banner stating “Endorsed by President Trump!” A “Trump Vance” logo and “Make America Great Again!” slogan appear at the bottom. The background fades from blue to burgundy.",
       "url": "https://www.trumpstruth.org/statuses/38637",
       "raw": {
         "creator": "",
@@ -351,7 +387,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38637",
         "isoDate": "2026-05-19T23:49:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:41:34.191Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16338/dad3e0aeb2ce3975.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -463,5 +503,6 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:29:56.734Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:18:438ce5500e4ff2a03e5196f4"
 }

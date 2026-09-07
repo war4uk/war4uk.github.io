@@ -6,24 +6,25 @@
     "negative": 4
   },
   "summary": "positive:6 neutral:3 negative:4",
-  "generatedAt": "2026-09-06T06:03:23.839Z",
+  "generatedAt": "2026-09-07T18:27:50.940Z",
   "topics": [
-    "Announces completion of a peace deal with Iran",
-    "Comments on the attack in Beirut amid peace negotiations",
-    "Supports John Wahl for Lieutenant Governor of Alabama"
+    "Announces a completed Iran deal promising peace and security across the region",
+    "Defends Bill Pulte as acting DNI amid Democratic objections and FISA debate",
+    "Promotes GOP candidates for Alabama lieutenant governor and Arizona attorney general"
   ],
-  "trendingTopic": "Announces completion of a peace deal with Iran",
+  "trendingTopic": "Iran deal is complete as Trump promises peace and security across the region",
   "secondaryHighlights": [
     {
-      "topic": "Comments on the attack in Beirut amid peace negotiations"
+      "topic": "Congratulates Jim Dolan and the New York Knicks on their historic playoff run",
+      "name": "Jim Dolan"
     },
     {
-      "topic": "Supports John Wahl for Lieutenant Governor of Alabama",
-      "name": "John Wahl"
+      "topic": "Praises Victoria Coates of the Heritage Foundation",
+      "name": "Victoria Coates"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v8:13:bd4eb3e2b0e85f93fae86ccc",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:13:bd4eb3e2b0e85f93fae86ccc",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39247",
@@ -47,7 +48,7 @@
       "id": "https://www.trumpstruth.org/statuses/39249",
       "publishedAt": "2026-06-14T13:40:29.000Z",
       "title": "[No Title] - Post from June 14, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political endorsement graphic features a portrait of Mohave County Supervisor Sonny Borrelli in front of American and Arizona flags. The text says he endorses Lt. Col. Rodney Glassman for Arizona attorney general, citing his experience, prosecution background, support for rural communities, and election security. It references defeating incumbent Attorney General Kris Mayes.",
       "url": "https://www.trumpstruth.org/statuses/39249",
       "raw": {
         "creator": "",
@@ -59,7 +60,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39249",
         "isoDate": "2026-06-14T13:40:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:59:03.322Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16696/5b7851ebd7a70ff4.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39250",
@@ -173,7 +178,7 @@
       "id": "https://www.trumpstruth.org/statuses/39256",
       "publishedAt": "2026-06-14T18:41:07.000Z",
       "title": "What do they have to be afraid of. Republicans are moving too fast on nominations!!!",
-      "text": "<p>What do they have to be afraid of. Republicans are moving too fast on nominations!!!</p>",
+      "text": "<p>What do they have to be afraid of. Republicans are moving too fast on nominations!!!</p>\n\n[Image] A CBS News webpage shows Senator Mark Warner in a studio interview, wearing a dark blue suit and striped tie with the U.S. Capitol visible behind him. The navigation bar includes U.S., Iran War, SpaceX IPO, World, and Politics. A headline says Warner claims the intelligence community is “terrified of showing” information to Bill Pulte.",
       "url": "https://www.trumpstruth.org/statuses/39256",
       "raw": {
         "creator": "",
@@ -185,7 +190,11 @@
         "contentSnippet": "What do they have to be afraid of. Republicans are moving too fast on nominations!!!",
         "guid": "https://www.trumpstruth.org/statuses/39256",
         "isoDate": "2026-06-14T18:41:07.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:58:59.027Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16698/8b7748ca2e064338.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39257",
@@ -339,5 +348,6 @@
       "rationale": "The text expresses optimism about a deal bringing peace and security, highlighting the success of the president in achieving something previous leaders could not.",
       "analyzedAt": "2026-09-05T08:35:53.038Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:13:bd4eb3e2b0e85f93fae86ccc"
 }

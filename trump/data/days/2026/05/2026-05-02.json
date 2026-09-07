@@ -6,26 +6,23 @@
     "negative": 3
   },
   "summary": "positive:0 neutral:12 negative:3",
-  "generatedAt": "2026-09-05T08:25:57.857Z",
+  "generatedAt": "2026-09-07T18:12:27.382Z",
   "topics": [
-    "Political Commentary and Controversies"
+    "Posts two “American Flag Blue” images of the Washington Monument reflected in the Reflecting Pool",
+    "Trump says he will review Iran’s proposal while demanding a greater price for its past actions",
+    "Trump attacks Hakeem Jeffries as a dangerous low-IQ thug"
   ],
-  "trendingTopic": "Low IQ Democrat Minority Leader, Hakeem Jeffries, is nothing but a THUG, and he is a danger to our Country!",
-  "trendingName": "Hakeem Jeffries",
+  "trendingTopic": "Posts two “American Flag Blue” images of the Washington Monument reflected in the Reflecting Pool",
   "secondaryHighlights": [
     {
-      "topic": "This is what our Country was before, and after, “TRUMP!”"
+      "topic": "Says Democrats’ voter-integrity review hired officials he accuses of rigging the 2020 election"
     },
     {
-      "topic": "So ironic that Cryin’ Chuck Schumer and the Democrats are hiring SLEAZEBAGS like Barack Hussein Obama’s Crooked former Attorney General, Eric Holder, and others of that ilk, to look into Voter Integrity, when this same group of Human Garbage RIGGED the 2020 Presidential Election.",
-      "name": "Chuck Schumer"
-    },
-    {
-      "topic": "I hate seeing Fox, and other Conservative Outlets, constantly making Low Rated Bill Maher “relevant” as it pertains to the Republican Party, and beyond.",
-      "name": "Bill Maher"
+      "topic": "Dismisses Bill Maher as weak and irrelevant to the Republican Party"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v10:15:3c454fd40a7fc2afa50945b7",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38129",
@@ -49,7 +46,7 @@
       "id": "https://www.trumpstruth.org/statuses/38131",
       "publishedAt": "2026-05-02T03:03:06.000Z",
       "title": "[No Title] - Post from May 2, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump and four other adults pose in a swimming pool on the National Mall, with the Washington Monument centered in the background. Trump reclines on a gold inflatable float and gives a thumbs-up. A bearded man beside him also gives a thumbs-up, while two men and a woman in sunglasses stand or sit in the water. Trees and visitors line the reflecting pool.",
       "url": "https://www.trumpstruth.org/statuses/38131",
       "raw": {
         "creator": "",
@@ -61,13 +58,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38131",
         "isoDate": "2026-05-02T03:03:06.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:28:42.387Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16030/67a376d0de0cf5d8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38130",
       "publishedAt": "2026-05-02T03:04:29.000Z",
       "title": "[No Title] - Post from May 2, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Melania Trump stands smiling among formally dressed guests in an ornate interior with cream walls, white columns, and blue drapery. Vice President JD Vance is visible at the right in a black tuxedo, while several other men and women stand nearby. Attendees in formalwear fill the foreground, facing toward an unseen event.",
       "url": "https://www.trumpstruth.org/statuses/38130",
       "raw": {
         "creator": "",
@@ -79,13 +80,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38130",
         "isoDate": "2026-05-02T03:04:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:28:37.031Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16029/1487b383e546292e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38133",
       "publishedAt": "2026-05-02T03:13:19.000Z",
       "title": "Low IQ Democrat Minority Leader, Hakeem Jeffries, is nothing but a THUG, and he is a danger to our Country! President DONALD J. TRUMP",
-      "text": "<p>Low IQ Democrat Minority Leader, Hakeem Jeffries, is nothing but a THUG, and he is a danger to our Country! President DONALD J. TRUMP</p>",
+      "text": "<p>Low IQ Democrat Minority Leader, Hakeem Jeffries, is nothing but a THUG, and he is a danger to our Country! President DONALD J. TRUMP</p>\n\n[Image] Hakeem Jeffries stands in an office or sitting room, holding a polished wooden baseball bat vertically in front of him. He wears a light blue button-down shirt, dark trousers, and black sneakers. The room has striped armchairs, a leather sofa with yellow cushions, framed artwork, blue walls, and a dark patterned carpet.",
       "url": "https://www.trumpstruth.org/statuses/38133",
       "raw": {
         "creator": "",
@@ -97,13 +102,17 @@
         "contentSnippet": "Low IQ Democrat Minority Leader, Hakeem Jeffries, is nothing but a THUG, and he is a danger to our Country! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/38133",
         "isoDate": "2026-05-02T03:13:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:28:30.393Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16032/6883fa79474d7522.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38132",
       "publishedAt": "2026-05-02T03:15:25.000Z",
       "title": "[No Title] - Post from May 2, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands at a presidential lectern, wearing a dark suit and red tie while holding a fan of UNO Wild cards toward the camera. American flags, gold curtains, and a presidential seal appear behind him. Large overlaid text at the bottom reads, “I HAVE ALL THE CARDS.”",
       "url": "https://www.trumpstruth.org/statuses/38132",
       "raw": {
         "creator": "",
@@ -115,13 +124,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38132",
         "isoDate": "2026-05-02T03:15:25.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:28:27.551Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16031/f84a39b8f443df7b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38134",
       "publishedAt": "2026-05-02T03:22:48.000Z",
       "title": "[No Title] - Post from May 2, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A monochromatic gold-toned illustration shows Donald Trump in close-up profile, facing right. The stylized portrait emphasizes his swept-back hair, furrowed brow, prominent nose, pursed lips, and suit collar against a plain white background. Brush-like shading and highlights create a sculptural, graphic appearance.",
       "url": "https://www.trumpstruth.org/statuses/38134",
       "raw": {
         "creator": "",
@@ -133,13 +146,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38134",
         "isoDate": "2026-05-02T03:22:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:28:24.627Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16033/a7ce30eb5d73548a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38135",
       "publishedAt": "2026-05-02T03:26:35.000Z",
       "title": "[No Title] - Post from May 2, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump is shown in the foreground wearing a dark suit, white shirt, and red tie, looking upward with a slight smile. Behind him is Mount Rushmore, featuring the carved faces of George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln under a bright blue sky.",
       "url": "https://www.trumpstruth.org/statuses/38135",
       "raw": {
         "creator": "",
@@ -151,13 +168,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38135",
         "isoDate": "2026-05-02T03:26:35.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:28:22.221Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16034/07c779bcc040e878.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38136",
       "publishedAt": "2026-05-02T03:32:15.000Z",
       "title": "[No Title] - Post from May 2, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump and Melania Trump stand outside a white-columned building in bright sunlight. Donald Trump wears a dark suit, white shirt, vivid blue tie, and American flag lapel pin. Melania Trump wears a black blazer over a white shirt, with her long brown hair blowing in the wind. Both face left with serious expressions.",
       "url": "https://www.trumpstruth.org/statuses/38136",
       "raw": {
         "creator": "",
@@ -169,13 +190,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38136",
         "isoDate": "2026-05-02T03:32:15.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:28:20.561Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16035/c0bdb83ed497cdb9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38138",
       "publishedAt": "2026-05-02T03:37:57.000Z",
       "title": "[No Title] - Post from May 2, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands beside King Charles III outside a formal building. Trump wears a dark navy suit, bright blue tie, and U.S. flag lapel pin. Charles wears a gray suit with a striped tie, numerous medals, and ceremonial decorations. Both face the camera, with Charles smiling slightly and Trump holding a composed expression.",
       "url": "https://www.trumpstruth.org/statuses/38138",
       "raw": {
         "creator": "",
@@ -187,13 +212,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38138",
         "isoDate": "2026-05-02T03:37:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:28:17.386Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16037/0b4f5777d38578a6.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38137",
       "publishedAt": "2026-05-02T03:40:12.000Z",
       "title": "This is what our Country was before, and after, “TRUMP!”",
-      "text": "<p>This is what our Country was before, and after, “TRUMP!”</p>",
+      "text": "<p>This is what our Country was before, and after, “TRUMP!”</p>\n\n[Image] A side-by-side comparison graphic labels the left image “Hussein Obama” and the right image “Trump.” Both show the edge of a large body of water, but the left is murky and covered with green algae while the right is deep blue and clear. Text below says “Photo taken Sept. 29, 2012” on the left and “Coming Soon” on the right.",
       "url": "https://www.trumpstruth.org/statuses/38137",
       "raw": {
         "creator": "",
@@ -205,13 +234,17 @@
         "contentSnippet": "This is what our Country was before, and after, “TRUMP!”",
         "guid": "https://www.trumpstruth.org/statuses/38137",
         "isoDate": "2026-05-02T03:40:12.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:28:14.156Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16036/2030b79e4a2c16c1.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38140",
       "publishedAt": "2026-05-02T03:41:16.000Z",
       "title": "[No Title] - Post from May 2, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is titled “American Flag Blue” in large black text. It shows the Washington Monument centered beyond the reflecting pool in Washington, D.C., with its full reflection visible in the deep blue water. Tree-lined walkways, scattered visitors, green lawns, and a partly cloudy blue sky surround the monument.",
       "url": "https://www.trumpstruth.org/statuses/38140",
       "raw": {
         "creator": "",
@@ -223,13 +256,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38140",
         "isoDate": "2026-05-02T03:41:16.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:28:10.814Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16039/11937cf50ae75eb1.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38139",
       "publishedAt": "2026-05-02T03:45:32.000Z",
       "title": "[No Title] - Post from May 2, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic titled “American Flag Blue” features a sunset photograph of the Washington Monument reflected in the long rectangular Reflecting Pool in Washington, D.C. Tree-lined paths flank the pool, with the monument centered in the distance beneath a partly cloudy sky. No people or politicians are prominently visible.",
       "url": "https://www.trumpstruth.org/statuses/38139",
       "raw": {
         "creator": "",
@@ -241,7 +278,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38139",
         "isoDate": "2026-05-02T03:45:32.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:28:07.976Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16038/7ee562c67be2ae94.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38141",
@@ -389,5 +430,6 @@
       "rationale": "The text expresses strong dislike for Bill Maher and criticizes him harshly, describing him as weak, ineffective, and a moron.",
       "analyzedAt": "2026-09-05T08:25:57.854Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:15:3c454fd40a7fc2afa50945b7"
 }

@@ -6,31 +6,32 @@
     "negative": 2
   },
   "summary": "positive:7 neutral:25 negative:2",
-  "generatedAt": "2026-09-05T08:31:33.073Z",
+  "generatedAt": "2026-09-07T18:21:06.597Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Threatens Iran with total surrender while contrasting Trump’s force-first policy with Obama’s cash payments",
+    "Posts Memorial Day tributes featuring American flags and U.S. service members",
+    "Endorses Texas Attorney General Ken Paxton and Florida gubernatorial candidate Byron Donalds"
   ],
-  "trendingTopic": "Exclusive: Key Biden DOJ official raised red flags about FBI’s Mar-a-Lago raid, memo shows",
+  "trendingTopic": "Threatens Iran with total surrender while contrasting Trump’s force-first policy with Obama’s cash payments",
   "secondaryHighlights": [
     {
-      "topic": "U.S. attorney in Miami sends ‘message’ to deep state with indictment against ex-prosecutor"
+      "topic": "Shares reports portraying Biden-era Justice Department and federal prosecutors as part of the deep state"
     },
     {
-      "topic": "Great job on FoxNews by Alex Gray",
-      "name": "Alex Gray"
+      "topic": "Praises Alex Gray and Derrick Van Orden for their Fox News appearances"
     },
     {
-      "topic": "Texas, Vote for Ken Paxton, our Country’s BEST Attorney General!"
+      "topic": "Promotes Trump’s leadership and ability to restore the White House"
     }
   ],
-  "selfPraiseCount": 1,
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:34:193c804b5c6f479f5843e24f",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38781",
       "publishedAt": "2026-05-26T00:09:54.000Z",
       "title": "[No Title] - Post from May 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump walking outdoors in a dark overcoat and blue tie, raising one gloved hand. Rows of American flags line both sides of the path, with a large American flag behind him and two military aircraft silhouettes overhead. The text “Happy Memorial Day!” appears across the top.",
       "url": "https://www.trumpstruth.org/statuses/38781",
       "raw": {
         "creator": "",
@@ -42,13 +43,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38781",
         "isoDate": "2026-05-26T00:09:54.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:47:02.094Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16437/5bf6457f6dda210a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38785",
       "publishedAt": "2026-05-26T00:10:02.000Z",
       "title": "[No Title] - Post from May 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic reads “Happy Memorial Day!” above a photograph of Donald Trump standing with three U.S. Army personnel in camouflage and military headgear. They appear to be at a training or landing area, with numerous parachutes descending across a blue sky in the background. One soldier carries equipment and wears a helmet.",
       "url": "https://www.trumpstruth.org/statuses/38785",
       "raw": {
         "creator": "",
@@ -60,13 +65,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38785",
         "isoDate": "2026-05-26T00:10:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:47:00.338Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16441/230ac9ecee59c771.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38784",
       "publishedAt": "2026-05-26T00:10:12.000Z",
       "title": "[No Title] - Post from May 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A white graphic displays the red, underlined heading “SAVE AMERICA Act.” Below it, three numbered proposals read: “VOTER I.D.,” “PROOF OF CITIZENSHIP,” and “NO MAIL-IN BALLOTS.” A smaller line underneath states, “with exceptions for Military, Illness, Disability, or Travel!” No people are shown.",
       "url": "https://www.trumpstruth.org/statuses/38784",
       "raw": {
         "creator": "",
@@ -78,13 +87,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38784",
         "isoDate": "2026-05-26T00:10:12.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:46:58.040Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16440/794dd00eaadb93e9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38783",
       "publishedAt": "2026-05-26T00:10:21.000Z",
       "title": "[No Title] - Post from May 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “Our Pool is Bigger than Skyscrapers” compares a 2,030-foot Lincoln Reflecting Pool with the 1,451-foot Willis (Sears) Tower, 1,454-foot Empire State Building, and 1,776-foot One World Trade Center. The pool is shown as a tall blue column beside scaled illustrations of the buildings, with height markings from 0 to 2,000 feet.",
       "url": "https://www.trumpstruth.org/statuses/38783",
       "raw": {
         "creator": "",
@@ -96,13 +109,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38783",
         "isoDate": "2026-05-26T00:10:21.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:46:55.172Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16439/dd33f7aa76fe36f8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38782",
       "publishedAt": "2026-05-26T00:10:27.000Z",
       "title": "[No Title] - Post from May 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is a watercolor-style scene with the headline “Trump’s America in 2026.” A small house is decorated with American flags, red-white-and-blue bunting, and a white picket fence. Flower beds and trees surround the property, while a black bicycle rests in the foreground near the sidewalk. No people are visible.",
       "url": "https://www.trumpstruth.org/statuses/38782",
       "raw": {
         "creator": "",
@@ -114,13 +131,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38782",
         "isoDate": "2026-05-26T00:10:27.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:46:52.260Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16438/45b345ee60465a44.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38786",
       "publishedAt": "2026-05-26T00:47:25.000Z",
       "title": "[No Title] - Post from May 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A split-panel political cartoon contrasts “Obama’s Iran Policy” with “Trump’s Iran Policy.” The left panel shows a large pallet stacked with green cash and labeled “Pallets of Cash.” The right panel depicts a U.S. Navy ship at sea, marked with the number 5 and flying an American flag, amid explosions, aircraft, smoke, and apparent military action.",
       "url": "https://www.trumpstruth.org/statuses/38786",
       "raw": {
         "creator": "",
@@ -132,7 +153,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38786",
         "isoDate": "2026-05-26T00:47:25.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:46:49.074Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16442/b28e17951e16498e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38788",
@@ -444,7 +469,7 @@
       "id": "https://www.trumpstruth.org/statuses/38802",
       "publishedAt": "2026-05-26T11:19:44.000Z",
       "title": "[No Title] - Post from May 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “Our Pool is Bigger than Skyscrapers” compares a 2,030-foot Lincoln Reflecting Pool with the 1,776-foot One World Trade Center, 1,454-foot Empire State Building, and 1,451-foot Willis Tower. Illustrations of each structure are shown against a height scale.",
       "url": "https://www.trumpstruth.org/statuses/38802",
       "raw": {
         "creator": "",
@@ -456,7 +481,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38802",
         "isoDate": "2026-05-26T11:19:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:46:42.589Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16443/adc7d7c544d94942.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38805",
@@ -480,7 +509,7 @@
       "id": "https://www.trumpstruth.org/statuses/38807",
       "publishedAt": "2026-05-26T11:29:45.000Z",
       "title": "[No Title] - Post from May 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image features the slogan “Peace Through Strength” in large black lettering above a portrait of Donald Trump. He wears a dark suit and tie and points directly toward the viewer, standing outdoors with the White House visible in the blurred background. The composition uses a formal, campaign-style presentation with muted colors and strong central framing.",
       "url": "https://www.trumpstruth.org/statuses/38807",
       "raw": {
         "creator": "",
@@ -492,13 +521,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38807",
         "isoDate": "2026-05-26T11:29:45.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:46:40.065Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16445/f6a3be26277c7eb1.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38806",
       "publishedAt": "2026-05-26T11:29:57.000Z",
       "title": "[No Title] - Post from May 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic headline reads, “The Only President Who Knows How to Fix The White House.” Below it, Donald Trump, seen from behind in a dark suit, reaches toward a large white column outside the White House. Several security personnel stand nearby, including men beside a black vehicle and a suited guard behind chain-linked posts.",
       "url": "https://www.trumpstruth.org/statuses/38806",
       "raw": {
         "creator": "",
@@ -510,7 +543,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38806",
         "isoDate": "2026-05-26T11:29:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:46:37.799Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16444/f949d743ee408d75.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38808",
@@ -844,5 +881,6 @@
       "rationale": "The text expresses strong support for the CFTC and its leadership, emphasizing the importance of maintaining authority over Prediction Markets and praising Mike Selig's performance.",
       "analyzedAt": "2026-09-05T08:31:33.067Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:34:193c804b5c6f479f5843e24f"
 }

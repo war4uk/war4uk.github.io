@@ -6,26 +6,28 @@
     "negative": 0
   },
   "summary": "positive:17 neutral:1 negative:0",
-  "generatedAt": "2026-09-05T08:25:47.558Z",
+  "generatedAt": "2026-09-07T18:12:05.293Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Economic Growth and Job Creation",
-    "Political Commentary and Controversies"
+    "Endorses seven Republican candidates for Indiana state Senate ahead of May 5 elections",
+    "Endorses Andy Barr and Ralph Alvarado for Kentucky offices",
+    "Raises tariffs on European Union cars and trucks to 25% over trade deal noncompliance"
   ],
-  "trendingTopic": "I had a great meeting with Mr. Nate Morris, of Kentucky, yesterday",
-  "trendingName": "Nate Morris",
+  "trendingTopic": "Endorses seven Republican candidates for Indiana state Senate ahead of May 5 elections",
   "secondaryHighlights": [
     {
-      "topic": "Save America Act"
+      "topic": "Approves all state permits for Florida, Georgia, South Carolina, and North Carolina's 2026 red snapper season"
     },
     {
-      "topic": "To the incredible Patriots in Indiana’s 11th State Senate District: PLEASE GET OUT AND VOTE for a wonderful Candidate, Dr. Brian Schmutzler, a Highly Respected Anesthesiologist, and REAL Republican, who has my Complete and Total Endorsement."
+      "topic": "Praises Navy Commander Kirk Lippold's Fox News interview about Iran",
+      "name": "Kirk Lippold"
     },
     {
-      "topic": "It is my Great Honor to endorse America First Patriot, Ralph Alvarado, M.D., who is running to represent the incredible people of Kentucky’s 6th Congressional District."
+      "topic": "Meets with Kentucky businessman Nate Morris",
+      "name": "Nate Morris"
     }
   ],
-  "selfPraiseCount": 4,
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:18:b8b27f4425873bb852e071c3",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38111",
@@ -461,5 +463,6 @@
       "rationale": "The text describes a positive meeting with Nate Morris and expresses optimism about his future role, indicating a positive sentiment.",
       "analyzedAt": "2026-09-05T08:25:47.555Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:18:b8b27f4425873bb852e071c3"
 }

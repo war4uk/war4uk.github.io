@@ -6,30 +6,30 @@
     "negative": 2
   },
   "summary": "positive:2 neutral:3 negative:2",
-  "generatedAt": "2026-09-06T06:03:16.505Z",
+  "generatedAt": "2026-09-07T18:26:28.857Z",
   "topics": [
-    "William Pulte appointed as Acting Director of National Intelligence while retaining role at Federal Housing Finance Agency",
-    "U.S. trade deficit widens significantly, despite record exports",
-    "Iran shoots down U.S. Apache Helicopter over the Strait of Hormuz"
+    "Shares reports on U.S. trade deficit, including record exports and a 34-year widening",
+    "Reports Iran shot down a U.S. Apache helicopter over the Strait of Hormuz, with both pilots safe",
+    "Announces William Pulte will become acting Director of National Intelligence on June 19"
   ],
-  "trendingTopic": "William Pulte appointed as Acting Director of National Intelligence while retaining role at Federal Housing Finance Agency",
-  "trendingName": "William Pulte",
+  "trendingTopic": "Trump shares conflicting reports on U.S. trade deficit, record exports, and a 34-year widening",
   "secondaryHighlights": [
     {
-      "topic": "U.S. trade deficit widens significantly, despite record exports"
+      "topic": "Endorses Steve Hilton for California governor",
+      "name": "Steve Hilton"
     },
     {
-      "topic": "Iran shoots down U.S. Apache Helicopter over the Strait of Hormuz"
+      "topic": "Shares support for Trump from New York City supporters"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v8:7:6f7f043dc113903cbb45e095",
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:7:6f7f043dc113903cbb45e095",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39166",
       "publishedAt": "2026-06-09T00:50:05.000Z",
       "title": "[No Title] - Post from June 9, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style poster identifies Steve Hilton as a Republican candidate for governor of California and says he “advances,” endorsed by President Donald Trump. It shows portraits of Donald Trump and Steve Hilton in suits against a blue-to-red gradient, with a “Trump Van” logo and “Make America Great Again!” slogan at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39166",
       "raw": {
         "creator": "",
@@ -41,7 +41,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39166",
         "isoDate": "2026-06-09T00:50:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:56:41.422Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16643/430fcb35e459eb1a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39168",
@@ -65,7 +69,7 @@
       "id": "https://www.trumpstruth.org/statuses/39167",
       "publishedAt": "2026-06-09T06:11:15.000Z",
       "title": "[No Title] - Post from June 9, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116718662947146337</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116718662947146337</span></p>\n\n[Image] An X.com profile header for “Nicole Parker USA” (@nicoleparkerusa) shows a verified account with a circular portrait of a blonde woman wearing a turquoise top. Large text below reads, “NYC loves @realDonaldTrump,” referencing Donald Trump.",
       "url": "https://www.trumpstruth.org/statuses/39167",
       "raw": {
         "creator": "",
@@ -77,7 +81,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116718662947146337",
         "guid": "https://www.trumpstruth.org/statuses/39167",
         "isoDate": "2026-06-09T06:11:15.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:56:38.203Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16644/89d5e2620c6133ea.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39169",
@@ -195,5 +203,6 @@
       "rationale": "The announcement of William Pulte taking over as Acting Director of National Intelligence is presented positively, indicating a leadership change and expressing gratitude.",
       "analyzedAt": "2026-09-05T08:34:59.011Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:7:6f7f043dc113903cbb45e095"
 }

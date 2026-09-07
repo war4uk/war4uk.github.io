@@ -6,26 +6,29 @@
     "negative": 1
   },
   "summary": "positive:1 neutral:39 negative:1",
-  "generatedAt": "2026-09-05T08:30:15.009Z",
+  "generatedAt": "2026-09-07T18:18:58.682Z",
   "topics": [
-    "Political Commentary and Controversies"
+    "Trump-backed Republicans sweep May 19 primaries across six states, winning all 37 contests",
+    "UFC Freedom 250 promotion spotlights White House event with Dana White and top fighters",
+    "Trump promotes a White House ballroom featuring drone defenses"
   ],
-  "trendingTopic": "‘A GIFT TO AMERICA’: Trump Says New Ballroom Will Protect Presidents For Generations",
+  "trendingTopic": "Trump-backed Republicans sweep May 19 primaries across six states, winning all 37 contests",
   "secondaryHighlights": [
     {
-      "topic": "Trump Says Ballroom Roof Will Host ‘Drone Empire’ to Defend D.C"
+      "topic": "UFC Freedom 250 promotion spotlights White House event with Dana White and top fighters"
     },
     {
-      "topic": "Save America Act"
+      "topic": "Trump promotes a White House ballroom featuring drone defenses"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:41:739c9b0e73ac6f0d777a8585",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38657",
       "publishedAt": "2026-05-20T00:10:50.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic features portraits of Donald Trump and Congressman Dale Strong, who represents Alabama’s 5th congressional district. Large text reads “CONGRESSMAN (AL-05) DALE STRONG WINS!” and a red banner says “ENDORSED BY PRESIDENT TRUMP!” A Trump-Vance logo appears at the bottom against a blue-to-red gradient background.",
       "url": "https://www.trumpstruth.org/statuses/38657",
       "raw": {
         "creator": "",
@@ -37,13 +40,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38657",
         "isoDate": "2026-05-20T00:10:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:43:55.547Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16358/eb3b361c2f0f76f4.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38656",
       "publishedAt": "2026-05-20T00:11:09.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political campaign graphic announces “Congressman (GA-03) Brian Jack Wins!” and states that he is endorsed by President Donald Trump. It shows portraits of Donald Trump and Brian Jack in suits against a blue-to-red gradient background. A Trump-Vance logo with the slogan “Make America Great Again!” appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38656",
       "raw": {
         "creator": "",
@@ -55,13 +62,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38656",
         "isoDate": "2026-05-20T00:11:09.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:43:52.731Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16357/f5749c8be2421cfb.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38655",
       "publishedAt": "2026-05-20T00:11:22.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic features portraits of Donald Trump and Congressman Rich McCormick of Georgia’s 7th Congressional District. Large text announces “RICH MCCORMICK WINS!” and says he was endorsed by President Trump. A “Trump Vance” logo with the slogan “Make America Great Again!” appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38655",
       "raw": {
         "creator": "",
@@ -73,13 +84,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38655",
         "isoDate": "2026-05-20T00:11:22.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:43:48.805Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16356/bea6ef27495ebf03.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38654",
       "publishedAt": "2026-05-20T00:11:33.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political campaign graphic announces “Congressman (GA-08) Austin Scott Wins!” and states he was endorsed by President Trump. It shows portraits of Donald Trump on the left and Austin Scott on the right, both in suits. A “Trump Van” logo with “Make America Great Again!” appears at the bottom against a blue-to-red gradient background.",
       "url": "https://www.trumpstruth.org/statuses/38654",
       "raw": {
         "creator": "",
@@ -91,13 +106,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38654",
         "isoDate": "2026-05-20T00:11:33.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:43:42.317Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16355/ae62907cf7352f96.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38653",
       "publishedAt": "2026-05-20T00:11:50.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic reads “Congressman (GA-12) Rick Allen Wins!” and “Endorsed by President Trump!” It shows portraits of Donald Trump, wearing a blue suit and tie, and Congressman Rick Allen, wearing a dark suit with a red tie. A “Trump Van” logo and “Make America Great Again!” slogan appear at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38653",
       "raw": {
         "creator": "",
@@ -109,13 +128,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38653",
         "isoDate": "2026-05-20T00:11:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:43:39.652Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16354/4212168e801eff4f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38652",
       "publishedAt": "2026-05-20T00:12:03.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “Congressman (GA-14) Clay Fuller Wins!” and says he was endorsed by President Donald Trump. Donald Trump is pictured on the left in a suit and blue tie, while Clay Fuller appears on the right in a suit and red tie. A “Trump Vance” logo is displayed at the bottom against a dark blue-to-red background.",
       "url": "https://www.trumpstruth.org/statuses/38652",
       "raw": {
         "creator": "",
@@ -127,13 +150,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38652",
         "isoDate": "2026-05-20T00:12:03.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:43:37.146Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16353/6f35db8dac59d247.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38651",
       "publishedAt": "2026-05-20T00:12:11.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic announces “Congressman (PA-07) Ryan Mackenzie Wins!” and says he was endorsed by President Donald Trump. Portraits of Donald Trump and Ryan Mackenzie appear against a blue-to-red gradient background. A logo at the bottom reads “Trump Vance” with the slogan “Make America Great Again!”",
       "url": "https://www.trumpstruth.org/statuses/38651",
       "raw": {
         "creator": "",
@@ -145,13 +172,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38651",
         "isoDate": "2026-05-20T00:12:11.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:43:34.380Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16352/db2e0d3b380d7ff3.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38650",
       "publishedAt": "2026-05-20T00:12:23.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political campaign graphic features portraits of Donald Trump and Congressman Rob Bresnahan in suits and ties. Large text reads “CONGRESSMAN (PA-08) ROB BRESNAHAN WINS!” and a red banner says “ENDORSED BY PRESIDENT TRUMP!” A “Trump Vance” logo with “Make America Great Again!” appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38650",
       "raw": {
         "creator": "",
@@ -163,13 +194,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38650",
         "isoDate": "2026-05-20T00:12:23.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:43:31.550Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16351/36718576836f9c6e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38649",
       "publishedAt": "2026-05-20T00:12:36.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic announces “Congressman (PA-09) Dan Meuser Wins!” and says he was endorsed by President Donald Trump. Portraits of Donald Trump and Dan Meuser, a smiling gray-haired man in a suit and blue tie, appear against a blue-to-red gradient. A “Trump Vance” logo with “Make America Great Again!” is displayed at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38649",
       "raw": {
         "creator": "",
@@ -181,13 +216,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38649",
         "isoDate": "2026-05-20T00:12:36.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:43:28.693Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16350/5eea7dee4ef269df.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38648",
       "publishedAt": "2026-05-20T00:12:47.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political campaign graphic features Donald Trump alongside Congressman Scott Perry of Pennsylvania’s 10th Congressional District. Large text reads “SCOTT PERRY WINS!” and says he was “endorsed by President Trump.” Both men wear suits, with Perry displaying a U.S. flag lapel pin. A “Trump Vance” logo appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38648",
       "raw": {
         "creator": "",
@@ -199,13 +238,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38648",
         "isoDate": "2026-05-20T00:12:47.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:43:25.529Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16349/cbd77f423a3037c6.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38647",
       "publishedAt": "2026-05-20T00:12:59.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political campaign graphic announces “Congressman (PA-11) Lloyd Smucker Wins!” and says he was endorsed by President Donald Trump. Portraits of Donald Trump and Lloyd Smucker appear against a blue-to-red gradient background. A “Trump Vance” logo with the slogan “Make America Great Again!” is displayed at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38647",
       "raw": {
         "creator": "",
@@ -217,13 +260,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38647",
         "isoDate": "2026-05-20T00:12:59.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:43:22.303Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16348/0554ba9c3eb033d8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38646",
       "publishedAt": "2026-05-20T00:13:10.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic features portraits of Donald Trump and Congressman John Joyce, both wearing suits and ties. Large text reads “Congressman (PA-13) John Joyce Wins!” and a red banner says “Endorsed by President Trump!” A “Trump Victory” logo with the slogan “Make America Great Again!” appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38646",
       "raw": {
         "creator": "",
@@ -235,13 +282,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38646",
         "isoDate": "2026-05-20T00:13:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:43:18.467Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16347/a2e4c46e3480ba1e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38645",
       "publishedAt": "2026-05-20T00:13:19.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic shows Donald Trump on the left and Congressman Guy Reschenthaler on the right, both wearing suits and ties. Large text reads “CONGRESSMAN (PA-14) GUY RESCHENTHALER WINS!” and a red banner says “ENDORSED BY PRESIDENT TRUMP!” A Trump-Vance logo with “Make America Great Again!” appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38645",
       "raw": {
         "creator": "",
@@ -253,13 +304,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38645",
         "isoDate": "2026-05-20T00:13:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:43:15.029Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16346/5b9bc855b7f35479.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38644",
       "publishedAt": "2026-05-20T00:13:28.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic shows Donald Trump on the left beside Congressman GT Thompson on the right, both wearing suits and ties. Large text reads “CONGRESSMAN (PA-15) GT THOMPSON WINS!” and a red banner says “ENDORSED BY PRESIDENT TRUMP!” A “Trump Vance” logo with “Make America Great Again!” appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38644",
       "raw": {
         "creator": "",
@@ -271,13 +326,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38644",
         "isoDate": "2026-05-20T00:13:28.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:43:11.883Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16345/062b4aa470934242.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38643",
       "publishedAt": "2026-05-20T00:13:41.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political campaign graphic shows Donald Trump beside Congressman Mike Kelly, who is identified as representing Pennsylvania’s 16th District. Large text announces that Mike Kelly “wins,” while a red banner says he was endorsed by President Trump. Both men wear suits and ties, and a “Trump Van” logo appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38643",
       "raw": {
         "creator": "",
@@ -289,13 +348,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38643",
         "isoDate": "2026-05-20T00:13:41.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:43:08.228Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16344/5d00cdbcced425b9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38642",
       "publishedAt": "2026-05-20T00:13:52.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic shows portraits of Donald Trump and Stacy Garrity against a blue and red background. Large text identifies Garrity as the Republican nominee for governor of Pennsylvania and says “WINS!” A banner states she is endorsed by President Trump, and a Trump-Vance “Make America Great Again” logo appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38642",
       "raw": {
         "creator": "",
@@ -307,13 +370,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38642",
         "isoDate": "2026-05-20T00:13:52.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:43:05.488Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16343/e0e4e46744c2428e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38661",
       "publishedAt": "2026-05-20T01:02:28.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political campaign graphic announces that Congressman Andrew Clyde of Georgia’s 9th Congressional District wins, with an endorsement from Donald Trump. Portraits of Donald Trump and Andrew Clyde appear against a blue-to-red gradient background. A “Trump Vance” logo with the slogan “Make America Great Again!” is displayed at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38661",
       "raw": {
         "creator": "",
@@ -325,13 +392,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38661",
         "isoDate": "2026-05-20T01:02:28.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:43:01.787Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16362/8b63eb52e741641f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38660",
       "publishedAt": "2026-05-20T01:02:38.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “Republican nominee for GA-10” and “Houston Gaines wins!” It shows Houston Gaines in a suit beside Donald Trump, with text stating that Gaines is endorsed by President Trump. A “Trump Vance” logo appears at the bottom, along with the slogan “Make America Great Again,” against a dark blue and red background.",
       "url": "https://www.trumpstruth.org/statuses/38660",
       "raw": {
         "creator": "",
@@ -343,13 +414,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38660",
         "isoDate": "2026-05-20T01:02:38.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:42:59.068Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16361/bacd63ddeafe618c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38659",
       "publishedAt": "2026-05-20T01:02:50.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces Burt Jones as a Republican candidate for governor of Georgia and states that he advances with an endorsement from President Donald Trump. It shows portraits of Donald Trump and Burt Jones against a blue-to-red gradient background, with large white and red lettering and a “Trump Vance” logo at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38659",
       "raw": {
         "creator": "",
@@ -361,13 +436,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38659",
         "isoDate": "2026-05-20T01:02:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:42:56.449Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16360/a25a4bc71010bb38.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38658",
       "publishedAt": "2026-05-20T01:02:59.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political campaign graphic announces “Republican nominee for governor of Alabama Tommy Tuberville wins!” and says he is endorsed by President Donald Trump. Portraits of Donald Trump and Tommy Tuberville appear against a blue-to-red gradient background, with a “Trump Vance” logo and “Make America Great Again!” slogan at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38658",
       "raw": {
         "creator": "",
@@ -379,13 +458,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38658",
         "isoDate": "2026-05-20T01:02:59.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:42:53.586Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16359/5904e62d74025a35.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38673",
       "publishedAt": "2026-05-20T10:23:08.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic features portraits of Donald Trump and Congressman Mike Rogers of Alabama’s 3rd Congressional District. Large text announces “Mike Rogers Wins!” and states that he was endorsed by President Trump. A “Trump Vance” logo appears at the bottom with the slogan “Make America Great Again!” The background fades from dark blue to red.",
       "url": "https://www.trumpstruth.org/statuses/38673",
       "raw": {
         "creator": "",
@@ -397,13 +480,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38673",
         "isoDate": "2026-05-20T10:23:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:42:50.590Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16374/887444e77ecd53ad.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38672",
       "publishedAt": "2026-05-20T10:23:19.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic reads “Congressman (AL-04) Robert Aderholt Wins!” and states that he is endorsed by President Donald Trump. It shows portraits of Donald Trump in a dark suit and blue tie beside Robert Aderholt in a light suit and striped tie. A “Trump Van” logo with “Make America Great Again!” appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38672",
       "raw": {
         "creator": "",
@@ -415,13 +502,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38672",
         "isoDate": "2026-05-20T10:23:19.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:42:47.555Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16373/6f71de2d96e247ac.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38671",
       "publishedAt": "2026-05-20T10:23:29.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces that Republican candidate John Wahl “advances” in the race for lieutenant governor of Alabama. It states that he is endorsed by President Trump and shows portraits of John Wahl and Donald Trump in suits against a dark blue and red background. A “Trump America” logo with “Make America Great Again!” appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38671",
       "raw": {
         "creator": "",
@@ -433,13 +524,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38671",
         "isoDate": "2026-05-20T10:23:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:42:44.427Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16372/b9591f03bc2028fc.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38670",
       "publishedAt": "2026-05-20T10:23:42.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic for Barry Moore, identified as a Republican candidate for U.S. senator from Alabama, says his campaign is advancing and is endorsed by President Donald Trump. Portraits of Barry Moore and Donald Trump appear against a dark blue and red background, with a “Trump Vance” logo and “Make America Great Again!” slogan at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38670",
       "raw": {
         "creator": "",
@@ -451,13 +546,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38670",
         "isoDate": "2026-05-20T10:23:42.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:42:41.717Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16371/bbb6a1a91ba887cf.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38669",
       "publishedAt": "2026-05-20T10:23:51.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces Ralph Alvarado as the Republican nominee for Kentucky’s Sixth Congressional District, declaring that he wins and is endorsed by President Donald Trump. Portraits of Donald Trump and Ralph Alvarado appear in suits against a blue and red background, with a Trump campaign logo at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38669",
       "raw": {
         "creator": "",
@@ -469,13 +568,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38669",
         "isoDate": "2026-05-20T10:23:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:42:39.339Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16370/9244977d7856ceb8.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38668",
       "publishedAt": "2026-05-20T10:24:07.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “Republican nominee for GA-01 Jim Kingston wins!” and states that he is endorsed by President Donald Trump. Portraits of Donald Trump and Jim Kingston appear against a dark blue-to-red gradient background. A “Trump Vance” logo with the slogan “Make America Great Again!” is displayed at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38668",
       "raw": {
         "creator": "",
@@ -487,13 +590,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38668",
         "isoDate": "2026-05-20T10:24:07.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:42:37.186Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16369/f90450e44538661e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38667",
       "publishedAt": "2026-05-20T10:24:17.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic shows Donald Trump beside Congressman Russ Fulcher of Idaho’s 1st Congressional District. Large text reads “RUSS FULCHER WINS!” and “ENDORSED BY PRESIDENT TRUMP!” A Trump-Vance campaign logo appears at the bottom, with both men wearing suits against a blue and burgundy background.",
       "url": "https://www.trumpstruth.org/statuses/38667",
       "raw": {
         "creator": "",
@@ -505,13 +612,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38667",
         "isoDate": "2026-05-20T10:24:17.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:42:34.848Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16368/9914c43b7a9fcfb6.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38666",
       "publishedAt": "2026-05-20T10:24:25.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic features portraits of Donald Trump and Congressman Mike Simpson in suits and ties. Large text reads “CONGRESSMAN (ID-02) MIKE SIMPSON WINS!” and a red banner states “ENDORSED BY PRESIDENT TRUMP!” The bottom includes a Trump campaign logo with the slogan “Make America Great Again!”",
       "url": "https://www.trumpstruth.org/statuses/38666",
       "raw": {
         "creator": "",
@@ -523,13 +634,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38666",
         "isoDate": "2026-05-20T10:24:25.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:42:30.976Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16367/8cb0c1c02e948039.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38665",
       "publishedAt": "2026-05-20T10:24:39.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic features portraits of Donald Trump and Idaho Governor Brad Little in suits against a blue-to-red gradient background. Large text reads “Governor of Idaho Brad Little Wins!” and a red banner says “Endorsed by President Trump!” A lower emblem reads “Trump-Vance” and “Make America Great Again!”",
       "url": "https://www.trumpstruth.org/statuses/38665",
       "raw": {
         "creator": "",
@@ -541,13 +656,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38665",
         "isoDate": "2026-05-20T10:24:39.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:42:28.055Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16366/0cdf9b5190c6d97e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38664",
       "publishedAt": "2026-05-20T10:24:50.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic features portraits of Donald Trump and Scott Bedke, who is identified as lieutenant governor of Idaho. Large text announces “SCOTT BEDKE WINS!” and says he was endorsed by President Trump. A red, white, and blue gradient background and a “Trump Van” logo reinforce the political theme.",
       "url": "https://www.trumpstruth.org/statuses/38664",
       "raw": {
         "creator": "",
@@ -559,13 +678,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38664",
         "isoDate": "2026-05-20T10:24:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:42:25.031Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16365/1dbbea6dfc1b8609.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38663",
       "publishedAt": "2026-05-20T10:25:00.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic announces “U.S. Senator from Idaho Jim Risch WINS!” and states that he was endorsed by President Donald Trump. Portraits of Donald Trump and Jim Risch appear against a blue-to-red gradient background. A logo at the bottom reads “Trump Vance” and includes the slogan “Make America Great Again!”",
       "url": "https://www.trumpstruth.org/statuses/38663",
       "raw": {
         "creator": "",
@@ -577,13 +700,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38663",
         "isoDate": "2026-05-20T10:25:00.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:42:22.230Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16364/0137ee6cf5714706.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38662",
       "publishedAt": "2026-05-20T10:25:10.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic features portraits of Donald Trump and Congressman Cliff Bentz, who represents Oregon’s 2nd Congressional District. Large text reads “CLIFF BENTZ WINS!” and a red banner says “ENDORSED BY PRESIDENT TRUMP!” The design uses a dark blue-to-red gradient, white borders, and a “Trump Vance” logo with the slogan “Make America Great Again!”",
       "url": "https://www.trumpstruth.org/statuses/38662",
       "raw": {
         "creator": "",
@@ -595,13 +722,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38662",
         "isoDate": "2026-05-20T10:25:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:42:19.575Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16363/ee1404e09fef6edd.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38674",
       "publishedAt": "2026-05-20T10:25:55.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political graphic features a portrait of Donald Trump inside a red circle with a green check mark. Text reads “May 19th Election Update: 37 Wins - 0 Losses,” “President Trump Endorsements 100%,” and lists results by state: Pennsylvania 10-0, Georgia 9-0, Alabama 6-0, Idaho 5-0, Kentucky 6-0, and Oregon 1-0. A Trump Vance logo appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38674",
       "raw": {
         "creator": "",
@@ -613,7 +744,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38674",
         "isoDate": "2026-05-20T10:25:55.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:42:16.337Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16375/f0c4e6ca6ed39442.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38675",
@@ -637,7 +772,7 @@
       "id": "https://www.trumpstruth.org/statuses/38677",
       "publishedAt": "2026-05-20T17:20:11.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands in front of the White House beside a bald man dressed in black. Uniformed personnel line both sides, with some firing rifles in a ceremonial display. Above them, military jets fly in formation, leaving blue, white, and red smoke trails, while searchlights illuminate the night sky. An American flag flies from the building.",
       "url": "https://www.trumpstruth.org/statuses/38677",
       "raw": {
         "creator": "",
@@ -649,13 +784,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38677",
         "isoDate": "2026-05-20T17:20:11.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:42:13.653Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16377/a8b1e2f04c1d6fa0.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38676",
       "publishedAt": "2026-05-20T17:20:21.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands beside Dana White in front of the White House during a dramatic thunderstorm. Both wear dark suits, with Trump in a red tie. An octagonal mixed-martial-arts cage is set on the lawn behind them, while lightning, heavy rain, and dark clouds fill the sky. “FREAK” and “Stake” logos appear along the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38676",
       "raw": {
         "creator": "",
@@ -667,13 +806,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38676",
         "isoDate": "2026-05-20T17:20:21.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:42:10.087Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16376/36098a4976e6df60.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38678",
       "publishedAt": "2026-05-20T17:20:50.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A promotional poster for UFC Freedom 250 shows Ilia Topuria and Justin Gaethje facing off with championship belts, alongside Alex Pereira and Ciryl Gane. The fighters are arranged around a large UFC Freedom 250 logo and a nighttime image of the White House. Text advertises June 14, with Paramount+ and Crypto.com branding.",
       "url": "https://www.trumpstruth.org/statuses/38678",
       "raw": {
         "creator": "",
@@ -685,13 +828,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38678",
         "isoDate": "2026-05-20T17:20:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:42:06.915Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16378/efe6cd27782bd181.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38679",
       "publishedAt": "2026-05-20T18:01:15.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A gold-colored plaque rests in a black foam-lined box. It displays a Kalshi chart titled “Who will win the Presidential Election?” with lines tracking Donald J. Trump and Kamala Harris from Oct. 4 to Nov. 6. At the chart’s endpoint, Donald Trump is marked at 99% in red and Kamala Harris at 1% in blue. Reflections of a ceiling fan are visible.",
       "url": "https://www.trumpstruth.org/statuses/38679",
       "raw": {
         "creator": "",
@@ -703,13 +850,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38679",
         "isoDate": "2026-05-20T18:01:15.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:42:03.730Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16379/3b3336a575925cd5.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38680",
       "publishedAt": "2026-05-20T22:17:57.000Z",
       "title": "[No Title] - Post from May 20, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a social-media post by Hugo Lowell (@hugolowell), dated May 20, 2026. The post says a former federal prosecutor in Fort Pierce was indicted for sending a copy of Donald Trump special counsel Jack Smith’s report about the Mar-a-Lago classified documents case to her personal email. It calls the file “Chocolate Cake Recipe” and shows a link and view count.",
       "url": "https://www.trumpstruth.org/statuses/38680",
       "raw": {
         "creator": "",
@@ -721,7 +872,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38680",
         "isoDate": "2026-05-20T22:17:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:42:00.810Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16380/249dfd7e14716691.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38682",
@@ -1007,5 +1162,6 @@
       "rationale": "The statement is factual and does not express a clear positive or negative sentiment.",
       "analyzedAt": "2026-09-05T08:30:15.004Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:41:739c9b0e73ac6f0d777a8585"
 }

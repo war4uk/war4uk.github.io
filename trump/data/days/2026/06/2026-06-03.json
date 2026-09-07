@@ -6,31 +6,34 @@
     "negative": 3
   },
   "summary": "positive:5 neutral:20 negative:3",
-  "generatedAt": "2026-09-06T06:03:09.295Z",
+  "generatedAt": "2026-09-07T18:24:43.462Z",
   "topics": [
-    "Announces attendance at G7 following UFC World Championship Fights at the White House",
-    "Congratulates Steve Hilton on winning California Governor primary",
-    "Endorses Adriana Guzmán Fralick for Nevada Attorney General"
+    "Trump-endorsed Republicans win congressional and gubernatorial primaries across several states",
+    "Trump condemns communism as destructive despite early voter support",
+    "Supreme Court clears Alabama to use GOP-friendly congressional map this fall"
   ],
-  "trendingTopic": "Announces attendance at G7 following UFC World Championship Fights at the White House",
+  "trendingTopic": "Trump-endorsed Republicans win congressional and gubernatorial primaries across several states",
   "secondaryHighlights": [
     {
-      "topic": "Congratulates Steve Hilton on winning California Governor primary",
-      "name": "Steve Hilton"
+      "topic": "Endorses Adriana Guzmán Fralick for Nevada attorney general",
+      "name": "Adriana Guzmán Fralick"
     },
     {
-      "topic": "Endorses Adriana Guzmán Fralick for Nevada Attorney General",
-      "name": "Adriana Guzmán Fralick"
+      "topic": "Congratulates Colombian presidential candidate Abelardo de la Espriella on reaching the runoff",
+      "name": "Abelardo de la Espriella"
+    },
+    {
+      "topic": "EPA chief refers alleged Democratic self-dealing in green energy grants for criminal investigation"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v8:28:c98b09d3f4d31d999b33a3b0",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:28:c98b09d3f4d31d999b33a3b0",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39048",
       "publishedAt": "2026-06-03T00:08:20.000Z",
       "title": "[No Title] - Post from June 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic announces “Congressman (NJ-02) Jeff Van Drew Wins!” and states that he was endorsed by President Donald Trump. It shows portraits of Donald Trump in a dark suit and blue tie beside Jeff Van Drew in a dark suit and yellow tie. A “Trump Van Drew” logo with “Make America Great Again!” appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39048",
       "raw": {
         "creator": "",
@@ -42,13 +45,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39048",
         "isoDate": "2026-06-03T00:08:20.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:54:30.159Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16582/f46c6cce89938ec9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39047",
       "publishedAt": "2026-06-03T00:08:32.000Z",
       "title": "[No Title] - Post from June 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “Congressman (NJ-04) Chris Smith wins!” and states that he was endorsed by President Donald Trump. Portraits of Donald Trump and Chris Smith appear against a blue-to-red gradient background. A logo at the bottom reads “Trump Van” with the slogan “Make America Great Again!”",
       "url": "https://www.trumpstruth.org/statuses/39047",
       "raw": {
         "creator": "",
@@ -60,13 +67,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39047",
         "isoDate": "2026-06-03T00:08:32.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:54:27.514Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16581/ffab1347c0322b31.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39046",
       "publishedAt": "2026-06-03T00:09:39.000Z",
       "title": "[No Title] - Post from June 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political campaign graphic announces “Congressman (NJ-07) Tom Kean Wins!” in large white lettering against a blue-to-red background. It shows Donald Trump beside Tom Kean Jr., who is wearing a suit and patterned tie. A red banner says “Endorsed by President Trump!” and a logo at the bottom reads “Trump Van” with “Make America Great Again!”",
       "url": "https://www.trumpstruth.org/statuses/39046",
       "raw": {
         "creator": "",
@@ -78,7 +89,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39046",
         "isoDate": "2026-06-03T00:09:39.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:54:23.875Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16580/9b25be0133e93d3f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39049",
@@ -120,7 +135,7 @@
       "id": "https://www.trumpstruth.org/statuses/39055",
       "publishedAt": "2026-06-03T01:29:06.000Z",
       "title": "[No Title] - Post from June 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “Republican nominee for U.S. Senator from Iowa Ashley Hinson wins!” and says she is endorsed by President Donald Trump. It shows portraits of Donald Trump in a suit and Ashley Hinson in a red jacket and pearl necklace. A Trump-Vance logo with the slogan “Make America Great Again!” appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39055",
       "raw": {
         "creator": "",
@@ -132,13 +147,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39055",
         "isoDate": "2026-06-03T01:29:06.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:54:20.873Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16587/bf62670f738fdf07.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39054",
       "publishedAt": "2026-06-03T01:29:16.000Z",
       "title": "[No Title] - Post from June 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic announces “Congressman (IA-03) Zach Nunn Wins!” and states that he was endorsed by President Donald Trump. It shows portraits of Donald Trump in a dark suit and blue tie beside Zach Nunn in a blue suit and red tie. A “Trump Vance” logo with the slogan “Make America Great Again!” appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39054",
       "raw": {
         "creator": "",
@@ -150,13 +169,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39054",
         "isoDate": "2026-06-03T01:29:16.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:54:18.049Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16586/df20aae298bc24c1.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39053",
       "publishedAt": "2026-06-03T01:29:26.000Z",
       "title": "[No Title] - Post from June 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “Republican nominee for IA-04” Chris McGowan as the winner and says he is endorsed by President Donald Trump. It shows portraits of Donald Trump and Chris McGowan in suits against a dark blue and red background. A logo at the bottom reads “Trump Van,” with the slogan “Make America Great Again!”",
       "url": "https://www.trumpstruth.org/statuses/39053",
       "raw": {
         "creator": "",
@@ -168,13 +191,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39053",
         "isoDate": "2026-06-03T01:29:26.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:54:15.440Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16585/baf41874b848c8d1.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39052",
       "publishedAt": "2026-06-03T01:29:37.000Z",
       "title": "[No Title] - Post from June 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic features portraits of Donald Trump and U.S. Senator Mike Rounds of South Dakota in suits and ties. Large text reads “U.S. SENATOR FROM SOUTH DAKOTA MIKE ROUNDS WINS!” and a red banner says “ENDORSED BY PRESIDENT TRUMP!” A Trump Van campaign logo appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39052",
       "raw": {
         "creator": "",
@@ -186,13 +213,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39052",
         "isoDate": "2026-06-03T01:29:37.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:54:12.430Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16584/6551bdcc04fd7330.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39051",
       "publishedAt": "2026-06-03T01:29:47.000Z",
       "title": "[No Title] - Post from June 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political campaign graphic announces “Republican nominee for SD-AL Marty Jackley wins!” and says he was endorsed by President Donald Trump. Portraits of Donald Trump and Marty Jackley appear against a blue-to-red gradient background. A Trump-Vance logo with “Make America Great Again!” is displayed at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39051",
       "raw": {
         "creator": "",
@@ -204,13 +235,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39051",
         "isoDate": "2026-06-03T01:29:47.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:54:09.486Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16583/13034fca91f077ba.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39061",
       "publishedAt": "2026-06-03T02:43:38.000Z",
       "title": "[No Title] - Post from June 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces Greg Cunningham as the Republican nominee for New Mexico’s 2nd Congressional District, with large text stating “WINS!” It says Cunningham is endorsed by President Donald Trump. Portraits of Cunningham, smiling in a dark jacket, and Donald Trump, wearing a suit and tie, appear against a red and blue background with a Trump campaign logo.",
       "url": "https://www.trumpstruth.org/statuses/39061",
       "raw": {
         "creator": "",
@@ -222,13 +257,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39061",
         "isoDate": "2026-06-03T02:43:38.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:54:06.808Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16593/cb0bbc8551a11099.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39060",
       "publishedAt": "2026-06-03T02:43:50.000Z",
       "title": "[No Title] - Post from June 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “Congressman (MT-02) Troy Downing Wins!” and says he was endorsed by President Donald Trump. It shows portraits of Donald Trump on the left and Troy Downing on the right, both wearing suits and ties. A Trump-Vance logo appears at the bottom against a blue-to-red gradient background.",
       "url": "https://www.trumpstruth.org/statuses/39060",
       "raw": {
         "creator": "",
@@ -240,13 +279,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39060",
         "isoDate": "2026-06-03T02:43:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:54:03.692Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16592/9a7bc7892fbdcc95.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39059",
       "publishedAt": "2026-06-03T02:44:01.000Z",
       "title": "[No Title] - Post from June 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “Republican nominee for MT-01” and declares “Aaron Flint wins!” It features portraits of Donald Trump and Aaron Flint against a blue-to-red gradient background. Red and white text says Flint is endorsed by President Trump, and a “Trump Vance” logo appears at the bottom with the slogan “Make America Great Again!”",
       "url": "https://www.trumpstruth.org/statuses/39059",
       "raw": {
         "creator": "",
@@ -258,13 +301,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39059",
         "isoDate": "2026-06-03T02:44:01.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:54:00.690Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16591/06e052dcb0239a94.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39058",
       "publishedAt": "2026-06-03T02:44:09.000Z",
       "title": "[No Title] - Post from June 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic features portraits of Donald Trump and Kurt Alme against a blue-to-red gradient background. Large text identifies Alme as the Republican nominee for U.S. senator from Montana and declares “Kurt Alme Wins!” A red banner says he is endorsed by President Trump, with a Trump campaign logo at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39058",
       "raw": {
         "creator": "",
@@ -276,13 +323,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39058",
         "isoDate": "2026-06-03T02:44:09.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:53:57.385Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16590/25217c4b528eb3ef.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39057",
       "publishedAt": "2026-06-03T02:44:18.000Z",
       "title": "[No Title] - Post from June 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A Republican campaign graphic announces “Joe Mitchell wins!” in Iowa’s 2nd Congressional District and says he is endorsed by President Donald Trump. It shows portraits of Donald Trump and Joe Mitchell in suits against a dark blue and red background, with a Trump-Vance logo and “Make America Great Again!” slogan at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39057",
       "raw": {
         "creator": "",
@@ -294,13 +345,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39057",
         "isoDate": "2026-06-03T02:44:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:53:53.863Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16589/f585adf98944a067.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39056",
       "publishedAt": "2026-06-03T02:44:31.000Z",
       "title": "[No Title] - Post from June 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political graphic features portraits of Donald Trump and Congresswoman Mariannette Miller-Meeks. Large text announces “Congresswoman (IA-01) Mariannette Miller-Meeks Wins!” and states that she was endorsed by President Trump. A Trump-Vance campaign logo appears at the bottom, with a dark blue-to-red gradient background and white border.",
       "url": "https://www.trumpstruth.org/statuses/39056",
       "raw": {
         "creator": "",
@@ -312,7 +367,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39056",
         "isoDate": "2026-06-03T02:44:31.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:53:51.200Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16588/f3e214365e58a4aa.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39063",
@@ -354,7 +413,7 @@
       "id": "https://www.trumpstruth.org/statuses/39064",
       "publishedAt": "2026-06-03T03:06:07.000Z",
       "title": "[No Title] - Post from June 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Two pages of a Brownstein Hyatt Farber Schreck letter dated April 22, 2025, from R. James Nicholson to President Donald Trump. Nicholson, a former cabinet officer, ambassador, RNC chairman, and VA secretary, requests a full pardon for former Congressman Steve Buyer and dismissal of an SEC lawsuit. The letter references George W. Bush, Bill Clinton, Hillary Clinton, Barack Obama, and Joe Biden.",
       "url": "https://www.trumpstruth.org/statuses/39064",
       "raw": {
         "creator": "",
@@ -366,7 +425,12 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39064",
         "isoDate": "2026-06-03T03:06:07.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:53:47.244Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16594/a3123a07ecfbba58.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16595/97635e3fa52c92aa.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39066",
@@ -390,7 +454,7 @@
       "id": "https://www.trumpstruth.org/statuses/39065",
       "publishedAt": "2026-06-03T03:44:37.000Z",
       "title": "[No Title] - Post from June 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A black-and-white photograph shows Donald Trump standing beside Whitney Houston, who is smiling and wearing a light-colored dress. Two other women stand with them, including an older woman in a dark sequined outfit and a younger woman in dark clothing. Text above the image reads, “Whitney Houston and Future President Donald J. Trump.”",
       "url": "https://www.trumpstruth.org/statuses/39065",
       "raw": {
         "creator": "",
@@ -402,13 +466,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39065",
         "isoDate": "2026-06-03T03:44:37.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:53:44.131Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16596/272c9a6f016a46eb.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39067",
       "publishedAt": "2026-06-03T03:44:48.000Z",
       "title": "[No Title] - Post from June 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image is a meme labeled “Trump 007,” showing Donald Trump in a dark suit and red tie behind vertical black strips or bars. Several distorted reflections or repeated images of his face appear alongside him, creating a stylized, fragmented effect against a dark background.",
       "url": "https://www.trumpstruth.org/statuses/39067",
       "raw": {
         "creator": "",
@@ -420,7 +488,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39067",
         "isoDate": "2026-06-03T03:44:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:53:41.456Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16598/b995260238cc54b0.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39068",
@@ -700,5 +772,6 @@
       "rationale": "The text conveys excitement about attending the G7 and describes the UFC event at the White House as 'one of the Most Entertaining Nights in American History', indicating a positive sentiment.",
       "analyzedAt": "2026-09-05T08:33:47.289Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:28:c98b09d3f4d31d999b33a3b0"
 }

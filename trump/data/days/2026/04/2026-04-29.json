@@ -6,32 +6,34 @@
     "negative": 2
   },
   "summary": "positive:3 neutral:1 negative:2",
-  "generatedAt": "2026-09-05T08:48:02.719Z",
+  "generatedAt": "2026-09-07T18:11:17.216Z",
   "topics": [
-    "Endorsements and Support for Candidates",
-    "Economic Growth and Job Creation",
-    "Political Commentary and Controversies"
+    "Says Iran cannot agree to a nonnuclear deal",
+    "Hails Supreme Court's 6-3 Callais decision as restoring the Voting Rights Act's original purpose",
+    "Reviews possible reduction of U.S. troops in Germany"
   ],
-  "trendingTopic": "Iran can’t get their act together",
+  "trendingTopic": "Donald Trump says Iran cannot agree to a nonnuclear deal",
   "secondaryHighlights": [
     {
-      "topic": "Jerome “Too Late” Powell wants to stay at the Fed because he can’t get a job anywhere else"
+      "topic": "Attacks Jerome Powell as unqualified to remain Federal Reserve chair",
+      "name": "Jerome Powell"
     },
     {
-      "topic": "Intel Stock continues to rise"
+      "topic": "Claims responsibility for Intel stock gains and billions in U.S. value"
     },
     {
-      "topic": "Robert Hardman has written an amazing book about the incredible life of the beloved and deeply respected Queen Elizabeth II. In his research, Robert discovers many interesting things about the Queen, King Charles, and other members of the Royal Family.",
+      "topic": "Praises Robert Hardman's book about Queen Elizabeth II and the Royal Family",
       "name": "Robert Hardman"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:6:f3954a0065d73929b3583262",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38088",
       "publishedAt": "2026-04-29T08:05:38.000Z",
       "title": "Iran can’t get their act together. They don’t know how to sign a nonnuclear deal. They better get smart soon! President DJT",
-      "text": "<p>Iran can’t get their act together. They don’t know how to sign a nonnuclear deal. They better get smart soon! President DJT</p>",
+      "text": "<p>Iran can’t get their act together. They don’t know how to sign a nonnuclear deal. They better get smart soon! President DJT</p>\n\n[Image] A digitally composited image shows Donald Trump wearing a black suit, sunglasses, and an American flag pin while holding a rifle. He stands before a mountainous settlement filled with smoke and fiery explosions. Large text above reads “NO MORE MR. NICE GUY!” followed by a U.S. flag emoji, presenting Trump in a militarized action-scene setting.",
       "url": "https://www.trumpstruth.org/statuses/38088",
       "raw": {
         "creator": "",
@@ -43,7 +45,11 @@
         "contentSnippet": "Iran can’t get their act together. They don’t know how to sign a nonnuclear deal. They better get smart soon! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/38088",
         "isoDate": "2026-04-29T08:05:38.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:06:04.310Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16024/5d73d73997b7ca6f.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38089",
@@ -121,7 +127,7 @@
       "id": "https://www.trumpstruth.org/statuses/38093",
       "publishedAt": "2026-04-29T23:04:28.000Z",
       "title": "Robert Hardman has written an amazing book about the incredible life of the beloved and deeply respected Queen Elizabeth II. In his research, Robert discovers many interesting things about the Queen, King Charles, and other members of the Royal Family. Robert's book, \"Elizabeth II: In Private. In Public. Her Story,\" promises to be a MUST READ, and can be purchased on Amazon, and at every major bookstore. Congratulations on what will soon be a Bestseller! President DONALD J. TRUMP",
-      "text": "<p>Robert Hardman has written an amazing book about the incredible life of the beloved and deeply respected Queen Elizabeth II. In his research, Robert discovers many interesting things about the Queen, King Charles, and other members of the Royal Family. Robert's book, \"Elizabeth II: In Private. In Public. Her Story,\" promises to be a MUST READ, and can be purchased on Amazon, and at every major bookstore. Congratulations on what will soon be a Bestseller! President DONALD J. TRUMP<br/><a href=\"https://www.amazon.com/Elizabeth-II-Private-Public-Story/dp/B0FXVC6PHH/ref=tmm_hrd_swatch_0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">amazon.com/Elizabeth-II-Privat</span><span class=\"invisible\">e-Public-Story/dp/B0FXVC6PHH/ref=tmm_hrd_swatch_0</span></a></p>",
+      "text": "<p>Robert Hardman has written an amazing book about the incredible life of the beloved and deeply respected Queen Elizabeth II. In his research, Robert discovers many interesting things about the Queen, King Charles, and other members of the Royal Family. Robert's book, \"Elizabeth II: In Private. In Public. Her Story,\" promises to be a MUST READ, and can be purchased on Amazon, and at every major bookstore. Congratulations on what will soon be a Bestseller! President DONALD J. TRUMP<br/><a href=\"https://www.amazon.com/Elizabeth-II-Private-Public-Story/dp/B0FXVC6PHH/ref=tmm_hrd_swatch_0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">amazon.com/Elizabeth-II-Privat</span><span class=\"invisible\">e-Public-Story/dp/B0FXVC6PHH/ref=tmm_hrd_swatch_0</span></a></p>\n\n[Image] A book cover for “Elizabeth II: In Private. In Public. Her Story.” by Robert Hardman features a colorized formal portrait of Queen Elizabeth II. She wears a jeweled crown, pearl jewelry, a pale patterned gown, and a blue ceremonial sash with an insignia, while holding a folded fan against a draped blue-gray backdrop.",
       "url": "https://www.trumpstruth.org/statuses/38093",
       "raw": {
         "creator": "",
@@ -133,7 +139,11 @@
         "contentSnippet": "Robert Hardman has written an amazing book about the incredible life of the beloved and deeply respected Queen Elizabeth II. In his research, Robert discovers many interesting things about the Queen, King Charles, and other members of the Royal Family. Robert's book, \"Elizabeth II: In Private. In Public. Her Story,\" promises to be a MUST READ, and can be purchased on Amazon, and at every major bookstore. Congratulations on what will soon be a Bestseller! President DONALD J. TRUMP\nhttps://www.amazon.com/Elizabeth-II-Private-Public-Story/dp/B0FXVC6PHH/ref=tmm_hrd_swatch_0",
         "guid": "https://www.trumpstruth.org/statuses/38093",
         "isoDate": "2026-04-29T23:04:28.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:06:00.030Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16025/946ffdb56a505129.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -173,5 +183,6 @@
       "rationale": "The text expresses admiration for Robert Hardman's book about Queen Elizabeth II, calling it 'amazing' and a 'MUST READ', indicating a positive sentiment.",
       "analyzedAt": "2026-09-05T08:48:02.716Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:6:f3954a0065d73929b3583262"
 }

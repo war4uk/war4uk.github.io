@@ -6,32 +6,32 @@
     "negative": 0
   },
   "summary": "positive:7 neutral:10 negative:0",
-  "generatedAt": "2026-09-05T08:27:08.932Z",
+  "generatedAt": "2026-09-07T18:14:23.133Z",
   "topics": [
-    "Economic Growth and Job Creation",
-    "Endorsements and Support for Candidates",
-    "Political Commentary and Controversies"
+    "Trump touts S&P 500 above 7,300 as an all-time high under his presidency",
+    "Bryson DeChambeau demonstrates fitness testing at the White House",
+    "Trump highlights a short Iran operation and a U.S. laser strike on an Iranian aircraft"
   ],
-  "trendingTopic": "Hakeem Jeffries doubles down on 'maximum warfare' rhetoric, tells critics 'I don't give a damn'",
-  "trendingName": "Hakeem Jeffries",
+  "trendingTopic": "Trump touts S&P 500 above 7,300 as an all-time high under his presidency",
   "secondaryHighlights": [
     {
-      "topic": "Huge win for the Republican Party, and America, in Virginia"
+      "topic": "Trump announces a three-day Russia-Ukraine ceasefire for Victory Day"
     },
     {
-      "topic": "Bryson DeChambeau and Gary Player doing 50 Push Ups at the White House for the reinstatement of the Presidential Fitness Test!"
+      "topic": "Trump announces release of the first tranche of UFO and UAP files"
     },
     {
-      "topic": "Amazing — Bryson doing 30 Pull Ups at the White House for the reinstatement of the Presidential Fitness Test!"
+      "topic": "Trump celebrates April job growth exceeding economists’ expectations"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v10:17:6e9cb5fbb1bfa092612e1e9b",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38267",
       "publishedAt": "2026-05-08T04:13:22.000Z",
       "title": "[No Title] - Post from May 8, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic headline reads “TRUMP’S STOCK MARKET ALL TIME HIGH!” Above an upward-trending green S&P 500 line chart spanning 1960 to 2026, a large green box displays “7,300+.” Donald Trump’s portrait appears in a circular inset near the chart’s rising endpoint, with a green dot marking the final high.",
       "url": "https://www.trumpstruth.org/statuses/38267",
       "raw": {
         "creator": "",
@@ -43,7 +43,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38267",
         "isoDate": "2026-05-08T04:13:22.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:33:11.856Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16111/b9b67b0c5b8f8e43.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38268",
@@ -67,7 +71,7 @@
       "id": "https://www.trumpstruth.org/statuses/38272",
       "publishedAt": "2026-05-08T09:41:17.000Z",
       "title": "June 14th. Biggest ever!!! DJT",
-      "text": "<p>June 14th. Biggest ever!!! DJT</p>",
+      "text": "<p>June 14th. Biggest ever!!! DJT</p>\n\n[Image] Donald Trump stands in front of the White House beside a bald man dressed in black. Rows of uniformed military personnel flank them, with some raising rifles in a ceremonial display. Above the building, fighter jets release blue, white, and red smoke in formation, while searchlights illuminate the night sky. Stake and FREAK logos appear at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38272",
       "raw": {
         "creator": "",
@@ -79,13 +83,17 @@
         "contentSnippet": "June 14th. Biggest ever!!! DJT",
         "guid": "https://www.trumpstruth.org/statuses/38272",
         "isoDate": "2026-05-08T09:41:17.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:33:08.879Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16115/6363d0b1673f7f56.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38271",
       "publishedAt": "2026-05-08T09:41:32.000Z",
       "title": "[No Title] - Post from May 8, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image bears the headline “Lasers: Bing, Bing, GONE!!!” It shows a U.S. naval warship marked with the number 79 firing a bright red laser at a military aircraft overhead. The aircraft is engulfed in flames and black smoke, with debris flying outward; an Iranian flag is visible on its fuselage. The scene is set over a rough ocean beneath a partly cloudy sky.",
       "url": "https://www.trumpstruth.org/statuses/38271",
       "raw": {
         "creator": "",
@@ -97,13 +105,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38271",
         "isoDate": "2026-05-08T09:41:32.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:33:05.344Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16114/ef0996feb52ae9f4.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38270",
       "publishedAt": "2026-05-08T09:41:42.000Z",
       "title": "[No Title] - Post from May 8, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political graphic claims that oil prices have fallen 25%, or $30 per barrel, since “Sleepy Joe” Biden. It compares two bars labeled “Biden $120” and “Trump $90,” with a downward arrow pointing from the taller blue Biden bar to the shorter green Trump bar. The graphic names Joe Biden and Donald Trump.",
       "url": "https://www.trumpstruth.org/statuses/38270",
       "raw": {
         "creator": "",
@@ -115,13 +127,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38270",
         "isoDate": "2026-05-08T09:41:42.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:33:01.985Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16113/56d1c1ad120d1b98.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38269",
       "publishedAt": "2026-05-08T09:41:57.000Z",
       "title": "[No Title] - Post from May 8, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “Trump’s Stock Market All Time High!” shows Donald Trump’s portrait in a circular inset beside a rising green S&P 500 line chart spanning 1960 to 2026. A large green callout reads “7,300+,” and the chart is labeled “S&P 500,” with the latest point marked near 2026.",
       "url": "https://www.trumpstruth.org/statuses/38269",
       "raw": {
         "creator": "",
@@ -133,13 +149,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38269",
         "isoDate": "2026-05-08T09:41:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:32:58.986Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16112/f3e9a1d4324f8d61.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38273",
       "publishedAt": "2026-05-08T09:42:30.000Z",
       "title": "[No Title] - Post from May 8, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “Length of Wars” compares U.S. conflicts by duration in weeks. Blue bars list the Afghanistan War at 543 weeks, Iraq War at 457, Vietnam War at 439, the U.S. Civil War at 209, World War II at 196, the Korean War at 161, and the War of 1812 at 139. A red-outlined box adds “Iran Excursion” with 6.",
       "url": "https://www.trumpstruth.org/statuses/38273",
       "raw": {
         "creator": "",
@@ -151,13 +171,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38273",
         "isoDate": "2026-05-08T09:42:30.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:32:56.219Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16116/00ac55d8b853aecb.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38274",
       "publishedAt": "2026-05-08T11:35:22.000Z",
       "title": "[No Title] - Post from May 8, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Two pages of a typed presidential proclamation titled “Victory Day for World War II, 2026.” The document commemorates the Allied victory over Nazi Germany, honors American and Allied service members, and mentions the 250th anniversary of U.S. independence. The second page identifies Donald Trump as president, proclaims May 8, 2026, as Victory Day, and includes a large handwritten signature.",
       "url": "https://www.trumpstruth.org/statuses/38274",
       "raw": {
         "creator": "",
@@ -169,7 +193,12 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38274",
         "isoDate": "2026-05-08T11:35:22.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:32:53.589Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16117/a45042dd09b1b932.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16118/c5be8de6e1637e0c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38277",
@@ -283,7 +312,7 @@
       "id": "https://www.trumpstruth.org/statuses/38281",
       "publishedAt": "2026-05-08T22:46:32.000Z",
       "title": "[No Title] - Post from May 8, 2026",
-      "text": "<p><a href=\"https://www.whitehouse.gov/presidential-actions/2026/05/military-spouse-day-2026/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">whitehouse.gov/presidential-ac</span><span class=\"invisible\">tions/2026/05/military-spouse-day-2026/</span></a></p>",
+      "text": "<p><a href=\"https://www.whitehouse.gov/presidential-actions/2026/05/military-spouse-day-2026/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">whitehouse.gov/presidential-ac</span><span class=\"invisible\">tions/2026/05/military-spouse-day-2026/</span></a></p>\n\n[Image] A dark navy graphic displays the presidential seal with the numbers 45 and 47 beneath the eagle. Text reads “Presidential Actions,” “Military Spouse Day, 2026,” “Proclamations,” and “May 7, 2026.” No people are shown.",
       "url": "https://www.trumpstruth.org/statuses/38281",
       "raw": {
         "creator": "",
@@ -295,13 +324,17 @@
         "contentSnippet": "https://www.whitehouse.gov/presidential-actions/2026/05/military-spouse-day-2026/",
         "guid": "https://www.trumpstruth.org/statuses/38281",
         "isoDate": "2026-05-08T22:46:32.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:32:49.154Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16121/7b69f8ac5db8e392.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38282",
       "publishedAt": "2026-05-08T23:01:16.000Z",
       "title": "Happy Mother's Day weekend to all, especially to the 115 THOUSAND AMERICANS who found jobs in the month of April alone! As usual, over 90 percent of Bloomberg Economists (nearly all of whom have a \"Terminal\" case of TRUMP DERANGEMENT SYNDROME!) underestimated the strength of the Trump Economy. Despite the best efforts of Jerome \"Too Late and Won't Leave\" Powell, and the America Hating Democrat Party, more Americans are working today than ever before. Happy Mother’s Day and, know that, we are MAKING AMERICA WEALTHY AND SAFE AGAIN! President DONALD J. TRUMP",
-      "text": "<p>Happy Mother's Day weekend to all, especially to the 115 THOUSAND AMERICANS who found jobs in the month of April alone! As usual, over 90 percent of Bloomberg Economists (nearly all of whom have a \"Terminal\" case of TRUMP DERANGEMENT SYNDROME!) underestimated the strength of the Trump Economy. Despite the best efforts of Jerome \"Too Late and Won't Leave\" Powell, and the America Hating Democrat Party, more Americans are working today than ever before. Happy Mother’s Day and, know that, we are MAKING AMERICA WEALTHY AND SAFE AGAIN! President DONALD J. TRUMP</p>",
+      "text": "<p>Happy Mother's Day weekend to all, especially to the 115 THOUSAND AMERICANS who found jobs in the month of April alone! As usual, over 90 percent of Bloomberg Economists (nearly all of whom have a \"Terminal\" case of TRUMP DERANGEMENT SYNDROME!) underestimated the strength of the Trump Economy. Despite the best efforts of Jerome \"Too Late and Won't Leave\" Powell, and the America Hating Democrat Party, more Americans are working today than ever before. Happy Mother’s Day and, know that, we are MAKING AMERICA WEALTHY AND SAFE AGAIN! President DONALD J. TRUMP</p>\n\n[Image] A bar chart titled “Job Growth in April Nearly Doubles Expectations Under President Trump” compares changes in nonfarm employment. The red Actual bar shows an increase of 115,000 jobs, while the blue Expected bar shows 65,000. A note credits the Council of Economic Advisers’ analysis of Bureau of Labor Statistics data.",
       "url": "https://www.trumpstruth.org/statuses/38282",
       "raw": {
         "creator": "",
@@ -313,13 +346,17 @@
         "contentSnippet": "Happy Mother's Day weekend to all, especially to the 115 THOUSAND AMERICANS who found jobs in the month of April alone! As usual, over 90 percent of Bloomberg Economists (nearly all of whom have a \"Terminal\" case of TRUMP DERANGEMENT SYNDROME!) underestimated the strength of the Trump Economy. Despite the best efforts of Jerome \"Too Late and Won't Leave\" Powell, and the America Hating Democrat Party, more Americans are working today than ever before. Happy Mother’s Day and, know that, we are MAKING AMERICA WEALTHY AND SAFE AGAIN! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/38282",
         "isoDate": "2026-05-08T23:01:16.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:32:46.345Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16122/9d1f951c447a3000.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38283",
       "publishedAt": "2026-05-08T23:45:48.000Z",
       "title": "[No Title] - Post from May 8, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands outdoors in a black overcoat and red tie beside a man wearing a black tuxedo. Behind them, workers in hard hats and casual work clothes pose in front of a bus decorated with American-themed graphics and the words “America” and “Atoka, OK.” The U.S. Supreme Court building is visible in the background, with a boom microphone overhead.",
       "url": "https://www.trumpstruth.org/statuses/38283",
       "raw": {
         "creator": "",
@@ -331,7 +368,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38283",
         "isoDate": "2026-05-08T23:45:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:32:43.249Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16123/3f35edaf6868b0fa.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -437,5 +478,6 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:27:08.930Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:17:6e9cb5fbb1bfa092612e1e9b"
 }

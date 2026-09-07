@@ -6,24 +6,30 @@
     "negative": 1
   },
   "summary": "positive:3 neutral:12 negative:1",
-  "generatedAt": "2026-09-05T08:28:21.505Z",
+  "generatedAt": "2026-09-07T18:16:15.688Z",
   "topics": [
-    "Economic Growth and Job Creation",
-    "Political Commentary and Controversies"
+    "Trump-endorsed candidates sweep nine West Virginia and Nebraska races with no losses",
+    "Says Nvidia CEO Jensen Huang is on Air Force One for China business gathering",
+    "Calls for firing the man who embarrassed Mitch McConnell during a hearing"
   ],
-  "trendingTopic": "CNBC incorrectly reported that the Great Jensen Huang, of Nvidia, was not invited to the incredible gathering of the World’s Greatest Businessmen/women proudly going to China.",
+  "trendingTopic": "Trump-endorsed candidates sweep nine West Virginia and Nebraska races with no losses",
   "secondaryHighlights": [
     {
-      "topic": "Save America Act"
+      "topic": "Says Nvidia CEO Jensen Huang is on Air Force One for China business gathering",
+      "name": "Jensen Huang"
+    },
+    {
+      "topic": "Calls for firing the man who embarrassed Mitch McConnell during a hearing"
     }
   ],
-  "selfPraiseCount": 3,
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:16:75076558d37157c5fd6cfbf9",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38436",
       "publishedAt": "2026-05-13T00:14:48.000Z",
       "title": "[No Title] - Post from May 13, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political campaign graphic announces “Congresswoman (WV-01) Carol Miller wins!” and says she was endorsed by President Donald Trump. It shows portraits of Donald Trump in a suit and Carol Miller wearing glasses and a red jacket. A Trump-Vance “Make America Great Again” logo appears at the bottom against a blue-to-red gradient background.",
       "url": "https://www.trumpstruth.org/statuses/38436",
       "raw": {
         "creator": "",
@@ -35,13 +41,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38436",
         "isoDate": "2026-05-13T00:14:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:37:47.763Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16222/2eb76e9ea3364451.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38435",
       "publishedAt": "2026-05-13T00:14:57.000Z",
       "title": "[No Title] - Post from May 13, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic features portraits of Donald Trump and Congressman Riley Moore, wearing a suit and red tie. Large text reads “CONGRESSMAN (WV-02) RILEY MOORE WINS!” and “ENDORSED BY PRESIDENT TRUMP!” A “Trump Vance” logo with the slogan “Make America Great Again!” appears at the bottom against a blue-to-red gradient background.",
       "url": "https://www.trumpstruth.org/statuses/38435",
       "raw": {
         "creator": "",
@@ -53,13 +63,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38435",
         "isoDate": "2026-05-13T00:14:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:37:44.912Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16221/60421d6667e03425.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38437",
       "publishedAt": "2026-05-13T00:15:50.000Z",
       "title": "[No Title] - Post from May 13, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic says “U.S. Senator from West Virginia Shelley Moore Capito Wins!” and states she was endorsed by President Donald Trump. It shows portraits of Donald Trump in a suit and tie and Shelley Moore Capito in a magenta jacket and necklace. A Trump-Vance logo appears at the bottom against a blue-to-red gradient background.",
       "url": "https://www.trumpstruth.org/statuses/38437",
       "raw": {
         "creator": "",
@@ -71,13 +85,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38437",
         "isoDate": "2026-05-13T00:15:50.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:37:42.265Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16223/0614357ad5800cc5.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38439",
       "publishedAt": "2026-05-13T02:44:54.000Z",
       "title": "[No Title] - Post from May 13, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic features portraits of Donald Trump and Congressman Mike Flood, who wears glasses, a suit, and a blue tie. Large white and red text reads “Congressman (NE-01) Mike Flood Wins!” and “Endorsed by President Trump!” A Trump-Vance logo appears at the bottom against a dark blue-to-red gradient background.",
       "url": "https://www.trumpstruth.org/statuses/38439",
       "raw": {
         "creator": "",
@@ -89,13 +107,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38439",
         "isoDate": "2026-05-13T02:44:54.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:37:39.019Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16225/8f59b4f2006be05a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38438",
       "publishedAt": "2026-05-13T02:45:09.000Z",
       "title": "[No Title] - Post from May 13, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “Republican Nominee for NE-02” and declares Brinker Harding the winner. It says Harding is endorsed by President Donald Trump. Portraits of Donald Trump and Brinker Harding appear against a blue-to-red gradient background, with a Trump-Vance “Make America Great Again!” logo at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38438",
       "raw": {
         "creator": "",
@@ -107,13 +129,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38438",
         "isoDate": "2026-05-13T02:45:09.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:37:36.216Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16224/4be7abf25723769e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38443",
       "publishedAt": "2026-05-13T02:45:23.000Z",
       "title": "[No Title] - Post from May 13, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic announces “Congressman (NE-03) Adrian Smith Wins!” and says he was endorsed by President Trump. It features portraits of Donald Trump and Adrian Smith, who wears glasses, a suit, and a striped tie. The design uses a blue-to-red gradient background, white lettering, red accents, and a “Trump Vance” logo with “Make America Great Again!” text.",
       "url": "https://www.trumpstruth.org/statuses/38443",
       "raw": {
         "creator": "",
@@ -125,13 +151,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38443",
         "isoDate": "2026-05-13T02:45:23.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:37:33.419Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16229/00b4f49c6c166bfa.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38442",
       "publishedAt": "2026-05-13T02:45:32.000Z",
       "title": "[No Title] - Post from May 13, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political campaign graphic features portraits of Donald Trump and Mike Hilgers in suits against a blue-to-red gradient background. Large text reads “Attorney General of Nebraska Mike Hilgers Wins!” and a red banner says “Endorsed by President Trump!” The bottom includes a “Trump Vance” campaign logo with the slogan “Make America Great Again!”",
       "url": "https://www.trumpstruth.org/statuses/38442",
       "raw": {
         "creator": "",
@@ -143,13 +173,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38442",
         "isoDate": "2026-05-13T02:45:32.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:37:27.636Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16228/ec3195ce24694376.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38441",
       "publishedAt": "2026-05-13T02:45:44.000Z",
       "title": "[No Title] - Post from May 13, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political campaign graphic features portraits of Donald Trump and Nebraska Governor Jim Pillen in suits. Large text reads “Governor of Nebraska Jim Pillen Wins!” and a red banner says “Endorsed by President Trump!” A logo at the bottom reads “Trump Van,” with the slogan “Make America Great Again!”",
       "url": "https://www.trumpstruth.org/statuses/38441",
       "raw": {
         "creator": "",
@@ -161,13 +195,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38441",
         "isoDate": "2026-05-13T02:45:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:37:24.674Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16227/9b859718cf538777.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38440",
       "publishedAt": "2026-05-13T02:46:00.000Z",
       "title": "[No Title] - Post from May 13, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political campaign graphic announces “U.S. Senator from Nebraska Pete Ricketts Wins!” and says he was endorsed by President Donald Trump. It shows portraits of Donald Trump, with swept blond hair and a blue suit, and Pete Ricketts, smiling in a dark suit with a red tie. A “Trump Vance” logo appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38440",
       "raw": {
         "creator": "",
@@ -179,7 +217,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38440",
         "isoDate": "2026-05-13T02:46:00.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:37:21.600Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16226/b10f0b4449311ff7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38444",
@@ -203,7 +245,7 @@
       "id": "https://www.trumpstruth.org/statuses/38446",
       "publishedAt": "2026-05-13T03:10:56.000Z",
       "title": "[No Title] - Post from May 13, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political graphic announces “May 12th election update: 9 wins, 0 losses” for President Trump endorsements, claiming 100% success. It shows Donald Trump’s portrait inside a red circle with a green check mark, along with white state silhouettes labeled “3-0 West Virginia” and “6-0 Nebraska.” A “Trump Vance” campaign logo appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/38446",
       "raw": {
         "creator": "",
@@ -215,7 +257,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38446",
         "isoDate": "2026-05-13T03:10:56.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:37:18.441Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16230/1fd4c0396e39983b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38445",
@@ -257,7 +303,7 @@
       "id": "https://www.trumpstruth.org/statuses/38448",
       "publishedAt": "2026-05-13T04:11:29.000Z",
       "title": "The guy that came up to Mitch McConnell today when McConnell thought the hearing was over, and started speaking in his ear for Mitch to belatedly introduce some other people, all Democrats and, by doing so, made Mitch look foolish and completely out of it, should be immediately fired! This was a case where Mitch wasn’t confused, he just didn’t understand why he was being asked to do something when it was too late, and people were wrapping up to leave — They wanted to go home. His name is Robert Karem, he is a Never Trumper, and was grandstanding — trying to show how “important” he was! Karem has tremendous Democrat support, far greater than he should have, and is praised relentlessly by Obama’s people. He is probably the reason why Mitch McConnell is stupidly opposed to terminating the Filibuster, and refuses to help with a 97% issue, THE SAVE AMERICA ACT. FIRE THE BUM! President DONALD J. TRUMP",
-      "text": "<p>The guy that came up to Mitch McConnell today when McConnell thought the hearing was over, and started speaking in his ear for Mitch to belatedly introduce some other people, all Democrats and, by doing so, made Mitch look foolish and completely out of it, should be immediately fired! This was a case where Mitch wasn’t confused, he just didn’t understand why he was being asked to do something when it was too late, and people were wrapping up to leave — They wanted to go home. His name is Robert Karem, he is a Never Trumper, and was grandstanding — trying to show how “important” he was! Karem has tremendous Democrat support, far greater than he should have, and is praised relentlessly by Obama’s people. He is probably the reason why Mitch McConnell is stupidly opposed to terminating the Filibuster, and refuses to help with a 97% issue, THE SAVE AMERICA ACT. FIRE THE BUM! President DONALD J. TRUMP</p>",
+      "text": "<p>The guy that came up to Mitch McConnell today when McConnell thought the hearing was over, and started speaking in his ear for Mitch to belatedly introduce some other people, all Democrats and, by doing so, made Mitch look foolish and completely out of it, should be immediately fired! This was a case where Mitch wasn’t confused, he just didn’t understand why he was being asked to do something when it was too late, and people were wrapping up to leave — They wanted to go home. His name is Robert Karem, he is a Never Trumper, and was grandstanding — trying to show how “important” he was! Karem has tremendous Democrat support, far greater than he should have, and is praised relentlessly by Obama’s people. He is probably the reason why Mitch McConnell is stupidly opposed to terminating the Filibuster, and refuses to help with a 97% issue, THE SAVE AMERICA ACT. FIRE THE BUM! President DONALD J. TRUMP</p>\n\n[Image] A bearded man wearing rectangular glasses, a dark suit, white shirt, and burgundy tie poses for a formal portrait. A partially visible American flag hangs behind him, with a plain gray-blue background filling the right side of the image. No other people or objects are visible.",
       "url": "https://www.trumpstruth.org/statuses/38448",
       "raw": {
         "creator": "",
@@ -269,7 +315,11 @@
         "contentSnippet": "The guy that came up to Mitch McConnell today when McConnell thought the hearing was over, and started speaking in his ear for Mitch to belatedly introduce some other people, all Democrats and, by doing so, made Mitch look foolish and completely out of it, should be immediately fired! This was a case where Mitch wasn’t confused, he just didn’t understand why he was being asked to do something when it was too late, and people were wrapping up to leave — They wanted to go home. His name is Robert Karem, he is a Never Trumper, and was grandstanding — trying to show how “important” he was! Karem has tremendous Democrat support, far greater than he should have, and is praised relentlessly by Obama’s people. He is probably the reason why Mitch McConnell is stupidly opposed to terminating the Filibuster, and refuses to help with a 97% issue, THE SAVE AMERICA ACT. FIRE THE BUM! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/38448",
         "isoDate": "2026-05-13T04:11:29.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:37:15.609Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16232/7ad5db7a190f8962.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38449",
@@ -405,5 +455,6 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:28:21.503Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:16:75076558d37157c5fd6cfbf9"
 }

@@ -6,24 +6,23 @@
     "negative": 1
   },
   "summary": "positive:4 neutral:4 negative:1",
-  "generatedAt": "2026-09-05T08:47:36.930Z",
+  "generatedAt": "2026-09-07T18:10:23.162Z",
   "topics": [
-    "Political Commentary and Controversies",
-    "Disaster Recovery and Assistance"
+    "Trump praises Secret Service after White House security incident and renews call for a secure ballroom",
+    "Trump announces a 60 Minutes interview airing Sunday evening",
+    "Trump shares report arguing polling supports restricting birthright citizenship"
   ],
-  "trendingTopic": "I will be interviewed on 60 Minutes tonight at 7 P.M. EST",
+  "trendingTopic": "Trump praises Secret Service after White House security incident and renews call for a secure ballroom",
   "secondaryHighlights": [
     {
-      "topic": "Quite an evening in D.C. Secret Service and Law Enforcement did a fantastic job"
+      "topic": "Trump announces a 60 Minutes interview airing Sunday evening"
     },
     {
-      "topic": "Law Enforcement has requested that we leave the premises, consistent with protocol, which we will do, immediately."
-    },
-    {
-      "topic": "liberal polling group"
+      "topic": "Trump shares report arguing polling supports restricting birthright citizenship"
     }
   ],
   "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v10:9:9f97464213347942fc9553a5",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38056",
@@ -83,7 +82,7 @@
       "id": "https://www.trumpstruth.org/statuses/38059",
       "publishedAt": "2026-04-26T02:29:54.000Z",
       "title": "[No Title] - Post from April 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A shirtless man lies face down on a patterned carpet with his hands restrained behind his back. Several people in dark clothing stand nearby, while another person appears to speak on a phone in the background. The scene takes place in a brightly lit indoor lobby with glass doors and marble columns.",
       "url": "https://www.trumpstruth.org/statuses/38059",
       "raw": {
         "creator": "",
@@ -95,13 +94,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38059",
         "isoDate": "2026-04-26T02:29:54.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:04:55.184Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15993/576771ca79ce00ae.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38058",
       "publishedAt": "2026-04-26T02:30:08.000Z",
       "title": "[No Title] - Post from April 26, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A shirtless man lies face down on a patterned carpet with his hands restrained behind his back. Three uniformed security or law-enforcement officers stand nearby in a bright indoor lobby, while another person kneels beside him. Equipment cases, a medical-looking foil blanket, and a backpack are visible around the scene.",
       "url": "https://www.trumpstruth.org/statuses/38058",
       "raw": {
         "creator": "",
@@ -113,7 +116,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38058",
         "isoDate": "2026-04-26T02:30:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T18:04:52.876Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15992/f7206af5bd404f9c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38061",
@@ -243,5 +250,6 @@
       "rationale": "The text reports on a political action without expressing a clear positive or negative sentiment.",
       "analyzedAt": "2026-09-05T08:47:36.927Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:9:9f97464213347942fc9553a5"
 }

@@ -6,24 +6,28 @@
     "negative": 1
   },
   "summary": "positive:5 neutral:7 negative:1",
-  "generatedAt": "2026-09-06T06:03:22.116Z",
+  "generatedAt": "2026-09-07T18:27:34.125Z",
   "topics": [
-    "Announces intent to appoint James M. McDonald as U.S. Attorney for Southern District of New York",
-    "Celebrates Team USA's victory over Paraguay",
-    "Comments on the Obama Library and its perceived impact on America"
+    "Trump touts his Iran agreement as Pakistan reports a regional peace deal may be finalized within 24 hours",
+    "Trump says U.S. forces killed Tren de Aragua leader Niño Guerrero in a Southern Command strike",
+    "Trump attacks Barack Obama and the future Obama Presidential Library"
   ],
-  "trendingTopic": "Announces intent to appoint James M. McDonald as U.S. Attorney for Southern District of New York",
-  "trendingName": "James M. McDonald",
+  "trendingTopic": "Trump touts his Iran agreement as Pakistan reports a regional peace deal may be finalized within 24 hours",
   "secondaryHighlights": [
     {
-      "topic": "Celebrates Team USA's victory over Paraguay"
+      "topic": "Trump announces U.S. forces killed Tren de Aragua leader Niño Guerrero in a Southern Command strike"
     },
     {
-      "topic": "Comments on the Obama Library and its perceived impact on America"
+      "topic": "Trump attacks Barack Obama and the future Obama Presidential Library",
+      "name": "Barack Obama"
+    },
+    {
+      "topic": "Trump intends to appoint James M. McDonald as U.S. Attorney for the Southern District of New York",
+      "name": "James McDonald"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v8:13:ae68f02645ac373800aeb657",
+  "selfPraiseCount": 6,
+  "topicsCacheKey": "day-themes-v10:13:ae68f02645ac373800aeb657",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39234",
@@ -65,7 +69,7 @@
       "id": "https://www.trumpstruth.org/statuses/39236",
       "publishedAt": "2026-06-13T13:48:46.000Z",
       "title": "[No Title] - Post from June 13, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a verified post by Pakistan’s Prime Minister Shehbaz Sharif on X, dated June 13, 2026. The post says Pakistan is nearing a peace deal with finalization expected within 24 hours, followed by technical talks, and thanks the United States, Iran, and regional partners. It tags Donald Trump, J.D. Vance, Marco Rubio, Steve Witkoff, Masoud Pezeshkian, and Abbas Araghchi.",
       "url": "https://www.trumpstruth.org/statuses/39236",
       "raw": {
         "creator": "",
@@ -77,7 +81,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39236",
         "isoDate": "2026-06-13T13:48:46.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:58:55.258Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16688/012ba4efd6eb20ee.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39237",
@@ -119,7 +127,7 @@
       "id": "https://www.trumpstruth.org/statuses/39238",
       "publishedAt": "2026-06-13T16:47:34.000Z",
       "title": "The Obama Library ten years from now will be a “Mecca” for those who hate America! President DJT",
-      "text": "<p>The Obama Library ten years from now will be a “Mecca” for those who hate America! President DJT</p>",
+      "text": "<p>The Obama Library ten years from now will be a “Mecca” for those who hate America! President DJT</p>\n\n[Image] An aerial view shows a sprawling encampment of blue and gray tents, vehicles, and scattered belongings beside a river or lake. At its center is a monumental white trash can topped with an oversized black garbage bag. A dense city skyline rises in the background, while leafless trees and roads surround the site.",
       "url": "https://www.trumpstruth.org/statuses/39238",
       "raw": {
         "creator": "",
@@ -131,13 +139,17 @@
         "contentSnippet": "The Obama Library ten years from now will be a “Mecca” for those who hate America! President DJT",
         "guid": "https://www.trumpstruth.org/statuses/39238",
         "isoDate": "2026-06-13T16:47:34.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:58:43.470Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16689/c72bdca963ca8c69.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39242",
       "publishedAt": "2026-06-13T17:53:04.000Z",
       "title": "[No Title] - Post from June 13, 2026",
-      "text": "<p></p>",
+      "text": "[Image] The image shows Donald Trump walking through a crowded indoor area, wearing a dark suit, white shirt, and bright gold tie. Uniformed officers, security personnel, and other people stand behind him near metal barricades. Large black text at the top reads, “Only Trump.”",
       "url": "https://www.trumpstruth.org/statuses/39242",
       "raw": {
         "creator": "",
@@ -149,13 +161,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39242",
         "isoDate": "2026-06-13T17:53:04.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:58:40.131Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16692/e7443f7f826617e6.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39241",
       "publishedAt": "2026-06-13T17:53:14.000Z",
       "title": "[No Title] - Post from June 13, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump and Kim Jong Un walk side by side along a curved paved path in a landscaped tropical garden. Trump wears a dark suit with a bright red tie, while Kim wears a black buttoned jacket and trousers. Tall palms, dense green plants, gray gravel, and a large white building with repeated arched colonnades fill the background.",
       "url": "https://www.trumpstruth.org/statuses/39241",
       "raw": {
         "creator": "",
@@ -167,13 +183,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39241",
         "isoDate": "2026-06-13T17:53:14.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:58:38.291Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16691/438790bcc92af937.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39240",
       "publishedAt": "2026-06-13T17:53:24.000Z",
       "title": "[No Title] - Post from June 13, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands at a podium bearing the presidential seal in front of a parked blue-and-white U.S. government aircraft. A large crowd watches from the foreground, with several people wearing red caps and one shirt displaying “TRUMP.” A photographer with a long lens is visible at right, while bright clouds fill the blue sky.",
       "url": "https://www.trumpstruth.org/statuses/39240",
       "raw": {
         "creator": "",
@@ -185,7 +205,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39240",
         "isoDate": "2026-06-13T17:53:24.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:58:35.662Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16690/1e34ba30120e85c2.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39243",
@@ -209,7 +233,7 @@
       "id": "https://www.trumpstruth.org/statuses/39246",
       "publishedAt": "2026-06-13T22:41:34.000Z",
       "title": "[No Title] - Post from June 13, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands on the deck of a ship, viewed from behind as he looks through binoculars toward a naval formation at sea. Modern warships and a tall sailing vessel fly American flags, while seven fighter jets leave curved vapor trails across a dramatic sunset sky. Text reads “COMMANDER IN CHIEF” and “YOU’RE GETTING DISCOMBOBULATED.”",
       "url": "https://www.trumpstruth.org/statuses/39246",
       "raw": {
         "creator": "",
@@ -221,13 +245,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39246",
         "isoDate": "2026-06-13T22:41:34.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:58:32.664Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16695/440c6990d3b7f79b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39245",
       "publishedAt": "2026-06-13T22:41:44.000Z",
       "title": "[No Title] - Post from June 13, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A December 8, 1986 Fortune magazine cover features Donald Trump in a dark suit and red tie, leaning against a railing. The cover headline reads “Real Estate Upheaval,” with text about profiting as a homeowner, manager, or investor. A caption says Trump expects to make a killing despite tax reform.",
       "url": "https://www.trumpstruth.org/statuses/39245",
       "raw": {
         "creator": "",
@@ -239,13 +267,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39245",
         "isoDate": "2026-06-13T22:41:44.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:58:24.614Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16694/f2e17a1a5c665cef.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39244",
       "publishedAt": "2026-06-13T22:42:06.000Z",
       "title": "Years ago after saving the Wollman Skating Rink in Central Park – Long before I fixed The Reflecting Pool, and everything else in Washington, D.C. including, most importantly, CRIME! President DONALD J. TRUMP",
-      "text": "<p>Years ago after saving the Wollman Skating Rink in Central Park – Long before I fixed The Reflecting Pool, and everything else in Washington, D.C. including, most importantly, CRIME! President DONALD J. TRUMP</p>",
+      "text": "<p>Years ago after saving the Wollman Skating Rink in Central Park – Long before I fixed The Reflecting Pool, and everything else in Washington, D.C. including, most importantly, CRIME! President DONALD J. TRUMP</p>\n\n[Image] A black-and-white photograph shows Donald Trump seated on a white folding chair beside an empty chair on a pale, textured floor. He wears a dark overcoat, suit, tie, pinstriped trousers, and dress shoes, sitting with his hands resting on his knees and looking off to the side.",
       "url": "https://www.trumpstruth.org/statuses/39244",
       "raw": {
         "creator": "",
@@ -257,7 +289,11 @@
         "contentSnippet": "Years ago after saving the Wollman Skating Rink in Central Park – Long before I fixed The Reflecting Pool, and everything else in Washington, D.C. including, most importantly, CRIME! President DONALD J. TRUMP",
         "guid": "https://www.trumpstruth.org/statuses/39244",
         "isoDate": "2026-06-13T22:42:06.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:58:21.104Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16693/96ec85b61fbe42a6.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -339,5 +375,6 @@
       "rationale": "The text is empty, providing no information or sentiment.",
       "analyzedAt": "2026-09-05T08:35:42.901Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:13:ae68f02645ac373800aeb657"
 }

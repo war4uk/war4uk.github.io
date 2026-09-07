@@ -6,17 +6,27 @@
     "negative": 1
   },
   "summary": "positive:1 neutral:6 negative:1",
-  "generatedAt": "2026-09-05T08:31:52.865Z",
+  "generatedAt": "2026-09-07T18:21:39.184Z",
   "topics": [
-    "Political Commentary and Controversies"
+    "Highlights Trump administration restoration projects at Washington, D.C.'s Reflecting Pool and Columbus Circle",
+    "Calls for release of Biden tapes so Americans can hear the evidence",
+    "Claims newly revealed documents show Trump's first impeachment was fraudulent"
   ],
-  "trendingTopic": "GREGG JARRETT: Release the Biden tapes and let Americans hear the truth for themselves",
+  "trendingTopic": "Trump administration highlights Washington, D.C., beautification projects restoring the Reflecting Pool and Columbus Circle",
   "secondaryHighlights": [
     {
-      "topic": "GREGG JARRETT: Long-hidden documents reveal first Trump impeachment was a total fraud"
+      "topic": "Claims Trump's $8.9 billion Intel investment is now worth more than $51 billion"
+    },
+    {
+      "topic": "Calls for release of Biden tapes so Americans can hear the evidence",
+      "name": "Joe Biden"
+    },
+    {
+      "topic": "Claims newly revealed documents show Trump's first impeachment was fraudulent"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v10:8:4e8c6a1daf884a9202eca3b8",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38840",
@@ -58,7 +68,7 @@
       "id": "https://www.trumpstruth.org/statuses/38841",
       "publishedAt": "2026-05-28T03:54:48.000Z",
       "title": "[No Title] - Post from May 28, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A news-style graphic features a large circular portrait of Donald Trump over a photograph of tall office buildings. Intel’s blue logo appears beside him, with green “Breaking” and “Sê” labels. Large white text states, “$51B,” and claims that the Trump administration’s $8.9 billion Intel investment is now worth over $51 billion.",
       "url": "https://www.trumpstruth.org/statuses/38841",
       "raw": {
         "creator": "",
@@ -70,13 +80,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38841",
         "isoDate": "2026-05-28T03:54:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:48:00.775Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16460/7c2bf21153f517ad.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38842",
       "publishedAt": "2026-05-28T03:55:08.000Z",
       "title": "[No Title] - Post from May 28, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A wide aerial view shows the Lincoln Memorial in the foreground, facing the long Reflecting Pool. The Washington Monument stands at the far end, aligned with the pool and surrounded by trees, walkways, and the Washington, D.C., skyline under a clear blue sky. Small visitors are visible around the memorials.",
       "url": "https://www.trumpstruth.org/statuses/38842",
       "raw": {
         "creator": "",
@@ -88,13 +102,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38842",
         "isoDate": "2026-05-28T03:55:08.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:47:58.008Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16461/25221aa661983b7c.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38846",
       "publishedAt": "2026-05-28T17:10:18.000Z",
       "title": "[No Title] - Post from May 28, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post by Steve Guest discusses a Washington Post Style article titled, “Did Trump pick the right blue for the Reflecting Pool? We asked a pool guy.” The article quotes swimming-pool expert Steve Goodale, who says Donald Trump’s selected blue will create sharper reflections and greater contrast with the sky and clouds.",
       "url": "https://www.trumpstruth.org/statuses/38846",
       "raw": {
         "creator": "",
@@ -106,7 +124,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/38846",
         "isoDate": "2026-05-28T17:10:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:47:56.125Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16465/dbb5639ac5efa2a0.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38845",
@@ -130,7 +152,7 @@
       "id": "https://www.trumpstruth.org/statuses/38844",
       "publishedAt": "2026-05-28T17:10:57.000Z",
       "title": "[No Title] - Post from May 28, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116653308990055722</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116653308990055722</span></p>\n\n[Image] A screenshot of a social media post by Reagan Reese says Columbus Circle at Union Station is “completely restored” as part of Donald Trump’s effort to make Washington, D.C., “safe and beautiful.” The post says Secretary Doug Burgum and Secretary Sean Duffy are present to cut the ribbon for the official reopening.",
       "url": "https://www.trumpstruth.org/statuses/38844",
       "raw": {
         "creator": "",
@@ -142,13 +164,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116653308990055722",
         "guid": "https://www.trumpstruth.org/statuses/38844",
         "isoDate": "2026-05-28T17:10:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:47:53.463Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16463/9a803c98a6845dbc.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/38843",
       "publishedAt": "2026-05-28T17:11:18.000Z",
       "title": "[No Title] - Post from May 28, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116653310430151495</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116653310430151495</span></p>\n\n[Image] Two screenshots of social-media posts are shown. The first, by Daniel Turner, claims broken fountains at a station have gone unrepaired for decades and criticizes Joe Biden’s past use of Amtrak. The second, by Reagan Reese, says Columbus Circle at Union Station has been restored under Donald Trump’s “DC Safe and Beautiful” effort, with Secretary Doug Burgum and Secretary Sean Duffy attending the ribbon-cutting.",
       "url": "https://www.trumpstruth.org/statuses/38843",
       "raw": {
         "creator": "",
@@ -160,7 +186,12 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116653310430151495",
         "guid": "https://www.trumpstruth.org/statuses/38843",
         "isoDate": "2026-05-28T17:11:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:47:50.191Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16462/3bae8a10ec5b3846.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16463/9a803c98a6845dbc.png"
+      ]
     }
   ],
   "sentiments": [
@@ -212,5 +243,6 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:31:52.863Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:8:4e8c6a1daf884a9202eca3b8"
 }

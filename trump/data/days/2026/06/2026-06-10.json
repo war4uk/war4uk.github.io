@@ -6,29 +6,29 @@
     "negative": 5
   },
   "summary": "positive:6 neutral:27 negative:5",
-  "generatedAt": "2026-09-06T06:03:17.807Z",
+  "generatedAt": "2026-09-07T18:26:46.354Z",
   "topics": [
-    "Announces successful military operation supporting oil tankers in the Strait of Hormuz",
-    "Congratulates international leaders on their electoral victories",
-    "Critiques the Radical Left's impact on national security"
+    "Trump-endorsed candidates sweep June 9 Republican primaries across four states",
+    "U.S. forces strike Iran after Apache downing as Trump touts blockade and tanker mission",
+    "Trump congratulates Narendra Modi, Nikol Pashinyan, and Abelardo de la Espriella on victories"
   ],
-  "trendingTopic": "Announces successful military operation supporting oil tankers in the Strait of Hormuz",
+  "trendingTopic": "Trump celebrates 16-0 Republican endorsement sweep across South Carolina, Nevada, North Dakota, and Maine",
   "secondaryHighlights": [
     {
-      "topic": "Congratulates international leaders on their electoral victories"
+      "topic": "U.S. forces launch strikes against Iran as Trump touts naval blockade and tanker mission"
     },
     {
-      "topic": "Critiques the Radical Left's impact on national security"
+      "topic": "Trump congratulates Narendra Modi, Nikol Pashinyan, and Abelardo de la Espriella on election victories"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v8:38:e5fd98f3c30c1385ce69acc1",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v10:38:e5fd98f3c30c1385ce69acc1",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39179",
       "publishedAt": "2026-06-10T00:26:54.000Z",
       "title": "[No Title] - Post from June 10, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces Wes Climer as the Republican nominee for South Carolina’s 5th Congressional District, declaring that he wins and is endorsed by President Donald Trump. Portraits of Donald Trump and Wes Climer appear against a blue-to-red background, with a “Trump Vance” logo and “Make America Great Again!” slogan at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39179",
       "raw": {
         "creator": "",
@@ -40,13 +40,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39179",
         "isoDate": "2026-06-10T00:26:54.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:57:56.053Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16652/846a5e3e5ff229f7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39178",
       "publishedAt": "2026-06-10T00:27:10.000Z",
       "title": "[No Title] - Post from June 10, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political campaign graphic announces “Congresswoman (SC-03) Sheri Biggs Wins!” and says she was endorsed by President Donald Trump. It shows portraits of Donald Trump in a suit and Sheri Biggs wearing a red collared shirt. A “Trump Vance” logo with the slogan “Make America Great Again!” appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39178",
       "raw": {
         "creator": "",
@@ -58,13 +62,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39178",
         "isoDate": "2026-06-10T00:27:10.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:57:52.731Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16651/7946719476ba6026.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39177",
       "publishedAt": "2026-06-10T00:27:24.000Z",
       "title": "[No Title] - Post from June 10, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic announces that Congressman Russell Fry of South Carolina’s 7th District wins, with text stating he is endorsed by President Donald Trump. Portraits of Donald Trump and Russell Fry appear side by side in suits against a dark blue and red gradient background. A “Trump Vance” logo is displayed at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39177",
       "raw": {
         "creator": "",
@@ -76,13 +84,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39177",
         "isoDate": "2026-06-10T00:27:24.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:57:48.954Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16650/0088940dceb5b4e7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39176",
       "publishedAt": "2026-06-10T00:27:40.000Z",
       "title": "[No Title] - Post from June 10, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic features portraits of Donald Trump and Congressman Joe Wilson, both in suits. Large text reads “CONGRESSMAN (SC-02) JOE WILSON WINS!” and a red banner says “ENDORSED BY PRESIDENT TRUMP!” The bottom displays a “Trump Vance” logo with the slogan “Make America Great Again!” against a blue-to-red gradient background.",
       "url": "https://www.trumpstruth.org/statuses/39176",
       "raw": {
         "creator": "",
@@ -94,13 +106,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39176",
         "isoDate": "2026-06-10T00:27:40.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:57:46.694Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16649/d8b5f75809488991.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39175",
       "publishedAt": "2026-06-10T00:27:47.000Z",
       "title": "[No Title] - Post from June 10, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic announces that Congressman William Timmons of South Carolina’s 4th District “wins” and says he is endorsed by President Donald Trump. It features portraits of Timmons in a suit and Donald Trump in a suit and blue tie, against a red-to-blue background, with a “Trump Vance” logo and “Make America Great Again!” slogan.",
       "url": "https://www.trumpstruth.org/statuses/39175",
       "raw": {
         "creator": "",
@@ -112,13 +128,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39175",
         "isoDate": "2026-06-10T00:27:47.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:57:43.687Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16648/3f01eee6c9af355e.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39174",
       "publishedAt": "2026-06-10T00:27:57.000Z",
       "title": "[No Title] - Post from June 10, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic features portraits of Donald Trump and U.S. Senator Lindsey Graham of South Carolina in suits and ties. Large text reads “U.S. SENATOR FROM SOUTH CAROLINA LINDSEY GRAHAM WINS!” and a red banner says “ENDORSED BY PRESIDENT TRUMP!” A “Trump Van” logo with “Make America Great Again!” appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39174",
       "raw": {
         "creator": "",
@@ -130,13 +150,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39174",
         "isoDate": "2026-06-10T00:27:57.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:57:40.409Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16647/0ae95947f2133e69.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39173",
       "publishedAt": "2026-06-10T00:28:05.000Z",
       "title": "[No Title] - Post from June 10, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces Paul LePage as the Republican nominee for Maine’s 2nd Congressional District, declaring that he won and was endorsed by President Donald Trump. It shows portraits of Donald Trump and Paul LePage, who is smiling and wearing glasses. A Trump-Vance logo appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39173",
       "raw": {
         "creator": "",
@@ -148,7 +172,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39173",
         "isoDate": "2026-06-10T00:28:05.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:57:35.282Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16646/1f4496029c477c4c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39181",
@@ -172,7 +200,7 @@
       "id": "https://www.trumpstruth.org/statuses/39180",
       "publishedAt": "2026-06-10T00:34:18.000Z",
       "title": "[No Title] - Post from June 10, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116722993359636132</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116722993359636132</span></p>\n\n[Image] A screenshot of an X post from The Post Millennial states, “NOW: President Trump arrives at MSG to see the Knicks play the Spurs in game 3 of the NBA finals.” The post shows the outlet’s PM. profile icon, a verification badge, and a timestamp of one day ago.",
       "url": "https://www.trumpstruth.org/statuses/39180",
       "raw": {
         "creator": "",
@@ -184,13 +212,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116722993359636132",
         "guid": "https://www.trumpstruth.org/statuses/39180",
         "isoDate": "2026-06-10T00:34:18.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:57:32.178Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16653/86df037b018bfc0c.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39184",
       "publishedAt": "2026-06-10T01:20:37.000Z",
       "title": "[No Title] - Post from June 10, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic promotes Cody Simpson as the Republican candidate for South Carolina Commissioner of Agriculture, stating that he “advances” and is endorsed by President Donald Trump. It shows portraits of Cody Simpson in a suit and Donald Trump in a blue suit and tie against a blue-to-red gradient background, with a “Trump Vance” logo at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39184",
       "raw": {
         "creator": "",
@@ -202,13 +234,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39184",
         "isoDate": "2026-06-10T01:20:37.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:57:26.307Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16657/127ed9f765240422.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39183",
       "publishedAt": "2026-06-10T01:20:46.000Z",
       "title": "[No Title] - Post from June 10, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces Pamela Evette as a Republican candidate for governor of South Carolina and says she advances. It states that she is endorsed by President Donald Trump. Portraits of Pamela Evette and Donald Trump appear against a dark blue-to-red gradient, with a “Trump Vance” logo and “Make America Great Again!” slogan at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39183",
       "raw": {
         "creator": "",
@@ -220,13 +256,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39183",
         "isoDate": "2026-06-10T01:20:46.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:57:22.239Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16656/e29c75a18e2c415d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39182",
       "publishedAt": "2026-06-10T01:20:51.000Z",
       "title": "[No Title] - Post from June 10, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic shows Donald Trump beside Julie Fedorchak, identified as a congresswoman from North Dakota at large. Large text announces “Julie Fedorchak Wins!” and says she was endorsed by President Trump. A red, blue, and purple background includes a “Trump Vance” logo and “Make America Great Again!” text.",
       "url": "https://www.trumpstruth.org/statuses/39182",
       "raw": {
         "creator": "",
@@ -238,7 +278,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39182",
         "isoDate": "2026-06-10T01:20:51.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:57:18.629Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16655/4bdbe80efa23305b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39185",
@@ -262,7 +306,7 @@
       "id": "https://www.trumpstruth.org/statuses/39188",
       "publishedAt": "2026-06-10T02:35:59.000Z",
       "title": "[No Title] - Post from June 10, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post from the verified U.S. Central Command account, @CENTCOM. The post says U.S. forces began launching self-defense strikes against Iran at 5 p.m. ET on June 9, 2026, at the Commander in Chief’s direction, following the downing of a U.S. Army Apache helicopter. It calls the action a proportional response.",
       "url": "https://www.trumpstruth.org/statuses/39188",
       "raw": {
         "creator": "",
@@ -274,13 +318,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39188",
         "isoDate": "2026-06-10T02:35:59.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:57:15.616Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16660/d133ad35ffcc8f3f.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39187",
       "publishedAt": "2026-06-10T02:36:12.000Z",
       "title": "[No Title] - Post from June 10, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116723479960785181</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116723479960785181</span></p>\n\n[Image] A screenshot of a verified U.S. Central Command (@CENTCOM) post states that U.S. forces began launching self-defense strikes against Iran at 5 p.m. ET on June 9, 2026, at the Commander in Chief’s direction. It says the action responds to the previous day’s downing of a U.S. Army Apache helicopter and calls it a proportional response.",
       "url": "https://www.trumpstruth.org/statuses/39187",
       "raw": {
         "creator": "",
@@ -292,13 +340,17 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116723479960785181",
         "guid": "https://www.trumpstruth.org/statuses/39187",
         "isoDate": "2026-06-10T02:36:12.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:57:12.965Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16660/d133ad35ffcc8f3f.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39186",
       "publishedAt": "2026-06-10T02:36:22.000Z",
       "title": "[No Title] - Post from June 10, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116723480830148350</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116723480830148350</span></p>\n\n[Image] The image shows two social media posts. Hillel Neuer tags the White House and questions the phrase “The mission is a proportional response.” A verified U.S. Central Command post says U.S. forces began self-defense strikes against Iran on June 9, 2026, at the direction of the Commander in Chief, following the downing of a U.S. Army Apache helicopter.",
       "url": "https://www.trumpstruth.org/statuses/39186",
       "raw": {
         "creator": "",
@@ -310,7 +362,12 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116723480830148350",
         "guid": "https://www.trumpstruth.org/statuses/39186",
         "isoDate": "2026-06-10T02:36:22.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:57:10.448Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16658/c16d2647f9608d7f.png",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16660/d133ad35ffcc8f3f.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39190",
@@ -352,7 +409,7 @@
       "id": "https://www.trumpstruth.org/statuses/39197",
       "publishedAt": "2026-06-10T10:18:27.000Z",
       "title": "[No Title] - Post from June 10, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic announces Adriana Guzmán Fralick as the Republican nominee for Nevada attorney general and declares “WINS!” It states that she is endorsed by President Donald Trump. Portraits of Donald Trump and Fralick appear against a blue-to-red gradient, with a “Trump Vance” logo and “Make America Great Again!” slogan at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39197",
       "raw": {
         "creator": "",
@@ -364,13 +421,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39197",
         "isoDate": "2026-06-10T10:18:27.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:57:06.946Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16667/de2932bc3bfad896.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39196",
       "publishedAt": "2026-06-10T10:18:38.000Z",
       "title": "[No Title] - Post from June 10, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic announces “Stavros Anthony Wins!” for lieutenant governor of Nevada and says he was endorsed by President Trump. It shows portraits of Donald Trump, wearing a dark suit and blue tie, and Stavros Anthony, smiling in a light blue shirt. A “Trump Vance” logo appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39196",
       "raw": {
         "creator": "",
@@ -382,13 +443,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39196",
         "isoDate": "2026-06-10T10:18:38.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:57:03.908Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16666/762fd44b6947dbad.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39195",
       "publishedAt": "2026-06-10T10:18:48.000Z",
       "title": "[No Title] - Post from June 10, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign graphic announces “Marty O’Donnell wins!” as the Republican nominee for Nevada’s 3rd Congressional District, with text stating he is endorsed by President Donald Trump. Portraits of Donald Trump and Marty O’Donnell appear against a dark blue-to-red gradient, alongside a Trump-Vance campaign logo and bold white lettering.",
       "url": "https://www.trumpstruth.org/statuses/39195",
       "raw": {
         "creator": "",
@@ -400,13 +465,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39195",
         "isoDate": "2026-06-10T10:18:48.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:57:01.021Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16665/fa63aab1a661b3dd.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39194",
       "publishedAt": "2026-06-10T10:19:00.000Z",
       "title": "[No Title] - Post from June 10, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political campaign graphic announces “Republican nominee for NV-01 Carrie Buck wins!” and states that she is endorsed by President Donald Trump. It shows portraits of Donald Trump in a suit and Carrie Buck smiling in a red blazer. A “Trump Vance” logo with the slogan “Make America Great Again!” appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/39194",
       "raw": {
         "creator": "",
@@ -418,13 +487,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39194",
         "isoDate": "2026-06-10T10:19:00.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:56:57.820Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16664/022f503da5aed50a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39193",
       "publishedAt": "2026-06-10T10:19:11.000Z",
       "title": "[No Title] - Post from June 10, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A campaign-style graphic features portraits of Donald Trump and Nevada Governor Joe Lombardo in suits and ties. Large white and red text reads “Governor of Nevada Joe Lombardo Wins!” and “Endorsed by President Trump!” A logo at the bottom says “Trump Van” with the slogan “Make America Great Again!”",
       "url": "https://www.trumpstruth.org/statuses/39193",
       "raw": {
         "creator": "",
@@ -436,13 +509,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39193",
         "isoDate": "2026-06-10T10:19:11.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:56:54.899Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16663/6f9570b326b975db.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39192",
       "publishedAt": "2026-06-10T10:19:21.000Z",
       "title": "[No Title] - Post from June 10, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political campaign graphic features Donald Trump beside David Filippo, who is identified as the Republican nominee for Nevada’s 2nd Congressional District. Large text says “David Filippo Wins!” and states that he is endorsed by President Trump. The design uses a blue-to-red gradient, white and red lettering, and a Trump-Vance logo with “Make America Great Again!”",
       "url": "https://www.trumpstruth.org/statuses/39192",
       "raw": {
         "creator": "",
@@ -454,13 +531,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39192",
         "isoDate": "2026-06-10T10:19:21.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:56:51.798Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16662/572446bde44c6727.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39191",
       "publishedAt": "2026-06-10T10:19:49.000Z",
       "title": "[No Title] - Post from June 10, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A political graphic features Donald Trump’s portrait inside a red circle with a green check mark. Text claims “June 9th Election Recap: 16 Wins - 0 Losses” and “President Trump Endorsements 100%.” State outlines list South Carolina at 8-0, Nevada at 6-0, North Dakota at 1-0, and Maine at 1-0, alongside a “Trump Vance” logo.",
       "url": "https://www.trumpstruth.org/statuses/39191",
       "raw": {
         "creator": "",
@@ -472,13 +553,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39191",
         "isoDate": "2026-06-10T10:19:49.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:56:48.914Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16661/9e16878c931b4bef.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39198",
       "publishedAt": "2026-06-10T10:20:02.000Z",
       "title": "[No Title] - Post from June 10, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a post by Howard Lutnick includes text praising the newly restored Reflecting Pool and thanking Donald Trump. The attached nighttime photograph shows the Washington Monument illuminated at the far end of the pool, with its reflection visible in the calm water. Tree-lined paths, streetlights, and a paved terrace frame the scene under a cloudy sky.",
       "url": "https://www.trumpstruth.org/statuses/39198",
       "raw": {
         "creator": "",
@@ -490,7 +575,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39198",
         "isoDate": "2026-06-10T10:20:02.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T17:56:46.560Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16668/aa8392cca4b775bc.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39199",
@@ -938,5 +1027,6 @@
       "rationale": "The announcement of a successful military mission and the control over the Strait of Hormuz is framed positively, emphasizing success and defeat of Iran.",
       "analyzedAt": "2026-09-05T08:35:16.131Z"
     }
-  ]
+  ],
+  "selfPraiseCacheKey": "self-praise-v1:38:e5fd98f3c30c1385ce69acc1"
 }
