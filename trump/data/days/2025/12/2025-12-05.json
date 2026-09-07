@@ -6,28 +6,29 @@
     "negative": 1
   },
   "summary": "positive:2 neutral:0 negative:1",
-  "generatedAt": "2026-09-06T06:43:42.899Z",
+  "generatedAt": "2026-09-07T14:03:45.375Z",
   "topics": [
-    "Approves production of TINY CARS in America",
-    "Critiques Democrats' plans for the Supreme Court",
-    "Supports Andrew Wolfe's recovery as a National Guardsman"
+    "Supports Andrew Wolfe, a National Guardsman injured at the Capitol",
+    "Criticizes Democrats' plans to undermine the Supreme Court",
+    "Announces approval for manufacturing tiny cars in America"
   ],
-  "trendingTopic": "Approves production of TINY CARS in America",
+  "trendingTopic": "Supports Andrew Wolfe, a National Guardsman injured at the Capitol",
   "secondaryHighlights": [
     {
-      "topic": "Critiques Democrats' plans for the Supreme Court"
+      "topic": "Criticizes Democrats' plans to undermine the Supreme Court"
     },
     {
-      "topic": "Supports Andrew Wolfe's recovery as a National Guardsman"
+      "topic": "Announces approval for manufacturing tiny cars in America"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:3:c7d7d80af9b17cbb2ec9d92f",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34149",
       "publishedAt": "2025-12-05T00:04:36.000Z",
       "title": "The great family of Andrew Wolfe — Our wonderful National Guardsman who was badly injured protecting the Capital of the United States of America. He is in the process of healing. His parents, brother, and all of his friends are praying. I just met them in the Oval Office — They are fantastic American Patriots!",
-      "text": "<p>The great family of Andrew Wolfe — Our wonderful National Guardsman who was badly injured protecting the Capital of the United States of America. He is in the process of healing. His parents, brother, and all of his friends are praying. I just met them in the Oval Office — They are fantastic American Patriots!</p>",
+      "text": "<p>The great family of Andrew Wolfe — Our wonderful National Guardsman who was badly injured protecting the Capital of the United States of America. He is in the process of healing. His parents, brother, and all of his friends are praying. I just met them in the Oval Office — They are fantastic American Patriots!</p>\n\n[Image] The image shows Donald Trump seated at a desk in the Oval Office, smiling broadly. He is surrounded by four individuals: two men and two women, all dressed in formal attire. The background features various flags, including the U.S. flag, and military insignia. There are also decorative elements like a golden eagle statue and awards on the desk. The atmosphere appears celebratory, suggesting a special occasion or meeting.",
       "url": "https://www.trumpstruth.org/statuses/34149",
       "raw": {
         "creator": "",
@@ -39,7 +40,11 @@
         "contentSnippet": "The great family of Andrew Wolfe — Our wonderful National Guardsman who was badly injured protecting the Capital of the United States of America. He is in the process of healing. His parents, brother, and all of his friends are praying. I just met them in the Oval Office — They are fantastic American Patriots!",
         "guid": "https://www.trumpstruth.org/statuses/34149",
         "isoDate": "2025-12-05T00:04:36.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:00:13.802Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13640/f9202208bbe4022d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34150",
@@ -98,5 +103,6 @@
       "analyzedAt": "2026-09-06T06:25:14.403Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:3:c7d7d80af9b17cbb2ec9d92f"
+  "trendingName": "Andrew Wolfe",
+  "selfPraiseCacheKey": "self-praise-v1:3:c7d7d80af9b17cbb2ec9d92f"
 }

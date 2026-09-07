@@ -6,8 +6,12 @@
     "negative": 2
   },
   "summary": "positive:2 neutral:0 negative:2",
-  "generatedAt": "2026-04-13T06:56:11.943Z",
-  "topics": [],
+  "generatedAt": "2026-09-07T14:03:34.190Z",
+  "topics": [
+    "Bill Brennan critiques CNN's coverage of legal cases",
+    "Dan Scavino appointed to head White House Presidential Personnel Office",
+    "Claims of FBI agents infiltrating January 6 crowd"
+  ],
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/33285",
@@ -108,16 +112,18 @@
       "analyzedAt": "2025-10-12T12:12:54.049Z"
     }
   ],
-  "trendingTopic": "I am pleased to announce that the great Dan Scavino, in addition to remaining Deputy Chief of Staff of the Trump Administration, will head the White House Presidential Personnel Office, replacing Sergio Gor, who did a wonderful job in that position, and will now become the Ambassador to India.",
+  "trendingTopic": "Bill Brennan critiques CNN's coverage of legal cases",
   "selfPraiseCount": 0,
-  "trendingName": "Dan Scavino",
+  "trendingName": "Bill Brennan",
   "secondaryHighlights": [
     {
-      "topic": "THE BIDEN FBI PLACED 274 AGENTS INTO THE CROWD ON JANUARY 6"
+      "topic": "Dan Scavino appointed to head White House Presidential Personnel Office",
+      "name": "Dan Scavino"
     },
     {
-      "topic": "Great job by super lawyer Bill Brennan on Fake News CNN. He took the third rate “anchor” apart when discussing the legal merit of various cases.",
-      "name": "Bill Brennan"
+      "topic": "Claims of FBI agents infiltrating January 6 crowd"
     }
-  ]
+  ],
+  "topicsCacheKey": "day-themes-v10:4:04e40370dd326462f30b0747",
+  "selfPraiseCacheKey": "self-praise-v1:4:04e40370dd326462f30b0747"
 }

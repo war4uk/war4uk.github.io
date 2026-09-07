@@ -6,18 +6,29 @@
     "negative": 0
   },
   "summary": "positive:1 neutral:21 negative:0",
-  "generatedAt": "2026-09-06T06:43:52.665Z",
+  "generatedAt": "2026-09-07T14:04:01.016Z",
   "topics": [
-    "Discusses ceasefire agreement with Thailand and Cambodia regarding ongoing conflict"
+    "Highlights Trump's economic achievements and policies during rallies",
+    "Discusses immigration policy and achievements related to migrant children",
+    "Engages in international diplomacy with Thailand and Cambodia"
   ],
-  "trendingTopic": "Discusses ceasefire agreement with Thailand and Cambodia regarding ongoing conflict",
-  "selfPraiseCount": 0,
+  "trendingTopic": "Highlights Trump's economic achievements and policies during rallies",
+  "secondaryHighlights": [
+    {
+      "topic": "Discusses immigration policy and achievements related to migrant children"
+    },
+    {
+      "topic": "Engages in international diplomacy with Thailand and Cambodia"
+    }
+  ],
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v10:22:39e5a9800acba08e92e5c821",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/35203",
       "publishedAt": "2025-12-12T15:24:32.000Z",
       "title": "[No Title] - Post from December 12, 2025",
-      "text": "<p></p>",
+      "text": "[Image] The image features a split design contrasting the Republican and Democratic Congresses. On the left, it highlights achievements attributed to the GOP, including \"historic tax relief,\" \"secure borders,\" and \"safer communities,\" with Donald Trump appearing in a thoughtful pose. On the right, it lists criticisms of the Democratic Congress, mentioning \"government shutdown,\" \"yet another impeachment,\" and \"healthcare for illegals,\" featuring Hakeem Jeffries and Chuck Schumer.",
       "url": "https://www.trumpstruth.org/statuses/35203",
       "raw": {
         "creator": "",
@@ -29,7 +40,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35203",
         "isoDate": "2025-12-12T15:24:32.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:03:21.410Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14266/b8128fb83962f237.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34212",
@@ -47,13 +62,16 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34212",
         "isoDate": "2025-12-12T15:24:44.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13654/56708f92721f049d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35202",
       "publishedAt": "2025-12-12T15:25:15.000Z",
       "title": "[No Title] - Post from December 12, 2025",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump speaking at a rally, with a crowd visible in the background. He is dressed in a dark suit and red tie, gesturing as he addresses his supporters. Behind him, a blue backdrop displays the message \"Lower Prices, Bigger Paychecks.\" The scene captures the energy of the event, with attendees holding signs and wearing attire that indicates their support for Trump. The text at the bottom highlights a claim about paychecks outpacing inflation for five consecutive quarters.",
       "url": "https://www.trumpstruth.org/statuses/35202",
       "raw": {
         "creator": "",
@@ -65,13 +83,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35202",
         "isoDate": "2025-12-12T15:25:15.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:03:07.492Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14265/b8d9060c5418076a.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35201",
       "publishedAt": "2025-12-12T15:25:27.000Z",
       "title": "[No Title] - Post from December 12, 2025",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump, who is standing with a serious expression and gesturing with his hands. He is dressed in a dark suit and a red tie. Surrounding him are headlines from various news outlets discussing the U.S. trade deficit, highlighting its unexpected shrinkage to the smallest level since 2020 and mentioning the impact of Trump's tariffs. The background appears to be a stage setting, likely from a public event or speech.",
       "url": "https://www.trumpstruth.org/statuses/35201",
       "raw": {
         "creator": "",
@@ -83,13 +105,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35201",
         "isoDate": "2025-12-12T15:25:27.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:03:05.587Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14264/4935f24b960f1102.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35200",
       "publishedAt": "2025-12-12T15:25:36.000Z",
       "title": "[No Title] - Post from December 12, 2025",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump wearing a red cap with \"USA\" on it, along with a dark suit and a red tie. He appears to be at a rally or event, with American flags in the background. The text overlay quotes Trump, stating achievements related to border security, inflation, wages, and a positive outlook for America. The overall tone is celebratory, emphasizing a message of national pride and recovery.",
       "url": "https://www.trumpstruth.org/statuses/35200",
       "raw": {
         "creator": "",
@@ -101,7 +127,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35200",
         "isoDate": "2025-12-12T15:25:36.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:02:58.368Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14263/97edcaa0d4434208.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35199",
@@ -119,13 +149,16 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35199",
         "isoDate": "2025-12-12T15:25:47.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14262/b49795bd3e51b158.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35198",
       "publishedAt": "2025-12-12T15:25:58.000Z",
       "title": "[No Title] - Post from December 12, 2025",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump, who is depicted making a statement about oil drilling in the United States. He is dressed in a suit with a red tie and is gesturing with his right hand. The background includes an American flag and oil drilling equipment, emphasizing the theme of energy production. Text overlays highlight his quote about drilling and mention the nationwide average gas price. The overall tone suggests a focus on energy policy and economic issues.",
       "url": "https://www.trumpstruth.org/statuses/35198",
       "raw": {
         "creator": "",
@@ -137,13 +170,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35198",
         "isoDate": "2025-12-12T15:25:58.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:02:44.394Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14261/af625ffda9c4f502.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35197",
       "publishedAt": "2025-12-12T15:26:07.000Z",
       "title": "[No Title] - Post from December 12, 2025",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump walking on a grassy area, dressed in a suit and tie. Text overlays highlight decreases in national median rent, weekly jobless claims, and mortgage rates, indicated by downward arrows. The background appears to be a well-maintained garden or lawn, suggesting a formal setting. The overall tone of the image seems to convey a message of economic improvement.",
       "url": "https://www.trumpstruth.org/statuses/35197",
       "raw": {
         "creator": "",
@@ -155,7 +192,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35197",
         "isoDate": "2025-12-12T15:26:07.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:02:42.101Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14260/c7075e515692606b.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35196",
@@ -173,13 +214,16 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35196",
         "isoDate": "2025-12-12T15:26:16.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14259/2b735cda8e8f5228.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35195",
       "publishedAt": "2025-12-12T15:26:31.000Z",
       "title": "[No Title] - Post from December 12, 2025",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump saluting, dressed in a dark suit with a red tie. Behind him, there are American flags, creating a patriotic backdrop. The text overlay reads, \"THE BEST IS YET TO COME.\" The overall tone of the image conveys a sense of determination and optimism. The focus is on Trump's expression and gesture, emphasizing a moment of respect or acknowledgment.",
       "url": "https://www.trumpstruth.org/statuses/35195",
       "raw": {
         "creator": "",
@@ -191,13 +235,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35195",
         "isoDate": "2025-12-12T15:26:31.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:02:31.101Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14258/564725d19fa2fe6d.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35194",
       "publishedAt": "2025-12-12T15:26:40.000Z",
       "title": "[No Title] - Post from December 12, 2025",
-      "text": "<p></p>",
+      "text": "[Image] The image shows a meeting in a formal setting, likely the White House, with several individuals seated around a long table. Donald Trump is prominently featured, speaking to the group. The background includes an American flag and a portrait on the wall. A quote attributed to Trump emphasizes the importance of farmers as a vital national asset. The atmosphere appears serious, with attendees listening attentively.",
       "url": "https://www.trumpstruth.org/statuses/35194",
       "raw": {
         "creator": "",
@@ -209,7 +257,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35194",
         "isoDate": "2025-12-12T15:26:40.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:02:27.893Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14257/6f4439938a789ea9.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35193",
@@ -227,13 +279,16 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35193",
         "isoDate": "2025-12-12T15:26:52.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14256/f622c5b542295ef3.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35192",
       "publishedAt": "2025-12-12T15:27:01.000Z",
       "title": "[No Title] - Post from December 12, 2025",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump seated at a desk, surrounded by several individuals in a formal setting. The background suggests a governmental or official environment. The text overlay discusses Trump's rollback of energy regulations, labeling it as an \"affordability bullseye.\" The message emphasizes the need for action on the affordability crisis and mentions the importance of ditching CAFE standards. The overall tone is supportive of Trump's policies.",
       "url": "https://www.trumpstruth.org/statuses/35192",
       "raw": {
         "creator": "",
@@ -245,13 +300,17 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35192",
         "isoDate": "2025-12-12T15:27:01.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:02:14.056Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14255/c5d088e2b71076ef.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35191",
       "publishedAt": "2025-12-12T15:27:13.000Z",
       "title": "[No Title] - Post from December 12, 2025",
-      "text": "<p></p>",
+      "text": "[Image] The image features Donald Trump walking alongside a border wall. The background is a dark, textured surface, likely representing the wall itself. Prominently displayed in large green text is the statistic \"62,000 MIGRANT CHILDREN RESCUED BY THE TRUMP ADMINISTRATION,\" with a citation to Border Czar Tom Homan. The overall tone of the image appears to emphasize a specific achievement related to immigration policy during Trump's presidency.",
       "url": "https://www.trumpstruth.org/statuses/35191",
       "raw": {
         "creator": "",
@@ -263,7 +322,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35191",
         "isoDate": "2025-12-12T15:27:13.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:02:11.922Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14254/4b39908c123a7709.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35190",
@@ -281,7 +344,10 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35190",
         "isoDate": "2025-12-12T15:27:24.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14253/55ff42234060f179.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35189",
@@ -299,7 +365,10 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/35189",
         "isoDate": "2025-12-12T15:27:34.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14252/b8892156e8cc6451.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/35188",
@@ -544,11 +613,5 @@
       "analyzedAt": "2026-09-06T06:26:26.003Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:22:39e5a9800acba08e92e5c821",
-  "trendingName": "Anutin Charnvirakul",
-  "secondaryHighlights": [
-    {
-      "topic": "Engages in diplomatic talks with Cambodian Prime Minister Hun Manet"
-    }
-  ]
+  "selfPraiseCacheKey": "self-praise-v1:22:39e5a9800acba08e92e5c821"
 }

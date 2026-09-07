@@ -6,22 +6,23 @@
     "negative": 3
   },
   "summary": "positive:5 neutral:2 negative:3",
-  "generatedAt": "2026-09-06T06:43:37.141Z",
+  "generatedAt": "2026-09-07T14:03:36.262Z",
   "topics": [
-    "Welcomes Governor Walz to Minnesota",
-    "First Lady gives Christmas salutations at the White House",
-    "Comments on Syria's government efforts"
+    "Calls for an apology to President Trump from Senator Kelly",
+    "Highlights of Melania Trump's Christmas event at the White House",
+    "Comments on demographic changes and political dynamics in Minnesota"
   ],
-  "trendingTopic": "Welcomes Governor Walz to Minnesota",
+  "trendingTopic": "Calls for an apology to President Trump from Senator Kelly",
   "secondaryHighlights": [
     {
-      "topic": "First Lady gives Christmas salutations at the White House"
+      "topic": "Highlights of Melania Trump's Christmas event at the White House"
     },
     {
-      "topic": "Comments on Syria's government efforts"
+      "topic": "Comments on demographic changes and political dynamics in Minnesota"
     }
   ],
   "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v10:10:d65b5d8fb0c1c7fba2e81097",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34066",
@@ -135,7 +136,7 @@
       "id": "https://www.trumpstruth.org/statuses/34072",
       "publishedAt": "2025-12-01T18:24:07.000Z",
       "title": "First Lady giving Christmas salutations at the White House. So nice!",
-      "text": "<p>First Lady giving Christmas salutations at the White House. So nice!</p>",
+      "text": "<p>First Lady giving Christmas salutations at the White House. So nice!</p>\n\n[Image] The image shows Melania Trump standing at a podium with a golden eagle emblem in a decorated area of the White House. She is wearing a gray outfit and appears to be speaking or preparing to address an audience. The background features a staircase adorned with greenery and holiday decorations, along with a chandelier and a portrait on the wall. The setting is festive, likely during a holiday event.",
       "url": "https://www.trumpstruth.org/statuses/34072",
       "raw": {
         "creator": "",
@@ -147,13 +148,17 @@
         "contentSnippet": "First Lady giving Christmas salutations at the White House. So nice!",
         "guid": "https://www.trumpstruth.org/statuses/34072",
         "isoDate": "2025-12-01T18:24:07.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T13:54:51.637Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13588/b21b04c069a6dd69.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34073",
       "publishedAt": "2025-12-01T18:26:37.000Z",
       "title": "First Lady giving Christmas salutations at the White House. So nice!",
-      "text": "<p>First Lady giving Christmas salutations at the White House. So nice!</p>",
+      "text": "<p>First Lady giving Christmas salutations at the White House. So nice!</p>\n\n[Image] The image shows Melania Trump standing at a podium with an eagle emblem, located in a grand interior space decorated for the holidays. She is wearing a gray outfit and appears to be speaking or presenting. The background features a staircase adorned with greenery and a chandelier, along with a portrait hanging on the wall. The setting is likely a formal area of the White House, emphasizing a festive atmosphere.",
       "url": "https://www.trumpstruth.org/statuses/34073",
       "raw": {
         "creator": "",
@@ -165,7 +170,11 @@
         "contentSnippet": "First Lady giving Christmas salutations at the White House. So nice!",
         "guid": "https://www.trumpstruth.org/statuses/34073",
         "isoDate": "2025-12-01T18:26:37.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T13:54:49.772Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13589/9acc983c9f5c70b5.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34075",
@@ -189,7 +198,7 @@
       "id": "https://www.trumpstruth.org/statuses/34074",
       "publishedAt": "2025-12-01T20:19:20.000Z",
       "title": "Welcome to Minnesota — Great job Governor Walz!",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115646158393180525</span>Welcome to Minnesota — Great job Governor Walz!</p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115646158393180525</span>Welcome to Minnesota — Great job Governor Walz!</p>\n\n[Image] The image features a tweet from Amy Mek discussing demographic changes in Minnesota, particularly focusing on the Somali population. It highlights statistics about new arrivals, including 130,000 last year, and mentions concerns about crime and cultural influence. The tweet also references Omar Fateh, a Somali-American Democratic Socialist, who is running for mayor of Minneapolis. The tone suggests a critical view of these changes, framing them as a form of colonization.",
       "url": "https://www.trumpstruth.org/statuses/34074",
       "raw": {
         "creator": "",
@@ -201,7 +210,11 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115646158393180525Welcome to Minnesota — Great job Governor Walz!",
         "guid": "https://www.trumpstruth.org/statuses/34074",
         "isoDate": "2025-12-01T20:19:20.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T13:54:47.227Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13590/9219c81e1ca758a4.png"
+      ]
     }
   ],
   "sentiments": [
@@ -266,6 +279,5 @@
       "analyzedAt": "2026-09-06T06:24:13.195Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:10:d65b5d8fb0c1c7fba2e81097",
-  "trendingName": "Governor Walz"
+  "selfPraiseCacheKey": "self-praise-v1:10:d65b5d8fb0c1c7fba2e81097"
 }

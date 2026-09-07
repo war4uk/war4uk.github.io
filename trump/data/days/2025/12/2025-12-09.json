@@ -6,18 +6,13 @@
     "negative": 1
   },
   "summary": "positive:1 neutral:0 negative:1",
-  "generatedAt": "2026-09-06T06:43:49.396Z",
+  "generatedAt": "2026-09-07T14:03:53.913Z",
   "topics": [
-    "Discusses the impact of tariffs on National Security",
-    "Warns against potential Supreme Court decisions affecting tariffs"
+    "Discusses the impact of Tariffs on National Security"
   ],
-  "trendingTopic": "Discusses the impact of tariffs on National Security",
-  "secondaryHighlights": [
-    {
-      "topic": "Warns against potential Supreme Court decisions affecting tariffs"
-    }
-  ],
-  "selfPraiseCount": 0,
+  "trendingTopic": "Discusses the impact of Tariffs on National Security and its financial implications",
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v10:2:2ee59d55f62259b984d3585a",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34195",
@@ -70,5 +65,13 @@
       "analyzedAt": "2026-09-06T06:25:56.993Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:2:2ee59d55f62259b984d3585a"
+  "selfPraiseCacheKey": "self-praise-v1:2:2ee59d55f62259b984d3585a",
+  "secondaryHighlights": [
+    {
+      "topic": "The biggest threat in history to United States National Security would be a negative decision on Tariffs by the U.S. Supreme Court."
+    },
+    {
+      "topic": "Because of Tariffs, easily and quickly applied, our National Security has been greatly enhanced, and we have become the financially strongest Country, by far, anywhere in the World."
+    }
+  ]
 }

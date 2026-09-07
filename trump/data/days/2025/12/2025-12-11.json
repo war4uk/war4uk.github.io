@@ -6,22 +6,23 @@
     "negative": 2
   },
   "summary": "positive:4 neutral:1 negative:2",
-  "generatedAt": "2026-09-06T06:43:51.784Z",
+  "generatedAt": "2026-09-07T14:03:58.054Z",
   "topics": [
-    "Critiques Democrats for ignoring violent crime and allowing criminals to attack again",
-    "Claims credit for economic improvements and stock market highs since taking office",
-    "Highlights challenges in appointing Republican judges due to 'Blue Slips' from Democrat Senators"
+    "Phil Berger praised for leadership in North Carolina Senate",
+    "Stock market reaches all-time high amid economic recovery",
+    "Criticism of Democrats for handling crime and judicial appointments"
   ],
-  "trendingTopic": "Claims credit for economic improvements and stock market highs since taking office",
+  "trendingTopic": "Phil Berger praised for leadership in North Carolina Senate",
   "secondaryHighlights": [
     {
-      "topic": "Critiques Democrats for ignoring violent crime and allowing criminals to attack again"
+      "topic": "Stock market reaches all-time high amid economic recovery"
     },
     {
-      "topic": "Highlights challenges in appointing Republican judges due to 'Blue Slips' from Democrat Senators"
+      "topic": "Criticism of Democrats for handling crime and judicial appointments"
     }
   ],
-  "selfPraiseCount": 1,
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v10:7:51f1a120c21c4becece0c931",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34204",
@@ -45,7 +46,7 @@
       "id": "https://www.trumpstruth.org/statuses/34205",
       "publishedAt": "2025-12-11T01:21:04.000Z",
       "title": "[No Title] - Post from December 11, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115697029631709665</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115697029631709665</span></p>\n\n[Image] The first image features Donald Trump sitting at the Resolute Desk in the Oval Office, smiling while holding a card. The background includes U.S. flags and military insignia, along with a statue and framed photographs. The second image is a graphic representation of a gold card featuring Donald Trump's face alongside the Statue of Liberty and an eagle, with the text \"TRUMP GOLD CARD\" and his signature. Both images highlight Trump's branding and presence.",
       "url": "https://www.trumpstruth.org/statuses/34205",
       "raw": {
         "creator": "",
@@ -57,7 +58,12 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/115697029631709665",
         "guid": "https://www.trumpstruth.org/statuses/34205",
         "isoDate": "2025-12-11T01:21:04.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:01:50.380Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13653/168e96edc252c56e.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13652/f28dba6f5a6e74c7.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34207",
@@ -194,5 +200,6 @@
       "analyzedAt": "2026-09-06T06:26:12.828Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:7:51f1a120c21c4becece0c931"
+  "trendingName": "Phil Berger",
+  "selfPraiseCacheKey": "self-praise-v1:7:51f1a120c21c4becece0c931"
 }

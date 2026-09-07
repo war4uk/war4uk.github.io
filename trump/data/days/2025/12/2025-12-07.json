@@ -6,22 +6,23 @@
     "negative": 0
   },
   "summary": "positive:6 neutral:6 negative:0",
-  "generatedAt": "2026-09-06T06:43:46.542Z",
+  "generatedAt": "2026-09-07T14:03:50.178Z",
   "topics": [
-    "Discusses the efficiency of current tariff methods against foreign countries",
-    "Defends Roger Clemens against past accusations and calls for Hall of Fame induction",
-    "Encourages voting for Republican candidate in Miami's mayoral race"
+    "Trump delivers remarks at the State Department Kennedy Center Honors Dinner",
+    "Calls for compassion and clemency for the Cuellar family",
+    "Supports Republican candidate in Miami's mayoral race"
   ],
-  "trendingTopic": "Defends Roger Clemens against past accusations and calls for Hall of Fame induction",
+  "trendingTopic": "Trump delivers remarks at the State Department Kennedy Center Honors Dinner",
   "secondaryHighlights": [
     {
-      "topic": "Discusses the efficiency of current tariff methods against foreign countries"
+      "topic": "Calls for compassion and clemency for the Cuellar family"
     },
     {
-      "topic": "Encourages voting for Republican candidate in Miami's mayoral race"
+      "topic": "Supports Republican candidate in Miami's mayoral race"
     }
   ],
   "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v10:12:e65b70fed72be9c388cdfe44",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34178",
@@ -45,7 +46,7 @@
       "id": "https://www.trumpstruth.org/statuses/34179",
       "publishedAt": "2025-12-07T11:58:24.000Z",
       "title": "[No Title] - Post from December 7, 2025",
-      "text": "<p></p>",
+      "text": "[Image] The image is a letter addressed to Donald Trump, dated November 12, 2025. It expresses gratitude for his service and leadership, while requesting compassion and clemency for the authors' parents, Henry and Imelda Cuellar. The letter highlights the emotional struggles faced by the authors, who are two daughters, and describes their parents' dedication to serving others and their community. The letter emphasizes themes of love, resilience, and the importance of family support during difficult times.",
       "url": "https://www.trumpstruth.org/statuses/34179",
       "raw": {
         "creator": "",
@@ -57,7 +58,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/34179",
         "isoDate": "2025-12-07T11:58:24.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-07T14:00:55.817Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13646/52854ff604523ce4.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34181",
@@ -165,7 +170,10 @@
         "contentSnippet": "RT @realDonaldTrump",
         "guid": "https://www.trumpstruth.org/statuses/34185",
         "isoDate": "2025-12-07T15:11:22.000Z"
-      }
+      },
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13646/52854ff604523ce4.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/34186",
@@ -314,6 +322,5 @@
       "analyzedAt": "2026-09-06T06:25:42.827Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v8:12:e65b70fed72be9c388cdfe44",
-  "trendingName": "Roger Clemens"
+  "selfPraiseCacheKey": "self-praise-v1:12:e65b70fed72be9c388cdfe44"
 }
