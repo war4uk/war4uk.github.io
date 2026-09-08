@@ -28,6 +28,7 @@
   ],
   "selfPraiseCount": 7,
   "topicsCacheKey": "day-themes-v10:20:b20080720d189a9c3bca6321",
+  "selfPraiseCacheKey": "self-praise-v1:20:b20080720d189a9c3bca6321",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41019",
@@ -543,6 +544,5 @@
       "rationale": "The text is a retweet link without any additional commentary or sentiment.",
       "analyzedAt": "2026-09-05T07:49:53.404Z"
     }
-  ],
-  "selfPraiseCacheKey": "self-praise-v1:20:b20080720d189a9c3bca6321"
+  ]
 }

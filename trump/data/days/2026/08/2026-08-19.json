@@ -23,6 +23,7 @@
   ],
   "selfPraiseCount": 3,
   "topicsCacheKey": "day-themes-v10:20:a81584d9afb09e390e7e82a2",
+  "selfPraiseCacheKey": "self-praise-v1:20:a81584d9afb09e390e7e82a2",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41003",
@@ -564,6 +565,5 @@
       "rationale": "The text expresses a strong negative sentiment towards Iran, describing their military and economic state in a very harsh manner and announcing severe economic consequences.",
       "analyzedAt": "2026-09-05T07:49:43.913Z"
     }
-  ],
-  "selfPraiseCacheKey": "self-praise-v1:20:a81584d9afb09e390e7e82a2"
+  ]
 }

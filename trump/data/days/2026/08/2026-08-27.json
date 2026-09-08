@@ -13,6 +13,7 @@
     "Promotes renaming Lake Ontario as Lake America"
   ],
   "trendingTopic": "Attacks Texas Senate candidate James Talarico over his religious, gender, education, and policy views",
+  "trendingName": "James Talarico",
   "secondaryHighlights": [
     {
       "topic": "Claims Iran is failing and says its leaders are begging to negotiate a deal"
@@ -26,6 +27,7 @@
   ],
   "selfPraiseCount": 4,
   "topicsCacheKey": "day-themes-v10:35:dc79b4c3392ceee82b5e7b9e",
+  "selfPraiseCacheKey": "self-praise-v1:35:dc79b4c3392ceee82b5e7b9e",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41264",
@@ -961,7 +963,5 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:05:38.809Z"
     }
-  ],
-  "trendingName": "James Talarico",
-  "selfPraiseCacheKey": "self-praise-v1:35:dc79b4c3392ceee82b5e7b9e"
+  ]
 }
