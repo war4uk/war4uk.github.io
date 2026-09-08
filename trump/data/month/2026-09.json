@@ -166,42 +166,60 @@
     {
       "date": "2026-09-07",
       "counts": {
-        "positive": 10,
-        "neutral": 20,
-        "negative": 0
+        "positive": 26,
+        "neutral": 34,
+        "negative": 6
       },
-      "summary": "positive:10 neutral:20 negative:0",
+      "summary": "positive:26 neutral:34 negative:6",
       "topics": [
-        "Promotes Victor Davis Hanson's book The Counter Revolution as a defense of Trump's MAGA movement",
-        "Highlights strong U.S. jobs gains, especially among women, and calls for lower interest rates",
-        "Endorses Florida Attorney General James Uthmeier"
+        "Promotes maps branding New Mexico as “New America”",
+        "Posts about the Iran war, naval threats, peace calls, and oil prices",
+        "Highlights jobs, inflation, tax, and food-price news"
       ],
-      "postsCount": 30,
+      "postsCount": 66,
       "hasDetail": true,
-      "generatedAt": "2026-09-08T06:39:23.412Z",
-      "trendingTopic": "Promotes Victor Davis Hanson's The Counter Revolution as a defense of Trump's MAGA movement",
-      "trendingName": "Victor Davis Hanson",
+      "generatedAt": "2026-09-08T12:04:13.378Z",
+      "trendingTopic": "Promotes maps and imagery relabeling New Mexico as “New America”",
       "secondaryHighlights": [
         {
-          "topic": "Plans to headline both nights of the GOP convention in Dallas while supporting the Texas Senate race"
+          "topic": "Promotes Victor Davis Hanson’s book The Counter Revolution"
         },
         {
-          "topic": "Thanks Jim Jordan as he demands FBI documents on alleged targeting of Trump officials and allies",
-          "name": "Jim Jordan"
+          "topic": "Highlights repairs and beautification of Washington, D.C., memorials and fountains"
         },
         {
-          "topic": "Calls for investigation into private voter-data transfers to a Zuckerberg-linked nonprofit"
+          "topic": "Endorses Florida Attorney General James Uthmeier"
         }
       ],
-      "selfPraiseCount": 5
+      "selfPraiseCount": 12
+    },
+    {
+      "date": "2026-09-08",
+      "counts": {
+        "positive": 0,
+        "neutral": 3,
+        "negative": 0
+      },
+      "summary": "positive:0 neutral:3 negative:0",
+      "topics": [],
+      "postsCount": 3,
+      "hasDetail": true,
+      "generatedAt": "2026-09-08T12:04:14.778Z",
+      "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-08T06:39:23.412Z",
-  "trendingTopic": "Escalates pressure on Iran while claiming control of the Strait of Hormuz",
+  "generatedAt": "2026-09-08T12:04:14.778Z",
+  "trendingTopic": "Donald Trump portrays Iran as collapsing amid war, oil pressure, and threats to the Strait of Hormuz",
   "secondaryHighlights": [
     {
-      "topic": "Endorses candidates across multiple state races"
+      "topic": "Trump endorses candidates across multiple state races"
+    },
+    {
+      "topic": "Trump expands plans for a White House ballroom, helipad, and military complex"
+    },
+    {
+      "topic": "Trump defends economic growth while demanding lower interest rates"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:7:9ae250af90bcee17fada7dae"
+  "topicsCacheKey": "month-themes-v5:8:8c82c1a7a1b7918e03c09dce"
 }
