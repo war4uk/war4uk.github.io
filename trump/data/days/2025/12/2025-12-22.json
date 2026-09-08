@@ -6,20 +6,27 @@
     "negative": 0
   },
   "summary": "positive:1 neutral:7 negative:0",
-  "generatedAt": "2026-09-07T14:50:37.600Z",
+  "generatedAt": "2026-09-08T07:38:21.022Z",
   "topics": [
-    "Highlights economic achievements with shrinking trade deficit and dropping inflation",
-    "Announces appointment of Jeff Landry as Special Envoy to Greenland"
+    "Trump touts shrinking trade deficit, rising paychecks, and falling inflation as economic gains",
+    "Trump appoints Louisiana Governor Jeff Landry as special envoy to Greenland",
+    "Trump touts narco-boat strikes as saving American lives"
   ],
-  "trendingTopic": "Highlights economic achievements with shrinking trade deficit and dropping inflation",
+  "trendingTopic": "Donald Trump touts shrinking trade deficit, rising paychecks, and falling inflation as economic gains",
   "secondaryHighlights": [
     {
-      "topic": "Announces appointment of Jeff Landry as Special Envoy to Greenland",
-      "name": "Jeff Landry"
+      "topic": "Trump contrasts Republican congressional achievements with Democratic obstruction"
+    },
+    {
+      "topic": "Trump presents himself as the “Peace President”"
+    },
+    {
+      "topic": "Trump highlights narco-boat strikes as saving American lives"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:8:607a8c047e65ec4304989607",
+  "selfPraiseCount": 6,
+  "topicsCacheKey": "day-themes-v11:8:607a8c047e65ec4304989607",
+  "selfPraiseCacheKey": "self-praise-v2:8:607a8c047e65ec4304989607",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/35173",
@@ -91,7 +98,7 @@
       "id": "https://www.trumpstruth.org/statuses/35170",
       "publishedAt": "2025-12-22T01:13:23.000Z",
       "title": "[No Title] - Post from December 22, 2025",
-      "text": "<p></p>",
+      "text": "[Image] A poster-style image from The Washington Times features Donald Trump in a dark blue suit, white shirt, and red tie against a distressed American flag background. Large white text reads, “Trump’s Narco-Boat Strikes Saving American Lives,” with a red underline beneath the headline.",
       "url": "https://www.trumpstruth.org/statuses/35170",
       "raw": {
         "creator": "",
@@ -104,6 +111,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35170",
         "isoDate": "2025-12-22T01:13:23.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:27:44.901Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14240/be98c856479dccac.jpg"
       ]
@@ -239,5 +247,12 @@
       "analyzedAt": "2026-09-06T06:27:57.026Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:8:607a8c047e65ec4304989607"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/35173",
+    "https://www.trumpstruth.org/statuses/35172",
+    "https://www.trumpstruth.org/statuses/35171",
+    "https://www.trumpstruth.org/statuses/35170",
+    "https://www.trumpstruth.org/statuses/35169",
+    "https://www.trumpstruth.org/statuses/34289"
+  ]
 }

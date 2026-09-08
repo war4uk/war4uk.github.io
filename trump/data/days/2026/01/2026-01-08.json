@@ -6,23 +6,27 @@
     "negative": 2
   },
   "summary": "positive:3 neutral:2 negative:2",
-  "generatedAt": "2026-09-07T14:51:11.499Z",
+  "generatedAt": "2026-09-08T07:41:47.491Z",
   "topics": [
-    "Criticizes Senators for voting with Democrats on national defense issues",
-    "Highlights Intel's launch of the first SUB 2 NANOMETER CPU PROCESSOR in the U.S.",
-    "Discusses Biden's handling of various national issues including crime and inflation"
+    "Trump touts tariffs, Intel chipmaking, and mortgage purchases as proof of economic revival",
+    "Trump condemns Senate Republicans who voted to limit presidential war powers",
+    "Trump orders $200 billion mortgage-bond purchase to lower housing costs"
   ],
-  "trendingTopic": "Criticizes Senators for voting with Democrats on national defense issues",
+  "trendingTopic": "Trump touts tariffs, Intel chipmaking, and mortgage purchases as proof of economic revival",
   "secondaryHighlights": [
     {
-      "topic": "Highlights Intel's launch of the first SUB 2 NANOMETER CPU PROCESSOR in the U.S."
+      "topic": "Trump condemns Senate Republicans who voted to limit presidential war powers"
     },
     {
-      "topic": "Discusses Biden's handling of various national issues including crime and inflation"
+      "topic": "Trump orders $200 billion mortgage-bond purchase to lower housing costs"
+    },
+    {
+      "topic": "Trump claims Minneapolis has become a major hub for Somali cash exports"
     }
   ],
   "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:7:bf29756b8f3f97f37853aff9",
+  "topicsCacheKey": "day-themes-v11:7:bf29756b8f3f97f37853aff9",
+  "selfPraiseCacheKey": "self-praise-v2:7:bf29756b8f3f97f37853aff9",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34485",
@@ -199,5 +203,9 @@
       "analyzedAt": "2026-09-06T06:31:45.239Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:7:bf29756b8f3f97f37853aff9"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34489",
+    "https://www.trumpstruth.org/statuses/34490",
+    "https://www.trumpstruth.org/statuses/34491"
+  ]
 }

@@ -6,13 +6,14 @@
     "negative": 0
   },
   "summary": "positive:1 neutral:0 negative:0",
-  "generatedAt": "2026-09-07T14:50:57.449Z",
+  "generatedAt": "2026-09-08T07:40:15.019Z",
   "topics": [
-    "Discusses Alex Swoyer's book on legal challenges against Trump"
+    "Promotes Alex Swoyer's book about alleged Democratic lawfare against Trump and MAGA"
   ],
-  "trendingTopic": "Discusses Alex Swoyer's book on legal challenges against Trump",
+  "trendingTopic": "Promotes Alex Swoyer's book alleging Democrats weaponized justice against Trump and MAGA",
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:1:905947cdea18b43c526b7fd5",
+  "topicsCacheKey": "day-themes-v11:1:905947cdea18b43c526b7fd5",
+  "selfPraiseCacheKey": "self-praise-v2:1:905947cdea18b43c526b7fd5",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34400",
@@ -45,7 +46,10 @@
       "analyzedAt": "2026-09-06T06:29:51.570Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:1:905947cdea18b43c526b7fd5",
+  "trendingName": "Alex Swoyer",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34400"
+  ],
   "secondaryHighlights": [
     {
       "topic": "Alex Swoyer has written a powerful Book, “Lawless Lawfare: Tipping the Scales of Justice to Get Trump and Destroy MAGA.” The unprecedented Weaponization of “Justice” by the Democrats against their Political Opponent (ME!) can never be forgotten, or allowed to happen again.",

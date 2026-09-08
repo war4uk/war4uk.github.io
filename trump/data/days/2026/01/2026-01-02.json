@@ -6,29 +6,33 @@
     "negative": 5
   },
   "summary": "positive:5 neutral:2 negative:5",
-  "generatedAt": "2026-09-07T14:50:59.832Z",
+  "generatedAt": "2026-09-08T07:40:31.779Z",
   "topics": [
-    "Discusses border security and compares Trump Administration to Biden Administration",
-    "Reports on the health status of a former President and his cognitive examination results",
-    "Critiques the impact of green energy on wildlife, particularly bald eagles"
+    "Bald eagles and millions of birds die amid scrutiny of green energy projects",
+    "Trump defends tariffs as essential to American national security and prosperity",
+    "Trump reports perfect health and a third consecutive perfect cognitive examination"
   ],
-  "trendingTopic": "Discusses border security and compares Trump Administration to Biden Administration",
+  "trendingTopic": "Bald eagles and millions of birds die amid scrutiny of green energy projects",
   "secondaryHighlights": [
     {
-      "topic": "Reports on the health status of a former President and his cognitive examination results"
+      "topic": "Trump praises border security as crossings and crime reach historic lows"
     },
     {
-      "topic": "Critiques the impact of green energy on wildlife, particularly bald eagles"
+      "topic": "Trump threatens U.S. intervention if Iran violently suppresses peaceful protesters"
+    },
+    {
+      "topic": "Antifa violence prompts criticism of UC Berkeley’s free-speech policies"
     }
   ],
   "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:12:87055a5702c1a8999fde4300",
+  "topicsCacheKey": "day-themes-v11:12:87055a5702c1a8999fde4300",
+  "selfPraiseCacheKey": "self-praise-v2:12:87055a5702c1a8999fde4300",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34401",
       "publishedAt": "2026-01-02T01:30:31.000Z",
       "title": "WOW!",
-      "text": "<p>WOW!</p>",
+      "text": "<p>WOW!</p>\n\n[Image] A promotional graphic featuring Donald Trump in a dark suit, white shirt, red tie, sunglasses, and an American flag lapel pin. Large text says “Team Trump Dominated 2025,” citing 5.3 billion views and 13 million new followers across social media platforms. Gold icons at the bottom represent views and followers, while floating heart and thumbs-up symbols fill the background.",
       "url": "https://www.trumpstruth.org/statuses/34401",
       "raw": {
         "creator": "",
@@ -41,6 +45,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34401",
         "isoDate": "2026-01-02T01:30:31.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:29:06.549Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13721/8745c66681d84792.jpg"
       ]
@@ -183,7 +188,7 @@
       "id": "https://www.trumpstruth.org/statuses/35052",
       "publishedAt": "2026-01-02T14:17:45.000Z",
       "title": "[No Title] - Post from January 2, 2026",
-      "text": "<p><a href=\"https://www.washingtonpost.com/opinions/2025/11/19/trump-interview-pennsylvania-steel-tariffs/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">25/11/19/trump-interview-pennsylvania-steel-tariffs/</span></a></p>",
+      "text": "<p><a href=\"https://www.washingtonpost.com/opinions/2025/11/19/trump-interview-pennsylvania-steel-tariffs/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">25/11/19/trump-interview-pennsylvania-steel-tariffs/</span></a></p>\n\n[Image] A social-media post quotes “My name is Donald” and discusses President Donald Trump. The attached photo shows Donald Trump seated behind the Resolute Desk in the Oval Office, looking at papers with several children gathered around him. U.S. military-service flags, statues, windows, and ornate furnishings fill the room.",
       "url": "https://www.trumpstruth.org/statuses/35052",
       "raw": {
         "creator": "",
@@ -196,6 +201,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35052",
         "isoDate": "2026-01-02T14:17:45.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:29:02.837Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14119/f9baaa3bdaa9708e.png"
       ]
@@ -204,7 +210,7 @@
       "id": "https://www.trumpstruth.org/statuses/34407",
       "publishedAt": "2026-01-02T14:19:44.000Z",
       "title": "How beautiful of a building is this?",
-      "text": "<p>How beautiful of a building is this?</p>",
+      "text": "<p>How beautiful of a building is this?</p>\n\n[Image] An aerial view shows a large white historic government building with ornate Beaux-Arts architecture, elaborate mansard roofs, columns, and decorative stonework. It is surrounded by mature trees, lawns, roads, and parked cars, with modern office buildings rising behind it. A tall obelisk monument stands near the lower-left corner.",
       "url": "https://www.trumpstruth.org/statuses/34407",
       "raw": {
         "creator": "",
@@ -217,6 +223,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34407",
         "isoDate": "2026-01-02T14:19:44.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:28:59.827Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13722/957e81873e272b6b.jpg"
       ]
@@ -336,5 +343,8 @@
       "analyzedAt": "2026-09-06T06:30:02.492Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:12:87055a5702c1a8999fde4300"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34402",
+    "https://www.trumpstruth.org/statuses/34404"
+  ]
 }

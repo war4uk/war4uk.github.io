@@ -6,26 +6,25 @@
     "negative": 2
   },
   "summary": "positive:2 neutral:4 negative:2",
-  "generatedAt": "2026-09-07T14:52:33.514Z",
+  "generatedAt": "2026-09-08T07:50:52.676Z",
   "topics": [
-    "Critiques the Super Bowl Halftime Show as unrepresentative of American values",
-    "Celebrates the DOW reaching 50k as a success of Trumponomics",
-    "Discusses potential mortgage rate changes linked to Trump's actions"
+    "Trump touts economic gains as the Dow reaches 50,000 and mortgage rates could fall",
+    "Trump endorses Viktor Orbán for reelection as Hungary’s prime minister",
+    "Trump threatens to block Canada-Michigan bridge opening over trade and Buy American demands"
   ],
-  "trendingTopic": "Celebrates the DOW reaching 50k as a success of Trumponomics",
+  "trendingTopic": "Donald Trump touts economic gains as the Dow reaches 50,000 and mortgage rates could fall",
   "secondaryHighlights": [
     {
-      "topic": "Critiques the Super Bowl Halftime Show as unrepresentative of American values"
+      "topic": "Trump endorses Viktor Orbán for reelection as Hungary’s prime minister",
+      "name": "Viktor Orbán"
     },
     {
-      "topic": "Discusses potential mortgage rate changes linked to Trump's actions"
-    },
-    {
-      "topic": "California governor race thrown into chaos over Eric Swalwell's residency claims"
+      "topic": "Trump threatens to block Canada-Michigan bridge opening over trade and Buy American demands"
     }
   ],
   "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:8:25c5cf6f5ea707e985720a75",
+  "topicsCacheKey": "day-themes-v11:8:25c5cf6f5ea707e985720a75",
+  "selfPraiseCacheKey": "self-praise-v2:8:25c5cf6f5ea707e985720a75",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36609",
@@ -107,7 +106,7 @@
       "id": "https://www.trumpstruth.org/statuses/36613",
       "publishedAt": "2026-02-09T04:47:49.000Z",
       "title": "[No Title] - Post from February 9, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump sits at a desk in an ornate office, gesturing toward a large map of the United States. Several officials sit around the table, including European Commission President Ursula von der Leyen in a coral jacket. Bookshelves, flags, trophies, and a dark bust decorate the room, while attendees take notes and listen.",
       "url": "https://www.trumpstruth.org/statuses/36613",
       "raw": {
         "creator": "",
@@ -120,6 +119,7 @@
         "guid": "https://www.trumpstruth.org/statuses/36613",
         "isoDate": "2026-02-09T04:47:49.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:36:00.004Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15397/d8f9d7884abdeef1.jpg"
       ]
@@ -128,7 +128,7 @@
       "id": "https://www.trumpstruth.org/statuses/36615",
       "publishedAt": "2026-02-09T18:18:54.000Z",
       "title": "RT @realDonaldTrumpHighly Respected Prime Minister of Hungary, Viktor Orbán, is a truly strong and powerful Leader, with a proven track record of delivering phenomenal results. He fights tirelessly for, and loves, his Great Country and People, just like I do for the United States of America. Viktor works hard to Protect Hungary, Grow the Economy, Create Jobs, Promote Trade, Stop Illegal Immigration, and Ensure LAW AND ORDER! Relations between Hungary and the United States have reached new heights of cooperation and spectacular achievement under my Administration, thanks largely to Prime Minister Orbán. I look forward to continuing working closely with him so that both of our Countries can further advance this tremendous path to SUCCESS and cooperation. I was proud to ENDORSE Viktor for Re-Election in 2022, and am honored to do so again. Viktor Orbán is a true friend, fighter, and WINNER, and has my Complete and Total Endorsement for Re-Election as Prime Minister of Hungary — HE WILL NEVER LET THE GREAT PEOPLE OF HUNGARY DOWN! PRESIDENT DONALD J. TRUMP",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>Highly Respected Prime Minister of Hungary, Viktor Orbán, is a truly strong and powerful Leader, with a proven track record of delivering phenomenal results. He fights tirelessly for, and loves, his Great Country and People, just like I do for the United States of America. Viktor works hard to Protect Hungary, Grow the Economy, Create Jobs, Promote Trade, Stop Illegal Immigration, and Ensure LAW AND ORDER! Relations between Hungary and the United States have reached new heights of cooperation and spectacular achievement under my Administration, thanks largely to Prime Minister Orbán. I look forward to continuing working closely with him so that both of our Countries can further advance this tremendous path to SUCCESS and cooperation. I was proud to ENDORSE Viktor for Re-Election in 2022, and am honored to do so again. Viktor Orbán is a true friend, fighter, and WINNER, and has my Complete and Total Endorsement for Re-Election as Prime Minister of Hungary — HE WILL NEVER LET THE GREAT PEOPLE OF HUNGARY DOWN! PRESIDENT DONALD J. TRUMP</p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span>Highly Respected Prime Minister of Hungary, Viktor Orbán, is a truly strong and powerful Leader, with a proven track record of delivering phenomenal results. He fights tirelessly for, and loves, his Great Country and People, just like I do for the United States of America. Viktor works hard to Protect Hungary, Grow the Economy, Create Jobs, Promote Trade, Stop Illegal Immigration, and Ensure LAW AND ORDER! Relations between Hungary and the United States have reached new heights of cooperation and spectacular achievement under my Administration, thanks largely to Prime Minister Orbán. I look forward to continuing working closely with him so that both of our Countries can further advance this tremendous path to SUCCESS and cooperation. I was proud to ENDORSE Viktor for Re-Election in 2022, and am honored to do so again. Viktor Orbán is a true friend, fighter, and WINNER, and has my Complete and Total Endorsement for Re-Election as Prime Minister of Hungary — HE WILL NEVER LET THE GREAT PEOPLE OF HUNGARY DOWN! PRESIDENT DONALD J. TRUMP</p>\n\n[Image] Donald Trump and Hungarian Prime Minister Viktor Orbán stand side by side on a covered colonnade at the White House. Trump wears a dark suit with a yellow tie and American flag pin, while Orbán wears a dark suit with a red tie. White columns, trimmed hedges, and the White House’s exterior are visible behind them.",
       "url": "https://www.trumpstruth.org/statuses/36615",
       "raw": {
         "creator": "",
@@ -141,6 +141,7 @@
         "guid": "https://www.trumpstruth.org/statuses/36615",
         "isoDate": "2026-02-09T18:18:54.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:35:57.259Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15311/bd988fb05743c879.jpg"
       ]
@@ -240,5 +241,8 @@
       "analyzedAt": "2026-09-06T06:50:51.293Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:8:25c5cf6f5ea707e985720a75"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/36610",
+    "https://www.trumpstruth.org/statuses/36615"
+  ]
 }

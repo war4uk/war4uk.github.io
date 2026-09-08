@@ -6,23 +6,28 @@
     "negative": 1
   },
   "summary": "positive:5 neutral:12 negative:1",
-  "generatedAt": "2026-09-07T14:51:13.754Z",
+  "generatedAt": "2026-09-08T07:42:04.731Z",
   "topics": [
-    "Highlights job growth disparity between red and blue states based on recent economic data",
-    "Discusses Venezuela's release of political prisoners and cooperation with the U.S.",
-    "Announces upcoming meeting with Colombia's President Gustavo Petro"
+    "Trump touts strong job growth, productivity, trade deficit gains, and investment under his administration",
+    "Trump announces expanded Venezuela cooperation, oil investment, and tanker seizure while canceling further attacks",
+    "Trump endorses Megan Degenfelder for Wyoming governor if she enters the race"
   ],
-  "trendingTopic": "Highlights job growth disparity between red and blue states based on recent economic data",
+  "trendingTopic": "Trump touts strong job growth, productivity, trade deficit gains, and investment under his administration",
   "secondaryHighlights": [
     {
-      "topic": "Discusses Venezuela's release of political prisoners and cooperation with the U.S."
+      "topic": "Trump announces expanded Venezuela cooperation, oil investment, and tanker seizure while canceling further attacks"
     },
     {
-      "topic": "Announces upcoming meeting with Colombia's President Gustavo Petro"
+      "topic": "Trump endorses Megan Degenfelder for Wyoming governor if she enters the race",
+      "name": "Megan Degenfelder"
+    },
+    {
+      "topic": "Trump blames California leaders for delaying wildfire rebuilding permits"
     }
   ],
-  "selfPraiseCount": 4,
-  "topicsCacheKey": "day-themes-v10:18:a18bd16a1657159fa74c4e6d",
+  "selfPraiseCount": 8,
+  "topicsCacheKey": "day-themes-v11:18:a18bd16a1657159fa74c4e6d",
+  "selfPraiseCacheKey": "self-praise-v2:18:a18bd16a1657159fa74c4e6d",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34930",
@@ -50,7 +55,7 @@
       "id": "https://www.trumpstruth.org/statuses/34929",
       "publishedAt": "2026-01-09T01:20:31.000Z",
       "title": "[No Title] - Post from January 9, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A line chart from the Council of Economic Advisers titled “The trade deficit is the lowest since 2009.” It shows the monthly U.S. trade deficit in billions of dollars from 2023 through 2025, fluctuating near $60–80 billion before plunging below $120 billion in early 2025 and then recovering. Text says the deficit is down 77% since January.",
       "url": "https://www.trumpstruth.org/statuses/34929",
       "raw": {
         "creator": "",
@@ -63,6 +68,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34929",
         "isoDate": "2026-01-09T01:20:31.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:30:38.735Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13998/8bdbf44c49011c8e.jpg"
       ]
@@ -71,7 +77,7 @@
       "id": "https://www.trumpstruth.org/statuses/34928",
       "publishedAt": "2026-01-09T01:20:44.000Z",
       "title": "[No Title] - Post from January 9, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A Council of Economic Advisers chart states, “Since Trump took office, all new jobs have gone to native-born workers.” It compares the last year of the Biden administration, showing 46% of net job gains for native-born and 54% for foreign-born workers, with the Trump administration shown as 100% native-born and 0% foreign-born. Sources listed are BLS and CEA calculations.",
       "url": "https://www.trumpstruth.org/statuses/34928",
       "raw": {
         "creator": "",
@@ -84,6 +90,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34928",
         "isoDate": "2026-01-09T01:20:44.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:30:36.103Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13997/95d6c0000f52c4f6.jpg"
       ]
@@ -481,5 +488,14 @@
       "analyzedAt": "2026-09-06T06:31:57.693Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:18:a18bd16a1657159fa74c4e6d"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34930",
+    "https://www.trumpstruth.org/statuses/34929",
+    "https://www.trumpstruth.org/statuses/34928",
+    "https://www.trumpstruth.org/statuses/34927",
+    "https://www.trumpstruth.org/statuses/34492",
+    "https://www.trumpstruth.org/statuses/34501",
+    "https://www.trumpstruth.org/statuses/34502",
+    "https://www.trumpstruth.org/statuses/34503"
+  ]
 }

@@ -6,23 +6,24 @@
     "negative": 4
   },
   "summary": "positive:9 neutral:2 negative:4",
-  "generatedAt": "2026-09-07T14:50:32.328Z",
+  "generatedAt": "2026-09-08T07:38:01.852Z",
   "topics": [
-    "Announces funding for recovery efforts in La Jolla and Kansas after severe storms",
-    "Comments on economic performance and unemployment rates",
-    "Critiques Democrats' approval ratings in Congress"
+    "Trump touts economic gains and says federal workforce cuts explain 4.5% unemployment",
+    "Trump approves disaster recovery funds for Kansas and California tribal community",
+    "Trump announces major U.S. retaliation against ISIS strongholds in Syria"
   ],
-  "trendingTopic": "Announces funding for recovery efforts in La Jolla and Kansas after severe storms",
+  "trendingTopic": "Trump promotes economic gains and says federal workforce cuts explain 4.5% unemployment",
   "secondaryHighlights": [
     {
-      "topic": "Comments on economic performance and unemployment rates"
+      "topic": "Trump approves disaster recovery funds for Kansas and California tribal community"
     },
     {
-      "topic": "Critiques Democrats' approval ratings in Congress"
+      "topic": "Trump announces major U.S. retaliation against ISIS strongholds in Syria"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:15:42dbcabd6f7ee74083cbe0c7",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:15:42dbcabd6f7ee74083cbe0c7",
+  "selfPraiseCacheKey": "self-praise-v2:15:42dbcabd6f7ee74083cbe0c7",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34264",
@@ -391,5 +392,9 @@
       "analyzedAt": "2026-09-06T06:27:35.383Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:15:42dbcabd6f7ee74083cbe0c7"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34265",
+    "https://www.trumpstruth.org/statuses/34269",
+    "https://www.trumpstruth.org/statuses/34272"
+  ]
 }

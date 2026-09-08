@@ -6,19 +6,25 @@
     "negative": 1
   },
   "summary": "positive:1 neutral:2 negative:1",
-  "generatedAt": "2026-09-07T14:51:59.676Z",
+  "generatedAt": "2026-09-08T07:47:16.379Z",
   "topics": [
-    "Endorses Tracey Powell for Indiana's 21st State Senate District against Jim Buck",
-    "Comments on potential political developments in Iraq regarding Nouri al-Maliki"
+    "Endorses Tracey Powell for Indiana’s 21st State Senate District against incumbent Jim Buck",
+    "Trump attends the Miami–Indiana championship game in Miami",
+    "Warns Iraq against reinstalling Nouri al-Maliki as prime minister"
   ],
-  "trendingTopic": "Endorses Tracey Powell for Indiana's 21st State Senate District against Jim Buck",
+  "trendingTopic": "Endorses Tracey Powell for Indiana’s 21st State Senate District against incumbent Jim Buck",
   "secondaryHighlights": [
     {
-      "topic": "Comments on potential political developments in Iraq regarding Nouri al-Maliki"
+      "topic": "Trump attends the Miami–Indiana championship game in Miami"
+    },
+    {
+      "topic": "Warns Iraq against reinstalling Nouri al-Maliki as prime minister",
+      "name": "Nouri al-Maliki"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:4:f3e45cf7fc0b10f2e8205c11",
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v11:4:f3e45cf7fc0b10f2e8205c11",
+  "selfPraiseCacheKey": "self-praise-v2:4:f3e45cf7fc0b10f2e8205c11",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34626",
@@ -46,7 +52,7 @@
       "id": "https://www.trumpstruth.org/statuses/34625",
       "publishedAt": "2026-01-27T00:50:29.000Z",
       "title": "[No Title] - Post from January 27, 2026",
-      "text": "<p><a href=\"https://www.tmz.com/2026/01/19/president-trump-cheered-miami-fl-vs-indiana-championship-game/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">tmz.com/2026/01/19/president-t</span><span class=\"invisible\">rump-cheered-miami-fl-vs-indiana-championship-game/</span></a></p>",
+      "text": "<p><a href=\"https://www.tmz.com/2026/01/19/president-trump-cheered-miami-fl-vs-indiana-championship-game/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">tmz.com/2026/01/19/president-t</span><span class=\"invisible\">rump-cheered-miami-fl-vs-indiana-championship-game/</span></a></p>\n\n[Image] A TMZ Sports article dated January 19, 2026, carries the headline “President Trump Crowd Goes Wild At National Title Game.” The accompanying photo shows Donald Trump standing behind a glass barrier with several adults and children. Some people have their hands over their hearts, while a woman in dark sunglasses stands to his right.",
       "url": "https://www.trumpstruth.org/statuses/34625",
       "raw": {
         "creator": "",
@@ -59,6 +65,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34625",
         "isoDate": "2026-01-27T00:50:29.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:33:37.434Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13799/8853b644fe44595a.jpg"
       ]
@@ -126,5 +133,8 @@
       "analyzedAt": "2026-09-06T06:35:49.596Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:4:f3e45cf7fc0b10f2e8205c11"
+  "trendingName": "Tracey Powell",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34626"
+  ]
 }

@@ -6,23 +6,25 @@
     "negative": 3
   },
   "summary": "positive:4 neutral:3 negative:3",
-  "generatedAt": "2026-09-07T14:50:15.831Z",
+  "generatedAt": "2026-09-08T07:36:56.006Z",
   "topics": [
-    "Criticizes Indiana State Senate Republicans for voting against House Majority",
-    "Mourns the loss of three American Patriots in Syria",
-    "Comments on the shooting incident at Brown University"
+    "Brown University police reverse their statement, saying the shooting suspect is not in custody",
+    "Arthur Laffer praises Donald Trump as history’s greatest president and says tariffs are working",
+    "Trump mourns three Americans killed in an ISIS attack in Syria and promises serious retaliation"
   ],
-  "trendingTopic": "Criticizes Indiana State Senate Republicans for voting against House Majority",
+  "trendingTopic": "Brown University police reverse their statement, saying the shooting suspect is not in custody",
   "secondaryHighlights": [
     {
-      "topic": "Mourns the loss of three American Patriots in Syria"
+      "topic": "Arthur Laffer praises Donald Trump as history’s greatest president and says tariffs are working",
+      "name": "Arthur Laffer"
     },
     {
-      "topic": "Comments on the shooting incident at Brown University"
+      "topic": "Trump mourns three Americans killed in an ISIS attack in Syria and promises serious retaliation"
     }
   ],
   "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:10:a38cb57ff76ede5bb5e02de0",
+  "topicsCacheKey": "day-themes-v11:10:a38cb57ff76ede5bb5e02de0",
+  "selfPraiseCacheKey": "self-praise-v2:10:a38cb57ff76ede5bb5e02de0",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34215",
@@ -271,5 +273,8 @@
       "analyzedAt": "2026-09-06T06:26:35.013Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:10:a38cb57ff76ede5bb5e02de0"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34217",
+    "https://www.trumpstruth.org/statuses/34218"
+  ]
 }

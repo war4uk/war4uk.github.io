@@ -6,23 +6,29 @@
     "negative": 3
   },
   "summary": "positive:3 neutral:90 negative:3",
-  "generatedAt": "2026-09-07T14:51:05.343Z",
+  "generatedAt": "2026-09-08T07:41:06.031Z",
   "topics": [
-    "Claims of election fraud and integrity issues surrounding the 2020 election",
-    "Celebrations among Venezuelans following Trump's actions against Maduro",
-    "Criticism of teachers' unions and calls for their dissolution"
+    "Trump administration announces a reduced childhood vaccination schedule covering 11 serious diseases",
+    "Trump endorses Ed Gallrein to challenge Thomas Massie in Kentucky’s 4th Congressional District",
+    "Trump claims tariff collections exceed $600 billion ahead of a Supreme Court decision"
   ],
-  "trendingTopic": "Claims of election fraud and integrity issues surrounding the 2020 election",
+  "trendingTopic": "Trump administration announces a reduced childhood vaccination schedule covering 11 serious diseases",
   "secondaryHighlights": [
     {
-      "topic": "Celebrations among Venezuelans following Trump's actions against Maduro"
+      "topic": "Trump endorses Ed Gallrein to challenge Thomas Massie in Kentucky’s 4th Congressional District",
+      "name": "Ed Gallrein"
     },
     {
-      "topic": "Criticism of teachers' unions and calls for their dissolution"
+      "topic": "Trump claims tariff collections exceed $600 billion ahead of a Supreme Court decision"
+    },
+    {
+      "topic": "Trump attacks Minnesota Governor Tim Walz over alleged taxpayer fraud",
+      "name": "Tim Walz"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:96:6f1c002490ac90e06aa309f3",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:96:6f1c002490ac90e06aa309f3",
+  "selfPraiseCacheKey": "self-praise-v2:96:6f1c002490ac90e06aa309f3",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/35002",
@@ -246,7 +252,7 @@
       "id": "https://www.trumpstruth.org/statuses/34992",
       "publishedAt": "2026-01-05T05:52:05.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840929679489463</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840929679489463</span></p>\n\n[Image] A screenshot of a social media post from Caroline, username @car_oline2001, with a blue verified badge. The post reads, “This was so well said, Major Respect,” followed by a blue @ABC mention. A circular emblem-style profile image appears beside the account name, and a three-dot menu is visible in the upper-right corner.",
       "url": "https://www.trumpstruth.org/statuses/34992",
       "raw": {
         "creator": "",
@@ -259,6 +265,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34992",
         "isoDate": "2026-01-05T05:52:05.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:30:21.803Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14060/13bf68b90d099dd1.png"
       ]
@@ -303,7 +310,7 @@
       "id": "https://www.trumpstruth.org/statuses/34989",
       "publishedAt": "2026-01-05T05:52:55.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840932600858716</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840932600858716</span></p>\n\n[Image] A screenshot of a post by Eric Daugherty (@EricLDaugh) displays a quoted statement attributed to Stephen Miller. The text alleges that the Biden administration brought undocumented immigrants into the country, provided parole and work permits, and enabled access to Social Security numbers and voting. It calls the alleged policy an attack on democracy and “treason.”",
       "url": "https://www.trumpstruth.org/statuses/34989",
       "raw": {
         "creator": "",
@@ -316,6 +323,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34989",
         "isoDate": "2026-01-05T05:52:55.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:30:18.453Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14057/f17ba569ff1f9f1a.png"
       ]
@@ -742,7 +750,7 @@
       "id": "https://www.trumpstruth.org/statuses/34971",
       "publishedAt": "2026-01-05T06:08:42.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840995009952834</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115840995009952834</span></p>\n\n[Image] A screenshot of a post by Victoria Byrne (@Thevictoria76) with a verified blue check. The post reads: “The law applies to everyone — titles don’t grant immunity. Accountability is coming, and that’s why they’re nervous. Equal justice. No exceptions.” It ends with U.S. flag and fire emojis.",
       "url": "https://www.trumpstruth.org/statuses/34971",
       "raw": {
         "creator": "",
@@ -755,6 +763,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34971",
         "isoDate": "2026-01-05T06:08:42.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:30:13.688Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14039/d2916d12b035ab3e.png"
       ]
@@ -1261,7 +1270,7 @@
       "id": "https://www.trumpstruth.org/statuses/34951",
       "publishedAt": "2026-01-05T06:21:56.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841047136997408</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841047136997408</span></p>\n\n[Image] A screenshot of a social-media post from the verified account “Clerpatriot,” whose profile picture shows a woman wearing a red, white, and blue headband. The post reads: “Millions of Venezuelans are celebrating! I thought the left hated dictators. Why aren’t they celebrating with Venezuela?!” A three-dot menu appears in the upper-right corner.",
       "url": "https://www.trumpstruth.org/statuses/34951",
       "raw": {
         "creator": "",
@@ -1274,6 +1283,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34951",
         "isoDate": "2026-01-05T06:21:56.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:30:08.752Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14019/83dee9cd8e11e344.png"
       ]
@@ -1718,7 +1728,7 @@
       "id": "https://www.trumpstruth.org/statuses/34449",
       "publishedAt": "2026-01-05T06:33:45.000Z",
       "title": "[No Title] - Post from January 5, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841093691693876</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115841093691693876</span></p>\n\n[Image] A screenshot of a post by Bill Mitchell (@mitchellvii) says, “BREAKING: Venezuelans who lived through 26 years of Maduro’s corrupt dictatorship are finally free thanks to Trump!” It includes a quote praising Trump and describing 26 years of corruption, assassination, and dictatorship. The post shows Mitchell’s profile photo and verified badge.",
       "url": "https://www.trumpstruth.org/statuses/34449",
       "raw": {
         "creator": "",
@@ -1731,6 +1741,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34449",
         "isoDate": "2026-01-05T06:33:45.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:30:02.986Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13757/67e36a5dd4abcfd8.png"
       ]
@@ -1855,7 +1866,7 @@
       "id": "https://www.trumpstruth.org/statuses/34456",
       "publishedAt": "2026-01-05T22:08:18.000Z",
       "title": "The incredible people of Kentucky’s 4th Congressional District, who want desperately to get rid of Thomas Massie, the Worst “Republican” Congressman we have had in many years, gave us a mandate to, MAKE AMERICA GREAT AGAIN! The person that will help us do the job, and do it right, is Navy SEAL, Army Ranger, Fifth Generation Kentucky Farmer, and American Hero, Captain Ed Gallrein, a true Patriot. Today, Ed, who also happens to be central casting, officially filed to run for Congress. I have heard that there are other Candidates exploring a run for this seat, but I am asking all MAGA Warriors to rally behind Captain Ed Gallrein, the Candidate who is, far and away, best positioned to DEFEAT Third Rate Congressman Thomas Massie, a Weak and Pathetic RINO from the beautiful Commonwealth of Kentucky, a place I love, and won BIG, ALL THREE TIMES. A Brave Combat Veteran, Ed knows the Wisdom and Courage required to Defend our Country, Support our Military/Veterans, and Ensure PEACE THROUGH STRENGTH. He is a big fan of our recent attack on Nicolas Maduro, the Dictator of Venezuela. Additionally, as a very successful Businessman, Ed knows how to Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Support our Amazing Farmers and American Agriculture, Unleash American Energy Dominance, and Champion our Nation’s Golden Age. In Congress, he will fight tirelessly to Keep our now very Secure Border, SECURE, Stop Migrant Crime, and Defend our always under siege Second Amendment. Captain Ed Gallrein has my Complete and Total Endorsement against “Congressman” Thomas Massie — He only votes AGAINST the Republican Party, making life very easy for the Radical Left. Unlike “lightweight” Congressman Massie, a true hater of Israel, and a totally ineffective LOSER who has failed us so badly, CAPTAIN ED GALLREIN IS A WINNER WHO WILL NOT LET KENTUCKY DOWN!",
-      "text": "<p>The incredible people of Kentucky’s 4th Congressional District, who want desperately to get rid of Thomas Massie, the Worst “Republican” Congressman we have had in many years, gave us a mandate to, MAKE AMERICA GREAT AGAIN! The person that will help us do the job, and do it right, is Navy SEAL, Army Ranger, Fifth Generation Kentucky Farmer, and American Hero, Captain Ed Gallrein, a true Patriot. Today, Ed, who also happens to be central casting, officially filed to run for Congress. I have heard that there are other Candidates exploring a run for this seat, but I am asking all MAGA Warriors to rally behind Captain Ed Gallrein, the Candidate who is, far and away, best positioned to DEFEAT Third Rate Congressman Thomas Massie, a Weak and Pathetic RINO from the beautiful Commonwealth of Kentucky, a place I love, and won BIG, ALL THREE TIMES.<br/> <br/>A Brave Combat Veteran, Ed knows the Wisdom and Courage required to Defend our Country, Support our Military/Veterans, and Ensure PEACE THROUGH STRENGTH. He is a big fan of our recent attack on Nicolas Maduro, the Dictator of Venezuela. Additionally, as a very successful Businessman, Ed knows how to Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Support our Amazing Farmers and American Agriculture, Unleash American Energy Dominance, and Champion our Nation’s Golden Age. In Congress, he will fight tirelessly to Keep our now very Secure Border, SECURE, Stop Migrant Crime, and Defend our always under siege Second Amendment.<br/> <br/>Captain Ed Gallrein has my Complete and Total Endorsement against “Congressman” Thomas Massie — He only votes AGAINST the Republican Party, making life very easy for the Radical Left. Unlike “lightweight” Congressman Massie, a true hater of Israel, and a totally ineffective LOSER who has failed us so badly, CAPTAIN ED GALLREIN IS A WINNER WHO WILL NOT LET KENTUCKY DOWN!</p>",
+      "text": "<p>The incredible people of Kentucky’s 4th Congressional District, who want desperately to get rid of Thomas Massie, the Worst “Republican” Congressman we have had in many years, gave us a mandate to, MAKE AMERICA GREAT AGAIN! The person that will help us do the job, and do it right, is Navy SEAL, Army Ranger, Fifth Generation Kentucky Farmer, and American Hero, Captain Ed Gallrein, a true Patriot. Today, Ed, who also happens to be central casting, officially filed to run for Congress. I have heard that there are other Candidates exploring a run for this seat, but I am asking all MAGA Warriors to rally behind Captain Ed Gallrein, the Candidate who is, far and away, best positioned to DEFEAT Third Rate Congressman Thomas Massie, a Weak and Pathetic RINO from the beautiful Commonwealth of Kentucky, a place I love, and won BIG, ALL THREE TIMES.<br/> <br/>A Brave Combat Veteran, Ed knows the Wisdom and Courage required to Defend our Country, Support our Military/Veterans, and Ensure PEACE THROUGH STRENGTH. He is a big fan of our recent attack on Nicolas Maduro, the Dictator of Venezuela. Additionally, as a very successful Businessman, Ed knows how to Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Support our Amazing Farmers and American Agriculture, Unleash American Energy Dominance, and Champion our Nation’s Golden Age. In Congress, he will fight tirelessly to Keep our now very Secure Border, SECURE, Stop Migrant Crime, and Defend our always under siege Second Amendment.<br/> <br/>Captain Ed Gallrein has my Complete and Total Endorsement against “Congressman” Thomas Massie — He only votes AGAINST the Republican Party, making life very easy for the Radical Left. Unlike “lightweight” Congressman Massie, a true hater of Israel, and a totally ineffective LOSER who has failed us so badly, CAPTAIN ED GALLREIN IS A WINNER WHO WILL NOT LET KENTUCKY DOWN!</p>\n\n[Image] Donald Trump sits behind the Resolute Desk in an ornate office surrounded by American, presidential, and military flags, holding a red “Make America Great Again” hat. An unidentified man in a dark suit and red tie stands beside him holding another MAGA hat. A statue, framed photographs, military medals, and a telephone are visible around the desk.",
       "url": "https://www.trumpstruth.org/statuses/34456",
       "raw": {
         "creator": "",
@@ -1868,6 +1879,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34456",
         "isoDate": "2026-01-05T22:08:18.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:29:59.845Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13762/78290b40e2725cfe.jpg"
       ]
@@ -2509,5 +2521,8 @@
       "analyzedAt": "2026-09-06T06:31:11.977Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:96:6f1c002490ac90e06aa309f3"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34453",
+    "https://www.trumpstruth.org/statuses/34456"
+  ]
 }

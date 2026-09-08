@@ -6,23 +6,25 @@
     "negative": 11
   },
   "summary": "positive:5 neutral:1 negative:11",
-  "generatedAt": "2026-09-07T14:50:55.869Z",
+  "generatedAt": "2026-09-08T07:40:11.004Z",
   "topics": [
-    "Critiques of voter fraud and election integrity in Minnesota and California",
-    "Concerns over the exodus from California and Colorado due to poor governance",
-    "Comments on the removal of the National Guard from major cities"
+    "Alleges Minnesota election and childcare fraud involving Somali immigrants and attacks Governor Tim Walz",
+    "Defends Tina Peters while alleging voter fraud in Colorado",
+    "Praises Border Patrol, ICE, and strong border enforcement"
   ],
-  "trendingTopic": "Critiques of voter fraud and election integrity in Minnesota and California",
+  "trendingTopic": "Trump alleges Minnesota election and childcare fraud involving Somali immigrants and attacks Governor Tim Walz",
   "secondaryHighlights": [
     {
-      "topic": "Concerns over the exodus from California and Colorado due to poor governance"
+      "topic": "Defends Tina Peters while alleging voter fraud in Colorado",
+      "name": "Tina Peters"
     },
     {
-      "topic": "Comments on the removal of the National Guard from major cities"
+      "topic": "Praises Border Patrol, ICE, and strong border enforcement"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:17:f91decd88d77b52ec5d09176",
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v11:17:f91decd88d77b52ec5d09176",
+  "selfPraiseCacheKey": "self-praise-v2:17:f91decd88d77b52ec5d09176",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34383",
@@ -435,5 +437,10 @@
       "analyzedAt": "2026-09-06T06:29:45.358Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:17:f91decd88d77b52ec5d09176"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34383",
+    "https://www.trumpstruth.org/statuses/34391",
+    "https://www.trumpstruth.org/statuses/34395",
+    "https://www.trumpstruth.org/statuses/34398"
+  ]
 }

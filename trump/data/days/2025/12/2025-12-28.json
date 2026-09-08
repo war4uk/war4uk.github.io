@@ -6,19 +6,25 @@
     "negative": 0
   },
   "summary": "positive:2 neutral:5 negative:0",
-  "generatedAt": "2026-09-07T14:50:49.953Z",
+  "generatedAt": "2026-09-08T07:39:47.500Z",
   "topics": [
-    "Announces peace agreement between Thailand and Cambodia",
-    "Discusses upcoming meeting with President Zelenskyy after call with President Putin"
+    "Trump announces Thailand-Cambodia fighting will pause under their previously agreed peace treaty",
+    "Trump speaks with Putin before hosting Zelenskyy for a Ukraine meeting at Mar-a-Lago",
+    "Shares false claims accusing Obama and Biden of funding Iran’s nuclear weapons program"
   ],
-  "trendingTopic": "Announces peace agreement between Thailand and Cambodia",
+  "trendingTopic": "Trump announces Thailand-Cambodia fighting will pause under their previously agreed peace treaty",
   "secondaryHighlights": [
     {
-      "topic": "Discusses upcoming meeting with President Zelenskyy after call with President Putin"
+      "topic": "Trump speaks with Putin before hosting Zelenskyy for a Ukraine meeting at Mar-a-Lago"
+    },
+    {
+      "topic": "Shares false claims accusing Obama and Biden of funding Iran’s nuclear weapons program",
+      "name": "Chris Bjorn"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:7:ab08da093f6ee4de513948b5",
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v11:7:ab08da093f6ee4de513948b5",
+  "selfPraiseCacheKey": "self-praise-v2:7:ab08da093f6ee4de513948b5",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34362",
@@ -118,7 +124,7 @@
       "id": "https://www.trumpstruth.org/statuses/34367",
       "publishedAt": "2025-12-28T16:57:24.000Z",
       "title": "[No Title] - Post from December 28, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115798247418895666</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115798247418895666</span></p>\n\n[Image] A screenshot of a Townhall.com post by @townhallcom quoting Marc Thiessen. The post criticizes Barack Obama’s drone campaign, citing 560 strikes and the killing of an American citizen, and quotes former Defense Intelligence Agency head David Shedd discussing “double-tap” strikes. It compares Obama’s policies with Donald Trump’s authority against terrorists.",
       "url": "https://www.trumpstruth.org/statuses/34367",
       "raw": {
         "creator": "",
@@ -131,6 +137,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34367",
         "isoDate": "2025-12-28T16:57:24.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:28:38.333Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13712/e9b6c96b33f447ea.png"
       ]
@@ -139,7 +146,7 @@
       "id": "https://www.trumpstruth.org/statuses/34366",
       "publishedAt": "2025-12-28T16:59:04.000Z",
       "title": "[No Title] - Post from December 28, 2025",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a social media post by Chris Bjorn shows the caption, “One of Obama’s most treasonous policies was to fund Iran’s nuclear program.” An attached graphic falsely claims Joe Biden and Barack Obama gave Iran billions to build nuclear weapons, alongside inflammatory statements about Democrats, immigration, fossil fuels, debt, and economic collapse over an image of a nuclear explosion above a city.",
       "url": "https://www.trumpstruth.org/statuses/34366",
       "raw": {
         "creator": "",
@@ -152,6 +159,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34366",
         "isoDate": "2025-12-28T16:59:04.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:28:35.064Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13711/d25afdd1efb55016.png"
       ]
@@ -201,5 +209,7 @@
       "analyzedAt": "2026-09-06T06:29:17.968Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:7:ab08da093f6ee4de513948b5"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34362"
+  ]
 }

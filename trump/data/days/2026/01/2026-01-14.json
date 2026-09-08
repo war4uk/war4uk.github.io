@@ -6,24 +6,25 @@
     "negative": 5
   },
   "summary": "positive:3 neutral:1 negative:5",
-  "generatedAt": "2026-09-07T14:51:25.410Z",
+  "generatedAt": "2026-09-08T07:43:29.544Z",
   "topics": [
-    "Congratulates Jon Maples on his victory as GOP nominee for Florida's HD-87",
-    "Reports on the lowest Trade Deficit in the U.S. since 2009 and GDP predictions",
-    "Calls for action against sanctuary cities and their impact on crime"
+    "Presses NATO to help the United States acquire Greenland for Arctic security",
+    "Targets Minnesota officials over alleged Somali fraud and calls for deportations and indictment",
+    "Claims tariffs drove the lowest U.S. trade deficit since 2009 and projected GDP above 5%"
   ],
-  "trendingTopic": "Congratulates Jon Maples on his victory as GOP nominee for Florida's HD-87",
-  "trendingName": "Jon Maples",
+  "trendingTopic": "Donald Trump presses NATO to help the United States acquire Greenland for Arctic security",
   "secondaryHighlights": [
     {
-      "topic": "Reports on the lowest Trade Deficit in the U.S. since 2009 and GDP predictions"
+      "topic": "Threatens to end federal payments to states supporting sanctuary cities"
     },
     {
-      "topic": "Calls for action against sanctuary cities and their impact on crime"
+      "topic": "Discusses oil, minerals, trade, and security with Venezuela’s interim president",
+      "name": "Delcy Rodríguez"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:9:3fb952626919292aa6bc7876",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:9:3fb952626919292aa6bc7876",
+  "selfPraiseCacheKey": "self-praise-v2:9:3fb952626919292aa6bc7876",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34555",
@@ -248,5 +249,8 @@
       "analyzedAt": "2026-09-06T06:32:55.281Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:9:3fb952626919292aa6bc7876"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34556",
+    "https://www.trumpstruth.org/statuses/34558"
+  ]
 }

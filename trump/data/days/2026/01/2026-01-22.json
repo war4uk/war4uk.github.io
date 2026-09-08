@@ -6,23 +6,25 @@
     "negative": 8
   },
   "summary": "positive:3 neutral:42 negative:8",
-  "generatedAt": "2026-09-07T14:51:45.997Z",
+  "generatedAt": "2026-09-08T07:45:45.277Z",
   "topics": [
-    "Critiques of immigration law enforcement and support for ICE in Minnesota",
-    "Donald Trump announces U.S. bid for World Expo 2035 in Miami",
-    "Concerns over polling accuracy and Trump's legal battles"
+    "Trump attacks allegedly fraudulent polling and adds a Siena survey to his New York Times lawsuit",
+    "Trump promotes TikTok engagement figures showing massive views for his content",
+    "Trump calls for Jack Smith to face prosecution after congressional testimony"
   ],
-  "trendingTopic": "Critiques of immigration law enforcement and support for ICE in Minnesota",
+  "trendingTopic": "Trump vows to pursue New York Times lawsuit over allegedly fraudulent polling",
   "secondaryHighlights": [
     {
-      "topic": "Donald Trump announces U.S. bid for World Expo 2035 in Miami"
+      "topic": "Trump promotes TikTok engagement figures showing massive views for his content"
     },
     {
-      "topic": "Concerns over polling accuracy and Trump's legal battles"
+      "topic": "Trump calls for Jack Smith to face prosecution after congressional testimony",
+      "name": "Jack Smith"
     }
   ],
-  "selfPraiseCount": 4,
-  "topicsCacheKey": "day-themes-v10:53:1c6f998d3a9c91120ae2fefa",
+  "selfPraiseCount": 10,
+  "topicsCacheKey": "day-themes-v11:53:1c6f998d3a9c91120ae2fefa",
+  "selfPraiseCacheKey": "self-praise-v2:53:1c6f998d3a9c91120ae2fefa",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34855",
@@ -126,7 +128,7 @@
       "id": "https://www.trumpstruth.org/statuses/34850",
       "publishedAt": "2026-01-22T15:45:08.000Z",
       "title": "[No Title] - Post from January 22, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115939519816901755</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115939519816901755</span></p>\n\n[Image] A screenshot of an MJTruthUltra post on X quotes Citadel CEO Ken Griffin criticizing the Biden administration’s economic decisions and saying Donald Trump’s reelection brought relief and renewed energy to build his business. The post includes a truncated Rumble link and a small circular profile image.",
       "url": "https://www.trumpstruth.org/statuses/34850",
       "raw": {
         "creator": "",
@@ -139,6 +141,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34850",
         "isoDate": "2026-01-22T15:45:08.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:32:19.321Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13933/1371f32db3ca3e73.png"
       ]
@@ -387,7 +390,7 @@
       "id": "https://www.trumpstruth.org/statuses/34837",
       "publishedAt": "2026-01-22T15:56:39.000Z",
       "title": "[No Title] - Post from January 22, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115939566034470699</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115939566034470699</span></p>\n\n[Image] A screenshot of a social media post from MJTruthUltra quotes Commerce Secretary Howard Lutnick criticizing European energy and climate policies. The post claims that Europe’s shift toward solar and wind power and its net-zero target will make it subservient to China. A Rumble video link appears at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/34837",
       "raw": {
         "creator": "",
@@ -400,6 +403,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34837",
         "isoDate": "2026-01-22T15:56:39.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:32:15.625Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13920/3792eb48981df4d7.png"
       ]
@@ -426,7 +430,7 @@
       "id": "https://www.trumpstruth.org/statuses/34835",
       "publishedAt": "2026-01-22T16:01:15.000Z",
       "title": "[No Title] - Post from January 22, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115939581113809228</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115939581113809228</span></p>\n\n[Image] A screenshot of a post by Liz Harrington (@realLizUSA) reads, “This is key.” It claims that none of Fulton County, Georgia’s 315,000 early votes in 2020 were signed, alleges that no opening tapes were provided, and says 137 closing tapes were unsigned. The post concludes by alleging fraud and questioning recount results.",
       "url": "https://www.trumpstruth.org/statuses/34835",
       "raw": {
         "creator": "",
@@ -439,6 +443,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34835",
         "isoDate": "2026-01-22T16:01:15.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:32:13.290Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13918/84af08d18c43cc66.png"
       ]
@@ -893,7 +898,7 @@
       "id": "https://www.trumpstruth.org/statuses/34811",
       "publishedAt": "2026-01-22T20:31:05.000Z",
       "title": "[No Title] - Post from January 22, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “Trump Inauguration on TikTok” compares activity on Inauguration Day, January 20, with the following day. It reports 5.2 billion views and 156,000 posts on January 20, with 49% of views from users aged 18–29. A chart and phone image of Donald Trump highlight an 87-million-view top video. The graphic also reports 2.7 billion views and 106,000 posts on January 21.",
       "url": "https://www.trumpstruth.org/statuses/34811",
       "raw": {
         "creator": "",
@@ -906,6 +911,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34811",
         "isoDate": "2026-01-22T20:31:05.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:32:07.415Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13901/a5d332fd1e7aa7ef.jpg"
       ]
@@ -914,7 +920,7 @@
       "id": "https://www.trumpstruth.org/statuses/34810",
       "publishedAt": "2026-01-22T20:31:19.000Z",
       "title": "[No Title] - Post from January 22, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An infographic titled “Trump on TikTok” reports 187 billion total all-time views of Donald Trump-related content, including 52 billion since Election Day. It says 1.5 billion views and 356,000 comments followed TikTok’s return, with Trump’s “TikTok is back!” video receiving 116 million views. Images of phones show Trump’s video, TikTok comments, and a welcome-back screen.",
       "url": "https://www.trumpstruth.org/statuses/34810",
       "raw": {
         "creator": "",
@@ -927,6 +933,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34810",
         "isoDate": "2026-01-22T20:31:19.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:32:03.756Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13900/3d838241a3a0dc56.jpg"
       ]
@@ -953,7 +960,7 @@
       "id": "https://www.trumpstruth.org/statuses/34808",
       "publishedAt": "2026-01-22T20:51:48.000Z",
       "title": "[No Title] - Post from January 22, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A meme contrasts two images of Donald Trump under the headings “How it started” and “How it’s going.” The first shows him in a close-up booking-style photograph wearing a dark suit and red tie. The second is a stylized Time magazine cover dated December 30, 2024, portraying Trump seated in a suit and labeling him “Person of the Year.”",
       "url": "https://www.trumpstruth.org/statuses/34808",
       "raw": {
         "creator": "",
@@ -966,6 +973,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34808",
         "isoDate": "2026-01-22T20:51:48.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:32:00.925Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13899/6502bcf442767d28.jpg"
       ]
@@ -1388,5 +1396,16 @@
       "analyzedAt": "2026-09-06T06:34:33.995Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:53:1c6f998d3a9c91120ae2fefa"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34820",
+    "https://www.trumpstruth.org/statuses/34819",
+    "https://www.trumpstruth.org/statuses/34818",
+    "https://www.trumpstruth.org/statuses/34814",
+    "https://www.trumpstruth.org/statuses/34813",
+    "https://www.trumpstruth.org/statuses/34812",
+    "https://www.trumpstruth.org/statuses/34811",
+    "https://www.trumpstruth.org/statuses/34810",
+    "https://www.trumpstruth.org/statuses/34808",
+    "https://www.trumpstruth.org/statuses/34806"
+  ]
 }

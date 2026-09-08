@@ -6,23 +6,24 @@
     "negative": 5
   },
   "summary": "positive:5 neutral:9 negative:5",
-  "generatedAt": "2026-09-07T14:52:15.519Z",
+  "generatedAt": "2026-09-08T07:49:02.620Z",
   "topics": [
-    "Critiques Democrats for being soft on crime and protecting criminals",
-    "Highlights success of Melania Trump's documentary surpassing projections",
-    "Discusses Trump's relationship with India and Modi"
+    "Trump expands India partnership through tariff deal, energy purchases, and potential Venezuelan oil investment",
+    "Trump threatens legal action against Trevor Noah over Grammy remarks about Epstein Island",
+    "Trump signals openness to an Iran deal as officials stress pressure and U.S. forces deploy"
   ],
-  "trendingTopic": "Critiques Democrats for being soft on crime and protecting criminals",
+  "trendingTopic": "Trump expands India partnership through tariff deal, energy purchases, and potential Venezuelan oil investment",
   "secondaryHighlights": [
     {
-      "topic": "Highlights success of Melania Trump's documentary surpassing projections"
+      "topic": "Trump threatens legal action against Trevor Noah over Grammy remarks about Epstein Island"
     },
     {
-      "topic": "Discusses Trump's relationship with India and Modi"
+      "topic": "Trump signals openness to an Iran deal as officials stress pressure and U.S. forces deploy"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:19:b17962032e69b87e0bf91970",
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v11:19:b17962032e69b87e0bf91970",
+  "selfPraiseCacheKey": "self-praise-v2:19:b17962032e69b87e0bf91970",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36417",
@@ -202,7 +203,7 @@
       "id": "https://www.trumpstruth.org/statuses/36422",
       "publishedAt": "2026-02-02T14:29:37.000Z",
       "title": "[No Title] - Post from February 2, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump stands beside Melania Trump on a red carpet at the Kennedy Center Honors. Donald Trump wears a black tuxedo with a bow tie, while Melania Trump wears a sleeveless black dress. They hold hands in front of a backdrop displaying CBS logos and Kennedy Center Honors graphics.",
       "url": "https://www.trumpstruth.org/statuses/36422",
       "raw": {
         "creator": "",
@@ -215,6 +216,7 @@
         "guid": "https://www.trumpstruth.org/statuses/36422",
         "isoDate": "2026-02-02T14:29:37.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:34:37.991Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15289/b35c10594dcdbe9b.jpg"
       ]
@@ -223,7 +225,7 @@
       "id": "https://www.trumpstruth.org/statuses/36427",
       "publishedAt": "2026-02-02T14:32:21.000Z",
       "title": "Two very good guys who were treated so unfairly by Sleepy Joe Biden. But now, they are bigger than ever!!! President DJT",
-      "text": "<p>Two very good guys who were treated so unfairly by Sleepy Joe Biden. But now, they are bigger than ever!!! President DJT</p>",
+      "text": "<p>Two very good guys who were treated so unfairly by Sleepy Joe Biden. But now, they are bigger than ever!!! President DJT</p>\n\n[Image] Two men stand in an ornate, gold-trimmed ballroom. The man on the left wears a cream-colored suit and boutonniere, while the man beside him wears a black suit with floral decorations and speaks into a microphone. A third man in a tuxedo and headphones stands behind a white DJ or sound booth near another microphone.",
       "url": "https://www.trumpstruth.org/statuses/36427",
       "raw": {
         "creator": "",
@@ -236,6 +238,7 @@
         "guid": "https://www.trumpstruth.org/statuses/36427",
         "isoDate": "2026-02-02T14:32:21.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:34:36.013Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15293/7c4e96299ca852a0.jpg"
       ]
@@ -501,5 +504,10 @@
       "analyzedAt": "2026-09-06T06:48:58.409Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:19:b17962032e69b87e0bf91970"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/36419",
+    "https://www.trumpstruth.org/statuses/36424",
+    "https://www.trumpstruth.org/statuses/36423",
+    "https://www.trumpstruth.org/statuses/36432"
+  ]
 }

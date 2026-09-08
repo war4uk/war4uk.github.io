@@ -6,24 +6,28 @@
     "negative": 3
   },
   "summary": "positive:7 neutral:3 negative:3",
-  "generatedAt": "2026-09-07T14:50:39.718Z",
+  "generatedAt": "2026-09-08T07:38:42.721Z",
   "topics": [
-    "Discusses economic success attributed to tariffs and GDP growth",
-    "Hosts the Trump Kennedy Center Honors event",
-    "Supports Harriet Hageman's Senate campaign in Wyoming"
+    "Trump credits tariffs and tax bill for strong GDP growth, investment, and economic gains",
+    "Trump discusses peace, trade, and G20 invitations with Kazakhstan and Uzbekistan presidents",
+    "Trump endorses Harriet Hageman for Wyoming’s U.S. Senate seat"
   ],
-  "trendingTopic": "Discusses economic success attributed to tariffs and GDP growth",
+  "trendingTopic": "Trump claims strong GDP growth validates tariffs and urges lower interest rates from the next Fed chair",
   "secondaryHighlights": [
     {
-      "topic": "Hosts the Trump Kennedy Center Honors event"
+      "topic": "Trump discusses peace, trade, and G20 invitations with Kazakhstan and Uzbekistan presidents"
     },
     {
-      "topic": "Supports Harriet Hageman's Senate campaign in Wyoming",
+      "topic": "Trump endorses Harriet Hageman for Wyoming’s U.S. Senate seat",
       "name": "Harriet Hageman"
+    },
+    {
+      "topic": "Trump hosts the Kennedy Center Honors celebrating five entertainment legends"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:13:315648e8e34c8db8760624fd",
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v11:13:315648e8e34c8db8760624fd",
+  "selfPraiseCacheKey": "self-praise-v2:13:315648e8e34c8db8760624fd",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34291",
@@ -227,7 +231,7 @@
       "id": "https://www.trumpstruth.org/statuses/34302",
       "publishedAt": "2025-12-23T23:15:54.000Z",
       "title": "Thank you Joshua. Total Crooks!!!",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115771424134739431</span>Thank you Joshua. Total Crooks!!!</p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115771424134739431</span>Thank you Joshua. Total Crooks!!!</p>\n\n[Image] A screenshot of a post by Joshua Hall claims that the Georgia State Election Board found hundreds of thousands of ballots counted twice in the 2020 election. The post alleges fraud benefiting Joe Biden and calls Donald Trump the rightful winner, while accusing Brad Raffensperger, Brian Kemp, and Ruby Freeman of wrongdoing and demanding arrests.",
       "url": "https://www.trumpstruth.org/statuses/34302",
       "raw": {
         "creator": "",
@@ -240,6 +244,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34302",
         "isoDate": "2025-12-23T23:15:54.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:27:48.103Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13673/9a7ac62c05b7d7ff.png"
       ]
@@ -343,5 +348,10 @@
       "analyzedAt": "2026-09-06T06:28:05.763Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:13:315648e8e34c8db8760624fd"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34295",
+    "https://www.trumpstruth.org/statuses/34297",
+    "https://www.trumpstruth.org/statuses/34298",
+    "https://www.trumpstruth.org/statuses/34299"
+  ]
 }

@@ -6,23 +6,27 @@
     "negative": 3
   },
   "summary": "positive:3 neutral:94 negative:3",
-  "generatedAt": "2026-09-07T14:50:44.199Z",
+  "generatedAt": "2026-09-08T07:39:15.180Z",
   "topics": [
-    "Allegations of election fraud and misconduct in various states",
-    "Criticism of the Affordable Care Act and calls for healthcare reform",
-    "Donald Trump's economic performance compared to Joe Biden's"
+    "Trump amplifies a large wave of Christmas messages and America First political commentary",
+    "Trump-backed posts criticize Colorado Governor Jared Polis, praise Roseanne Barr, and demand deportation",
+    "Trump highlights strong GDP growth and credits his economic policies"
   ],
-  "trendingTopic": "Allegations of election fraud and misconduct in various states",
+  "trendingTopic": "Trump amplifies Christmas messages and America First political commentary from dozens of supporters",
   "secondaryHighlights": [
     {
-      "topic": "Criticism of the Affordable Care Act and calls for healthcare reform"
+      "topic": "Trump-backed posts criticize Colorado Governor Jared Polis, praise Roseanne Barr, and demand deportation"
     },
     {
-      "topic": "Donald Trump's economic performance compared to Joe Biden's"
+      "topic": "Trump highlights strong GDP growth and credits his economic policies"
+    },
+    {
+      "topic": "Trump announces a deadly U.S. strike against ISIS militants targeting Christians in northwest Nigeria"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:100:276f5637b55dcb3fcae5ea15",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:100:276f5637b55dcb3fcae5ea15",
+  "selfPraiseCacheKey": "self-praise-v2:100:276f5637b55dcb3fcae5ea15",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/35140",
@@ -126,7 +130,7 @@
       "id": "https://www.trumpstruth.org/statuses/35136",
       "publishedAt": "2025-12-25T05:35:13.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778578078563877</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778578078563877</span></p>\n\n[Image] A screenshot of a social-media post from a verified account named Caroline, using the handle @car_oline2001. The post contains the text “Thoughts ???” followed by “Agree with him” and “Yes or no ?” A small circular profile image appears beside the account name, but its subject is not clearly identifiable.",
       "url": "https://www.trumpstruth.org/statuses/35136",
       "raw": {
         "creator": "",
@@ -139,6 +143,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35136",
         "isoDate": "2025-12-25T05:35:13.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:28:21.023Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14208/c5993055658bb1e6.png"
       ]
@@ -245,7 +250,7 @@
       "id": "https://www.trumpstruth.org/statuses/35131",
       "publishedAt": "2025-12-25T05:39:30.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778594988363844</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778594988363844</span></p>\n\n[Image] A screenshot of an X post by Armand Klein, whose profile photo shows a person wearing a red-and-white cap. The post begins with American flag and exclamation emojis and praises Megyn Kelly, tagging her account. It claims Kelly “drops the truth” about Ilhan Omar’s alleged citizenship scandal and says the proposed action should happen.",
       "url": "https://www.trumpstruth.org/statuses/35131",
       "raw": {
         "creator": "",
@@ -258,6 +263,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35131",
         "isoDate": "2025-12-25T05:39:30.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:28:17.777Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14203/51cc7373d8f49396.png"
       ]
@@ -836,7 +842,7 @@
       "id": "https://www.trumpstruth.org/statuses/35107",
       "publishedAt": "2025-12-25T05:57:23.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778665075791255</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778665075791255</span></p>\n\n[Image] A screenshot of a post from the verified “MAGA Voice” account displays the headline, “BREAKING Minnesota mayor just EXPOSED Tim Walz for the $9,000,000,000 fraud & Somali theft.” It includes a quote alleging that the legislature and governor fought for fraud and tax policies affecting Minnesotans, followed by “MIC DROP” and fire emojis.",
       "url": "https://www.trumpstruth.org/statuses/35107",
       "raw": {
         "creator": "",
@@ -849,6 +855,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35107",
         "isoDate": "2025-12-25T05:57:23.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:28:09.880Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14181/41b735a93131dde3.png"
       ]
@@ -995,7 +1002,7 @@
       "id": "https://www.trumpstruth.org/statuses/34331",
       "publishedAt": "2025-12-25T05:59:19.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778672773886558</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778672773886558</span></p>\n\n[Image] A screenshot of a social media post from an account named Sebastian™, with the handle @Azariel91 and a blue verification badge. The post reads, “This is exhausting!! All this truth and the Dems still keep lying and people 🤡 believe them 😐.” A small circular profile photo appears at the upper left.",
       "url": "https://www.trumpstruth.org/statuses/34331",
       "raw": {
         "creator": "",
@@ -1008,6 +1015,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34331",
         "isoDate": "2025-12-25T05:59:19.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:28:06.673Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13690/2597a47bccb4e9de.png"
       ]
@@ -1314,7 +1322,7 @@
       "id": "https://www.trumpstruth.org/statuses/35087",
       "publishedAt": "2025-12-25T06:05:24.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778696925387181</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778696925387181</span></p>\n\n[Image] A cropped screenshot of a post on X shows a verified account belonging to Sami Nathaniel, with the handle @NathanielSami and a black-and-white profile photo of a bearded man wearing a cap. The post reads, “Total Smackdown! Thank you Karoline Leavitt!!!” with a three-dot menu icon at the upper right.",
       "url": "https://www.trumpstruth.org/statuses/35087",
       "raw": {
         "creator": "",
@@ -1327,6 +1335,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35087",
         "isoDate": "2025-12-25T06:05:24.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:28:01.755Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14161/e0b6f41e74cf9789.png"
       ]
@@ -1473,7 +1482,7 @@
       "id": "https://www.trumpstruth.org/statuses/35080",
       "publishedAt": "2025-12-25T06:11:31.000Z",
       "title": "[No Title] - Post from December 25, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778720750810683</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115778720750810683</span></p>\n\n[Image] A screenshot of a post from the account RWB_American (@RWB_American), with a verified badge and circular logo avatar. The post states, “Another oil company moving out of California,” claims Phillips 66 is moving its headquarters, and concludes, “Socialism is not working well for Newsom.”",
       "url": "https://www.trumpstruth.org/statuses/35080",
       "raw": {
         "creator": "",
@@ -1486,6 +1495,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35080",
         "isoDate": "2025-12-25T06:11:31.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:27:58.114Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14154/9dd271053974e7ab.png"
       ]
@@ -2609,5 +2619,9 @@
       "analyzedAt": "2026-09-06T06:28:50.859Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:100:276f5637b55dcb3fcae5ea15"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34340",
+    "https://www.trumpstruth.org/statuses/34343",
+    "https://www.trumpstruth.org/statuses/34344"
+  ]
 }

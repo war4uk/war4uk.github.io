@@ -6,24 +6,27 @@
     "negative": 1
   },
   "summary": "positive:4 neutral:7 negative:1",
-  "generatedAt": "2026-09-07T14:51:43.716Z",
+  "generatedAt": "2026-09-08T07:45:27.897Z",
   "topics": [
-    "Represents America at Davos and discusses future Arctic deal",
-    "Reveals FBI payments to anti-Trump informants related to January 6",
-    "Critiques Democrats' immigration and voting policies"
+    "Trump announces a NATO framework for a Greenland and Arctic deal, dropping February 1 tariffs",
+    "Trump heads to Davos and highlights his administration’s economic successes",
+    "Report says Biden-era FBI paid anti-Trump informants in January 6 and Arctic Frost probes"
   ],
-  "trendingTopic": "Represents America at Davos and discusses future Arctic deal",
-  "trendingName": "Rep Brian Mast",
+  "trendingTopic": "Trump announces a NATO framework for a Greenland and Arctic deal, dropping February 1 tariffs",
   "secondaryHighlights": [
     {
-      "topic": "Reveals FBI payments to anti-Trump informants related to January 6"
+      "topic": "Trump heads to Davos and highlights his administration’s economic successes"
     },
     {
-      "topic": "Critiques Democrats' immigration and voting policies"
+      "topic": "Report says Biden-era FBI paid anti-Trump informants in January 6 and Arctic Frost probes"
+    },
+    {
+      "topic": "FCC targets The View and Jimmy Kimmel Live over equal-time rules"
     }
   ],
   "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:12:c93f3af7ba264fa2fb8b1b27",
+  "topicsCacheKey": "day-themes-v11:12:c93f3af7ba264fa2fb8b1b27",
+  "selfPraiseCacheKey": "self-praise-v2:12:c93f3af7ba264fa2fb8b1b27",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34867",
@@ -119,7 +122,7 @@
       "id": "https://www.trumpstruth.org/statuses/34862",
       "publishedAt": "2026-01-21T02:40:05.000Z",
       "title": "[No Title] - Post from January 21, 2026",
-      "text": "<p><a href=\"https://x.com/BasedMikeLee/status/2013782673924170231\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/BasedMikeLee/status/2013</span><span class=\"invisible\">782673924170231</span></a></p>",
+      "text": "<p><a href=\"https://x.com/BasedMikeLee/status/2013782673924170231\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/BasedMikeLee/status/2013</span><span class=\"invisible\">782673924170231</span></a></p>\n\n[Image] A screenshot of posts by Senator Mike Lee (@BasedMikeLee) argues that federal law prevents states from requiring proof of citizenship and supports the SAVE Act. An embedded post says Senator Chuck Grassley will not support the bill and shows a January 20, 2026 letter from Grassley stating that voter identification requirements should be handled by states.",
       "url": "https://www.trumpstruth.org/statuses/34862",
       "raw": {
         "creator": "",
@@ -132,6 +135,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34862",
         "isoDate": "2026-01-21T02:40:05.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:31:56.814Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13942/3763cd4a17c67ef2.png"
       ]
@@ -323,5 +327,8 @@
       "analyzedAt": "2026-09-06T06:34:11.906Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:12:c93f3af7ba264fa2fb8b1b27"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34864",
+    "https://www.trumpstruth.org/statuses/34863"
+  ]
 }

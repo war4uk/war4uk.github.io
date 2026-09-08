@@ -6,23 +6,24 @@
     "negative": 0
   },
   "summary": "positive:6 neutral:4 negative:0",
-  "generatedAt": "2026-09-07T14:50:35.172Z",
+  "generatedAt": "2026-09-08T07:38:09.909Z",
   "topics": [
-    "Attends event in North Carolina and supports Michael Whatley for Senate",
-    "Approves Emergency Declaration for Montana due to severe storms",
-    "Celebrates birthday of the United States Space Force"
+    "Endorses Tom Emmer, Michael Whatley, and Bruce Blakeman for reelection and statewide office",
+    "Administration touts the most secure U.S. border in history as 2.5 million migrants exit",
+    "Gas prices reach their cheapest December levels in four years"
   ],
-  "trendingTopic": "Attends event in North Carolina and supports Michael Whatley for Senate",
+  "trendingTopic": "Endorses Tom Emmer, Michael Whatley, and Bruce Blakeman for congressional and gubernatorial races",
   "secondaryHighlights": [
     {
-      "topic": "Approves Emergency Declaration for Montana due to severe storms"
+      "topic": "Administration touts the most secure U.S. border in history as 2.5 million migrants exit"
     },
     {
-      "topic": "Celebrates birthday of the United States Space Force"
+      "topic": "Gas prices reach their cheapest December levels in four years"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:10:42b5662b78f5ce5d4ec5152b",
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v11:10:42b5662b78f5ce5d4ec5152b",
+  "selfPraiseCacheKey": "self-praise-v2:10:42b5662b78f5ce5d4ec5152b",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34280",
@@ -271,5 +272,11 @@
       "analyzedAt": "2026-09-06T06:27:44.246Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:10:42b5662b78f5ce5d4ec5152b"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34281",
+    "https://www.trumpstruth.org/statuses/34286",
+    "https://www.trumpstruth.org/statuses/34288",
+    "https://www.trumpstruth.org/statuses/34287",
+    "https://www.trumpstruth.org/statuses/34285"
+  ]
 }

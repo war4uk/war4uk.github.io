@@ -6,23 +6,24 @@
     "negative": 7
   },
   "summary": "positive:8 neutral:3 negative:7",
-  "generatedAt": "2026-09-07T14:51:39.032Z",
+  "generatedAt": "2026-09-08T07:44:31.459Z",
   "topics": [
-    "Critiques of immigration policies and ICE enforcement",
-    "Concerns over corruption and election integrity",
-    "Trump's strong start in 2026 on affordability issues"
+    "Trump administration supports ICE and CBP enforcement and ends Somali migrants’ temporary protected status",
+    "Trump alleges billions in Minnesota Somali fraud and demands investigation of an election scheme",
+    "Trump highlights falling mortgage rates and claims strong progress on affordability"
   ],
-  "trendingTopic": "Critiques of immigration policies and ICE enforcement dominate discussions",
+  "trendingTopic": "Trump administration supports ICE and CBP enforcement and ends Somali migrants’ temporary protected status",
   "secondaryHighlights": [
     {
-      "topic": "Concerns over corruption and election integrity"
+      "topic": "Trump alleges billions in Minnesota Somali fraud and demands investigation of an election scheme"
     },
     {
-      "topic": "Trump's strong start in 2026 on affordability issues"
+      "topic": "Trump highlights falling mortgage rates and claims strong progress on affordability"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:18:ed7e70484cd074f74c8a65bf",
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v11:18:ed7e70484cd074f74c8a65bf",
+  "selfPraiseCacheKey": "self-praise-v2:18:ed7e70484cd074f74c8a65bf",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34595",
@@ -467,5 +468,10 @@
       "analyzedAt": "2026-09-06T06:33:43.409Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:18:ed7e70484cd074f74c8a65bf"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34595",
+    "https://www.trumpstruth.org/statuses/34912",
+    "https://www.trumpstruth.org/statuses/34606",
+    "https://www.trumpstruth.org/statuses/34608"
+  ]
 }

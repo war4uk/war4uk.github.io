@@ -6,23 +6,27 @@
     "negative": 0
   },
   "summary": "positive:4 neutral:6 negative:0",
-  "generatedAt": "2026-09-07T14:52:27.031Z",
+  "generatedAt": "2026-09-08T07:50:21.953Z",
   "topics": [
-    "Record Stock Market driven by Trumponomics predicts DOW at 100,000",
-    "FCC probes ABC's 'The View' for equal time violations",
-    "Trump hailed as 'Liberator' of Latin America amid mass detention ruling"
+    "Trump celebrates Dow reaching 50,000 and credits tariffs and Trumponomics",
+    "Trump administration advances deportation and mass-detention policies amid court support",
+    "FCC probes The View as Trump urges approval of Nexstar-Tegna media merger"
   ],
-  "trendingTopic": "Record Stock Market driven by Trumponomics predicts DOW at 100,000",
+  "trendingTopic": "Trump celebrates Dow reaching 50,000 and credits tariffs and Trumponomics",
   "secondaryHighlights": [
     {
-      "topic": "FCC probes ABC's 'The View' for equal time violations"
+      "topic": "Trump administration advances deportation and mass-detention policies amid court support"
     },
     {
-      "topic": "Trump hailed as 'Liberator' of Latin America amid mass detention ruling"
+      "topic": "FCC probes The View over equal-time rules for political candidates"
+    },
+    {
+      "topic": "Trump urges approval of Nexstar-Tegna merger to increase competition against major television networks"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:10:e4cbc422b114787806a72203",
+  "selfPraiseCount": 6,
+  "topicsCacheKey": "day-themes-v11:10:e4cbc422b114787806a72203",
+  "selfPraiseCacheKey": "self-praise-v2:10:e4cbc422b114787806a72203",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36590",
@@ -267,5 +271,12 @@
       "analyzedAt": "2026-09-06T06:50:32.436Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:10:e4cbc422b114787806a72203"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/36590",
+    "https://www.trumpstruth.org/statuses/36592",
+    "https://www.trumpstruth.org/statuses/36595",
+    "https://www.trumpstruth.org/statuses/36594",
+    "https://www.trumpstruth.org/statuses/36596",
+    "https://www.trumpstruth.org/statuses/36611"
+  ]
 }

@@ -6,19 +6,24 @@
     "negative": 4
   },
   "summary": "positive:3 neutral:0 negative:4",
-  "generatedAt": "2026-09-07T14:51:52.396Z",
+  "generatedAt": "2026-09-08T07:46:52.823Z",
   "topics": [
-    "Critiques of Minnesota's handling of financial fraud and insurrection",
-    "Concerns over Canada's political situation and influence from China"
+    "Trump and allies spotlight alleged massive financial fraud and Democratic cover-up in Minnesota",
+    "Trump calls for sanctuary cities and Democratic officials to cooperate with ICE deportations",
+    "Trump warns China is taking over Canada and criticizes its China deal"
   ],
-  "trendingTopic": "Critiques of Minnesota's handling of financial fraud and insurrection",
+  "trendingTopic": "Trump and allies spotlight alleged massive financial fraud and Democratic cover-up in Minnesota",
   "secondaryHighlights": [
     {
-      "topic": "Concerns over Canada's political situation and influence from China"
+      "topic": "Trump calls for sanctuary cities and Democratic officials to cooperate with ICE deportations"
+    },
+    {
+      "topic": "Trump warns China is taking over Canada and criticizes its China deal"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:7:b2e2eb67311a8695f8b9c215",
+  "topicsCacheKey": "day-themes-v11:7:b2e2eb67311a8695f8b9c215",
+  "selfPraiseCacheKey": "self-praise-v2:7:b2e2eb67311a8695f8b9c215",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34649",
@@ -191,5 +196,7 @@
       "analyzedAt": "2026-09-06T06:35:32.023Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:7:b2e2eb67311a8695f8b9c215"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34642"
+  ]
 }

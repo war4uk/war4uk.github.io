@@ -6,23 +6,25 @@
     "negative": 2
   },
   "summary": "positive:8 neutral:12 negative:2",
-  "generatedAt": "2026-09-07T14:52:08.493Z",
+  "generatedAt": "2026-09-08T07:48:20.256Z",
   "topics": [
-    "Encourages Texas voters to support Leigh Wambsganss in State Senate election",
-    "Promotes the film 'MELANIA' as a must-see with strong audience reception",
-    "Critiques the Bureau of Labor Statistics and nominates Brett Mat for Commissioner"
+    "Promotes Melania documentary after praising its strong audience reception and opening performance",
+    "Endorses Leigh Wambsganss in Texas Senate District 9 special runoff",
+    "Accuses Minnesota officials and Democrats of enabling billions in fraud"
   ],
-  "trendingTopic": "Encourages Texas voters to support Leigh Wambsganss in State Senate election",
+  "trendingTopic": "Promotes Melania documentary after praising its strong audience reception and opening performance",
   "secondaryHighlights": [
     {
-      "topic": "Promotes the film 'MELANIA' as a must-see with strong audience reception"
+      "topic": "Endorses Leigh Wambsganss in Texas Senate District 9 special runoff",
+      "name": "Leigh Wambsganss"
     },
     {
-      "topic": "Critiques the Bureau of Labor Statistics and nominates Brett Mat for Commissioner"
+      "topic": "Accuses Minnesota officials and Democrats of enabling billions in fraud"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:22:d54577c710e8e631930d87ab",
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v11:22:d54577c710e8e631930d87ab",
+  "selfPraiseCacheKey": "self-praise-v2:22:d54577c710e8e631930d87ab",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36367",
@@ -376,7 +378,7 @@
       "id": "https://www.trumpstruth.org/statuses/36377",
       "publishedAt": "2026-01-31T17:18:47.000Z",
       "title": "[No Title] - Post from January 31, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115990850047628823</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115990850047628823</span></p>\n\n[Image] A screenshot of an X post from the account “War Correspondent” (@warDaniel47) says, “BREAKING: Donald Trump just posted a video” purportedly explaining a Democratic plan for single-party rule. The post asks whether viewers support Donald Trump and believe it signals the end of the Democratic Party, offering “Huge Yes” or “No,” and urges users to give a thumbs-up and make it viral.",
       "url": "https://www.trumpstruth.org/statuses/36377",
       "raw": {
         "creator": "",
@@ -389,6 +391,7 @@
         "guid": "https://www.trumpstruth.org/statuses/36377",
         "isoDate": "2026-01-31T17:18:47.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:34:12.766Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15264/1470e0947c90761a.png"
       ]
@@ -590,5 +593,8 @@
       "analyzedAt": "2026-09-06T06:37:03.286Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:22:d54577c710e8e631930d87ab"
+  "trendingName": "Melania Trump",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/36370"
+  ]
 }

@@ -6,23 +6,22 @@
     "negative": 3
   },
   "summary": "positive:5 neutral:3 negative:3",
-  "generatedAt": "2026-09-07T14:50:20.131Z",
+  "generatedAt": "2026-09-08T07:37:19.208Z",
   "topics": [
-    "Critiques Biden's economic policies and highlights Trump's progress",
-    "Remembers Rob Reiner's legacy and impact on Hollywood",
-    "Promotes Scott Jennings' new book"
+    "Trump touts economic gains and blames Biden-era Democrats for Americans’ hardships",
+    "Trump mocks Rob Reiner after his reported death, blaming his anti-Trump obsession",
+    "Trump promotes Scott Jennings’ new book"
   ],
-  "trendingTopic": "Critiques Biden's economic policies and highlights Trump's progress",
+  "trendingTopic": "Trump touts economic gains and blames Biden-era Democrats for Americans’ hardships",
   "secondaryHighlights": [
     {
-      "topic": "Remembers Rob Reiner's legacy and impact on Hollywood"
-    },
-    {
-      "topic": "Promotes Scott Jennings' new book"
+      "topic": "Trump praises Press Secretary Karoline Leavitt’s communication with Americans",
+      "name": "Karoline Leavitt"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:11:08bf2da437883e4e4a5b91ff",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:11:08bf2da437883e4e4a5b91ff",
+  "selfPraiseCacheKey": "self-praise-v2:11:08bf2da437883e4e4a5b91ff",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34228",
@@ -312,5 +311,9 @@
       "analyzedAt": "2026-09-06T06:26:51.700Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:11:08bf2da437883e4e4a5b91ff"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34228",
+    "https://www.trumpstruth.org/statuses/35182",
+    "https://www.trumpstruth.org/statuses/34236"
+  ]
 }

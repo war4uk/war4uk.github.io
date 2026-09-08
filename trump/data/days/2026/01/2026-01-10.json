@@ -6,24 +6,27 @@
     "negative": 3
   },
   "summary": "positive:13 neutral:8 negative:3",
-  "generatedAt": "2026-09-07T14:51:16.255Z",
+  "generatedAt": "2026-09-08T07:42:27.194Z",
   "topics": [
-    "Trump's initiatives to lower mortgage rates and make homeownership affordable",
-    "Support for the Iranian people's fight for freedom and criticism of the Obama administration",
-    "Endorsement of Jon Maples for Florida's 87th State House District"
+    "Trump touts mortgage rates below 6% after directing $200 billion in mortgage-bond purchases",
+    "Trump and allies signal U.S. support for Iranian protesters seeking freedom from the regime",
+    "Trump says Venezuela is releasing political prisoners as the country becomes safer and richer"
   ],
-  "trendingTopic": "Trump's initiatives to lower mortgage rates and make homeownership affordable",
+  "trendingTopic": "Trump touts falling mortgage rates after directing $200 billion in mortgage-bond purchases",
   "secondaryHighlights": [
     {
-      "topic": "Support for the Iranian people's fight for freedom and criticism of the Obama administration"
+      "topic": "Trump and allies signal U.S. support for Iranian protesters seeking freedom from the regime"
     },
     {
-      "topic": "Endorsement of Jon Maples for Florida's 87th State House District",
-      "name": "Jon Maples"
+      "topic": "Trump says Venezuela is releasing political prisoners as the country becomes safer and richer"
+    },
+    {
+      "topic": "Administration officials pursue investigations into alleged Obama-Biden lawfare and Jack Smith conduct"
     }
   ],
-  "selfPraiseCount": 5,
-  "topicsCacheKey": "day-themes-v10:24:321e8a36773f203f896997bd",
+  "selfPraiseCount": 6,
+  "topicsCacheKey": "day-themes-v11:24:321e8a36773f203f896997bd",
+  "selfPraiseCacheKey": "self-praise-v2:24:321e8a36773f203f896997bd",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34505",
@@ -83,7 +86,7 @@
       "id": "https://www.trumpstruth.org/statuses/34508",
       "publishedAt": "2026-01-10T01:17:47.000Z",
       "title": "Now featured at the National Portrait Gallery (8th and G Streets NW, Washington, D.C. 20001)!",
-      "text": "<p>Now featured at the National Portrait Gallery (8th and G Streets NW, Washington, D.C. 20001)!</p>",
+      "text": "<p>Now featured at the National Portrait Gallery (8th and G Streets NW, Washington, D.C. 20001)!</p>\n\n[Image] A framed black-and-white portrait of Donald Trump shows him leaning forward with both hands on a polished desk, wearing a dark suit, white shirt, tie, and American flag lapel pin. U.S. flags and a presidential seal are visible behind him. The photograph is displayed against a light-colored wall in a black frame with a wide mat.",
       "url": "https://www.trumpstruth.org/statuses/34508",
       "raw": {
         "creator": "",
@@ -96,6 +99,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34508",
         "isoDate": "2026-01-10T01:17:47.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:30:47.268Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13772/6147570969d022b9.jpg"
       ]
@@ -122,7 +126,7 @@
       "id": "https://www.trumpstruth.org/statuses/34509",
       "publishedAt": "2026-01-10T01:33:18.000Z",
       "title": "Venom and Valor Earns Prestigious Recognition as Best Leadership and Resilience Book of 2025:",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115670577719463498</span>Venom and Valor Earns Prestigious Recognition as Best Leadership and Resilience Book of 2025: <a href=\"https://markets.financialcontent.com/stocks/article/marketersmedia-2026-1-9-venom-and-valor-earns-prestigious-recognition-as-best-leadership-and-resilience-book-of-2025\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">markets.financialcontent.com/s</span><span class=\"invisible\">tocks/article/marketersmedia-2026-1-9-venom-and-valor-earns-prestigious-recognition-as-best-leadership-and-resilience-book-of-2025</span></a></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115670577719463498</span>Venom and Valor Earns Prestigious Recognition as Best Leadership and Resilience Book of 2025: <a href=\"https://markets.financialcontent.com/stocks/article/marketersmedia-2026-1-9-venom-and-valor-earns-prestigious-recognition-as-best-leadership-and-resilience-book-of-2025\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">markets.financialcontent.com/s</span><span class=\"invisible\">tocks/article/marketersmedia-2026-1-9-venom-and-valor-earns-prestigious-recognition-as-best-leadership-and-resilience-book-of-2025</span></a></p>\n\n[Image] A book cover titled “Venom and Valor” shows the White House surrounded by dense tropical jungle beneath a blue sky. A large black-and-yellow cobra is coiled on the lawn in the foreground with its mouth open and fangs exposed. The subtitle reads “A White House Physician Assistant’s Battle for Survival in the Amazon,” and the author is James J. Jones, PhD, PA-C.",
       "url": "https://www.trumpstruth.org/statuses/34509",
       "raw": {
         "creator": "",
@@ -135,6 +139,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34509",
         "isoDate": "2026-01-10T01:33:18.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:30:44.394Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13644/a3dfc0280a1adcbb.jpg"
       ]
@@ -622,5 +627,12 @@
       "analyzedAt": "2026-09-06T06:32:11.472Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:24:321e8a36773f203f896997bd"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34505",
+    "https://www.trumpstruth.org/statuses/34507",
+    "https://www.trumpstruth.org/statuses/34924",
+    "https://www.trumpstruth.org/statuses/34512",
+    "https://www.trumpstruth.org/statuses/34519",
+    "https://www.trumpstruth.org/statuses/34526"
+  ]
 }

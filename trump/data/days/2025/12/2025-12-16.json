@@ -6,23 +6,24 @@
     "negative": 4
   },
   "summary": "positive:2 neutral:2 negative:4",
-  "generatedAt": "2026-09-07T14:50:22.352Z",
+  "generatedAt": "2026-09-08T07:37:37.918Z",
   "topics": [
-    "Trump files $10 billion lawsuit against BBC over January 6 documentary",
-    "Trump announces ADDRESS TO THE NATION from the White House",
-    "Trump criticizes the Unselect Committee for destroying evidence"
+    "Trump accuses BBC, CBS, and January 6 committee of deceptive or hostile treatment",
+    "Trump orders total blockade of sanctioned oil tankers entering and leaving Venezuela",
+    "Trump touts tariffs for cutting the U.S. trade deficit by more than half"
   ],
-  "trendingTopic": "Trump files $10 billion lawsuit against BBC over January 6 documentary",
+  "trendingTopic": "Trump accuses BBC, CBS, and January 6 committee of deceptive or hostile treatment",
   "secondaryHighlights": [
     {
-      "topic": "Trump announces ADDRESS TO THE NATION from the White House"
+      "topic": "Trump announces a televised White House address to the nation for Wednesday night"
     },
     {
-      "topic": "Trump criticizes the Unselect Committee for destroying evidence"
+      "topic": "Energy Department scraps $615 million in Biden-era green funding, including a Colorado grant"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:8:a284b8116f0d4c14b23cbe6f",
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v11:8:a284b8116f0d4c14b23cbe6f",
+  "selfPraiseCacheKey": "self-praise-v2:8:a284b8116f0d4c14b23cbe6f",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34238",
@@ -223,5 +224,7 @@
       "analyzedAt": "2026-09-06T06:26:59.907Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:8:a284b8116f0d4c14b23cbe6f"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34244"
+  ]
 }

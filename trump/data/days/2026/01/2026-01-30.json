@@ -6,25 +6,27 @@
     "negative": 1
   },
   "summary": "positive:5 neutral:3 negative:1",
-  "generatedAt": "2026-09-07T14:52:06.068Z",
+  "generatedAt": "2026-09-08T07:48:07.745Z",
   "topics": [
-    "Nominates Kevin Warsh as Chairman of the Federal Reserve",
-    "Endorses Leigh Wambsganss for Texas State Senate",
-    "Critiques Alex Pretti's behavior towards ICE Officer"
+    "Nominates Kevin Warsh to chair the Federal Reserve and praises other finalists",
+    "Criticizes Alex Pretti over video showing confrontation with an ICE officer",
+    "Endorses Leigh Wambsganss for Texas State Senate"
   ],
-  "trendingTopic": "Nominates Kevin Warsh as Chairman of the Federal Reserve",
+  "trendingTopic": "Donald Trump nominates Kevin Warsh to lead the Federal Reserve, praising his economic expertise",
   "trendingName": "Kevin Warsh",
   "secondaryHighlights": [
     {
-      "topic": "Endorses Leigh Wambsganss for Texas State Senate",
-      "name": "Leigh Wambsganss"
+      "topic": "Criticizes Alex Pretti over video showing confrontation with an ICE officer",
+      "name": "Alex Pretti"
     },
     {
-      "topic": "Critiques Alex Pretti's behavior towards ICE Officer"
+      "topic": "Endorses Leigh Wambsganss for Texas State Senate",
+      "name": "Leigh Wambsganss"
     }
   ],
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:9:eda01d9fd39e1a0635fd1194",
+  "topicsCacheKey": "day-themes-v11:9:eda01d9fd39e1a0635fd1194",
+  "selfPraiseCacheKey": "self-praise-v2:9:eda01d9fd39e1a0635fd1194",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36358",
@@ -244,6 +246,5 @@
       "rationale": "The text expresses appreciation for talented individuals and conveys a positive sentiment towards their future.",
       "analyzedAt": "2026-09-06T06:36:48.579Z"
     }
-  ],
-  "selfPraiseCacheKey": "self-praise-v1:9:eda01d9fd39e1a0635fd1194"
+  ]
 }

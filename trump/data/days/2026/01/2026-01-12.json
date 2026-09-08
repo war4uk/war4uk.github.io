@@ -6,23 +6,28 @@
     "negative": 3
   },
   "summary": "positive:4 neutral:3 negative:3",
-  "generatedAt": "2026-09-07T14:51:20.582Z",
+  "generatedAt": "2026-09-08T07:43:00.260Z",
   "topics": [
-    "Federal prosecutors investigate NY AG Letitia James over campaign payments",
-    "Mortgage rates drop to three-year low following Trump intervention",
-    "Congestion Pricing in Manhattan criticized as a disaster"
+    "Defends tariffs while imposing a 25% levy on countries doing business with Iran",
+    "Trump demands FBI leadership remove agents he calls radical left lunatics",
+    "Trump says Microsoft will prevent data centers from raising Americans’ electricity bills"
   ],
-  "trendingTopic": "Federal prosecutors investigate NY AG Letitia James over campaign payments",
+  "trendingTopic": "Trump defends sweeping tariffs and imposes a 25% levy on countries doing business with Iran",
   "secondaryHighlights": [
     {
-      "topic": "Mortgage rates drop to three-year low following Trump intervention"
+      "topic": "Trump demands FBI leadership remove agents he calls radical left lunatics"
     },
     {
-      "topic": "Congestion Pricing in Manhattan criticized as a disaster"
+      "topic": "Trump says Microsoft will prevent data centers from raising Americans’ electricity bills"
+    },
+    {
+      "topic": "Trump congratulates Dina Powell McCormick on becoming Meta’s president",
+      "name": "Dina Powell McCormick"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:10:9e456e410801eaab5ce5adb8",
+  "topicsCacheKey": "day-themes-v11:10:9e456e410801eaab5ce5adb8",
+  "selfPraiseCacheKey": "self-praise-v2:10:9e456e410801eaab5ce5adb8",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34535",
@@ -271,6 +276,7 @@
       "analyzedAt": "2026-09-06T06:32:33.354Z"
     }
   ],
-  "trendingName": "Letitia James",
-  "selfPraiseCacheKey": "self-praise-v1:10:9e456e410801eaab5ce5adb8"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34538"
+  ]
 }

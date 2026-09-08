@@ -6,23 +6,25 @@
     "negative": 5
   },
   "summary": "positive:8 neutral:6 negative:5",
-  "generatedAt": "2026-09-07T14:52:01.837Z",
+  "generatedAt": "2026-09-08T07:47:35.049Z",
   "topics": [
-    "Endorses multiple candidates for state and congressional races in Indiana and Wisconsin",
-    "Announces nomination of Colin McDonald for Assistant Attorney General for National Fraud Enforcement",
-    "Comments on the S&P 500 reaching 7000 for the first time"
+    "Endorses six America First candidates for Congress and governor in Iowa, Indiana, Wisconsin, and Pennsylvania",
+    "Threatens Iran with a larger military strike while urging nuclear negotiations",
+    "Nominates Colin McDonald to lead a new DOJ division targeting fraud"
   ],
-  "trendingTopic": "Endorses multiple candidates for state and congressional races in Indiana and Wisconsin",
+  "trendingTopic": "Endorses six America First candidates for Congress and governor in four states",
   "secondaryHighlights": [
     {
-      "topic": "Announces nomination of Colin McDonald for Assistant Attorney General for National Fraud Enforcement"
+      "topic": "Threatens Iran with a larger military strike while urging nuclear negotiations"
     },
     {
-      "topic": "Comments on the S&P 500 reaching 7000 for the first time"
+      "topic": "Nominates Colin McDonald to lead a new DOJ division targeting fraud",
+      "name": "Colin McDonald"
     }
   ],
   "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:19:a45634ae3b86face007a18f7",
+  "topicsCacheKey": "day-themes-v11:19:a45634ae3b86face007a18f7",
+  "selfPraiseCacheKey": "self-praise-v2:19:a45634ae3b86face007a18f7",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34622",
@@ -491,5 +493,8 @@
       "analyzedAt": "2026-09-06T06:36:01.798Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:19:a45634ae3b86face007a18f7"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34613",
+    "https://www.trumpstruth.org/statuses/36263"
+  ]
 }

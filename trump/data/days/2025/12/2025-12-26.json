@@ -6,23 +6,24 @@
     "negative": 3
   },
   "summary": "positive:3 neutral:12 negative:3",
-  "generatedAt": "2026-09-07T14:50:46.491Z",
+  "generatedAt": "2026-09-08T07:39:32.298Z",
   "topics": [
-    "More than 17,500 illegal aliens captured under Laken's Legacy law",
-    "Democrats' push for Epstein files backfires with Clinton involvement",
-    "Senator Rubio imposes visa restrictions on European officials"
+    "Trump highlights America First office decor and upgrades planned for the Palm Room and Kennedy Center",
+    "Posts attack Democratic handling of Epstein files and demand release of associated names",
+    "Senate Republicans call for ending the filibuster to overcome legislative gridlock"
   ],
-  "trendingTopic": "More than 17,500 illegal aliens captured under Laken's Legacy law",
+  "trendingTopic": "Trump showcases America First office decor and upgrades planned for the Palm Room and Kennedy Center",
   "secondaryHighlights": [
     {
-      "topic": "Democrats' push for Epstein files backfires with Clinton involvement"
+      "topic": "Posts attack Democratic handling of Epstein files and demand release of associated names"
     },
     {
-      "topic": "Senator Rubio imposes visa restrictions on European officials"
+      "topic": "Senate Republicans call for ending the filibuster to overcome legislative gridlock"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:18:db88adea09306e0444d61a35",
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v11:18:db88adea09306e0444d61a35",
+  "selfPraiseCacheKey": "self-praise-v2:18:db88adea09306e0444d61a35",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34348",
@@ -220,7 +221,7 @@
       "id": "https://www.trumpstruth.org/statuses/34354",
       "publishedAt": "2025-12-26T16:17:05.000Z",
       "title": "It’s time to end the filibuster:",
-      "text": "<p>It’s time to end the filibuster: <a href=\"https://www.washingtonpost.com/opinions/2025/11/23/scott-bessent-treasury-senate-republicans-filibuster/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">25/11/23/scott-bessent-treasury-senate-republicans-filibuster/</span></a></p>",
+      "text": "<p>It’s time to end the filibuster: <a href=\"https://www.washingtonpost.com/opinions/2025/11/23/scott-bessent-treasury-senate-republicans-filibuster/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">25/11/23/scott-bessent-treasury-senate-republicans-filibuster/</span></a></p>\n\n[Image] A screenshot of a Washington Post opinion article titled “It’s time to end the filibuster,” by Scott Bessent, identified as the U.S. Treasury secretary and dated November 23, 2025. Below the headline is a photograph of the U.S. Capitol under a blue sky, with a caption referencing the Senate advancing a bill to end a government shutdown.",
       "url": "https://www.trumpstruth.org/statuses/34354",
       "raw": {
         "creator": "",
@@ -233,6 +234,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34354",
         "isoDate": "2025-12-26T16:17:05.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:28:29.634Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13705/1c463b6f52dfa12f.jpg"
       ]
@@ -263,7 +265,7 @@
       "id": "https://www.trumpstruth.org/statuses/35060",
       "publishedAt": "2025-12-26T16:24:39.000Z",
       "title": "[No Title] - Post from December 26, 2025",
-      "text": "<p></p>",
+      "text": "[Image] A chart titled “New Home Prices Drop by 27% for Lennar Homes” shows Lennar selling prices from 2019 through 2026. Prices peak at $511,000 during the period labeled “Biden,” then decline to $375,000 at the point labeled “Now,” with a handwritten “Trump” annotation. A dashed line highlights the 27% drop from the peak.",
       "url": "https://www.trumpstruth.org/statuses/35060",
       "raw": {
         "creator": "",
@@ -276,6 +278,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35060",
         "isoDate": "2025-12-26T16:24:39.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:28:26.867Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14134/d85ffeea80964e5e.jpg"
       ]
@@ -284,7 +287,7 @@
       "id": "https://www.trumpstruth.org/statuses/34355",
       "publishedAt": "2025-12-26T16:24:50.000Z",
       "title": "[No Title] - Post from December 26, 2025",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump sits behind a large wooden desk in an office decorated with U.S. flags, military service flags, framed photographs, and a golden eagle sculpture. A model passenger jet marked “America First” is displayed prominently across the foreground, with telephones and other desk items visible nearby.",
       "url": "https://www.trumpstruth.org/statuses/34355",
       "raw": {
         "creator": "",
@@ -297,6 +300,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34355",
         "isoDate": "2025-12-26T16:24:50.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:28:24.067Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13706/5b56772c334ee95e.jpg"
       ]
@@ -494,5 +498,11 @@
       "analyzedAt": "2026-09-06T06:29:02.172Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:18:db88adea09306e0444d61a35"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34347",
+    "https://www.trumpstruth.org/statuses/35062",
+    "https://www.trumpstruth.org/statuses/35060",
+    "https://www.trumpstruth.org/statuses/34356",
+    "https://www.trumpstruth.org/statuses/34357"
+  ]
 }

@@ -6,23 +6,27 @@
     "negative": 3
   },
   "summary": "positive:4 neutral:1 negative:3",
-  "generatedAt": "2026-09-07T14:51:28.554Z",
+  "generatedAt": "2026-09-08T07:43:44.263Z",
   "topics": [
-    "Critiques food stamp businesses in Minneapolis for fraud and lack of service",
-    "Supports I.C.E. operations in Minnesota and threatens to invoke the Insurrection Act",
-    "Announces formation of THE BOARD OF PEACE"
+    "Trump alleges Minneapolis food-stamp businesses are fraudulent fronts siphoning millions in taxpayer money",
+    "Trump threatens to invoke the Insurrection Act if Minnesota officials obstruct ICE operations",
+    "Trump credits tariffs for strong financial results, low inflation, and national security"
   ],
-  "trendingTopic": "Critiques food stamp businesses in Minneapolis for fraud and lack of service",
+  "trendingTopic": "Trump alleges Minneapolis food-stamp businesses are fraudulent fronts siphoning millions in taxpayer money",
   "secondaryHighlights": [
     {
-      "topic": "Supports I.C.E. operations in Minnesota and threatens to invoke the Insurrection Act"
+      "topic": "Trump threatens to invoke the Insurrection Act if Minnesota officials obstruct ICE operations"
     },
     {
-      "topic": "Announces formation of THE BOARD OF PEACE"
+      "topic": "Trump announces formation of a Board of Peace and promises prestigious members"
+    },
+    {
+      "topic": "Trump says warnings helped stop Iran from sentencing a protester to death"
     }
   ],
   "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:8:be9030794e4c1381b2f4d643",
+  "topicsCacheKey": "day-themes-v11:8:be9030794e4c1381b2f4d643",
+  "selfPraiseCacheKey": "self-praise-v2:8:be9030794e4c1381b2f4d643",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34564",
@@ -50,7 +54,7 @@
       "id": "https://www.trumpstruth.org/statuses/34565",
       "publishedAt": "2026-01-15T01:36:13.000Z",
       "title": "Does anybody believe that in Minneapolis, these are the Food Stamp Businesses? There’s no Food, there’s no cleanliness, there’s no service, there’s no nothing, except FRAUD. They get sent Millions of Dollars of Taxpayer Money, and laugh at how STUPID the Americans are, but not anymore. These people should be sent back to Somalia, or any other Country from where they came. California, Illinois, New York, and so many other places are equally as bad. It’s all a giant Democrat SCAM, with protection from the Fake News Media but, it will end, as we, MAKE AMERICA GREAT AGAIN!",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115896541448142781</span>Does anybody believe that in Minneapolis, these are the Food Stamp Businesses? There’s no Food, there’s no cleanliness, there’s no service, there’s no nothing, except FRAUD. They get sent Millions of Dollars of Taxpayer Money, and laugh at how STUPID the Americans are, but not anymore. These people should be sent back to Somalia, or any other Country from where they came. California, Illinois, New York, and so many other places are equally as bad. It’s all a giant Democrat SCAM, with protection from the Fake News Media but, it will end, as we, MAKE AMERICA GREAT AGAIN!</p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115896541448142781</span>Does anybody believe that in Minneapolis, these are the Food Stamp Businesses? There’s no Food, there’s no cleanliness, there’s no service, there’s no nothing, except FRAUD. They get sent Millions of Dollars of Taxpayer Money, and laugh at how STUPID the Americans are, but not anymore. These people should be sent back to Somalia, or any other Country from where they came. California, Illinois, New York, and so many other places are equally as bad. It’s all a giant Democrat SCAM, with protection from the Fake News Media but, it will end, as we, MAKE AMERICA GREAT AGAIN!</p>\n\n[Image] Two street views show neighborhood storefronts. The first is a boarded-up market with pink trim, signs for food, produce, milk, meats, and bread, graffiti, a bus-stop sign, and a black sedan parked outside. The second has signs for hardware, AM Food Market & Tobacco, and Green & Grill, with two people standing on the sidewalk and a brick building in the background.",
       "url": "https://www.trumpstruth.org/statuses/34565",
       "raw": {
         "creator": "",
@@ -63,6 +67,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34565",
         "isoDate": "2026-01-15T01:36:13.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:31:15.449Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13786/3b6d230949ef4a40.jpg",
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13785/ebd6c069b956bfa1.jpg"
@@ -231,5 +236,8 @@
       "analyzedAt": "2026-09-06T06:33:03.973Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:8:be9030794e4c1381b2f4d643"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34566",
+    "https://www.trumpstruth.org/statuses/34570"
+  ]
 }

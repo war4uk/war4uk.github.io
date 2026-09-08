@@ -6,24 +6,27 @@
     "negative": 4
   },
   "summary": "positive:5 neutral:0 negative:4",
-  "generatedAt": "2026-09-07T14:51:09.243Z",
+  "generatedAt": "2026-09-08T07:41:37.111Z",
   "topics": [
-    "Calls for hiring John Harbaugh as head coach",
-    "Honors late Congressman Doug LaMalfa with flag lowering",
-    "Critiques NATO spending and U.S. military budget"
+    "Calls for NATO burden-sharing, pressures Raytheon to expand production, and proposes a $1.5 trillion 2027 military budget",
+    "Announces Venezuela will buy American goods under a new oil deal and arranges talks with Colombia",
+    "Moves to ban large institutional investors from buying more single-family homes"
   ],
-  "trendingTopic": "Calls for hiring John Harbaugh as head coach",
-  "trendingName": "John Harbaugh",
+  "trendingTopic": "Trump pushes greater NATO contributions, defense-industry investment, and a $1.5 trillion military budget",
   "secondaryHighlights": [
     {
-      "topic": "Honors late Congressman Doug LaMalfa with flag lowering"
+      "topic": "Condemns Minneapolis vehicle attack on an ICE officer and blames radical-left violence"
     },
     {
-      "topic": "Critiques NATO spending and U.S. military budget"
+      "topic": "Orders American flags lowered to half-staff after Congressman Doug LaMalfa's death"
+    },
+    {
+      "topic": "Calls for John Harbaugh to be hired"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:9:ebe1abc949cb43808d262676",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:9:ebe1abc949cb43808d262676",
+  "selfPraiseCacheKey": "self-praise-v2:9:ebe1abc949cb43808d262676",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34475",
@@ -244,5 +247,8 @@
       "analyzedAt": "2026-09-06T06:31:36.936Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:9:ebe1abc949cb43808d262676"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34476",
+    "https://www.trumpstruth.org/statuses/34482"
+  ]
 }

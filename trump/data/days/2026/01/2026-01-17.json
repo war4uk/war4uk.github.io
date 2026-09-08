@@ -6,23 +6,27 @@
     "negative": 3
   },
   "summary": "positive:1 neutral:3 negative:3",
-  "generatedAt": "2026-09-07T14:51:33.394Z",
+  "generatedAt": "2026-09-08T07:44:05.332Z",
   "topics": [
-    "Claims Radical Left is attempting to destroy the country and should face consequences",
-    "Denies offering Jamie Dimon the job of Fed Chairman and plans to sue JPMorgan Chase",
-    "Questions legality of documents signed with an Autopen"
+    "Trump is portrayed as “Mister Tariff” and “The Tariff King” in two graphics",
+    "Trump attacks Biden-era autopen actions as illegal and calls for arrests",
+    "Trump denies offering Jamie Dimon a Cabinet or Fed position and threatens JPMorgan lawsuit"
   ],
-  "trendingTopic": "Claims Radical Left is attempting to destroy the country and should face consequences",
+  "trendingTopic": "Trump is portrayed as “Mister Tariff” and “The Tariff King” in two graphics",
   "secondaryHighlights": [
     {
-      "topic": "Denies offering Jamie Dimon the job of Fed Chairman and plans to sue JPMorgan Chase"
+      "topic": "Trump attacks Biden-era autopen actions as illegal and calls for arrests"
     },
     {
-      "topic": "Questions legality of documents signed with an Autopen"
+      "topic": "Trump denies offering Jamie Dimon a Cabinet or Fed position and threatens JPMorgan lawsuit"
+    },
+    {
+      "topic": "Trump says Michael Cohen was coerced by Letitia James and Alvin Bragg to testify against him"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:7:d29f89648e41848f241122c3",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:7:d29f89648e41848f241122c3",
+  "selfPraiseCacheKey": "self-praise-v2:7:d29f89648e41848f241122c3",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34578",
@@ -86,7 +90,7 @@
       "id": "https://www.trumpstruth.org/statuses/34580",
       "publishedAt": "2026-01-17T03:31:19.000Z",
       "title": "[No Title] - Post from January 17, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A graphic titled “The Tariff King” shows Donald Trump in a black-and-white image, leaning forward with both hands pressed on a polished desk. He wears a dark suit, white shirt, and tie, with American and presidential flags blurred behind him. His stern expression and the dramatic composition convey authority and tension.",
       "url": "https://www.trumpstruth.org/statuses/34580",
       "raw": {
         "creator": "",
@@ -99,6 +103,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34580",
         "isoDate": "2026-01-17T03:31:19.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:31:22.334Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13791/908c05075c9ee842.jpg"
       ]
@@ -202,5 +207,8 @@
       "analyzedAt": "2026-09-06T06:33:21.250Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:7:d29f89648e41848f241122c3"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34913",
+    "https://www.trumpstruth.org/statuses/34580"
+  ]
 }

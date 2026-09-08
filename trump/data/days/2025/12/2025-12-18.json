@@ -6,26 +6,14 @@
     "negative": 0
   },
   "summary": "positive:6 neutral:0 negative:0",
-  "generatedAt": "2026-09-07T14:50:30.265Z",
+  "generatedAt": "2026-09-08T07:37:52.319Z",
   "topics": [
-    "Endorses Paul LePage for Maine's 2nd Congressional District",
-    "Endorses Kevin Lincoln for California's 13th Congressional District",
-    "Endorses Matt Van Epps for Tennessee's 7th Congressional District"
+    "Endorses six America First candidates for House seats in Maine, California, Tennessee, and Texas"
   ],
-  "trendingTopic": "Endorses multiple candidates for Congress across various states",
-  "secondaryHighlights": [
-    {
-      "topic": "Endorses Tony Gonzales for Texas' 23rd Congressional District"
-    },
-    {
-      "topic": "Endorses Eric Flores for Texas' 34th Congressional District"
-    },
-    {
-      "topic": "Endorses Chris Gober for Texas' 10th Congressional District"
-    }
-  ],
+  "trendingTopic": "Endorses six America First candidates for House seats in Maine, California, Tennessee, and Texas",
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:6:0d95cc1ee3f7d0dff9f7793a",
+  "topicsCacheKey": "day-themes-v11:6:0d95cc1ee3f7d0dff9f7793a",
+  "selfPraiseCacheKey": "self-praise-v2:6:0d95cc1ee3f7d0dff9f7793a",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34259",
@@ -174,5 +162,16 @@
       "analyzedAt": "2026-09-06T06:27:18.409Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:6:0d95cc1ee3f7d0dff9f7793a"
+  "secondaryHighlights": [
+    {
+      "topic": "It is my Great Honor to endorse Kevin Lincoln, who is running to represent the incredible people of California’s 13th Congressional District."
+    },
+    {
+      "topic": "I am proud to, once again, endorse the GREAT Congressman from Tennessee’s 7th Congressional District, Matt Van Epps.",
+      "name": "Matt Van"
+    },
+    {
+      "topic": "Paul LePage will be a tremendous Congressman for the amazing people of Maine’s 2nd Congressional District, just as he was as your Governor!"
+    }
+  ]
 }

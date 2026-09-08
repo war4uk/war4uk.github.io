@@ -6,23 +6,27 @@
     "negative": 5
   },
   "summary": "positive:2 neutral:4 negative:5",
-  "generatedAt": "2026-09-07T14:52:17.665Z",
+  "generatedAt": "2026-09-08T07:49:18.278Z",
   "topics": [
-    "Trump maintains high poll numbers despite challenges from ICE and media",
-    "Criticism of Harvard University and The New York Times over antisemitism claims",
-    "Trump explores diplomatic talks with Iran and Cuba amid rising tensions"
+    "Donald Trump attacks Harvard and The New York Times over antisemitism allegations and lawsuit",
+    "Donald Trump touts strong polling and the strongest economy in U.S. history",
+    "Donald Trump unveils rendering for the planned White House ballroom and New East Wing"
   ],
-  "trendingTopic": "Trump maintains high poll numbers despite challenges from ICE and media",
+  "trendingTopic": "Donald Trump escalates attacks on Harvard and The New York Times over antisemitism lawsuit coverage",
   "secondaryHighlights": [
     {
-      "topic": "Criticism of Harvard University and The New York Times over antisemitism claims"
+      "topic": "Trump weighs diplomacy with Iran amid rising tensions"
     },
     {
-      "topic": "Trump explores diplomatic talks with Iran and Cuba amid rising tensions"
+      "topic": "Trump confirms talks with Cuba and expresses hope for a deal"
+    },
+    {
+      "topic": "U.S. forces strike ISIS-Somalia leaders in caves"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:11:2e987d5f2aa5e9ac115f7715",
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v11:11:2e987d5f2aa5e9ac115f7715",
+  "selfPraiseCacheKey": "self-praise-v2:11:2e987d5f2aa5e9ac115f7715",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36436",
@@ -190,7 +194,7 @@
       "id": "https://www.trumpstruth.org/statuses/36445",
       "publishedAt": "2026-02-03T20:12:44.000Z",
       "title": "[No Title] - Post from February 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A typed letter on Roger S. Penske letterhead is dated February 2, 2026, and addressed to President Donald Trump. The writer thanks Trump for a White House visit and praises his administration’s “America First” policies, border protection, and investment efforts. The letter also discusses the Freedom 250 Grand Prix and its expected economic value to Washington, D.C., and is signed by Penske.",
       "url": "https://www.trumpstruth.org/statuses/36445",
       "raw": {
         "creator": "",
@@ -203,6 +207,7 @@
         "guid": "https://www.trumpstruth.org/statuses/36445",
         "isoDate": "2026-02-03T20:12:44.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:34:45.996Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15294/d2f7fe99855e457a.jpg"
       ]
@@ -211,7 +216,7 @@
       "id": "https://www.trumpstruth.org/statuses/36446",
       "publishedAt": "2026-02-03T20:45:22.000Z",
       "title": "This beautiful building will be, when complete, the much anticipated White House Ballroom — The Greatest of its kind ever built! It is a rendering from the Treasury Building, directly across the street, and replaces the very small, dilapidated, and rebuilt many times, East Wing, with a magnificent New East Wing, consisting of a glorious Ballroom that has been asked for by Presidents for over 150 years. Being an identical height and scale, it is totally in keeping with our historic White House. This is the first rendering shown to the Public. If you notice, the North Wall is a replica of the North Facade of the White House, shown at the right hand side of the picture. This space will serve our Country well for, hopefully, Centuries into the future! PRESIDENT DONALD J. TRUMP",
-      "text": "<p>This beautiful building will be, when complete, the much anticipated White House Ballroom — The Greatest of its kind ever built! It is a rendering from the Treasury Building, directly across the street, and replaces the very small, dilapidated, and rebuilt many times, East Wing, with a magnificent New East Wing, consisting of a glorious Ballroom that has been asked for by Presidents for over 150 years. Being an identical height and scale, it is totally in keeping with our historic White House. This is the first rendering shown to the Public. If you notice, the North Wall is a replica of the North Facade of the White House, shown at the right hand side of the picture. This space will serve our Country well for, hopefully, Centuries into the future! PRESIDENT DONALD J. TRUMP</p>",
+      "text": "<p>This beautiful building will be, when complete, the much anticipated White House Ballroom — The Greatest of its kind ever built! It is a rendering from the Treasury Building, directly across the street, and replaces the very small, dilapidated, and rebuilt many times, East Wing, with a magnificent New East Wing, consisting of a glorious Ballroom that has been asked for by Presidents for over 150 years. Being an identical height and scale, it is totally in keeping with our historic White House. This is the first rendering shown to the Public. If you notice, the North Wall is a replica of the North Facade of the White House, shown at the right hand side of the picture. This space will serve our Country well for, hopefully, Centuries into the future! PRESIDENT DONALD J. TRUMP</p>\n\n[Image] A digitally rendered neoclassical government complex stands behind a tall iron fence and manicured lawns. The large white building has Corinthian columns, ornate window surrounds, steps, and a balustraded roofline. A second stone building with an American flag is visible behind it, with trees and a blue sky completing the scene.",
       "url": "https://www.trumpstruth.org/statuses/36446",
       "raw": {
         "creator": "",
@@ -224,6 +229,7 @@
         "guid": "https://www.trumpstruth.org/statuses/36446",
         "isoDate": "2026-02-03T20:45:22.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:34:42.815Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15295/6021ea732e931a65.jpg"
       ]
@@ -297,5 +303,11 @@
       "analyzedAt": "2026-09-06T06:49:09.641Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:11:2e987d5f2aa5e9ac115f7715"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/36436",
+    "https://www.trumpstruth.org/statuses/36437",
+    "https://www.trumpstruth.org/statuses/36439",
+    "https://www.trumpstruth.org/statuses/36440",
+    "https://www.trumpstruth.org/statuses/36446"
+  ]
 }

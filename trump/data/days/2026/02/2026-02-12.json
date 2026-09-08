@@ -6,23 +6,25 @@
     "negative": 0
   },
   "summary": "positive:10 neutral:6 negative:0",
-  "generatedAt": "2026-09-07T14:52:40.689Z",
+  "generatedAt": "2026-09-08T07:51:38.873Z",
   "topics": [
-    "TrumpRx.gov provides immediate drug price relief to millions",
-    "Nominations of judges to U.S. District Courts in Montana, South Carolina, and the Virgin Islands",
-    "First Lady Melania Trump visits NIH to charm young patients for Valentine's Day"
+    "Nominates four attorneys to federal judgeships and the Court of International Trade",
+    "Promotes drug-price relief, manufacturing recovery, and market gains under Trump’s economic policies",
+    "Defends Pam Bondi amid congressional scrutiny of the Jeffrey Epstein investigation"
   ],
-  "trendingTopic": "TrumpRx.gov provides immediate drug price relief to millions",
+  "trendingTopic": "Trump nominates four attorneys to federal judgeships, including Montana, South Carolina, Virgin Islands, and Trade Court seats",
   "secondaryHighlights": [
     {
-      "topic": "Nominations of judges to U.S. District Courts in Montana, South Carolina, and the Virgin Islands"
+      "topic": "Promotes drug-price relief, manufacturing recovery, and market gains under Trump’s economic policies"
     },
     {
-      "topic": "First Lady Melania Trump visits NIH to charm young patients for Valentine's Day"
+      "topic": "Defends Pam Bondi amid congressional scrutiny of the Jeffrey Epstein investigation",
+      "name": "Pam Bondi"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:16:465b48f36a13f6e6241cedec",
+  "selfPraiseCount": 6,
+  "topicsCacheKey": "day-themes-v11:16:465b48f36a13f6e6241cedec",
+  "selfPraiseCacheKey": "self-praise-v2:16:465b48f36a13f6e6241cedec",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36683",
@@ -411,5 +413,12 @@
       "analyzedAt": "2026-09-06T06:51:38.384Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:16:465b48f36a13f6e6241cedec"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/36683",
+    "https://www.trumpstruth.org/statuses/36691",
+    "https://www.trumpstruth.org/statuses/36692",
+    "https://www.trumpstruth.org/statuses/36695",
+    "https://www.trumpstruth.org/statuses/36694",
+    "https://www.trumpstruth.org/statuses/36697"
+  ]
 }

@@ -6,25 +6,24 @@
     "negative": 3
   },
   "summary": "positive:6 neutral:0 negative:3",
-  "generatedAt": "2026-09-07T14:51:35.790Z",
+  "generatedAt": "2026-09-08T07:44:14.124Z",
   "topics": [
-    "Concerns over the Army-Navy Game being overshadowed by College Playoff Games",
-    "Julia Letlow considering a Senate campaign in Louisiana",
-    "Barry Moore running for the United States Senate in Alabama"
+    "Endorses Julia Letlow and Barry Moore for Senate and targets Indiana Republican Rod Bray",
+    "Defends ICE immigration enforcement in Minnesota against state opposition",
+    "Plans executive order protecting the Army-Navy Game’s exclusive December broadcast window"
   ],
-  "trendingTopic": "Concerns over the Army-Navy Game being overshadowed by College Playoff Games",
+  "trendingTopic": "Endorses Julia Letlow and Barry Moore for Senate and targets Indiana Republican Rod Bray",
   "secondaryHighlights": [
     {
-      "topic": "Julia Letlow considering a Senate campaign in Louisiana",
-      "name": "Julia Letlow"
+      "topic": "Defends ICE immigration enforcement in Minnesota against state opposition"
     },
     {
-      "topic": "Barry Moore running for the United States Senate in Alabama",
-      "name": "Barry Moore"
+      "topic": "Plans executive order protecting the Army-Navy Game’s exclusive December broadcast window"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:9:e33ff453d49f638e9d28fcc0",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:9:e33ff453d49f638e9d28fcc0",
+  "selfPraiseCacheKey": "self-praise-v2:9:e33ff453d49f638e9d28fcc0",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34585",
@@ -245,5 +244,8 @@
       "analyzedAt": "2026-09-06T06:33:30.839Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:9:e33ff453d49f638e9d28fcc0"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34586",
+    "https://www.trumpstruth.org/statuses/34588"
+  ]
 }

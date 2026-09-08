@@ -6,23 +6,30 @@
     "negative": 4
   },
   "summary": "positive:5 neutral:1 negative:4",
-  "generatedAt": "2026-09-07T14:50:41.788Z",
+  "generatedAt": "2026-09-08T07:38:51.623Z",
   "topics": [
-    "Trump's first year sees growth up and inflation down",
-    "Criticism of late night hosts and their ratings",
-    "Democrats' push for Epstein files backfires with Clinton involvement"
+    "Trump attacks late-night television hosts and calls for terminating hostile broadcast licenses",
+    "John Brennan is identified as a target in a Florida grand jury investigation",
+    "Ex-FBI agent says Pam Bondi has a strong conspiracy case against Obama-era officials"
   ],
-  "trendingTopic": "Trump's first year sees growth up and inflation down",
+  "trendingTopic": "Trump attacks late-night television hosts and calls for terminating hostile broadcast licenses",
   "secondaryHighlights": [
     {
-      "topic": "Criticism of late night hosts and their ratings"
+      "topic": "John Brennan is identified as a target in a Florida grand jury investigation",
+      "name": "John Brennan"
     },
     {
-      "topic": "Democrats' push for Epstein files backfires with Clinton involvement"
+      "topic": "Ex-FBI agent says Pam Bondi has a strong conspiracy case against Obama-era officials",
+      "name": "Pam Bondi"
+    },
+    {
+      "topic": "Marco Rubio restricts visas for European officials accused of censoring Americans",
+      "name": "Marco Rubio"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:10:8e9a40c49363e8a601c7bdae",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:10:8e9a40c49363e8a601c7bdae",
+  "selfPraiseCacheKey": "self-praise-v2:10:8e9a40c49363e8a601c7bdae",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34304",
@@ -267,5 +274,8 @@
       "analyzedAt": "2026-09-06T06:28:15.719Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:10:8e9a40c49363e8a601c7bdae"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34304",
+    "https://www.trumpstruth.org/statuses/34312"
+  ]
 }

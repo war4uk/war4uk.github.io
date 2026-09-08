@@ -6,25 +6,30 @@
     "negative": 0
   },
   "summary": "positive:3 neutral:1 negative:0",
-  "generatedAt": "2026-09-07T14:52:19.882Z",
+  "generatedAt": "2026-09-08T07:49:25.411Z",
   "topics": [
-    "Jeb Bush praises Trump's support for Iranians a decade after primary",
-    "Inspector General finds whistleblower complaint against Tulsi Gabbard not credible",
-    "Trump discusses trade and military in call with President Xi of China"
+    "Trump reports a positive call with Xi covering trade, Taiwan, Ukraine, Iran, energy, and agriculture",
+    "Trump endorses Clay Fuller for Georgia’s 14th Congressional District",
+    "Inspector General finds whistleblower complaint against Tulsi Gabbard lacked credibility"
   ],
-  "trendingTopic": "Jeb Bush praises Trump's support for Iranians a decade after primary",
-  "trendingName": "Jeb Bush",
+  "trendingTopic": "Trump reports a positive call with Xi covering trade, Taiwan, Ukraine, energy, and agriculture",
   "secondaryHighlights": [
     {
-      "topic": "Inspector General finds whistleblower complaint against Tulsi Gabbard not credible",
+      "topic": "Trump endorses Clay Fuller for Georgia’s 14th Congressional District",
+      "name": "Clay Fuller"
+    },
+    {
+      "topic": "Inspector General finds whistleblower complaint against Tulsi Gabbard lacked credibility",
       "name": "Tulsi Gabbard"
     },
     {
-      "topic": "Trump discusses trade and military in call with President Xi of China"
+      "topic": "Jeb Bush praises Trump’s support for Iranians a decade after their primary rivalry",
+      "name": "Jeb Bush"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:4:c791a56052e28dc801d961d2",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:4:c791a56052e28dc801d961d2",
+  "selfPraiseCacheKey": "self-praise-v2:4:c791a56052e28dc801d961d2",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36447",
@@ -125,5 +130,8 @@
       "analyzedAt": "2026-09-06T06:49:21.537Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:4:c791a56052e28dc801d961d2"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/36447",
+    "https://www.trumpstruth.org/statuses/36449"
+  ]
 }

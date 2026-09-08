@@ -6,16 +6,20 @@
     "negative": 0
   },
   "summary": "positive:0 neutral:1 negative:0",
-  "generatedAt": "2026-09-07T14:51:02.540Z",
-  "topics": [],
+  "generatedAt": "2026-09-08T07:40:53.585Z",
+  "topics": [
+    "Shares table comparing immigrant household welfare participation rates by country of origin"
+  ],
+  "trendingTopic": "Table compares welfare participation rates among immigrant households by country of origin",
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:1:c88e42b0012533e8c7b939ec",
+  "topicsCacheKey": "day-themes-v11:1:c88e42b0012533e8c7b939ec",
+  "selfPraiseCacheKey": "self-praise-v2:1:c88e42b0012533e8c7b939ec",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34434",
       "publishedAt": "2026-01-04T14:47:32.000Z",
       "title": "[No Title] - Post from January 4, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A table titled “Immigrant Welfare Recipient Rates by Country of Origin” lists the percentage of immigrant households receiving assistance. Bhutan has the highest listed rate at 81.4%, followed by North Yemen at 75.2%, Somalia at 71.9%, and the Marshall Islands at 71.4%. The lowest rates shown are Cambodia at 49.9%, Cuba at 49.6%, and Laos at 49.2%.",
       "url": "https://www.trumpstruth.org/statuses/34434",
       "raw": {
         "creator": "",
@@ -28,6 +32,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34434",
         "isoDate": "2026-01-04T14:47:32.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:29:56.831Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13742/2b77efffc69a0709.jpg"
       ]
@@ -41,5 +46,9 @@
       "analyzedAt": "2026-09-06T06:30:36.720Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:1:c88e42b0012533e8c7b939ec"
+  "secondaryHighlights": [
+    {
+      "topic": "[Image] A table titled “Immigrant Welfare Recipient Rates by Country of Origin” lists the percentage of immigrant households receiving assistance."
+    }
+  ]
 }

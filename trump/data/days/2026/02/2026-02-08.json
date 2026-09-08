@@ -6,30 +6,32 @@
     "negative": 2
   },
   "summary": "positive:6 neutral:2 negative:2",
-  "generatedAt": "2026-09-07T14:52:28.940Z",
+  "generatedAt": "2026-09-08T07:50:32.928Z",
   "topics": [
-    "Supports Nasry Asfura's campaign during meeting at Mar-a-Lago",
-    "Congratulates Sanae Takaichi on her coalition's victory",
-    "Comments on the Cricket World Cup and Team USA"
+    "Trump's immigration policies gain appeals-court backing and majority voter support over Biden's",
+    "Trump celebrates Honduran President Nasry Asfura's election victory after endorsing his campaign",
+    "Trump congratulates Japan's Sanae Takaichi on a landslide election victory and legislative supermajority"
   ],
-  "trendingTopic": "Supports Nasry Asfura's campaign during meeting at Mar-a-Lago",
-  "trendingName": "Nasry Asfura",
+  "trendingTopic": "Trump's immigration policies gain appeals-court backing and majority voter support over Biden's",
   "secondaryHighlights": [
     {
-      "topic": "Congratulates Sanae Takaichi on her coalition's victory"
+      "topic": "Trump celebrates Honduran President Nasry Asfura's election victory after endorsing his campaign",
+      "name": "Nasry Asfura"
     },
     {
-      "topic": "Comments on the Cricket World Cup and Team USA"
+      "topic": "Trump congratulates Japan's Sanae Takaichi on a landslide election victory and legislative supermajority",
+      "name": "Sanae Takaichi"
     }
   ],
   "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:10:a0b56c4bbaf650c6eadd6432",
+  "topicsCacheKey": "day-themes-v11:10:a0b56c4bbaf650c6eadd6432",
+  "selfPraiseCacheKey": "self-praise-v2:10:a0b56c4bbaf650c6eadd6432",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36599",
       "publishedAt": "2026-02-08T02:55:56.000Z",
       "title": "I had a very important meeting with my friend, and the President of Honduras, Nasry “Tito” Asfura, today at Mar-a-Lago in Palm Beach, Florida. It was my Great Honor to support Tito's Campaign. Once I gave him my strongEndorsement, he won his Election! Tito and I share many of the same America First Values. We have a close partnership on Security, working together to counter dangerous Cartels and Drug Traffickers, and deporting Illegal Migrants and Gang Members out of the United States. We discussed many other issues, including Investment and Trade between our two Countries. He loves the people of Honduras, and is focused on their Health, Well-being, Education, and Economic Prosperity. I look forward to welcoming President Asfura back to the United States. Tito: Congratulations on your Great Victory! PRESIDENT DONALD J. TRUMP",
-      "text": "<p>I had a very important meeting with my friend, and the President of Honduras, Nasry “Tito” Asfura, today at Mar-a-Lago in Palm Beach, Florida. It was my Great Honor to support Tito's Campaign. Once I gave him my strong<br/>Endorsement, he won his Election! Tito and I share many of the same America First Values. We have a close partnership on Security, working together to counter dangerous Cartels and Drug Traffickers, and deporting Illegal Migrants and Gang Members out of the United States. We discussed many other issues, including Investment and Trade between our two Countries. He loves the people of Honduras, and is focused on their Health, Well-being, Education, and Economic Prosperity. I look forward to welcoming President Asfura back to the United States. Tito: Congratulations on your Great Victory! PRESIDENT DONALD J. TRUMP</p>",
+      "text": "<p>I had a very important meeting with my friend, and the President of Honduras, Nasry “Tito” Asfura, today at Mar-a-Lago in Palm Beach, Florida. It was my Great Honor to support Tito's Campaign. Once I gave him my strong<br/>Endorsement, he won his Election! Tito and I share many of the same America First Values. We have a close partnership on Security, working together to counter dangerous Cartels and Drug Traffickers, and deporting Illegal Migrants and Gang Members out of the United States. We discussed many other issues, including Investment and Trade between our two Countries. He loves the people of Honduras, and is focused on their Health, Well-being, Education, and Economic Prosperity. I look forward to welcoming President Asfura back to the United States. Tito: Congratulations on your Great Victory! PRESIDENT DONALD J. TRUMP</p>\n\n[Image] Donald Trump stands beside an unidentified man in a dark suit, both smiling and giving thumbs-up gestures. They pose in an ornate wood-paneled room with carved columns, decorative vases, and a framed painting of sailing ships above a mantel. Trump wears a navy suit, white shirt, and bright pink tie, while the other man wears a gray tie and pocket square.",
       "url": "https://www.trumpstruth.org/statuses/36599",
       "raw": {
         "creator": "",
@@ -42,6 +44,7 @@
         "guid": "https://www.trumpstruth.org/statuses/36599",
         "isoDate": "2026-02-08T02:55:56.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:35:49.791Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15393/c627ea94ff2e0ec1.jpg"
       ]
@@ -275,5 +278,8 @@
       "analyzedAt": "2026-09-06T06:50:42.313Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:10:a0b56c4bbaf650c6eadd6432"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/36600",
+    "https://www.trumpstruth.org/statuses/36607"
+  ]
 }

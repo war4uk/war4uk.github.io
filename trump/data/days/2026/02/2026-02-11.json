@@ -6,23 +6,24 @@
     "negative": 5
   },
   "summary": "positive:5 neutral:31 negative:5",
-  "generatedAt": "2026-09-07T14:52:38.501Z",
+  "generatedAt": "2026-09-08T07:51:21.549Z",
   "topics": [
-    "Critiques of Apple News for promoting left-leaning media while excluding conservative sites",
-    "Trump's strong stance on tariffs and trade, warning Republicans against opposing them",
-    "Meeting with Israeli Prime Minister Netanyahu to strengthen U.S.-Israel relations"
+    "Defends tariffs and threatens Republicans who oppose them",
+    "Rebukes Oklahoma Governor Kevin Stitt over White House invitations and past endorsement",
+    "Meets Israeli Prime Minister Benjamin Netanyahu and urges continued Iran negotiations"
   ],
-  "trendingTopic": "Critiques of Apple News for promoting left-leaning media while excluding conservative sites",
+  "trendingTopic": "Donald Trump defends tariffs, warning Republicans who oppose them will face election consequences",
   "secondaryHighlights": [
     {
-      "topic": "Trump's strong stance on tariffs and trade, warning Republicans against opposing them"
+      "topic": "Donald Trump rebukes Oklahoma Governor Kevin Stitt over White House invitations and past endorsement"
     },
     {
-      "topic": "Meeting with Israeli Prime Minister Netanyahu to strengthen U.S.-Israel relations"
+      "topic": "Donald Trump meets Benjamin Netanyahu and urges continued negotiations with Iran"
     }
   ],
   "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:41:636641288452d74e2c145cf0",
+  "topicsCacheKey": "day-themes-v11:41:636641288452d74e2c145cf0",
+  "selfPraiseCacheKey": "self-praise-v2:41:636641288452d74e2c145cf0",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36641",
@@ -104,7 +105,7 @@
       "id": "https://www.trumpstruth.org/statuses/36642",
       "publishedAt": "2026-02-11T11:13:27.000Z",
       "title": "[No Title] - Post from February 11, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116051698712646534</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/116051698712646534</span></p>\n\n[Image] A screenshot of a social media post from verified account @cecekgh, displaying a profile photo of a blonde woman. The post says, “The First Lady did her best to keep the wounded soldier seated, but this Hero was determined to stand as his Commander in Chief walked into his hospital room.” It ends with “Respect is earned, not given” and salute and U.S. flag emojis.",
       "url": "https://www.trumpstruth.org/statuses/36642",
       "raw": {
         "creator": "",
@@ -117,6 +118,7 @@
         "guid": "https://www.trumpstruth.org/statuses/36642",
         "isoDate": "2026-02-11T11:13:27.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:36:22.670Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15414/13ee611fe125b1eb.png"
       ]
@@ -1082,5 +1084,9 @@
       "analyzedAt": "2026-09-06T06:51:26.718Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:41:636641288452d74e2c145cf0"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/36676",
+    "https://www.trumpstruth.org/statuses/36678",
+    "https://www.trumpstruth.org/statuses/36681"
+  ]
 }

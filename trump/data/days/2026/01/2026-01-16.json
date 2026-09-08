@@ -6,29 +6,34 @@
     "negative": 1
   },
   "summary": "positive:4 neutral:1 negative:1",
-  "generatedAt": "2026-09-07T14:51:30.697Z",
+  "generatedAt": "2026-09-08T07:43:54.693Z",
   "topics": [
-    "Announces next phase of Gaza's 20-Point Peace Plan and record humanitarian aid delivery",
-    "Meets with María Corina Machado of Venezuela",
-    "Discusses healthcare funding directly to the people"
+    "Trump thanks Egypt for mediating the Israel-Hamas ceasefire and advances Gaza’s transition plan",
+    "Trump meets María Corina Machado after she presents him with her Nobel Peace Prize",
+    "Trump proposes sending federal healthcare funds directly to patients instead of insurance companies"
   ],
-  "trendingTopic": "Announces next phase of Gaza's 20-Point Peace Plan and record humanitarian aid delivery",
+  "trendingTopic": "Trump thanks Egypt for mediating the Israel-Hamas ceasefire and advances Gaza’s transition plan",
   "secondaryHighlights": [
     {
-      "topic": "Meets with María Corina Machado of Venezuela"
+      "topic": "Trump meets María Corina Machado after she presents him with her Nobel Peace Prize",
+      "name": "María Corina Machado"
     },
     {
-      "topic": "Discusses healthcare funding directly to the people"
+      "topic": "Trump proposes sending federal healthcare funds directly to patients instead of insurance companies"
+    },
+    {
+      "topic": "Trump praises Iran for canceling more than 800 scheduled executions"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:6:e539e5fe2c3415b79d3fc1dd",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:6:e539e5fe2c3415b79d3fc1dd",
+  "selfPraiseCacheKey": "self-praise-v2:6:e539e5fe2c3415b79d3fc1dd",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34573",
       "publishedAt": "2026-01-16T00:47:13.000Z",
       "title": "As Steve Witkoff announced, we have OFFICIALLY entered the next phase of Gaza’s 20-Point Peace Plan! Since the Ceasefire, my team has helped deliver RECORD LEVELS of Humanitarian Aid to Gaza, reaching Civilians at HISTORIC speed and scale. Even the United Nations has acknowledged this achievement as UNPRECEDENTED. These results have set the stage for this next phase. As Chairman of the Board of Peace, I am backing a newly appointed Palestinian Technocratic Government, the National Committee for the Administration of Gaza, supported by the Board's High Representative, to govern Gaza during its transition. These Palestinian leaders are unwaveringly committed to a PEACEFUL future! With the support of Egypt, Turkey, and Qatar, we will secure a COMPREHENSIVE Demilitarization Agreement with Hamas, including the surrender of ALL weapons, and the dismantling of EVERY tunnel. Hamas must IMMEDIATELY honor its commitments, including the return of the final body to Israel, and proceed without delay to full Demilitarization. As I have said before, they can do this the easy way, or the hard way. The people of Gaza have suffered long enough. The time is NOW. PEACE THROUGH STRENGTH.",
-      "text": "<p>As Steve Witkoff announced, we have OFFICIALLY entered the next phase of Gaza’s 20-Point Peace Plan!<br/> <br/>Since the Ceasefire, my team has helped deliver RECORD LEVELS of Humanitarian Aid to Gaza, reaching Civilians at HISTORIC speed and scale. Even the United Nations has acknowledged this achievement as UNPRECEDENTED. These results have set the stage for this next phase.<br/> <br/>As Chairman of the Board of Peace, I am backing a newly appointed Palestinian Technocratic Government, the National Committee for the Administration of Gaza, supported by the Board's High Representative, to govern Gaza during its transition. These Palestinian leaders are unwaveringly committed to a PEACEFUL future!<br/> <br/>With the support of Egypt, Turkey, and Qatar, we will secure a COMPREHENSIVE Demilitarization Agreement with Hamas, including the surrender of ALL weapons, and the dismantling of EVERY tunnel. Hamas must IMMEDIATELY honor its commitments, including the return of the final body to Israel, and proceed without delay to full Demilitarization. As I have said before, they can do this the easy way, or the hard way. The people of Gaza have suffered long enough. The time is NOW.<br/> <br/>PEACE THROUGH STRENGTH.</p>",
+      "text": "<p>As Steve Witkoff announced, we have OFFICIALLY entered the next phase of Gaza’s 20-Point Peace Plan!<br/> <br/>Since the Ceasefire, my team has helped deliver RECORD LEVELS of Humanitarian Aid to Gaza, reaching Civilians at HISTORIC speed and scale. Even the United Nations has acknowledged this achievement as UNPRECEDENTED. These results have set the stage for this next phase.<br/> <br/>As Chairman of the Board of Peace, I am backing a newly appointed Palestinian Technocratic Government, the National Committee for the Administration of Gaza, supported by the Board's High Representative, to govern Gaza during its transition. These Palestinian leaders are unwaveringly committed to a PEACEFUL future!<br/> <br/>With the support of Egypt, Turkey, and Qatar, we will secure a COMPREHENSIVE Demilitarization Agreement with Hamas, including the surrender of ALL weapons, and the dismantling of EVERY tunnel. Hamas must IMMEDIATELY honor its commitments, including the return of the final body to Israel, and proceed without delay to full Demilitarization. As I have said before, they can do this the easy way, or the hard way. The people of Gaza have suffered long enough. The time is NOW.<br/> <br/>PEACE THROUGH STRENGTH.</p>\n\n[Image] A screenshot of an X post from Special Envoy Steve Witkoff, dated January 14, 2026. The post says that, on behalf of Donald Trump, the United States is launching Phase Two of a 20-point plan for Gaza, involving demilitarization, technocratic Palestinian governance, reconstruction, and the return of the final deceased hostage. It thanks Egypt, Turkey, and Qatar for mediation.",
       "url": "https://www.trumpstruth.org/statuses/34573",
       "raw": {
         "creator": "",
@@ -41,6 +46,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34573",
         "isoDate": "2026-01-16T00:47:13.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:31:19.430Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13788/803c527ab16d7d57.png"
       ]
@@ -178,5 +184,9 @@
       "analyzedAt": "2026-09-06T06:33:12.430Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:6:e539e5fe2c3415b79d3fc1dd"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34573",
+    "https://www.trumpstruth.org/statuses/34572",
+    "https://www.trumpstruth.org/statuses/34574"
+  ]
 }

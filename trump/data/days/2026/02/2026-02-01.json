@@ -6,24 +6,25 @@
     "negative": 0
   },
   "summary": "positive:12 neutral:12 negative:0",
-  "generatedAt": "2026-09-07T14:52:13.477Z",
+  "generatedAt": "2026-09-08T07:48:41.750Z",
   "topics": [
-    "Melania Trump's documentary earns $8 million in opening weekend",
-    "Donald Trump endorses multiple candidates in Indiana's Senate primaries",
-    "U.S. steel production surpasses Japan for the first time in 26 years"
+    "Melania Trump documentary draws major attention with reported $8 million opening weekend",
+    "Endorses four Indiana candidates challenging Republican state senators over opposition to redistricting",
+    "U.S. steel production surpasses Japan’s for the first time in 26 years"
   ],
-  "trendingTopic": "Melania Trump's documentary earns $8 million in opening weekend",
+  "trendingTopic": "Melania Trump documentary reportedly posts strongest opening weekend for a documentary in a decade",
   "trendingName": "Melania Trump",
   "secondaryHighlights": [
     {
-      "topic": "Donald Trump endorses multiple candidates in Indiana's Senate primaries"
+      "topic": "Endorses four Indiana candidates challenging Republican state senators over opposition to redistricting"
     },
     {
-      "topic": "U.S. steel production surpasses Japan for the first time in 26 years"
+      "topic": "U.S. steel production surpasses Japan’s for the first time in 26 years"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:24:0b4f3711cb4f8a0473b33442",
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v11:24:0b4f3711cb4f8a0473b33442",
+  "selfPraiseCacheKey": "self-praise-v2:24:0b4f3711cb4f8a0473b33442",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36390",
@@ -181,7 +182,7 @@
       "id": "https://www.trumpstruth.org/statuses/36396",
       "publishedAt": "2026-02-01T15:09:41.000Z",
       "title": "[No Title] - Post from February 1, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115996004887528511</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115996004887528511</span></p>\n\n[Image] A screenshot of a social-media post by verified user Juanita Broaddrick, whose handle is @atensnut. The post reads: “We knew it was stolen. The Dems knew it too. Thats why they tried to put Trump in prison. They knew he’d dig deep enough to find out.” The post appears on a white background with the account name, profile photo, verification badge, and menu icon.",
       "url": "https://www.trumpstruth.org/statuses/36396",
       "raw": {
         "creator": "",
@@ -194,6 +195,7 @@
         "guid": "https://www.trumpstruth.org/statuses/36396",
         "isoDate": "2026-02-01T15:09:41.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:34:30.273Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15276/8d6e21e0aea9e3b5.png"
       ]
@@ -202,7 +204,7 @@
       "id": "https://www.trumpstruth.org/statuses/36400",
       "publishedAt": "2026-02-01T16:26:38.000Z",
       "title": "[No Title] - Post from February 1, 2026",
-      "text": "<p><a href=\"https://www.hollywoodreporter.com/movies/movie-news/box-office-melania-opening-weekend-1236490092/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">hollywoodreporter.com/movies/m</span><span class=\"invisible\">ovie-news/box-office-melania-opening-weekend-1236490092/</span></a></p>",
+      "text": "<p><a href=\"https://www.hollywoodreporter.com/movies/movie-news/box-office-melania-opening-weekend-1236490092/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">hollywoodreporter.com/movies/m</span><span class=\"invisible\">ovie-news/box-office-melania-opening-weekend-1236490092/</span></a></p>\n\n[Image] A screenshot of a The Hollywood Reporter post headlines “Box Office: ‘Melania’ Heads for $8 Million Opening, the Best Showing in a Decade for a Doc.” The accompanying photo shows Melania Trump smiling in a wide-brimmed black hat and dark outfit beside a man in a navy suit, with an American flag in the background.",
       "url": "https://www.trumpstruth.org/statuses/36400",
       "raw": {
         "creator": "",
@@ -215,6 +217,7 @@
         "guid": "https://www.trumpstruth.org/statuses/36400",
         "isoDate": "2026-02-01T16:26:38.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:34:27.121Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15280/a88f4999adcfbfab.png"
       ]
@@ -308,7 +311,7 @@
       "id": "https://www.trumpstruth.org/statuses/36410",
       "publishedAt": "2026-02-01T18:50:43.000Z",
       "title": "[No Title] - Post from February 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a social-media post by Rep. Henry Cuellar thanking President Donald Trump for his leadership and pardon of Cuellar and his wife, Imelda. An embedded post from Donald Trump accuses the Biden administration of weaponizing the Justice Department and announces a full, unconditional pardon for Henry and Imelda Cuellar.",
       "url": "https://www.trumpstruth.org/statuses/36410",
       "raw": {
         "creator": "",
@@ -321,6 +324,7 @@
         "guid": "https://www.trumpstruth.org/statuses/36410",
         "isoDate": "2026-02-01T18:50:43.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:34:21.124Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15283/d46dd03b004ad224.jpg"
       ]
@@ -453,7 +457,7 @@
       "id": "https://www.trumpstruth.org/statuses/36401",
       "publishedAt": "2026-02-01T18:53:00.000Z",
       "title": "[No Title] - Post from February 1, 2026",
-      "text": "<p></p>",
+      "text": "[Image] An architectural rendering shows a monumental white stone triumphal arch with a large central opening and two smaller side passages. Sculptures and an eagle-topped figure decorate the roofline. Curving walkways, lawns, trees, stairs, and small groups of pedestrians surround the structure, with additional buildings visible in the background. “HARRISON DESIGN” is printed across the top.",
       "url": "https://www.trumpstruth.org/statuses/36401",
       "raw": {
         "creator": "",
@@ -466,6 +470,7 @@
         "guid": "https://www.trumpstruth.org/statuses/36401",
         "isoDate": "2026-02-01T18:53:00.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:34:18.048Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/15281/cf52aa1a26522320.jpg"
       ]
@@ -653,5 +658,11 @@
       "analyzedAt": "2026-09-06T06:48:41.121Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:24:0b4f3711cb4f8a0473b33442"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/36413",
+    "https://www.trumpstruth.org/statuses/36412",
+    "https://www.trumpstruth.org/statuses/36411",
+    "https://www.trumpstruth.org/statuses/36402",
+    "https://www.trumpstruth.org/statuses/36416"
+  ]
 }

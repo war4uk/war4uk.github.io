@@ -6,23 +6,24 @@
     "negative": 0
   },
   "summary": "positive:2 neutral:1 negative:0",
-  "generatedAt": "2026-09-07T14:50:48.060Z",
+  "generatedAt": "2026-09-08T07:39:37.188Z",
   "topics": [
-    "Pushback against election trimester ballots in blue states",
-    "Record low crime rates attributed to Southern Border operations",
-    "Benefits of tariffs for national security and wealth"
+    "Trump claims tariffs are driving wealth, stronger national security, and 4.3% GDP growth",
+    "Trump credits border enforcement for record-low crime and record U.S. employment",
+    "Conservatives push back against extended ballot-counting periods in blue states"
   ],
-  "trendingTopic": "Pushback against election trimester ballots in blue states",
+  "trendingTopic": "Trump claims tariffs are driving wealth, stronger national security, and 4.3% GDP growth",
   "secondaryHighlights": [
     {
-      "topic": "Record low crime rates attributed to Southern Border operations"
+      "topic": "Trump credits border enforcement for record-low crime and record U.S. employment"
     },
     {
-      "topic": "Benefits of tariffs for national security and wealth"
+      "topic": "Conservatives push back against extended ballot-counting periods in blue states"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:3:bb95072775a5f19c8e420458",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:3:bb95072775a5f19c8e420458",
+  "selfPraiseCacheKey": "self-praise-v2:3:bb95072775a5f19c8e420458",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34359",
@@ -99,5 +100,8 @@
       "analyzedAt": "2026-09-06T06:29:09.487Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:3:bb95072775a5f19c8e420458"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34360",
+    "https://www.trumpstruth.org/statuses/34361"
+  ]
 }

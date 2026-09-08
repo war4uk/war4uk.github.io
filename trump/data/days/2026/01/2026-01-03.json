@@ -6,24 +6,20 @@
     "negative": 0
   },
   "summary": "positive:3 neutral:70 negative:0",
-  "generatedAt": "2026-09-07T14:51:02.010Z",
+  "generatedAt": "2026-09-08T07:40:51.064Z",
   "topics": [
-    "U.S. military operation successfully captures Venezuelan President Nicolas Maduro",
-    "Emmanuel Macron expresses support for Venezuelan people after Maduro's removal",
-    "Donald Trump receives praise from supporters for actions in Venezuela"
+    "Trump announces a U.S. strike captured Nicolás Maduro and removed him from Venezuela",
+    "Trump amplifies claims that CIA-backed vote manipulation changed the 2020 election"
   ],
-  "trendingTopic": "U.S. military operation successfully captures Venezuelan President Nicolas Maduro",
-  "trendingName": "Nicolas Maduro",
+  "trendingTopic": "Trump announces a U.S. strike captured Nicolás Maduro and removed him from Venezuela",
   "secondaryHighlights": [
     {
-      "topic": "Emmanuel Macron expresses support for Venezuelan people after Maduro's removal"
-    },
-    {
-      "topic": "Donald Trump receives praise from supporters for actions in Venezuela"
+      "topic": "Trump contrasts his support for Iran protesters with Obama's past inaction"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:73:e4f15e0a6ee488b13266d816",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:73:e4f15e0a6ee488b13266d816",
+  "selfPraiseCacheKey": "self-praise-v2:73:e4f15e0a6ee488b13266d816",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34410",
@@ -65,7 +61,7 @@
       "id": "https://www.trumpstruth.org/statuses/34412",
       "publishedAt": "2026-01-03T16:23:32.000Z",
       "title": "Nicolas Maduro on board the USS Iwo Jima.",
-      "text": "<p>Nicolas Maduro on board the USS Iwo Jima.</p>",
+      "text": "<p>Nicolas Maduro on board the USS Iwo Jima.</p>\n\n[Image] A man with a mustache sits inside a vehicle or enclosed cabin, wearing a gray tracksuit, large black goggles, and headphones or hearing protection. He holds a plastic water bottle and has straps and equipment around his chest. Another person in dark clothing is partially visible beside him, with a reflective circular object in the background.",
       "url": "https://www.trumpstruth.org/statuses/34412",
       "raw": {
         "creator": "",
@@ -78,6 +74,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34412",
         "isoDate": "2026-01-03T16:23:32.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:29:53.985Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13725/e1bb18adb65ba857.jpg"
       ]
@@ -130,7 +127,7 @@
       "id": "https://www.trumpstruth.org/statuses/35049",
       "publishedAt": "2026-01-03T18:01:48.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Marco Rubio sits in a dim indoor setting, wearing a dark blue suit, white shirt, and patterned tie. He rests one hand over his mouth and looks toward the left side of the frame with a serious, contemplative expression. The close-up portrait shows his face and upper body against a softly blurred background.",
       "url": "https://www.trumpstruth.org/statuses/35049",
       "raw": {
         "creator": "",
@@ -143,6 +140,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35049",
         "isoDate": "2026-01-03T18:01:48.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:29:51.330Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14116/c4b16437bb6e0c98.jpg"
       ]
@@ -151,7 +149,7 @@
       "id": "https://www.trumpstruth.org/statuses/35048",
       "publishedAt": "2026-01-03T18:01:59.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Pete Hegseth stands in front of a black backdrop with his arms crossed. He wears a blue suit jacket, striped shirt, dark tie, and gray zip-up sweater, with a small flag-style lapel pin and pocket square. His neatly combed hair is graying at the sides, and a tattoo is visible on his forearm.",
       "url": "https://www.trumpstruth.org/statuses/35048",
       "raw": {
         "creator": "",
@@ -164,6 +162,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35048",
         "isoDate": "2026-01-03T18:01:59.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:29:48.780Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14115/8ddfef6e64b39abc.jpg"
       ]
@@ -216,7 +215,7 @@
       "id": "https://www.trumpstruth.org/statuses/35045",
       "publishedAt": "2026-01-03T18:02:39.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump sits in the foreground wearing a dark suit and open-collar white shirt, with his hands clasped. Beside him, a gray-haired man in a blue suit presses his hands together near his face. Several suited people sit or stand behind them in a dimly lit room, with light coming through a window at right.",
       "url": "https://www.trumpstruth.org/statuses/35045",
       "raw": {
         "creator": "",
@@ -229,6 +228,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35045",
         "isoDate": "2026-01-03T18:02:39.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:29:45.848Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14112/ddd8d89a3021c94f.jpg"
       ]
@@ -237,7 +237,7 @@
       "id": "https://www.trumpstruth.org/statuses/35044",
       "publishedAt": "2026-01-03T18:02:51.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump sits at a table in a dimly lit room with black drapes, while several suited men stand behind him. Marco Rubio stands near the center with his arms crossed. A man works on a laptop in the foreground, and a large monitor behind the group displays an X social-media interface. Chairs and audio equipment surround the table.",
       "url": "https://www.trumpstruth.org/statuses/35044",
       "raw": {
         "creator": "",
@@ -250,6 +250,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35044",
         "isoDate": "2026-01-03T18:02:51.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:29:42.952Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14111/78ca5cd2038ea1d7.jpg"
       ]
@@ -302,7 +303,7 @@
       "id": "https://www.trumpstruth.org/statuses/35041",
       "publishedAt": "2026-01-03T18:03:31.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump sits in profile in a dimly lit room, wearing a dark suit and white shirt. A blurred man occupies the foreground, while two suited men stand in the background. A large monitor with a bright green line is visible behind them, and other people are partially seen at the edge of the frame.",
       "url": "https://www.trumpstruth.org/statuses/35041",
       "raw": {
         "creator": "",
@@ -315,6 +316,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35041",
         "isoDate": "2026-01-03T18:03:31.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:29:39.385Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14108/49648ce05e2ec22b.jpg"
       ]
@@ -323,7 +325,7 @@
       "id": "https://www.trumpstruth.org/statuses/35040",
       "publishedAt": "2026-01-03T18:03:51.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump sits at a table between two suited officials, with his hands clasped. Marco Rubio is seated on the right, while another official sits beside a laptop and desk phone on the left. Several aides and security personnel stand behind them in a dim room divided by black curtains.",
       "url": "https://www.trumpstruth.org/statuses/35040",
       "raw": {
         "creator": "",
@@ -336,6 +338,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35040",
         "isoDate": "2026-01-03T18:03:51.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:29:36.393Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14107/a31870a7463e5979.jpg"
       ]
@@ -388,7 +391,7 @@
       "id": "https://www.trumpstruth.org/statuses/35037",
       "publishedAt": "2026-01-03T18:04:39.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Two men sit at a table in a dark, curtain-lined room surrounded by laptops, telephones, papers, and other equipment. The gray-haired man on the left raises one hand while speaking, wearing a white shirt, striped tie, and black vest. The man on the right wears a blue suit and rests his hand against his chin while listening.",
       "url": "https://www.trumpstruth.org/statuses/35037",
       "raw": {
         "creator": "",
@@ -401,6 +404,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35037",
         "isoDate": "2026-01-03T18:04:39.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:29:32.308Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14104/38bbac8ac8eed242.jpg"
       ]
@@ -409,7 +413,7 @@
       "id": "https://www.trumpstruth.org/statuses/34413",
       "publishedAt": "2026-01-03T18:04:57.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A black-and-white photograph shows three suited men gathered around laptops and other electronic equipment at a table. The man in front is seated and looking down at an HP laptop, while the other two lean toward him. A large monitor behind them displays a social-media-style interface with text and images. Black curtains form the backdrop.",
       "url": "https://www.trumpstruth.org/statuses/34413",
       "raw": {
         "creator": "",
@@ -422,6 +426,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34413",
         "isoDate": "2026-01-03T18:04:57.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:29:28.904Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13726/b33ff2d11ec1283e.jpg"
       ]
@@ -528,7 +533,7 @@
       "id": "https://www.trumpstruth.org/statuses/34417",
       "publishedAt": "2026-01-03T21:59:25.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of an X post from Elon Musk, whose profile shows an American-flag avatar and a verified badge. The post says “YES” above an embedded post from The White House reading, “GOD BLESS THE UNITED STATES MILITARY.” The embedded post displays a large American flag and shows a timestamp of 12:02 PM on January 3, 2026.",
       "url": "https://www.trumpstruth.org/statuses/34417",
       "raw": {
         "creator": "",
@@ -541,6 +546,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34417",
         "isoDate": "2026-01-03T21:59:25.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:29:23.981Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13729/d7db09038e913b1c.jpg"
       ]
@@ -549,7 +555,7 @@
       "id": "https://www.trumpstruth.org/statuses/35036",
       "publishedAt": "2026-01-03T22:00:47.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of an X post by Elon Musk shows him writing “Yes.” The post quotes another account saying, “I am a citizen of the United States and have only that passport. No matter what happens, I will fight for and die in America.” Below is a portrait of Elon Musk in a dark suit with folded arms, standing before a large American flag.",
       "url": "https://www.trumpstruth.org/statuses/35036",
       "raw": {
         "creator": "",
@@ -562,6 +568,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35036",
         "isoDate": "2026-01-03T22:00:47.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:29:21.756Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14103/899f267086dac910.png"
       ]
@@ -926,7 +933,7 @@
       "id": "https://www.trumpstruth.org/statuses/35021",
       "publishedAt": "2026-01-03T22:23:40.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833503727011090</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833503727011090</span></p>\n\n[Image] A screenshot of a post from the Wall Street Apes account claims Democrats allowed Venezuelan president Nicolás Maduro to empty prisons and mental-health facilities by sending people to the United States. It quotes Dr. Phil questioning retired ICE special agent Victor Avila, who affirms that DHS acknowledged the claim in writing.",
       "url": "https://www.trumpstruth.org/statuses/35021",
       "raw": {
         "creator": "",
@@ -939,6 +946,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35021",
         "isoDate": "2026-01-03T22:23:40.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:29:17.263Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14088/dd240b53f41ca868.png"
       ]
@@ -1125,7 +1133,7 @@
       "id": "https://www.trumpstruth.org/statuses/34424",
       "publishedAt": "2026-01-03T22:29:54.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833528674608330</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833528674608330</span></p>\n\n[Image] A screenshot of a post from Right Angle News Network claims that journalists uncovered a large homeless ballot-harvesting operation in Fulton County, Georgia, allegedly involving Democrats, single addresses, and a George Soros-backed nonprofit. The post questions Joe Biden’s reported 11,000-vote victory margin in Georgia.",
       "url": "https://www.trumpstruth.org/statuses/34424",
       "raw": {
         "creator": "",
@@ -1138,6 +1146,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34424",
         "isoDate": "2026-01-03T22:29:54.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:29:13.752Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13735/e5a10587ac45fb74.png"
       ]
@@ -1404,7 +1413,7 @@
       "id": "https://www.trumpstruth.org/statuses/35004",
       "publishedAt": "2026-01-03T22:46:02.000Z",
       "title": "[No Title] - Post from January 3, 2026",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833590937787294</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115833590937787294</span></p>\n\n[Image] A screenshot of a social media post from Johnny Midnight, whose profile displays the handle @its_The_Dr and a verified badge. The post reads: “Just wait till we see the massive frauds in California! That will really blow the lid off his run for President!” A profile photo and three-dot menu icon are also visible.",
       "url": "https://www.trumpstruth.org/statuses/35004",
       "raw": {
         "creator": "",
@@ -1417,6 +1426,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35004",
         "isoDate": "2026-01-03T22:46:02.000Z"
       },
+      "imageDescribedAt": "2026-09-08T07:29:09.969Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14071/a8a3fc05a93dcd6b.png"
       ]
@@ -1934,5 +1944,8 @@
       "analyzedAt": "2026-09-06T06:30:30.643Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:73:e4f15e0a6ee488b13266d816"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34418",
+    "https://www.trumpstruth.org/statuses/34432"
+  ]
 }
