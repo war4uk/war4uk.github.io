@@ -383,11 +383,11 @@ function sentimentGradient(s) {
   let cursor = 0;
   bands.forEach((band, index) => {
     const share = band.count / total * 100;
-    const mid = cursor + share / 2;
-    if (index === 0) stops.push(`${band.color} 0%`);
-    stops.push(`${band.color} ${formatPct(mid)}%`);
-    if (index === bands.length - 1) stops.push(`${band.color} 100%`);
-    cursor += share;
+    const start = cursor;
+    const end = index === bands.length - 1 ? 100 : cursor + share;
+    stops.push(`${band.color} ${formatPct(start)}%`);
+    stops.push(`${band.color} ${formatPct(end)}%`);
+    cursor = end;
   });
   return `linear-gradient(to bottom, ${stops.join(", ")})`;
 }
@@ -1006,11 +1006,6 @@ function renderDayDetail(runtime, summary) {
   const primaryTopic = board.primary.topic || summary.trendingTopic || "\u2014";
   const primaryName = board.primary.name || summary.trendingName || "";
   const secondaryRows = board.secondary.length ? board.secondary.map((s) => formatStoryItem(s, "day-story-topic", "day-story-name")).join("") : '<li class="day-empty">No additional stories</li>';
-  const praisePosts = board.posts.filter((p) => p.selfPraise);
-  const praiseSection = praisePosts.length ? `<section class="day-self-praise">
-      <h3>Self-praise <span class="day-post-count">${praisePosts.length}</span></h3>
-      <ul id="day-self-praise-list">${praisePosts.map((p) => formatDayPost(p)).join("")}</ul>
-    </section>` : "";
   const postRows = board.posts.length ? board.posts.map((p) => formatDayPost(p)).join("") : '<li class="day-empty">No posts for this day</li>';
   title.textContent = summary.date;
   body.innerHTML = `
@@ -1022,7 +1017,6 @@ function renderDayDetail(runtime, summary) {
       <h3>Also trending</h3>
       <ol id="day-secondary-list">${secondaryRows}</ol>
     </section>
-    ${praiseSection}
     <section class="day-posts">
       <h3>Posts <span class="day-post-count">${board.posts.length}</span></h3>
       <ul id="day-posts-list">${postRows}</ul>
