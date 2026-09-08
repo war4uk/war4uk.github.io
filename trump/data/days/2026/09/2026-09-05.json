@@ -6,24 +6,13 @@
     "negative": 0
   },
   "summary": "positive:2 neutral:12 negative:0",
-  "generatedAt": "2026-09-07T20:34:41.284Z",
+  "generatedAt": "2026-09-08T05:12:40.383Z",
   "topics": [
-    "August jobs report adds 162,000 jobs, beating economists’ expectations and revising prior months upward",
-    "Donald Trump promotes Dallas midterm convention rally on September 9 and 10",
-    "John Barrasso criticizes liberal-left proposals on government, immigration, policing, and national defense"
+    "Donald Trump announces appearances at a two-night rally in Dallas"
   ],
-  "trendingTopic": "August jobs report adds 162,000 jobs, beating economists’ expectations and revising prior months upward",
-  "secondaryHighlights": [
-    {
-      "topic": "Donald Trump promotes Dallas midterm convention rally on September 9 and 10"
-    },
-    {
-      "topic": "John Barrasso criticizes liberal-left proposals on government, immigration, policing, and national defense",
-      "name": "John Barrasso"
-    }
-  ],
+  "trendingTopic": "Donald Trump announces speaking appearances at a two-night rally in Dallas",
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:14:59c49031c15f887a72fbfc8e",
+  "topicsCacheKey": "day-themes-v11:14:59c49031c15f887a72fbfc8e",
   "selfPraiseCacheKey": "self-praise-v1:14:59c49031c15f887a72fbfc8e",
   "posts": [
     {
@@ -395,6 +384,11 @@
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-06T00:02:45.525Z"
+    }
+  ],
+  "secondaryHighlights": [
+    {
+      "topic": "The Greatest RALLY of them all!"
     }
   ]
 }
