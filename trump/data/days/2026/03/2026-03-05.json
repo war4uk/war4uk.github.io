@@ -6,24 +6,28 @@
     "negative": 1
   },
   "summary": "positive:16 neutral:12 negative:1",
-  "generatedAt": "2026-09-07T15:17:16.849Z",
+  "generatedAt": "2026-09-08T08:05:49.941Z",
   "topics": [
-    "Trump's pardons of five former NFL players including Joe Klecko",
-    "Trump's crackdown on DC crime leads to over 10,000 arrests",
-    "Trump's influence on NATO and Iran policy highlighted by Secretary General"
+    "Trump's ballroom project receives federal approval as images showcase its grand interior design",
+    "Trump promotes the SAVE AMERICA ACT requiring voter ID, citizenship proof, and restrictions on mail voting",
+    "Trump's Washington, D.C., crime crackdown surpasses 10,000 arrests"
   ],
-  "trendingTopic": "Trump's pardons of five former NFL players including Joe Klecko",
+  "trendingTopic": "Trump's ballroom project receives federal approval as images showcase its grand interior design",
   "secondaryHighlights": [
     {
-      "topic": "Trump's crackdown on DC crime leads to over 10,000 arrests"
+      "topic": "NATO Secretary General Rutte backs Trump's Iran mission with broad allied support",
+      "name": "Mark Rutte"
     },
     {
-      "topic": "Trump's influence on NATO and Iran policy highlighted by Secretary General"
+      "topic": "Trump pardons five former NFL players, including Hall of Famer Joe Klecko"
+    },
+    {
+      "topic": "Trump and Lee Zeldin roll back an Obama-era climate rule, citing major household savings"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:29:faf6818e8736f027e0d057f4",
-  "selfPraiseCacheKey": "self-praise-v1:29:faf6818e8736f027e0d057f4",
+  "selfPraiseCount": 10,
+  "topicsCacheKey": "day-themes-v11:29:faf6818e8736f027e0d057f4",
+  "selfPraiseCacheKey": "self-praise-v2:29:faf6818e8736f027e0d057f4",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37130",
@@ -743,5 +747,17 @@
       "rationale": "The text expresses strong support for Trump, portraying him as a winner who challenges anti-American regimes, which conveys a positive sentiment.",
       "analyzedAt": "2026-09-06T06:56:36.622Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/37131",
+    "https://www.trumpstruth.org/statuses/37132",
+    "https://www.trumpstruth.org/statuses/37134",
+    "https://www.trumpstruth.org/statuses/37144",
+    "https://www.trumpstruth.org/statuses/37143",
+    "https://www.trumpstruth.org/statuses/37142",
+    "https://www.trumpstruth.org/statuses/37149",
+    "https://www.trumpstruth.org/statuses/37150",
+    "https://www.trumpstruth.org/statuses/37156",
+    "https://www.trumpstruth.org/statuses/38868"
   ]
 }

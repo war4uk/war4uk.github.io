@@ -6,24 +6,25 @@
     "negative": 2
   },
   "summary": "positive:49 neutral:19 negative:2",
-  "generatedAt": "2026-09-07T15:37:53.613Z",
+  "generatedAt": "2026-09-08T08:02:07.330Z",
   "topics": [
-    "Endorses multiple America First candidates in Texas Congressional Districts",
-    "Comments on the passing of Reverend Jesse Jackson",
-    "Highlights significant tax refunds due to new legislation"
+    "Trump endorses Republican congressional and state candidates across Texas, North Carolina, and Georgia",
+    "Trump mourns Jesse Jackson and shares photos recalling their longstanding relationship",
+    "Polls show potential Trump endorsements reshaping six Indiana Republican state Senate primaries"
   ],
-  "trendingTopic": "Endorses multiple America First candidates in Texas Congressional Districts",
+  "trendingTopic": "Trump endorses Republican congressional and state candidates across Texas, North Carolina, and Georgia",
   "secondaryHighlights": [
     {
-      "topic": "Comments on the passing of Reverend Jesse Jackson"
+      "topic": "Trump mourns Jesse Jackson and shares photos recalling their longstanding relationship",
+      "name": "Jesse Jackson"
     },
     {
-      "topic": "Highlights significant tax refunds due to new legislation"
+      "topic": "Polls show potential Trump endorsements reshaping six Indiana Republican state Senate primaries"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:70:bc113996600ed6f5ae79b42b",
-  "selfPraiseCacheKey": "self-praise-v1:70:bc113996600ed6f5ae79b42b",
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v11:70:bc113996600ed6f5ae79b42b",
+  "selfPraiseCacheKey": "self-praise-v2:70:bc113996600ed6f5ae79b42b",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36720",
@@ -1779,5 +1780,11 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-06T06:52:46.603Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/36761",
+    "https://www.trumpstruth.org/statuses/36764",
+    "https://www.trumpstruth.org/statuses/36775",
+    "https://www.trumpstruth.org/statuses/36779"
   ]
 }

@@ -6,25 +6,27 @@
     "negative": 1
   },
   "summary": "positive:3 neutral:2 negative:1",
-  "generatedAt": "2026-09-07T15:17:44.760Z",
+  "generatedAt": "2026-09-08T08:08:20.325Z",
   "topics": [
-    "Promotes Sean Hannity's new podcast",
-    "Venezuela wins against Italy in WBC semifinal",
-    "Comments on NATO allies' stance regarding military operations against Iran"
+    "Trump says U.S.-Israeli military operation has crippled Iran and rejects NATO help",
+    "Trump demands Congress pass the Save America Act with voter ID and citizenship requirements",
+    "Trump promotes Sean Hannity’s new podcast"
   ],
-  "trendingTopic": "Promotes Sean Hannity's new podcast",
-  "trendingName": "Sean Hannity",
+  "trendingTopic": "Trump says U.S.-Israeli military operation has crippled Iran and rejects NATO help",
   "secondaryHighlights": [
     {
-      "topic": "Venezuela wins against Italy in WBC semifinal"
+      "topic": "Trump praises Venezuela’s WBC semifinal victory and suggests statehood"
     },
     {
-      "topic": "Comments on NATO allies' stance regarding military operations against Iran"
+      "topic": "Trump demands Congress pass the Save America Act with voter ID and citizenship requirements"
+    },
+    {
+      "topic": "Trump promotes Sean Hannity’s new podcast"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:6:3f972e85f7ac2e4dde1d36b7",
-  "selfPraiseCacheKey": "self-praise-v1:6:3f972e85f7ac2e4dde1d36b7",
+  "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v11:6:3f972e85f7ac2e4dde1d36b7",
+  "selfPraiseCacheKey": "self-praise-v2:6:3f972e85f7ac2e4dde1d36b7",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37327",

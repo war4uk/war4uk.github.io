@@ -6,25 +6,27 @@
     "negative": 2
   },
   "summary": "positive:1 neutral:2 negative:2",
-  "generatedAt": "2026-09-07T15:17:32.345Z",
+  "generatedAt": "2026-09-08T08:07:26.256Z",
   "topics": [
-    "Critiques the politicization of the FBI and improper surveillance",
-    "Comments on the Iran National Soccer Team's participation in the World Cup",
-    "Calls for immediate interest rate cuts from Federal Reserve Chairman Jerome Powell"
+    "Trump comments on Iran’s World Cup participation and touts U.S. hosting plans",
+    "Trump says Iran must be stopped from obtaining nuclear weapons",
+    "Trump pressures Federal Reserve Chair Jerome Powell to cut interest rates immediately"
   ],
-  "trendingTopic": "Critiques the politicization of the FBI and improper surveillance",
-  "trendingName": "Ex-FBI agent",
+  "trendingTopic": "Trump questions Iran’s World Cup participation while touting America’s hosting plans",
   "secondaryHighlights": [
     {
-      "topic": "Comments on the Iran National Soccer Team's participation in the World Cup"
+      "topic": "Trump says stopping Iran from obtaining nuclear weapons is more important than rising oil prices"
     },
     {
-      "topic": "Calls for immediate interest rate cuts from Federal Reserve Chairman Jerome Powell"
+      "topic": "Trump pressures Federal Reserve Chair Jerome Powell to cut interest rates immediately"
+    },
+    {
+      "topic": "Former FBI agent alleges bureau politicization and improper surveillance"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:5:fcaf7349195bf0bf0fc13cfd",
-  "selfPraiseCacheKey": "self-praise-v1:5:fcaf7349195bf0bf0fc13cfd",
+  "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v11:5:fcaf7349195bf0bf0fc13cfd",
+  "selfPraiseCacheKey": "self-praise-v2:5:fcaf7349195bf0bf0fc13cfd",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37260",

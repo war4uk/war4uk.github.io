@@ -6,24 +6,24 @@
     "negative": 0
   },
   "summary": "positive:8 neutral:2 negative:0",
-  "generatedAt": "2026-09-07T15:16:38.662Z",
+  "generatedAt": "2026-09-08T08:02:26.397Z",
   "topics": [
-    "Reduces U.S. trade deficit significantly due to tariffs",
-    "Nominates multiple judges for federal courts in Kansas and Missouri",
-    "Advocates for American voting rights in elections"
+    "Nominates Justin Smith and three Kansas legal officials for federal judgeships",
+    "Claims tariffs are reducing the trade deficit and reviving American manufacturing",
+    "Pushes voter ID, citizenship proof, and restrictions on mail-in voting"
   ],
-  "trendingTopic": "Reduces U.S. trade deficit significantly due to tariffs",
+  "trendingTopic": "Nominates Justin Smith and three Kansas legal officials for federal judgeships",
   "secondaryHighlights": [
     {
-      "topic": "Nominates multiple judges for federal courts in Kansas and Missouri"
+      "topic": "Claims tariffs are reducing the trade deficit and reviving American manufacturing"
     },
     {
-      "topic": "Advocates for American voting rights in elections"
+      "topic": "Pushes voter ID, citizenship proof, and restrictions on mail-in voting"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:10:da8254ac2ab5df85c4f0f923",
-  "selfPraiseCacheKey": "self-praise-v1:10:da8254ac2ab5df85c4f0f923",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:10:da8254ac2ab5df85c4f0f923",
+  "selfPraiseCacheKey": "self-praise-v2:10:da8254ac2ab5df85c4f0f923",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36807",
@@ -267,5 +267,10 @@
       "rationale": "The text highlights the success of the Coosa Steel Plant and the positive impact of tariffs on the economy, indicating thriving companies and increased national security.",
       "analyzedAt": "2026-09-06T06:53:18.480Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/36807",
+    "https://www.trumpstruth.org/statuses/36809",
+    "https://www.trumpstruth.org/statuses/36816"
   ]
 }

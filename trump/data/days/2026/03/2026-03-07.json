@@ -6,24 +6,28 @@
     "negative": 2
   },
   "summary": "positive:2 neutral:14 negative:2",
-  "generatedAt": "2026-09-07T15:17:21.123Z",
+  "generatedAt": "2026-09-08T08:06:30.858Z",
   "topics": [
-    "Memphis Safe Task Force issues wanted posters for multiple suspects including Yahir Mejia, Eric Wilkerson, and Arsenio Davis",
-    "President pays respects to fallen warriors at Dover Air Force Base",
-    "Support for military actions against Iran among MAGA voters"
+    "Memphis Safe Task Force highlights arrests, wanted suspects, seized firearms, and recovered missing children",
+    "Trump claims Iran surrendered after U.S.-Israeli attacks as Britain considers sending aircraft carriers",
+    "Trump urges the Senate to focus exclusively on passing the SAVE AMERICA ACT"
   ],
-  "trendingTopic": "Memphis Safe Task Force issues wanted posters for multiple suspects including Yahir Mejia, Eric Wilkerson, and Arsenio Davis",
+  "trendingTopic": "Memphis Safe Task Force highlights arrests, wanted suspects, seized firearms, and recovered missing children",
   "secondaryHighlights": [
     {
-      "topic": "President pays respects to fallen warriors at Dover Air Force Base"
+      "topic": "Pamela Bondi defends Lindsey Halligan against what she calls a fake Florida Bar investigation",
+      "name": "Pamela Bondi"
     },
     {
-      "topic": "Support for military actions against Iran among MAGA voters"
+      "topic": "Trump celebrates the men's gold medal hockey team"
+    },
+    {
+      "topic": "Trump plans to honor fallen American service members returning through Dover Air Force Base"
     }
   ],
   "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:18:802f0e4b05a3a8104ee60b3e",
-  "selfPraiseCacheKey": "self-praise-v1:18:802f0e4b05a3a8104ee60b3e",
+  "topicsCacheKey": "day-themes-v11:18:802f0e4b05a3a8104ee60b3e",
+  "selfPraiseCacheKey": "self-praise-v2:18:802f0e4b05a3a8104ee60b3e",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37193",
@@ -499,5 +503,9 @@
       "rationale": "The text expresses disdain towards the UK and implies a sense of betrayal, indicating a negative sentiment.",
       "analyzedAt": "2026-09-06T06:57:10.666Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/37201",
+    "https://www.trumpstruth.org/statuses/37204"
   ]
 }

@@ -6,24 +6,28 @@
     "negative": 2
   },
   "summary": "positive:3 neutral:13 negative:2",
-  "generatedAt": "2026-09-07T15:17:08.082Z",
+  "generatedAt": "2026-09-08T08:05:01.871Z",
   "topics": [
-    "Trump's influence on Indiana Republican primary polling data",
-    "Discussion on Iran and the U.S. military actions",
-    "Melania Trump to take the gavel at UN Security Council"
+    "Polling shows Trump endorsements could reshape five Indiana Republican Senate primary races",
+    "Trump defends the U.S.-Israel attack on Iran amid Democratic criticism",
+    "Trump accepts invitation to headline the 2026 White House Correspondents’ Dinner"
   ],
-  "trendingTopic": "Trump's influence on Indiana Republican primary polling data shows significant shifts with endorsements",
+  "trendingTopic": "Polling shows Trump endorsements could reshape five Indiana Republican Senate primary races",
   "secondaryHighlights": [
     {
-      "topic": "Discussion on Iran and the U.S. military actions"
+      "topic": "Trump defends the U.S.-Israel attack on Iran amid Democratic criticism"
     },
     {
-      "topic": "Melania Trump to take the gavel at UN Security Council"
+      "topic": "Trump accepts invitation to headline the 2026 White House Correspondents’ Dinner"
+    },
+    {
+      "topic": "Melania Trump will chair a United Nations Security Council meeting in historic first",
+      "name": "Melania Trump"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:18:c20389f78ab7b5760feba6ca",
-  "selfPraiseCacheKey": "self-praise-v1:18:c20389f78ab7b5760feba6ca",
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v11:18:c20389f78ab7b5760feba6ca",
+  "selfPraiseCacheKey": "self-praise-v2:18:c20389f78ab7b5760feba6ca",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37030",
@@ -495,5 +499,11 @@
       "rationale": "The text reports a factual event without expressing a clear sentiment.",
       "analyzedAt": "2026-09-06T06:55:45.159Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/37034",
+    "https://www.trumpstruth.org/statuses/37035",
+    "https://www.trumpstruth.org/statuses/37044",
+    "https://www.trumpstruth.org/statuses/37045"
   ]
 }

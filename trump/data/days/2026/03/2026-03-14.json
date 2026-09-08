@@ -6,24 +6,28 @@
     "negative": 2
   },
   "summary": "positive:16 neutral:7 negative:2",
-  "generatedAt": "2026-09-07T15:17:36.928Z",
+  "generatedAt": "2026-09-08T08:08:00.535Z",
   "topics": [
-    "Trump honors women during Women's History Month at White House events",
-    "Trump's military actions and statements regarding Iran's nuclear ambitions",
-    "Trump's economic policies lead to investment surge and lower mortgage rates"
+    "Claims U.S. bombing campaign has decimated Iran while warning over Strait of Hormuz access",
+    "Honors Baltimore woman and Virginia farmer at White House Women's History Month event",
+    "Promotes claims that Trump policies are driving investment and lowering mortgage rates"
   ],
-  "trendingTopic": "Trump honors women during Women's History Month at White House events",
+  "trendingTopic": "Trump says U.S. forces have decimated Iran, threatens further strikes, and demands the Strait of Hormuz remain open",
   "secondaryHighlights": [
     {
-      "topic": "Trump's military actions and statements regarding Iran's nuclear ambitions"
+      "topic": "Endorses Kevin Hern for U.S. Senate in Oklahoma",
+      "name": "Kevin Hern"
     },
     {
-      "topic": "Trump's economic policies lead to investment surge and lower mortgage rates"
+      "topic": "Thanks unpaid TSA agents while blaming Democrats for the funding dispute"
+    },
+    {
+      "topic": "Promotes changes to media organizations and accountability under Trump"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:25:400862b986e42f38c186c927",
-  "selfPraiseCacheKey": "self-praise-v1:25:400862b986e42f38c186c927",
+  "selfPraiseCount": 12,
+  "topicsCacheKey": "day-themes-v11:25:400862b986e42f38c186c927",
+  "selfPraiseCacheKey": "self-praise-v2:25:400862b986e42f38c186c927",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37287",
@@ -647,5 +651,19 @@
       "rationale": "The text indicates a strong majority support for Trump's stance on Iran, suggesting a favorable public opinion.",
       "analyzedAt": "2026-09-06T06:58:36.651Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/37285",
+    "https://www.trumpstruth.org/statuses/37284",
+    "https://www.trumpstruth.org/statuses/37288",
+    "https://www.trumpstruth.org/statuses/37290",
+    "https://www.trumpstruth.org/statuses/37289",
+    "https://www.trumpstruth.org/statuses/37295",
+    "https://www.trumpstruth.org/statuses/37297",
+    "https://www.trumpstruth.org/statuses/37302",
+    "https://www.trumpstruth.org/statuses/37304",
+    "https://www.trumpstruth.org/statuses/37305",
+    "https://www.trumpstruth.org/statuses/37306",
+    "https://www.trumpstruth.org/statuses/37308"
   ]
 }

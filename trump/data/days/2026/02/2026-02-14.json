@@ -6,20 +6,14 @@
     "negative": 0
   },
   "summary": "positive:0 neutral:1 negative:0",
-  "generatedAt": "2026-09-07T15:37:49.614Z",
+  "generatedAt": "2026-09-08T08:01:34.517Z",
   "topics": [
-    "Compares mortgage rates under Joe Biden and Donald Trump"
+    "Contrasts Trump’s 5% mortgage rate with Biden-era rates of 6% to 8%"
   ],
-  "trendingTopic": "Graphic compares mortgage rates attributed to Joe Biden and Donald Trump",
-  "trendingName": "Joe Biden",
-  "secondaryHighlights": [
-    {
-      "topic": "[Image] The image displays a graphic comparing mortgage rates associated with two political figures"
-    }
-  ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:1:d469778d81634663d406ff99",
-  "selfPraiseCacheKey": "self-praise-v1:1:d469778d81634663d406ff99",
+  "trendingTopic": "Contrasts Donald Trump’s 5% mortgage rate with Joe Biden’s higher mortgage rates",
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v11:1:d469778d81634663d406ff99",
+  "selfPraiseCacheKey": "self-praise-v2:1:d469778d81634663d406ff99",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36707",
@@ -50,6 +44,14 @@
       "label": "neutral",
       "rationale": "The text contains no content or sentiment indicators, making it neutral.",
       "analyzedAt": "2026-09-06T06:51:55.159Z"
+    }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/36707"
+  ],
+  "secondaryHighlights": [
+    {
+      "topic": "[Image] The image displays a graphic comparing mortgage rates associated with two political figures"
     }
   ]
 }

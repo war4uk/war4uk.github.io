@@ -6,24 +6,27 @@
     "negative": 5
   },
   "summary": "positive:7 neutral:10 negative:5",
-  "generatedAt": "2026-09-07T15:16:42.675Z",
+  "generatedAt": "2026-09-08T08:02:49.271Z",
   "topics": [
-    "Critiques Supreme Court Justices for tariff decisions and expresses disappointment",
-    "Endorses Dan Patrick for re-election as Texas Lieutenant Governor",
-    "Discusses polling data for Republican primaries in Indiana"
+    "Indiana polling shows Trump endorsements could reshape six Republican state Senate primaries",
+    "Trump raises worldwide tariffs to 15% after Supreme Court ruling",
+    "Trump endorses Greg Abbott and Dan Patrick for reelection in Texas"
   ],
-  "trendingTopic": "Critiques Supreme Court Justices for tariff decisions and expresses disappointment",
+  "trendingTopic": "Indiana polling shows Trump endorsements could reshape six Republican state Senate primaries",
   "secondaryHighlights": [
     {
-      "topic": "Endorses Dan Patrick for re-election as Texas Lieutenant Governor"
+      "topic": "Trump raises worldwide tariffs to 15% after Supreme Court ruling"
     },
     {
-      "topic": "Discusses polling data for Republican primaries in Indiana"
+      "topic": "Trump endorses Greg Abbott and Dan Patrick for reelection in Texas"
+    },
+    {
+      "topic": "CIA retracts or revises intelligence reports over alleged Obama-Biden-era political bias"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:22:9efbdc7f3c02e4d65831d18e",
-  "selfPraiseCacheKey": "self-praise-v1:22:9efbdc7f3c02e4d65831d18e",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:22:9efbdc7f3c02e4d65831d18e",
+  "selfPraiseCacheKey": "self-praise-v2:22:9efbdc7f3c02e4d65831d18e",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36833",
@@ -583,5 +586,10 @@
       "rationale": "The text expresses strong negative sentiments towards Susan Rice, calling her a 'political hack' and questioning her talent.",
       "analyzedAt": "2026-09-06T06:53:43.000Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/36836",
+    "https://www.trumpstruth.org/statuses/36844",
+    "https://www.trumpstruth.org/statuses/36852"
   ]
 }

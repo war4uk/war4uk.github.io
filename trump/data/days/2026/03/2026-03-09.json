@@ -6,24 +6,27 @@
     "negative": 3
   },
   "summary": "positive:4 neutral:7 negative:3",
-  "generatedAt": "2026-09-07T15:17:25.288Z",
+  "generatedAt": "2026-09-08T08:06:49.658Z",
   "topics": [
-    "Calls for the passage of the Save America Act with voter ID requirements",
-    "Concerns over the Iranian National Women’s Soccer Team facing threats",
-    "FBI seizes election records in Arizona amid voting probe"
+    "Criticizes Democrats over the DHS shutdown, airport security concerns, and midterm election politics",
+    "Pressures Australia to grant asylum to Iran’s national women’s soccer team",
+    "Promotes the Save America Act requiring voter ID and citizenship proof"
   ],
-  "trendingTopic": "Calls for the passage of the Save America Act with voter ID requirements",
+  "trendingTopic": "Trump pressures Australia to grant asylum to Iran’s national women’s soccer team",
   "secondaryHighlights": [
     {
-      "topic": "Concerns over the Iranian National Women’s Soccer Team facing threats"
+      "topic": "Criticizes Democrats over the DHS shutdown, airport security concerns, and midterm election politics"
     },
     {
-      "topic": "FBI seizes election records in Arizona amid voting probe"
+      "topic": "Promotes the Save America Act requiring voter ID and citizenship proof"
+    },
+    {
+      "topic": "Shares videos about Kim Clement’s prophecy and Donald Trump’s Bible"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:14:43b1680df30191424fa12228",
-  "selfPraiseCacheKey": "self-praise-v1:14:43b1680df30191424fa12228",
+  "topicsCacheKey": "day-themes-v11:14:43b1680df30191424fa12228",
+  "selfPraiseCacheKey": "self-praise-v2:14:43b1680df30191424fa12228",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37209",
@@ -383,5 +386,8 @@
       "rationale": "The text discusses criminal charges against a person related to Trump, indicating a negative sentiment.",
       "analyzedAt": "2026-09-06T06:57:29.481Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/37209"
   ]
 }

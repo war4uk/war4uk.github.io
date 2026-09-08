@@ -6,26 +6,28 @@
     "negative": 2
   },
   "summary": "positive:2 neutral:16 negative:2",
-  "generatedAt": "2026-09-07T15:16:33.924Z",
+  "generatedAt": "2026-09-08T08:02:17.126Z",
   "topics": [
-    "David Shafer stands firm against Fani Willis's threats regarding Trump support",
-    "Concerns raised over election integrity and calls for the SAVE Act",
-    "Kid Rock achieves first No. 1 on Hot Christian Songs chart"
+    "Trump and Georgia Republicans call for state takeover of Fulton County elections after an FBI raid",
+    "Trump promotes construction of a taxpayer-free ballroom at the White House",
+    "Trump warns Keir Starmer against leasing Diego Garcia to an unknown claimant"
   ],
-  "trendingTopic": "David Shafer stands firm against Fani Willis's threats regarding Trump support",
-  "trendingName": "David Shafer",
+  "trendingTopic": "Trump and Georgia Republicans call for state takeover of Fulton County elections after an FBI raid",
   "secondaryHighlights": [
     {
-      "topic": "Concerns raised over election integrity and calls for the SAVE Act"
+      "topic": "Trump promotes construction of a taxpayer-free ballroom at the White House"
     },
     {
-      "topic": "Kid Rock achieves first No. 1 on Hot Christian Songs chart",
+      "topic": "Trump warns Keir Starmer against leasing Diego Garcia to an unknown claimant"
+    },
+    {
+      "topic": "Trump congratulates Kid Rock on reaching number one and celebrates strong Super Bowl ratings",
       "name": "Kid Rock"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:20:a6d1a05082aa41aa7cd7c6d6",
-  "selfPraiseCacheKey": "self-praise-v1:20:a6d1a05082aa41aa7cd7c6d6",
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v11:20:a6d1a05082aa41aa7cd7c6d6",
+  "selfPraiseCacheKey": "self-praise-v2:20:a6d1a05082aa41aa7cd7c6d6",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36787",
@@ -553,5 +555,8 @@
       "rationale": "The statement expresses excitement about a new ballroom being built, emphasizing that it is fully funded by donors and costs nothing to taxpayers.",
       "analyzedAt": "2026-09-06T06:53:08.492Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/36806"
   ]
 }

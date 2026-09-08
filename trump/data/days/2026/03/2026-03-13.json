@@ -6,25 +6,24 @@
     "negative": 3
   },
   "summary": "positive:7 neutral:8 negative:3",
-  "generatedAt": "2026-09-07T15:17:34.657Z",
+  "generatedAt": "2026-09-08T08:07:40.590Z",
   "topics": [
-    "Announces new Chief Operating Officer for the Trump Kennedy Center",
-    "Endorses Jon Maples for Florida's 87th State House District",
-    "Discusses military actions against Iran and its implications"
+    "Trump intensifies military campaign against Iran with strikes on Kharg Island and warnings over nuclear weapons",
+    "Trump endorses Stephanie Bice, Mike Rogers, and Jon Maples for 2026 elections",
+    "Trump announces reconstruction and leadership changes at the Kennedy Center"
   ],
-  "trendingTopic": "Announces new Chief Operating Officer for the Trump Kennedy Center",
-  "trendingName": "Matt Floca",
+  "trendingTopic": "Trump intensifies military campaign against Iran, destroys Kharg Island targets, and vows Tehran will never obtain nuclear weapons",
   "secondaryHighlights": [
     {
-      "topic": "Endorses Jon Maples for Florida's 87th State House District"
+      "topic": "Trump endorses Stephanie Bice, Mike Rogers, and Jon Maples for 2026 elections"
     },
     {
-      "topic": "Discusses military actions against Iran and its implications"
+      "topic": "Trump announces reconstruction and leadership changes at the Kennedy Center"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:18:63b9ee9f9181b46cc82be523",
-  "selfPraiseCacheKey": "self-praise-v1:18:63b9ee9f9181b46cc82be523",
+  "selfPraiseCount": 8,
+  "topicsCacheKey": "day-themes-v11:18:63b9ee9f9181b46cc82be523",
+  "selfPraiseCacheKey": "self-praise-v2:18:63b9ee9f9181b46cc82be523",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37265",
@@ -477,5 +476,15 @@
       "rationale": "The statement reflects strong support for stopping Iran from acquiring nuclear weapons, indicating a positive sentiment.",
       "analyzedAt": "2026-09-06T06:58:22.180Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/37298",
+    "https://www.trumpstruth.org/statuses/37266",
+    "https://www.trumpstruth.org/statuses/37272",
+    "https://www.trumpstruth.org/statuses/37273",
+    "https://www.trumpstruth.org/statuses/37277",
+    "https://www.trumpstruth.org/statuses/37280",
+    "https://www.trumpstruth.org/statuses/37281",
+    "https://www.trumpstruth.org/statuses/37282"
   ]
 }

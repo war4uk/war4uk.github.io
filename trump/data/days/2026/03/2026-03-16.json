@@ -6,25 +6,29 @@
     "negative": 2
   },
   "summary": "positive:7 neutral:6 negative:2",
-  "generatedAt": "2026-09-07T15:17:38.973Z",
+  "generatedAt": "2026-09-08T08:08:13.293Z",
   "topics": [
-    "Trump criticizes judicial system and expresses gratitude to Supreme Court Justices",
-    "Mark Levin praised as a Great American Patriot",
-    "Susie Wiles diagnosed with early stage breast cancer"
+    "Trump draws enthusiastic crowd reaction during national anthem at College Football Championship in Miami",
+    "FBI records show Jack Smith pursued McCarthy’s phone records and met Wray in January 6 probe",
+    "Trump announces Chief of Staff Susie Wiles is undergoing treatment for early-stage breast cancer"
   ],
-  "trendingTopic": "Trump criticizes judicial system and expresses gratitude to Supreme Court Justices",
+  "trendingTopic": "Trump draws enthusiastic crowd reaction during national anthem at College Football Championship in Miami",
   "secondaryHighlights": [
     {
-      "topic": "Mark Levin praised as a Great American Patriot",
-      "name": "Mark Levin"
+      "topic": "Trump endorses Michael Whatley for Senate in North Carolina",
+      "name": "Michael Whatley"
     },
     {
-      "topic": "Susie Wiles diagnosed with early stage breast cancer"
+      "topic": "Trump accuses Democrats of blocking TSA pay to fund sanctuary cities and illegal immigration"
+    },
+    {
+      "topic": "Trump strongly defends Mark Levin against conservative critics",
+      "name": "Mark Levin"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:15:5d92023ae40204be1d35478c",
-  "selfPraiseCacheKey": "self-praise-v1:15:5d92023ae40204be1d35478c",
+  "selfPraiseCount": 6,
+  "topicsCacheKey": "day-themes-v11:15:5d92023ae40204be1d35478c",
+  "selfPraiseCacheKey": "self-praise-v2:15:5d92023ae40204be1d35478c",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37310",
@@ -401,5 +405,13 @@
       "rationale": "The text indicates NATO's rejection of Trump's proposal, which can be interpreted negatively.",
       "analyzedAt": "2026-09-06T06:58:52.844Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/37310",
+    "https://www.trumpstruth.org/statuses/37314",
+    "https://www.trumpstruth.org/statuses/37316",
+    "https://www.trumpstruth.org/statuses/37323",
+    "https://www.trumpstruth.org/statuses/37322",
+    "https://www.trumpstruth.org/statuses/37321"
   ]
 }

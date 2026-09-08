@@ -6,24 +6,25 @@
     "negative": 6
   },
   "summary": "positive:8 neutral:14 negative:6",
-  "generatedAt": "2026-09-07T15:17:29.950Z",
+  "generatedAt": "2026-09-08T08:07:19.824Z",
   "topics": [
-    "Endorses multiple candidates in congressional races across the U.S.",
-    "Criticizes Congressman Thomas Massie and supports his primary opponent",
-    "Visits Ohio to promote a $2 billion investment in U.S. manufacturing"
+    "Trump-endorsed candidates sweep Mississippi and Georgia primaries with five victories",
+    "Trump endorses congressional candidates in Texas, North Carolina, and South Dakota",
+    "Trump backs Ed Gallrein in his Kentucky primary challenge to Thomas Massie"
   ],
-  "trendingTopic": "Endorses multiple candidates in congressional races across the U.S.",
+  "trendingTopic": "Trump-endorsed candidates sweep Mississippi and Georgia primaries with five victories",
   "secondaryHighlights": [
     {
-      "topic": "Criticizes Congressman Thomas Massie and supports his primary opponent"
+      "topic": "Trump endorses congressional candidates in Texas, North Carolina, and South Dakota"
     },
     {
-      "topic": "Visits Ohio to promote a $2 billion investment in U.S. manufacturing"
+      "topic": "Trump backs Ed Gallrein in his Kentucky primary challenge to Thomas Massie",
+      "name": "Ed Gallrein"
     }
   ],
-  "selfPraiseCount": 4,
-  "topicsCacheKey": "day-themes-v10:28:e943462f206f9ff1aee4f98b",
-  "selfPraiseCacheKey": "self-praise-v1:28:e943462f206f9ff1aee4f98b",
+  "selfPraiseCount": 9,
+  "topicsCacheKey": "day-themes-v11:28:e943462f206f9ff1aee4f98b",
+  "selfPraiseCacheKey": "self-praise-v2:28:e943462f206f9ff1aee4f98b",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37232",
@@ -735,5 +736,16 @@
       "rationale": "The text criticizes Gavin Newsom harshly, calling his interview self-destructive and labeling him as a 'Cognitive Mess' and a racist, indicating strong negative sentiment.",
       "analyzedAt": "2026-09-06T06:58:00.557Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/37233",
+    "https://www.trumpstruth.org/statuses/37235",
+    "https://www.trumpstruth.org/statuses/37236",
+    "https://www.trumpstruth.org/statuses/37242",
+    "https://www.trumpstruth.org/statuses/37249",
+    "https://www.trumpstruth.org/statuses/37248",
+    "https://www.trumpstruth.org/statuses/37253",
+    "https://www.trumpstruth.org/statuses/37254",
+    "https://www.trumpstruth.org/statuses/37258"
   ]
 }

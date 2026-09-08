@@ -6,24 +6,27 @@
     "negative": 4
   },
   "summary": "positive:2 neutral:0 negative:4",
-  "generatedAt": "2026-09-07T15:37:52.821Z",
+  "generatedAt": "2026-09-08T08:01:55.175Z",
   "topics": [
-    "Critiques the Gateway project in New York/New Jersey for its projected costs",
-    "Highlights ecological disaster in the Potomac River due to local leadership",
-    "Comments on Democrats' opposition to Voter I.D. laws"
+    "Praises Nicole Parker and investigators working on the Nancy Guthrie case",
+    "Opposes federal responsibility for Gateway project cost overruns in New York and New Jersey",
+    "Promises voter ID and citizenship requirements for midterm elections while limiting mail-in voting"
   ],
-  "trendingTopic": "Critiques the Gateway project in New York/New Jersey for its projected costs",
+  "trendingTopic": "Trump praises Nicole Parker and other investigators working on the Nancy Guthrie case",
   "secondaryHighlights": [
     {
-      "topic": "Highlights ecological disaster in the Potomac River due to local leadership"
+      "topic": "Directs federal authorities to coordinate response to Maryland sewage spill threatening the Potomac River"
     },
     {
-      "topic": "Comments on Democrats' opposition to Voter I.D. laws"
+      "topic": "Criticizes Democratic figures over their conduct and comments at the Munich conference"
+    },
+    {
+      "topic": "Claims inflation, crime, border conditions, and national strength have improved on Presidents Day"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:6:3fa152f9b2c75865d8275843",
-  "selfPraiseCacheKey": "self-praise-v1:6:3fa152f9b2c75865d8275843",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:6:3fa152f9b2c75865d8275843",
+  "selfPraiseCacheKey": "self-praise-v2:6:3fa152f9b2c75865d8275843",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36710",
@@ -171,5 +174,9 @@
       "rationale": "The text expresses strong negative sentiments towards AOC, Newscum, and Crooked Hillary, labeling them as embarrassments and fools, indicating a negative view of their actions.",
       "analyzedAt": "2026-09-06T06:52:10.442Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/36712",
+    "https://www.trumpstruth.org/statuses/36714"
   ]
 }

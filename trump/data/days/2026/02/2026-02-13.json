@@ -6,25 +6,29 @@
     "negative": 4
   },
   "summary": "positive:2 neutral:3 negative:4",
-  "generatedAt": "2026-09-07T15:37:48.888Z",
+  "generatedAt": "2026-09-08T08:01:31.307Z",
   "topics": [
-    "Praises Viktor Orbán as a strong leader and ally for Hungary",
-    "Criticizes Democrats for opposing Voter ID laws and election integrity",
-    "Condemns Governor Roy Cooper for releasing a violent offender"
+    "Vows to impose voter ID, citizenship verification, and tighter ballot rules before the midterm elections",
+    "Endorses Michael Whatley for North Carolina Senate amid attacks on Roy Cooper’s crime record",
+    "Endorses Viktor Orbán for reelection as Hungary’s prime minister"
   ],
-  "trendingTopic": "Praises Viktor Orbán as a strong leader and ally for Hungary",
-  "trendingName": "Viktor Orbán",
+  "trendingTopic": "Trump vows to impose voter ID and citizenship requirements before the midterm elections",
   "secondaryHighlights": [
     {
-      "topic": "Criticizes Democrats for opposing Voter ID laws and election integrity"
+      "topic": "Endorses Michael Whatley for North Carolina Senate amid attacks on Roy Cooper’s crime record",
+      "name": "Michael Whatley"
     },
     {
-      "topic": "Condemns Governor Roy Cooper for releasing a violent offender"
+      "topic": "Endorses Viktor Orbán for reelection as Hungary’s prime minister",
+      "name": "Viktor Orbán"
+    },
+    {
+      "topic": "Announces a 314-prisoner exchange involving the United States, Ukraine, and Russia"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:9:4a47c279eead4b363a2b21fd",
-  "selfPraiseCacheKey": "self-praise-v1:9:4a47c279eead4b363a2b21fd",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:9:4a47c279eead4b363a2b21fd",
+  "selfPraiseCacheKey": "self-praise-v2:9:4a47c279eead4b363a2b21fd",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36698",
@@ -256,5 +260,10 @@
       "rationale": "The text is empty and does not convey any sentiment.",
       "analyzedAt": "2026-09-06T06:51:48.217Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/36698",
+    "https://www.trumpstruth.org/statuses/36702",
+    "https://www.trumpstruth.org/statuses/36706"
   ]
 }

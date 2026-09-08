@@ -6,25 +6,24 @@
     "negative": 4
   },
   "summary": "positive:4 neutral:16 negative:4",
-  "generatedAt": "2026-09-07T15:16:48.306Z",
+  "generatedAt": "2026-09-08T08:03:10.800Z",
   "topics": [
-    "Border Patrol Union expresses strong support for Donald Trump amid criticism of Biden administration",
-    "Byron Donalds announces candidacy for Governor of Florida",
-    "Concerns raised over environmental issues at The Great Salt Lake in Utah"
+    "Trump attacks Supreme Court while claiming its ruling strengthens his tariff authority against foreign countries",
+    "Massachusetts reports millions in SNAP and MassHealth fraud, with whistleblowers detailing the schemes",
+    "Border Patrol union backs Trump as supporters demand tougher action against cartels and drugs"
   ],
-  "trendingTopic": "Border Patrol Union expresses strong support for Donald Trump amid criticism of Biden administration",
+  "trendingTopic": "Trump attacks Supreme Court while claiming its ruling strengthens his tariff authority against foreign countries",
   "secondaryHighlights": [
     {
-      "topic": "Byron Donalds announces candidacy for Governor of Florida",
-      "name": "Byron Donalds"
+      "topic": "Massachusetts reports millions in SNAP and MassHealth fraud, with whistleblowers detailing the schemes"
     },
     {
-      "topic": "Concerns raised over environmental issues at The Great Salt Lake in Utah"
+      "topic": "Border Patrol union backs Trump as supporters demand tougher action against cartels and drugs"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:24:76b47f0d84098d388b6c6957",
-  "selfPraiseCacheKey": "self-praise-v1:24:76b47f0d84098d388b6c6957",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:24:76b47f0d84098d388b6c6957",
+  "selfPraiseCacheKey": "self-praise-v2:24:76b47f0d84098d388b6c6957",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36863",
@@ -637,5 +636,10 @@
       "rationale": "The text expresses a strong commitment to environmental issues and a positive view of the people of Utah, indicating a proactive approach to saving the Great Salt Lake.",
       "analyzedAt": "2026-09-06T06:54:06.489Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/36861",
+    "https://www.trumpstruth.org/statuses/36872",
+    "https://www.trumpstruth.org/statuses/36871"
   ]
 }

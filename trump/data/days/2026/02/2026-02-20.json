@@ -6,25 +6,24 @@
     "negative": 2
   },
   "summary": "positive:4 neutral:8 negative:2",
-  "generatedAt": "2026-09-07T15:16:40.705Z",
+  "generatedAt": "2026-09-08T08:02:37.466Z",
   "topics": [
-    "Announces approval for the construction of the Greatest Ballroom ever built",
-    "Calls for immediate action on the Toxic River spill in Maryland",
-    "Promises support for East Palestine, Ohio residents affected by environmental issues"
+    "Donald Trump receives approval for a new White House ballroom",
+    "Donald Trump signs a global 10% tariff on all countries",
+    "Donald Trump orders process to release government UFO and extraterrestrial-life files"
   ],
-  "trendingTopic": "Announces approval for the construction of the Greatest Ballroom ever built",
+  "trendingTopic": "Donald Trump receives Commission of Fine Arts approval for a new White House ballroom",
   "secondaryHighlights": [
     {
-      "topic": "Calls for immediate action on the Toxic River spill in Maryland",
-      "name": "Wes Moore"
+      "topic": "Donald Trump signs a global 10% tariff on all countries"
     },
     {
-      "topic": "Promises support for East Palestine, Ohio residents affected by environmental issues"
+      "topic": "Donald Trump orders process to release government UFO and extraterrestrial-life files"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:14:3c33b49309acb8c7ab3aed65",
-  "selfPraiseCacheKey": "self-praise-v1:14:3c33b49309acb8c7ab3aed65",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:14:3c33b49309acb8c7ab3aed65",
+  "selfPraiseCacheKey": "self-praise-v2:14:3c33b49309acb8c7ab3aed65",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36821",
@@ -376,5 +375,9 @@
       "rationale": "The statement expresses a sense of honor and accomplishment in signing a significant tariff, indicating a positive sentiment.",
       "analyzedAt": "2026-09-06T06:53:29.331Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/36822",
+    "https://www.trumpstruth.org/statuses/36825"
   ]
 }

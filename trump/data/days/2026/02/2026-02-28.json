@@ -6,27 +6,24 @@
     "negative": 2
   },
   "summary": "positive:4 neutral:7 negative:2",
-  "generatedAt": "2026-09-07T15:17:03.074Z",
+  "generatedAt": "2026-09-08T08:04:12.709Z",
   "topics": [
-    "Endorses Don Huffines for Texas Comptroller",
-    "Endorses Dr. Dawn Buckingham for Texas Land Commissioner",
-    "Endorses Sid Miller for Texas Agriculture Commissioner"
+    "Endorses Don Huffines, Dawn Buckingham, and Sid Miller for Texas statewide offices",
+    "Declares Ayatollah Khamenei dead after U.S.-Israeli strikes and calls for Iran’s overthrow",
+    "Claims Minnesota autism payments reveal a giant scam and demands arrests"
   ],
-  "trendingTopic": "Endorses Don Huffines for Texas Comptroller",
-  "trendingName": "Don Huffines",
+  "trendingTopic": "Endorses Don Huffines, Dawn Buckingham, and Sid Miller for Texas statewide offices",
   "secondaryHighlights": [
     {
-      "topic": "Endorses Dr. Dawn Buckingham for Texas Land Commissioner",
-      "name": "Dr. Dawn Buckingham"
+      "topic": "Declares Ayatollah Khamenei dead after U.S.-Israeli strikes and calls for Iran’s overthrow"
     },
     {
-      "topic": "Endorses Sid Miller for Texas Agriculture Commissioner",
-      "name": "Sid Miller"
+      "topic": "Claims Minnesota autism payments reveal a giant scam and demands arrests"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:13:28ad7a98746bd797524908b6",
-  "selfPraiseCacheKey": "self-praise-v1:13:28ad7a98746bd797524908b6",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:13:28ad7a98746bd797524908b6",
+  "selfPraiseCacheKey": "self-praise-v2:13:28ad7a98746bd797524908b6",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36987",
@@ -346,5 +343,10 @@
       "rationale": "The text expresses a strong sense of justice and hope for the Iranian people following the death of Khamenei, portraying it as a positive turning point for the country.",
       "analyzedAt": "2026-09-06T06:55:14.710Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/36989",
+    "https://www.trumpstruth.org/statuses/36988",
+    "https://www.trumpstruth.org/statuses/36990"
   ]
 }

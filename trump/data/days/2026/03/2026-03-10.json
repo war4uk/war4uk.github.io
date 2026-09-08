@@ -6,24 +6,21 @@
     "negative": 3
   },
   "summary": "positive:5 neutral:2 negative:3",
-  "generatedAt": "2026-09-07T15:17:27.580Z",
+  "generatedAt": "2026-09-08T08:07:01.517Z",
   "topics": [
-    "Supports military action against Iran to protect oil flow in the Strait of Hormuz",
-    "Announces opening of new U.S. oil refinery in Texas",
-    "Highlights Memphis Safe Task Force's crime reduction efforts"
+    "Trump threatens Iran with severe retaliation over Hormuz mines and reports destroying mine-laying vessels",
+    "Trump highlights Memphis Safe Task Force arrests, firearm seizures, deportations, and recovered children",
+    "Trump announces a $300 billion refinery project in Brownsville, Texas, with Reliance"
   ],
-  "trendingTopic": "Supports military action against Iran to protect oil flow in the Strait of Hormuz",
+  "trendingTopic": "Trump threatens Iran with severe retaliation over Hormuz mines and reports destroying mine-laying vessels",
   "secondaryHighlights": [
     {
-      "topic": "Announces opening of new U.S. oil refinery in Texas"
-    },
-    {
-      "topic": "Highlights Memphis Safe Task Force's crime reduction efforts"
+      "topic": "Trump works with governors to combat Asian carp in the Great Lakes and water loss in the Great Salt Lake"
     }
   ],
   "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:10:e5cbe54f00f12fff11e303f0",
-  "selfPraiseCacheKey": "self-praise-v1:10:e5cbe54f00f12fff11e303f0",
+  "topicsCacheKey": "day-themes-v11:10:e5cbe54f00f12fff11e303f0",
+  "selfPraiseCacheKey": "self-praise-v2:10:e5cbe54f00f12fff11e303f0",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37223",
@@ -276,5 +273,10 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-06T06:57:38.831Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/37223",
+    "https://www.trumpstruth.org/statuses/37225",
+    "https://www.trumpstruth.org/statuses/37230"
   ]
 }

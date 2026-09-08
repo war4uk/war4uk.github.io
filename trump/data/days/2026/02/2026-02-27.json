@@ -6,24 +6,27 @@
     "negative": 8
   },
   "summary": "positive:42 neutral:27 negative:8",
-  "generatedAt": "2026-09-07T15:17:00.230Z",
+  "generatedAt": "2026-09-08T08:04:00.623Z",
   "topics": [
-    "Trump's State of the Union address highlights key issues and criticisms of Democrats",
-    "Allegations of electoral fraud in the 2024 election and reactions to Trump's legal challenges",
-    "Endorsements of various America First candidates in Texas congressional districts"
+    "Trump endorses Texas congressional candidates and backs Abbott and Patrick for reelection",
+    "Trump’s State of the Union address draws praise while Democrats face criticism",
+    "Trump attacks Supreme Court tariff ruling and thanks dissenting Justices Thomas and Kavanaugh"
   ],
-  "trendingTopic": "Trump's State of the Union address highlights key issues and criticisms of Democrats",
+  "trendingTopic": "Trump endorses Texas congressional candidates and backs Abbott and Patrick for reelection",
   "secondaryHighlights": [
     {
-      "topic": "Allegations of electoral fraud in the 2024 election and reactions to Trump's legal challenges"
+      "topic": "Trump’s State of the Union address draws praise while Democrats face criticism"
     },
     {
-      "topic": "Endorsements of various America First candidates in Texas congressional districts"
+      "topic": "Trump attacks Supreme Court tariff ruling and thanks dissenting Justices Thomas and Kavanaugh"
+    },
+    {
+      "topic": "Trump administration challenges Apple News over alleged political bias against conservative outlets"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:77:fba7f5c41a63908b90e66b10",
-  "selfPraiseCacheKey": "self-praise-v1:77:fba7f5c41a63908b90e66b10",
+  "selfPraiseCount": 15,
+  "topicsCacheKey": "day-themes-v11:77:fba7f5c41a63908b90e66b10",
+  "selfPraiseCacheKey": "self-praise-v2:77:fba7f5c41a63908b90e66b10",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36907",
@@ -1930,5 +1933,22 @@
       "rationale": "The text expresses disappointment and frustration with the Supreme Court's decision regarding tariffs, indicating that it could lead to undeserved financial benefits for countries and companies that have exploited the U.S.",
       "analyzedAt": "2026-09-06T06:54:51.638Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/36915",
+    "https://www.trumpstruth.org/statuses/36914",
+    "https://www.trumpstruth.org/statuses/36917",
+    "https://www.trumpstruth.org/statuses/36916",
+    "https://www.trumpstruth.org/statuses/36923",
+    "https://www.trumpstruth.org/statuses/36921",
+    "https://www.trumpstruth.org/statuses/36920",
+    "https://www.trumpstruth.org/statuses/36919",
+    "https://www.trumpstruth.org/statuses/36929",
+    "https://www.trumpstruth.org/statuses/36927",
+    "https://www.trumpstruth.org/statuses/36960",
+    "https://www.trumpstruth.org/statuses/36970",
+    "https://www.trumpstruth.org/statuses/36974",
+    "https://www.trumpstruth.org/statuses/36973",
+    "https://www.trumpstruth.org/statuses/36975"
   ]
 }

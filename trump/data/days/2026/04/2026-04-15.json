@@ -6,25 +6,25 @@
     "negative": 6
   },
   "summary": "positive:5 neutral:9 negative:6",
-  "generatedAt": "2026-09-07T15:17:49.275Z",
+  "generatedAt": "2026-09-08T08:08:53.949Z",
   "topics": [
-    "Condemns Iran for killing unarmed protesters and nuclear ambitions",
-    "Critiques NATO's reliability and support",
-    "Discusses potential impeachment expungement for Trump"
+    "Trump links Iran’s nuclear threat to oil pressure and China cooperation over the Strait of Hormuz",
+    "Posts criticize Obama-era immigration policies, media portrayals, and doubts about Trump’s presidency",
+    "Trump urges House Republicans to pass a clean extension of FISA Section 702"
   ],
-  "trendingTopic": "Condemns Iran for killing unarmed protesters and nuclear ambitions",
+  "trendingTopic": "Trump links Iran’s nuclear threat to oil pressure and China cooperation over the Strait of Hormuz",
   "secondaryHighlights": [
     {
-      "topic": "Critiques NATO's reliability and support"
+      "topic": "Posts criticize Obama-era immigration policies, media portrayals, and doubts about Trump’s presidency",
+      "name": "Barack Obama"
     },
     {
-      "topic": "Discusses potential impeachment expungement for Trump",
-      "name": "Alan Dershowitz"
+      "topic": "Trump urges House Republicans to pass a clean extension of FISA Section 702"
     }
   ],
   "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:20:42bf5fcb2c9c3442ce8b4088",
-  "selfPraiseCacheKey": "self-praise-v1:20:42bf5fcb2c9c3442ce8b4088",
+  "topicsCacheKey": "day-themes-v11:20:42bf5fcb2c9c3442ce8b4088",
+  "selfPraiseCacheKey": "self-praise-v2:20:42bf5fcb2c9c3442ce8b4088",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37771",
@@ -528,5 +528,9 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:45:10.045Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/37783",
+    "https://www.trumpstruth.org/statuses/37786"
   ]
 }

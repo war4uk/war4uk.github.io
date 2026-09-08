@@ -6,24 +6,24 @@
     "negative": 3
   },
   "summary": "positive:10 neutral:20 negative:3",
-  "generatedAt": "2026-09-07T15:17:05.653Z",
+  "generatedAt": "2026-09-08T08:04:47.334Z",
   "topics": [
-    "Trump's military actions against Iran and the destruction of their naval ships",
-    "Trump's recent speech praised by supporters for its patriotic themes",
-    "Lady Gaga's father endorses Trump for the 2024 race"
+    "Trump touts attacks on Iran, including nine sunk naval ships, and warns of unprecedented retaliation",
+    "Trump’s 2026 State of the Union address draws widespread praise from conservative commentators",
+    "Trump highlights victims of illegal immigrant crime and declares National Angel Family Day"
   ],
-  "trendingTopic": "Trump's military actions against Iran and the destruction of their naval ships",
+  "trendingTopic": "Trump touts attacks on Iran, including nine sunk naval ships, and warns of unprecedented retaliation",
   "secondaryHighlights": [
     {
-      "topic": "Trump's recent speech praised by supporters for its patriotic themes"
+      "topic": "Trump’s 2026 State of the Union address draws widespread praise from conservative commentators"
     },
     {
-      "topic": "Lady Gaga's father endorses Trump for the 2024 race"
+      "topic": "Trump highlights victims of illegal immigrant crime and declares National Angel Family Day"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:33:d543d5d12ebfbfc52750886d",
-  "selfPraiseCacheKey": "self-praise-v1:33:d543d5d12ebfbfc52750886d",
+  "selfPraiseCount": 19,
+  "topicsCacheKey": "day-themes-v11:33:d543d5d12ebfbfc52750886d",
+  "selfPraiseCacheKey": "self-praise-v2:33:d543d5d12ebfbfc52750886d",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37004",
@@ -875,5 +875,26 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-06T06:55:33.160Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/37004",
+    "https://www.trumpstruth.org/statuses/37001",
+    "https://www.trumpstruth.org/statuses/37003",
+    "https://www.trumpstruth.org/statuses/37008",
+    "https://www.trumpstruth.org/statuses/37015",
+    "https://www.trumpstruth.org/statuses/37014",
+    "https://www.trumpstruth.org/statuses/37011",
+    "https://www.trumpstruth.org/statuses/37021",
+    "https://www.trumpstruth.org/statuses/37020",
+    "https://www.trumpstruth.org/statuses/37019",
+    "https://www.trumpstruth.org/statuses/37018",
+    "https://www.trumpstruth.org/statuses/37017",
+    "https://www.trumpstruth.org/statuses/37016",
+    "https://www.trumpstruth.org/statuses/37026",
+    "https://www.trumpstruth.org/statuses/37025",
+    "https://www.trumpstruth.org/statuses/37024",
+    "https://www.trumpstruth.org/statuses/37023",
+    "https://www.trumpstruth.org/statuses/37022",
+    "https://www.trumpstruth.org/statuses/37027"
   ]
 }

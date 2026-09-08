@@ -359,23 +359,23 @@
       },
       "summary": "positive:12 neutral:5 negative:2",
       "topics": [
-        "Endorses multiple candidates for Congress across various states",
-        "Discusses the Biden administration's alleged infringement on pro-life rights",
-        "Comments on energy issues in Europe and the UK"
+        "Trump endorses nine Republican congressional candidates across seven states",
+        "Trump backs expunging his 2019 impeachment after bombshell evidence",
+        "Trump touts his administration's border record while attacking Democrats"
       ],
       "postsCount": 19,
       "hasDetail": true,
-      "generatedAt": "2026-09-07T15:17:47.291Z",
-      "trendingTopic": "Endorses multiple candidates for Congress across various states",
+      "generatedAt": "2026-09-08T08:08:35.760Z",
+      "trendingTopic": "Donald Trump endorses nine Republican congressional candidates across seven states for the 2026 midterms",
       "secondaryHighlights": [
         {
-          "topic": "Discusses the Biden administration's alleged infringement on pro-life rights"
+          "topic": "Trump considers expunging his 2019 impeachment after alleged bombshell evidence emerges"
         },
         {
-          "topic": "Comments on energy issues in Europe and the UK"
+          "topic": "Trump says Democrats were disastrous on the border while touting his administration's record"
         }
       ],
-      "selfPraiseCount": 0
+      "selfPraiseCount": 1
     },
     {
       "date": "2026-04-15",
@@ -386,21 +386,21 @@
       },
       "summary": "positive:5 neutral:9 negative:6",
       "topics": [
-        "Condemns Iran for killing unarmed protesters and nuclear ambitions",
-        "Critiques NATO's reliability and support",
-        "Discusses potential impeachment expungement for Trump"
+        "Trump links Iran’s nuclear threat to oil pressure and China cooperation over the Strait of Hormuz",
+        "Posts criticize Obama-era immigration policies, media portrayals, and doubts about Trump’s presidency",
+        "Trump urges House Republicans to pass a clean extension of FISA Section 702"
       ],
       "postsCount": 20,
       "hasDetail": true,
-      "generatedAt": "2026-09-07T15:17:49.275Z",
-      "trendingTopic": "Condemns Iran for killing unarmed protesters and nuclear ambitions",
+      "generatedAt": "2026-09-08T08:08:53.949Z",
+      "trendingTopic": "Trump links Iran’s nuclear threat to oil pressure and China cooperation over the Strait of Hormuz",
       "secondaryHighlights": [
         {
-          "topic": "Critiques NATO's reliability and support"
+          "topic": "Posts criticize Obama-era immigration policies, media portrayals, and doubts about Trump’s presidency",
+          "name": "Barack Obama"
         },
         {
-          "topic": "Discusses potential impeachment expungement for Trump",
-          "name": "Alan Dershowitz"
+          "topic": "Trump urges House Republicans to pass a clean extension of FISA Section 702"
         }
       ],
       "selfPraiseCount": 2
@@ -844,18 +844,15 @@
       "selfPraiseCount": 2
     }
   ],
-  "generatedAt": "2026-09-07T18:11:55.764Z",
-  "trendingTopic": "Trump escalates confrontation with Iran through blockades, ceasefires, nuclear pressure, and Strait of Hormuz threats",
+  "generatedAt": "2026-09-08T08:08:53.949Z",
+  "trendingTopic": "Trump escalates military and diplomatic pressure on Iran over its nuclear program and the Strait of Hormuz",
   "secondaryHighlights": [
     {
-      "topic": "Trump and allies push ICE funding, immigration enforcement, and restrictions on birthright citizenship"
+      "topic": "Trump defends plans for a secure White House ballroom against lawsuits and injunctions"
     },
     {
-      "topic": "Trump administration defends a secure White House ballroom project against legal and security challenges"
-    },
-    {
-      "topic": "Endorses candidates and pressures Republican lawmakers across congressional and state races"
+      "topic": "Trump touts tariffs, consumer strength, manufacturing expansion, and tax benefits"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:30:13952c0196b84c5ee9466ce9"
+  "topicsCacheKey": "month-themes-v5:30:a89132fe83c93f44187b57f8"
 }

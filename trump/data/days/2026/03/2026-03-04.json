@@ -6,25 +6,30 @@
     "negative": 0
   },
   "summary": "positive:6 neutral:50 negative:0",
-  "generatedAt": "2026-09-07T15:17:14.392Z",
+  "generatedAt": "2026-09-08T08:05:35.777Z",
   "topics": [
-    "Trump endorses multiple Republican candidates in North Carolina and Arkansas elections",
-    "Trump discusses the impact of his administration on cryptocurrency",
-    "Trump comments on the Republican primary race for the U.S. Senate in Texas"
+    "Trump-endorsed candidates win 122 Republican primaries across Texas, North Carolina, and Arkansas",
+    "Trump praises Venezuela’s Delcy Rodríguez as oil flows and U.S. cooperation improves",
+    "Oversight report says Tim Walz’s administration knew about fraud but failed to act"
   ],
-  "trendingTopic": "Trump endorses multiple Republican candidates in North Carolina and Arkansas elections",
+  "trendingTopic": "Trump-endorsed candidates win 122 Republican primaries across Texas, North Carolina, and Arkansas",
   "secondaryHighlights": [
     {
-      "topic": "Trump discusses the impact of his administration on cryptocurrency",
-      "name": "Brian Armstrong"
+      "topic": "Trump praises Venezuela’s Delcy Rodríguez as oil flows and U.S. cooperation improves",
+      "name": "Delcy Rodríguez"
     },
     {
-      "topic": "Trump comments on the Republican primary race for the U.S. Senate in Texas"
+      "topic": "Oversight report says Tim Walz’s administration knew about fraud but failed to act",
+      "name": "Tim Walz"
+    },
+    {
+      "topic": "Bill Pulte says falling mortgage rates are restoring buyer confidence",
+      "name": "Bill Pulte"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:56:9beccf1c3ebb0e864730897d",
-  "selfPraiseCacheKey": "self-praise-v1:56:9beccf1c3ebb0e864730897d",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:56:9beccf1c3ebb0e864730897d",
+  "selfPraiseCacheKey": "self-praise-v2:56:9beccf1c3ebb0e864730897d",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37075",
@@ -1564,5 +1569,10 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-06T06:56:20.994Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/37124",
+    "https://www.trumpstruth.org/statuses/37125",
+    "https://www.trumpstruth.org/statuses/37127"
   ]
 }

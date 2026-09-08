@@ -6,24 +6,27 @@
     "negative": 1
   },
   "summary": "positive:2 neutral:5 negative:1",
-  "generatedAt": "2026-09-07T15:16:50.914Z",
+  "generatedAt": "2026-09-08T08:03:20.073Z",
   "topics": [
-    "Poll shows Americans trust Republicans more than Democrats on key issues",
-    "Calls for the passage of the Save America Act amid election integrity concerns",
-    "Support for Donald Trump amidst challenges and injuries"
+    "Gavin Newsom drops out of the presidential race",
+    "Calls for passage of the Save America Act",
+    "Blames the Democratic shutdown for harming blue states"
   ],
-  "trendingTopic": "Poll shows Americans trust Republicans more than Democrats on key issues",
+  "trendingTopic": "Gavin Newsom drops out of the presidential race",
   "secondaryHighlights": [
     {
-      "topic": "Calls for the passage of the Save America Act amid election integrity concerns"
+      "topic": "Praises Donald Trump’s resilience amid attacks and a visible facial injury"
     },
     {
-      "topic": "Support for Donald Trump amidst challenges and injuries"
+      "topic": "Calls for passage of the Save America Act"
+    },
+    {
+      "topic": "Blames the Democratic shutdown for harming blue states"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:8:849c8b28aeac43bb63352d5c",
-  "selfPraiseCacheKey": "self-praise-v1:8:849c8b28aeac43bb63352d5c",
+  "topicsCacheKey": "day-themes-v11:8:849c8b28aeac43bb63352d5c",
+  "selfPraiseCacheKey": "self-praise-v2:8:849c8b28aeac43bb63352d5c",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36891",
@@ -235,5 +238,9 @@
       "rationale": "The phrase 'THE DEMOCRAT SHUTDOWN IS KILLING THE BLUE STATES!' conveys a strong negative sentiment towards Democrats and suggests harm to blue states.",
       "analyzedAt": "2026-09-06T06:54:16.528Z"
     }
+  ],
+  "trendingName": "Gavin Newsom",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/36885"
   ]
 }

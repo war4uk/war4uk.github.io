@@ -6,24 +6,25 @@
     "negative": 1
   },
   "summary": "positive:6 neutral:0 negative:1",
-  "generatedAt": "2026-09-07T15:16:53.314Z",
+  "generatedAt": "2026-09-08T08:03:28.799Z",
   "topics": [
-    "Endorses multiple America First candidates in Indiana's Senate Districts",
-    "Comments on Ilhan Omar and Rashida Tlaib's behavior at the State of the Union",
-    "Congratulates Gianni Infantino on his 10-year presidency at FIFA"
+    "Endorses five candidates challenging Indiana Republican state senators over redistricting",
+    "Attacks Ilhan Omar, Rashida Tlaib, Robert De Niro, and Rosie O’Donnell after the State of the Union",
+    "Praises Gianni Infantino’s decade leading FIFA"
   ],
-  "trendingTopic": "Endorses multiple America First candidates in Indiana's Senate Districts",
+  "trendingTopic": "Endorses five candidates challenging Indiana Republican state senators over redistricting",
   "secondaryHighlights": [
     {
-      "topic": "Comments on Ilhan Omar and Rashida Tlaib's behavior at the State of the Union"
+      "topic": "Attacks Ilhan Omar, Rashida Tlaib, Robert De Niro, and Rosie O’Donnell after the State of the Union"
     },
     {
-      "topic": "Congratulates Gianni Infantino on his 10-year presidency at FIFA"
+      "topic": "Praises Gianni Infantino’s decade leading FIFA",
+      "name": "Gianni Infantino"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:7:a7b000faf275f13d6586cd0f",
-  "selfPraiseCacheKey": "self-praise-v1:7:a7b000faf275f13d6586cd0f",
+  "selfPraiseCount": 6,
+  "topicsCacheKey": "day-themes-v11:7:a7b000faf275f13d6586cd0f",
+  "selfPraiseCacheKey": "self-praise-v2:7:a7b000faf275f13d6586cd0f",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36893",
@@ -215,5 +216,13 @@
       "rationale": "The endorsement of Blake Fiechter is enthusiastic and positive, emphasizing his dedication to community service and alignment with Republican values.",
       "analyzedAt": "2026-09-06T06:54:25.226Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/36893",
+    "https://www.trumpstruth.org/statuses/36899",
+    "https://www.trumpstruth.org/statuses/36898",
+    "https://www.trumpstruth.org/statuses/36897",
+    "https://www.trumpstruth.org/statuses/36896",
+    "https://www.trumpstruth.org/statuses/36895"
   ]
 }

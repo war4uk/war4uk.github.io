@@ -6,24 +6,24 @@
     "negative": 10
   },
   "summary": "positive:13 neutral:6 negative:10",
-  "generatedAt": "2026-09-07T15:17:18.980Z",
+  "generatedAt": "2026-09-08T08:06:11.559Z",
   "topics": [
-    "Remembers Lou Holtz, a legendary figure in sports and life",
-    "Trump criticizes Bill Maher for their White House dinner and calls him overrated",
-    "Trump honors victims of illegal immigration at Angel Family Day event"
+    "Trump denounces Bill Maher as an overrated lightweight after their White House dinner",
+    "Trump establishes National Angel Family Day honoring victims of crimes committed by illegal immigrants",
+    "Trump directs defense manufacturers to quadruple production of advanced weapons and munitions"
   ],
-  "trendingTopic": "Trump criticizes Bill Maher for their White House dinner and calls him overrated",
+  "trendingTopic": "Trump denounces Bill Maher as an overrated lightweight after their White House dinner",
   "secondaryHighlights": [
     {
-      "topic": "Remembers Lou Holtz, a legendary figure in sports and life"
+      "topic": "Trump establishes National Angel Family Day honoring victims of crimes committed by illegal immigrants"
     },
     {
-      "topic": "Trump honors victims of illegal immigration at Angel Family Day event"
+      "topic": "Trump directs defense manufacturers to quadruple production of advanced weapons and munitions"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:29:546c360a5cce2d6c8bc408b4",
-  "selfPraiseCacheKey": "self-praise-v1:29:546c360a5cce2d6c8bc408b4",
+  "selfPraiseCount": 7,
+  "topicsCacheKey": "day-themes-v11:29:546c360a5cce2d6c8bc408b4",
+  "selfPraiseCacheKey": "self-praise-v2:29:546c360a5cce2d6c8bc408b4",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37158",
@@ -751,5 +751,15 @@
       "rationale": "The text describes a successful meeting with defense companies and plans for increased production, indicating positive developments in defense manufacturing.",
       "analyzedAt": "2026-09-06T06:56:59.221Z"
     }
+  ],
+  "trendingName": "Bill Maher",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/37169",
+    "https://www.trumpstruth.org/statuses/37170",
+    "https://www.trumpstruth.org/statuses/37183",
+    "https://www.trumpstruth.org/statuses/37182",
+    "https://www.trumpstruth.org/statuses/37180",
+    "https://www.trumpstruth.org/statuses/37176",
+    "https://www.trumpstruth.org/statuses/37172"
   ]
 }

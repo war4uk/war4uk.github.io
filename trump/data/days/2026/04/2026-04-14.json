@@ -6,24 +6,24 @@
     "negative": 2
   },
   "summary": "positive:12 neutral:5 negative:2",
-  "generatedAt": "2026-09-07T15:17:47.291Z",
+  "generatedAt": "2026-09-08T08:08:35.760Z",
   "topics": [
-    "Endorses multiple candidates for Congress across various states",
-    "Discusses the Biden administration's alleged infringement on pro-life rights",
-    "Comments on energy issues in Europe and the UK"
+    "Trump endorses nine Republican congressional candidates across seven states",
+    "Trump backs expunging his 2019 impeachment after bombshell evidence",
+    "Trump touts his administration's border record while attacking Democrats"
   ],
-  "trendingTopic": "Endorses multiple candidates for Congress across various states",
+  "trendingTopic": "Donald Trump endorses nine Republican congressional candidates across seven states for the 2026 midterms",
   "secondaryHighlights": [
     {
-      "topic": "Discusses the Biden administration's alleged infringement on pro-life rights"
+      "topic": "Trump considers expunging his 2019 impeachment after alleged bombshell evidence emerges"
     },
     {
-      "topic": "Comments on energy issues in Europe and the UK"
+      "topic": "Trump says Democrats were disastrous on the border while touting his administration's record"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:19:2611e7b8f1108d42f9639278",
-  "selfPraiseCacheKey": "self-praise-v1:19:2611e7b8f1108d42f9639278",
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v11:19:2611e7b8f1108d42f9639278",
+  "selfPraiseCacheKey": "self-praise-v2:19:2611e7b8f1108d42f9639278",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37751",
@@ -491,5 +491,8 @@
       "rationale": "The text expresses strong support for Trump and highlights positive achievements regarding border control.",
       "analyzedAt": "2026-09-05T08:44:58.179Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/37770"
   ]
 }

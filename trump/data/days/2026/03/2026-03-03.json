@@ -6,24 +6,28 @@
     "negative": 7
   },
   "summary": "positive:7 neutral:12 negative:7",
-  "generatedAt": "2026-09-07T15:17:10.739Z",
+  "generatedAt": "2026-09-08T08:05:21.180Z",
   "topics": [
-    "Highlights achievements under President Trump's administration, including economic growth and crime reduction",
-    "Endorses Aaron Flint for Montana's 1st Congressional District and Helen Kerwin for State Representative",
-    "Discusses Operation Epic Fury and its impact on American citizens in the Middle East"
+    "Trump promotes Iran strikes, weapons readiness, Gulf shipping protection, and safe returns for Americans",
+    "Trump demands voter ID, citizenship proof, and sharply limited mail-in voting through the SAVE America Act",
+    "Trump urges passage of the Clarity Act and protection of crypto legislation from bank opposition"
   ],
-  "trendingTopic": "Highlights achievements under President Trump's administration, including economic growth and crime reduction",
+  "trendingTopic": "Donald Trump escalates Iran campaign, touts weapons stockpiles, Gulf protections, and evacuation help",
   "secondaryHighlights": [
     {
-      "topic": "Endorses Aaron Flint for Montana's 1st Congressional District and Helen Kerwin for State Representative"
+      "topic": "Endorses Aaron Flint for Montana’s 1st Congressional District",
+      "name": "Aaron Flint"
     },
     {
-      "topic": "Discusses Operation Epic Fury and its impact on American citizens in the Middle East"
+      "topic": "Celebrates tariffs reducing the U.S.-China trade deficit"
+    },
+    {
+      "topic": "Promotes administration achievements in economic growth, immigration enforcement, and crime reduction"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:26:2825e1e540277bd9a13c834c",
-  "selfPraiseCacheKey": "self-praise-v1:26:2825e1e540277bd9a13c834c",
+  "selfPraiseCount": 8,
+  "topicsCacheKey": "day-themes-v11:26:2825e1e540277bd9a13c834c",
+  "selfPraiseCacheKey": "self-praise-v2:26:2825e1e540277bd9a13c834c",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37049",
@@ -696,5 +700,15 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-06T06:55:59.111Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/37049",
+    "https://www.trumpstruth.org/statuses/37051",
+    "https://www.trumpstruth.org/statuses/37060",
+    "https://www.trumpstruth.org/statuses/37062",
+    "https://www.trumpstruth.org/statuses/37063",
+    "https://www.trumpstruth.org/statuses/37068",
+    "https://www.trumpstruth.org/statuses/37069",
+    "https://www.trumpstruth.org/statuses/37073"
   ]
 }

@@ -6,24 +6,20 @@
     "negative": 2
   },
   "summary": "positive:1 neutral:3 negative:2",
-  "generatedAt": "2026-09-07T15:16:56.908Z",
+  "generatedAt": "2026-09-08T08:03:33.672Z",
   "topics": [
-    "Trump's State of the Union highlights Democratic failures and contrasts with American heroes",
-    "Trump establishes midterm election battle lines between Patriots and 'Hate-triots'",
-    "Judge rules in favor of Trump's ballroom construction project"
+    "Trump touts his 2026 State of the Union while attacking Democrats and drawing midterm battle lines",
+    "Judge clears construction of Trump’s White House ballroom"
   ],
-  "trendingTopic": "Trump's State of the Union highlights Democratic failures and contrasts with American heroes",
+  "trendingTopic": "Trump celebrates his 2026 State of the Union address and frames midterms as Patriots versus Democrats",
   "secondaryHighlights": [
     {
-      "topic": "Trump establishes midterm election battle lines between Patriots and 'Hate-triots'"
-    },
-    {
-      "topic": "Judge rules in favor of Trump's ballroom construction project"
+      "topic": "Judge clears construction of Trump’s White House ballroom"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:6:5d5fcf824578997430d2ca2d",
-  "selfPraiseCacheKey": "self-praise-v1:6:5d5fcf824578997430d2ca2d",
+  "topicsCacheKey": "day-themes-v11:6:5d5fcf824578997430d2ca2d",
+  "selfPraiseCacheKey": "self-praise-v2:6:5d5fcf824578997430d2ca2d",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/36901",
@@ -171,5 +167,8 @@
       "rationale": "The text expresses excitement and positivity about the construction of a ballroom, highlighting it as a great achievement for America and emphasizing that it is funded by private donors, which adds to the positive sentiment.",
       "analyzedAt": "2026-09-06T06:54:33.936Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/36901"
   ]
 }
