@@ -298,6 +298,7 @@ var DaySummaryService = class {
       const name = typeof item?.name === "string" && item.name.trim() ? item.name.trim() : void 0;
       return name ? { topic, name } : { topic };
     }).filter((item) => !!item) : [];
+    const selfPraisePostIds = Array.isArray(payload.selfPraisePostIds) ? payload.selfPraisePostIds.map((id) => String(id || "").trim()).filter(Boolean) : [];
     const normalized = {
       date: payload.date ?? date,
       summary: summaryText,
@@ -310,7 +311,8 @@ var DaySummaryService = class {
       postSentiments,
       source: "static",
       fallbackMessage: payload.fallbackMessage ?? summaryText,
-      ...secondaryHighlights.length ? { secondaryHighlights } : {}
+      ...secondaryHighlights.length ? { secondaryHighlights } : {},
+      ...selfPraisePostIds.length ? { selfPraisePostIds } : {}
     };
     this.cache.set(date, normalized);
     return normalized;
@@ -755,7 +757,24 @@ function sanitizeImageUrls(urls) {
   }
   return out;
 }
-function listDayPosts(posts, sentiments = []) {
+function lookupKeys(id) {
+  const value = String(id || "").trim();
+  if (!value) return [];
+  const keys = [value];
+  const status = value.match(/\/statuses\/(\d+)/);
+  if (status) keys.push(status[1]);
+  const stripped = value.replace(/^https?:\/\/(www\.)?/i, "").replace(/\/$/, "");
+  if (stripped && stripped !== value) keys.push(stripped);
+  return keys;
+}
+function selfPraiseLookup(ids) {
+  const set = /* @__PURE__ */ new Set();
+  for (const id of ids) {
+    for (const key of lookupKeys(id)) set.add(key);
+  }
+  return set;
+}
+function listDayPosts(posts, sentiments = [], selfPraisePostIds = []) {
   const byId = /* @__PURE__ */ new Map();
   for (const s of sentiments) {
     if (!s.postId || s.label !== "positive" && s.label !== "neutral" && s.label !== "negative") continue;
@@ -763,6 +782,7 @@ function listDayPosts(posts, sentiments = []) {
     const status = String(s.postId).match(/\/statuses\/(\d+)/);
     if (status) byId.set(status[1], s.label);
   }
+  const praise = selfPraiseLookup(selfPraisePostIds);
   const out = [];
   for (const post of dedupePosts(posts)) {
     const { body, imageDescription } = splitImageDescription(rawPostText(post));
@@ -773,6 +793,7 @@ function listDayPosts(posts, sentiments = []) {
     const url = String(post.url || post.raw?.link || post.id || "");
     const key = postDedupeKey(post);
     const sentiment = byId.get(id) || byId.get(key) || byId.get(url);
+    const selfPraise = lookupKeys(id).some((k) => praise.has(k)) || lookupKeys(key).some((k) => praise.has(k)) || lookupKeys(url).some((k) => praise.has(k));
     const hasFullText = Boolean(body && normalizeForCompare(body) !== normalizeForCompare(title));
     const expandable = Boolean(
       hasFullText || title.length > 140 || imageDescription && imageDescription.length > 80
@@ -788,7 +809,8 @@ function listDayPosts(posts, sentiments = []) {
       ...imageUrls.length ? { imageUrls } : {},
       ...expandable ? { expandable: true } : {},
       publishedAt: post.publishedAt,
-      ...sentiment ? { sentiment } : {}
+      ...sentiment ? { sentiment } : {},
+      ...selfPraise ? { selfPraise: true } : {}
     });
   }
   return out.sort((a, b) => String(b.publishedAt || "").localeCompare(String(a.publishedAt || "")));
@@ -807,7 +829,7 @@ function openingKey2(text) {
   return tokens.slice(0, 6).join(" ");
 }
 function buildDayStoryBoard(input) {
-  const posts = listDayPosts(input.posts || [], input.sentiments || []);
+  const posts = listDayPosts(input.posts || [], input.sentiments || [], input.selfPraisePostIds || []);
   const ranked = [];
   const seen = /* @__PURE__ */ new Set();
   const push = (pair) => {
@@ -883,6 +905,8 @@ function formatDayPost(post) {
   const classes = ["day-post"];
   if (post.expandable) classes.push("is-expandable");
   if (hasFullText) classes.push("has-fulltext");
+  if (post.selfPraise) classes.push("is-self-praise");
+  const badge = post.selfPraise ? `<span class="day-post-self-praise">Self-praise</span>` : "";
   const title = hideUntitled ? "" : `<p class="day-post-title">${escapeHtml(post.title)}</p>`;
   const fullText = hasFullText ? `<p class="day-post-fulltext">${escapeHtml(post.fullText)}</p>` : "";
   const snippet = !post.expandable && post.snippet ? `<span class="day-post-snippet">${escapeHtml(post.snippet)}</span>` : "";
@@ -892,6 +916,7 @@ function formatDayPost(post) {
   const original = post.url ? `<a class="day-post-original" href="${escapeHtml(post.url)}" target="_blank" rel="noopener noreferrer">Original post</a>` : "";
   return `<li class="${classes.join(" ")}">
     <div class="day-post-main">
+      ${badge}
       ${title}
       ${fullText}
       ${snippet}
@@ -973,6 +998,7 @@ function renderDayDetail(runtime, summary) {
   const board = buildDayStoryBoard({
     posts: summary.posts,
     sentiments: summary.postSentiments,
+    selfPraisePostIds: summary.selfPraisePostIds,
     trendingTopic: summary.trendingTopic,
     trendingName: summary.trendingName,
     secondaryHighlights: summary.secondaryHighlights
@@ -980,6 +1006,11 @@ function renderDayDetail(runtime, summary) {
   const primaryTopic = board.primary.topic || summary.trendingTopic || "\u2014";
   const primaryName = board.primary.name || summary.trendingName || "";
   const secondaryRows = board.secondary.length ? board.secondary.map((s) => formatStoryItem(s, "day-story-topic", "day-story-name")).join("") : '<li class="day-empty">No additional stories</li>';
+  const praisePosts = board.posts.filter((p) => p.selfPraise);
+  const praiseSection = praisePosts.length ? `<section class="day-self-praise">
+      <h3>Self-praise <span class="day-post-count">${praisePosts.length}</span></h3>
+      <ul id="day-self-praise-list">${praisePosts.map((p) => formatDayPost(p)).join("")}</ul>
+    </section>` : "";
   const postRows = board.posts.length ? board.posts.map((p) => formatDayPost(p)).join("") : '<li class="day-empty">No posts for this day</li>';
   title.textContent = summary.date;
   body.innerHTML = `
@@ -991,6 +1022,7 @@ function renderDayDetail(runtime, summary) {
       <h3>Also trending</h3>
       <ol id="day-secondary-list">${secondaryRows}</ol>
     </section>
+    ${praiseSection}
     <section class="day-posts">
       <h3>Posts <span class="day-post-count">${board.posts.length}</span></h3>
       <ul id="day-posts-list">${postRows}</ul>
