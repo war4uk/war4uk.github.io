@@ -6,25 +6,24 @@
     "negative": 4
   },
   "summary": "positive:6 neutral:3 negative:4",
-  "generatedAt": "2026-09-07T18:27:50.940Z",
+  "generatedAt": "2026-09-08T08:38:44.059Z",
   "topics": [
-    "Announces a completed Iran deal promising peace and security across the region",
-    "Defends Bill Pulte as acting DNI amid Democratic objections and FISA debate",
-    "Promotes GOP candidates for Alabama lieutenant governor and Arizona attorney general"
+    "Trump announces a completed Iran deal, reopening the Strait of Hormuz and promising regional peace",
+    "Trump backs Bill Pulte for acting DNI and demands FISA include the full SAVE America Act",
+    "Trump endorses Republican candidates for Alabama lieutenant governor and Arizona attorney general"
   ],
-  "trendingTopic": "Iran deal is complete as Trump promises peace and security across the region",
+  "trendingTopic": "Trump announces a completed Iran deal, reopening the Strait of Hormuz and promising regional peace",
   "secondaryHighlights": [
     {
-      "topic": "Congratulates Jim Dolan and the New York Knicks on their historic playoff run",
-      "name": "Jim Dolan"
+      "topic": "Trump praises the New York Knicks and Jalen Brunson after their playoff run"
     },
     {
-      "topic": "Praises Victoria Coates of the Heritage Foundation",
-      "name": "Victoria Coates"
+      "topic": "Trump thanks Michael Cohen and accuses Democrats of weaponizing government"
     }
   ],
   "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:13:bd4eb3e2b0e85f93fae86ccc",
+  "topicsCacheKey": "day-themes-v11:13:bd4eb3e2b0e85f93fae86ccc",
+  "selfPraiseCacheKey": "self-praise-v2:13:bd4eb3e2b0e85f93fae86ccc",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39247",
@@ -349,5 +348,8 @@
       "analyzedAt": "2026-09-05T08:35:53.038Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:13:bd4eb3e2b0e85f93fae86ccc"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39252",
+    "https://www.trumpstruth.org/statuses/39260"
+  ]
 }

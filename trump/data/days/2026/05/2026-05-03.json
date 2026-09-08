@@ -6,28 +6,25 @@
     "negative": 5
   },
   "summary": "positive:3 neutral:5 negative:5",
-  "generatedAt": "2026-09-07T18:12:47.534Z",
+  "generatedAt": "2026-09-08T08:26:06.803Z",
   "topics": [
-    "Trump administration plans major troop withdrawals from Germany and considers pulling forces from Spain and Italy",
-    "Trump-themed HH-60W rescue helicopter 4547 appears with military unit patches",
-    "Trump attacks Hakeem Jeffries over Supreme Court comments and suggests impeachment"
+    "Trump escalates confrontation with European allies as administration plans troop withdrawals from Germany, Spain, and Italy",
+    "Trump attacks Hakeem Jeffries and calls for his impeachment after Supreme Court criticism",
+    "Trump-themed HH-60W rescue helicopter 4547 featured in images and commemorative patches"
   ],
-  "trendingTopic": "Trump administration plans major troop withdrawals from Germany and considers pulling forces from Spain and Italy",
+  "trendingTopic": "Trump escalates confrontation with European allies as administration plans troop withdrawals from Germany, Spain, and Italy",
   "secondaryHighlights": [
     {
-      "topic": "Donald Trump says Rudy Giuliani has been hospitalized in critical condition",
-      "name": "Rudy Giuliani"
+      "topic": "Trump attacks Hakeem Jeffries and calls for his impeachment after Supreme Court criticism",
+      "name": "Hakeem Jeffries"
     },
     {
-      "topic": "Calls for state legislatures to follow Supreme Court requirements for constitutional elections"
-    },
-    {
-      "topic": "Matteo Salvini praises Trump’s courage and cultural foundation as vital to Western survival",
-      "name": "Matteo Salvini"
+      "topic": "Trump-themed HH-60W rescue helicopter 4547 featured in images and commemorative patches"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:13:50366862ff096df3a21c29a0",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:13:50366862ff096df3a21c29a0",
+  "selfPraiseCacheKey": "self-praise-v2:13:50366862ff096df3a21c29a0",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38144",
@@ -370,5 +367,9 @@
       "analyzedAt": "2026-09-05T08:26:06.202Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:13:50366862ff096df3a21c29a0"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38144",
+    "https://www.trumpstruth.org/statuses/38149",
+    "https://www.trumpstruth.org/statuses/38152"
+  ]
 }

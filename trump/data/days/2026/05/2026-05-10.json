@@ -6,26 +6,24 @@
     "negative": 8
   },
   "summary": "positive:6 neutral:8 negative:8",
-  "generatedAt": "2026-09-07T18:14:51.157Z",
+  "generatedAt": "2026-09-08T08:27:46.695Z",
   "topics": [
-    "Trump highlights one-week, $2 million reflecting pool renovation versus Biden-era project",
-    "Trump rejects Iran’s response and criticizes its decades of delays toward the United States",
-    "Trump attacks Ro Khanna and Fox News for airing his claims without rebuttal"
+    "Trump condemns Iran’s response amid calls for a deal to end the Iran war",
+    "Trump highlights a rapid, lower-cost reflecting pool renovation contrasting it with Biden-era spending",
+    "Trump attacks Ro Khanna and Fox News for allowing Democratic talking points"
   ],
-  "trendingTopic": "Trump highlights his one-week, $2 million reflecting pool renovation versus Biden’s $355 million project",
+  "trendingTopic": "Trump condemns Iran’s response as unacceptable amid calls for a deal ending the Iran war",
   "secondaryHighlights": [
     {
-      "topic": "Trump rejects Iran’s response and criticizes its decades of delays toward the United States"
+      "topic": "Trump highlights a rapid, lower-cost reflecting pool renovation contrasting it with Biden-era spending"
     },
     {
-      "topic": "Trump attacks Ro Khanna and Fox News for airing his claims without rebuttal"
-    },
-    {
-      "topic": "Trump announces the release of Polish and Moldovan prisoners from Belarusian and Russian detention"
+      "topic": "Trump attacks Ro Khanna and Fox News for allowing Democratic talking points"
     }
   ],
-  "selfPraiseCount": 6,
-  "topicsCacheKey": "day-themes-v10:22:50d28345a9f372cf12f4c31b",
+  "selfPraiseCount": 9,
+  "topicsCacheKey": "day-themes-v11:22:50d28345a9f372cf12f4c31b",
+  "selfPraiseCacheKey": "self-praise-v2:22:50d28345a9f372cf12f4c31b",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38303",
@@ -577,5 +575,15 @@
       "analyzedAt": "2026-09-05T08:27:30.378Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:22:50d28345a9f372cf12f4c31b"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38304",
+    "https://www.trumpstruth.org/statuses/38311",
+    "https://www.trumpstruth.org/statuses/38312",
+    "https://www.trumpstruth.org/statuses/38314",
+    "https://www.trumpstruth.org/statuses/38313",
+    "https://www.trumpstruth.org/statuses/38317",
+    "https://www.trumpstruth.org/statuses/38319",
+    "https://www.trumpstruth.org/statuses/38318",
+    "https://www.trumpstruth.org/statuses/38323"
+  ]
 }

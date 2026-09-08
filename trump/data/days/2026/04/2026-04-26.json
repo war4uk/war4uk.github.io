@@ -6,23 +6,24 @@
     "negative": 1
   },
   "summary": "positive:4 neutral:4 negative:1",
-  "generatedAt": "2026-09-07T18:10:23.162Z",
+  "generatedAt": "2026-09-08T08:24:38.769Z",
   "topics": [
-    "Trump praises Secret Service after White House security incident and renews call for a secure ballroom",
-    "Trump announces a 60 Minutes interview airing Sunday evening",
-    "Trump shares report arguing polling supports restricting birthright citizenship"
+    "Shooter apprehended after disrupting a Washington event as Trump reschedules it and defends White House ballroom construction",
+    "Trump announces a 60 Minutes interview for Sunday evening",
+    "Polling group offers support for Trump's effort to restrict birthright citizenship"
   ],
-  "trendingTopic": "Trump praises Secret Service after White House security incident and renews call for a secure ballroom",
+  "trendingTopic": "After a shooter is apprehended at a Washington event, Trump defends security and White House ballroom construction",
   "secondaryHighlights": [
     {
-      "topic": "Trump announces a 60 Minutes interview airing Sunday evening"
+      "topic": "Trump announces a 60 Minutes interview for Sunday evening"
     },
     {
-      "topic": "Trump shares report arguing polling supports restricting birthright citizenship"
+      "topic": "Polling group offers support for Trump's effort to restrict birthright citizenship"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:9:9f97464213347942fc9553a5",
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v11:9:9f97464213347942fc9553a5",
+  "selfPraiseCacheKey": "self-praise-v2:9:9f97464213347942fc9553a5",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38056",
@@ -251,5 +252,7 @@
       "analyzedAt": "2026-09-05T08:47:36.927Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:9:9f97464213347942fc9553a5"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38061"
+  ]
 }

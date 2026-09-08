@@ -6,23 +6,24 @@
     "negative": 1
   },
   "summary": "positive:1 neutral:39 negative:1",
-  "generatedAt": "2026-09-07T18:18:58.682Z",
+  "generatedAt": "2026-09-08T08:30:49.706Z",
   "topics": [
-    "Trump-backed Republicans sweep May 19 primaries across six states, winning all 37 contests",
-    "UFC Freedom 250 promotion spotlights White House event with Dana White and top fighters",
-    "Trump promotes a White House ballroom featuring drone defenses"
+    "Trump-endorsed Republicans win or advance across Pennsylvania, Georgia, Alabama, Idaho, Kentucky, and Oregon",
+    "Trump and Dana White promote UFC Freedom 250 at the White House",
+    "Trump promotes a new White House ballroom and proposed defensive drone system"
   ],
-  "trendingTopic": "Trump-backed Republicans sweep May 19 primaries across six states, winning all 37 contests",
+  "trendingTopic": "Trump-endorsed Republicans win or advance across six states, with Trump claiming a 37-0 election record",
   "secondaryHighlights": [
     {
-      "topic": "UFC Freedom 250 promotion spotlights White House event with Dana White and top fighters"
+      "topic": "Trump and Dana White promote UFC Freedom 250 at the White House"
     },
     {
-      "topic": "Trump promotes a White House ballroom featuring drone defenses"
+      "topic": "Trump promotes a new White House ballroom and proposed defensive drone system"
     }
   ],
   "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:41:739c9b0e73ac6f0d777a8585",
+  "topicsCacheKey": "day-themes-v11:41:739c9b0e73ac6f0d777a8585",
+  "selfPraiseCacheKey": "self-praise-v2:41:739c9b0e73ac6f0d777a8585",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38657",
@@ -1163,5 +1164,9 @@
       "analyzedAt": "2026-09-05T08:30:15.004Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:41:739c9b0e73ac6f0d777a8585"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38674",
+    "https://www.trumpstruth.org/statuses/38679",
+    "https://www.trumpstruth.org/statuses/38682"
+  ]
 }

@@ -6,23 +6,24 @@
     "negative": 0
   },
   "summary": "positive:2 neutral:17 negative:0",
-  "generatedAt": "2026-09-07T18:14:37.341Z",
+  "generatedAt": "2026-09-08T08:27:33.109Z",
   "topics": [
-    "LIV Golf Virginia tournament unfolds at Trump National Golf Club in Washington, D.C.",
-    "Shares graphics depicting Iranian drones and naval vessels destroyed in U.S. military action",
-    "Promotes UFC Freedom 250 event on the White House lawn"
+    "LIV Golf Virginia continues at Trump National Golf Club in Washington, D.C.",
+    "Images depict destruction of Iranian drones and naval forces",
+    "UFC Freedom 250 is staged outside the White House"
   ],
-  "trendingTopic": "LIV Golf Virginia tournament unfolds at Trump National Golf Club in Washington, D.C.",
+  "trendingTopic": "LIV Golf Virginia continues at Trump National Golf Club in Washington, D.C.",
   "secondaryHighlights": [
     {
-      "topic": "Shares graphics depicting Iranian drones and naval vessels destroyed in U.S. military action"
+      "topic": "Images depict destruction of Iranian drones and naval forces"
     },
     {
-      "topic": "Promotes UFC Freedom 250 event on the White House lawn"
+      "topic": "UFC Freedom 250 is staged outside the White House"
     }
   ],
   "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:19:2d18f9681c2894b7b41801b9",
+  "topicsCacheKey": "day-themes-v11:19:2d18f9681c2894b7b41801b9",
+  "selfPraiseCacheKey": "self-praise-v2:19:2d18f9681c2894b7b41801b9",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38284",
@@ -547,5 +548,8 @@
       "analyzedAt": "2026-09-05T08:27:18.137Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:19:2d18f9681c2894b7b41801b9"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38290",
+    "https://www.trumpstruth.org/statuses/38299"
+  ]
 }

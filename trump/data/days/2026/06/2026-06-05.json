@@ -6,23 +6,24 @@
     "negative": 2
   },
   "summary": "positive:9 neutral:11 negative:2",
-  "generatedAt": "2026-09-07T18:25:29.056Z",
+  "generatedAt": "2026-09-08T08:36:46.884Z",
   "topics": [
-    "Washington, D.C. monuments and fountains cleaned and restored ahead of America’s 250th anniversary",
-    "May jobs report shows 172,000 jobs added, exceeding expectations",
-    "TrumpRx.gov adds 160 discounted prescription drugs, reaching more than 800"
+    "Trump showcases restored Washington monuments after graffiti and vandalism damaged them",
+    "Trump touts strong May jobs growth and argues stocks should rise with the economy",
+    "Trump attacks California election delays while backing the SAVE AMERICA Act and Lindsey Graham"
   ],
-  "trendingTopic": "Washington, D.C. monuments and fountains are cleaned and restored ahead of America’s 250th anniversary",
+  "trendingTopic": "Trump showcases restored Washington monuments after graffiti and vandalism damaged them",
   "secondaryHighlights": [
     {
-      "topic": "May jobs report shows 172,000 jobs added, exceeding expectations"
+      "topic": "Trump touts strong May jobs growth and argues stocks should rise with the economy"
     },
     {
-      "topic": "TrumpRx.gov adds 160 discounted prescription drugs, reaching more than 800"
+      "topic": "Trump attacks California election delays while backing the SAVE AMERICA Act and Lindsey Graham"
     }
   ],
-  "selfPraiseCount": 6,
-  "topicsCacheKey": "day-themes-v10:22:055aa257c3cd3806cbd190c4",
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v11:22:055aa257c3cd3806cbd190c4",
+  "selfPraiseCacheKey": "self-praise-v2:22:055aa257c3cd3806cbd190c4",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39100",
@@ -603,5 +604,11 @@
       "analyzedAt": "2026-09-05T08:34:14.277Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:22:055aa257c3cd3806cbd190c4"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39102",
+    "https://www.trumpstruth.org/statuses/39103",
+    "https://www.trumpstruth.org/statuses/39107",
+    "https://www.trumpstruth.org/statuses/39111",
+    "https://www.trumpstruth.org/statuses/39118"
+  ]
 }

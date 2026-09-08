@@ -6,23 +6,24 @@
     "negative": 5
   },
   "summary": "positive:14 neutral:50 negative:5",
-  "generatedAt": "2026-09-07T18:22:48.776Z",
+  "generatedAt": "2026-09-08T08:34:46.936Z",
   "topics": [
-    "Shares memes contrasting Biden's approach with Trump's response to theft, squatting, fentanyl, and immigration",
-    "Claims Trump is restoring Washington landmarks after Obama and Biden left them damaged",
-    "Highlights Trump’s meetings and ceremonial rapport with Chinese President Xi Jinping"
+    "Pro-Trump memes contrast Biden-era disorder with Trump’s promises of arrests, deportations, and tougher enforcement",
+    "Trump showcases restoration and expansion projects at the Reflecting Pool, Columbus Circle, and White House",
+    "Trump promotes an America Is Back rally and patriotic celebrations in Washington"
   ],
-  "trendingTopic": "Shares memes contrasting Biden-era policies with Trump's tougher responses to theft, squatting, fentanyl, and immigration",
+  "trendingTopic": "Pro-Trump memes contrast Biden-era disorder with Trump’s promises of arrests, deportations, and tougher enforcement",
   "secondaryHighlights": [
     {
-      "topic": "Claims Trump is restoring Washington landmarks after Obama and Biden left them damaged"
+      "topic": "Trump showcases restoration and expansion projects at the Reflecting Pool, Columbus Circle, and White House"
     },
     {
-      "topic": "Highlights Trump’s meetings and ceremonial rapport with Chinese President Xi Jinping"
+      "topic": "Trump promotes an America Is Back rally and patriotic celebrations in Washington"
     }
   ],
-  "selfPraiseCount": 8,
-  "topicsCacheKey": "day-themes-v10:69:b789bc8032b77928717b0a75",
+  "selfPraiseCount": 19,
+  "topicsCacheKey": "day-themes-v11:69:b789bc8032b77928717b0a75",
+  "selfPraiseCacheKey": "self-praise-v2:69:b789bc8032b77928717b0a75",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38878",
@@ -1920,5 +1921,25 @@
       "analyzedAt": "2026-09-05T08:32:41.018Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:69:b789bc8032b77928717b0a75"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38884",
+    "https://www.trumpstruth.org/statuses/38890",
+    "https://www.trumpstruth.org/statuses/38889",
+    "https://www.trumpstruth.org/statuses/38888",
+    "https://www.trumpstruth.org/statuses/38887",
+    "https://www.trumpstruth.org/statuses/38896",
+    "https://www.trumpstruth.org/statuses/38895",
+    "https://www.trumpstruth.org/statuses/38898",
+    "https://www.trumpstruth.org/statuses/38907",
+    "https://www.trumpstruth.org/statuses/38906",
+    "https://www.trumpstruth.org/statuses/38905",
+    "https://www.trumpstruth.org/statuses/38909",
+    "https://www.trumpstruth.org/statuses/38925",
+    "https://www.trumpstruth.org/statuses/38923",
+    "https://www.trumpstruth.org/statuses/38921",
+    "https://www.trumpstruth.org/statuses/38930",
+    "https://www.trumpstruth.org/statuses/38929",
+    "https://www.trumpstruth.org/statuses/38945",
+    "https://www.trumpstruth.org/statuses/38947"
+  ]
 }

@@ -6,28 +6,24 @@
     "negative": 4
   },
   "summary": "positive:7 neutral:7 negative:4",
-  "generatedAt": "2026-09-07T18:20:29.963Z",
+  "generatedAt": "2026-09-08T08:32:12.128Z",
   "topics": [
-    "Trump condemns Obama’s Iran nuclear deal and touts a stricter proposed agreement",
-    "Trump and Xi Jinping receive praise as China-U.S. ties are highlighted",
-    "Dow Jones and S&P 500 reach claimed all-time highs under Trump"
+    "Trump says Iran nuclear negotiations are constructive while blockade remains until a signed deal",
+    "Endorses Ty Masterson for Kansas governor and Ken Paxton for Texas governor",
+    "Posts images celebrating Dow Jones and S&P 500 record highs"
   ],
-  "trendingTopic": "Trump condemns Obama’s Iran nuclear deal and touts a stricter proposed agreement",
+  "trendingTopic": "Trump says Iran nuclear negotiations are constructive while blockade remains until a signed deal",
   "secondaryHighlights": [
     {
-      "topic": "Secret Service kills gunman near the White House after a violent incident"
+      "topic": "Endorses Ty Masterson for Kansas governor and Ken Paxton for Texas governor"
     },
     {
-      "topic": "Endorses Ty Masterson for governor of Kansas",
-      "name": "Ty Masterson"
-    },
-    {
-      "topic": "Praises Ken Paxton as a leading former Texas attorney general",
-      "name": "Ken Paxton"
+      "topic": "Posts images celebrating Dow Jones and S&P 500 record highs"
     }
   ],
-  "selfPraiseCount": 6,
-  "topicsCacheKey": "day-themes-v10:18:902e06e7cb48c6ba8b9d02c6",
+  "selfPraiseCount": 7,
+  "topicsCacheKey": "day-themes-v11:18:902e06e7cb48c6ba8b9d02c6",
+  "selfPraiseCacheKey": "self-praise-v2:18:902e06e7cb48c6ba8b9d02c6",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38744",
@@ -508,5 +504,13 @@
       "analyzedAt": "2026-09-05T08:31:05.212Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:18:902e06e7cb48c6ba8b9d02c6"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38747",
+    "https://www.trumpstruth.org/statuses/38751",
+    "https://www.trumpstruth.org/statuses/38755",
+    "https://www.trumpstruth.org/statuses/38756",
+    "https://www.trumpstruth.org/statuses/38758",
+    "https://www.trumpstruth.org/statuses/38760",
+    "https://www.trumpstruth.org/statuses/38761"
+  ]
 }

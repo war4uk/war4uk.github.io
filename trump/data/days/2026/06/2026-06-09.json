@@ -6,24 +6,29 @@
     "negative": 2
   },
   "summary": "positive:2 neutral:3 negative:2",
-  "generatedAt": "2026-09-07T18:26:28.857Z",
+  "generatedAt": "2026-09-08T08:37:37.275Z",
   "topics": [
-    "Shares reports on U.S. trade deficit, including record exports and a 34-year widening",
-    "Reports Iran shot down a U.S. Apache helicopter over the Strait of Hormuz, with both pilots safe",
-    "Announces William Pulte will become acting Director of National Intelligence on June 19"
+    "Shares reports on U.S. trade deficit and export figures",
+    "Warns Iran will face a U.S. response after an Apache helicopter was shot down",
+    "Appoints William Pulte acting director of national intelligence"
   ],
-  "trendingTopic": "Trump shares conflicting reports on U.S. trade deficit, record exports, and a 34-year widening",
+  "trendingTopic": "Shares reports showing conflicting U.S. trade deficit and export figures",
   "secondaryHighlights": [
+    {
+      "topic": "Warns Iran will face a U.S. response after an Apache helicopter was shot down"
+    },
+    {
+      "topic": "Appoints William Pulte acting director of national intelligence",
+      "name": "William Pulte"
+    },
     {
       "topic": "Endorses Steve Hilton for California governor",
       "name": "Steve Hilton"
-    },
-    {
-      "topic": "Shares support for Trump from New York City supporters"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:7:6f7f043dc113903cbb45e095",
+  "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v11:7:6f7f043dc113903cbb45e095",
+  "selfPraiseCacheKey": "self-praise-v2:7:6f7f043dc113903cbb45e095",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39166",
@@ -203,6 +208,5 @@
       "rationale": "The announcement of William Pulte taking over as Acting Director of National Intelligence is presented positively, indicating a leadership change and expressing gratitude.",
       "analyzedAt": "2026-09-05T08:34:59.011Z"
     }
-  ],
-  "selfPraiseCacheKey": "self-praise-v1:7:6f7f043dc113903cbb45e095"
+  ]
 }

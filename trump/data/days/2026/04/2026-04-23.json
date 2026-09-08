@@ -6,26 +6,27 @@
     "negative": 5
   },
   "summary": "positive:7 neutral:10 negative:5",
-  "generatedAt": "2026-09-07T18:09:48.439Z",
+  "generatedAt": "2026-09-08T08:24:02.537Z",
   "topics": [
-    "Trump escalates Iran confrontation with Hormuz threats, battlefield claims, leadership turmoil, and regional diplomacy",
-    "Trump promotes faster FDA approval of ibogaine treatments for veterans with PTSD",
-    "Trump highlights hemp-derived CBD research and its potential chronic-pain benefits"
+    "Trump tightens the Strait of Hormuz blockade and pressures Iran toward a deal",
+    "Dave Bossie urges Senate Republicans to pass the SAVE America Act and strengthen election integrity",
+    "Trump demands an apology from Chuck Schumer for disparaging Border Patrol and ICE"
   ],
-  "trendingTopic": "Trump escalates Iran confrontation with Hormuz threats, battlefield claims, leadership turmoil, and regional diplomacy",
+  "trendingTopic": "Trump tightens the Strait of Hormuz blockade and pressures Iran toward a deal",
   "secondaryHighlights": [
     {
-      "topic": "Trump meets Israeli and Lebanese representatives amid intensifying Middle East tensions"
+      "topic": "Trump announces a three-week extension of the Israel-Lebanon ceasefire and U.S. support for Lebanon"
     },
     {
-      "topic": "Trump praises Navy Secretary John Phelan for helping rebuild the U.S. Navy"
+      "topic": "Trump calls on Congress to preserve access to full-spectrum hemp-derived CBD products"
     },
     {
-      "topic": "Trump discusses progress recovering from Los Angeles wildfires with Mayor Karen Bass and county officials"
+      "topic": "Trump presses banks, especially Wells Fargo, to aid Los Angeles wildfire victims"
     }
   ],
   "selfPraiseCount": 5,
-  "topicsCacheKey": "day-themes-v10:22:76033d50195584658dc5db42",
+  "topicsCacheKey": "day-themes-v11:22:76033d50195584658dc5db42",
+  "selfPraiseCacheKey": "self-praise-v2:22:76033d50195584658dc5db42",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38003",
@@ -574,5 +575,11 @@
       "analyzedAt": "2026-09-05T08:47:08.478Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:22:76033d50195584658dc5db42"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38003",
+    "https://www.trumpstruth.org/statuses/38000",
+    "https://www.trumpstruth.org/statuses/38011",
+    "https://www.trumpstruth.org/statuses/38016",
+    "https://www.trumpstruth.org/statuses/38021"
+  ]
 }

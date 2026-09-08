@@ -6,28 +6,29 @@
     "negative": 2
   },
   "summary": "positive:3 neutral:1 negative:2",
-  "generatedAt": "2026-09-07T18:11:17.216Z",
+  "generatedAt": "2026-09-08T08:25:16.835Z",
   "topics": [
-    "Says Iran cannot agree to a nonnuclear deal",
-    "Hails Supreme Court's 6-3 Callais decision as restoring the Voting Rights Act's original purpose",
-    "Reviews possible reduction of U.S. troops in Germany"
+    "Trump hails Supreme Court’s 6-3 Callais ruling as restoring Voting Rights Act’s original intent",
+    "Pressures Iran to reach a nonnuclear deal",
+    "Reviews a possible reduction of U.S. troops in Germany"
   ],
-  "trendingTopic": "Donald Trump says Iran cannot agree to a nonnuclear deal",
+  "trendingTopic": "Trump hails Supreme Court’s 6-3 Callais ruling as restoring Voting Rights Act’s original intent",
   "secondaryHighlights": [
     {
-      "topic": "Attacks Jerome Powell as unqualified to remain Federal Reserve chair",
+      "topic": "Attacks Jerome Powell as he seeks to remain Federal Reserve chair",
       "name": "Jerome Powell"
     },
     {
-      "topic": "Claims responsibility for Intel stock gains and billions in U.S. value"
+      "topic": "Claims credit for Intel’s stock gains and billions in U.S. returns"
     },
     {
-      "topic": "Praises Robert Hardman's book about Queen Elizabeth II and the Royal Family",
+      "topic": "Promotes Robert Hardman’s book about Queen Elizabeth II",
       "name": "Robert Hardman"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:6:f3954a0065d73929b3583262",
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v11:6:f3954a0065d73929b3583262",
+  "selfPraiseCacheKey": "self-praise-v2:6:f3954a0065d73929b3583262",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38088",
@@ -184,5 +185,7 @@
       "analyzedAt": "2026-09-05T08:48:02.716Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:6:f3954a0065d73929b3583262"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38092"
+  ]
 }

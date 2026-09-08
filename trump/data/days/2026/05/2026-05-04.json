@@ -6,26 +6,21 @@
     "negative": 3
   },
   "summary": "positive:5 neutral:26 negative:3",
-  "generatedAt": "2026-09-07T18:13:03.244Z",
+  "generatedAt": "2026-09-08T08:26:25.225Z",
   "topics": [
-    "Republicans rally behind Trump’s proposed White House ballroom as a presidential security measure",
-    "Supporters praise Trump’s State of the Union address as historic and patriotic",
-    "Trump endorses Dan Patrick for reelection and praises Greg Abbott’s Texas leadership"
+    "Republicans rally behind legislation to build a secure White House ballroom for Trump",
+    "Conservative commentators praise Donald Trump's State of the Union address as historic and exceptional",
+    "Donald Trump endorses Greg Abbott and Dan Patrick for reelection in Texas"
   ],
-  "trendingTopic": "Republicans rally behind Trump’s proposed White House ballroom as a presidential security measure",
+  "trendingTopic": "Republicans rally behind legislation to build a secure White House ballroom for Trump",
   "secondaryHighlights": [
     {
-      "topic": "Supporters praise Trump’s State of the Union address as historic and patriotic"
-    },
-    {
-      "topic": "Trump endorses Dan Patrick for reelection and praises Greg Abbott’s Texas leadership"
-    },
-    {
-      "topic": "Trump highlights Iran’s damaged military capabilities and urges South Korea to join Project Freedom"
+      "topic": "Trump says U.S. forces crippled Iran's military and shot down seven boats during Project Freedom"
     }
   ],
-  "selfPraiseCount": 9,
-  "topicsCacheKey": "day-themes-v10:34:b7f25e034728feaa8ef48865",
+  "selfPraiseCount": 11,
+  "topicsCacheKey": "day-themes-v11:34:b7f25e034728feaa8ef48865",
+  "selfPraiseCacheKey": "self-praise-v2:34:b7f25e034728feaa8ef48865",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38158",
@@ -930,5 +925,17 @@
       "analyzedAt": "2026-09-05T08:26:21.322Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:34:b7f25e034728feaa8ef48865"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38159",
+    "https://www.trumpstruth.org/statuses/38161",
+    "https://www.trumpstruth.org/statuses/38164",
+    "https://www.trumpstruth.org/statuses/38177",
+    "https://www.trumpstruth.org/statuses/38176",
+    "https://www.trumpstruth.org/statuses/38166",
+    "https://www.trumpstruth.org/statuses/38178",
+    "https://www.trumpstruth.org/statuses/38191",
+    "https://www.trumpstruth.org/statuses/38190",
+    "https://www.trumpstruth.org/statuses/38189",
+    "https://www.trumpstruth.org/statuses/38188"
+  ]
 }

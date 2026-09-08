@@ -6,27 +6,27 @@
     "negative": 6
   },
   "summary": "positive:5 neutral:13 negative:6",
-  "generatedAt": "2026-09-07T18:10:00.693Z",
+  "generatedAt": "2026-09-08T08:24:20.168Z",
   "topics": [
-    "Trump amplifies allegations that the Southern Poverty Law Center committed fraud and targeted conservatives",
-    "Trump and supporters allege Obama-era officials conspired over the 2016 Russia investigation",
-    "Trump highlights birth-tourism concerns and efforts to restrict birthright citizenship"
+    "Trump amplifies allegations that Southern Poverty Law Center defrauded and targeted conservatives",
+    "Trump attacks Chuck Schumer, Candace Owens, and Hakeem Jeffries",
+    "Trump advances restrictions on birthright citizenship and birth tourism"
   ],
-  "trendingTopic": "Trump amplifies allegations that the Southern Poverty Law Center committed fraud and targeted conservatives",
+  "trendingTopic": "Trump amplifies allegations that Southern Poverty Law Center defrauded and targeted conservatives",
   "secondaryHighlights": [
     {
-      "topic": "Trump and supporters allege Obama-era officials conspired over the 2016 Russia investigation"
+      "topic": "Trump promotes rapid renovations at the Lincoln Memorial Reflecting Pool and Lafayette Park fountains"
     },
     {
-      "topic": "Mike Lee proposes requiring senators to speak during filibusters",
-      "name": "Mike Lee"
+      "topic": "Posts accuse Barack Obama and Hillary Clinton of directing treasonous election-related operations"
     },
     {
-      "topic": "Trump showcases restoration work at the National Mall Reflecting Pool"
+      "topic": "Trump says Supreme Court tariff ruling cost the United States $159 billion"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:29:ea41940fec8d64e6b40a2dbf",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:29:ea41940fec8d64e6b40a2dbf",
+  "selfPraiseCacheKey": "self-praise-v2:29:ea41940fec8d64e6b40a2dbf",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38022",
@@ -807,5 +807,8 @@
       "analyzedAt": "2026-09-05T08:47:20.600Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:29:ea41940fec8d64e6b40a2dbf"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38044",
+    "https://www.trumpstruth.org/statuses/38045"
+  ]
 }

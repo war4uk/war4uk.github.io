@@ -6,27 +6,24 @@
     "negative": 6
   },
   "summary": "positive:37 neutral:14 negative:6",
-  "generatedAt": "2026-09-07T18:18:29.595Z",
+  "generatedAt": "2026-09-08T08:30:27.260Z",
   "topics": [
-    "Endorses and praises Republican candidates and incumbents across Alabama, Georgia, Idaho, Kentucky, Oregon, and Pennsylvania",
-    "Escalates attacks on Thomas Massie while promoting allegations from his former girlfriend",
-    "Threatens military action against Iran while saying regional leaders asked him to delay the attack"
+    "Endorses 37 Republican candidates across Alabama, Georgia, Idaho, Kentucky, Oregon, and Pennsylvania for May 19 elections",
+    "Attacks Thomas Massie while promoting allegations from his former girlfriend",
+    "Postpones a planned Iran attack as Middle Eastern leaders pursue a nuclear deal"
   ],
-  "trendingTopic": "Endorses and praises Republican candidates and incumbents across six states",
+  "trendingTopic": "Endorses 37 Republican candidates across six states ahead of May 19 elections",
   "secondaryHighlights": [
     {
-      "topic": "Escalates attacks on Thomas Massie while promoting allegations from his former girlfriend",
-      "name": "Thomas Massie"
+      "topic": "Attacks Thomas Massie while promoting allegations from his former girlfriend"
     },
     {
-      "topic": "Threatens military action against Iran while saying regional leaders asked him to delay the attack"
-    },
-    {
-      "topic": "Claims Maryland officials mishandled 500,000 allegedly illegal mail-in ballots"
+      "topic": "Postpones a planned Iran attack as Middle Eastern leaders pursue a nuclear deal"
     }
   ],
   "selfPraiseCount": 10,
-  "topicsCacheKey": "day-themes-v10:57:6d7803520b59ea373f17019c",
+  "topicsCacheKey": "day-themes-v11:57:6d7803520b59ea373f17019c",
+  "selfPraiseCacheKey": "self-praise-v2:57:6d7803520b59ea373f17019c",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38567",
@@ -1403,5 +1400,16 @@
       "analyzedAt": "2026-09-05T08:29:33.125Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:57:6d7803520b59ea373f17019c"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38572",
+    "https://www.trumpstruth.org/statuses/38571",
+    "https://www.trumpstruth.org/statuses/38570",
+    "https://www.trumpstruth.org/statuses/38576",
+    "https://www.trumpstruth.org/statuses/38583",
+    "https://www.trumpstruth.org/statuses/38582",
+    "https://www.trumpstruth.org/statuses/38581",
+    "https://www.trumpstruth.org/statuses/38591",
+    "https://www.trumpstruth.org/statuses/38588",
+    "https://www.trumpstruth.org/statuses/38595"
+  ]
 }

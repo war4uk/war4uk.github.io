@@ -6,26 +6,24 @@
     "negative": 8
   },
   "summary": "positive:5 neutral:22 negative:8",
-  "generatedAt": "2026-09-07T18:09:11.189Z",
+  "generatedAt": "2026-09-08T08:23:44.673Z",
   "topics": [
-    "Trump says Iran is financially collapsing as his blockade pressures Tehran to reopen the Strait of Hormuz",
-    "Trump revisits The Apprentice’s 2004 ratings success and calls it his final season",
-    "Attacks immigrant access to SNAP and promotes ending birthright citizenship"
+    "Trump pressures Iran over the Strait of Hormuz blockade and intervenes to halt executions of eight women protesters",
+    "Trump alleges election fraud and Biden-era lawfare undermined Republican victories",
+    "Trump attacks Supreme Court justices over tariff refunds and birthright citizenship"
   ],
-  "trendingTopic": "Trump says Iran is financially collapsing as his blockade pressures Tehran to reopen the Strait of Hormuz",
+  "trendingTopic": "Trump says Iran is financially collapsing under the Strait of Hormuz blockade and credits pressure for halting executions",
   "secondaryHighlights": [
     {
-      "topic": "Trump claims Virginia Republicans were denied victory by a late mail-in ballot drop"
+      "topic": "Trump alleges election fraud and Biden-era lawfare undermined Republican victories"
     },
     {
-      "topic": "Trump praises Senate leaders’ reconciliation bill to fund Border Patrol and ICE"
-    },
-    {
-      "topic": "Trump says eight Iranian women facing execution will no longer be killed"
+      "topic": "Trump attacks Supreme Court justices over tariff refunds and birthright citizenship"
     }
   ],
   "selfPraiseCount": 5,
-  "topicsCacheKey": "day-themes-v10:35:0461040b55736376544d827b",
+  "topicsCacheKey": "day-themes-v11:35:0461040b55736376544d827b",
+  "selfPraiseCacheKey": "self-praise-v2:35:0461040b55736376544d827b",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37965",
@@ -920,5 +918,11 @@
       "analyzedAt": "2026-09-05T08:46:55.965Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:35:0461040b55736376544d827b"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/37965",
+    "https://www.trumpstruth.org/statuses/37966",
+    "https://www.trumpstruth.org/statuses/37988",
+    "https://www.trumpstruth.org/statuses/37990",
+    "https://www.trumpstruth.org/statuses/37991"
+  ]
 }

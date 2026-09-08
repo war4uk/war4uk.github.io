@@ -6,19 +6,29 @@
     "negative": 2
   },
   "summary": "positive:3 neutral:8 negative:2",
-  "generatedAt": "2026-09-07T18:25:52.459Z",
+  "generatedAt": "2026-09-08T08:37:06.232Z",
   "topics": [
-    "Highlights Washington projects involving Andrews golf-course renovations, the Reflecting Pool, and a proposed drone port",
-    "Nominates Stuart Nash and Judge James Crowell to the D.C. Court of Appeals"
+    "Trump nominates Stuart Nash and James Crowell to the D.C. Court of Appeals",
+    "Trump condemns Maryland Governor Wes Moore for halting Joint Base Andrews golf course renovations",
+    "Trump announces completion of Reflecting Pool repairs and plans further Washington landmarks"
   ],
-  "trendingTopic": "Highlights Washington projects involving Andrews golf-course renovations, the Reflecting Pool, and a proposed drone port",
+  "trendingTopic": "Trump nominates Stuart Nash and James Crowell to the District of Columbia Court of Appeals",
   "secondaryHighlights": [
     {
-      "topic": "Nominates Stuart Nash and Judge James Crowell to the D.C. Court of Appeals"
+      "topic": "Trump condemns Maryland Governor Wes Moore for halting Joint Base Andrews golf course renovations",
+      "name": "Wes Moore"
+    },
+    {
+      "topic": "Trump announces completion of Reflecting Pool repairs and plans further Washington landmarks"
+    },
+    {
+      "topic": "Trump demands Judge Leon quickly step aside, accusing him of endangering the country",
+      "name": "Judge Leon"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:13:ad23c0a34bd53b58a39c3bbc",
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v11:13:ad23c0a34bd53b58a39c3bbc",
+  "selfPraiseCacheKey": "self-praise-v2:13:ad23c0a34bd53b58a39c3bbc",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39123",
@@ -367,5 +377,10 @@
       "analyzedAt": "2026-09-05T08:34:25.313Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:13:ad23c0a34bd53b58a39c3bbc"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39129",
+    "https://www.trumpstruth.org/statuses/39134",
+    "https://www.trumpstruth.org/statuses/39133",
+    "https://www.trumpstruth.org/statuses/39132"
+  ]
 }

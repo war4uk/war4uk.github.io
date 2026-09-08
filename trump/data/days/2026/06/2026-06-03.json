@@ -6,28 +6,27 @@
     "negative": 3
   },
   "summary": "positive:5 neutral:20 negative:3",
-  "generatedAt": "2026-09-07T18:24:43.462Z",
+  "generatedAt": "2026-09-08T08:36:04.663Z",
   "topics": [
-    "Trump-endorsed Republicans win congressional and gubernatorial primaries across several states",
-    "Trump condemns communism as destructive despite early voter support",
-    "Supreme Court clears Alabama to use GOP-friendly congressional map this fall"
+    "Trump-backed Republican candidates win primaries across New Jersey, Iowa, South Dakota, New Mexico, Montana, and California",
+    "Trump warns that communist governments lead to violence, poverty, and destruction",
+    "Trump says Republican fraud investigations could uncover billions and enable further tax cuts"
   ],
-  "trendingTopic": "Trump-endorsed Republicans win congressional and gubernatorial primaries across several states",
+  "trendingTopic": "Trump-backed Republican candidates win primaries across New Jersey, Iowa, South Dakota, New Mexico, Montana, and California",
   "secondaryHighlights": [
     {
-      "topic": "Endorses Adriana Guzmán Fralick for Nevada attorney general",
-      "name": "Adriana Guzmán Fralick"
+      "topic": "Supreme Court allows Alabama to use a GOP-favored congressional map in fall elections"
     },
     {
-      "topic": "Congratulates Colombian presidential candidate Abelardo de la Espriella on reaching the runoff",
-      "name": "Abelardo de la Espriella"
+      "topic": "Trump announces completion of restoration work on the Washington Monument reflecting pool"
     },
     {
-      "topic": "EPA chief refers alleged Democratic self-dealing in green energy grants for criminal investigation"
+      "topic": "Trump plans to attend G7 meetings after UFC championship fights at the White House"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:28:c98b09d3f4d31d999b33a3b0",
+  "selfPraiseCount": 7,
+  "topicsCacheKey": "day-themes-v11:28:c98b09d3f4d31d999b33a3b0",
+  "selfPraiseCacheKey": "self-praise-v2:28:c98b09d3f4d31d999b33a3b0",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39048",
@@ -436,7 +435,7 @@
       "id": "https://www.trumpstruth.org/statuses/39066",
       "publishedAt": "2026-06-03T03:44:28.000Z",
       "title": "[No Title] - Post from June 3, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A large crowd gathers behind a patriotic stage decorated with red, white, and blue bunting and stars. Donald Trump stands at a central podium facing the audience, seen from behind, with two security personnel positioned on either side. A bold headline across the top reads, “The Greatest Attraction.”",
       "url": "https://www.trumpstruth.org/statuses/39066",
       "raw": {
         "creator": "",
@@ -448,7 +447,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/39066",
         "isoDate": "2026-06-03T03:44:28.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-08T08:20:24.731Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/16597/fc233e0ae3e8bbce.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/39065",
@@ -773,5 +776,13 @@
       "analyzedAt": "2026-09-05T08:33:47.289Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:28:c98b09d3f4d31d999b33a3b0"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39050",
+    "https://www.trumpstruth.org/statuses/39066",
+    "https://www.trumpstruth.org/statuses/39065",
+    "https://www.trumpstruth.org/statuses/39067",
+    "https://www.trumpstruth.org/statuses/39068",
+    "https://www.trumpstruth.org/statuses/39069",
+    "https://www.trumpstruth.org/statuses/39073"
+  ]
 }

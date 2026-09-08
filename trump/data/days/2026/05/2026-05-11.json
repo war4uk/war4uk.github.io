@@ -6,23 +6,27 @@
     "negative": 5
   },
   "summary": "positive:11 neutral:13 negative:5",
-  "generatedAt": "2026-09-07T18:15:21.021Z",
+  "generatedAt": "2026-09-08T08:28:12.873Z",
   "topics": [
-    "Trump nominates six judges to federal courts, including appeals seats in the Eighth and Tenth Circuits",
-    "Trump-backed redistricting effort produces Indiana primary victories as South Carolina Senate prepares vote",
-    "White House ballroom construction progresses ahead of schedule"
+    "Nominates six federal judicial candidates across appellate and district courts",
+    "Trump-backed Republicans win Indiana Senate primary contests",
+    "Urges Congress to restrict Wall Street purchases of single-family homes"
   ],
-  "trendingTopic": "Trump nominates six judges to federal courts, including appeals seats in the Eighth and Tenth Circuits",
+  "trendingTopic": "Donald Trump nominates six federal judicial candidates for appellate and district court seats",
   "secondaryHighlights": [
     {
-      "topic": "Trump-backed redistricting effort produces Indiana primary victories as South Carolina Senate prepares vote"
+      "topic": "Urges South Carolina Republicans to pass redistricting changes and move House primaries to August"
     },
     {
-      "topic": "White House ballroom construction progresses ahead of schedule"
+      "topic": "Plans a diplomatic trip to China and praises President Xi Jinping"
+    },
+    {
+      "topic": "Argues the Supreme Court’s tariff ruling could cost America $159 billion"
     }
   ],
-  "selfPraiseCount": 6,
-  "topicsCacheKey": "day-themes-v10:35:70fb4abfbad3e1bd21929b39",
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v11:35:70fb4abfbad3e1bd21929b39",
+  "selfPraiseCacheKey": "self-praise-v2:35:70fb4abfbad3e1bd21929b39",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38332",
@@ -883,5 +887,11 @@
       "analyzedAt": "2026-09-05T08:27:46.190Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:35:70fb4abfbad3e1bd21929b39"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38332",
+    "https://www.trumpstruth.org/statuses/38331",
+    "https://www.trumpstruth.org/statuses/38327",
+    "https://www.trumpstruth.org/statuses/38333",
+    "https://www.trumpstruth.org/statuses/38351"
+  ]
 }

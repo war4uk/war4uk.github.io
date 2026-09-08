@@ -6,28 +6,29 @@
     "negative": 6
   },
   "summary": "positive:7 neutral:4 negative:6",
-  "generatedAt": "2026-09-07T18:08:49.472Z",
+  "generatedAt": "2026-09-08T08:23:27.398Z",
   "topics": [
-    "Trump addresses Iran’s fractured government after nuclear-site strikes and repeated ceasefire violations",
-    "Trump attacks Democrats and major media outlets over Ukraine and Iran coverage",
-    "Trump highlights resilient consumer spending and tax benefits for seniors"
+    "Extends Iran ceasefire and defends Operation Midnight Hammer’s destruction of Iranian nuclear sites",
+    "Backs efforts to repudiate Democrats’ Ukraine-based 2019 impeachment narrative",
+    "Highlights resilient consumers and stronger senior approval under his economic agenda"
   ],
-  "trendingTopic": "Trump says Iran faces a fractured government after nuclear-site strikes and repeated ceasefire violations",
+  "trendingTopic": "Trump extends Iran ceasefire, demands negotiations, and defends strikes that destroyed Iranian nuclear sites",
   "secondaryHighlights": [
+    {
+      "topic": "Secures agreement to keep two Pennsylvania coal plants open"
+    },
     {
       "topic": "Endorses Anthony Constantino for New York’s 21st Congressional District",
       "name": "Anthony Constantino"
     },
     {
-      "topic": "Trump administration and Pennsylvania agree to keep two coal plants open"
-    },
-    {
-      "topic": "Praises Elise Stefanik’s book exposing problems at elite universities",
+      "topic": "Promotes Elise Stefanik’s book on ideological and moral problems at elite universities",
       "name": "Elise Stefanik"
     }
   ],
-  "selfPraiseCount": 4,
-  "topicsCacheKey": "day-themes-v10:17:b0652dee970b9503c65be2f7",
+  "selfPraiseCount": 6,
+  "topicsCacheKey": "day-themes-v11:17:b0652dee970b9503c65be2f7",
+  "selfPraiseCacheKey": "self-praise-v2:17:b0652dee970b9503c65be2f7",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37948",
@@ -455,5 +456,12 @@
       "analyzedAt": "2026-09-05T08:46:37.906Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:17:b0652dee970b9503c65be2f7"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/37950",
+    "https://www.trumpstruth.org/statuses/37949",
+    "https://www.trumpstruth.org/statuses/37953",
+    "https://www.trumpstruth.org/statuses/37957",
+    "https://www.trumpstruth.org/statuses/37962",
+    "https://www.trumpstruth.org/statuses/37963"
+  ]
 }

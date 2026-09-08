@@ -6,27 +6,28 @@
     "negative": 2
   },
   "summary": "positive:6 neutral:16 negative:2",
-  "generatedAt": "2026-09-07T18:20:06.387Z",
+  "generatedAt": "2026-09-08T08:31:59.678Z",
   "topics": [
-    "Trump highlights China-friendly ties alongside imagery of his meeting with President Xi Jinping",
-    "Meridian Hill Park’s Cascades shown in historic and restored views",
-    "Trump thanks Erdogan and speaks with Saudi, UAE, and Qatar leaders"
+    "Trump says a peace agreement involving Iran and Middle Eastern allies is nearly finalized",
+    "Trump highlights cordial relations with China and President Xi Jinping",
+    "Trump celebrates the Dow Jones reaching an all-time high above 50,702"
   ],
-  "trendingTopic": "Trump highlights China-friendly ties alongside imagery of his meeting with President Xi Jinping",
+  "trendingTopic": "Trump says a peace agreement involving Iran and Middle Eastern allies is nearly finalized, reopening the Strait of Hormuz",
   "secondaryHighlights": [
-    {
-      "topic": "Republicans urged to attach the SAVE America Act to legislation sent to the Senate"
-    },
     {
       "topic": "Article credits Trump and Republicans with a major decline in American crime"
     },
     {
-      "topic": "New York Governor Kathy Hochul criticized over sanctuary policies limiting cooperation with ICE",
-      "name": "Kathy Hochul"
+      "topic": "Urges House Republicans to attach the SAVE America Act to all legislation sent to the Senate"
+    },
+    {
+      "topic": "Thomas Massie’s congressional tenure is reportedly coming to an end",
+      "name": "Thomas Massie"
     }
   ],
-  "selfPraiseCount": 9,
-  "topicsCacheKey": "day-themes-v10:24:0494ff968b4a484f04be534e",
+  "selfPraiseCount": 8,
+  "topicsCacheKey": "day-themes-v11:24:0494ff968b4a484f04be534e",
+  "selfPraiseCacheKey": "self-praise-v2:24:0494ff968b4a484f04be534e",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38720",
@@ -676,5 +677,14 @@
       "analyzedAt": "2026-09-05T08:30:51.179Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:24:0494ff968b4a484f04be534e"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38720",
+    "https://www.trumpstruth.org/statuses/38719",
+    "https://www.trumpstruth.org/statuses/38731",
+    "https://www.trumpstruth.org/statuses/38730",
+    "https://www.trumpstruth.org/statuses/38725",
+    "https://www.trumpstruth.org/statuses/38742",
+    "https://www.trumpstruth.org/statuses/38733",
+    "https://www.trumpstruth.org/statuses/38732"
+  ]
 }

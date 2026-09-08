@@ -6,23 +6,27 @@
     "negative": 5
   },
   "summary": "positive:6 neutral:27 negative:5",
-  "generatedAt": "2026-09-07T18:26:46.354Z",
+  "generatedAt": "2026-09-08T08:37:54.237Z",
   "topics": [
-    "Trump-endorsed candidates sweep June 9 Republican primaries across four states",
-    "U.S. forces strike Iran after Apache downing as Trump touts blockade and tanker mission",
-    "Trump congratulates Narendra Modi, Nikol Pashinyan, and Abelardo de la Espriella on victories"
+    "Trump-endorsed candidates sweep June 9 Republican primaries across South Carolina, Nevada, North Dakota, and Maine",
+    "Trump declares Iran defeated as U.S. forces secure the Strait of Hormuz and enforce a naval blockade",
+    "Trump congratulates foreign leaders and backs Colombia candidate Abelardo de la Espriella"
   ],
-  "trendingTopic": "Trump celebrates 16-0 Republican endorsement sweep across South Carolina, Nevada, North Dakota, and Maine",
+  "trendingTopic": "Trump-endorsed candidates win all 16 June 9 Republican primary contests across four states",
   "secondaryHighlights": [
     {
-      "topic": "U.S. forces launch strikes against Iran as Trump touts naval blockade and tanker mission"
+      "topic": "Trump declares Iran defeated as U.S. forces secure the Strait of Hormuz and enforce a naval blockade"
     },
     {
-      "topic": "Trump congratulates Narendra Modi, Nikol Pashinyan, and Abelardo de la Espriella on election victories"
+      "topic": "Trump congratulates Narendra Modi and Nikol Pashinyan while endorsing Colombia’s Abelardo de la Espriella"
+    },
+    {
+      "topic": "Trump attacks Stephen A. Smith and Joe Scarborough over their political commentary and television ratings"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:38:e5fd98f3c30c1385ce69acc1",
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v11:38:e5fd98f3c30c1385ce69acc1",
+  "selfPraiseCacheKey": "self-praise-v2:38:e5fd98f3c30c1385ce69acc1",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39179",
@@ -1028,5 +1032,10 @@
       "analyzedAt": "2026-09-05T08:35:16.131Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:38:e5fd98f3c30c1385ce69acc1"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39191",
+    "https://www.trumpstruth.org/statuses/39198",
+    "https://www.trumpstruth.org/statuses/39202",
+    "https://www.trumpstruth.org/statuses/39210"
+  ]
 }

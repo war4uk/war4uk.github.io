@@ -6,23 +6,22 @@
     "negative": 5
   },
   "summary": "positive:12 neutral:9 negative:5",
-  "generatedAt": "2026-09-07T18:07:06.031Z",
+  "generatedAt": "2026-09-08T08:22:32.577Z",
   "topics": [
-    "Iran agrees to keep the Strait of Hormuz open as U.S. blockade and mine-clearing operations continue",
-    "Trump-backed tariffs spur Apple and major automakers to expand U.S. manufacturing",
-    "Trump allies highlight ICE enforcement and a fight over funding for DHS, ICE, and CBP"
+    "Trump announces Iran agreement keeps Strait of Hormuz open, removes mines, and separates Lebanon negotiations",
+    "Trump touts U.S. economic strength, Apple manufacturing expansion, and tariff-linked auto investments",
+    "Trump denounces Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones"
   ],
-  "trendingTopic": "Iran agrees to keep the Strait of Hormuz open as U.S. blockade and mine-clearing operations continue",
+  "trendingTopic": "Trump announces Iran agreement keeps Strait of Hormuz open, removes mines, and separates Lebanon negotiations",
   "secondaryHighlights": [
     {
-      "topic": "Trump-backed tariffs spur Apple and major automakers to expand U.S. manufacturing"
-    },
-    {
-      "topic": "Trump allies highlight ICE enforcement and a fight over funding for DHS, ICE, and CBP"
+      "topic": "Trump endorses Ronny Jackson for reelection while praising his military and congressional record",
+      "name": "Ronny Jackson"
     }
   ],
-  "selfPraiseCount": 4,
-  "topicsCacheKey": "day-themes-v10:26:a969096b9b2029e6c51695a7",
+  "selfPraiseCount": 7,
+  "topicsCacheKey": "day-themes-v11:26:a969096b9b2029e6c51695a7",
+  "selfPraiseCacheKey": "self-praise-v2:26:a969096b9b2029e6c51695a7",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37825",
@@ -683,5 +682,13 @@
       "analyzedAt": "2026-09-05T08:45:38.729Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:26:a969096b9b2029e6c51695a7"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/37826",
+    "https://www.trumpstruth.org/statuses/37827",
+    "https://www.trumpstruth.org/statuses/37838",
+    "https://www.trumpstruth.org/statuses/37847",
+    "https://www.trumpstruth.org/statuses/37845",
+    "https://www.trumpstruth.org/statuses/37844",
+    "https://www.trumpstruth.org/statuses/37839"
+  ]
 }

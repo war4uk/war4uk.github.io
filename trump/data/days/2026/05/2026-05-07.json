@@ -6,20 +6,24 @@
     "negative": 3
   },
   "summary": "positive:11 neutral:5 negative:3",
-  "generatedAt": "2026-09-07T18:14:01.920Z",
+  "generatedAt": "2026-09-08T08:27:07.994Z",
   "topics": [
-    "Endorses Barry Moore and Jackson Lahmeyer, and backs Mike Lawler in congressional races",
-    "Dow Jones reaches an all-time high as stocks surge",
-    "Highlights U.S. destroyers surviving Iranian attacks and compares the Iran conflict with past wars"
+    "Endorses Barry Moore, Jackson Lahmeyer, and Mike Lawler for congressional races",
+    "Highlights record stock market performance and booming jobs and retirement accounts",
+    "Discusses trade with Brazil and presses the European Union to cut tariffs"
   ],
-  "trendingTopic": "Endorses Barry Moore and Jackson Lahmeyer, and backs Mike Lawler in congressional races",
+  "trendingTopic": "Trump endorses Barry Moore, Jackson Lahmeyer, and Mike Lawler for congressional races",
   "secondaryHighlights": [
     {
-      "topic": "Discusses trade with Brazil’s Lula and Iran’s nuclear threat with European Commission President Ursula von der Leyen"
+      "topic": "Highlights record stock market performance and booming jobs and retirement accounts"
+    },
+    {
+      "topic": "Discusses trade with Brazil and presses the European Union to cut tariffs"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:19:a7c5500b3b4cd8c472a67e66",
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v11:19:a7c5500b3b4cd8c472a67e66",
+  "selfPraiseCacheKey": "self-praise-v2:19:a7c5500b3b4cd8c472a67e66",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38248",
@@ -504,5 +508,11 @@
       "analyzedAt": "2026-09-05T08:26:59.252Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:19:a7c5500b3b4cd8c472a67e66"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38249",
+    "https://www.trumpstruth.org/statuses/38251",
+    "https://www.trumpstruth.org/statuses/38256",
+    "https://www.trumpstruth.org/statuses/38263",
+    "https://www.trumpstruth.org/statuses/38266"
+  ]
 }

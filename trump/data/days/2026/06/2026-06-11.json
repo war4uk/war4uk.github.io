@@ -6,27 +6,27 @@
     "negative": 4
   },
   "summary": "positive:2 neutral:5 negative:4",
-  "generatedAt": "2026-09-07T18:26:56.768Z",
+  "generatedAt": "2026-09-08T08:38:01.015Z",
   "topics": [
-    "Trump cancels planned strikes on Iran after talks reach Iran’s highest leadership",
-    "Calls on Congress to pass a forthcoming $350 billion military and national security package",
-    "Nominates former SEC Chairman Jay Clayton to a senior administration position"
+    "Trump cancels planned strikes on Iran after high-level talks while retaining the naval blockade",
+    "Trump urges Congress to pass Recon 3.0 military funding and the SAVE AMERICA Act",
+    "Trump nominates Jay Clayton to become Director of National Intelligence"
   ],
-  "trendingTopic": "Donald Trump cancels planned strikes on Iran after talks reach Iran’s highest leadership",
+  "trendingTopic": "Trump cancels planned strikes on Iran after high-level talks while retaining the naval blockade",
   "secondaryHighlights": [
     {
-      "topic": "Rejects birthright citizenship in the United States"
+      "topic": "Trump rejects birthright citizenship as economically unsustainable"
     },
     {
-      "topic": "Highlights weapons seized from Mexican cartels after an Arizona operation"
+      "topic": "Trump showcases weapons seized from Mexican cartels"
     },
     {
-      "topic": "Attacks Jamie Raskin and predicts renewed impeachment efforts",
-      "name": "Jamie Raskin"
+      "topic": "Trump attacks Jamie Raskin and backs calls to expel him"
     }
   ],
   "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:11:b72339e7af99fd8372adde91",
+  "topicsCacheKey": "day-themes-v11:11:b72339e7af99fd8372adde91",
+  "selfPraiseCacheKey": "self-praise-v2:11:b72339e7af99fd8372adde91",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39211",
@@ -303,5 +303,8 @@
       "analyzedAt": "2026-09-05T08:35:24.730Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:11:b72339e7af99fd8372adde91"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39211",
+    "https://www.trumpstruth.org/statuses/39221"
+  ]
 }

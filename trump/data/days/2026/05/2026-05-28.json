@@ -6,27 +6,24 @@
     "negative": 1
   },
   "summary": "positive:1 neutral:6 negative:1",
-  "generatedAt": "2026-09-07T18:21:39.184Z",
+  "generatedAt": "2026-09-08T08:33:26.866Z",
   "topics": [
-    "Highlights Trump administration restoration projects at Washington, D.C.'s Reflecting Pool and Columbus Circle",
-    "Calls for release of Biden tapes so Americans can hear the evidence",
-    "Claims newly revealed documents show Trump's first impeachment was fraudulent"
+    "Gregg Jarrett calls for Biden tapes release and labels Trump's first impeachment fraudulent",
+    "Trump administration's Intel investment reportedly rises from $8.9 billion to more than $51 billion",
+    "Trump's chosen blue for the Lincoln Memorial Reflecting Pool draws attention over sharper reflections"
   ],
-  "trendingTopic": "Trump administration highlights Washington, D.C., beautification projects restoring the Reflecting Pool and Columbus Circle",
+  "trendingTopic": "Gregg Jarrett says Biden tapes should be released and first Trump impeachment was fraudulent",
   "secondaryHighlights": [
     {
-      "topic": "Claims Trump's $8.9 billion Intel investment is now worth more than $51 billion"
+      "topic": "Trump administration's Intel investment reportedly rises from $8.9 billion to more than $51 billion"
     },
     {
-      "topic": "Calls for release of Biden tapes so Americans can hear the evidence",
-      "name": "Joe Biden"
-    },
-    {
-      "topic": "Claims newly revealed documents show Trump's first impeachment was fraudulent"
+      "topic": "Trump's chosen blue for the Lincoln Memorial Reflecting Pool draws attention over sharper reflections"
     }
   ],
-  "selfPraiseCount": 4,
-  "topicsCacheKey": "day-themes-v10:8:4e8c6a1daf884a9202eca3b8",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:8:4e8c6a1daf884a9202eca3b8",
+  "selfPraiseCacheKey": "self-praise-v2:8:4e8c6a1daf884a9202eca3b8",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38840",
@@ -244,5 +241,8 @@
       "analyzedAt": "2026-09-05T08:31:52.863Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:8:4e8c6a1daf884a9202eca3b8"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38841",
+    "https://www.trumpstruth.org/statuses/38846"
+  ]
 }

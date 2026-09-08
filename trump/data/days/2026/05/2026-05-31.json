@@ -6,24 +6,28 @@
     "negative": 2
   },
   "summary": "positive:7 neutral:13 negative:2",
-  "generatedAt": "2026-09-07T18:23:06.144Z",
+  "generatedAt": "2026-09-08T08:35:09.765Z",
   "topics": [
-    "Republican lawmakers seek a presidential pardon for former Congressman Stephen Buyer",
-    "Announces Tom Barrack as special envoy to Syria and Iraq",
-    "Reports excellent physical examination and a perfect cognitive-test score"
+    "Republican lawmakers petition Trump to pardon former Congressman Stephen Buyer over insider-trading conviction",
+    "Trump touts perfect scores on four high-difficulty cognitive tests and calls for presidential candidates to take them",
+    "Trump appoints Tom Barrack as special envoy to Syria and Iraq while retaining his Türkiye ambassadorship"
   ],
-  "trendingTopic": "Republican lawmakers seek a presidential pardon for former Congressman Stephen Buyer",
+  "trendingTopic": "Republican lawmakers petition Trump to pardon former Congressman Stephen Buyer over insider-trading conviction",
+  "trendingName": "Stephen Buyer",
   "secondaryHighlights": [
     {
-      "topic": "Announces Tom Barrack as special envoy to Syria and Iraq",
-      "name": "Tom Barrack"
+      "topic": "Trump defends the White House ballroom DronePort and demands dismissal of the lawsuit challenging it"
     },
     {
-      "topic": "Reports excellent physical examination and a perfect cognitive-test score"
+      "topic": "Trump promotes the SAVE AMERICA Act requiring voter identification and proof of citizenship while restricting mail voting"
+    },
+    {
+      "topic": "Trump says his Iran nuclear deal bars Tehran from obtaining nuclear weapons, rejecting CNN’s criticism"
     }
   ],
-  "selfPraiseCount": 4,
-  "topicsCacheKey": "day-themes-v10:22:58e410e283106c3c4a9298e5",
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v11:22:58e410e283106c3c4a9298e5",
+  "selfPraiseCacheKey": "self-praise-v2:22:58e410e283106c3c4a9298e5",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38951",
@@ -598,6 +602,11 @@
       "analyzedAt": "2026-09-05T08:32:52.488Z"
     }
   ],
-  "trendingName": "Stephen Buyer",
-  "selfPraiseCacheKey": "self-praise-v1:22:58e410e283106c3c4a9298e5"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38955",
+    "https://www.trumpstruth.org/statuses/38957",
+    "https://www.trumpstruth.org/statuses/38960",
+    "https://www.trumpstruth.org/statuses/38965",
+    "https://www.trumpstruth.org/statuses/38970"
+  ]
 }

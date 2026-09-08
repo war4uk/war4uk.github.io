@@ -6,26 +6,24 @@
     "negative": 0
   },
   "summary": "positive:7 neutral:10 negative:0",
-  "generatedAt": "2026-09-07T18:14:23.133Z",
+  "generatedAt": "2026-09-08T08:27:22.236Z",
   "topics": [
-    "Trump touts S&P 500 above 7,300 as an all-time high under his presidency",
-    "Bryson DeChambeau demonstrates fitness testing at the White House",
-    "Trump highlights a short Iran operation and a U.S. laser strike on an Iranian aircraft"
+    "Trump highlights the S&P 500 reaching an all-time high above 7,300",
+    "Trump promotes White House fitness demonstrations supporting reinstatement of the Presidential Fitness Test",
+    "Trump showcases military imagery and a six-week comparison of the Iran conflict"
   ],
-  "trendingTopic": "Trump touts S&P 500 above 7,300 as an all-time high under his presidency",
+  "trendingTopic": "Trump highlights the S&P 500 reaching an all-time high above 7,300",
   "secondaryHighlights": [
     {
-      "topic": "Trump announces a three-day Russia-Ukraine ceasefire for Victory Day"
+      "topic": "Trump promotes White House fitness demonstrations supporting reinstatement of the Presidential Fitness Test"
     },
     {
-      "topic": "Trump announces release of the first tranche of UFO and UAP files"
-    },
-    {
-      "topic": "Trump celebrates April job growth exceeding economists’ expectations"
+      "topic": "Trump showcases military imagery and a six-week comparison of the Iran conflict"
     }
   ],
-  "selfPraiseCount": 5,
-  "topicsCacheKey": "day-themes-v10:17:6e9cb5fbb1bfa092612e1e9b",
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v11:17:6e9cb5fbb1bfa092612e1e9b",
+  "selfPraiseCacheKey": "self-praise-v2:17:6e9cb5fbb1bfa092612e1e9b",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38267",
@@ -479,5 +477,10 @@
       "analyzedAt": "2026-09-05T08:27:08.930Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:17:6e9cb5fbb1bfa092612e1e9b"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38267",
+    "https://www.trumpstruth.org/statuses/38270",
+    "https://www.trumpstruth.org/statuses/38269",
+    "https://www.trumpstruth.org/statuses/38282"
+  ]
 }

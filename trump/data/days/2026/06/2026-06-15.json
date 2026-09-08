@@ -6,26 +6,27 @@
     "negative": 6
   },
   "summary": "positive:23 neutral:5 negative:6",
-  "generatedAt": "2026-09-07T18:28:07.212Z",
+  "generatedAt": "2026-09-08T08:39:01.264Z",
   "topics": [
-    "Supports or endorses candidates in Oklahoma, Georgia, and Alabama races",
-    "Announces Washington, D.C., events celebrating America’s 250th anniversary",
-    "Claims Iran agreed to forgo nuclear weapons in a peace deal"
+    "Trump endorses 10 Republican candidates across Oklahoma’s congressional and statewide primary races",
+    "Trump says Iran agreed to forgo nuclear weapons as ships resume transit through Strait of Hormuz",
+    "Trump promotes Washington events celebrating America’s 250th anniversary"
   ],
-  "trendingTopic": "Supports or endorses candidates across Oklahoma, Georgia, and Alabama races",
+  "trendingTopic": "Trump endorses 10 Republican candidates across Oklahoma’s congressional and statewide primary races",
   "secondaryHighlights": [
     {
-      "topic": "Announces Washington, D.C., events celebrating America’s 250th anniversary"
+      "topic": "Trump says Iran agreed to forgo nuclear weapons as ships resume transit through Strait of Hormuz"
     },
     {
-      "topic": "Claims Iran agreed to forgo nuclear weapons in a peace deal"
+      "topic": "Trump promotes Washington events celebrating America’s 250th anniversary"
     },
     {
-      "topic": "Highlights oil shipments and shipping activity moving through the Strait of Hormuz"
+      "topic": "Trump highlights renovated Washington reflecting pool and its Oval Office presentation"
     }
   ],
-  "selfPraiseCount": 9,
-  "topicsCacheKey": "day-themes-v10:34:db064ec10927fc58b59bf812",
+  "selfPraiseCount": 8,
+  "topicsCacheKey": "day-themes-v11:34:db064ec10927fc58b59bf812",
+  "selfPraiseCacheKey": "self-praise-v2:34:db064ec10927fc58b59bf812",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39261",
@@ -862,5 +863,14 @@
       "analyzedAt": "2026-09-05T08:36:10.617Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:34:db064ec10927fc58b59bf812"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39267",
+    "https://www.trumpstruth.org/statuses/39268",
+    "https://www.trumpstruth.org/statuses/39282",
+    "https://www.trumpstruth.org/statuses/39281",
+    "https://www.trumpstruth.org/statuses/39280",
+    "https://www.trumpstruth.org/statuses/39279",
+    "https://www.trumpstruth.org/statuses/39277",
+    "https://www.trumpstruth.org/statuses/39292"
+  ]
 }

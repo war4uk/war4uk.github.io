@@ -6,27 +6,28 @@
     "negative": 2
   },
   "summary": "positive:5 neutral:36 negative:2",
-  "generatedAt": "2026-09-07T18:08:16.380Z",
+  "generatedAt": "2026-09-08T08:23:00.585Z",
   "topics": [
-    "Trump supporters cite Tulsi Gabbard’s files as Congress considers expunging his impeachment over alleged deep-state abuses",
-    "Trump confronts Iran over ceasefire violations, naval blockade, and attacks near the Strait of Hormuz",
-    "Trump promotes optimism, surging economic claims, and strong Republican polling"
+    "Trump escalates confrontation with Iran over ceasefire violations, blockade, and intercepted cargo ship",
+    "Trump promotes “The best is yet to come” message",
+    "Trump shares allegations that Adam Schiff leaked classified intelligence to smear him"
   ],
-  "trendingTopic": "Trump supporters cite Tulsi Gabbard’s files as Congress considers expunging his impeachment over alleged deep-state abuses",
+  "trendingTopic": "Trump threatens Iran with attacks after ceasefire violations and U.S. seizure of sanctioned cargo ship",
   "secondaryHighlights": [
     {
-      "topic": "Trump praises Israel as a courageous and loyal American ally"
+      "topic": "Trump promotes “The best is yet to come” message"
     },
     {
-      "topic": "Trump signs order directing the FDA to expedite psychedelic therapy reviews"
+      "topic": "Trump shares allegations that Adam Schiff leaked classified intelligence to smear him",
+      "name": "Adam Schiff"
     },
     {
-      "topic": "Vance’s anti-fraud task force touts early wins",
-      "name": "JD Vance"
+      "topic": "Trump highlights executive order accelerating FDA review of psychedelic addiction treatments"
     }
   ],
-  "selfPraiseCount": 8,
-  "topicsCacheKey": "day-themes-v10:43:8c5f03492c6b23d812ecee9a",
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v11:43:8c5f03492c6b23d812ecee9a",
+  "selfPraiseCacheKey": "self-praise-v2:43:8c5f03492c6b23d812ecee9a",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37889",
@@ -1119,5 +1120,11 @@
       "analyzedAt": "2026-09-05T08:46:12.186Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:43:8c5f03492c6b23d812ecee9a"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/37893",
+    "https://www.trumpstruth.org/statuses/37896",
+    "https://www.trumpstruth.org/statuses/37895",
+    "https://www.trumpstruth.org/statuses/37922",
+    "https://www.trumpstruth.org/statuses/37924"
+  ]
 }

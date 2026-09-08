@@ -6,23 +6,24 @@
     "negative": 6
   },
   "summary": "positive:2 neutral:10 negative:6",
-  "generatedAt": "2026-09-07T18:18:42.935Z",
+  "generatedAt": "2026-09-08T08:30:39.398Z",
   "topics": [
-    "Trump-backed Kentucky Republicans win primaries as he attacks Thomas Massie and touts Ed Gallrein",
-    "Trump administration highlights actions terminating green-energy regulations",
-    "Trump revisits East Palestine disaster and criticizes Biden’s response"
+    "Trump celebrates endorsed Kentucky Republicans’ primary victories while backing Ed Gallrein over Thomas Massie",
+    "Urges Congress to include the Railway Safety Act in the transportation reauthorization bill",
+    "Highlights Trump administration actions rolling back Biden-era environmental and climate policies"
   ],
-  "trendingTopic": "Trump-backed Kentucky Republicans win primaries as he attacks Thomas Massie and touts Ed Gallrein",
+  "trendingTopic": "Trump celebrates endorsed Kentucky Republicans’ primary victories while backing Ed Gallrein over Thomas Massie",
   "secondaryHighlights": [
     {
-      "topic": "Trump administration highlights actions terminating green-energy regulations"
+      "topic": "Urges Congress to include the Railway Safety Act in the transportation reauthorization bill"
     },
     {
-      "topic": "Trump revisits East Palestine disaster and criticizes Biden’s response"
+      "topic": "Highlights Trump administration actions rolling back Biden-era environmental and climate policies"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:18:438ce5500e4ff2a03e5196f4",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:18:438ce5500e4ff2a03e5196f4",
+  "selfPraiseCacheKey": "self-praise-v2:18:438ce5500e4ff2a03e5196f4",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38622",
@@ -504,5 +505,9 @@
       "analyzedAt": "2026-09-05T08:29:56.734Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:18:438ce5500e4ff2a03e5196f4"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38623",
+    "https://www.trumpstruth.org/statuses/38628",
+    "https://www.trumpstruth.org/statuses/38636"
+  ]
 }

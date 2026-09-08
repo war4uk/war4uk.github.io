@@ -6,24 +6,25 @@
     "negative": 1
   },
   "summary": "positive:3 neutral:12 negative:1",
-  "generatedAt": "2026-09-07T18:16:15.688Z",
+  "generatedAt": "2026-09-08T08:28:40.827Z",
   "topics": [
-    "Trump-endorsed candidates sweep nine West Virginia and Nebraska races with no losses",
-    "Says Nvidia CEO Jensen Huang is on Air Force One for China business gathering",
-    "Calls for firing the man who embarrassed Mitch McConnell during a hearing"
+    "Trump-endorsed candidates sweep nine West Virginia and Nebraska races with a 9-0 election record",
+    "Trump travels to China with business leaders to press Xi to open Chinese markets",
+    "Trump calls for firing Robert Karem after McConnell hearing incident and urges passage of the SAVE AMERICA ACT"
   ],
-  "trendingTopic": "Trump-endorsed candidates sweep nine West Virginia and Nebraska races with no losses",
+  "trendingTopic": "Trump-endorsed candidates sweep nine West Virginia and Nebraska races with a 9-0 election record",
   "secondaryHighlights": [
     {
-      "topic": "Says Nvidia CEO Jensen Huang is on Air Force One for China business gathering",
-      "name": "Jensen Huang"
+      "topic": "Trump travels to China with business leaders to press Xi to open Chinese markets"
     },
     {
-      "topic": "Calls for firing the man who embarrassed Mitch McConnell during a hearing"
+      "topic": "Trump calls for firing Robert Karem after McConnell hearing incident and urges passage of the SAVE AMERICA ACT",
+      "name": "Robert Karem"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:16:75076558d37157c5fd6cfbf9",
+  "topicsCacheKey": "day-themes-v11:16:75076558d37157c5fd6cfbf9",
+  "selfPraiseCacheKey": "self-praise-v2:16:75076558d37157c5fd6cfbf9",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38436",
@@ -456,5 +457,7 @@
       "analyzedAt": "2026-09-05T08:28:21.503Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:16:75076558d37157c5fd6cfbf9"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38446"
+  ]
 }

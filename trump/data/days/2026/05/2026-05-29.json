@@ -6,26 +6,28 @@
     "negative": 3
   },
   "summary": "positive:9 neutral:13 negative:3",
-  "generatedAt": "2026-09-07T18:22:06.667Z",
+  "generatedAt": "2026-09-08T08:33:54.330Z",
   "topics": [
-    "Endorses America First candidates for Nevada Congress and governor races in Iowa, South Carolina, and Oklahoma",
-    "Demands Iran renounce nuclear weapons and reopen the Strait of Hormuz without tolls",
-    "Pressures the European Union to honor Trump’s trade agreement"
+    "Endorses David Flippo, Randy Feenstra, Pam Evette, and Mike Mazzei for Nevada, Iowa, South Carolina, and Oklahoma races",
+    "Sets Iran nuclear disarmament and Strait of Hormuz shipping conditions",
+    "Trump and King Charles III appear together during White House visit"
   ],
-  "trendingTopic": "Endorses America First candidates for Nevada Congress and governor races in Iowa, South Carolina, and Oklahoma",
+  "trendingTopic": "Endorses David Flippo, Randy Feenstra, Pam Evette, and Mike Mazzei for state and congressional races",
   "secondaryHighlights": [
     {
-      "topic": "Hosts King Charles III at the White House for a ceremonial visit"
+      "topic": "Sets Iran nuclear disarmament and Strait of Hormuz shipping conditions"
     },
     {
-      "topic": "Restores historic Washington, D.C., fountains ahead of America’s 250th anniversary"
+      "topic": "Trump and King Charles III appear together during White House visit"
     },
     {
-      "topic": "Promotes Trump administration efforts restoring U.S. oil shipments to Japan"
+      "topic": "Trump administration officials press the European Union to honor its trade agreement",
+      "name": "Andrew Puzder"
     }
   ],
-  "selfPraiseCount": 6,
-  "topicsCacheKey": "day-themes-v10:25:14c72e1f04231efa1834ddeb",
+  "selfPraiseCount": 8,
+  "topicsCacheKey": "day-themes-v11:25:14c72e1f04231efa1834ddeb",
+  "selfPraiseCacheKey": "self-praise-v2:25:14c72e1f04231efa1834ddeb",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38847",
@@ -659,5 +661,14 @@
       "analyzedAt": "2026-09-05T08:32:07.653Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:25:14c72e1f04231efa1834ddeb"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38851",
+    "https://www.trumpstruth.org/statuses/38852",
+    "https://www.trumpstruth.org/statuses/38855",
+    "https://www.trumpstruth.org/statuses/38856",
+    "https://www.trumpstruth.org/statuses/38867",
+    "https://www.trumpstruth.org/statuses/38865",
+    "https://www.trumpstruth.org/statuses/38875",
+    "https://www.trumpstruth.org/statuses/38876"
+  ]
 }

@@ -6,27 +6,24 @@
     "negative": 2
   },
   "summary": "positive:3 neutral:1 negative:2",
-  "generatedAt": "2026-09-07T18:23:16.588Z",
+  "generatedAt": "2026-09-08T08:35:21.683Z",
   "topics": [
-    "Says Netanyahu halted a major Beirut raid after their conversation",
-    "Reports rapid talks with Iran toward a potential agreement",
-    "Mocks Democrats as unhappy while contrasting Obama and Trump"
+    "Trump says Israel and Hezbollah agreed to a ceasefire after he urged Netanyahu to cancel a Beirut raid",
+    "Trump says rapid Iran talks could produce a favorable deal for the United States",
+    "Shares image contrasting murky Obama-era and clear Trump-era Washington Monument Reflecting Pool"
   ],
-  "trendingTopic": "Trump says Netanyahu halted a major Beirut raid after their conversation",
-  "trendingName": "Benjamin Netanyahu",
+  "trendingTopic": "Trump says Israel and Hezbollah agreed to a ceasefire after he urged Netanyahu to cancel Beirut raid",
   "secondaryHighlights": [
     {
-      "topic": "Trump reports rapid talks with Iran toward a potential agreement"
+      "topic": "Trump says rapid Iran talks could produce a favorable deal for the United States"
     },
     {
-      "topic": "Trump mocks Democrats as unhappy"
-    },
-    {
-      "topic": "Trump shares an image contrasting Obama and Trump through Washington Monument water"
+      "topic": "Shares image contrasting murky Obama-era and clear Trump-era Washington Monument Reflecting Pool"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:6:67d46114aabc0cc7163690f6",
+  "topicsCacheKey": "day-themes-v11:6:67d46114aabc0cc7163690f6",
+  "selfPraiseCacheKey": "self-praise-v2:6:67d46114aabc0cc7163690f6",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38975",
@@ -179,5 +176,7 @@
       "analyzedAt": "2026-09-05T08:32:59.392Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:6:67d46114aabc0cc7163690f6"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38978"
+  ]
 }

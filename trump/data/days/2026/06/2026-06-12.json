@@ -6,23 +6,27 @@
     "negative": 1
   },
   "summary": "positive:4 neutral:7 negative:1",
-  "generatedAt": "2026-09-07T18:27:10.745Z",
+  "generatedAt": "2026-09-08T08:38:14.442Z",
   "topics": [
-    "Praises Sara Baxter and Julia Letlow amid their political ambitions",
-    "Trump disputes Iran's leaked account as Tehran says Islamabad memorandum nears completion",
-    "Congress passes immigration and border-security funding bill"
+    "Trump disputes Iran’s leaked account of written deal terms amid Islamabad memorandum talks",
+    "Trump highlights continued regilding and maintenance work across Washington’s National Mall",
+    "Trump endorses Julia Letlow for Louisiana’s Republican Senate nomination"
   ],
-  "trendingTopic": "Praises Sara Baxter and Julia Letlow amid their political ambitions",
+  "trendingTopic": "Trump disputes Iran’s leaked account of negotiations as Islamabad memorandum talks near completion",
   "secondaryHighlights": [
     {
-      "topic": "Trump disputes Iran's leaked account as Tehran says Islamabad memorandum nears completion"
+      "topic": "Congress passes immigration funding bill delivering a major win for Trump"
     },
     {
-      "topic": "Congress passes immigration and border-security funding bill"
+      "topic": "Trump promotes Flag Day and National Flag Week proclamation for 2026"
+    },
+    {
+      "topic": "Trump announces the Department of War’s first television ad, “Peace Through Strength”"
     }
   ],
   "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:12:9648933facbccc624f2ed0cb",
+  "topicsCacheKey": "day-themes-v11:12:9648933facbccc624f2ed0cb",
+  "selfPraiseCacheKey": "self-praise-v2:12:9648933facbccc624f2ed0cb",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39222",
@@ -337,5 +341,8 @@
       "analyzedAt": "2026-09-05T08:35:32.797Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:12:9648933facbccc624f2ed0cb"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39225",
+    "https://www.trumpstruth.org/statuses/39231"
+  ]
 }

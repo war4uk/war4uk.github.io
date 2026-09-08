@@ -6,24 +6,24 @@
     "negative": 4
   },
   "summary": "positive:4 neutral:10 negative:4",
-  "generatedAt": "2026-09-07T18:20:44.640Z",
+  "generatedAt": "2026-09-08T08:32:23.988Z",
   "topics": [
-    "Trump says enriched uranium must be surrendered or destroyed as he negotiates a potential Iran deal",
-    "Trump administration files court motions seeking to dissolve injunction against proposed White House East Wing project",
-    "Trump backs India’s Narendra Modi and says U.S.-India relations have never been closer"
+    "Trump says any Iran nuclear deal must eliminate or destroy enriched uranium",
+    "Trump honors fallen U.S. service members on Memorial Day",
+    "Trump criticizes Democrats for bad policies and candidates"
   ],
-  "trendingTopic": "Trump says enriched uranium must be surrendered or destroyed as he negotiates a potential Iran deal",
+  "trendingTopic": "Trump demands Iran surrender or destroy enriched uranium as a condition of any nuclear deal",
   "secondaryHighlights": [
     {
-      "topic": "Trump administration files court motions seeking to dissolve injunction against proposed White House East Wing project"
+      "topic": "Trump honors fallen U.S. service members on Memorial Day"
     },
     {
-      "topic": "Trump backs India’s Narendra Modi and says U.S.-India relations have never been closer",
-      "name": "Narendra Modi"
+      "topic": "Trump criticizes Democrats for bad policies and candidates"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:18:6fcf0a8933d72a6d66ca3c38",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:18:6fcf0a8933d72a6d66ca3c38",
+  "selfPraiseCacheKey": "self-praise-v2:18:6fcf0a8933d72a6d66ca3c38",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38762",
@@ -484,5 +484,8 @@
       "analyzedAt": "2026-09-05T08:31:15.823Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:18:6fcf0a8933d72a6d66ca3c38"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38763",
+    "https://www.trumpstruth.org/statuses/38777"
+  ]
 }

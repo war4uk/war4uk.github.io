@@ -6,27 +6,25 @@
     "negative": 0
   },
   "summary": "positive:6 neutral:4 negative:0",
-  "generatedAt": "2026-09-07T18:16:42.159Z",
+  "generatedAt": "2026-09-08T08:29:04.761Z",
   "topics": [
-    "Announces National Garden of American Heroes site in Washington’s West Potomac Park",
-    "Announces construction of a new American ballroom modeled after China’s facilities",
-    "Praises Julia Letlow as she runs for Senate in Louisiana"
+    "Trump announces a National Garden of American Heroes and broader West Potomac Park improvements",
+    "Trump highlights U.S.-China ties while promoting construction of a new American ballroom",
+    "Trump endorses Julia Letlow for Louisiana’s U.S. Senate seat"
   ],
-  "trendingTopic": "Trump announces National Garden of American Heroes site in Washington’s West Potomac Park",
+  "trendingTopic": "Trump announces National Garden of American Heroes as centerpiece of West Potomac Park transformation",
   "secondaryHighlights": [
     {
-      "topic": "Trump–Xi summit helps restore U.S.-China relations"
+      "topic": "Trump highlights U.S.-China ties while promoting construction of a new American ballroom"
     },
     {
-      "topic": "Trump praises Rachel Campos-Duffy’s new book celebrating American patriotism",
-      "name": "Rachel Campos-Duffy"
-    },
-    {
-      "topic": "Supporters unveil a statue of Trump in Doral"
+      "topic": "Trump endorses Julia Letlow for Louisiana’s U.S. Senate seat",
+      "name": "Julia Letlow"
     }
   ],
-  "selfPraiseCount": 5,
-  "topicsCacheKey": "day-themes-v10:10:89d8fd0ffb0f39803a231fe0",
+  "selfPraiseCount": 6,
+  "topicsCacheKey": "day-themes-v11:10:89d8fd0ffb0f39803a231fe0",
+  "selfPraiseCacheKey": "self-praise-v2:10:89d8fd0ffb0f39803a231fe0",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38454",
@@ -300,5 +298,12 @@
       "analyzedAt": "2026-09-05T08:28:34.958Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:10:89d8fd0ffb0f39803a231fe0"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38454",
+    "https://www.trumpstruth.org/statuses/38455",
+    "https://www.trumpstruth.org/statuses/38456",
+    "https://www.trumpstruth.org/statuses/38457",
+    "https://www.trumpstruth.org/statuses/38458",
+    "https://www.trumpstruth.org/statuses/38459"
+  ]
 }

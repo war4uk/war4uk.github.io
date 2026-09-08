@@ -6,26 +6,27 @@
     "negative": 6
   },
   "summary": "positive:6 neutral:29 negative:6",
-  "generatedAt": "2026-09-07T18:18:11.109Z",
+  "generatedAt": "2026-09-08T08:30:13.828Z",
   "topics": [
-    "Celebrates Julia Letlow’s primary victory, condemns Bill Cassidy, and demands Tom Massie’s removal",
-    "Threatens Iran while highlighting attacks on Iranian boats and possible military action",
-    "Promotes Donald Trump’s Space Force and futuristic military command imagery"
+    "Trump celebrates Julia Letlow defeating Bill Cassidy in Louisiana and endorses Ed Gallrein against Tom Massie in Kentucky",
+    "Trump warns Iran of military consequences as posts depict attacks on Iranian boats",
+    "Trump-themed Space Force imagery depicts futuristic orbital weapons operations"
   ],
-  "trendingTopic": "Celebrates Julia Letlow’s primary victory while condemning Bill Cassidy and Tom Massie",
+  "trendingTopic": "Trump celebrates Julia Letlow defeating Bill Cassidy in Louisiana and endorses Ed Gallrein against Tom Massie in Kentucky",
   "secondaryHighlights": [
     {
-      "topic": "Threatens Iran while highlighting attacks on Iranian boats and possible military action"
+      "topic": "Trump and Xi Jinping appear together in posts highlighting U.S.-China relations"
     },
     {
-      "topic": "Promotes Donald Trump’s Space Force and futuristic military command imagery"
+      "topic": "Images contrast a polluted and cleaned-up Washington National Mall"
     },
     {
-      "topic": "Highlights meetings and energy diplomacy with Chinese and Greek officials"
+      "topic": "Graphic credits Trump for declining drug overdose deaths"
     }
   ],
-  "selfPraiseCount": 11,
-  "topicsCacheKey": "day-themes-v10:41:25ad6dee2c8c0facd08246bf",
+  "selfPraiseCount": 12,
+  "topicsCacheKey": "day-themes-v11:41:25ad6dee2c8c0facd08246bf",
+  "selfPraiseCacheKey": "self-praise-v2:41:25ad6dee2c8c0facd08246bf",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38524",
@@ -1118,5 +1119,18 @@
       "analyzedAt": "2026-09-05T08:29:15.759Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:41:25ad6dee2c8c0facd08246bf"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38524",
+    "https://www.trumpstruth.org/statuses/38525",
+    "https://www.trumpstruth.org/statuses/38527",
+    "https://www.trumpstruth.org/statuses/38538",
+    "https://www.trumpstruth.org/statuses/38541",
+    "https://www.trumpstruth.org/statuses/38540",
+    "https://www.trumpstruth.org/statuses/38539",
+    "https://www.trumpstruth.org/statuses/38552",
+    "https://www.trumpstruth.org/statuses/38544",
+    "https://www.trumpstruth.org/statuses/38556",
+    "https://www.trumpstruth.org/statuses/38558",
+    "https://www.trumpstruth.org/statuses/38560"
+  ]
 }

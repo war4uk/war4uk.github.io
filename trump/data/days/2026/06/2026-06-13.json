@@ -6,28 +6,28 @@
     "negative": 1
   },
   "summary": "positive:5 neutral:7 negative:1",
-  "generatedAt": "2026-09-07T18:27:34.125Z",
+  "generatedAt": "2026-09-08T08:38:34.269Z",
   "topics": [
-    "Trump touts his Iran agreement as Pakistan reports a regional peace deal may be finalized within 24 hours",
-    "Trump says U.S. forces killed Tren de Aragua leader Niño Guerrero in a Southern Command strike",
-    "Trump attacks Barack Obama and the future Obama Presidential Library"
+    "Trump says U.S.-Iran nuclear deal will be signed and reopen the Strait of Hormuz",
+    "U.S. military kills Tren de Aragua leader Niño Guerrero in Southern Command strike",
+    "Trump announces James M. McDonald as intended U.S. attorney for Southern District of New York"
   ],
-  "trendingTopic": "Trump touts his Iran agreement as Pakistan reports a regional peace deal may be finalized within 24 hours",
+  "trendingTopic": "Trump says U.S.-Iran nuclear deal will be signed, reopening the Strait of Hormuz",
   "secondaryHighlights": [
     {
-      "topic": "Trump announces U.S. forces killed Tren de Aragua leader Niño Guerrero in a Southern Command strike"
+      "topic": "U.S. military kills Tren de Aragua leader Niño Guerrero in Southern Command strike"
     },
     {
-      "topic": "Trump attacks Barack Obama and the future Obama Presidential Library",
-      "name": "Barack Obama"
-    },
-    {
-      "topic": "Trump intends to appoint James M. McDonald as U.S. Attorney for the Southern District of New York",
+      "topic": "Trump announces James M. McDonald as intended U.S. attorney for Southern District of New York",
       "name": "James McDonald"
+    },
+    {
+      "topic": "Trump congratulates Team USA on its 4-1 victory over Paraguay"
     }
   ],
-  "selfPraiseCount": 6,
-  "topicsCacheKey": "day-themes-v10:13:ae68f02645ac373800aeb657",
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v11:13:ae68f02645ac373800aeb657",
+  "selfPraiseCacheKey": "self-praise-v2:13:ae68f02645ac373800aeb657",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39234",
@@ -376,5 +376,11 @@
       "analyzedAt": "2026-09-05T08:35:42.901Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:13:ae68f02645ac373800aeb657"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39234",
+    "https://www.trumpstruth.org/statuses/39239",
+    "https://www.trumpstruth.org/statuses/39242",
+    "https://www.trumpstruth.org/statuses/39245",
+    "https://www.trumpstruth.org/statuses/39244"
+  ]
 }

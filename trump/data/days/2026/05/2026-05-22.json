@@ -6,26 +6,30 @@
     "negative": 5
   },
   "summary": "positive:6 neutral:7 negative:5",
-  "generatedAt": "2026-09-07T18:19:38.221Z",
+  "generatedAt": "2026-09-08T08:31:29.082Z",
   "topics": [
-    "Stephen Colbert’s CBS firing prompts Donald Trump to predict more late-night hosts will soon follow",
-    "Tulsi Gabbard will leave as DNI on June 30 to care for her husband during cancer treatment",
-    "Donald Trump attacks Thom Tillis after the senator declines to seek reelection in North Carolina"
+    "Trump celebrates Stephen Colbert’s CBS firing and predicts more late-night hosts will follow",
+    "Trump demands Iran’s total military surrender while mocking media coverage of the conflict",
+    "Trump announces Tulsi Gabbard’s June 30 departure to care for her cancer-stricken husband"
   ],
-  "trendingTopic": "Stephen Colbert’s CBS firing prompts Donald Trump to predict more late-night hosts will soon follow",
+  "trendingTopic": "Trump celebrates Stephen Colbert’s CBS firing and predicts more late-night hosts will follow",
+  "trendingName": "Stephen Colbert",
   "secondaryHighlights": [
     {
-      "topic": "Donald Trump demands Iran’s complete military surrender"
+      "topic": "Trump says NASCAR driver Kyle Busch died unexpectedly and offers condolences to his family",
+      "name": "Kyle Busch"
     },
     {
-      "topic": "Donald Trump urges passage of the SAVE AMERICA ACT"
+      "topic": "Trump urges Congress to pass the SAVE AMERICA ACT"
     },
     {
-      "topic": "Donald Trump says he sacrificed a fortune to advance the Anti-Weaponization Fund"
+      "topic": "Trump criticizes Thom Tillis after he retires from North Carolina’s Senate race",
+      "name": "Thom Tillis"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:18:ef82663447d3e740ef551424",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:18:ef82663447d3e740ef551424",
+  "selfPraiseCacheKey": "self-praise-v2:18:ef82663447d3e740ef551424",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38701",
@@ -494,6 +498,8 @@
       "analyzedAt": "2026-09-05T08:30:39.169Z"
     }
   ],
-  "trendingName": "Stephen Colbert",
-  "selfPraiseCacheKey": "self-praise-v1:18:ef82663447d3e740ef551424"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38706",
+    "https://www.trumpstruth.org/statuses/38709"
+  ]
 }

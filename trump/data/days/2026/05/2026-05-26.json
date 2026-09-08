@@ -6,26 +6,21 @@
     "negative": 2
   },
   "summary": "positive:7 neutral:25 negative:2",
-  "generatedAt": "2026-09-07T18:21:06.597Z",
+  "generatedAt": "2026-09-08T08:32:49.711Z",
   "topics": [
-    "Threatens Iran with total surrender while contrasting Trump’s force-first policy with Obama’s cash payments",
-    "Posts Memorial Day tributes featuring American flags and U.S. service members",
-    "Endorses Texas Attorney General Ken Paxton and Florida gubernatorial candidate Byron Donalds"
+    "Trump contrasts his Iran policy with Obama's and demands Iran accept total military surrender",
+    "Promotes comparisons showing the Lincoln Reflecting Pool exceeds major skyscrapers in length",
+    "Endorses Byron Donalds for Florida governor and Ken Paxton for Texas attorney general"
   ],
-  "trendingTopic": "Threatens Iran with total surrender while contrasting Trump’s force-first policy with Obama’s cash payments",
+  "trendingTopic": "Trump contrasts his Iran policy with Obama's and demands Iran accept total military surrender",
   "secondaryHighlights": [
     {
-      "topic": "Shares reports portraying Biden-era Justice Department and federal prosecutors as part of the deep state"
-    },
-    {
-      "topic": "Praises Alex Gray and Derrick Van Orden for their Fox News appearances"
-    },
-    {
-      "topic": "Promotes Trump’s leadership and ability to restore the White House"
+      "topic": "Marks Memorial Day with tributes honoring American military service members"
     }
   ],
   "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:34:193c804b5c6f479f5843e24f",
+  "topicsCacheKey": "day-themes-v11:34:193c804b5c6f479f5843e24f",
+  "selfPraiseCacheKey": "self-praise-v2:34:193c804b5c6f479f5843e24f",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38781",
@@ -882,5 +877,9 @@
       "analyzedAt": "2026-09-05T08:31:33.067Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:34:193c804b5c6f479f5843e24f"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38786",
+    "https://www.trumpstruth.org/statuses/38806",
+    "https://www.trumpstruth.org/statuses/38809"
+  ]
 }

@@ -6,23 +6,24 @@
     "negative": 4
   },
   "summary": "positive:10 neutral:25 negative:4",
-  "generatedAt": "2026-09-07T18:07:34.032Z",
+  "generatedAt": "2026-09-08T08:22:46.735Z",
   "topics": [
-    "Trump and allies revive claims that the 2020 election was stolen through fraud and intelligence interference",
-    "Trump promotes Iran gains, a reopening Strait of Hormuz, and a potential China meeting",
-    "Trump touts tax-free tips and overtime policies as major refunds for working-class Americans"
+    "Trump promotes Iran peace efforts, Strait of Hormuz reopening, and a forthcoming meeting with Xi Jinping",
+    "Claims the 2020 election was rigged and alleges widespread voter fraud",
+    "Highlights no-tax-on-tips policy and large refunds for tipped workers"
   ],
-  "trendingTopic": "Trump and allies revive claims that the 2020 election was stolen through fraud and intelligence interference",
+  "trendingTopic": "Trump promotes Iran peace efforts, Strait of Hormuz reopening, and a forthcoming meeting with Xi Jinping",
   "secondaryHighlights": [
     {
-      "topic": "Trump promotes Iran gains, a reopening Strait of Hormuz, and a potential China meeting"
+      "topic": "Claims the 2020 election was rigged and alleges widespread voter fraud"
     },
     {
-      "topic": "Trump touts tax-free tips and overtime policies as major refunds for working-class Americans"
+      "topic": "Highlights no-tax-on-tips policy and large refunds for tipped workers"
     }
   ],
-  "selfPraiseCount": 15,
-  "topicsCacheKey": "day-themes-v10:39:c58105b17acb87f22aa12b26",
+  "selfPraiseCount": 6,
+  "topicsCacheKey": "day-themes-v11:39:c58105b17acb87f22aa12b26",
+  "selfPraiseCacheKey": "self-praise-v2:39:c58105b17acb87f22aa12b26",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37850",
@@ -1027,5 +1028,12 @@
       "analyzedAt": "2026-09-05T08:45:55.061Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:39:c58105b17acb87f22aa12b26"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/37856",
+    "https://www.trumpstruth.org/statuses/37855",
+    "https://www.trumpstruth.org/statuses/37857",
+    "https://www.trumpstruth.org/statuses/37862",
+    "https://www.trumpstruth.org/statuses/37863",
+    "https://www.trumpstruth.org/statuses/37886"
+  ]
 }

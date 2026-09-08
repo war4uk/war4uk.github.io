@@ -6,23 +6,27 @@
     "negative": 3
   },
   "summary": "positive:0 neutral:12 negative:3",
-  "generatedAt": "2026-09-07T18:12:27.382Z",
+  "generatedAt": "2026-09-08T08:25:56.265Z",
   "topics": [
-    "Posts two “American Flag Blue” images of the Washington Monument reflected in the Reflecting Pool",
-    "Trump says he will review Iran’s proposal while demanding a greater price for its past actions",
-    "Trump attacks Hakeem Jeffries as a dangerous low-IQ thug"
+    "“American Flag Blue” artwork depicts the Washington Monument reflected in the National Mall pool",
+    "Trump says Iran’s proposed plan is unacceptable without a greater price for its actions",
+    "Trump demands Republicans end the filibuster and pass election safeguards before the midterms"
   ],
-  "trendingTopic": "Posts two “American Flag Blue” images of the Washington Monument reflected in the Reflecting Pool",
+  "trendingTopic": "“American Flag Blue” artwork depicts the Washington Monument reflected in the National Mall pool",
   "secondaryHighlights": [
     {
-      "topic": "Says Democrats’ voter-integrity review hired officials he accuses of rigging the 2020 election"
+      "topic": "Trump says Iran’s proposed plan is unacceptable without a greater price for its actions"
     },
     {
-      "topic": "Dismisses Bill Maher as weak and irrelevant to the Republican Party"
+      "topic": "Trump demands Republicans end the filibuster and pass election safeguards before the midterms"
+    },
+    {
+      "topic": "Trump attacks Bill Maher and Gavin Newsom over their discussion of California’s decline"
     }
   ],
-  "selfPraiseCount": 4,
-  "topicsCacheKey": "day-themes-v10:15:3c454fd40a7fc2afa50945b7",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:15:3c454fd40a7fc2afa50945b7",
+  "selfPraiseCacheKey": "self-praise-v2:15:3c454fd40a7fc2afa50945b7",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38129",
@@ -431,5 +435,9 @@
       "analyzedAt": "2026-09-05T08:25:57.854Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:15:3c454fd40a7fc2afa50945b7"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38132",
+    "https://www.trumpstruth.org/statuses/38137",
+    "https://www.trumpstruth.org/statuses/38143"
+  ]
 }

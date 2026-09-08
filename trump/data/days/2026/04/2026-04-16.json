@@ -6,23 +6,24 @@
     "negative": 14
   },
   "summary": "positive:9 neutral:7 negative:14",
-  "generatedAt": "2026-09-07T18:06:37.962Z",
+  "generatedAt": "2026-09-08T08:22:09.640Z",
   "topics": [
-    "Trump announces 10-day ceasefire between Israel and Lebanon, inviting leaders for White House talks",
-    "Defends White House ballroom project against lawsuit and judge’s challenge",
-    "Shares commentary defending Trump’s birthright citizenship position under originalism"
+    "Trump brokers a 10-day Israel-Lebanon ceasefire and invites leaders to Washington for peace talks",
+    "Trump battles a federal judge over construction of the White House ballroom",
+    "Opinion pieces defend Trump’s birthright citizenship position"
   ],
-  "trendingTopic": "Trump announces 10-day ceasefire between Israel and Lebanon, inviting leaders for White House talks",
+  "trendingTopic": "Trump announces a 10-day Israel-Lebanon ceasefire and plans White House peace talks",
   "secondaryHighlights": [
     {
-      "topic": "Defends White House ballroom project against lawsuit and judge’s challenge"
+      "topic": "Trump battles a federal judge over construction of the White House ballroom"
     },
     {
-      "topic": "Shares commentary defending Trump’s birthright citizenship position under originalism"
+      "topic": "Opinion pieces defend Trump’s birthright citizenship position"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:30:12d2fe1e4520cc58fd9fb5d5",
+  "selfPraiseCount": 6,
+  "topicsCacheKey": "day-themes-v11:30:12d2fe1e4520cc58fd9fb5d5",
+  "selfPraiseCacheKey": "self-praise-v2:30:12d2fe1e4520cc58fd9fb5d5",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/37791",
@@ -763,5 +764,12 @@
       "analyzedAt": "2026-09-05T08:45:25.176Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:30:12d2fe1e4520cc58fd9fb5d5"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/37793",
+    "https://www.trumpstruth.org/statuses/37800",
+    "https://www.trumpstruth.org/statuses/37813",
+    "https://www.trumpstruth.org/statuses/37812",
+    "https://www.trumpstruth.org/statuses/37816",
+    "https://www.trumpstruth.org/statuses/37817"
+  ]
 }

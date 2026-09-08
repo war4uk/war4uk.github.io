@@ -6,23 +6,28 @@
     "negative": 9
   },
   "summary": "positive:6 neutral:45 negative:9",
-  "generatedAt": "2026-09-07T18:17:37.570Z",
+  "generatedAt": "2026-09-08T08:29:37.525Z",
   "topics": [
-    "Trump showcases ceremonial meetings and warm rapport with Xi Jinping in China",
-    "Posts allege Biden-era FBI and intelligence officials conspired to target Trump",
-    "Trump highlights renovations to the White House walkway and Lincoln Memorial Reflecting Pool"
+    "Trump showcases his reunion and ceremonial interactions with Xi Jinping",
+    "Trump intensifies his feud with Thomas Massie, backing Ed Gallrein and challenging Lauren Boebert",
+    "Trump promotes an upgraded Reflecting Pool renovation targeted for completion before July 4"
   ],
-  "trendingTopic": "Trump showcases ceremonial meetings and warm rapport with Xi Jinping in China",
+  "trendingTopic": "Trump showcases his reunion and ceremonial interactions with Chinese President Xi Jinping",
   "secondaryHighlights": [
     {
-      "topic": "Trump announces U.S.-Nigeria operation killed ISIS second-in-command Abu-Bilal al-Minuki"
+      "topic": "Trump announces U.S.-Nigeria operation that killed ISIS commander Abu-Bilal al-Minuki"
     },
     {
-      "topic": "Trump attacks Bill Cassidy, Rand Paul, and Lauren Boebert as disloyal Republicans"
+      "topic": "Trump demands passage of the SAVE AMERICA ACT requiring voter identification and citizenship proof"
+    },
+    {
+      "topic": "Trump attacks Louisiana Senator Bill Cassidy and urges voters to support Julia Letlow",
+      "name": "Bill Cassidy"
     }
   ],
   "selfPraiseCount": 13,
-  "topicsCacheKey": "day-themes-v10:60:017fdd74c2d50279d25bbb0f",
+  "topicsCacheKey": "day-themes-v11:60:017fdd74c2d50279d25bbb0f",
+  "selfPraiseCacheKey": "self-praise-v2:60:017fdd74c2d50279d25bbb0f",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38465",
@@ -1612,5 +1617,19 @@
       "analyzedAt": "2026-09-05T08:28:58.534Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:60:017fdd74c2d50279d25bbb0f"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38471",
+    "https://www.trumpstruth.org/statuses/38477",
+    "https://www.trumpstruth.org/statuses/38479",
+    "https://www.trumpstruth.org/statuses/38492",
+    "https://www.trumpstruth.org/statuses/38491",
+    "https://www.trumpstruth.org/statuses/38494",
+    "https://www.trumpstruth.org/statuses/38510",
+    "https://www.trumpstruth.org/statuses/38512",
+    "https://www.trumpstruth.org/statuses/38513",
+    "https://www.trumpstruth.org/statuses/38517",
+    "https://www.trumpstruth.org/statuses/38516",
+    "https://www.trumpstruth.org/statuses/38520",
+    "https://www.trumpstruth.org/statuses/38522"
+  ]
 }

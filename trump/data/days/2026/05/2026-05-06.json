@@ -6,26 +6,24 @@
     "negative": 2
   },
   "summary": "positive:3 neutral:32 negative:2",
-  "generatedAt": "2026-09-07T18:13:39.203Z",
+  "generatedAt": "2026-09-08T08:26:55.085Z",
   "topics": [
     "Trump-endorsed candidates win Republican primaries across Indiana and Ohio",
-    "Trump threatens renewed bombing if Iran rejects terms to end Strait of Hormuz blockade",
-    "Trump defends expanded White House ballroom project amid rising construction costs"
+    "Defends expanded White House ballroom project as ahead of schedule and under budget",
+    "Threatens intensified bombing if Iran rejects terms to reopen the Strait of Hormuz"
   ],
   "trendingTopic": "Trump-endorsed candidates win Republican primaries across Indiana and Ohio",
   "secondaryHighlights": [
     {
-      "topic": "Trump threatens renewed bombing if Iran rejects terms to end Strait of Hormuz blockade"
+      "topic": "Defends expanded White House ballroom project as ahead of schedule and under budget"
     },
     {
-      "topic": "Trump defends expanded White House ballroom project amid rising construction costs"
-    },
-    {
-      "topic": "Lilly commits $4.5 billion to Indiana manufacturing and genetic medicine facilities"
+      "topic": "Threatens intensified bombing if Iran rejects terms to reopen the Strait of Hormuz"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:37:172569ddacc44c93cdb9fb0a",
+  "selfPraiseCount": 6,
+  "topicsCacheKey": "day-themes-v11:37:172569ddacc44c93cdb9fb0a",
+  "selfPraiseCacheKey": "self-praise-v2:37:172569ddacc44c93cdb9fb0a",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38227",
@@ -1030,5 +1028,12 @@
       "analyzedAt": "2026-09-05T08:26:48.739Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:37:172569ddacc44c93cdb9fb0a"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38237",
+    "https://www.trumpstruth.org/statuses/38238",
+    "https://www.trumpstruth.org/statuses/38239",
+    "https://www.trumpstruth.org/statuses/38242",
+    "https://www.trumpstruth.org/statuses/38246",
+    "https://www.trumpstruth.org/statuses/38245"
+  ]
 }

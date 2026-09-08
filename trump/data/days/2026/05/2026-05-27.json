@@ -6,23 +6,28 @@
     "negative": 6
   },
   "summary": "positive:4 neutral:14 negative:6",
-  "generatedAt": "2026-09-07T18:21:22.252Z",
+  "generatedAt": "2026-09-08T08:33:07.587Z",
   "topics": [
-    "Trump celebrates a Texas primary sweep and a 100% win rate for endorsed candidates",
-    "Reports allege sexual abuse and arrests in Iranian prisons during the ceasefire",
-    "Trump touts falling food prices, including a claimed 90% drop in egg prices"
+    "Trump-endorsed candidates sweep May 26 primaries, including Ken Paxton’s Texas Senate runoff victory",
+    "Trump highlights claimed declines in prices for staple foods",
+    "Trump endorses Armenian Prime Minister Nikol Pashinyan for reelection"
   ],
-  "trendingTopic": "Trump celebrates sweeping Texas primary victories and a 100% win rate for endorsed candidates",
+  "trendingTopic": "Trump-endorsed candidates sweep May 26 primaries, including Ken Paxton’s Texas Senate runoff victory",
   "secondaryHighlights": [
     {
-      "topic": "Reports allege sexual abuse and arrests in Iranian prisons during the ceasefire"
+      "topic": "Joe Biden sues the Justice Department to block release of special-counsel audio recordings",
+      "name": "Joe Biden"
     },
     {
-      "topic": "Trump touts falling food prices, including a claimed 90% drop in egg prices"
+      "topic": "Reports allege sexual abuse and arrests of human-rights activists in Iran prisons during ceasefire"
+    },
+    {
+      "topic": "Trump says his administration made America the crypto capital and promises permanent digital-asset protections"
     }
   ],
   "selfPraiseCount": 9,
-  "topicsCacheKey": "day-themes-v10:24:058f37fc74a54e3e81a45649",
+  "topicsCacheKey": "day-themes-v11:24:058f37fc74a54e3e81a45649",
+  "selfPraiseCacheKey": "self-praise-v2:24:058f37fc74a54e3e81a45649",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38816",
@@ -659,5 +664,15 @@
       "analyzedAt": "2026-09-05T08:31:45.777Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:24:058f37fc74a54e3e81a45649"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38821",
+    "https://www.trumpstruth.org/statuses/38827",
+    "https://www.trumpstruth.org/statuses/38826",
+    "https://www.trumpstruth.org/statuses/38828",
+    "https://www.trumpstruth.org/statuses/38829",
+    "https://www.trumpstruth.org/statuses/38832",
+    "https://www.trumpstruth.org/statuses/38831",
+    "https://www.trumpstruth.org/statuses/38835",
+    "https://www.trumpstruth.org/statuses/38837"
+  ]
 }

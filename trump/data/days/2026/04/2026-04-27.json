@@ -6,23 +6,26 @@
     "negative": 3
   },
   "summary": "positive:3 neutral:6 negative:3",
-  "generatedAt": "2026-09-07T18:10:39.693Z",
+  "generatedAt": "2026-09-08T08:24:56.083Z",
   "topics": [
-    "Posts mock Donald Trump playing tennis with Serena Williams while wearing a suit",
-    "Donald Trump backs a proposal to rename ICE as NICE",
-    "Donald Trump blames Democrats for the DHS shutdown and demands full ICE funding"
+    "Promotes a bridge project bearing the name President Donald J. Trump",
+    "Endorses Cody Simpson and Michael Whatley in South Carolina and North Carolina races",
+    "Presses House Republicans to fund ICE and Border Patrol while ending the DHS shutdown"
   ],
-  "trendingTopic": "Posts mock Donald Trump playing tennis with Serena Williams while wearing a suit",
+  "trendingTopic": "Trump promotes construction of a bridge bearing the name President Donald J. Trump",
   "secondaryHighlights": [
     {
-      "topic": "Donald Trump backs a proposal to rename ICE as NICE"
+      "topic": "Calls for Jimmy Kimmel to be fired over remarks about Melania Trump and Barron Trump",
+      "name": "Jimmy Kimmel"
     },
     {
-      "topic": "Donald Trump blames Democrats for the DHS shutdown and demands full ICE funding"
+      "topic": "Congratulates Lee and Kim Greenwood on becoming grandparents",
+      "name": "Lee Greenwood"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:12:22407f9202628ed1fb36d842",
+  "topicsCacheKey": "day-themes-v11:12:22407f9202628ed1fb36d842",
+  "selfPraiseCacheKey": "self-praise-v2:12:22407f9202628ed1fb36d842",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38065",
@@ -344,5 +347,7 @@
       "analyzedAt": "2026-09-05T08:47:46.722Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:12:22407f9202628ed1fb36d842"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38065"
+  ]
 }

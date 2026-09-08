@@ -6,28 +6,27 @@
     "negative": 0
   },
   "summary": "positive:17 neutral:1 negative:0",
-  "generatedAt": "2026-09-07T18:12:05.293Z",
+  "generatedAt": "2026-09-08T08:25:42.877Z",
   "topics": [
-    "Endorses seven Republican candidates for Indiana state Senate ahead of May 5 elections",
-    "Endorses Andy Barr and Ralph Alvarado for Kentucky offices",
-    "Raises tariffs on European Union cars and trucks to 25% over trade deal noncompliance"
+    "Endorses eight Republican candidates in Indiana state Senate primaries ahead of May 5 vote",
+    "Endorses Andy Barr and Ralph Alvarado in Kentucky while preparing an administration role for Nate Morris",
+    "Plans 25% tariffs on European Union cars and trucks over trade-deal noncompliance"
   ],
-  "trendingTopic": "Endorses seven Republican candidates for Indiana state Senate ahead of May 5 elections",
+  "trendingTopic": "Endorses eight Republican candidates in Indiana state Senate primaries ahead of May 5 vote",
   "secondaryHighlights": [
     {
-      "topic": "Approves all state permits for Florida, Georgia, South Carolina, and North Carolina's 2026 red snapper season"
+      "topic": "Endorses Andy Barr and Ralph Alvarado in Kentucky while preparing an administration role for Nate Morris"
     },
     {
-      "topic": "Praises Navy Commander Kirk Lippold's Fox News interview about Iran",
-      "name": "Kirk Lippold"
+      "topic": "Plans 25% tariffs on European Union cars and trucks over trade-deal noncompliance"
     },
     {
-      "topic": "Meets with Kentucky businessman Nate Morris",
-      "name": "Nate Morris"
+      "topic": "Approves 2026 recreational red snapper permits for fishermen across four Southeastern states"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:18:b8b27f4425873bb852e071c3",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:18:b8b27f4425873bb852e071c3",
+  "selfPraiseCacheKey": "self-praise-v2:18:b8b27f4425873bb852e071c3",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38111",
@@ -464,5 +463,9 @@
       "analyzedAt": "2026-09-05T08:25:47.555Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:18:b8b27f4425873bb852e071c3"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38112",
+    "https://www.trumpstruth.org/statuses/38113",
+    "https://www.trumpstruth.org/statuses/38116"
+  ]
 }

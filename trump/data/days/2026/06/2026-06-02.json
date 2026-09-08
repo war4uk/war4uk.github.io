@@ -6,23 +6,24 @@
     "negative": 6
   },
   "summary": "positive:34 neutral:25 negative:6",
-  "generatedAt": "2026-09-07T18:24:19.874Z",
+  "generatedAt": "2026-09-08T08:35:43.705Z",
   "topics": [
-    "Trump endorses and promotes Republican candidates across California, Iowa, Montana, New Jersey, and other states",
-    "Trump and allies challenge alleged political weaponization in Bragg, Mar-a-Lago, Georgia, and Hunter Biden matters",
-    "Trump EPA advances right-to-repair rules and rolls back vehicle emissions regulations"
+    "Trump endorses dozens of Republican candidates in June 2 California, Iowa, and other state elections",
+    "Posts highlight Washington, D.C., reflecting pool, statues, and fountains",
+    "Trump EPA promotes farmer equipment repairs, DEF fixes, and emissions deregulation"
   ],
-  "trendingTopic": "Trump endorses and promotes Republican candidates across California, Iowa, Montana, New Jersey, and other states",
+  "trendingTopic": "Trump endorses dozens of Republican candidates in June 2 California, Iowa, and other state elections",
   "secondaryHighlights": [
     {
-      "topic": "Trump says Iran talks continue while demanding Tehran surrender its military"
+      "topic": "Posts highlight Washington, D.C., reflecting pool, statues, and fountains"
     },
     {
-      "topic": "White House compiles positive coverage of Trump administration policies and officials"
+      "topic": "Trump EPA promotes farmer equipment repairs, DEF fixes, and emissions deregulation"
     }
   ],
-  "selfPraiseCount": 14,
-  "topicsCacheKey": "day-themes-v10:65:ceef7ca0475ebf2fb5f08d33",
+  "selfPraiseCount": 10,
+  "topicsCacheKey": "day-themes-v11:65:ceef7ca0475ebf2fb5f08d33",
+  "selfPraiseCacheKey": "self-praise-v2:65:ceef7ca0475ebf2fb5f08d33",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38984",
@@ -1658,5 +1659,16 @@
       "analyzedAt": "2026-09-05T08:33:15.347Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:65:ceef7ca0475ebf2fb5f08d33"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38983",
+    "https://www.trumpstruth.org/statuses/38986",
+    "https://www.trumpstruth.org/statuses/38995",
+    "https://www.trumpstruth.org/statuses/39019",
+    "https://www.trumpstruth.org/statuses/39014",
+    "https://www.trumpstruth.org/statuses/39022",
+    "https://www.trumpstruth.org/statuses/39021",
+    "https://www.trumpstruth.org/statuses/39027",
+    "https://www.trumpstruth.org/statuses/39029",
+    "https://www.trumpstruth.org/statuses/39042"
+  ]
 }

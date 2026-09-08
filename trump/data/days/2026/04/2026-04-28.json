@@ -6,27 +6,24 @@
     "negative": 3
   },
   "summary": "positive:2 neutral:6 negative:3",
-  "generatedAt": "2026-09-07T18:11:01.208Z",
+  "generatedAt": "2026-09-08T08:25:05.807Z",
   "topics": [
-    "Trump administration seeks to dissolve injunction blocking a secure White House ballroom after alleged assassination attempts",
-    "Trump renews claims that America’s elections are rigged and must be fixed",
-    "Trump says Iran is collapsing and demands reopening the Strait of Hormuz"
+    "Federal filings defend Trump's secure White House ballroom project after alleged assassination attempts",
+    "Trump says Iran is collapsing and rejects Germany's position on Iranian nuclear weapons",
+    "Trump demands voter ID, citizenship proof, and limits on mail-in ballots"
   ],
-  "trendingTopic": "Trump administration seeks to dissolve injunction blocking a secure White House ballroom after alleged assassination attempts",
+  "trendingTopic": "Federal filings seek to lift injunction blocking Trump’s secure White House ballroom project after security incidents",
   "secondaryHighlights": [
     {
-      "topic": "German Chancellor Friedrich Merz criticized over accepting the possibility of an Iranian nuclear weapon",
-      "name": "Friedrich Merz"
+      "topic": "Trump says Iran is collapsing and rejects Germany's position on Iranian nuclear weapons"
     },
     {
-      "topic": "Trump’s family genealogy reportedly links him to King Charles III"
-    },
-    {
-      "topic": "Article argues left-wing intolerance could permanently reshape political security"
+      "topic": "Trump demands voter ID, citizenship proof, and limits on mail-in ballots"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:11:e45f8640ffe19c31e81f8971",
+  "topicsCacheKey": "day-themes-v11:11:e45f8640ffe19c31e81f8971",
+  "selfPraiseCacheKey": "self-praise-v2:11:e45f8640ffe19c31e81f8971",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38078",
@@ -336,5 +333,7 @@
       "analyzedAt": "2026-09-05T08:47:55.240Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:11:e45f8640ffe19c31e81f8971"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38087"
+  ]
 }

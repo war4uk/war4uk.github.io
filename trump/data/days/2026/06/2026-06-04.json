@@ -6,23 +6,24 @@
     "negative": 8
   },
   "summary": "positive:4 neutral:13 negative:8",
-  "generatedAt": "2026-09-07T18:25:05.977Z",
+  "generatedAt": "2026-09-08T08:36:22.460Z",
   "topics": [
-    "Trump alleges Democrats are stealing California primaries and urges passage of the SAVE America Act",
-    "Washington workers restore the Lincoln Memorial Reflecting Pool",
-    "Trump administration restores Washington’s Columbus Memorial Fountain after years of decay"
+    "Trump alleges California Democrats are stealing primary votes and demands passage of the SAVE AMERICA Act",
+    "Trump celebrates completion of the rebuilt Lincoln Reflecting Pool",
+    "Trump highlights restoration of Washington’s Columbus Fountain after years of disrepair"
   ],
-  "trendingTopic": "Trump alleges Democrats are stealing California primaries and urges passage of the SAVE America Act",
+  "trendingTopic": "Trump alleges California Democrats are stealing primary votes and demands passage of the SAVE AMERICA Act",
   "secondaryHighlights": [
     {
-      "topic": "Washington workers restore the Lincoln Memorial Reflecting Pool"
+      "topic": "Trump celebrates completion of the rebuilt Lincoln Reflecting Pool"
     },
     {
-      "topic": "Trump administration restores Washington’s Columbus Memorial Fountain after years of decay"
+      "topic": "Trump highlights restoration of Washington’s Columbus Fountain after years of disrepair"
     }
   ],
-  "selfPraiseCount": 5,
-  "topicsCacheKey": "day-themes-v10:25:bea58143ac20d663b8746290",
+  "selfPraiseCount": 6,
+  "topicsCacheKey": "day-themes-v11:25:bea58143ac20d663b8746290",
+  "selfPraiseCacheKey": "self-praise-v2:25:bea58143ac20d663b8746290",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39074",
@@ -671,5 +672,12 @@
       "analyzedAt": "2026-09-05T08:33:59.847Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:25:bea58143ac20d663b8746290"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39074",
+    "https://www.trumpstruth.org/statuses/39078",
+    "https://www.trumpstruth.org/statuses/39084",
+    "https://www.trumpstruth.org/statuses/39085",
+    "https://www.trumpstruth.org/statuses/39092",
+    "https://www.trumpstruth.org/statuses/39099"
+  ]
 }

@@ -6,28 +6,24 @@
     "negative": 9
   },
   "summary": "positive:5 neutral:3 negative:9",
-  "generatedAt": "2026-09-07T18:11:55.764Z",
+  "generatedAt": "2026-09-08T08:25:34.269Z",
   "topics": [
-    "Highlights support for efforts to halt Iran’s nuclear program while pressuring Germany over the issue",
-    "Urges Louisiana Republicans to defeat Senator Bill Cassidy in the primary",
-    "Presses Tennessee and Louisiana governors to correct unconstitutional congressional maps"
+    "Trump attacks Bill Cassidy and nominates Nicole Saphier after Casey Means fight",
+    "Trump highlights support for stopping Iran’s nuclear threat while rebuking Germany’s chancellor",
+    "Trump backs Tennessee and Louisiana efforts to redraw congressional maps"
   ],
-  "trendingTopic": "Donald Trump highlights support while pressing allies over efforts to halt Iran’s nuclear program",
+  "trendingTopic": "Trump attacks Cassidy and replaces Casey Means with Nicole Saphier as surgeon general nominee",
   "secondaryHighlights": [
     {
-      "topic": "Nominates Nicole Saphier to serve as Surgeon General",
-      "name": "Nicole Saphier"
+      "topic": "Trump highlights support for stopping Iran’s nuclear threat while rebuking Germany’s chancellor"
     },
     {
-      "topic": "Removes whiskey tariffs and restrictions affecting Scotland-Kentucky cooperation"
-    },
-    {
-      "topic": "Congratulates Ali al-Zaidi on his nomination as Iraq’s next prime minister",
-      "name": "Ali al-Zaidi"
+      "topic": "Trump backs Tennessee and Louisiana efforts to redraw congressional maps"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:17:5998fae8038f95298e60bfe9",
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v11:17:5998fae8038f95298e60bfe9",
+  "selfPraiseCacheKey": "self-praise-v2:17:5998fae8038f95298e60bfe9",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38094",
@@ -444,5 +440,11 @@
       "analyzedAt": "2026-09-05T08:48:18.294Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:17:5998fae8038f95298e60bfe9"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38096",
+    "https://www.trumpstruth.org/statuses/38102",
+    "https://www.trumpstruth.org/statuses/38103",
+    "https://www.trumpstruth.org/statuses/38108",
+    "https://www.trumpstruth.org/statuses/38110"
+  ]
 }

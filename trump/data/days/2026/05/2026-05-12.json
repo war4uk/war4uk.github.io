@@ -6,28 +6,28 @@
     "negative": 2
   },
   "summary": "positive:3 neutral:67 negative:2",
-  "generatedAt": "2026-09-07T18:16:02.460Z",
+  "generatedAt": "2026-09-08T08:28:33.878Z",
   "topics": [
-    "Accuses Barack Obama and allies of orchestrating surveillance and the Russia investigation against Trump",
-    "Claims election-machine fraud and unsigned Fulton County ballots prove the 2020 election was stolen",
-    "Depicts U.S. attacks on Iranian forces while denouncing reports that Iran is winning"
+    "Trump claims U.S. forces destroyed Iran’s navy, air force, leadership, and military technology",
+    "Trump-backed rebuilding of Washington’s Reflecting Pool advances after years of leaks and failed repairs",
+    "Marty Makary resigns as FDA commissioner and Trump names Kyle Diamantas acting commissioner"
   ],
-  "trendingTopic": "Posts accuse Barack Obama and allies of orchestrating surveillance and the Russia investigation against Trump",
+  "trendingTopic": "Trump claims U.S. forces destroyed Iran’s navy, air force, leadership, and military technology",
   "secondaryHighlights": [
     {
-      "topic": "Alleges Obama-era officials shielded Hillary Clinton in her private-email case",
-      "name": "Hillary Clinton"
+      "topic": "Trump-backed rebuilding of Washington’s Reflecting Pool advances after years of leaks and failed repairs"
     },
     {
-      "topic": "Marty Makary resigns as FDA commissioner after touting agency reforms",
+      "topic": "Marty Makary resigns as FDA commissioner and Trump names Kyle Diamantas acting commissioner",
       "name": "Marty Makary"
     },
     {
-      "topic": "Posts celebrate Donald Trump-linked S&P 500 records above 7,300"
+      "topic": "Trump supporters circulate demands to prosecute Obama-era officials and punish alleged election challengers"
     }
   ],
-  "selfPraiseCount": 8,
-  "topicsCacheKey": "day-themes-v10:72:c4e560802bb89290fbf4ce94",
+  "selfPraiseCount": 6,
+  "topicsCacheKey": "day-themes-v11:72:c4e560802bb89290fbf4ce94",
+  "selfPraiseCacheKey": "self-praise-v2:72:c4e560802bb89290fbf4ce94",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38362",
@@ -1933,6 +1933,12 @@
       "analyzedAt": "2026-09-05T08:28:12.329Z"
     }
   ],
-  "trendingName": "Barack Obama",
-  "selfPraiseCacheKey": "self-praise-v1:72:c4e560802bb89290fbf4ce94"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38419",
+    "https://www.trumpstruth.org/statuses/38418",
+    "https://www.trumpstruth.org/statuses/38417",
+    "https://www.trumpstruth.org/statuses/38424",
+    "https://www.trumpstruth.org/statuses/38431",
+    "https://www.trumpstruth.org/statuses/38434"
+  ]
 }

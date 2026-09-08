@@ -6,19 +6,24 @@
     "negative": 3
   },
   "summary": "positive:6 neutral:8 negative:3",
-  "generatedAt": "2026-09-07T18:19:15.264Z",
+  "generatedAt": "2026-09-08T08:31:07.712Z",
   "topics": [
-    "Highlights restored Washington, D.C. fountains and announces the Christopher Columbus Circle fountain’s reopening",
-    "Comments on Geoff Duncan’s Georgia loss while endorsing candidates in Ohio, Tennessee, and South Carolina"
+    "Trump weighs in on multiple 2026 Republican races, endorsing Merrin and Cody and opposing Pascoe",
+    "Trump promotes restored and newly opened fountains at Washington, D.C. landmarks",
+    "Trump backs railway safety legislation and permanent daylight saving time"
   ],
-  "trendingTopic": "Trump highlights restored Washington, D.C. fountains and announces the Christopher Columbus Circle fountain’s reopening",
+  "trendingTopic": "Trump endorses Derek Merrin and Kenny Cody while opposing David Pascoe in Republican races",
   "secondaryHighlights": [
     {
-      "topic": "Comments on Geoff Duncan’s Georgia loss while endorsing candidates in Ohio, Tennessee, and South Carolina"
+      "topic": "Trump promotes restored and newly opened fountains at Washington, D.C. landmarks"
+    },
+    {
+      "topic": "Trump backs railway safety legislation and permanent daylight saving time"
     }
   ],
-  "selfPraiseCount": 5,
-  "topicsCacheKey": "day-themes-v10:17:b9ca95d1b37daed981710fc4",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:17:b9ca95d1b37daed981710fc4",
+  "selfPraiseCacheKey": "self-praise-v2:17:b9ca95d1b37daed981710fc4",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38684",
@@ -444,5 +449,9 @@
       "analyzedAt": "2026-09-05T08:30:29.059Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:17:b9ca95d1b37daed981710fc4"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38686",
+    "https://www.trumpstruth.org/statuses/38689",
+    "https://www.trumpstruth.org/statuses/38700"
+  ]
 }

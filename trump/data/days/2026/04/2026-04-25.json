@@ -6,23 +6,21 @@
     "negative": 1
   },
   "summary": "positive:1 neutral:3 negative:1",
-  "generatedAt": "2026-09-07T18:10:13.933Z",
+  "generatedAt": "2026-09-08T08:24:29.246Z",
   "topics": [
-    "Trump highlights restored beauty and clearer waters in Washington, D.C.",
-    "Trump cancels representatives’ trip to Islamabad for talks with Iranian officials",
-    "Warns failure to pass the SAVE AMERICA ACT will devastate a Senate party"
+    "Trump cancels representatives’ Islamabad trip for Iran talks amid claims of Iranian leadership confusion",
+    "Trump defends Lafayette Park renovation as a major beautification and security project",
+    "Trump contrasts Obama-era and Trump-era conditions around the Washington Monument Reflecting Pool"
   ],
-  "trendingTopic": "Trump highlights restored beauty and clearer waters in Washington, D.C., while defending Lafayette Park renovations",
+  "trendingTopic": "Trump cancels representatives’ Islamabad trip for Iran talks, citing Iranian leadership confusion and wasted travel",
   "secondaryHighlights": [
     {
-      "topic": "Trump cancels representatives’ trip to Islamabad for talks with Iranian officials"
-    },
-    {
-      "topic": "Warns failure to pass the SAVE AMERICA ACT will devastate a Senate party"
+      "topic": "Trump demands passage of the SAVE AMERICA ACT and elimination of the Senate filibuster"
     }
   ],
   "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:5:f72d0e1fd99b68416333d31b",
+  "topicsCacheKey": "day-themes-v11:5:f72d0e1fd99b68416333d31b",
+  "selfPraiseCacheKey": "self-praise-v2:5:f72d0e1fd99b68416333d31b",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/38051",
@@ -151,5 +149,8 @@
       "analyzedAt": "2026-09-05T08:47:28.882Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:5:f72d0e1fd99b68416333d31b"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/38051",
+    "https://www.trumpstruth.org/statuses/38055"
+  ]
 }

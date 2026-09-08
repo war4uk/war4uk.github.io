@@ -6,26 +6,24 @@
     "negative": 8
   },
   "summary": "positive:19 neutral:3 negative:8",
-  "generatedAt": "2026-09-07T18:26:18.407Z",
+  "generatedAt": "2026-09-08T08:37:26.255Z",
   "topics": [
-    "Endorses and promotes South Carolina Republicans including Pamela Evette, Lindsey Graham, and congressional incumbents",
-    "Endorses Nevada congressional and attorney general candidates while praising Governor Joe Lombardo and Lieutenant Governor Stavros Anthony",
-    "Claims California elections are rigged after unfavorable Los Angeles mayoral primary and runoff results"
+    "Trump endorses Republican candidates across Nevada, South Carolina, Maine, North Dakota, and Georgia for June elections",
+    "Trump alleges election fraud in California and disputes claims that 2020 election was legitimate",
+    "Trump presses Israel and Iran to halt fighting and negotiate a ceasefire"
   ],
-  "trendingTopic": "Trump endorses and promotes South Carolina Republican candidates, including Pamela Evette, Lindsey Graham, and congressional incumbents",
+  "trendingTopic": "Trump endorses Republican candidates across Nevada, South Carolina, Maine, North Dakota, and Georgia for June elections",
   "secondaryHighlights": [
     {
-      "topic": "Urges Israel and Iran to stop fighting as ceasefire and peace negotiations proceed"
+      "topic": "Trump alleges election fraud in California and disputes claims that 2020 election was legitimate"
     },
     {
-      "topic": "Demands Senate Majority Leader John Thune fire the parliamentarian and attacks Senator Thom Tillis"
-    },
-    {
-      "topic": "Celebrates Ohio Senate passage of a voter ID requirement for elections"
+      "topic": "Trump presses Israel and Iran to halt fighting and negotiate a ceasefire"
     }
   ],
-  "selfPraiseCount": 6,
-  "topicsCacheKey": "day-themes-v10:30:dfe40d204b47e878d4605061",
+  "selfPraiseCount": 10,
+  "topicsCacheKey": "day-themes-v11:30:dfe40d204b47e878d4605061",
+  "selfPraiseCacheKey": "self-praise-v2:30:dfe40d204b47e878d4605061",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39135",
@@ -763,5 +761,16 @@
       "analyzedAt": "2026-09-05T08:34:46.899Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:30:dfe40d204b47e878d4605061"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39137",
+    "https://www.trumpstruth.org/statuses/39149",
+    "https://www.trumpstruth.org/statuses/39148",
+    "https://www.trumpstruth.org/statuses/39146",
+    "https://www.trumpstruth.org/statuses/39144",
+    "https://www.trumpstruth.org/statuses/39158",
+    "https://www.trumpstruth.org/statuses/39157",
+    "https://www.trumpstruth.org/statuses/39156",
+    "https://www.trumpstruth.org/statuses/39155",
+    "https://www.trumpstruth.org/statuses/39160"
+  ]
 }
