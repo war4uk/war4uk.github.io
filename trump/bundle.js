@@ -364,6 +364,10 @@ function formatPct(value) {
   const rounded = Math.round(value * 10) / 10;
   return Number.isInteger(rounded) ? String(rounded) : rounded.toFixed(1);
 }
+var MAX_BLEND_HALF_PCT = 4;
+function blendHalfPct(leftShare, rightShare) {
+  return Math.min(MAX_BLEND_HALF_PCT, Math.min(leftShare, rightShare) * 0.4);
+}
 function sentimentGradient(s) {
   const negative = clampCount(s.negative);
   const neutral = clampCount(s.neutral);
@@ -379,16 +383,17 @@ function sentimentGradient(s) {
     const color = bands[0].color;
     return `linear-gradient(to bottom, ${color} 0%, ${color} 100%)`;
   }
-  const stops = [];
+  const shares = bands.map((band) => band.count / total * 100);
+  const stops = [`${bands[0].color} 0%`];
   let cursor = 0;
-  bands.forEach((band, index) => {
-    const share = band.count / total * 100;
-    const start = cursor;
-    const end = index === bands.length - 1 ? 100 : cursor + share;
-    stops.push(`${band.color} ${formatPct(start)}%`);
-    stops.push(`${band.color} ${formatPct(end)}%`);
-    cursor = end;
-  });
+  for (let i = 0; i < bands.length - 1; i += 1) {
+    const boundary = cursor + shares[i];
+    const half = blendHalfPct(shares[i], shares[i + 1]);
+    stops.push(`${bands[i].color} ${formatPct(boundary - half)}%`);
+    stops.push(`${bands[i + 1].color} ${formatPct(boundary + half)}%`);
+    cursor = boundary;
+  }
+  stops.push(`${bands[bands.length - 1].color} 100%`);
   return `linear-gradient(to bottom, ${stops.join(", ")})`;
 }
 
