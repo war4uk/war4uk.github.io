@@ -6,23 +6,24 @@
     "negative": 3
   },
   "summary": "positive:1 neutral:1 negative:3",
-  "generatedAt": "2026-09-07T14:03:52.465Z",
+  "generatedAt": "2026-09-08T06:52:59.072Z",
   "topics": [
-    "Calls for a unified rulebook for AI to maintain leadership",
-    "Informs President Xi about NVIDIA's product shipment to China",
-    "Addresses Mexico's violation of the Water Treaty affecting Texas"
+    "Trump plans one-rule executive order to block states from separately regulating and approving artificial intelligence",
+    "Trump permits NVIDIA to sell H200 chips to approved Chinese customers under national-security conditions",
+    "Trump threatens Mexico with a 5% tariff over unpaid water treaty obligations"
   ],
-  "trendingTopic": "Calls for a unified rulebook for AI to maintain leadership",
+  "trendingTopic": "Trump plans one-rule executive order to block states from separately regulating and approving artificial intelligence",
   "secondaryHighlights": [
     {
-      "topic": "Informs President Xi about NVIDIA's product shipment to China"
+      "topic": "Trump sidelines Europe in efforts to negotiate a Ukraine deal"
     },
     {
-      "topic": "Addresses Mexico's violation of the Water Treaty affecting Texas"
+      "topic": "Trump attacks Marjorie Taylor Greene and 60 Minutes over her interview and Hunter Biden laptop coverage"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:5:2edff4816de34b409bcd9e46",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:5:2edff4816de34b409bcd9e46",
+  "selfPraiseCacheKey": "self-praise-v2:5:2edff4816de34b409bcd9e46",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34190",
@@ -147,5 +148,8 @@
       "analyzedAt": "2026-09-06T06:25:49.658Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:5:2edff4816de34b409bcd9e46"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34191",
+    "https://www.trumpstruth.org/statuses/34192"
+  ]
 }

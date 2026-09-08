@@ -6,23 +6,28 @@
     "negative": 5
   },
   "summary": "positive:10 neutral:11 negative:5",
-  "generatedAt": "2026-09-07T14:03:47.776Z",
+  "generatedAt": "2026-09-08T06:52:41.551Z",
   "topics": [
-    "Indiana Republicans pass new Congressional Map led by Speaker Todd Huston",
-    "Trump receives FIFA's first Peace Prize and thanks Cristiano Ronaldo",
-    "Angel Families express gratitude to Trump for border security efforts"
+    "Pressures Indiana Republicans to pass a congressional map that could add two GOP seats",
+    "Receives FIFA’s inaugural Peace Prize and thanks the organization ahead of the World Cup",
+    "Defends his affordability record as prices fall and promotes his administration’s campaign"
   ],
-  "trendingTopic": "Indiana Republicans pass new Congressional Map led by Speaker Todd Huston",
+  "trendingTopic": "Trump pressures Indiana Republicans to pass a congressional map that could add two GOP seats",
   "secondaryHighlights": [
     {
-      "topic": "Trump receives FIFA's first Peace Prize and thanks Cristiano Ronaldo"
+      "topic": "Hosts Kennedy Center honorees at the White House and praises their achievements"
     },
     {
-      "topic": "Angel Families express gratitude to Trump for border security efforts"
+      "topic": "Ends the infant hepatitis B vaccine recommendation and orders a review of U.S. vaccine schedules"
+    },
+    {
+      "topic": "Urges Baseball Hall of Fame voters to induct Roger Clemens",
+      "name": "Roger Clemens"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:26:805490ff11853425cf115f22",
+  "selfPraiseCount": 7,
+  "topicsCacheKey": "day-themes-v11:26:805490ff11853425cf115f22",
+  "selfPraiseCacheKey": "self-praise-v2:26:805490ff11853425cf115f22",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34153",
@@ -436,7 +441,7 @@
       "id": "https://www.trumpstruth.org/statuses/34174",
       "publishedAt": "2025-12-06T19:55:15.000Z",
       "title": "Why would a REAL Republican vote against this when the Dems have been doing it for years??? If they stupidly say no, vote them out of Office - They are not worthy - And I will be there to help! Thank you Indiana!",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115669815800105560</span>Why would a REAL Republican vote against this when the Dems have been doing it for years??? If they stupidly say no, vote them out of Office - They are not worthy - And I will be there to help! Thank you Indiana!</p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115669815800105560</span>Why would a REAL Republican vote against this when the Dems have been doing it for years??? If they stupidly say no, vote them out of Office - They are not worthy - And I will be there to help! Thank you Indiana!</p>\n\n[Image] A map of Indiana shows county or district boundaries overlaid with two shades of red. Most of the state is light red, while large areas in southern and northeastern Indiana are darker red. City labels include Indianapolis, Fort Wayne, South Bend, Lafayette, Bloomington, Columbus, Evansville, Terre Haute, and Louisville just south of the state line.",
       "url": "https://www.trumpstruth.org/statuses/34174",
       "raw": {
         "creator": "",
@@ -449,6 +454,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34174",
         "isoDate": "2025-12-06T19:55:15.000Z"
       },
+      "imageDescribedAt": "2026-09-08T06:50:10.693Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13641/51ad50fee657bd25.png"
       ]
@@ -475,7 +481,7 @@
       "id": "https://www.trumpstruth.org/statuses/34177",
       "publishedAt": "2025-12-06T23:52:36.000Z",
       "title": "Congratulations to all the AMAZING Honorees who are receiving the Kennedy Center Honors! President @realDonaldTrump hosted a very special evening in the Oval Office. 🎶🇺🇸",
-      "text": "<p>Congratulations to all the AMAZING Honorees who are receiving the Kennedy Center Honors! President <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span> hosted a very special evening in the Oval Office. 🎶🇺🇸</p>",
+      "text": "<p>Congratulations to all the AMAZING Honorees who are receiving the Kennedy Center Honors! President <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span> hosted a very special evening in the Oval Office. 🎶🇺🇸</p>\n\n[Image] Donald Trump sits behind a large desk in a tuxedo, surrounded by several formally dressed guests, including two men with the distinctive makeup-free appearance associated with KISS. The ornate room features gold curtains, military and national flags, rows of ribbons, telephones, a model fighter jet, and framed presidential portraits.",
       "url": "https://www.trumpstruth.org/statuses/34177",
       "raw": {
         "creator": "",
@@ -488,6 +494,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34177",
         "isoDate": "2025-12-06T23:52:36.000Z"
       },
+      "imageDescribedAt": "2026-09-08T06:50:08.035Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13645/62a5cd947f56c2da.jpg"
       ]
@@ -673,6 +680,13 @@
       "analyzedAt": "2026-09-06T06:25:28.194Z"
     }
   ],
-  "trendingName": "Todd Huston",
-  "selfPraiseCacheKey": "self-praise-v1:26:805490ff11853425cf115f22"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34153",
+    "https://www.trumpstruth.org/statuses/34154",
+    "https://www.trumpstruth.org/statuses/34158",
+    "https://www.trumpstruth.org/statuses/34159",
+    "https://www.trumpstruth.org/statuses/34162",
+    "https://www.trumpstruth.org/statuses/34164",
+    "https://www.trumpstruth.org/statuses/34166"
+  ]
 }

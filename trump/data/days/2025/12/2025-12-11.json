@@ -6,23 +6,28 @@
     "negative": 2
   },
   "summary": "positive:4 neutral:1 negative:2",
-  "generatedAt": "2026-09-07T14:03:58.054Z",
+  "generatedAt": "2026-09-08T06:53:28.521Z",
   "topics": [
-    "Phil Berger praised for leadership in North Carolina Senate",
-    "Stock market reaches all-time high amid economic recovery",
-    "Criticism of Democrats for handling crime and judicial appointments"
+    "Trump touts record stock market and falling prices as proof his administration has revived the economy",
+    "Trump calls for ending Senate blue-slip rules blocking Republican judicial nominees",
+    "Trump pardons Tina Peters for pursuing claims of 2020 election fraud"
   ],
-  "trendingTopic": "Phil Berger praised for leadership in North Carolina Senate",
+  "trendingTopic": "Trump touts record stock market and falling prices as proof his administration has revived the economy",
   "secondaryHighlights": [
     {
-      "topic": "Stock market reaches all-time high amid economic recovery"
+      "topic": "Trump calls for ending Senate blue-slip rules blocking Republican judicial nominees"
     },
     {
-      "topic": "Criticism of Democrats for handling crime and judicial appointments"
+      "topic": "Trump pardons Tina Peters for pursuing claims of 2020 election fraud",
+      "name": "Tina Peters"
+    },
+    {
+      "topic": "Trump says U.S. AI plants are building their own power facilities and leading China"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:7:51f1a120c21c4becece0c931",
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v11:7:51f1a120c21c4becece0c931",
+  "selfPraiseCacheKey": "self-praise-v2:7:51f1a120c21c4becece0c931",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34204",
@@ -200,6 +205,10 @@
       "analyzedAt": "2026-09-06T06:26:12.828Z"
     }
   ],
-  "trendingName": "Phil Berger",
-  "selfPraiseCacheKey": "self-praise-v1:7:51f1a120c21c4becece0c931"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34204",
+    "https://www.trumpstruth.org/statuses/34208",
+    "https://www.trumpstruth.org/statuses/34209",
+    "https://www.trumpstruth.org/statuses/34210"
+  ]
 }

@@ -6,13 +6,14 @@
     "negative": 1
   },
   "summary": "positive:1 neutral:0 negative:1",
-  "generatedAt": "2026-09-07T14:03:53.913Z",
+  "generatedAt": "2026-09-08T06:53:02.843Z",
   "topics": [
-    "Discusses the impact of Tariffs on National Security"
+    "Defends tariffs as essential to U.S. national security and American financial strength amid Supreme Court challenge"
   ],
-  "trendingTopic": "Discusses the impact of Tariffs on National Security and its financial implications",
+  "trendingTopic": "Donald Trump defends tariffs as essential to U.S. national security and American financial strength",
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:2:2ee59d55f62259b984d3585a",
+  "topicsCacheKey": "day-themes-v11:2:2ee59d55f62259b984d3585a",
+  "selfPraiseCacheKey": "self-praise-v2:2:2ee59d55f62259b984d3585a",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34195",
@@ -65,7 +66,9 @@
       "analyzedAt": "2026-09-06T06:25:56.993Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:2:2ee59d55f62259b984d3585a",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34196"
+  ],
   "secondaryHighlights": [
     {
       "topic": "The biggest threat in history to United States National Security would be a negative decision on Tariffs by the U.S. Supreme Court."

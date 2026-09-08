@@ -6,19 +6,29 @@
     "negative": 1
   },
   "summary": "positive:3 neutral:2 negative:1",
-  "generatedAt": "2026-09-07T14:03:40.931Z",
+  "generatedAt": "2026-09-08T06:51:45.982Z",
   "topics": [
-    "Celebrates Matt Van Epps' Congressional victory in Tennessee"
+    "Celebrates Matt Van Epps’s Tennessee congressional victory",
+    "Announces full pardons for Henry and Imelda Cuellar",
+    "Shares report alleging Biden administration granted Taliban civil servants special exemptions"
   ],
-  "trendingTopic": "Celebrates Matt Van Epps' Congressional victory in Tennessee",
+  "trendingTopic": "Trump celebrates Matt Van Epps’s congressional victory in Tennessee",
   "trendingName": "Matt Van Epps",
   "secondaryHighlights": [
     {
-      "topic": "Critiques Biden Administration's use of the Justice System"
+      "topic": "Trump announces full pardons for Texas Congressman Henry Cuellar and Imelda Cuellar",
+      "name": "Henry Cuellar"
+    },
+    {
+      "topic": "Shares report on Jordan and others probing DOJ and FBI conduct during the Jack Smith investigation"
+    },
+    {
+      "topic": "Shares report alleging Biden administration granted exemptions to hundreds of low-level Taliban civil servants"
     }
   ],
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:6:ad7a82026c94270fe2e925b8",
+  "topicsCacheKey": "day-themes-v11:6:ad7a82026c94270fe2e925b8",
+  "selfPraiseCacheKey": "self-praise-v2:6:ad7a82026c94270fe2e925b8",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34130",
@@ -174,6 +184,5 @@
       "rationale": "The text celebrates a victory for Matt Van Epps and expresses confidence in his future as a representative, using positive language.",
       "analyzedAt": "2026-09-06T06:24:54.338Z"
     }
-  ],
-  "selfPraiseCacheKey": "self-praise-v1:6:ad7a82026c94270fe2e925b8"
+  ]
 }

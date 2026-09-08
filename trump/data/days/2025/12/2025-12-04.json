@@ -6,23 +6,25 @@
     "negative": 4
   },
   "summary": "positive:13 neutral:14 negative:4",
-  "generatedAt": "2026-09-07T14:03:43.314Z",
+  "generatedAt": "2026-09-08T06:52:05.787Z",
   "topics": [
-    "Criticizes Colorado Governor Jared Polis for jailing Tina Peters over election fraud claims",
-    "Highlights achievements of Texas Congressmen in various districts",
-    "Discusses immigration issues and calls for revocation of Afghan legal status"
+    "Donald Trump amplifies calls for mass deportation and tighter immigration restrictions over alleged migrant crime and fraud",
+    "Endorses six Texas Republican House members for reelection or congressional office",
+    "Shares nostalgic posts and favorable coverage about his golf, celebrity friendships, and past social life"
   ],
-  "trendingTopic": "Criticizes Colorado Governor Jared Polis for jailing Tina Peters over election fraud claims",
+  "trendingTopic": "Donald Trump amplifies calls for mass deportation and tighter immigration restrictions over alleged migrant crime and fraud",
   "secondaryHighlights": [
     {
-      "topic": "Highlights achievements of Texas Congressmen in various districts"
+      "topic": "Attacks Colorado Governor Jared Polis over Tina Peters's imprisonment and calls for voter ID"
     },
     {
-      "topic": "Discusses immigration issues and calls for revocation of Afghan legal status"
+      "topic": "Praises DHS official Tricia McLaughlin and Manhattan U.S. Attorney Jay Clayton for targeting alleged criminals",
+      "name": "Tricia McLaughlin"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:31:d258889864d8cd2c932cf2d7",
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v11:31:d258889864d8cd2c932cf2d7",
+  "selfPraiseCacheKey": "self-praise-v2:31:d258889864d8cd2c932cf2d7",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34134",
@@ -440,7 +442,7 @@
       "id": "https://www.trumpstruth.org/statuses/35218",
       "publishedAt": "2025-12-04T23:50:04.000Z",
       "title": "[No Title] - Post from December 4, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115663974715531786</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115663974715531786</span></p>\n\n[Image] A screenshot of an X post by Eric Daugherty (@EricLDaugh), with a verified profile icon. The post quotes Stephen Miller discussing what he is thankful for, praising Donald Trump as president and making claims about inflation, immigration, refugees, crime, and national security. It ends with “Agreed” and two U.S. flag emojis.",
       "url": "https://www.trumpstruth.org/statuses/35218",
       "raw": {
         "creator": "",
@@ -453,6 +455,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35218",
         "isoDate": "2025-12-04T23:50:04.000Z"
       },
+      "imageDescribedAt": "2026-09-08T06:49:59.080Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14283/6cd92ec9309f5622.jpg"
       ]
@@ -479,7 +482,7 @@
       "id": "https://www.trumpstruth.org/statuses/35216",
       "publishedAt": "2025-12-04T23:50:30.000Z",
       "title": "[No Title] - Post from December 4, 2025",
-      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115663976628593590</span></p>",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/115663976628593590</span></p>\n\n[Image] A screenshot of a post by verified X user Matt Van Swol, whose profile photo shows a bearded man. The post reads: “This isn’t the streets of Mexico. This is my state, North Carolina. President Trump was absolutely right, we have been invaded.” The interface includes the account name, handle, verification badge, and menu icon.",
       "url": "https://www.trumpstruth.org/statuses/35216",
       "raw": {
         "creator": "",
@@ -492,6 +495,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35216",
         "isoDate": "2025-12-04T23:50:30.000Z"
       },
+      "imageDescribedAt": "2026-09-08T06:49:56.082Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14281/446d3d1b9bd03c31.jpg"
       ]
@@ -500,7 +504,7 @@
       "id": "https://www.trumpstruth.org/statuses/35215",
       "publishedAt": "2025-12-04T23:50:57.000Z",
       "title": "[No Title] - Post from December 4, 2025",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of a Geiger Capital post discusses the Immigration Act of 1924, quoting President Calvin Coolidge and advocating another immigration law. Below is a historical cartoon showing Uncle Sam standing beside a large barrier labeled “Immigration,” checking a document marked “37” as immigrants emerge from a gate. The post claims the act restricted immigration and promoted assimilation.",
       "url": "https://www.trumpstruth.org/statuses/35215",
       "raw": {
         "creator": "",
@@ -513,6 +517,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35215",
         "isoDate": "2025-12-04T23:50:57.000Z"
       },
+      "imageDescribedAt": "2026-09-08T06:49:53.839Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14280/8c190747e4ec9004.png"
       ]
@@ -521,7 +526,7 @@
       "id": "https://www.trumpstruth.org/statuses/35214",
       "publishedAt": "2025-12-04T23:51:19.000Z",
       "title": "[No Title] - Post from December 4, 2025",
-      "text": "<p></p>",
+      "text": "[Image] A screenshot of an X post by Edward L. Hamilton claims Somali immigrant communities in Minnesota fraudulently over-diagnosed children with autism to divert Medicaid funds to terrorist groups. It includes a quoted passage about alleged kickbacks and rising autism claims, followed by a post from Christopher F. Rufo alleging Somali fraud rings sent taxpayer money to Islamist terrorists.",
       "url": "https://www.trumpstruth.org/statuses/35214",
       "raw": {
         "creator": "",
@@ -534,6 +539,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35214",
         "isoDate": "2025-12-04T23:51:19.000Z"
       },
+      "imageDescribedAt": "2026-09-08T06:49:50.991Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14279/d2d7a2353a410226.png"
       ]
@@ -589,7 +595,7 @@
       "id": "https://www.trumpstruth.org/statuses/34147",
       "publishedAt": "2025-12-04T23:54:58.000Z",
       "title": "[No Title] - Post from December 4, 2025",
-      "text": "<p></p>",
+      "text": "[Image] A black-and-white photograph shows Donald Trump beside a polo pony and Andy Warhol. Trump wears a dark suit and patterned tie, while Warhol wears glasses, a light jacket, and holds a camera. A mounted rider stands behind the horse. The image is presented in a social-media post dated Nov. 29, 2025, with text identifying the scene as Nov. 4, 1983.",
       "url": "https://www.trumpstruth.org/statuses/34147",
       "raw": {
         "creator": "",
@@ -602,6 +608,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34147",
         "isoDate": "2025-12-04T23:54:58.000Z"
       },
+      "imageDescribedAt": "2026-09-08T06:49:48.762Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13638/d320a88e224c0015.jpg"
       ]
@@ -817,6 +824,11 @@
       "analyzedAt": "2026-09-06T06:25:07.352Z"
     }
   ],
-  "trendingName": "Jared Polis",
-  "selfPraiseCacheKey": "self-praise-v1:31:d258889864d8cd2c932cf2d7"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34136",
+    "https://www.trumpstruth.org/statuses/35228",
+    "https://www.trumpstruth.org/statuses/35225",
+    "https://www.trumpstruth.org/statuses/35222",
+    "https://www.trumpstruth.org/statuses/35212"
+  ]
 }

@@ -6,23 +6,27 @@
     "negative": 0
   },
   "summary": "positive:6 neutral:6 negative:0",
-  "generatedAt": "2026-09-07T14:03:50.178Z",
+  "generatedAt": "2026-09-08T06:52:49.305Z",
   "topics": [
-    "Trump delivers remarks at the State Department Kennedy Center Honors Dinner",
-    "Calls for compassion and clemency for the Cuellar family",
-    "Supports Republican candidate in Miami's mayoral race"
+    "Defends Roger Clemens’s acquittal and urges him to sue MLB if denied Hall of Fame induction",
+    "Argues presidential tariff authority provides a faster, stronger national-security response before the Supreme Court",
+    "Endorses Republican Gonzalez in Miami’s mayoral election"
   ],
-  "trendingTopic": "Trump delivers remarks at the State Department Kennedy Center Honors Dinner",
+  "trendingTopic": "Defends Roger Clemens’s acquittal and urges him to sue MLB if denied Hall of Fame induction",
   "secondaryHighlights": [
     {
-      "topic": "Calls for compassion and clemency for the Cuellar family"
+      "topic": "Argues presidential tariff authority provides a faster, stronger national-security response before the Supreme Court"
     },
     {
-      "topic": "Supports Republican candidate in Miami's mayoral race"
+      "topic": "Endorses Republican Gonzalez in Miami’s mayoral election"
+    },
+    {
+      "topic": "Letter asks Donald Trump for clemency for Henry and Imelda Cuellar"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:12:e65b70fed72be9c388cdfe44",
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v11:12:e65b70fed72be9c388cdfe44",
+  "selfPraiseCacheKey": "self-praise-v2:12:e65b70fed72be9c388cdfe44",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34178",
@@ -158,7 +162,7 @@
       "id": "https://www.trumpstruth.org/statuses/34185",
       "publishedAt": "2025-12-07T15:11:22.000Z",
       "title": "RT @realDonaldTrump",
-      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span></p>",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump</span></a></span></p>\n\n[Image] A photographed letter dated November 12, 2025, is addressed to Donald Trump at the White House. Its subject is a request for compassion and clemency for Henry and Imelda Cuellar. The writers, identifying themselves as two daughters, describe their parents’ service, family responsibilities, and legal and ethical guidance regarding the allegations against their father.",
       "url": "https://www.trumpstruth.org/statuses/34185",
       "raw": {
         "creator": "",
@@ -171,6 +175,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34185",
         "isoDate": "2025-12-07T15:11:22.000Z"
       },
+      "imageDescribedAt": "2026-09-08T06:50:17.372Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13646/52854ff604523ce4.jpg"
       ]
@@ -322,5 +327,8 @@
       "analyzedAt": "2026-09-06T06:25:42.827Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:12:e65b70fed72be9c388cdfe44"
+  "trendingName": "Roger Clemens",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34189"
+  ]
 }

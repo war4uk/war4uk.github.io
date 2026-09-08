@@ -6,23 +6,27 @@
     "negative": 0
   },
   "summary": "positive:1 neutral:21 negative:0",
-  "generatedAt": "2026-09-07T14:04:01.016Z",
+  "generatedAt": "2026-09-08T06:53:42.080Z",
   "topics": [
-    "Highlights Trump's economic achievements and policies during rallies",
-    "Discusses immigration policy and achievements related to migrant children",
-    "Engages in international diplomacy with Thailand and Cambodia"
+    "Trump promotes falling prices, stronger paychecks, lower inflation, and energy-policy gains",
+    "Trump receives praise for leadership, influence, and peacemaking",
+    "Trump brokers Thailand-Cambodia ceasefire and return to earlier peace accord"
   ],
-  "trendingTopic": "Highlights Trump's economic achievements and policies during rallies",
+  "trendingTopic": "Trump promotes falling prices, stronger paychecks, lower inflation, and energy-policy gains",
   "secondaryHighlights": [
     {
-      "topic": "Discusses immigration policy and achievements related to migrant children"
+      "topic": "Trump receives praise for leadership, influence, and peacemaking"
     },
     {
-      "topic": "Engages in international diplomacy with Thailand and Cambodia"
+      "topic": "Trump brokers Thailand-Cambodia ceasefire and return to earlier peace accord"
+    },
+    {
+      "topic": "Trump contrasts Republican achievements with Democratic congressional failures"
     }
   ],
-  "selfPraiseCount": 5,
-  "topicsCacheKey": "day-themes-v10:22:39e5a9800acba08e92e5c821",
+  "selfPraiseCount": 13,
+  "topicsCacheKey": "day-themes-v11:22:39e5a9800acba08e92e5c821",
+  "selfPraiseCacheKey": "self-praise-v2:22:39e5a9800acba08e92e5c821",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/35203",
@@ -50,7 +54,7 @@
       "id": "https://www.trumpstruth.org/statuses/34212",
       "publishedAt": "2025-12-12T15:24:44.000Z",
       "title": "[No Title] - Post from December 12, 2025",
-      "text": "<p></p>",
+      "text": "[Image] A graphic shows a nighttime gas station beneath bold text reading “GAS PRICES DROPPING.” It claims that 91% of respondents in a White House email survey noticed lower gas prices since President Donald Trump took office. A White House icon appears at the top, with glowing orange divider lines and a retro-styled station below.",
       "url": "https://www.trumpstruth.org/statuses/34212",
       "raw": {
         "creator": "",
@@ -63,6 +67,7 @@
         "guid": "https://www.trumpstruth.org/statuses/34212",
         "isoDate": "2025-12-12T15:24:44.000Z"
       },
+      "imageDescribedAt": "2026-09-08T06:50:44.159Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/13654/56708f92721f049d.jpg"
       ]
@@ -137,7 +142,7 @@
       "id": "https://www.trumpstruth.org/statuses/35199",
       "publishedAt": "2025-12-12T15:25:47.000Z",
       "title": "[No Title] - Post from December 12, 2025",
-      "text": "<p></p>",
+      "text": "[Image] A Breitbart graphic features Donald Trump speaking at a podium before a blue “Pennsylvania Welcomes Donald” backdrop. The headline claims Trump touted nearly 60,000 jobs and $100 billion in investment for Pennsylvania since his inauguration. The graphic is branded with the White House and Breitbart logos and dated December 9, 2025.",
       "url": "https://www.trumpstruth.org/statuses/35199",
       "raw": {
         "creator": "",
@@ -150,6 +155,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35199",
         "isoDate": "2025-12-12T15:25:47.000Z"
       },
+      "imageDescribedAt": "2026-09-08T06:50:42.397Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14262/b49795bd3e51b158.jpg"
       ]
@@ -202,7 +208,7 @@
       "id": "https://www.trumpstruth.org/statuses/35196",
       "publishedAt": "2025-12-12T15:26:16.000Z",
       "title": "[No Title] - Post from December 12, 2025",
-      "text": "<p></p>",
+      "text": "[Image] Donald Trump is shown in a formal portrait wearing a dark suit, white shirt, and bright red tie, with a serious expression. A blue flag and a White House emblem appear in the background. Large overlaid text reads “MOST INFLUENTIAL MAN IN EUROPE,” with “POLITICO” printed at the bottom.",
       "url": "https://www.trumpstruth.org/statuses/35196",
       "raw": {
         "creator": "",
@@ -215,6 +221,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35196",
         "isoDate": "2025-12-12T15:26:16.000Z"
       },
+      "imageDescribedAt": "2026-09-08T06:50:40.689Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14259/2b735cda8e8f5228.jpg"
       ]
@@ -267,7 +274,7 @@
       "id": "https://www.trumpstruth.org/statuses/35193",
       "publishedAt": "2025-12-12T15:26:52.000Z",
       "title": "[No Title] - Post from December 12, 2025",
-      "text": "<p></p>",
+      "text": "[Image] A political graphic compares inflation under Donald Trump and Joe Biden. It shows Donald Trump in a dark suit and red tie beside Joe Biden in a dark suit and blue tie. Text claims inflation under Trump dropped to about 2.7%, while inflation under Biden reached 9.1%, described as the worst inflation crisis in decades.",
       "url": "https://www.trumpstruth.org/statuses/35193",
       "raw": {
         "creator": "",
@@ -280,6 +287,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35193",
         "isoDate": "2025-12-12T15:26:52.000Z"
       },
+      "imageDescribedAt": "2026-09-08T06:50:38.623Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14256/f622c5b542295ef3.jpg"
       ]
@@ -332,7 +340,7 @@
       "id": "https://www.trumpstruth.org/statuses/35190",
       "publishedAt": "2025-12-12T15:27:24.000Z",
       "title": "[No Title] - Post from December 12, 2025",
-      "text": "<p></p>",
+      "text": "[Image] A black-and-white poster shows Donald Trump walking with one fist raised, viewed from behind at a public event. Large white text across the image reads “PRESIDENT TRUMP” and “PEACE MAKER IN CHIEF.” Blurred people, equipment, and barriers are visible in the background.",
       "url": "https://www.trumpstruth.org/statuses/35190",
       "raw": {
         "creator": "",
@@ -345,6 +353,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35190",
         "isoDate": "2025-12-12T15:27:24.000Z"
       },
+      "imageDescribedAt": "2026-09-08T06:50:37.011Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14253/55ff42234060f179.jpg"
       ]
@@ -353,7 +362,7 @@
       "id": "https://www.trumpstruth.org/statuses/35189",
       "publishedAt": "2025-12-12T15:27:34.000Z",
       "title": "[No Title] - Post from December 12, 2025",
-      "text": "<p></p>",
+      "text": "[Image] A graphic from the Washington Examiner features a side-profile photograph of Donald Trump wearing a light-colored “45-47” cap, dark suit, white shirt, and red tie against a black background. Large text calls him the “most important president in maybe 100 years,” while a quotation below praises his leadership after the 2024 election.",
       "url": "https://www.trumpstruth.org/statuses/35189",
       "raw": {
         "creator": "",
@@ -366,6 +375,7 @@
         "guid": "https://www.trumpstruth.org/statuses/35189",
         "isoDate": "2025-12-12T15:27:34.000Z"
       },
+      "imageDescribedAt": "2026-09-08T06:50:35.437Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/14252/b8892156e8cc6451.jpg"
       ]
@@ -613,5 +623,19 @@
       "analyzedAt": "2026-09-06T06:26:26.003Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:22:39e5a9800acba08e92e5c821"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34212",
+    "https://www.trumpstruth.org/statuses/35202",
+    "https://www.trumpstruth.org/statuses/35201",
+    "https://www.trumpstruth.org/statuses/35200",
+    "https://www.trumpstruth.org/statuses/35199",
+    "https://www.trumpstruth.org/statuses/35197",
+    "https://www.trumpstruth.org/statuses/35196",
+    "https://www.trumpstruth.org/statuses/35195",
+    "https://www.trumpstruth.org/statuses/35193",
+    "https://www.trumpstruth.org/statuses/35192",
+    "https://www.trumpstruth.org/statuses/35191",
+    "https://www.trumpstruth.org/statuses/35190",
+    "https://www.trumpstruth.org/statuses/35189"
+  ]
 }

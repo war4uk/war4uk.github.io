@@ -6,23 +6,25 @@
     "negative": 1
   },
   "summary": "positive:2 neutral:0 negative:1",
-  "generatedAt": "2026-09-07T14:03:45.375Z",
+  "generatedAt": "2026-09-08T06:52:11.025Z",
   "topics": [
-    "Supports Andrew Wolfe, a National Guardsman injured at the Capitol",
-    "Criticizes Democrats' plans to undermine the Supreme Court",
-    "Announces approval for manufacturing tiny cars in America"
+    "Trump meets the family of injured National Guardsman Andrew Wolfe at the Oval Office",
+    "Trump warns Democrats could expand the Supreme Court after ending the legislative filibuster",
+    "Trump approves American production of gasoline, electric, and hybrid tiny cars"
   ],
-  "trendingTopic": "Supports Andrew Wolfe, a National Guardsman injured at the Capitol",
+  "trendingTopic": "Trump meets the family of injured National Guardsman Andrew Wolfe at the Oval Office",
+  "trendingName": "Andrew Wolfe",
   "secondaryHighlights": [
     {
-      "topic": "Criticizes Democrats' plans to undermine the Supreme Court"
+      "topic": "Trump warns Democrats could expand the Supreme Court after ending the legislative filibuster"
     },
     {
-      "topic": "Announces approval for manufacturing tiny cars in America"
+      "topic": "Trump approves American production of gasoline, electric, and hybrid tiny cars"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:3:c7d7d80af9b17cbb2ec9d92f",
+  "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v11:3:c7d7d80af9b17cbb2ec9d92f",
+  "selfPraiseCacheKey": "self-praise-v2:3:c7d7d80af9b17cbb2ec9d92f",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34149",
@@ -102,7 +104,5 @@
       "rationale": "The text expresses excitement and approval for the production of TINY CARS in America, highlighting their benefits and urging immediate action, which conveys a positive sentiment.",
       "analyzedAt": "2026-09-06T06:25:14.403Z"
     }
-  ],
-  "trendingName": "Andrew Wolfe",
-  "selfPraiseCacheKey": "self-praise-v1:3:c7d7d80af9b17cbb2ec9d92f"
+  ]
 }

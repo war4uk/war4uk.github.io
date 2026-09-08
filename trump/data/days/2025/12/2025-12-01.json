@@ -6,23 +6,30 @@
     "negative": 3
   },
   "summary": "positive:5 neutral:2 negative:3",
-  "generatedAt": "2026-09-07T14:03:36.262Z",
+  "generatedAt": "2026-09-08T06:51:04.958Z",
   "topics": [
-    "Calls for an apology to President Trump from Senator Kelly",
-    "Highlights of Melania Trump's Christmas event at the White House",
-    "Comments on demographic changes and political dynamics in Minnesota"
+    "Trump cites federal law threatening penalties for efforts to undermine military loyalty and discipline",
+    "Trump says Syria’s leadership is advancing prosperity and urges continued Israel-Syria dialogue",
+    "Trump highlights strong Black Friday online spending and a potential record quarter-trillion-dollar season"
   ],
-  "trendingTopic": "Calls for an apology to President Trump from Senator Kelly",
+  "trendingTopic": "Trump cites federal law threatening penalties for efforts to undermine military loyalty and discipline",
   "secondaryHighlights": [
     {
-      "topic": "Highlights of Melania Trump's Christmas event at the White House"
+      "topic": "Trump promotes Marc Siegel’s book about faith and healing",
+      "name": "Marc Siegel"
     },
     {
-      "topic": "Comments on demographic changes and political dynamics in Minnesota"
+      "topic": "Trump praises First Lady’s Christmas greetings from the White House",
+      "name": "Melania Trump"
+    },
+    {
+      "topic": "Trump welcomes Minnesotans while praising Governor Tim Walz",
+      "name": "Tim Walz"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:10:d65b5d8fb0c1c7fba2e81097",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:10:d65b5d8fb0c1c7fba2e81097",
+  "selfPraiseCacheKey": "self-praise-v2:10:d65b5d8fb0c1c7fba2e81097",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/34066",
@@ -279,5 +286,8 @@
       "analyzedAt": "2026-09-06T06:24:13.195Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:10:d65b5d8fb0c1c7fba2e81097"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/34065",
+    "https://www.trumpstruth.org/statuses/34071"
+  ]
 }
