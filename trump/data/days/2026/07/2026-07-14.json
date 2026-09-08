@@ -6,26 +6,28 @@
     "negative": 2
   },
   "summary": "positive:12 neutral:25 negative:2",
-  "generatedAt": "2026-09-07T19:52:47.418Z",
+  "generatedAt": "2026-09-08T08:58:09.682Z",
   "topics": [
-    "Trump showcases restored Washington monuments and parks while blaming prior vandalism and neglect",
-    "Trump campaigns at Pennsylvania’s Mack Trucks plant with manufacturing, jobs, and economic promises",
-    "Trump appears with Xi Jinping in formal China ceremony photographs"
+    "Trump highlights repaired Washington monuments and fountains after vandalism while touting improved District conditions",
+    "Trump’s Pennsylvania Mack Trucks visit promotes economic gains, falling drug prices, and midterm momentum",
+    "Trump blocks Iranian shipping through the Strait of Hormuz while replacing Gulf reimbursement fees with major U.S. investments"
   ],
-  "trendingTopic": "Trump showcases restored Washington monuments and parks while blaming prior vandalism and neglect",
+  "trendingTopic": "Trump highlights repaired Washington monuments and fountains after vandalism while touting improved District conditions",
   "secondaryHighlights": [
+    {
+      "topic": "Trump promotes a Japan trade and investment deal promising expanded U.S. exports and economic gains"
+    },
     {
       "topic": "Trump reiterates support for national concealed-carry legislation"
     },
     {
-      "topic": "Old footage resurfaces of Trump advocating a tougher response to Iran"
-    },
-    {
-      "topic": "Trump proposes a classical northern facade addition to the White House"
+      "topic": "Trump urges Senate Republicans to confirm Todd Blanche as attorney general",
+      "name": "Todd Blanche"
     }
   ],
-  "selfPraiseCount": 6,
-  "topicsCacheKey": "day-themes-v10:39:d20909277f2faceb5770a533",
+  "selfPraiseCount": 9,
+  "topicsCacheKey": "day-themes-v11:39:d20909277f2faceb5770a533",
+  "selfPraiseCacheKey": "self-praise-v2:39:d20909277f2faceb5770a533",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40019",
@@ -1092,5 +1094,15 @@
       "analyzedAt": "2026-09-05T08:00:20.313Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:39:d20909277f2faceb5770a533"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40020",
+    "https://www.trumpstruth.org/statuses/40025",
+    "https://www.trumpstruth.org/statuses/40034",
+    "https://www.trumpstruth.org/statuses/40035",
+    "https://www.trumpstruth.org/statuses/40036",
+    "https://www.trumpstruth.org/statuses/40038",
+    "https://www.trumpstruth.org/statuses/40041",
+    "https://www.trumpstruth.org/statuses/40047",
+    "https://www.trumpstruth.org/statuses/40045"
+  ]
 }

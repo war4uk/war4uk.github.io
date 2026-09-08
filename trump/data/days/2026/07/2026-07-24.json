@@ -6,27 +6,28 @@
     "negative": 1
   },
   "summary": "positive:5 neutral:7 negative:1",
-  "generatedAt": "2026-09-07T19:55:16.240Z",
+  "generatedAt": "2026-09-08T09:00:17.268Z",
   "topics": [
-    "Shohei Ohtani visits Trump in the Oval Office as Trump praises the baseball star",
-    "Xi Jinping tells Trump China will not supply weapons to Iran",
-    "Trump condemns European Union fines targeting major American technology companies"
+    "Trump says China and Russia pledged not to sell weapons to Iran",
+    "Trump threatens EU tariffs and a 301 investigation over fines on American technology companies",
+    "Trump urges Senate passage of the budget bill featuring military funding and the SAVE AMERICA Act"
   ],
-  "trendingTopic": "Shohei Ohtani visits Trump in the Oval Office as Trump praises the baseball star",
+  "trendingTopic": "Trump says Xi Jinping and Vladimir Putin pledged not to sell weapons to Iran",
   "secondaryHighlights": [
     {
-      "topic": "Xi Jinping tells Trump China will not supply weapons to Iran"
+      "topic": "Trump threatens EU tariffs and a 301 investigation over fines on American technology companies"
     },
     {
-      "topic": "Trump condemns European Union fines targeting major American technology companies"
+      "topic": "Trump urges Senate passage of the budget bill featuring military funding and the SAVE AMERICA Act"
     },
     {
-      "topic": "Trump endorses Republican Kurt Alme for the U.S. Senate in Montana",
+      "topic": "Trump endorses Kurt Alme for the U.S. Senate in Montana",
       "name": "Kurt Alme"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:13:507277769fe9695672385433",
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v11:13:507277769fe9695672385433",
+  "selfPraiseCacheKey": "self-praise-v2:13:507277769fe9695672385433",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40226",
@@ -359,6 +360,10 @@
       "analyzedAt": "2026-09-05T08:02:17.897Z"
     }
   ],
-  "trendingName": "Shohei Ohtani",
-  "selfPraiseCacheKey": "self-praise-v1:13:507277769fe9695672385433"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40225",
+    "https://www.trumpstruth.org/statuses/40232",
+    "https://www.trumpstruth.org/statuses/40233",
+    "https://www.trumpstruth.org/statuses/40237"
+  ]
 }

@@ -6,24 +6,24 @@
     "negative": 4
   },
   "summary": "positive:6 neutral:22 negative:4",
-  "generatedAt": "2026-09-07T19:54:43.664Z",
+  "generatedAt": "2026-09-08T08:59:54.886Z",
   "topics": [
-    "Trump-endorsed Republicans sweep Arizona elections with seven wins and no losses",
-    "New Jersey voter-registration software mistakenly added thousands of noncitizens to voter rolls",
-    "Trump threatens and launches military retaliation against Iran over attacks on U.S. forces and shipping"
+    "Trump-endorsed Republican candidates sweep Arizona’s July 21 primary elections, winning all seven contests",
+    "Trump calls for the SAVE Act after reports of thousands of noncitizens registered to vote in New Jersey",
+    "Trump threatens to destroy Iranian bridges or power plants after attacks on ships in the Strait of Hormuz"
   ],
-  "trendingTopic": "Trump-endorsed Republicans sweep Arizona elections with seven wins and no losses",
+  "trendingTopic": "Trump-endorsed Republican candidates sweep Arizona’s July 21 primary elections, winning all seven contests",
   "secondaryHighlights": [
     {
-      "topic": "Trump and Republicans promote the SAVE America Act requiring citizenship proof and voter identification"
+      "topic": "Trump calls for the SAVE Act after reports of thousands of noncitizens registered to vote in New Jersey"
     },
     {
-      "topic": "Trump gives Mike Lindell his complete endorsement for Minnesota governor",
-      "name": "Mike Lindell"
+      "topic": "Trump threatens to destroy Iranian bridges or power plants after attacks on ships in the Strait of Hormuz"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:32:061afc8196df7302e8ff57ed",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:32:061afc8196df7302e8ff57ed",
+  "selfPraiseCacheKey": "self-praise-v2:32:061afc8196df7302e8ff57ed",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40183",
@@ -856,5 +856,8 @@
       "analyzedAt": "2026-09-05T08:01:56.415Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:32:061afc8196df7302e8ff57ed"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40203",
+    "https://www.trumpstruth.org/statuses/40211"
+  ]
 }

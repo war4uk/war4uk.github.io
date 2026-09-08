@@ -6,20 +6,27 @@
     "negative": 4
   },
   "summary": "positive:41 neutral:5 negative:4",
-  "generatedAt": "2026-09-07T19:58:37.248Z",
+  "generatedAt": "2026-09-08T09:03:04.084Z",
   "topics": [
-    "Endorses and praises Republican candidates and officeholders across seven states",
-    "Highlights New York and NYC ICE detainer failures while blaming sanctuary cities for missing migrant children",
-    "Approves disaster aid for storm and flood damage in Missouri and West Virginia"
+    "Endorses Republican candidates across seven states ahead of August 4 elections",
+    "Highlights New York ICE detainer violations and blames sanctuary policies for missing children",
+    "Approves $29 million in storm and flood recovery aid for Missouri and West Virginia"
   ],
-  "trendingTopic": "Endorses and praises Republican candidates and officeholders across seven states",
+  "trendingTopic": "Endorses Republican candidates across Kansas, Michigan, Missouri, Virginia, Washington, Florida, and West Virginia",
   "secondaryHighlights": [
     {
-      "topic": "Claims Trump policies made Chevron successful and vindicated his Venezuela oil strategy"
+      "topic": "Warns Iran it will never obtain a nuclear weapon as U.S. blockade pressures Tehran"
+    },
+    {
+      "topic": "Claims Trump policies revived Venezuela’s oil industry while demanding lower consumer prices"
+    },
+    {
+      "topic": "Claims record polling numbers reflect tax cuts, jobs, investment, border security, and foreign-policy victories"
     }
   ],
-  "selfPraiseCount": 13,
-  "topicsCacheKey": "day-themes-v10:50:9ce5098044342d71fa6c11b7",
+  "selfPraiseCount": 14,
+  "topicsCacheKey": "day-themes-v11:50:9ce5098044342d71fa6c11b7",
+  "selfPraiseCacheKey": "self-praise-v2:50:9ce5098044342d71fa6c11b7",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40462",
@@ -1248,5 +1255,20 @@
       "analyzedAt": "2026-09-05T07:45:42.781Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:50:9ce5098044342d71fa6c11b7"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40462",
+    "https://www.trumpstruth.org/statuses/40463",
+    "https://www.trumpstruth.org/statuses/40464",
+    "https://www.trumpstruth.org/statuses/40466",
+    "https://www.trumpstruth.org/statuses/40470",
+    "https://www.trumpstruth.org/statuses/40474",
+    "https://www.trumpstruth.org/statuses/40483",
+    "https://www.trumpstruth.org/statuses/40482",
+    "https://www.trumpstruth.org/statuses/40477",
+    "https://www.trumpstruth.org/statuses/40497",
+    "https://www.trumpstruth.org/statuses/40509",
+    "https://www.trumpstruth.org/statuses/40508",
+    "https://www.trumpstruth.org/statuses/40507",
+    "https://www.trumpstruth.org/statuses/40506"
+  ]
 }

@@ -6,27 +6,24 @@
     "negative": 5
   },
   "summary": "positive:36 neutral:5 negative:5",
-  "generatedAt": "2026-09-07T20:03:14.367Z",
+  "generatedAt": "2026-09-08T09:07:33.202Z",
   "topics": [
-    "Trump endorses and praises Republican candidates across Florida, Alaska, Wyoming, and North Carolina",
-    "Trump defends presidential authority amid White House ballroom and security construction",
-    "Trump questions U.S.-South Korea military exercises while invoking his relationship with Kim Jong Un"
+    "Endorses dozens of Republican candidates in Florida, Alaska, Wyoming, and North Carolina’s August 18 primaries",
+    "Emphasizes friendly relations with Kim Jong Un and reduces joint U.S.-South Korea military exercises",
+    "Insists Iran must never obtain a nuclear weapon"
   ],
-  "trendingTopic": "Trump endorses and praises Republican candidates across Florida, Alaska, Wyoming, and North Carolina",
+  "trendingTopic": "Endorses dozens of Republican candidates in Florida, Alaska, Wyoming, and North Carolina’s August 18 primaries",
   "secondaryHighlights": [
     {
-      "topic": "Trump announces former hostage Kevin Rideout’s return to the United States",
-      "name": "Kevin Rideout"
+      "topic": "Emphasizes friendly relations with Kim Jong Un and reduces joint U.S.-South Korea military exercises"
     },
     {
-      "topic": "Trump accuses vandals of damaging the World War II Memorial and Reflecting Pool"
-    },
-    {
-      "topic": "Trump reiterates that preventing Iran from obtaining a nuclear weapon is his top goal"
+      "topic": "Insists Iran must never obtain a nuclear weapon"
     }
   ],
-  "selfPraiseCount": 12,
-  "topicsCacheKey": "day-themes-v10:46:1533fcc3cc9d6d993688b3a5",
+  "selfPraiseCount": 15,
+  "topicsCacheKey": "day-themes-v11:46:1533fcc3cc9d6d993688b3a5",
+  "selfPraiseCacheKey": "self-praise-v2:46:1533fcc3cc9d6d993688b3a5",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40907",
@@ -1160,5 +1157,21 @@
       "analyzedAt": "2026-09-05T07:49:06.441Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:46:1533fcc3cc9d6d993688b3a5"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40909",
+    "https://www.trumpstruth.org/statuses/40913",
+    "https://www.trumpstruth.org/statuses/40912",
+    "https://www.trumpstruth.org/statuses/40910",
+    "https://www.trumpstruth.org/statuses/40915",
+    "https://www.trumpstruth.org/statuses/40921",
+    "https://www.trumpstruth.org/statuses/40920",
+    "https://www.trumpstruth.org/statuses/40919",
+    "https://www.trumpstruth.org/statuses/40922",
+    "https://www.trumpstruth.org/statuses/40950",
+    "https://www.trumpstruth.org/statuses/40941",
+    "https://www.trumpstruth.org/statuses/40934",
+    "https://www.trumpstruth.org/statuses/40933",
+    "https://www.trumpstruth.org/statuses/40932",
+    "https://www.trumpstruth.org/statuses/40931"
+  ]
 }

@@ -6,24 +6,25 @@
     "negative": 1
   },
   "summary": "positive:3 neutral:3 negative:1",
-  "generatedAt": "2026-09-07T19:48:45.125Z",
+  "generatedAt": "2026-09-08T08:54:15.217Z",
   "topics": [
-    "Trump-endorsed Jeff Hurd, Jeff Crank, and Gabe Evans win Colorado congressional races",
-    "Micron announces a $250 million investment in Trump Accounts",
-    "Trump attacks Senate parliamentarian over rulings against Republicans"
+    "Trump-endorsed Jeff Hurd, Jeff Crank, and Gabe Evans win Colorado congressional contests",
+    "Micron commits $250 million to Trump Accounts for American children",
+    "Trump demands that Republicans fire the Senate parliamentarian"
   ],
-  "trendingTopic": "Trump-endorsed Jeff Hurd, Jeff Crank, and Gabe Evans win Colorado congressional races",
+  "trendingTopic": "Trump-endorsed Jeff Hurd, Jeff Crank, and Gabe Evans win Colorado congressional contests",
   "secondaryHighlights": [
     {
-      "topic": "Trump announces Freedom Fuel Network will help lower gas prices"
+      "topic": "Mourns Village People singer Victor Willis, praising his support for YMCA at Trump rallies",
+      "name": "Victor Willis"
     },
     {
-      "topic": "Trump mourns Village People singer Victor Willis at 74",
-      "name": "Victor Willis"
+      "topic": "Trump says falling oil prices will bring lower gas prices as Philadelphia stations offer July Fourth discounts"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:7:451412e0215d78eabe142164",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:7:451412e0215d78eabe142164",
+  "selfPraiseCacheKey": "self-praise-v2:7:451412e0215d78eabe142164",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39654",
@@ -213,5 +214,9 @@
       "analyzedAt": "2026-09-05T07:57:17.011Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:7:451412e0215d78eabe142164"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39655",
+    "https://www.trumpstruth.org/statuses/39656",
+    "https://www.trumpstruth.org/statuses/39658"
+  ]
 }

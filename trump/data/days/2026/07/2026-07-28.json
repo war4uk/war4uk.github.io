@@ -6,26 +6,25 @@
     "negative": 5
   },
   "summary": "positive:11 neutral:30 negative:5",
-  "generatedAt": "2026-09-07T19:56:54.804Z",
+  "generatedAt": "2026-09-08T09:01:32.458Z",
   "topics": [
-    "Mike Lee promotes the SAVE America Act to address noncitizen voting and election security",
-    "Trump rallies Georgia supporters around Trump Accounts while attacking Jon Ossoff and Democrats",
-    "Treasury and Social Security officials report stopping nearly $100 million in payments to deceased recipients"
+    "Trump rallies in Georgia for Mike Collins, promotes Trump Accounts, and attacks Jon Ossoff",
+    "Trump administration says nearly $100 million in payments to deceased or erroneous Social Security recipients were stopped",
+    "Andrew Giuliani praises Trump’s World Cup vision as the start of America’s golden age of sports"
   ],
-  "trendingTopic": "Mike Lee promotes the SAVE America Act to address noncitizen voting and election security",
+  "trendingTopic": "Trump rallies in Georgia for Mike Collins, promotes Trump Accounts, and attacks Jon Ossoff",
   "secondaryHighlights": [
     {
-      "topic": "Trump promotes World Cup coverage, including his sports vision and Ferran Torres’s MAGA cap"
+      "topic": "Trump administration says nearly $100 million in payments to deceased or erroneous Social Security recipients were stopped"
     },
     {
-      "topic": "U.S. officials say Chinese Kimi K3 trails leading American AI models in cyber evaluation"
-    },
-    {
-      "topic": "Senate confirms Jay Clayton as Director of National Intelligence and Trump urges Todd Blanche’s confirmation"
+      "topic": "Andrew Giuliani praises Trump’s World Cup vision as the start of America’s golden age of sports",
+      "name": "Andrew Giuliani"
     }
   ],
-  "selfPraiseCount": 7,
-  "topicsCacheKey": "day-themes-v10:46:a20f172ca0bcc6d023d356a6",
+  "selfPraiseCount": 9,
+  "topicsCacheKey": "day-themes-v11:46:a20f172ca0bcc6d023d356a6",
+  "selfPraiseCacheKey": "self-praise-v2:46:a20f172ca0bcc6d023d356a6",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40340",
@@ -1261,6 +1260,15 @@
       "analyzedAt": "2026-09-05T08:03:19.268Z"
     }
   ],
-  "trendingName": "Mike Lee",
-  "selfPraiseCacheKey": "self-praise-v1:46:a20f172ca0bcc6d023d356a6"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40342",
+    "https://www.trumpstruth.org/statuses/40341",
+    "https://www.trumpstruth.org/statuses/40348",
+    "https://www.trumpstruth.org/statuses/40373",
+    "https://www.trumpstruth.org/statuses/40371",
+    "https://www.trumpstruth.org/statuses/40364",
+    "https://www.trumpstruth.org/statuses/40381",
+    "https://www.trumpstruth.org/statuses/40378",
+    "https://www.trumpstruth.org/statuses/40377"
+  ]
 }

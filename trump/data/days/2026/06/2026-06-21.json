@@ -6,28 +6,25 @@
     "negative": 8
   },
   "summary": "positive:2 neutral:4 negative:8",
-  "generatedAt": "2026-09-07T19:45:44.726Z",
+  "generatedAt": "2026-09-08T08:51:56.583Z",
   "topics": [
-    "Attacks Iran-linked proxies, Italy, and New York Times coverage amid the war",
-    "Highlights Washington, D.C. cleanup efforts and orders repairs to the vandalized Reflecting Pool",
-    "Echoes criticism of Afghanistan-war negotiations after the Taliban’s return"
+    "Trump threatens further strikes on Iran, claims its military is crippled, and attacks New York Times coverage",
+    "Trump denounces Reflecting Pool vandalism and promises rapid repairs",
+    "Trump predicts Keir Starmer will resign as U.K. prime minister"
   ],
-  "trendingTopic": "Attacks Iran-linked proxies, Italy, and New York Times coverage amid the war",
+  "trendingTopic": "Trump threatens further strikes on Iran, claims its military is crippled, and attacks New York Times coverage",
   "secondaryHighlights": [
     {
-      "topic": "Reports 22 people shot and at least four killed in Chicago"
+      "topic": "Trump denounces Reflecting Pool vandalism and promises rapid repairs"
     },
     {
-      "topic": "Predicts Keir Starmer will resign as U.K. prime minister over immigration and energy",
+      "topic": "Trump predicts Keir Starmer will resign as U.K. prime minister",
       "name": "Keir Starmer"
-    },
-    {
-      "topic": "Amplifies criticism of Afghanistan-war negotiations after the Taliban’s return",
-      "name": "Dakota Meyer"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:14:f0f530f8c726e109c8d7152a",
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v11:14:f0f530f8c726e109c8d7152a",
+  "selfPraiseCacheKey": "self-praise-v2:14:f0f530f8c726e109c8d7152a",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39406",
@@ -380,5 +377,11 @@
       "analyzedAt": "2026-09-05T08:37:28.265Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:14:f0f530f8c726e109c8d7152a"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39407",
+    "https://www.trumpstruth.org/statuses/39409",
+    "https://www.trumpstruth.org/statuses/39410",
+    "https://www.trumpstruth.org/statuses/39415",
+    "https://www.trumpstruth.org/statuses/39418"
+  ]
 }

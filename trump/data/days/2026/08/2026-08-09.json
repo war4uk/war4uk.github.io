@@ -6,23 +6,25 @@
     "negative": 2
   },
   "summary": "positive:9 neutral:21 negative:2",
-  "generatedAt": "2026-09-07T20:00:37.033Z",
+  "generatedAt": "2026-09-08T09:05:01.351Z",
   "topics": [
-    "Promotes Trump golf properties and appearances, including outings with Gary Player",
-    "Posts graphics alleging vandalism at the Reflecting Pool and other public structures",
-    "Shares DronePort graphics depicting military drones near the White House"
+    "Trump showcases his golf courses, championship record, and appearances with Gary Player",
+    "Trump alleges ActBlue figure David Hearn vandalized the White House Reflecting Pool",
+    "Images promote a proposed DronePort filled with military drones near the White House"
   ],
-  "trendingTopic": "Trump showcases his golf properties and appearances, including outings with Gary Player",
+  "trendingTopic": "Trump showcases his golf courses, championship record, and appearances with Gary Player in Scotland and Florida",
   "secondaryHighlights": [
     {
-      "topic": "Posts graphics alleging vandalism at the Reflecting Pool and other public structures"
+      "topic": "Trump alleges ActBlue figure David Hearn vandalized the White House Reflecting Pool",
+      "name": "David Hearn"
     },
     {
-      "topic": "Shares DronePort graphics depicting military drones near the White House"
+      "topic": "Images promote a proposed DronePort filled with military drones near the White House"
     }
   ],
-  "selfPraiseCount": 7,
-  "topicsCacheKey": "day-themes-v10:32:03b8923e3cb33bf1a2f911d2",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:32:03b8923e3cb33bf1a2f911d2",
+  "selfPraiseCacheKey": "self-praise-v2:32:03b8923e3cb33bf1a2f911d2",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40668",
@@ -877,5 +879,8 @@
       "analyzedAt": "2026-09-05T07:47:16.066Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:32:03b8923e3cb33bf1a2f911d2"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40682",
+    "https://www.trumpstruth.org/statuses/40680"
+  ]
 }

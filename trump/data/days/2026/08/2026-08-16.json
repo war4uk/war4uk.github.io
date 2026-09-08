@@ -6,23 +6,24 @@
     "negative": 4
   },
   "summary": "positive:9 neutral:4 negative:4",
-  "generatedAt": "2026-09-07T20:02:55.794Z",
+  "generatedAt": "2026-09-08T09:07:10.332Z",
   "topics": [
-    "Trump’s tariff policy wins court backing as Peter Navarro defends its economic rationale",
-    "Trump allies spotlight the rollback of Biden-era DEI and ‘woke’ policies",
-    "Senate urged to pass the NO MORE CHANGING THE CLOCKS ACT"
+    "Trump administration's tariff strategy gains court backing as Peter Navarro defends trade policy",
+    "Trump directs Pentagon to substantially reduce U.S.-South Korea military exercises",
+    "Saudi Arabia, Turkey, and Pakistan sign Mecca Joint Defence Agreement"
   ],
-  "trendingTopic": "Trump’s tariff policy wins court backing as Peter Navarro defends its economic rationale",
+  "trendingTopic": "Trump administration's tariff strategy gains court backing as Peter Navarro defends trade policy",
   "secondaryHighlights": [
     {
-      "topic": "Trump allies spotlight the rollback of Biden-era DEI and ‘woke’ policies"
+      "topic": "Trump directs Pentagon to substantially reduce U.S.-South Korea military exercises"
     },
     {
-      "topic": "Senate urged to pass the NO MORE CHANGING THE CLOCKS ACT"
+      "topic": "Saudi Arabia, Turkey, and Pakistan sign Mecca Joint Defence Agreement"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:17:0ea1e0746c1e55a523a48b31",
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v11:17:0ea1e0746c1e55a523a48b31",
+  "selfPraiseCacheKey": "self-praise-v2:17:0ea1e0746c1e55a523a48b31",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40889",
@@ -435,5 +436,11 @@
       "analyzedAt": "2026-09-05T07:48:54.118Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:17:0ea1e0746c1e55a523a48b31"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40899",
+    "https://www.trumpstruth.org/statuses/40896",
+    "https://www.trumpstruth.org/statuses/40893",
+    "https://www.trumpstruth.org/statuses/40904",
+    "https://www.trumpstruth.org/statuses/40905"
+  ]
 }

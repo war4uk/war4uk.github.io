@@ -6,24 +6,24 @@
     "negative": 1
   },
   "summary": "positive:4 neutral:5 negative:1",
-  "generatedAt": "2026-09-07T19:51:41.593Z",
+  "generatedAt": "2026-09-08T08:57:17.733Z",
   "topics": [
-    "Shares images of Air Force One, F-22 Raptors, and stealth aircraft in flight",
-    "Mourns Senator Lindsey Graham’s death and orders American flags lowered nationwide",
-    "Mocks Hillary Clinton, Joe Biden, and Kamala Harris as election losers"
+    "Mourns Senator Lindsey Graham and orders flags lowered to half-mast",
+    "Shares images of Air Force One and advanced military aircraft",
+    "Shares an image mocking Hillary Clinton, Joe Biden, and Kamala Harris"
   ],
-  "trendingTopic": "Shares images of Air Force One, F-22 Raptors, and stealth aircraft in flight",
+  "trendingTopic": "Mourns Senator Lindsey Graham and orders American flags lowered to half-mast",
   "secondaryHighlights": [
     {
-      "topic": "Mourns Senator Lindsey Graham’s death and orders American flags lowered nationwide",
-      "name": "Lindsey Graham"
+      "topic": "Shares images of Air Force One and advanced military aircraft"
     },
     {
-      "topic": "Mocks Hillary Clinton, Joe Biden, and Kamala Harris as election losers"
+      "topic": "Shares an image mocking Hillary Clinton, Joe Biden, and Kamala Harris"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:10:3df4d231cf19c87a32082e72",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:10:3df4d231cf19c87a32082e72",
+  "selfPraiseCacheKey": "self-praise-v2:10:3df4d231cf19c87a32082e72",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39956",
@@ -284,5 +284,8 @@
       "analyzedAt": "2026-09-05T07:59:40.268Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:10:3df4d231cf19c87a32082e72"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39958",
+    "https://www.trumpstruth.org/statuses/39959"
+  ]
 }

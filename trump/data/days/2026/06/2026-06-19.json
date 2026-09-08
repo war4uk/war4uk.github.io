@@ -6,27 +6,24 @@
     "negative": 8
   },
   "summary": "positive:4 neutral:17 negative:8",
-  "generatedAt": "2026-09-07T19:45:11.496Z",
+  "generatedAt": "2026-09-08T08:51:28.568Z",
   "topics": [
-    "Trump touts Iran's military defeat as the U.S.-Iran agreement wins support for further talks",
-    "UFC Freedom 250 event staged at the White House with fighter jets and a combat-sports cage",
-    "South Carolina Republicans head toward the June 23 gubernatorial runoff"
+    "Trump says Iran’s military is devastated and Tehran agreed to talks from desperation",
+    "Endorses Lindsey Graham for reelection and backs Pam Evette and Alan Wilson in South Carolina races",
+    "Promotes UFC Freedom 250 event at the White House"
   ],
-  "trendingTopic": "Trump touts Iran's military defeat as the U.S.-Iran agreement wins support for further talks",
+  "trendingTopic": "Trump says Iran’s military is devastated and Tehran agreed to talks from desperation",
   "secondaryHighlights": [
     {
-      "topic": "UFC Freedom 250 event staged at the White House with fighter jets and a combat-sports cage"
+      "topic": "Endorses Lindsey Graham for reelection and backs Pam Evette and Alan Wilson in South Carolina races"
     },
     {
-      "topic": "South Carolina Republicans head toward the June 23 gubernatorial runoff"
-    },
-    {
-      "topic": "Praises Senator Lindsey Graham as a strong leader for South Carolina",
-      "name": "Lindsey Graham"
+      "topic": "Promotes UFC Freedom 250 event at the White House"
     }
   ],
   "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:29:79ee14452f76e6bd50c36bca",
+  "topicsCacheKey": "day-themes-v11:29:79ee14452f76e6bd50c36bca",
+  "selfPraiseCacheKey": "self-praise-v2:29:79ee14452f76e6bd50c36bca",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39356",
@@ -739,5 +736,9 @@
       "analyzedAt": "2026-09-05T08:37:05.243Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:29:79ee14452f76e6bd50c36bca"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39357",
+    "https://www.trumpstruth.org/statuses/39380",
+    "https://www.trumpstruth.org/statuses/39381"
+  ]
 }

@@ -6,20 +6,27 @@
     "negative": 2
   },
   "summary": "positive:9 neutral:5 negative:2",
-  "generatedAt": "2026-09-07T20:01:42.540Z",
+  "generatedAt": "2026-09-08T09:06:23.952Z",
   "topics": [
-    "Endorses Darline Graham, Saritha Komatireddy, Dan Sullivan, and Bruce Blakeman in state and federal races",
-    "Nominates Samuel Adkisson for a federal judgeship in Tennessee"
+    "Endorses candidates in New York, South Carolina, and Alaska elections",
+    "Nominates Samuel D. Adkisson for a federal judgeship in Tennessee",
+    "Announces the return of kidnapped missionary Kevin Rideout to U.S. custody"
   ],
-  "trendingTopic": "Endorses Darline Graham, Saritha Komatireddy, Dan Sullivan, and Bruce Blakeman in state and federal races",
+  "trendingTopic": "Endorses candidates in New York, South Carolina, and Alaska elections, including Bruce Blakeman",
   "secondaryHighlights": [
     {
-      "topic": "Nominates Samuel Adkisson for a federal judgeship in Tennessee",
-      "name": "Samuel Adkisson"
+      "topic": "Condemns spray-paint vandalism at the World War II Memorial"
+    },
+    {
+      "topic": "Hosts the Patriot Games athletic competition celebrating America’s 250th birthday"
+    },
+    {
+      "topic": "Reports 15 straight months without border releases as apprehensions plunge 94%"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:16:3c7b009879b929245c9265cb",
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v11:16:3c7b009879b929245c9265cb",
+  "selfPraiseCacheKey": "self-praise-v2:16:3c7b009879b929245c9265cb",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40815",
@@ -424,5 +431,11 @@
       "analyzedAt": "2026-09-05T07:48:23.432Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:16:3c7b009879b929245c9265cb"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40823",
+    "https://www.trumpstruth.org/statuses/40824",
+    "https://www.trumpstruth.org/statuses/40822",
+    "https://www.trumpstruth.org/statuses/40828",
+    "https://www.trumpstruth.org/statuses/40830"
+  ]
 }

@@ -6,28 +6,27 @@
     "negative": 2
   },
   "summary": "positive:26 neutral:21 negative:2",
-  "generatedAt": "2026-09-07T20:01:18.040Z",
+  "generatedAt": "2026-09-08T09:05:56.123Z",
   "topics": [
-    "Trump promotes Florida congressional delegation and statewide Republican candidates ahead of 2026 elections",
-    "Trump celebrates endorsed Republican primary winners across Alabama, Minnesota, and Wisconsin",
-    "Trump announces House passage of a bill making Daylight Saving Time permanent"
+    "Trump endorses Florida candidates across congressional, statewide, and gubernatorial races ahead of August 18 elections",
+    "Trump-backed Republican nominees win primaries across Alabama, Wisconsin, and Minnesota"
   ],
-  "trendingTopic": "Trump promotes Florida congressional delegation and statewide Republican candidates ahead of 2026 elections",
+  "trendingTopic": "Trump endorses Florida candidates across congressional, statewide, and gubernatorial races ahead of August 18 elections",
   "secondaryHighlights": [
     {
-      "topic": "Trump announces Karoline Leavitt will leave as White House press secretary at month’s end",
+      "topic": "Trump announces Karoline Leavitt will leave as White House press secretary and become an outside adviser",
       "name": "Karoline Leavitt"
     },
     {
-      "topic": "Trump claims U.S. naval blockade gives America total control of the Strait of Hormuz"
+      "topic": "Trump urges the Senate to pass the Sunshine Protection Act ending twice-yearly clock changes"
     },
     {
-      "topic": "Trump nominates Arkansas federal judge Lee Rudofsky to the Eighth Circuit Court of Appeals",
-      "name": "Lee Rudofsky"
+      "topic": "Trump claims U.S. control of the Strait of Hormuz amid escalating pressure on Iran"
     }
   ],
-  "selfPraiseCount": 4,
-  "topicsCacheKey": "day-themes-v10:49:2685465fd422e3274eaa814e",
+  "selfPraiseCount": 8,
+  "topicsCacheKey": "day-themes-v11:49:2685465fd422e3274eaa814e",
+  "selfPraiseCacheKey": "self-praise-v2:49:2685465fd422e3274eaa814e",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40736",
@@ -1284,5 +1283,14 @@
       "analyzedAt": "2026-09-05T07:47:49.078Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:49:2685465fd422e3274eaa814e"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40754",
+    "https://www.trumpstruth.org/statuses/40759",
+    "https://www.trumpstruth.org/statuses/40761",
+    "https://www.trumpstruth.org/statuses/40777",
+    "https://www.trumpstruth.org/statuses/40772",
+    "https://www.trumpstruth.org/statuses/40771",
+    "https://www.trumpstruth.org/statuses/40770",
+    "https://www.trumpstruth.org/statuses/40769"
+  ]
 }

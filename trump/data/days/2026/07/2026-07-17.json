@@ -6,26 +6,28 @@
     "negative": 2
   },
   "summary": "positive:6 neutral:5 negative:2",
-  "generatedAt": "2026-09-07T19:53:17.300Z",
+  "generatedAt": "2026-09-08T08:58:38.705Z",
   "topics": [
-    "Trump releases declassified 2020 election documents and directs public to White House election-integrity materials",
-    "Trump highlights June inflation decline and falling prescription drug prices",
-    "Trump celebrates court ruling striking down the Digital Equity Act"
+    "Trump releases declassified documents and White House resources on vulnerabilities in 2020 election infrastructure",
+    "Trump highlights June inflation declines and falling prescription drug prices",
+    "Trump touts TSMC’s additional $100 billion investment in Arizona semiconductor factories"
   ],
-  "trendingTopic": "Trump releases declassified 2020 election documents and directs public to White House election-integrity materials",
+  "trendingTopic": "Trump releases declassified documents and White House resources on vulnerabilities in 2020 election infrastructure",
   "secondaryHighlights": [
     {
-      "topic": "Trump highlights June inflation decline and falling prescription drug prices"
+      "topic": "Trump celebrates court ruling striking down the Digital Equity Act as unconstitutional"
     },
     {
-      "topic": "Trump celebrates court ruling striking down the Digital Equity Act"
+      "topic": "Trump blames Canada’s forest management for hazardous smoke crossing into the United States"
     },
     {
-      "topic": "Trump blames Canada for failing to maintain forests and worsening U.S. air quality"
+      "topic": "Trump endorses Darline Graham Nordone for South Carolina’s special Republican Senate primary",
+      "name": "Darline Graham Nordone"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:13:09db1015c55a770488d2bdef",
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v11:13:09db1015c55a770488d2bdef",
+  "selfPraiseCacheKey": "self-praise-v2:13:09db1015c55a770488d2bdef",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40089",
@@ -359,5 +361,10 @@
       "analyzedAt": "2026-09-05T08:00:48.781Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:13:09db1015c55a770488d2bdef"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40091",
+    "https://www.trumpstruth.org/statuses/40098",
+    "https://www.trumpstruth.org/statuses/40101",
+    "https://www.trumpstruth.org/statuses/40100"
+  ]
 }

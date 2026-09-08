@@ -6,27 +6,29 @@
     "negative": 4
   },
   "summary": "positive:11 neutral:34 negative:4",
-  "generatedAt": "2026-09-07T19:50:36.944Z",
+  "generatedAt": "2026-09-08T08:56:09.930Z",
   "topics": [
-    "Trump administration restores Washington's National Mall and stages patriotic celebrations for America's 250th birthday",
-    "Trump and congressional Republicans secure three years of ICE and Border Patrol funding through the Secure America Act",
-    "Trump discusses a possible Supreme Court vacancy and praises a ruling while criticizing birthright citizenship"
+    "Interior Department highlights restored D.C. fountains and National Mall scenes ahead of America’s 250th birthday",
+    "Trump touts Walmart price cuts, falling oil prices, and economic gains under his administration",
+    "Trump discusses a possible Supreme Court vacancy and praises a recent ruling"
   ],
-  "trendingTopic": "Trump administration restores Washington's National Mall and stages patriotic celebrations for America's 250th birthday",
+  "trendingTopic": "Interior Department highlights restored D.C. fountains and National Mall scenes ahead of America’s 250th birthday",
   "secondaryHighlights": [
     {
-      "topic": "Saudi Arabia cuts crude prices as global supply rises and Strait of Hormuz traffic resumes"
+      "topic": "Border Patrol union praises congressional passage of three-year ICE and Border Patrol funding"
     },
     {
-      "topic": "Walmart promises major price cuts at Trump's request for America's 250th birthday"
-    },
-    {
-      "topic": "Hillary Clinton backs Trump's Gaza plan as the only viable option",
+      "topic": "Hillary Clinton backs Trump’s Gaza plan as the only viable option",
       "name": "Hillary Clinton"
+    },
+    {
+      "topic": "Narendra Modi thanks Trump and seeks deeper India–U.S. strategic cooperation",
+      "name": "Narendra Modi"
     }
   ],
-  "selfPraiseCount": 13,
-  "topicsCacheKey": "day-themes-v10:49:c48204d9a9bc5a687073bfcd",
+  "selfPraiseCount": 10,
+  "topicsCacheKey": "day-themes-v11:49:c48204d9a9bc5a687073bfcd",
+  "selfPraiseCacheKey": "self-praise-v2:49:c48204d9a9bc5a687073bfcd",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39815",
@@ -1364,5 +1366,16 @@
       "analyzedAt": "2026-09-05T07:58:42.196Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:49:c48204d9a9bc5a687073bfcd"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39825",
+    "https://www.trumpstruth.org/statuses/39822",
+    "https://www.trumpstruth.org/statuses/39818",
+    "https://www.trumpstruth.org/statuses/39817",
+    "https://www.trumpstruth.org/statuses/39834",
+    "https://www.trumpstruth.org/statuses/39833",
+    "https://www.trumpstruth.org/statuses/39840",
+    "https://www.trumpstruth.org/statuses/39839",
+    "https://www.trumpstruth.org/statuses/39847",
+    "https://www.trumpstruth.org/statuses/39863"
+  ]
 }

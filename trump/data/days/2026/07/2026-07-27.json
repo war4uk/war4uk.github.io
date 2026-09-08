@@ -6,26 +6,25 @@
     "negative": 8
   },
   "summary": "positive:2 neutral:30 negative:8",
-  "generatedAt": "2026-09-07T19:56:28.990Z",
+  "generatedAt": "2026-09-08T09:01:10.200Z",
   "topics": [
-    "Invest America creates Trump Accounts and receives SpaceX stock gifts for more than two million children",
-    "Trump marks America's 250th birthday with fireworks, veterans tribute, and patriotic celebration",
-    "Trump presses Senate Republicans to end the filibuster and pass the SAVE America Act"
+    "Pushes Senate Republicans to end the filibuster and pass the SAVE AMERICA Act",
+    "Promotes SpaceX stock donations to Trump Accounts for more than two million children",
+    "Highlights restoration work on the White House’s regilded Arts of War sculptures"
   ],
-  "trendingTopic": "Invest America creates Trump Accounts and receives SpaceX stock gifts for more than two million children",
+  "trendingTopic": "Donald Trump urges Senate Republicans to end the filibuster and pass the SAVE AMERICA Act",
   "secondaryHighlights": [
     {
-      "topic": "NVIDIA expands domestic manufacturing and technology production in the United States"
+      "topic": "SpaceX executives donate stock to Trump Accounts for more than two million children",
+      "name": "Gwynne Shotwell"
     },
     {
-      "topic": "Trump’s defamation lawsuit against The New York Times survives another dismissal attempt"
-    },
-    {
-      "topic": "Workers remove scaffolding from Washington’s restored gilded Arts of War sculptures"
+      "topic": "Highlights restoration work on the White House’s regilded Arts of War sculptures"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:40:786aa1d048ce64ffc8ff0f96",
+  "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v11:40:786aa1d048ce64ffc8ff0f96",
+  "selfPraiseCacheKey": "self-praise-v2:40:786aa1d048ce64ffc8ff0f96",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40299",
@@ -1079,6 +1078,5 @@
       "rationale": "The text contains a link without any sentiment expressed.",
       "analyzedAt": "2026-09-05T08:02:59.433Z"
     }
-  ],
-  "selfPraiseCacheKey": "self-praise-v1:40:786aa1d048ce64ffc8ff0f96"
+  ]
 }

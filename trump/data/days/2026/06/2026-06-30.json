@@ -6,23 +6,24 @@
     "negative": 2
   },
   "summary": "positive:23 neutral:3 negative:2",
-  "generatedAt": "2026-09-07T19:48:34.869Z",
+  "generatedAt": "2026-09-08T08:54:04.736Z",
   "topics": [
-    "Approves disaster aid for storm-hit states including Florida, Georgia, and Michigan",
-    "Trump celebrates Supreme Court rulings on sports, political spending, birthright citizenship, and executive power",
-    "Nominates four judges and legal officials to federal positions"
+    "Trump approves more than $846 million in disaster aid for nine states",
+    "Trump nominates four judges and legal officials to federal posts",
+    "Trump celebrates Supreme Court rulings on executive power, political spending, and women’s sports"
   ],
-  "trendingTopic": "Approves hundreds of millions in disaster aid for storm-hit states across the country",
+  "trendingTopic": "Trump approves more than $846 million in disaster aid for nine states",
   "secondaryHighlights": [
     {
-      "topic": "Trump celebrates Supreme Court rulings on sports, political spending, birthright citizenship, and executive power"
+      "topic": "Trump nominates four judges and legal officials to federal posts"
     },
     {
-      "topic": "Nominates four judges and legal officials to federal positions"
+      "topic": "Trump celebrates Supreme Court rulings on executive power, political spending, and women’s sports"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:28:2f542d9052fbe0ac18cb10f0",
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v11:28:2f542d9052fbe0ac18cb10f0",
+  "selfPraiseCacheKey": "self-praise-v2:28:2f542d9052fbe0ac18cb10f0",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39624",
@@ -711,5 +712,11 @@
       "analyzedAt": "2026-09-05T08:39:32.570Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:28:2f542d9052fbe0ac18cb10f0"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39633",
+    "https://www.trumpstruth.org/statuses/39638",
+    "https://www.trumpstruth.org/statuses/39642",
+    "https://www.trumpstruth.org/statuses/39648",
+    "https://www.trumpstruth.org/statuses/39649"
+  ]
 }

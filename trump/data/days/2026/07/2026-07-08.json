@@ -6,23 +6,24 @@
     "negative": 4
   },
   "summary": "positive:8 neutral:22 negative:4",
-  "generatedAt": "2026-09-07T19:51:01.949Z",
+  "generatedAt": "2026-09-08T08:56:40.168Z",
   "topics": [
-    "Trump posts apparent retaliatory strikes on Iran after reported attacks on ships",
-    "Trump and allies pressure Senate to pass the SAVE AMERICA Act despite filibuster obstacles",
-    "Trump sends new Air Force One to RAF Mildenhall for servicemembers to tour"
+    "Trump warns Iran of harsher retaliation after its reported bombing of ships",
+    "Trump and Senate allies push SAVE America Act as court restores voter-verification features",
+    "Trump showcases new Air Force One to U.S. servicemembers at RAF Mildenhall"
   ],
-  "trendingTopic": "Trump posts apparent retaliatory strikes on Iran after reported attacks on ships",
+  "trendingTopic": "Trump warns Iran of harsher retaliation after its reported bombing of ships",
   "secondaryHighlights": [
     {
-      "topic": "Trump and allies pressure Senate to pass the SAVE AMERICA Act despite filibuster obstacles"
+      "topic": "Trump and Senate allies push SAVE America Act as court restores voter-verification features"
     },
     {
-      "topic": "Trump sends new Air Force One to RAF Mildenhall for servicemembers to tour"
+      "topic": "Trump showcases new Air Force One to U.S. servicemembers at RAF Mildenhall"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:34:eba8d32fe1ffc94d6ad206d7",
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v11:34:eba8d32fe1ffc94d6ad206d7",
+  "selfPraiseCacheKey": "self-praise-v2:34:eba8d32fe1ffc94d6ad206d7",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39882",
@@ -891,5 +892,11 @@
       "analyzedAt": "2026-09-05T07:59:04.792Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:34:eba8d32fe1ffc94d6ad206d7"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39881",
+    "https://www.trumpstruth.org/statuses/39880",
+    "https://www.trumpstruth.org/statuses/39878",
+    "https://www.trumpstruth.org/statuses/39883",
+    "https://www.trumpstruth.org/statuses/39887"
+  ]
 }

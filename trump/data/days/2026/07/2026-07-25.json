@@ -6,23 +6,25 @@
     "negative": 1
   },
   "summary": "positive:0 neutral:2 negative:1",
-  "generatedAt": "2026-09-07T19:55:22.142Z",
+  "generatedAt": "2026-09-08T09:00:25.236Z",
   "topics": [
-    "Laura Loomer interviews Ukrainian President Volodymyr Zelenskyy in Kyiv",
-    "Alaska removes thousands from active voter rolls, mistakenly flagging some citizens",
-    "Illustration proposes a North America air-filter barrier along the Canada-U.S. border"
+    "Alaska removes thousands from active voter rolls, mistakenly flagging some eligible citizens",
+    "Laura Loomer-linked post on X",
+    "Satirical image proposes a North America air-filter barrier along the Canada–U.S. border"
   ],
-  "trendingTopic": "Laura Loomer interviews Ukrainian President Volodymyr Zelenskyy at Kyiv’s Mariinsky Palace",
+  "trendingTopic": "Alaska removes thousands from active voter rolls, mistakenly flagging some eligible citizens",
   "secondaryHighlights": [
     {
-      "topic": "Alaska removes thousands from active voter rolls, mistakenly flagging some citizens"
+      "topic": "Laura Loomer-linked post on X",
+      "name": "Laura Loomer"
     },
     {
-      "topic": "Illustration proposes a North America air-filter barrier along the Canada-U.S. border"
+      "topic": "Satirical image proposes a North America air-filter barrier along the Canada–U.S. border"
     }
   ],
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:3:d1948b98ea1be08366ef5acd",
+  "topicsCacheKey": "day-themes-v11:3:d1948b98ea1be08366ef5acd",
+  "selfPraiseCacheKey": "self-praise-v2:3:d1948b98ea1be08366ef5acd",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40238",
@@ -106,7 +108,5 @@
       "rationale": "The text contains no content to express any sentiment.",
       "analyzedAt": "2026-09-05T08:02:23.684Z"
     }
-  ],
-  "trendingName": "Volodymyr Zelenskyy",
-  "selfPraiseCacheKey": "self-praise-v1:3:d1948b98ea1be08366ef5acd"
+  ]
 }

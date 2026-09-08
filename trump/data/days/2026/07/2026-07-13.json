@@ -6,27 +6,24 @@
     "negative": 3
   },
   "summary": "positive:18 neutral:30 negative:3",
-  "generatedAt": "2026-09-07T19:52:13.113Z",
+  "generatedAt": "2026-09-08T08:57:39.811Z",
   "topics": [
-    "Donald Trump launches America’s 250th anniversary celebrations with National Mall rally and White House festivities",
-    "Endorses seven America First congressional candidates across seven states",
-    "Trump promotes Iran peace efforts while defending military pressure and a blockade on Iranian shipping"
+    "Trump hosts America’s 250th anniversary celebration with National Mall rally and Great American State Fair",
+    "Endorses seven Republican House candidates across seven states",
+    "Shares polling and arguments supporting mass deportation and immigration enforcement"
   ],
-  "trendingTopic": "Donald Trump launches America’s 250th anniversary celebrations with National Mall rally and White House festivities",
+  "trendingTopic": "Trump opens America’s 250th anniversary celebration with National Mall rally and Great American State Fair",
   "secondaryHighlights": [
-    {
-      "topic": "Trump honors Lindsey Graham while backing his sister for interim senator and promoting the Clarity Act",
-      "name": "Lindsey Graham"
-    },
     {
       "topic": "Trump celebrates Supreme Court ruling expanding presidential power to remove executive officials"
     },
     {
-      "topic": "Polls show support rising for deporting undocumented immigrants and removing criminal migrants"
+      "topic": "Announces Iranian blockade and U.S. security role for the Strait of Hormuz"
     }
   ],
   "selfPraiseCount": 4,
-  "topicsCacheKey": "day-themes-v10:51:441370681a7dc621132985fb",
+  "topicsCacheKey": "day-themes-v11:51:441370681a7dc621132985fb",
+  "selfPraiseCacheKey": "self-praise-v2:51:441370681a7dc621132985fb",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39966",
@@ -1347,5 +1344,10 @@
       "analyzedAt": "2026-09-05T07:59:59.750Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:51:441370681a7dc621132985fb"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39966",
+    "https://www.trumpstruth.org/statuses/39982",
+    "https://www.trumpstruth.org/statuses/39981",
+    "https://www.trumpstruth.org/statuses/39992"
+  ]
 }

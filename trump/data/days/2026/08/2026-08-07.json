@@ -6,23 +6,27 @@
     "negative": 2
   },
   "summary": "positive:3 neutral:21 negative:2",
-  "generatedAt": "2026-09-07T19:59:43.663Z",
+  "generatedAt": "2026-09-08T09:04:13.612Z",
   "topics": [
-    "Trump-endorsed candidates sweep Tennessee primaries, including Marsha Blackburn’s gubernatorial victory",
-    "Promotes the SAVE AMERICA Act and cites new evidence challenging the 2020 election’s security claims",
-    "Urges the Senate to pass the Protect College Sports Act"
+    "Trump celebrates Tennessee Republican primary results and endorses Marsha Blackburn and Charlie Hatcher",
+    "Trump promotes an article claiming he won the Iran war",
+    "Trump pushes voter ID, citizenship proof, and mail-ballot restrictions while challenging 2020 election security"
   ],
-  "trendingTopic": "Trump-endorsed candidates sweep Tennessee primaries, including Marsha Blackburn’s gubernatorial victory",
+  "trendingTopic": "Trump celebrates Tennessee Republican primary results and endorses Marsha Blackburn and Charlie Hatcher",
   "secondaryHighlights": [
     {
-      "topic": "Promotes the SAVE AMERICA Act and cites new evidence challenging the 2020 election’s security claims"
+      "topic": "Trump urges Senate passage of the Protect College Sports Act to restrict transgender participation in women’s sports"
     },
     {
-      "topic": "Urges the Senate to pass the Protect College Sports Act"
+      "topic": "Trump alleges vandalism at the Reflecting Pool and attacks prosecutors and legal opponents"
+    },
+    {
+      "topic": "Trump defends White House ballroom and military-complex construction against judges’ ruling"
     }
   ],
-  "selfPraiseCount": 5,
-  "topicsCacheKey": "day-themes-v10:26:162b4cf62554e58ed4bf8447",
+  "selfPraiseCount": 11,
+  "topicsCacheKey": "day-themes-v11:26:162b4cf62554e58ed4bf8447",
+  "selfPraiseCacheKey": "self-praise-v2:26:162b4cf62554e58ed4bf8447",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40618",
@@ -723,5 +727,17 @@
       "analyzedAt": "2026-09-05T07:46:51.101Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:26:162b4cf62554e58ed4bf8447"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40617",
+    "https://www.trumpstruth.org/statuses/40616",
+    "https://www.trumpstruth.org/statuses/40614",
+    "https://www.trumpstruth.org/statuses/40613",
+    "https://www.trumpstruth.org/statuses/40619",
+    "https://www.trumpstruth.org/statuses/40622",
+    "https://www.trumpstruth.org/statuses/40633",
+    "https://www.trumpstruth.org/statuses/40634",
+    "https://www.trumpstruth.org/statuses/40635",
+    "https://www.trumpstruth.org/statuses/40637",
+    "https://www.trumpstruth.org/statuses/40638"
+  ]
 }

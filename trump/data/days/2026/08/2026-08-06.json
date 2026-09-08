@@ -6,25 +6,26 @@
     "negative": 3
   },
   "summary": "positive:12 neutral:2 negative:3",
-  "generatedAt": "2026-09-07T19:59:29.667Z",
+  "generatedAt": "2026-09-08T09:03:52.234Z",
   "topics": [
-    "Endorses or praises Republican congressional candidates across Tennessee’s House districts",
-    "Highlights Abdulrahman Mohamed El-Sayed’s support for ending the Senate filibuster",
-    "Defends Pete Hegseth against reports of false rumors"
+    "Endorses nine Tennessee Republican congressional candidates in the state’s primary election",
+    "Attacks Abdulrahman Mohamed El-Sayed and Michael Moore over communism and ending the Senate filibuster",
+    "Defends Pete Hegseth amid false reports and highlights military operations and recruitment gains"
   ],
-  "trendingTopic": "Endorses Republican congressional candidates representing Tennessee across nine House districts",
+  "trendingTopic": "Endorses nine Tennessee Republican congressional candidates in the state’s primary election",
   "secondaryHighlights": [
     {
-      "topic": "Highlights Abdulrahman Mohamed El-Sayed’s support for ending the Senate filibuster",
+      "topic": "Attacks Abdulrahman Mohamed El-Sayed and Michael Moore over communism and ending the Senate filibuster",
       "name": "Abdulrahman Mohamed El-Sayed"
     },
     {
-      "topic": "Defends Pete Hegseth against reports of false rumors",
+      "topic": "Defends Pete Hegseth amid false reports and highlights military operations and recruitment gains",
       "name": "Pete Hegseth"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:17:673e0a46021a0e14923b8e28",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:17:673e0a46021a0e14923b8e28",
+  "selfPraiseCacheKey": "self-praise-v2:17:673e0a46021a0e14923b8e28",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40596",
@@ -441,5 +442,9 @@
       "analyzedAt": "2026-09-05T07:46:40.223Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:17:673e0a46021a0e14923b8e28"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40596",
+    "https://www.trumpstruth.org/statuses/40597",
+    "https://www.trumpstruth.org/statuses/40610"
+  ]
 }

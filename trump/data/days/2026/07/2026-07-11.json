@@ -6,23 +6,24 @@
     "negative": 5
   },
   "summary": "positive:4 neutral:13 negative:5",
-  "generatedAt": "2026-09-07T19:51:32.600Z",
+  "generatedAt": "2026-09-08T08:57:10.431Z",
   "topics": [
-    "West Palm Beach airport is renamed Donald J. Trump International Airport",
-    "Trump attacks media credibility over election coverage and Maggie Haberman’s reporting",
-    "Trump accuses Democrats of abandoning socialism for communism"
+    "Pushes Senate to prioritize the SAVE America Act over other legislation",
+    "Attacks media coverage and Maggie Haberman’s book while defending his election record",
+    "Accuses Democrats of embracing communism and urges them to reject the ideology"
   ],
-  "trendingTopic": "West Palm Beach airport is renamed Donald J. Trump International Airport",
+  "trendingTopic": "Trump and allies push the Senate to prioritize passage of the SAVE America Act",
   "secondaryHighlights": [
     {
-      "topic": "Trump attacks media credibility over election coverage and Maggie Haberman’s reporting"
+      "topic": "Trump attacks media coverage and Maggie Haberman’s book while defending his election record"
     },
     {
-      "topic": "Trump accuses Democrats of abandoning socialism for communism"
+      "topic": "Trump accuses Democrats of embracing communism and urges them to reject the ideology"
     }
   ],
-  "selfPraiseCount": 8,
-  "topicsCacheKey": "day-themes-v10:22:f870865c6c203d2678290bca",
+  "selfPraiseCount": 7,
+  "topicsCacheKey": "day-themes-v11:22:f870865c6c203d2678290bca",
+  "selfPraiseCacheKey": "self-praise-v2:22:f870865c6c203d2678290bca",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39933",
@@ -597,5 +598,13 @@
       "analyzedAt": "2026-09-05T07:59:30.371Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:22:f870865c6c203d2678290bca"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39937",
+    "https://www.trumpstruth.org/statuses/39939",
+    "https://www.trumpstruth.org/statuses/39940",
+    "https://www.trumpstruth.org/statuses/39944",
+    "https://www.trumpstruth.org/statuses/39946",
+    "https://www.trumpstruth.org/statuses/39948",
+    "https://www.trumpstruth.org/statuses/39949"
+  ]
 }

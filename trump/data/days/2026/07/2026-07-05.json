@@ -6,24 +6,24 @@
     "negative": 10
   },
   "summary": "positive:23 neutral:67 negative:10",
-  "generatedAt": "2026-09-07T19:50:03.982Z",
+  "generatedAt": "2026-09-08T08:55:23.531Z",
   "topics": [
-    "Trump administration showcases restored Washington monuments, clear Reflecting Pool, and beautified public spaces",
-    "Freedom 250 celebrations feature fireworks, military ceremonies, and massive crowds in Washington",
-    "Trump warns communism is America’s greatest threat in Faith & Freedom Coalition speech"
+    "Trump administration restores and beautifies Washington landmarks, memorials, sculptures, and the Reflecting Pool",
+    "Trump celebrates Freedom 250 with fireworks, patriotic ceremonies, and massive crowds",
+    "Trump warns that godless communism threatens America and criticizes Democratic leaders"
   ],
-  "trendingTopic": "Trump administration showcases restored Washington monuments, clear Reflecting Pool, and beautified public spaces",
+  "trendingTopic": "Trump administration restores and beautifies Washington landmarks, memorials, sculptures, and the Reflecting Pool",
   "secondaryHighlights": [
     {
-      "topic": "Trump promotes Pennsylvania investments, manufacturing jobs, and an American industrial revival"
+      "topic": "Trump celebrates Freedom 250 with fireworks, patriotic ceremonies, and massive crowds"
     },
     {
-      "topic": "Judge Sparkle Sooknanan blocks Trump administration access to citizenship data for voter checks",
-      "name": "Sparkle Sooknanan"
+      "topic": "Trump warns that godless communism threatens America and criticizes Democratic leaders"
     }
   ],
-  "selfPraiseCount": 10,
-  "topicsCacheKey": "day-themes-v10:100:a2d20af234ee193ec5acff7d",
+  "selfPraiseCount": 15,
+  "topicsCacheKey": "day-themes-v11:100:a2d20af234ee193ec5acff7d",
+  "selfPraiseCacheKey": "self-praise-v2:100:a2d20af234ee193ec5acff7d",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39724",
@@ -2781,5 +2781,21 @@
       "analyzedAt": "2026-09-05T07:58:22.190Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:100:a2d20af234ee193ec5acff7d"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39734",
+    "https://www.trumpstruth.org/statuses/39739",
+    "https://www.trumpstruth.org/statuses/39738",
+    "https://www.trumpstruth.org/statuses/39737",
+    "https://www.trumpstruth.org/statuses/39749",
+    "https://www.trumpstruth.org/statuses/39752",
+    "https://www.trumpstruth.org/statuses/39756",
+    "https://www.trumpstruth.org/statuses/39765",
+    "https://www.trumpstruth.org/statuses/39764",
+    "https://www.trumpstruth.org/statuses/39762",
+    "https://www.trumpstruth.org/statuses/39761",
+    "https://www.trumpstruth.org/statuses/39760",
+    "https://www.trumpstruth.org/statuses/39767",
+    "https://www.trumpstruth.org/statuses/39775",
+    "https://www.trumpstruth.org/statuses/39814"
+  ]
 }

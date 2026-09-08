@@ -6,28 +6,24 @@
     "negative": 1
   },
   "summary": "positive:2 neutral:55 negative:1",
-  "generatedAt": "2026-09-07T19:56:03.408Z",
+  "generatedAt": "2026-09-08T09:00:56.310Z",
   "topics": [
-    "Promotes U.S. strikes on Iranian targets and seizure of an Iranian oil tanker",
-    "Urges Senate Republicans to pass the SAVE America Act to secure elections",
-    "Promotes Donald Trump’s 2028 campaign through patriotic artwork and rally imagery"
+    "Trump-themed graphics portray U.S. military attacks on Iran and seizure of Iranian oil tankers",
+    "Promotes Trump 2028 through patriotic posters, rallies, and heroic campaign imagery",
+    "Shares memes attacking Chris Christie, Jerry Nadler, late-night hosts, and Trump critics"
   ],
-  "trendingTopic": "Promotes U.S. strikes on Iranian targets and seizure of an Iranian oil tanker",
+  "trendingTopic": "Trump-themed graphics portray U.S. military attacks on Iran and seizure of Iranian oil tankers",
   "secondaryHighlights": [
     {
-      "topic": "Congratulates Alexander Kolodin on winning Arizona’s secretary of state race",
-      "name": "Alexander Kolodin"
+      "topic": "Promotes Trump 2028 through patriotic posters, rallies, and heroic campaign imagery"
     },
     {
-      "topic": "Highlights the White House’s weekly energy, domestic, and national security achievements"
-    },
-    {
-      "topic": "Ambassador Andrew Puzder condemns the European Union’s €890 million fine against Google",
-      "name": "Andrew Puzder"
+      "topic": "Shares memes attacking Chris Christie, Jerry Nadler, late-night hosts, and Trump critics"
     }
   ],
-  "selfPraiseCount": 22,
-  "topicsCacheKey": "day-themes-v10:58:0e7a789bb07bef4cd5862da5",
+  "selfPraiseCount": 17,
+  "topicsCacheKey": "day-themes-v11:58:0e7a789bb07bef4cd5862da5",
+  "selfPraiseCacheKey": "self-praise-v2:58:0e7a789bb07bef4cd5862da5",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40241",
@@ -1689,5 +1685,23 @@
       "analyzedAt": "2026-09-05T08:02:41.695Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:58:0e7a789bb07bef4cd5862da5"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40253",
+    "https://www.trumpstruth.org/statuses/40260",
+    "https://www.trumpstruth.org/statuses/40258",
+    "https://www.trumpstruth.org/statuses/40269",
+    "https://www.trumpstruth.org/statuses/40268",
+    "https://www.trumpstruth.org/statuses/40267",
+    "https://www.trumpstruth.org/statuses/40276",
+    "https://www.trumpstruth.org/statuses/40275",
+    "https://www.trumpstruth.org/statuses/40274",
+    "https://www.trumpstruth.org/statuses/40273",
+    "https://www.trumpstruth.org/statuses/40278",
+    "https://www.trumpstruth.org/statuses/40283",
+    "https://www.trumpstruth.org/statuses/40280",
+    "https://www.trumpstruth.org/statuses/40294",
+    "https://www.trumpstruth.org/statuses/40287",
+    "https://www.trumpstruth.org/statuses/40295",
+    "https://www.trumpstruth.org/statuses/40298"
+  ]
 }

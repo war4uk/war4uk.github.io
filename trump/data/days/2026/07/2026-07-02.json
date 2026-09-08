@@ -6,27 +6,27 @@
     "negative": 2
   },
   "summary": "positive:4 neutral:5 negative:2",
-  "generatedAt": "2026-09-07T19:48:55.000Z",
+  "generatedAt": "2026-09-08T08:54:24.219Z",
   "topics": [
-    "Criticizes U.S. NATO spending as Pete Hegseth argues for increased defense expenditures",
-    "Criticizes Biden administration over border conditions shown in migrant camp imagery",
-    "Highlights Micron’s $250 million contribution to Trump Accounts as its stock rises"
+    "Trump and Hegseth promote higher defense spending while criticizing NATO's burden on the United States",
+    "Trump announces expanded scallop fishing access and celebrates fewer ocean restrictions",
+    "Trump praises Micron's $250 million contribution to Trump Accounts"
   ],
-  "trendingTopic": "Trump criticizes NATO’s cost to the United States as Pete Hegseth argues for higher defense spending",
+  "trendingTopic": "Trump and Hegseth promote higher defense spending while criticizing NATO's burden on the United States",
   "secondaryHighlights": [
     {
-      "topic": "Criticizes Biden administration over border conditions shown in migrant camp imagery",
-      "name": "Joe Biden"
+      "topic": "Trump announces expanded scallop fishing access and celebrates fewer ocean restrictions"
     },
     {
-      "topic": "Highlights Micron’s $250 million contribution to Trump Accounts as its stock rises"
+      "topic": "Trump praises Micron's $250 million contribution to Trump Accounts"
     },
     {
-      "topic": "Declares National Scallops Day after NOAA opens Georges Bank fishing grounds"
+      "topic": "Trump highlights the S&P 500's strongest quarter since 2020"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:11:4cd3872f8ce103d8d8ec6714",
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v11:11:4cd3872f8ce103d8d8ec6714",
+  "selfPraiseCacheKey": "self-praise-v2:11:4cd3872f8ce103d8d8ec6714",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39660",
@@ -300,5 +300,7 @@
       "analyzedAt": "2026-09-05T07:57:28.686Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:11:4cd3872f8ce103d8d8ec6714"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39668"
+  ]
 }

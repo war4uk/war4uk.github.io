@@ -6,24 +6,25 @@
     "negative": 0
   },
   "summary": "positive:4 neutral:17 negative:0",
-  "generatedAt": "2026-09-07T19:53:05.081Z",
+  "generatedAt": "2026-09-08T08:58:26.669Z",
   "topics": [
-    "Announces nearly $10 billion in Pennsylvania defense industrial base investments",
-    "Promotes the Freedom 250 Grand Prix",
-    "Azerbaijani President Ilham Aliyev credits Trump with Armenia-Azerbaijan peace deal"
+    "Donald Trump announces nearly $10 billion in Pennsylvania defense-industrial investments",
+    "Azerbaijan’s president credits Donald Trump with helping secure an Armenia-Azerbaijan peace deal",
+    "Freedom 250 Grand Prix"
   ],
-  "trendingTopic": "Announces nearly $10 billion in Pennsylvania defense industrial base investments",
+  "trendingTopic": "Donald Trump announces nearly $10 billion in Pennsylvania defense-industrial investments",
   "secondaryHighlights": [
     {
-      "topic": "Promotes the Freedom 250 Grand Prix"
+      "topic": "Azerbaijan’s president credits Donald Trump with helping secure an Armenia-Azerbaijan peace deal",
+      "name": "Ilham Aliyev"
     },
     {
-      "topic": "Azerbaijani President Ilham Aliyev credits Trump with Armenia-Azerbaijan peace deal",
-      "name": "Ilham Aliyev"
+      "topic": "Freedom 250 Grand Prix"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:21:836d4dd56c0acd4391784c21",
+  "topicsCacheKey": "day-themes-v11:21:836d4dd56c0acd4391784c21",
+  "selfPraiseCacheKey": "self-praise-v2:21:836d4dd56c0acd4391784c21",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40069",
@@ -540,5 +541,7 @@
       "analyzedAt": "2026-09-05T08:00:39.965Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:21:836d4dd56c0acd4391784c21"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40084"
+  ]
 }

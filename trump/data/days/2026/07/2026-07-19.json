@@ -6,26 +6,28 @@
     "negative": 5
   },
   "summary": "positive:14 neutral:23 negative:5",
-  "generatedAt": "2026-09-07T19:53:48.586Z",
+  "generatedAt": "2026-09-08T08:59:05.839Z",
   "topics": [
-    "Promotes Trump administration cleanup and restoration of Washington monuments, parks, and memorials",
-    "Highlights nearly $10 billion in Pennsylvania defense investments and contracts",
-    "Defends Trump’s Iran policy, sanctions, strikes, and strategic objectives"
+    "Trump promotes cleaned and restored Washington monuments, parks, and memorials",
+    "Trump announces nearly $10 billion in Pennsylvania defense investments expected to create thousands of jobs",
+    "Trump escalates pressure on Iran with strikes and a broader sanctions strategy"
   ],
-  "trendingTopic": "Trump administration promotes cleanup and restoration of Washington monuments, parks, and memorials",
+  "trendingTopic": "Trump promotes cleaned and restored Washington monuments, parks, and memorials",
   "secondaryHighlights": [
     {
-      "topic": "Highlights nearly $10 billion in Pennsylvania defense investments and contracts"
+      "topic": "Charts tout stronger incomes, lower gas prices, and milder inflation under Trump"
     },
     {
-      "topic": "Defends Trump’s Iran policy, sanctions, strikes, and strategic objectives"
+      "topic": "Trump urges Britain to reopen North Sea oil production and remove Aberdeen windmills",
+      "name": "Andy Burnham"
     },
     {
-      "topic": "Shares data claiming Trump outperformed Biden on household incomes, gas prices, and inflation"
+      "topic": "House Republicans warn that targeting the Supreme Court and Senate filibuster would destroy the party"
     }
   ],
-  "selfPraiseCount": 11,
-  "topicsCacheKey": "day-themes-v10:42:b40ded26ccf0686ca3b7d2db",
+  "selfPraiseCount": 10,
+  "topicsCacheKey": "day-themes-v11:42:b40ded26ccf0686ca3b7d2db",
+  "selfPraiseCacheKey": "self-praise-v2:42:b40ded26ccf0686ca3b7d2db",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40106",
@@ -1120,5 +1122,16 @@
       "analyzedAt": "2026-09-05T08:01:14.123Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:42:b40ded26ccf0686ca3b7d2db"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41092",
+    "https://www.trumpstruth.org/statuses/40894",
+    "https://www.trumpstruth.org/statuses/40125",
+    "https://www.trumpstruth.org/statuses/40124",
+    "https://www.trumpstruth.org/statuses/40122",
+    "https://www.trumpstruth.org/statuses/40121",
+    "https://www.trumpstruth.org/statuses/40120",
+    "https://www.trumpstruth.org/statuses/40119",
+    "https://www.trumpstruth.org/statuses/40137",
+    "https://www.trumpstruth.org/statuses/40136"
+  ]
 }

@@ -6,26 +6,24 @@
     "negative": 1
   },
   "summary": "positive:13 neutral:30 negative:1",
-  "generatedAt": "2026-09-07T19:59:06.133Z",
+  "generatedAt": "2026-09-08T09:03:29.826Z",
   "topics": [
-    "Trump promotes a list of 20 claimed accomplishments spanning defense, foreign policy, and domestic policy",
-    "Trump touts his 2026 Republican primary endorsement record while backing candidates in Wyoming and Pennsylvania",
-    "Tariffs and Trump policies credited as U.S. manufacturing, steel output, and hiring surge"
+    "Trump endorses Republican candidates in South Carolina, Pennsylvania, and Wyoming while touting a 99% primary record",
+    "Trump touts manufacturing boom as factory activity, hiring, steel output, and exports surge",
+    "Trump promotes renewed Iran denuclearization talks and his administration’s nuclear accomplishments"
   ],
-  "trendingTopic": "Trump promotes a list of 20 claimed accomplishments spanning defense, foreign policy, and domestic policy",
+  "trendingTopic": "Trump endorses Republican candidates in South Carolina, Pennsylvania, and Wyoming while touting a 99% primary record",
   "secondaryHighlights": [
     {
-      "topic": "Education officials seek college reforms as campus free-speech ratings improve under Trump"
+      "topic": "Trump touts manufacturing boom as factory activity, hiring, steel output, and exports surge"
     },
     {
-      "topic": "Tennessee unveils a bridge named for President Donald J. Trump"
-    },
-    {
-      "topic": "Trump says Iran nuclear and Hormuz negotiations could produce an imminent deal"
+      "topic": "Trump promotes renewed Iran denuclearization talks and his administration’s nuclear accomplishments"
     }
   ],
-  "selfPraiseCount": 24,
-  "topicsCacheKey": "day-themes-v10:44:f510c4ff715c4c91febc689b",
+  "selfPraiseCount": 11,
+  "topicsCacheKey": "day-themes-v11:44:f510c4ff715c4c91febc689b",
+  "selfPraiseCacheKey": "self-praise-v2:44:f510c4ff715c4c91febc689b",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40512",
@@ -1313,5 +1311,17 @@
       "analyzedAt": "2026-09-05T07:46:12.630Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:44:f510c4ff715c4c91febc689b"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40513",
+    "https://www.trumpstruth.org/statuses/40514",
+    "https://www.trumpstruth.org/statuses/40532",
+    "https://www.trumpstruth.org/statuses/40537",
+    "https://www.trumpstruth.org/statuses/40536",
+    "https://www.trumpstruth.org/statuses/40543",
+    "https://www.trumpstruth.org/statuses/40544",
+    "https://www.trumpstruth.org/statuses/40545",
+    "https://www.trumpstruth.org/statuses/40547",
+    "https://www.trumpstruth.org/statuses/40546",
+    "https://www.trumpstruth.org/statuses/40548"
+  ]
 }

@@ -6,24 +6,20 @@
     "negative": 2
   },
   "summary": "positive:17 neutral:2 negative:2",
-  "generatedAt": "2026-09-07T20:00:50.517Z",
+  "generatedAt": "2026-09-08T09:05:12.597Z",
   "topics": [
-    "Endorses and praises Republican candidates running for Congress and governor in Wisconsin, Minnesota, and Alabama",
-    "Says Iran should pay compensation for war damage and deaths across the region",
-    "Welcomes Senator Darline Graham Nordone to the Oval Office"
+    "Endorses candidates in Wisconsin, Minnesota, Alabama, and South Carolina ahead of August 11 primaries",
+    "Demands Iran compensate victims and neighboring countries for war damage and deaths"
   ],
-  "trendingTopic": "Endorses and praises Republican candidates running for Congress and governor in Wisconsin, Minnesota, and Alabama",
+  "trendingTopic": "Endorses candidates in Wisconsin, Minnesota, Alabama, and South Carolina ahead of August 11 primaries",
   "secondaryHighlights": [
     {
-      "topic": "Says Iran should pay compensation for war damage and deaths across the region"
-    },
-    {
-      "topic": "Welcomes Senator Darline Graham Nordone to the Oval Office",
-      "name": "Darline Graham Nordone"
+      "topic": "Demands Iran compensate victims and neighboring countries for war damage and deaths"
     }
   ],
   "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:21:2e198b571ef91bebee1052a1",
+  "topicsCacheKey": "day-themes-v11:21:2e198b571ef91bebee1052a1",
+  "selfPraiseCacheKey": "self-praise-v2:21:2e198b571ef91bebee1052a1",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40700",
@@ -536,5 +532,9 @@
       "analyzedAt": "2026-09-05T07:47:28.624Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:21:2e198b571ef91bebee1052a1"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40712",
+    "https://www.trumpstruth.org/statuses/40715",
+    "https://www.trumpstruth.org/statuses/40714"
+  ]
 }

@@ -6,23 +6,25 @@
     "negative": 5
   },
   "summary": "positive:21 neutral:3 negative:5",
-  "generatedAt": "2026-09-07T20:01:28.403Z",
+  "generatedAt": "2026-09-08T09:06:06.019Z",
   "topics": [
-    "Endorses and praises New York congressional candidates across multiple districts",
-    "Senator faces ethics complaints over alleged dark-money corruption and $7 million nonprofit grants",
-    "Endorses and praises Florida candidates Meg Weinberger and Catalina Lauf"
+    "Trump endorses 14 New York and Florida candidates for congressional, gubernatorial, and state offices",
+    "Ethics complaints accuse Sen. Sheldon Whitehouse of conflicts involving his wife's nonprofit and consulting interests",
+    "Court upholds Trump's authority to end the de minimis tariff exemption for low-value imports"
   ],
-  "trendingTopic": "Endorses and praises New York congressional candidates across multiple districts ahead of 2026 elections",
+  "trendingTopic": "Trump endorses 14 New York and Florida candidates for congressional, gubernatorial, and state offices",
   "secondaryHighlights": [
     {
-      "topic": "Senator faces ethics complaints over alleged dark-money corruption and $7 million nonprofit grants"
+      "topic": "Ethics complaints accuse Sen. Sheldon Whitehouse of conflicts involving his wife's nonprofit and consulting interests",
+      "name": "Sheldon Whitehouse"
     },
     {
-      "topic": "Endorses and praises Florida candidates Meg Weinberger and Catalina Lauf"
+      "topic": "Court upholds Trump's authority to end the de minimis tariff exemption for low-value imports"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:29:2ae9326baae21d2b9552733f",
+  "topicsCacheKey": "day-themes-v11:29:2ae9326baae21d2b9552733f",
+  "selfPraiseCacheKey": "self-praise-v2:29:2ae9326baae21d2b9552733f",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40786",
@@ -727,5 +729,7 @@
       "analyzedAt": "2026-09-05T07:48:12.217Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:29:2ae9326baae21d2b9552733f"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40794"
+  ]
 }

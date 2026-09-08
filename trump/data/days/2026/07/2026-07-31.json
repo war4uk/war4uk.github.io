@@ -6,26 +6,25 @@
     "negative": 2
   },
   "summary": "positive:1 neutral:3 negative:2",
-  "generatedAt": "2026-09-07T19:57:27.629Z",
+  "generatedAt": "2026-09-08T09:01:59.340Z",
   "topics": [
-    "SC GOP Senate special-election poll shows Darlene Graham leading the 2026 field",
-    "Trump warns Spain’s illegal-immigration crisis could return to the United States under Democrats",
-    "Trump criticizes John Cornyn over a fund for victims of Biden-era prosecutions"
+    "South Carolina Republican Senate primary poll shows Darline Graham and Russell Fry tied at 17.4%",
+    "Trump defends compensation for alleged Biden-era government-abuse victims and urges Todd Blanche’s confirmation",
+    "Trump attacks Indiana Senate President Rodric Bray after Republican election losses"
   ],
-  "trendingTopic": "SC GOP Senate special-election poll shows Darlene Graham leading the 2026 field",
+  "trendingTopic": "South Carolina Republican Senate primary tracking poll shows Darline Graham and Russell Fry tied at 17.4%",
   "secondaryHighlights": [
     {
-      "topic": "Indiana Senate President will not seek reelection after Trump attacks his leadership"
+      "topic": "Trump defends compensation for alleged Biden-era government-abuse victims and urges Todd Blanche’s confirmation"
     },
     {
-      "topic": "Trump warns Spain’s illegal-immigration crisis could return to the United States under Democrats"
-    },
-    {
-      "topic": "Trump criticizes John Cornyn over a fund for victims of Biden-era prosecutions"
+      "topic": "Trump attacks Indiana Senate President Rodric Bray after Republican election losses",
+      "name": "Rodric Bray"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:6:ad20981fabbfa91d3af03ed5",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:6:ad20981fabbfa91d3af03ed5",
+  "selfPraiseCacheKey": "self-praise-v2:6:ad20981fabbfa91d3af03ed5",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40402",
@@ -186,5 +185,8 @@
       "analyzedAt": "2026-09-05T08:03:40.798Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:6:ad20981fabbfa91d3af03ed5"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40402",
+    "https://www.trumpstruth.org/statuses/40403"
+  ]
 }

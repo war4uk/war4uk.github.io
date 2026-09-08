@@ -6,27 +6,24 @@
     "negative": 3
   },
   "summary": "positive:9 neutral:13 negative:3",
-  "generatedAt": "2026-09-07T19:48:18.385Z",
+  "generatedAt": "2026-09-08T08:53:52.360Z",
   "topics": [
-    "U.S. teams rescue infant from Venezuela earthquake rubble as aid efforts continue",
-    "Trump says gasoline and crude prices are falling rapidly, demanding retailers lower prices",
-    "Trump celebrates Supreme Court ruling expanding presidential power to remove executive officials"
+    "Trump celebrates Supreme Court ruling expanding presidential power to remove executive officials",
+    "Trump demands gasoline retailers lower prices as oil falls toward $68 per barrel",
+    "Trump says Iran requested a meeting in Doha amid claims it will not obtain nuclear weapons"
   ],
-  "trendingTopic": "U.S. teams rescue infant from Venezuela earthquake rubble as aid efforts continue",
+  "trendingTopic": "Supreme Court ruling overturns 90 years of precedent and expands presidential power to remove executive officials",
   "secondaryHighlights": [
     {
-      "topic": "Trump and allies push the SAVE America Act requiring proof of citizenship and photo identification for voting"
+      "topic": "Trump demands gasoline retailers lower prices as oil falls toward $68 per barrel"
     },
     {
-      "topic": "Trump nominates Acting Labor Secretary Keith Sonderling to serve permanently",
-      "name": "Keith Sonderling"
-    },
-    {
-      "topic": "Iran requests a meeting with the United States in Doha"
+      "topic": "Trump says Iran requested a meeting in Doha amid claims it will not obtain nuclear weapons"
     }
   ],
   "selfPraiseCount": 4,
-  "topicsCacheKey": "day-themes-v10:25:1c7c99ce0c38871afe944abe",
+  "topicsCacheKey": "day-themes-v11:25:1c7c99ce0c38871afe944abe",
+  "selfPraiseCacheKey": "self-praise-v2:25:1c7c99ce0c38871afe944abe",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39600",
@@ -663,5 +660,10 @@
       "analyzedAt": "2026-09-05T08:39:16.630Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:25:1c7c99ce0c38871afe944abe"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39608",
+    "https://www.trumpstruth.org/statuses/39609",
+    "https://www.trumpstruth.org/statuses/39615",
+    "https://www.trumpstruth.org/statuses/39621"
+  ]
 }

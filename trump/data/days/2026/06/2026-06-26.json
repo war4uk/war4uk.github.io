@@ -6,23 +6,24 @@
     "negative": 4
   },
   "summary": "positive:6 neutral:13 negative:4",
-  "generatedAt": "2026-09-07T19:47:03.986Z",
+  "generatedAt": "2026-09-08T08:53:03.655Z",
   "topics": [
-    "Endorses Roger Marshall, Mike Mazzei, and Julia Letlow for Republican offices",
-    "Highlights Washington, D.C., with July Fourth airshow plans and Reflecting Pool images",
-    "Defends the Trump administration’s record-high ICE and CBP arrest and removal rates"
+    "Endorses or praises Republican candidates Roger Marshall, Mike Mazzei, and Julia Letlow",
+    "Highlights record Trump-era ICE arrests and removals compared with Obama",
+    "Reports Iranian drone attack on ship in Strait of Hormuz despite ceasefire"
   ],
   "trendingTopic": "Endorses Roger Marshall, Mike Mazzei, and Julia Letlow for Republican offices",
   "secondaryHighlights": [
     {
-      "topic": "Highlights Washington, D.C., with July Fourth airshow plans and Reflecting Pool images"
+      "topic": "Highlights record Trump-era ICE arrests and removals compared with Obama"
     },
     {
-      "topic": "Defends the Trump administration’s record-high ICE and CBP arrest and removal rates"
+      "topic": "Reports Iranian drone attack on ship in Strait of Hormuz despite ceasefire"
     }
   ],
-  "selfPraiseCount": 4,
-  "topicsCacheKey": "day-themes-v10:23:e433505f892c49b2585d64ac",
+  "selfPraiseCount": 8,
+  "topicsCacheKey": "day-themes-v11:23:e433505f892c49b2585d64ac",
+  "selfPraiseCacheKey": "self-praise-v2:23:e433505f892c49b2585d64ac",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39533",
@@ -611,5 +612,14 @@
       "analyzedAt": "2026-09-05T08:38:38.898Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:23:e433505f892c49b2585d64ac"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39542",
+    "https://www.trumpstruth.org/statuses/40332",
+    "https://www.trumpstruth.org/statuses/39543",
+    "https://www.trumpstruth.org/statuses/39544",
+    "https://www.trumpstruth.org/statuses/39547",
+    "https://www.trumpstruth.org/statuses/39551",
+    "https://www.trumpstruth.org/statuses/39552",
+    "https://www.trumpstruth.org/statuses/39554"
+  ]
 }

@@ -6,27 +6,24 @@
     "negative": 2
   },
   "summary": "positive:3 neutral:3 negative:2",
-  "generatedAt": "2026-09-07T19:49:04.631Z",
+  "generatedAt": "2026-09-08T08:54:32.824Z",
   "topics": [
-    "Opens Spirit of ’76 exhibition at Freedom Plaza honoring American Revolution heroes, including Caesar Rodney",
-    "Signs pardons for six people prosecuted over alleged car-fixing offenses",
+    "Trump opens Spirit of ’76 exhibition honoring American Revolution heroes and Prison Ship Martyrs in Washington",
+    "Trump pardons six people prosecuted over car repairs",
     "Acting DNI Pulte fires dozens of intelligence officials"
   ],
-  "trendingTopic": "Opens Spirit of ’76 exhibition at Freedom Plaza honoring American Revolution heroes, including Caesar Rodney",
+  "trendingTopic": "Trump opens Spirit of ’76 exhibition honoring American Revolution heroes and Prison Ship Martyrs in Washington",
   "secondaryHighlights": [
     {
-      "topic": "Signs pardons for six people prosecuted over alleged car-fixing offenses"
+      "topic": "Trump pardons six people prosecuted over car repairs"
     },
     {
       "topic": "Acting DNI Pulte fires dozens of intelligence officials"
-    },
-    {
-      "topic": "Hosts Justin Gaethje and his parents at the Oval Office after his major victory",
-      "name": "Justin Gaethje"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:8:88735c003ac65256f91ab0a7",
+  "topicsCacheKey": "day-themes-v11:8:88735c003ac65256f91ab0a7",
+  "selfPraiseCacheKey": "self-praise-v2:8:88735c003ac65256f91ab0a7",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39670",
@@ -246,5 +243,7 @@
       "analyzedAt": "2026-09-05T07:57:35.391Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:8:88735c003ac65256f91ab0a7"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39673"
+  ]
 }

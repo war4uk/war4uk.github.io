@@ -6,23 +6,24 @@
     "negative": 7
   },
   "summary": "positive:5 neutral:24 negative:7",
-  "generatedAt": "2026-09-07T19:46:34.317Z",
+  "generatedAt": "2026-09-08T08:52:37.549Z",
   "topics": [
-    "Trump celebrates sweeping June 23 primary victories for endorsed Republicans across New York, Utah, Maryland, and South Carolina",
-    "Trump discusses Iran negotiations and criticizes the Senate over a war powers resolution",
-    "Trump postpones housing conference while demanding passage of the SAVE AMERICA ACT"
+    "Trump celebrates 16-0 primary results and endorsed-candidate victories across New York, Utah, Maryland, and South Carolina",
+    "Trump says Iran is conceding in negotiations while condemning Senate opposition and addressing Strait of Hormuz charges",
+    "Trump cancels housing bill signing and demands Congress pass the SAVE AMERICA ACT"
   ],
-  "trendingTopic": "Trump celebrates sweeping June 23 primary victories for endorsed Republicans across New York, Utah, Maryland, and South Carolina",
+  "trendingTopic": "Trump celebrates 16-0 primary results and endorsed-candidate victories across four states",
   "secondaryHighlights": [
     {
-      "topic": "Trump discusses Iran negotiations and criticizes the Senate over a war powers resolution"
+      "topic": "Trump says Iran is conceding in negotiations while condemning Senate opposition and addressing Strait of Hormuz charges"
     },
     {
-      "topic": "Trump postpones housing conference while demanding passage of the SAVE AMERICA ACT"
+      "topic": "Trump cancels housing bill signing and demands Congress pass the SAVE AMERICA ACT"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:36:7f233972d823f59c3b24ef1a",
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v11:36:7f233972d823f59c3b24ef1a",
+  "selfPraiseCacheKey": "self-praise-v2:36:7f233972d823f59c3b24ef1a",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39482",
@@ -963,5 +964,10 @@
       "analyzedAt": "2026-09-05T08:38:15.940Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:36:7f233972d823f59c3b24ef1a"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39497",
+    "https://www.trumpstruth.org/statuses/39501",
+    "https://www.trumpstruth.org/statuses/39513",
+    "https://www.trumpstruth.org/statuses/39512"
+  ]
 }

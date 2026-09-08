@@ -6,20 +6,27 @@
     "negative": 4
   },
   "summary": "positive:17 neutral:15 negative:4",
-  "generatedAt": "2026-09-07T19:44:50.578Z",
+  "generatedAt": "2026-09-08T08:51:15.059Z",
   "topics": [
-    "Supports candidates and political allies in Utah, South Carolina, Oklahoma, Colombia, and Kentucky",
-    "Touts U.S.-Iran peace deal, falling oil prices, surging stocks, and an economic boom",
-    "Highlights Modi partnership and Indian companies’ planned $20.5 billion U.S. investment"
+    "Endorses candidates in Utah, South Carolina, Oklahoma, and Colombia",
+    "Promotes Iran peace negotiations, falling oil prices, rising stocks, and economic gains",
+    "Urges passage of the SAVE AMERICA ACT and termination of the Senate filibuster"
   ],
-  "trendingTopic": "Supports candidates and political allies in Utah, South Carolina, Oklahoma, Colombia, and Kentucky",
+  "trendingTopic": "Endorses candidates in Utah, South Carolina, Oklahoma, and Colombia",
   "secondaryHighlights": [
     {
-      "topic": "Promotes the new White House ballroom as construction advances on time and under budget"
+      "topic": "Promotes Iran peace negotiations, falling oil prices, rising stocks, and economic gains"
+    },
+    {
+      "topic": "Urges passage of the SAVE AMERICA ACT and termination of the Senate filibuster"
+    },
+    {
+      "topic": "Defends White House ballroom construction while attacking a lawsuit over the project"
     }
   ],
-  "selfPraiseCount": 6,
-  "topicsCacheKey": "day-themes-v10:36:1da3c6d11a82508be090b67c",
+  "selfPraiseCount": 11,
+  "topicsCacheKey": "day-themes-v11:36:1da3c6d11a82508be090b67c",
+  "selfPraiseCacheKey": "self-praise-v2:36:1da3c6d11a82508be090b67c",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39320",
@@ -933,5 +940,17 @@
       "analyzedAt": "2026-09-05T08:36:51.138Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:36:1da3c6d11a82508be090b67c"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39330",
+    "https://www.trumpstruth.org/statuses/39333",
+    "https://www.trumpstruth.org/statuses/39334",
+    "https://www.trumpstruth.org/statuses/39336",
+    "https://www.trumpstruth.org/statuses/39344",
+    "https://www.trumpstruth.org/statuses/39347",
+    "https://www.trumpstruth.org/statuses/39348",
+    "https://www.trumpstruth.org/statuses/39350",
+    "https://www.trumpstruth.org/statuses/39352",
+    "https://www.trumpstruth.org/statuses/39353",
+    "https://www.trumpstruth.org/statuses/39355"
+  ]
 }

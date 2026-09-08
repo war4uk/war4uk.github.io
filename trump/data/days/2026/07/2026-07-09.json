@@ -6,19 +6,21 @@
     "negative": 0
   },
   "summary": "positive:1 neutral:2 negative:0",
-  "generatedAt": "2026-09-07T19:51:07.678Z",
+  "generatedAt": "2026-09-08T08:56:44.692Z",
   "topics": [
-    "U.S. strikes target Iran Shahr Airport in southeastern Iran, officials confirm",
-    "Gwynne Shotwell and Robert donate $325 million in SpaceX stock to Trump Accounts"
+    "U.S. strikes target Iran’s Shahr Airport reportedly used by IRGC Aerospace Force",
+    "Gwynne and Robert Shotwell donate $325 million in SpaceX stock to help children"
   ],
-  "trendingTopic": "U.S. strikes target Iran Shahr Airport in southeastern Iran, officials confirm",
+  "trendingTopic": "U.S. strikes target Iran’s Shahr Airport reportedly used by IRGC Aerospace Force",
   "secondaryHighlights": [
     {
-      "topic": "Gwynne Shotwell and Robert donate $325 million in SpaceX stock to Trump Accounts"
+      "topic": "Gwynne and Robert Shotwell donate $325 million in SpaceX stock to help children",
+      "name": "Gwynne Shotwell"
     }
   ],
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:3:5097b56ec7277e3acd4dac1b",
+  "topicsCacheKey": "day-themes-v11:3:5097b56ec7277e3acd4dac1b",
+  "selfPraiseCacheKey": "self-praise-v2:3:5097b56ec7277e3acd4dac1b",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39912",
@@ -105,6 +107,5 @@
       "rationale": "The text expresses gratitude and appreciation for Gwynne Shotwell and her husband for their generous donation, highlighting the positive impact on children's lives and the American Dream.",
       "analyzedAt": "2026-09-05T07:59:09.320Z"
     }
-  ],
-  "selfPraiseCacheKey": "self-praise-v1:3:5097b56ec7277e3acd4dac1b"
+  ]
 }

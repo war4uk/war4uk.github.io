@@ -6,27 +6,24 @@
     "negative": 6
   },
   "summary": "positive:6 neutral:14 negative:6",
-  "generatedAt": "2026-09-07T19:47:31.907Z",
+  "generatedAt": "2026-09-08T08:53:23.345Z",
   "topics": [
-    "Previews massive July Fourth Washington celebrations, rally, military ceremony, and airshow",
-    "Attacks Democrats and socialists as communists, violent extremists, and ballot-access abusers",
-    "Reports U.S. strikes on Iranian missile, drone, and coastal radar sites over ceasefire violations"
+    "Trump promotes massive July Fourth Washington airshow, military flyovers, fireworks, and evening speech",
+    "Endorses Julia in Louisiana and Mike Mazzei for Oklahoma governor",
+    "Babylon Bee shares satire about New York Cubans fleeing communism by raft"
   ],
-  "trendingTopic": "Trump previews massive July Fourth Washington celebrations, rally, military ceremony, and airshow",
+  "trendingTopic": "Trump promotes massive July Fourth Washington airshow, military flyovers, fireworks, and evening speech",
   "secondaryHighlights": [
     {
-      "topic": "Endorses Julia in Louisiana and supports Mike Mazzei for Oklahoma governor"
+      "topic": "Endorses Julia in Louisiana and Mike Mazzei for Oklahoma governor"
     },
     {
-      "topic": "Shares Babylon Bee satire about New York Cubans fleeing communism by raft"
-    },
-    {
-      "topic": "Nominates Lance Schroyer to lead Immigration and Customs Enforcement",
-      "name": "Lance Schroyer"
+      "topic": "Babylon Bee shares satire about New York Cubans fleeing communism by raft"
     }
   ],
-  "selfPraiseCount": 8,
-  "topicsCacheKey": "day-themes-v10:26:5fd5544a2504bdcaf1ba7f64",
+  "selfPraiseCount": 6,
+  "topicsCacheKey": "day-themes-v11:26:5fd5544a2504bdcaf1ba7f64",
+  "selfPraiseCacheKey": "self-praise-v2:26:5fd5544a2504bdcaf1ba7f64",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39555",
@@ -706,5 +703,12 @@
       "analyzedAt": "2026-09-05T08:38:53.567Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:26:5fd5544a2504bdcaf1ba7f64"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39559",
+    "https://www.trumpstruth.org/statuses/39557",
+    "https://www.trumpstruth.org/statuses/39562",
+    "https://www.trumpstruth.org/statuses/39568",
+    "https://www.trumpstruth.org/statuses/39571",
+    "https://www.trumpstruth.org/statuses/39574"
+  ]
 }

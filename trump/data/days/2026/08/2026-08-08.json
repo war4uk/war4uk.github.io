@@ -6,27 +6,24 @@
     "negative": 2
   },
   "summary": "positive:5 neutral:21 negative:2",
-  "generatedAt": "2026-09-07T20:00:04.166Z",
+  "generatedAt": "2026-09-08T09:04:40.166Z",
   "topics": [
-    "Promotes Trump 2028 campaign imagery",
-    "Showcases a droneport military asset atop the White House ballroom",
-    "Highlights vandalism in shared images"
+    "Artwork and memes portray Donald Trump as a historic military leader and future president",
+    "Reports challenge 2020 election security claims, expose an Arizona voter-file hack, and highlight the GOP fundraising advantage",
+    "Shares images depicting vandalism on concrete and pavement"
   ],
-  "trendingTopic": "Donald Trump promotes a 2028 campaign with new rally and presidential imagery",
+  "trendingTopic": "Artwork and memes portray Donald Trump as a historic military leader and future president",
   "secondaryHighlights": [
     {
-      "topic": "Todd Blanche confirmation fight draws Lisa Murkowski opposition and Chuck Grassley support",
-      "name": "Todd Blanche"
+      "topic": "Reports challenge 2020 election security claims, expose an Arizona voter-file hack, and highlight the GOP fundraising advantage"
     },
     {
-      "topic": "Reports new evidence challenging claims about 2020 election security"
-    },
-    {
-      "topic": "Shares reports of a White House ballroom droneport packed with military aircraft"
+      "topic": "Shares images depicting vandalism on concrete and pavement"
     }
   ],
-  "selfPraiseCount": 8,
-  "topicsCacheKey": "day-themes-v10:28:1a223f737913d031f27da5eb",
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v11:28:1a223f737913d031f27da5eb",
+  "selfPraiseCacheKey": "self-praise-v2:28:1a223f737913d031f27da5eb",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40641",
@@ -771,5 +768,11 @@
       "analyzedAt": "2026-09-05T07:47:02.991Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:28:1a223f737913d031f27da5eb"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40645",
+    "https://www.trumpstruth.org/statuses/40644",
+    "https://www.trumpstruth.org/statuses/40642",
+    "https://www.trumpstruth.org/statuses/40656",
+    "https://www.trumpstruth.org/statuses/40662"
+  ]
 }

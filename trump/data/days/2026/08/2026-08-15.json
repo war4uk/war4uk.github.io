@@ -6,26 +6,27 @@
     "negative": 0
   },
   "summary": "positive:5 neutral:51 negative:0",
-  "generatedAt": "2026-09-07T20:02:30.284Z",
+  "generatedAt": "2026-09-08T09:06:55.385Z",
   "topics": [
-    "Trump promotes plans for a new White House ballroom and secure presidential facility",
-    "Posts attack Muslim politicians and Democrats over Islamic influence and domestic policy",
-    "Trump-focused posts portray U.S. military pressure on Iran, including an oil-tanker seizure"
+    "Trump promotes the White House East Wing project and links it to George Washington’s legacy",
+    "Trump portrays U.S. dominance over Iran through tanker seizures, military comparisons, and economic pressure",
+    "Trump endorses four Florida state representatives for reelection"
   ],
-  "trendingTopic": "Trump promotes plans for a new White House ballroom and secure presidential facility",
+  "trendingTopic": "Trump promotes the White House East Wing project while invoking George Washington’s legacy",
   "secondaryHighlights": [
     {
-      "topic": "Trump endorses four Florida state representatives as America First lawmakers"
+      "topic": "Trump portrays U.S. dominance over Iran through tanker seizures, military comparisons, and economic pressure"
     },
     {
-      "topic": "Posts promote Donald Trump’s 2028 presidential campaign"
+      "topic": "Trump endorses four Florida state representatives for reelection"
     },
     {
-      "topic": "Memes contrast alleged imprisonment under Biden with freedom under Trump"
+      "topic": "Anti-Muslim political memes target Michigan and Minnesota Democrats and Islamic practices"
     }
   ],
-  "selfPraiseCount": 21,
-  "topicsCacheKey": "day-themes-v10:56:fdaf86419483ed9f6696eedb",
+  "selfPraiseCount": 22,
+  "topicsCacheKey": "day-themes-v11:56:fdaf86419483ed9f6696eedb",
+  "selfPraiseCacheKey": "self-praise-v2:56:fdaf86419483ed9f6696eedb",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40832",
@@ -1526,5 +1527,28 @@
       "analyzedAt": "2026-09-05T07:48:42.815Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:56:fdaf86419483ed9f6696eedb"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40855",
+    "https://www.trumpstruth.org/statuses/40854",
+    "https://www.trumpstruth.org/statuses/40853",
+    "https://www.trumpstruth.org/statuses/40852",
+    "https://www.trumpstruth.org/statuses/40850",
+    "https://www.trumpstruth.org/statuses/40844",
+    "https://www.trumpstruth.org/statuses/40840",
+    "https://www.trumpstruth.org/statuses/40837",
+    "https://www.trumpstruth.org/statuses/40836",
+    "https://www.trumpstruth.org/statuses/40835",
+    "https://www.trumpstruth.org/statuses/40834",
+    "https://www.trumpstruth.org/statuses/40833",
+    "https://www.trumpstruth.org/statuses/40859",
+    "https://www.trumpstruth.org/statuses/40858",
+    "https://www.trumpstruth.org/statuses/40857",
+    "https://www.trumpstruth.org/statuses/40856",
+    "https://www.trumpstruth.org/statuses/40874",
+    "https://www.trumpstruth.org/statuses/40879",
+    "https://www.trumpstruth.org/statuses/40883",
+    "https://www.trumpstruth.org/statuses/40882",
+    "https://www.trumpstruth.org/statuses/40881",
+    "https://www.trumpstruth.org/statuses/40884"
+  ]
 }

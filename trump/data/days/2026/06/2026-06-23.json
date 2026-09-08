@@ -6,26 +6,24 @@
     "negative": 7
   },
   "summary": "positive:7 neutral:10 negative:7",
-  "generatedAt": "2026-09-07T19:46:16.263Z",
+  "generatedAt": "2026-09-08T08:52:27.131Z",
   "topics": [
-    "Six arrested and seven cited after vandalism damages Washington’s Reflecting Pool",
-    "Trump’s Iran deal draws praise as Tehran agrees to high-level nuclear inspections",
-    "Trump-backed Latin American candidates claim victories as region shifts right"
+    "Trump says Iran accepted indefinite nuclear inspections and will keep the Strait of Hormuz open",
+    "Trump announces arrests and repairs after vandalism at Washington’s Reflecting Pool",
+    "Trump endorses Republican candidates and celebrates primary victories in Arizona, Georgia, Texas, and South Carolina"
   ],
-  "trendingTopic": "Six arrested and seven cited after vandalism damages Washington’s Reflecting Pool",
+  "trendingTopic": "Trump says Iran accepted indefinite nuclear inspections and will keep the Strait of Hormuz open",
   "secondaryHighlights": [
     {
-      "topic": "Trump-endorsed Alan Wilson and Cody Simpson win South Carolina Republican nominations"
+      "topic": "Trump-backed candidate claims victory as Latin America continues shifting right"
     },
     {
-      "topic": "Biden administration accused of burying whistleblower complaint alleging Fauci lied to Congress"
-    },
-    {
-      "topic": "Chicago weekend shootings leave four dead and 39 injured as Trump promises a swift fix"
+      "topic": "Reports accuse the Biden administration and DEA of suppressing pandemic and fentanyl whistleblowers"
     }
   ],
   "selfPraiseCount": 7,
-  "topicsCacheKey": "day-themes-v10:24:4a8ad6d7e66743d4653a3210",
+  "topicsCacheKey": "day-themes-v11:24:4a8ad6d7e66743d4653a3210",
+  "selfPraiseCacheKey": "self-praise-v2:24:4a8ad6d7e66743d4653a3210",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39457",
@@ -645,5 +643,13 @@
       "analyzedAt": "2026-09-05T08:37:59.087Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:24:4a8ad6d7e66743d4653a3210"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39457",
+    "https://www.trumpstruth.org/statuses/39460",
+    "https://www.trumpstruth.org/statuses/39463",
+    "https://www.trumpstruth.org/statuses/39464",
+    "https://www.trumpstruth.org/statuses/39465",
+    "https://www.trumpstruth.org/statuses/39472",
+    "https://www.trumpstruth.org/statuses/39473"
+  ]
 }

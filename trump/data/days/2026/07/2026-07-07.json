@@ -6,23 +6,24 @@
     "negative": 0
   },
   "summary": "positive:6 neutral:7 negative:0",
-  "generatedAt": "2026-09-07T19:50:43.946Z",
+  "generatedAt": "2026-09-08T08:56:19.361Z",
   "topics": [
-    "Trump leads America’s 250th-birthday celebrations with Mount Rushmore visit and Fourth of July speech",
-    "Trump touts U.S. military strength and a stronger NATO alliance",
-    "Toyota moves production from Mexico to Texas"
+    "Trump celebrates America’s 250th birthday with Mount Rushmore appearance and a major Independence Day speech",
+    "Calls for $350 billion defense funding and passage of the SAVE AMERICA ACT",
+    "Says Toyota is moving production from Mexico to Texas, crediting tariffs"
   ],
-  "trendingTopic": "Trump leads America’s 250th-birthday celebrations with Mount Rushmore visit and Fourth of July speech",
+  "trendingTopic": "Trump celebrates America’s 250th birthday with Mount Rushmore appearance and a major Independence Day speech",
   "secondaryHighlights": [
     {
-      "topic": "Trump touts U.S. military strength and a stronger NATO alliance"
+      "topic": "Claims NATO is stronger after Trump pushed members to increase defense contributions"
     },
     {
-      "topic": "Toyota moves production from Mexico to Texas"
+      "topic": "Says America’s military recruiting records and morale are at historic highs"
     }
   ],
   "selfPraiseCount": 5,
-  "topicsCacheKey": "day-themes-v10:13:c602fb6ff2f921b3b9da327e",
+  "topicsCacheKey": "day-themes-v11:13:c602fb6ff2f921b3b9da327e",
+  "selfPraiseCacheKey": "self-praise-v2:13:c602fb6ff2f921b3b9da327e",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39865",
@@ -339,5 +340,11 @@
       "analyzedAt": "2026-09-05T07:58:49.568Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:13:c602fb6ff2f921b3b9da327e"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39869",
+    "https://www.trumpstruth.org/statuses/39870",
+    "https://www.trumpstruth.org/statuses/39872",
+    "https://www.trumpstruth.org/statuses/39871",
+    "https://www.trumpstruth.org/statuses/39876"
+  ]
 }

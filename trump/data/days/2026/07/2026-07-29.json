@@ -6,26 +6,24 @@
     "negative": 3
   },
   "summary": "positive:5 neutral:1 negative:3",
-  "generatedAt": "2026-09-07T19:57:05.301Z",
+  "generatedAt": "2026-09-08T09:01:43.852Z",
   "topics": [
-    "Meets with Ukrainian President Volodymyr Zelenskyy and Israeli Prime Minister Benjamin Netanyahu",
-    "Endorses Amir Hassan for Michigan’s 8th Congressional District",
-    "Supports Senate budget resolution to fund troops, farmers, and the SAVE AMERICA ACT"
+    "Trump attacks Anthony Fauci over COVID-19 policies and an embarrassing first pitch",
+    "Trump meets separately with Zelenskyy and Netanyahu for high-level discussions",
+    "Trump criticizes Supreme Court rulings and Amy Coney Barrett over conservative issues"
   ],
-  "trendingTopic": "Meets with Ukrainian President Volodymyr Zelenskyy and Israeli Prime Minister Benjamin Netanyahu",
+  "trendingTopic": "Trump attacks Anthony Fauci over COVID-19 policies and an embarrassing first pitch",
   "secondaryHighlights": [
     {
-      "topic": "Defends Operation Warp Speed while comparing COVID deaths under Biden and Trump"
+      "topic": "Trump meets separately with Zelenskyy and Netanyahu for high-level discussions"
     },
     {
-      "topic": "Criticizes Supreme Court rulings on birthright citizenship and tariffs as costing trillions"
-    },
-    {
-      "topic": "Claims Export-Import Bank has become profitable through new deals and Project Vault"
+      "topic": "Trump criticizes Supreme Court rulings and Amy Coney Barrett over conservative issues"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:9:0ef10f618e58a56bc8dbc7d6",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:9:0ef10f618e58a56bc8dbc7d6",
+  "selfPraiseCacheKey": "self-praise-v2:9:0ef10f618e58a56bc8dbc7d6",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40386",
@@ -261,5 +259,9 @@
       "analyzedAt": "2026-09-05T08:03:26.962Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:9:0ef10f618e58a56bc8dbc7d6"
+  "trendingName": "Anthony Fauci",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40391",
+    "https://www.trumpstruth.org/statuses/40401"
+  ]
 }

@@ -6,23 +6,25 @@
     "negative": 3
   },
   "summary": "positive:5 neutral:7 negative:3",
-  "generatedAt": "2026-09-07T19:46:44.192Z",
+  "generatedAt": "2026-09-08T08:52:50.043Z",
   "topics": [
-    "Trump allies press Senate to pass SAVE America Act instead of taking recess",
-    "Senate rejects effort to rein in Trump’s Iran war after changing its vote",
-    "Trump touts 45,000-person rally and promises an even larger July 4 event"
+    "Senate rejects measure limiting Trump's war powers in Iran",
+    "Trump touts 45,000-person rally and announces a larger July 4 event",
+    "Trump nominates Chris Klomp as Deputy Secretary of Health and Human Services"
   ],
-  "trendingTopic": "Trump allies press Senate to pass SAVE America Act instead of taking recess",
+  "trendingTopic": "Senate rejects bill curbing Trump's war powers in Iran, giving him a political win",
   "secondaryHighlights": [
     {
-      "topic": "Senate rejects effort to rein in Trump’s Iran war after changing its vote"
+      "topic": "Trump touts 45,000-person rally and promises a bigger July 4 event"
     },
     {
-      "topic": "Trump touts 45,000-person rally and promises an even larger July 4 event"
+      "topic": "Trump nominates Chris Klomp as Deputy Secretary of Health and Human Services",
+      "name": "Chris Klomp"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:15:7bfd06f698961d5fa30d76ca",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:15:7bfd06f698961d5fa30d76ca",
+  "selfPraiseCacheKey": "self-praise-v2:15:7bfd06f698961d5fa30d76ca",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39517",
@@ -410,5 +412,9 @@
       "analyzedAt": "2026-09-05T08:38:26.695Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:15:7bfd06f698961d5fa30d76ca"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39526",
+    "https://www.trumpstruth.org/statuses/39527",
+    "https://www.trumpstruth.org/statuses/39529"
+  ]
 }

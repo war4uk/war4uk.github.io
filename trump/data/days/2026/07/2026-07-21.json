@@ -6,23 +6,27 @@
     "negative": 5
   },
   "summary": "positive:6 neutral:10 negative:5",
-  "generatedAt": "2026-09-07T19:54:27.937Z",
+  "generatedAt": "2026-09-08T08:59:44.890Z",
   "topics": [
-    "Releases documents alleging foreign election interference and illegal noncitizen voting",
-    "Highlights executions of young Iranian protesters by the regime",
-    "Warns wealthy residents and businesses are fleeing Democratic-led blue states"
+    "Trump and House Republicans push election-security measures citing foreign interference and illegal noncitizen voting",
+    "Trump condemns Iranian protesters’ treatment as executions and deaths continue",
+    "Trump highlights migration from Democratic-run states and warns of future economic decline"
   ],
-  "trendingTopic": "Declassified documents allege foreign interference and widespread noncitizen voting in U.S. elections",
+  "trendingTopic": "Trump and House Republicans advance election-security measures targeting foreign interference and illegal noncitizen voting",
   "secondaryHighlights": [
     {
-      "topic": "Promotes prescription drug savings and a temporary zero tariff on generic imports"
+      "topic": "Trump condemns Iranian protesters’ treatment as executions and deaths continue"
     },
     {
-      "topic": "Calls for passage of the SAVE AMERICA ACT in the budget bill"
+      "topic": "Trump highlights migration from Democratic-run states and warns of future economic decline"
+    },
+    {
+      "topic": "Trump announces drug-price savings and tariffs to reshore generic pharmaceutical production"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:21:bc3ec8150b03fc543a5c726e",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:21:bc3ec8150b03fc543a5c726e",
+  "selfPraiseCacheKey": "self-praise-v2:21:bc3ec8150b03fc543a5c726e",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40162",
@@ -566,5 +570,9 @@
       "analyzedAt": "2026-09-05T08:01:39.921Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:21:bc3ec8150b03fc543a5c726e"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40162",
+    "https://www.trumpstruth.org/statuses/40170",
+    "https://www.trumpstruth.org/statuses/40182"
+  ]
 }

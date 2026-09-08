@@ -6,23 +6,28 @@
     "negative": 1
   },
   "summary": "positive:7 neutral:12 negative:1",
-  "generatedAt": "2026-09-07T19:44:20.371Z",
+  "generatedAt": "2026-09-08T08:50:43.818Z",
   "topics": [
-    "Trump touts Republican primary victories and endorsements across Alabama, Georgia, and Oklahoma",
-    "Criticizes Republicans over William Pulte’s removal as acting DNI and FISA approval",
-    "Plans France press conference and Versailles dinner with European leaders"
+    "Trump touts endorsed candidates’ victories and advances across Alabama, Georgia, and Oklahoma primaries",
+    "Trump conditions FISA approval on passage of the SAVE AMERICA ACT and confirmation of Jamie McDonald",
+    "Trump endorses Mark Tedford over Jackson Lahmeyer in Oklahoma’s 1st Congressional District race"
   ],
-  "trendingTopic": "Trump touts Republican primary victories and endorsements across Alabama, Georgia, and Oklahoma",
+  "trendingTopic": "Trump touts endorsed candidates’ victories and advances across Alabama, Georgia, and Oklahoma primaries",
   "secondaryHighlights": [
     {
-      "topic": "Criticizes Republicans over William Pulte’s removal as acting DNI and FISA approval"
+      "topic": "Trump conditions FISA approval on passage of the SAVE AMERICA ACT and confirmation of Jamie McDonald"
     },
     {
-      "topic": "Plans France press conference and Versailles dinner with European leaders"
+      "topic": "Trump endorses Mark Tedford over Jackson Lahmeyer in Oklahoma’s 1st Congressional District race",
+      "name": "Mark Tedford"
+    },
+    {
+      "topic": "Trump says Iran will not obtain a nuclear weapon as Strait of Hormuz reopening boosts markets and oil prices"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:20:063788b684dc74c61ec2f929",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:20:063788b684dc74c61ec2f929",
+  "selfPraiseCacheKey": "self-praise-v2:20:063788b684dc74c61ec2f929",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39310",
@@ -555,5 +560,9 @@
       "analyzedAt": "2026-09-05T08:36:34.298Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:20:063788b684dc74c61ec2f929"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39311",
+    "https://www.trumpstruth.org/statuses/39314",
+    "https://www.trumpstruth.org/statuses/39318"
+  ]
 }

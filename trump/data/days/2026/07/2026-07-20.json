@@ -6,26 +6,28 @@
     "negative": 3
   },
   "summary": "positive:6 neutral:7 negative:3",
-  "generatedAt": "2026-09-07T19:54:07.068Z",
+  "generatedAt": "2026-09-08T08:59:26.383Z",
   "topics": [
-    "Trump highlights Iran peace-deal support, threatens retaliation, and defends Netanyahu from arrest",
-    "Trump celebrates World Cup success, praising Christopher Maccio and law enforcement",
-    "Trump thanks Mike Johnson and House Budget Committee members"
+    "Trump addresses Iran’s executions, threatens retaliation, defends Netanyahu, and discusses regional security",
+    "Trump celebrates the World Cup’s success, praising law enforcement, FIFA leadership, and Christopher Maccio",
+    "Trump urges House Republicans to advance the SAVE AMERICA ACT with farmer and military funding"
   ],
-  "trendingTopic": "Trump highlights Iran peace-deal support, threatens retaliation, and defends Netanyahu from arrest",
+  "trendingTopic": "Trump addresses Iran’s executions, threatens retaliation, defends Netanyahu, and discusses regional security",
   "secondaryHighlights": [
     {
-      "topic": "Giant Eagle announces major price cuts on more than 300 products through Labor Day"
+      "topic": "Trump orders a review of climate-change manuals used by federal judges"
     },
     {
-      "topic": "Trump criticizes National Academy of Sciences climate-change manuals as fraudulent and biased"
+      "topic": "Trump praises Giant Eagle for cutting prices across hundreds of grocery products"
     },
     {
-      "topic": "Trump discusses the U.S.-UK relationship with Prime Minister Andy Burnham"
+      "topic": "Trump discusses trade, military ties, North Sea oil, and Hormuz demining with UK Prime Minister Andy Burnham",
+      "name": "Andy Burnham"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:16:6e4d5cf9f660ded115a3a422",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:16:6e4d5cf9f660ded115a3a422",
+  "selfPraiseCacheKey": "self-praise-v2:16:6e4d5cf9f660ded115a3a422",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40146",
@@ -434,5 +436,9 @@
       "analyzedAt": "2026-09-05T08:01:23.803Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:16:6e4d5cf9f660ded115a3a422"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40147",
+    "https://www.trumpstruth.org/statuses/40152",
+    "https://www.trumpstruth.org/statuses/40160"
+  ]
 }

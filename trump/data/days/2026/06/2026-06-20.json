@@ -6,20 +6,24 @@
     "negative": 8
   },
   "summary": "positive:4 neutral:9 negative:8",
-  "generatedAt": "2026-09-07T19:45:29.978Z",
+  "generatedAt": "2026-09-08T08:51:43.498Z",
   "topics": [
-    "Trump touts Iran’s military defeat and 60-day ceasefire deal for Hormuz shipping",
-    "Highlights Washington, D.C. monument, infrastructure, and public-safety improvements",
-    "Criticizes Giorgia Meloni after claiming she repeatedly sought a photo at the G7"
+    "Trump claims Iran’s military defeat while advancing a 60-day ceasefire and Hormuz shipping agreement",
+    "Trump highlights Reflecting Pool vandalism arrests and ongoing repairs in Washington, D.C.",
+    "Shares reports accusing Biden officials, the New York Times, and Gavin Newsom of misconduct"
   ],
-  "trendingTopic": "Trump touts Iran’s military defeat and ceasefire deal promising toll-free Hormuz shipping",
+  "trendingTopic": "Trump claims Iran’s military defeat while advancing a 60-day ceasefire and Hormuz shipping agreement",
   "secondaryHighlights": [
     {
-      "topic": "Park Police arrest multiple suspects over vandalism at Washington’s Reflecting Pool"
+      "topic": "Trump highlights Reflecting Pool vandalism arrests and ongoing repairs in Washington, D.C."
+    },
+    {
+      "topic": "Shares reports accusing Biden officials, the New York Times, and Gavin Newsom of misconduct"
     }
   ],
-  "selfPraiseCount": 7,
-  "topicsCacheKey": "day-themes-v10:21:7c39dc86e8c067e452191933",
+  "selfPraiseCount": 11,
+  "topicsCacheKey": "day-themes-v11:21:7c39dc86e8c067e452191933",
+  "selfPraiseCacheKey": "self-praise-v2:21:7c39dc86e8c067e452191933",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39385",
@@ -544,5 +548,17 @@
       "analyzedAt": "2026-09-05T08:37:18.997Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:21:7c39dc86e8c067e452191933"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39385",
+    "https://www.trumpstruth.org/statuses/39388",
+    "https://www.trumpstruth.org/statuses/39389",
+    "https://www.trumpstruth.org/statuses/39390",
+    "https://www.trumpstruth.org/statuses/39392",
+    "https://www.trumpstruth.org/statuses/39396",
+    "https://www.trumpstruth.org/statuses/39395",
+    "https://www.trumpstruth.org/statuses/39401",
+    "https://www.trumpstruth.org/statuses/39403",
+    "https://www.trumpstruth.org/statuses/39404",
+    "https://www.trumpstruth.org/statuses/39405"
+  ]
 }

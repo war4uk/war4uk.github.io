@@ -6,23 +6,27 @@
     "negative": 2
   },
   "summary": "positive:13 neutral:4 negative:2",
-  "generatedAt": "2026-09-07T19:51:23.506Z",
+  "generatedAt": "2026-09-08T08:56:57.098Z",
   "topics": [
-    "Endorses and praises America First candidates in Iowa and Arizona races",
-    "Micron raises planned U.S. investment to $250 billion and touts 100,000 jobs",
-    "Highlights White House beautification and reduced crime in Washington, D.C."
+    "Trump endorses seven Arizona congressional candidates and Iowa gubernatorial candidate",
+    "Micron raises planned U.S. investment to $250 billion, citing Trump policies",
+    "Trump showcases White House repairs and claims Washington, D.C., has eliminated crime"
   ],
-  "trendingTopic": "Endorses and praises multiple America First candidates for congressional and gubernatorial races in Iowa and Arizona",
+  "trendingTopic": "Trump endorses seven Arizona congressional candidates and Iowa gubernatorial candidate",
   "secondaryHighlights": [
     {
-      "topic": "Micron raises planned U.S. investment to $250 billion and touts 100,000 jobs"
+      "topic": "Trump refuses to sign housing bill while demanding passage of the SAVE AMERICA ACT"
     },
     {
-      "topic": "Highlights White House beautification and reduced crime in Washington, D.C."
+      "topic": "Trump says Iran ceasefire is over as talks continue"
+    },
+    {
+      "topic": "Trump announces renaming Palm Beach International Airport after himself"
     }
   ],
   "selfPraiseCount": 5,
-  "topicsCacheKey": "day-themes-v10:19:6867cdb060c1686e39802f6a",
+  "topicsCacheKey": "day-themes-v11:19:6867cdb060c1686e39802f6a",
+  "selfPraiseCacheKey": "self-praise-v2:19:6867cdb060c1686e39802f6a",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39914",
@@ -501,5 +505,11 @@
       "analyzedAt": "2026-09-05T07:59:19.942Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:19:6867cdb060c1686e39802f6a"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39914",
+    "https://www.trumpstruth.org/statuses/39926",
+    "https://www.trumpstruth.org/statuses/39928",
+    "https://www.trumpstruth.org/statuses/39931",
+    "https://www.trumpstruth.org/statuses/39929"
+  ]
 }

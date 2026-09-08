@@ -6,27 +6,27 @@
     "negative": 5
   },
   "summary": "positive:9 neutral:31 negative:5",
-  "generatedAt": "2026-09-07T19:58:00.300Z",
+  "generatedAt": "2026-09-08T09:02:34.221Z",
   "topics": [
-    "Trump condemns alleged vandalism at Washington’s Reflecting Pool during event preparations",
-    "Trump supporters display a large welcome banner at UFC fights in Serbia",
-    "Shares images of a gilded equestrian monument and sculpture"
+    "Trump showcases White House renovations, including the Triumphal Arch and new artwork",
+    "Trump condemns vandalism at the White House Reflecting Pool",
+    "Trump-related UFC content highlights crowd support and Freedom 250 memorabilia"
   ],
-  "trendingTopic": "Trump condemns alleged vandalism at Washington’s Reflecting Pool during event preparations",
+  "trendingTopic": "Trump showcases White House renovations, including the Triumphal Arch and new artwork",
   "secondaryHighlights": [
     {
-      "topic": "Trump presses Senators Cornyn and Tillis to approve Todd Blanche as attorney general",
-      "name": "Todd Blanche"
+      "topic": "Trump condemns vandalism at the White House Reflecting Pool"
     },
     {
-      "topic": "Trump highlights surging U.S. oil exports as evidence of American energy dominance"
+      "topic": "Trump-related UFC content highlights crowd support and Freedom 250 memorabilia"
     },
     {
-      "topic": "Trump-backed imagery portrays Iran’s ships and currency suffering under his policies"
+      "topic": "Trump highlights economic and maritime pressure on Iran"
     }
   ],
-  "selfPraiseCount": 11,
-  "topicsCacheKey": "day-themes-v10:45:324dc1ed9996aad5a76a47b0",
+  "selfPraiseCount": 13,
+  "topicsCacheKey": "day-themes-v11:45:324dc1ed9996aad5a76a47b0",
+  "selfPraiseCacheKey": "self-praise-v2:45:324dc1ed9996aad5a76a47b0",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40408",
@@ -1259,5 +1259,19 @@
       "analyzedAt": "2026-09-05T07:23:30.586Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:45:324dc1ed9996aad5a76a47b0"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40415",
+    "https://www.trumpstruth.org/statuses/40414",
+    "https://www.trumpstruth.org/statuses/40419",
+    "https://www.trumpstruth.org/statuses/40425",
+    "https://www.trumpstruth.org/statuses/40422",
+    "https://www.trumpstruth.org/statuses/40421",
+    "https://www.trumpstruth.org/statuses/40428",
+    "https://www.trumpstruth.org/statuses/40433",
+    "https://www.trumpstruth.org/statuses/40430",
+    "https://www.trumpstruth.org/statuses/40436",
+    "https://www.trumpstruth.org/statuses/40435",
+    "https://www.trumpstruth.org/statuses/40439",
+    "https://www.trumpstruth.org/statuses/40438"
+  ]
 }

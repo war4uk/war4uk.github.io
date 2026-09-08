@@ -6,23 +6,27 @@
     "negative": 0
   },
   "summary": "positive:1 neutral:8 negative:0",
-  "generatedAt": "2026-09-07T19:58:10.672Z",
+  "generatedAt": "2026-09-08T09:02:43.904Z",
   "topics": [
-    "Advances West Coast oil production through the Defense Production Act and Sable Pipeline restoration",
-    "Warns Iran that the United States is prepared for unprecedented military action",
-    "Administration creates technology incubators to counter drone attacks"
+    "Trump administration touts energy gains and directs Sable Offshore to restore Santa Ynez production and pipeline",
+    "Trump cancels planned Iran attack after proposed deal to reopen Strait of Hormuz and end nuclear threat",
+    "Trump’s new NIH chief outlines pandemic and vaccine-injury reforms"
   ],
-  "trendingTopic": "Trump administration advances West Coast oil production through Defense Production Act and Sable Pipeline restoration",
+  "trendingTopic": "Trump administration touts energy gains and directs Sable Offshore to restore Santa Ynez production and pipeline",
   "secondaryHighlights": [
     {
-      "topic": "Warns Iran that the United States is prepared for unprecedented military action"
+      "topic": "Trump cancels planned Iran attack after proposed deal to reopen Strait of Hormuz and end nuclear threat"
     },
     {
-      "topic": "Administration creates technology incubators to counter drone attacks"
+      "topic": "Palm Beach official explains putting President Trump’s name on the local airport"
+    },
+    {
+      "topic": "Trump wins the Bedminster Club Championship with a score of 70"
     }
   ],
   "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:9:ee6cbac9a961f99badc836b4",
+  "topicsCacheKey": "day-themes-v11:9:ee6cbac9a961f99badc836b4",
+  "selfPraiseCacheKey": "self-praise-v2:9:ee6cbac9a961f99badc836b4",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40453",
@@ -251,5 +255,9 @@
       "analyzedAt": "2026-09-05T07:45:29.845Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:9:ee6cbac9a961f99badc836b4"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40457",
+    "https://www.trumpstruth.org/statuses/40456",
+    "https://www.trumpstruth.org/statuses/40461"
+  ]
 }

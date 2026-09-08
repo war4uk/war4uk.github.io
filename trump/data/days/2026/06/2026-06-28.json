@@ -6,28 +6,25 @@
     "negative": 6
   },
   "summary": "positive:6 neutral:5 negative:6",
-  "generatedAt": "2026-09-07T19:47:51.480Z",
+  "generatedAt": "2026-09-08T08:53:39.678Z",
   "topics": [
-    "Julia Letlow wins Louisiana Republican Senate runoff after Trump endorsement",
-    "Trump administration highlights stronger border enforcement through immigration rulings and increased deportations",
-    "Trump says national security facility and ballroom construction is on schedule"
+    "Julia Letlow wins Louisiana GOP Senate runoff with Trump's backing",
+    "Trump attacks socialist and communist Democrats, including D.C. mayoral candidate Janeese Lewis George",
+    "Trump touts Supreme Court rulings advancing national carry and immigration enforcement"
   ],
-  "trendingTopic": "Julia Letlow wins Louisiana Republican Senate runoff after Trump endorsement",
+  "trendingTopic": "Julia Letlow wins Louisiana Republican Senate runoff after receiving Trump's endorsement",
   "trendingName": "Julia Letlow",
   "secondaryHighlights": [
     {
-      "topic": "Treasury Secretary vows prosecution and asset seizures against law-breaking leftist nonprofits"
+      "topic": "Trump attacks socialist and communist Democrats, including D.C. mayoral candidate Janeese Lewis George"
     },
     {
-      "topic": "Attacks D.C. mayoral candidate Janeese Lewis George over sanctuary and crime policies",
-      "name": "Janeese Lewis George"
-    },
-    {
-      "topic": "Dismisses Maggie Haberman’s book as fabricated and attacks her writing"
+      "topic": "Trump touts Supreme Court rulings advancing national carry and immigration enforcement"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v10:17:a4a83fa0945f5a83d8178031",
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v11:17:a4a83fa0945f5a83d8178031",
+  "selfPraiseCacheKey": "self-praise-v2:17:a4a83fa0945f5a83d8178031",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39581",
@@ -464,5 +461,11 @@
       "analyzedAt": "2026-09-05T08:39:03.465Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:17:a4a83fa0945f5a83d8178031"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39581",
+    "https://www.trumpstruth.org/statuses/39584",
+    "https://www.trumpstruth.org/statuses/39590",
+    "https://www.trumpstruth.org/statuses/39593",
+    "https://www.trumpstruth.org/statuses/39595"
+  ]
 }

@@ -6,27 +6,24 @@
     "negative": 2
   },
   "summary": "positive:7 neutral:1 negative:2",
-  "generatedAt": "2026-09-07T19:52:57.780Z",
+  "generatedAt": "2026-09-08T08:58:21.023Z",
   "topics": [
-    "Mike Lindell and Amy Klobuchar emerge as rival candidates in Minnesota governor race",
-    "House passes Trump-supported bill to make daylight saving time permanent",
-    "Trump praises ICE while claiming crime has fallen to decades-low levels"
+    "Endorses Mike Lindell for Minnesota governor and attacks Amy Klobuchar",
+    "Defends ICE traffic stops as a crime-fighting tool",
+    "Warns New York’s data-center policy will cost jobs and tax revenue"
   ],
-  "trendingTopic": "Mike Lindell and Amy Klobuchar emerge as rival candidates in Minnesota governor race",
+  "trendingTopic": "Trump endorses Mike Lindell for Minnesota governor and attacks Amy Klobuchar",
   "secondaryHighlights": [
     {
-      "topic": "Trump endorses Michael Alfonso for Wisconsin's 7th Congressional District",
-      "name": "Michael Alfonso"
+      "topic": "Welcomes Iran allowing a wrongfully detained American citizen to leave the country"
     },
     {
-      "topic": "Trump says inflation has fallen and will decline further"
-    },
-    {
-      "topic": "Iran releases an American citizen detained since December 2024"
+      "topic": "Celebrates House passage of a Trump-backed bill making daylight saving time permanent"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v10:10:d51ed39cd41506cd53fb3e38",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:10:d51ed39cd41506cd53fb3e38",
+  "selfPraiseCacheKey": "self-praise-v2:10:d51ed39cd41506cd53fb3e38",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40058",
@@ -275,5 +272,10 @@
       "analyzedAt": "2026-09-05T08:00:29.467Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:10:d51ed39cd41506cd53fb3e38"
+  "trendingName": "Mike Lindell",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40061",
+    "https://www.trumpstruth.org/statuses/40062",
+    "https://www.trumpstruth.org/statuses/40066"
+  ]
 }

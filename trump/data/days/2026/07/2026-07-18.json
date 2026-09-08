@@ -6,20 +6,21 @@
     "negative": 2
   },
   "summary": "positive:1 neutral:1 negative:2",
-  "generatedAt": "2026-09-07T19:53:26.265Z",
+  "generatedAt": "2026-09-08T08:58:42.420Z",
   "topics": [
-    "Renews election-integrity push as documents allege China compromised 220 million Americans’ data",
-    "Praises Tim Sheehy amid criticism of Canada’s wildfire-fighting policies"
+    "Declassifies documents alleging major vulnerabilities and Chinese theft of 220 million U.S. voter files",
+    "Endorses Tim Sheehy"
   ],
-  "trendingTopic": "Trump renews calls to protect election integrity as documents allege China compromised 220 million Americans’ data",
+  "trendingTopic": "Donald Trump declassifies election-security documents alleging China stole 220 million U.S. voter files",
   "secondaryHighlights": [
     {
-      "topic": "Praises Tim Sheehy amid criticism of Canada’s wildfire-fighting policies",
+      "topic": "Endorses Tim Sheehy",
       "name": "Tim Sheehy"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:4:f312ee61fdcebe3eadffd781",
+  "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v11:4:f312ee61fdcebe3eadffd781",
+  "selfPraiseCacheKey": "self-praise-v2:4:f312ee61fdcebe3eadffd781",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40102",
@@ -123,6 +124,5 @@
       "rationale": "The text expresses strong support for Tim Sheehy, describing him as 'GREAT' and a 'Winner', indicating a positive sentiment.",
       "analyzedAt": "2026-09-05T08:00:54.133Z"
     }
-  ],
-  "selfPraiseCacheKey": "self-praise-v1:4:f312ee61fdcebe3eadffd781"
+  ]
 }

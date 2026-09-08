@@ -6,24 +6,25 @@
     "negative": 3
   },
   "summary": "positive:0 neutral:37 negative:3",
-  "generatedAt": "2026-09-07T19:59:17.981Z",
+  "generatedAt": "2026-09-08T09:03:39.280Z",
   "topics": [
-    "Celebrates Trump-endorsed Republican primary wins across Virginia, Kansas, Missouri, Michigan, and Washington",
-    "Highlights Scott Bessent’s Iran-deal comments as stocks rise and oil prices fall",
-    "Attacks Michigan election integrity while commenting on El-Sayed’s projected primary victory"
+    "Trump-endorsed candidates win Republican primaries across Virginia, Kansas, Missouri, Michigan, and Washington",
+    "Trump warns of alleged voter fraud in Michigan and urges voters to support Mike Rogers",
+    "Trump says he went 28-1 on primary endorsements and criticizes media coverage"
   ],
-  "trendingTopic": "Celebrates Trump-endorsed Republican primary wins across Virginia, Kansas, Missouri, Michigan, and Washington",
+  "trendingTopic": "Trump-endorsed candidates win Republican primaries across Virginia, Kansas, Missouri, Michigan, and Washington",
   "secondaryHighlights": [
     {
-      "topic": "Highlights Scott Bessent’s Iran-deal comments as stocks rise and oil prices fall",
-      "name": "Scott Bessent"
+      "topic": "Trump warns of alleged voter fraud in Michigan and urges voters to support Mike Rogers",
+      "name": "Mike Rogers"
     },
     {
-      "topic": "Attacks Michigan election integrity while commenting on El-Sayed’s projected primary victory"
+      "topic": "Trump says he went 28-1 on primary endorsements and criticizes media coverage"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:40:e3e5ca3667f6a134f66a8cb7",
+  "topicsCacheKey": "day-themes-v11:40:e3e5ca3667f6a134f66a8cb7",
+  "selfPraiseCacheKey": "self-praise-v2:40:e3e5ca3667f6a134f66a8cb7",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40560",
@@ -1104,5 +1105,7 @@
       "analyzedAt": "2026-09-05T07:46:29.956Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:40:e3e5ca3667f6a134f66a8cb7"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40594"
+  ]
 }

@@ -6,26 +6,16 @@
     "negative": 4
   },
   "summary": "positive:22 neutral:11 negative:4",
-  "generatedAt": "2026-09-07T19:45:55.600Z",
+  "generatedAt": "2026-09-08T08:52:11.103Z",
   "topics": [
-    "Endorses a broad slate of Republican candidates in congressional and statewide races",
-    "Promotes polling and assurances supporting the U.S.-Iran peace deal"
+    "Trump endorses dozens of Republican candidates in congressional, gubernatorial, and state races nationwide",
+    "Polls show broad support for the U.S.-Iran peace deal and expected economic benefits",
+    "Trump congratulates Abelardo de la Espriella on winning Colombia’s presidency"
   ],
-  "trendingTopic": "Endorses a broad slate of Republican candidates in congressional and statewide races",
-  "secondaryHighlights": [
-    {
-      "topic": "Promotes polling and assurances supporting the U.S.-Iran peace deal"
-    },
-    {
-      "topic": "Congratulates Abelardo de la Espriella on becoming Colombia’s president",
-      "name": "Abelardo de la Espriella"
-    },
-    {
-      "topic": "Reports vandalism damage to the White House Reflecting Pool"
-    }
-  ],
-  "selfPraiseCount": 5,
-  "topicsCacheKey": "day-themes-v10:37:c113385a4c84747b293d9953",
+  "trendingTopic": "Trump endorses dozens of Republican candidates in congressional, gubernatorial, and state races nationwide",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:37:c113385a4c84747b293d9953",
+  "selfPraiseCacheKey": "self-praise-v2:37:c113385a4c84747b293d9953",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/39420",
@@ -962,5 +952,19 @@
       "analyzedAt": "2026-09-05T08:37:45.445Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:37:c113385a4c84747b293d9953"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/39422",
+    "https://www.trumpstruth.org/statuses/39424"
+  ],
+  "secondaryHighlights": [
+    {
+      "topic": "It is my Great Honor to endorse Congressman Mike Kennedy, M.D., to represent the wonderful people of Utah’s 4th Congressional District!"
+    },
+    {
+      "topic": "[Image] An infographic titled “IRAN DEAL – POLLING” presents a YouGov CBS poll"
+    },
+    {
+      "topic": "Everybody is fully aware that Iran will agree to have Major Weapons Inspections in order to ensure “Nuclear Honesty” long into the future."
+    }
+  ]
 }

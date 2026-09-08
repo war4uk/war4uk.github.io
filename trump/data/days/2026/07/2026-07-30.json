@@ -6,24 +6,25 @@
     "negative": 1
   },
   "summary": "positive:5 neutral:1 negative:1",
-  "generatedAt": "2026-09-07T19:57:15.675Z",
+  "generatedAt": "2026-09-08T09:01:50.805Z",
   "topics": [
-    "Board of Peace reaches agreement to fully disarm Hamas and other armed groups in Gaza",
-    "Highlights Export-Import Bank profitability and $28 billion in supply-chain deals",
-    "Praises Todd Blanche while attacking Senators John Cornyn and Thom Tillis"
+    "Announces historic Gaza agreement for Hamas and other armed groups to disarm",
+    "Pressures senators over Todd Blanche nomination while praising him as a potential great attorney general",
+    "Highlights Export-Import Bank profitability, industrial investment, and support for American jobs"
   ],
-  "trendingTopic": "Board of Peace reaches historic agreement to fully disarm Hamas and other armed groups in Gaza",
+  "trendingTopic": "Trump announces historic Gaza agreement requiring Hamas and other armed groups to disarm",
   "secondaryHighlights": [
     {
-      "topic": "Highlights Export-Import Bank profitability and $28 billion in supply-chain deals"
+      "topic": "Trump pressures John Cornyn and Thom Tillis over Todd Blanche’s nomination",
+      "name": "Todd Blanche"
     },
     {
-      "topic": "Praises Todd Blanche while attacking Senators John Cornyn and Thom Tillis",
-      "name": "Todd Blanche"
+      "topic": "Export-Import Bank reports first profitability in nearly a decade while backing American industry"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:7:5ac14a4d647cb008982f8261",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:7:5ac14a4d647cb008982f8261",
+  "selfPraiseCacheKey": "self-praise-v2:7:5ac14a4d647cb008982f8261",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40394",
@@ -200,5 +201,8 @@
       "analyzedAt": "2026-09-05T08:03:34.211Z"
     }
   ],
-  "selfPraiseCacheKey": "self-praise-v1:7:5ac14a4d647cb008982f8261"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40397",
+    "https://www.trumpstruth.org/statuses/40400"
+  ]
 }
