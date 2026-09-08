@@ -6,7 +6,7 @@
     "negative": 5
   },
   "summary": "positive:30 neutral:3 negative:5",
-  "generatedAt": "2026-09-08T05:12:11.243Z",
+  "generatedAt": "2026-09-08T06:38:44.726Z",
   "topics": [
     "Endorses candidates across Iowa, Florida, Texas, Arizona, Ohio, and Kentucky races",
     "Approves federal disaster aid for storm and flood recovery across multiple states",
@@ -18,9 +18,9 @@
       "topic": "Nvidia and Wall Street firms pursue $500 billion in AI infrastructure financing"
     }
   ],
-  "selfPraiseCount": 5,
+  "selfPraiseCount": 10,
   "topicsCacheKey": "day-themes-v11:38:a9a4ae796f23828d30b0286a",
-  "selfPraiseCacheKey": "self-praise-v1:38:a9a4ae796f23828d30b0286a",
+  "selfPraiseCacheKey": "self-praise-v2:38:a9a4ae796f23828d30b0286a",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41439",
@@ -961,5 +961,17 @@
       "rationale": "The text expresses positive sentiments about productive conversations, the strength of North Carolina, and the speaker's commitment to the state, highlighting achievements and gratitude.",
       "analyzedAt": "2026-09-05T07:41:31.208Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41439",
+    "https://www.trumpstruth.org/statuses/41440",
+    "https://www.trumpstruth.org/statuses/41442",
+    "https://www.trumpstruth.org/statuses/41464",
+    "https://www.trumpstruth.org/statuses/41463",
+    "https://www.trumpstruth.org/statuses/41467",
+    "https://www.trumpstruth.org/statuses/41470",
+    "https://www.trumpstruth.org/statuses/41471",
+    "https://www.trumpstruth.org/statuses/41473",
+    "https://www.trumpstruth.org/statuses/41476"
   ]
 }

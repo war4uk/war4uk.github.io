@@ -6,13 +6,14 @@
     "negative": 0
   },
   "summary": "positive:10 neutral:20 negative:0",
-  "generatedAt": "2026-09-08T05:13:04.368Z",
+  "generatedAt": "2026-09-08T06:39:23.412Z",
   "topics": [
     "Promotes Victor Davis Hanson's book The Counter Revolution as a defense of Trump's MAGA movement",
     "Highlights strong U.S. jobs gains, especially among women, and calls for lower interest rates",
     "Endorses Florida Attorney General James Uthmeier"
   ],
   "trendingTopic": "Promotes Victor Davis Hanson's The Counter Revolution as a defense of Trump's MAGA movement",
+  "trendingName": "Victor Davis Hanson",
   "secondaryHighlights": [
     {
       "topic": "Plans to headline both nights of the GOP convention in Dallas while supporting the Texas Senate race"
@@ -25,9 +26,9 @@
       "topic": "Calls for investigation into private voter-data transfers to a Zuckerberg-linked nonprofit"
     }
   ],
-  "selfPraiseCount": 4,
+  "selfPraiseCount": 5,
   "topicsCacheKey": "day-themes-v11:30:81f72d6fece9c99203285dd9",
-  "selfPraiseCacheKey": "self-praise-v1:30:81f72d6fece9c99203285dd9",
+  "selfPraiseCacheKey": "self-praise-v2:30:81f72d6fece9c99203285dd9",
   "posts": [
     {
       "id": "https://trumpstruth.org/statuses/41580",
@@ -760,5 +761,11 @@
       "analyzedAt": "2026-09-07T10:25:12.231Z"
     }
   ],
-  "trendingName": "Victor Davis Hanson"
+  "selfPraisePostIds": [
+    "https://trumpstruth.org/statuses/41587",
+    "https://trumpstruth.org/statuses/41590",
+    "https://trumpstruth.org/statuses/41591",
+    "https://trumpstruth.org/statuses/41592",
+    "https://trumpstruth.org/statuses/41594"
+  ]
 }

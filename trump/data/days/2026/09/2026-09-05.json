@@ -6,14 +6,14 @@
     "negative": 0
   },
   "summary": "positive:2 neutral:12 negative:0",
-  "generatedAt": "2026-09-08T05:12:40.383Z",
+  "generatedAt": "2026-09-08T06:39:09.153Z",
   "topics": [
     "Donald Trump announces appearances at a two-night rally in Dallas"
   ],
   "trendingTopic": "Donald Trump announces speaking appearances at a two-night rally in Dallas",
   "selfPraiseCount": 1,
   "topicsCacheKey": "day-themes-v11:14:59c49031c15f887a72fbfc8e",
-  "selfPraiseCacheKey": "self-praise-v1:14:59c49031c15f887a72fbfc8e",
+  "selfPraiseCacheKey": "self-praise-v2:14:59c49031c15f887a72fbfc8e",
   "posts": [
     {
       "id": "https://trumpstruth.org/statuses/41523",
@@ -385,6 +385,9 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-06T00:02:45.525Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://trumpstruth.org/statuses/41523"
   ],
   "secondaryHighlights": [
     {

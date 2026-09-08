@@ -6,7 +6,7 @@
     "negative": 12
   },
   "summary": "positive:10 neutral:78 negative:12",
-  "generatedAt": "2026-09-08T05:12:56.041Z",
+  "generatedAt": "2026-09-08T06:39:20.400Z",
   "topics": [
     "Portrays Iran as collapsing through plunging oil exports, hyperinflation, and attacks on strategic sites",
     "Pushes renaming Lake Ontario and New Mexico with American-themed names",
@@ -24,9 +24,9 @@
       "topic": "Promotes Space Force uniforms and a futuristic military command center"
     }
   ],
-  "selfPraiseCount": 5,
+  "selfPraiseCount": 9,
   "topicsCacheKey": "day-themes-v11:100:64011ffbbb0ad0df9732c798",
-  "selfPraiseCacheKey": "self-praise-v1:100:64011ffbbb0ad0df9732c798",
+  "selfPraiseCacheKey": "self-praise-v2:100:64011ffbbb0ad0df9732c798",
   "posts": [
     {
       "id": "https://trumpstruth.org/statuses/41530",
@@ -2782,5 +2782,16 @@
       "rationale": "The text expresses enthusiasm and admiration for the idea of renaming New Mexico to 'NEW AMERICA', describing it as 'prestigious and beautiful' and concludes with 'Wow, I Love It!!!', indicating a strong positive sentiment.",
       "analyzedAt": "2026-09-07T10:24:54.506Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://trumpstruth.org/statuses/41540",
+    "https://trumpstruth.org/statuses/41546",
+    "https://trumpstruth.org/statuses/41543",
+    "https://trumpstruth.org/statuses/41555",
+    "https://trumpstruth.org/statuses/41561",
+    "https://trumpstruth.org/statuses/41564",
+    "https://trumpstruth.org/statuses/41565",
+    "https://trumpstruth.org/statuses/41578",
+    "https://trumpstruth.org/statuses/41576"
   ]
 }

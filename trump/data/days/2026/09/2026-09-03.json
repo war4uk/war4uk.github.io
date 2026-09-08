@@ -6,7 +6,7 @@
     "negative": 6
   },
   "summary": "positive:3 neutral:2 negative:6",
-  "generatedAt": "2026-09-08T05:12:29.077Z",
+  "generatedAt": "2026-09-08T06:38:59.557Z",
   "topics": [
     "Trump defends Iran military operation, U.S. ammunition stockpiles, and alternatives to the Strait of Hormuz",
     "Trump condemns Missouri Supreme Court ruling restoring an older electoral map",
@@ -26,9 +26,9 @@
       "name": "Letitia James"
     }
   ],
-  "selfPraiseCount": 2,
+  "selfPraiseCount": 1,
   "topicsCacheKey": "day-themes-v11:11:150e502d03c32905f845ab3f",
-  "selfPraiseCacheKey": "self-praise-v1:11:150e502d03c32905f845ab3f",
+  "selfPraiseCacheKey": "self-praise-v2:11:150e502d03c32905f845ab3f",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41489",
@@ -304,5 +304,8 @@
       "rationale": "The text expresses frustration and disapproval of a court ruling, describing it as 'ridiculous' and 'horrible'.",
       "analyzedAt": "2026-09-05T07:41:50.803Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41495"
   ]
 }

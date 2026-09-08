@@ -6,7 +6,7 @@
     "negative": 8
   },
   "summary": "positive:22 neutral:16 negative:8",
-  "generatedAt": "2026-09-08T05:12:37.272Z",
+  "generatedAt": "2026-09-08T06:39:06.495Z",
   "topics": [
     "Trump touts 162,000 August jobs and calls for lower interest rates amid economic growth",
     "Trump claims Michael Cohen recanted testimony in New York cases and demands dismissals",
@@ -21,9 +21,9 @@
       "topic": "Trump attacks Democrats for opposing his Iran war and anti-socialism agenda"
     }
   ],
-  "selfPraiseCount": 5,
+  "selfPraiseCount": 6,
   "topicsCacheKey": "day-themes-v11:46:764b5e903e5438e76345a32b",
-  "selfPraiseCacheKey": "self-praise-v1:46:764b5e903e5438e76345a32b",
+  "selfPraiseCacheKey": "self-praise-v2:46:764b5e903e5438e76345a32b",
   "posts": [
     {
       "id": "https://trumpstruth.org/statuses/41503",
@@ -1155,5 +1155,13 @@
       "rationale": "The text expresses strong criticism of the Democratic party, labeling them as enemies and highlighting their opposition to policies, indicating a negative sentiment.",
       "analyzedAt": "2026-09-05T07:42:04.588Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://trumpstruth.org/statuses/41502",
+    "https://trumpstruth.org/statuses/41501",
+    "https://trumpstruth.org/statuses/41509",
+    "https://trumpstruth.org/statuses/41514",
+    "https://trumpstruth.org/statuses/41516",
+    "https://trumpstruth.org/statuses/41521"
   ]
 }
