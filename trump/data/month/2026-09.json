@@ -166,60 +166,51 @@
     {
       "date": "2026-09-07",
       "counts": {
-        "positive": 26,
-        "neutral": 34,
-        "negative": 6
+        "positive": 41,
+        "neutral": 49,
+        "negative": 12
       },
-      "summary": "positive:26 neutral:34 negative:6",
+      "summary": "positive:41 neutral:49 negative:12",
       "topics": [
-        "Promotes maps branding New Mexico as “New America”",
-        "Posts about the Iran war, naval threats, peace calls, and oil prices",
-        "Highlights jobs, inflation, tax, and food-price news"
+        "Images repeatedly depict New Mexico as “New America” in patriotic Southwest maps",
+        "Trump posts war imagery and predicts victory over Iran will prevent a nuclear weapon and sharply reduce oil prices",
+        "Trump promotes Victor Davis Hanson’s book The Counter-Revolution through multiple posts and excerpts"
       ],
-      "postsCount": 66,
+      "postsCount": 102,
       "hasDetail": true,
-      "generatedAt": "2026-09-08T12:04:13.378Z",
-      "trendingTopic": "Promotes maps and imagery relabeling New Mexico as “New America”",
+      "generatedAt": "2026-09-08T16:04:23.672Z",
+      "trendingTopic": "Images repeatedly depict New Mexico as “New America” in patriotic Southwest maps",
       "secondaryHighlights": [
         {
-          "topic": "Promotes Victor Davis Hanson’s book The Counter Revolution"
-        },
-        {
-          "topic": "Highlights repairs and beautification of Washington, D.C., memorials and fountains"
-        },
-        {
-          "topic": "Endorses Florida Attorney General James Uthmeier"
+          "topic": "Interior Department showcases cleaned and repaired monuments, fountains, and memorials in Washington, D.C."
         }
       ],
-      "selfPraiseCount": 12
+      "selfPraiseCount": 13
     },
     {
       "date": "2026-09-08",
       "counts": {
         "positive": 0,
-        "neutral": 3,
+        "neutral": 6,
         "negative": 0
       },
-      "summary": "positive:0 neutral:3 negative:0",
+      "summary": "positive:0 neutral:6 negative:0",
       "topics": [],
-      "postsCount": 3,
+      "postsCount": 6,
       "hasDetail": true,
-      "generatedAt": "2026-09-08T12:04:14.778Z",
+      "generatedAt": "2026-09-08T16:04:25.466Z",
       "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-08T12:04:14.778Z",
-  "trendingTopic": "Donald Trump portrays Iran as collapsing amid war, oil pressure, and threats to the Strait of Hormuz",
+  "generatedAt": "2026-09-08T16:04:25.466Z",
+  "trendingTopic": "Trump escalates pressure on Iran through military operations, oil disruption, and Strait of Hormuz control",
   "secondaryHighlights": [
     {
-      "topic": "Trump endorses candidates across multiple state races"
+      "topic": "Trump showcases a new White House helipad, ballroom, and military complex"
     },
     {
-      "topic": "Trump expands plans for a White House ballroom, helipad, and military complex"
-    },
-    {
-      "topic": "Trump defends economic growth while demanding lower interest rates"
+      "topic": "Trump endorses candidates across Iowa, Florida, Texas, Arizona, Ohio, and Kentucky races"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:8:8c82c1a7a1b7918e03c09dce"
+  "topicsCacheKey": "month-themes-v5:8:11c9d920b2bf0f2414b1d28a"
 }

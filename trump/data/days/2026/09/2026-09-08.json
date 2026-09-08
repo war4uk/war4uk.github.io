@@ -2,14 +2,34 @@
   "date": "2026-09-08",
   "counts": {
     "positive": 0,
-    "neutral": 3,
+    "neutral": 6,
     "negative": 0
   },
-  "summary": "positive:0 neutral:3 negative:0",
-  "generatedAt": "2026-09-08T12:04:14.778Z",
+  "summary": "positive:0 neutral:6 negative:0",
+  "generatedAt": "2026-09-08T16:04:25.466Z",
   "topics": [],
   "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v11:6:88828547417964ac47f2ceb6",
+  "selfPraiseCacheKey": "self-praise-v2:6:88828547417964ac47f2ceb6",
   "posts": [
+    {
+      "id": "https://trumpstruth.org/statuses/41632",
+      "publishedAt": "2026-09-08T00:53:37.000Z",
+      "title": "[No Title] - Post from September 8, 2026",
+      "text": "<p></p>",
+      "url": "https://trumpstruth.org/statuses/41632",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 8, 2026",
+        "link": "https://trumpstruth.org/statuses/41632",
+        "pubDate": "Tue, 08 Sep 2026 00:53:37 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://trumpstruth.org/statuses/41632",
+        "isoDate": "2026-09-08T00:53:37.000Z"
+      }
+    },
     {
       "id": "https://www.trumpstruth.org/statuses/41632",
       "publishedAt": "2026-09-08T00:53:37.000Z",
@@ -29,6 +49,24 @@
       }
     },
     {
+      "id": "https://trumpstruth.org/statuses/41631",
+      "publishedAt": "2026-09-08T00:54:20.000Z",
+      "title": "[No Title] - Post from September 8, 2026",
+      "text": "<p></p>",
+      "url": "https://trumpstruth.org/statuses/41631",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 8, 2026",
+        "link": "https://trumpstruth.org/statuses/41631",
+        "pubDate": "Tue, 08 Sep 2026 00:54:20 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://trumpstruth.org/statuses/41631",
+        "isoDate": "2026-09-08T00:54:20.000Z"
+      }
+    },
+    {
       "id": "https://www.trumpstruth.org/statuses/41631",
       "publishedAt": "2026-09-08T00:54:20.000Z",
       "title": "[No Title] - Post from September 8, 2026",
@@ -44,6 +82,24 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41631",
         "isoDate": "2026-09-08T00:54:20.000Z"
+      }
+    },
+    {
+      "id": "https://trumpstruth.org/statuses/41633",
+      "publishedAt": "2026-09-08T01:27:33.000Z",
+      "title": "[No Title] - Post from September 8, 2026",
+      "text": "<p></p>",
+      "url": "https://trumpstruth.org/statuses/41633",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 8, 2026",
+        "link": "https://trumpstruth.org/statuses/41633",
+        "pubDate": "Tue, 08 Sep 2026 01:27:33 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://trumpstruth.org/statuses/41633",
+        "isoDate": "2026-09-08T01:27:33.000Z"
       }
     },
     {
@@ -67,6 +123,24 @@
   ],
   "sentiments": [
     {
+      "postId": "https://trumpstruth.org/statuses/41631",
+      "label": "neutral",
+      "rationale": "No textual content to assess sentiment.",
+      "analyzedAt": "2026-09-08T16:03:42.474Z"
+    },
+    {
+      "postId": "https://trumpstruth.org/statuses/41632",
+      "label": "neutral",
+      "rationale": "No textual content to assess sentiment.",
+      "analyzedAt": "2026-09-08T16:03:42.474Z"
+    },
+    {
+      "postId": "https://trumpstruth.org/statuses/41633",
+      "label": "neutral",
+      "rationale": "No textual content to assess sentiment.",
+      "analyzedAt": "2026-09-08T16:03:42.474Z"
+    },
+    {
       "postId": "https://www.trumpstruth.org/statuses/41631",
       "label": "neutral",
       "rationale": "The text is empty and expresses no sentiment.",
@@ -84,7 +158,5 @@
       "rationale": "The text is empty and expresses no sentiment.",
       "analyzedAt": "2026-09-08T12:03:44.285Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v11:3:c2c2deb304ec0e87409831f0",
-  "selfPraiseCacheKey": "self-praise-v2:3:c2c2deb304ec0e87409831f0"
+  ]
 }
