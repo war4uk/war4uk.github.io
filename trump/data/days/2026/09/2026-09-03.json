@@ -29,6 +29,9 @@
   "selfPraiseCount": 1,
   "topicsCacheKey": "day-themes-v11:11:150e502d03c32905f845ab3f",
   "selfPraiseCacheKey": "self-praise-v2:11:150e502d03c32905f845ab3f",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41495"
+  ],
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41489",
@@ -304,8 +307,5 @@
       "rationale": "The text expresses frustration and disapproval of a court ruling, describing it as 'ridiculous' and 'horrible'.",
       "analyzedAt": "2026-09-05T07:41:50.803Z"
     }
-  ],
-  "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/41495"
   ]
 }

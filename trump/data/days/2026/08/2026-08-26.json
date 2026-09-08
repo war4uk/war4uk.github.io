@@ -6,27 +6,24 @@
     "negative": 5
   },
   "summary": "positive:10 neutral:35 negative:5",
-  "generatedAt": "2026-09-07T20:31:41.764Z",
+  "generatedAt": "2026-09-08T09:19:00.540Z",
   "topics": [
-    "Trump showcases restored Washington, D.C., monuments, fountains, and public spaces after cleanup and repairs",
-    "Trump-endorsed candidates win Republican nominations in South Carolina and Oklahoma",
-    "Trump administration touts 150 victories for people of faith and religious-policy achievements"
+    "Trump-era posts highlight cleaned monuments and ongoing restoration work at prominent American landmarks",
+    "Shares archival photographs and memorabilia from Donald Trump's youth and early public life",
+    "Trump-endorsed candidates Darline Graham and Mike Mazzei win Republican nominations in South Carolina and Oklahoma"
   ],
-  "trendingTopic": "Trump showcases restored Washington, D.C., monuments, fountains, and public spaces after cleanup and repairs",
+  "trendingTopic": "Trump-era posts highlight cleaned monuments and ongoing restoration work at prominent American landmarks",
   "secondaryHighlights": [
     {
-      "topic": "Trump and Scott Bessent promote an intensified economic offensive against Iran"
+      "topic": "Trump administration escalates economic pressure on Iran through sanctions and threats to sever trade lifelines"
     },
     {
-      "topic": "President Donald J. Trump International Airport signage debuts along the Florida approach"
-    },
-    {
-      "topic": "Trump honors 13 American service members killed in the Kabul withdrawal anniversary"
+      "topic": "Donald J. Trump International Airport branding appears on signs and terminal imagery"
     }
   ],
-  "selfPraiseCount": 13,
-  "topicsCacheKey": "day-themes-v10:50:5b0159c1fdeb7aecee95dcab",
-  "selfPraiseCacheKey": "self-praise-v1:50:5b0159c1fdeb7aecee95dcab",
+  "selfPraiseCount": 10,
+  "topicsCacheKey": "day-themes-v11:50:5b0159c1fdeb7aecee95dcab",
+  "selfPraiseCacheKey": "self-praise-v2:50:5b0159c1fdeb7aecee95dcab",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41214",
@@ -1388,5 +1385,17 @@
       "rationale": "The text expresses anger and blame towards Joe Biden and the Democrats for the deaths of American servicemen, describing it as a catastrophe and incompetence.",
       "analyzedAt": "2026-09-05T07:57:17.011Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41217",
+    "https://www.trumpstruth.org/statuses/41222",
+    "https://www.trumpstruth.org/statuses/41221",
+    "https://www.trumpstruth.org/statuses/41234",
+    "https://www.trumpstruth.org/statuses/41233",
+    "https://www.trumpstruth.org/statuses/41232",
+    "https://www.trumpstruth.org/statuses/41240",
+    "https://www.trumpstruth.org/statuses/41262",
+    "https://www.trumpstruth.org/statuses/41261",
+    "https://www.trumpstruth.org/statuses/41263"
   ]
 }

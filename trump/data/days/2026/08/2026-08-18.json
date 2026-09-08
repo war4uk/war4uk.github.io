@@ -6,27 +6,24 @@
     "negative": 2
   },
   "summary": "positive:15 neutral:27 negative:2",
-  "generatedAt": "2026-09-07T20:28:13.086Z",
+  "generatedAt": "2026-09-08T09:15:24.338Z",
   "topics": [
-    "Trump backs and celebrates Republican primary candidates winning across Florida and Alaska races",
-    "Trump nominates nine federal judicial candidates across seven states",
-    "Trump escalates Iran messaging with a naval blockade and no scheduled talks"
+    "Trump-endorsed candidates win a sweeping series of Florida Republican primary races",
+    "Trump nominates nine federal judges across Alaska, Florida, Kentucky, Louisiana, Oklahoma, and Texas",
+    "Trump highlights Washington, D.C., and White House beautification projects"
   ],
-  "trendingTopic": "Trump backs and celebrates Republican primary candidates winning across Florida and Alaska races",
+  "trendingTopic": "Trump-endorsed candidates win a sweeping series of Florida Republican primary races",
   "secondaryHighlights": [
     {
-      "topic": "Trump nominates nine federal judicial candidates across seven states"
+      "topic": "Trump nominates nine federal judges across Alaska, Florida, Kentucky, Louisiana, Oklahoma, and Texas"
     },
     {
-      "topic": "Trump escalates Iran messaging with a naval blockade and no scheduled talks"
-    },
-    {
-      "topic": "Trump promotes election-integrity claims involving voter records and foreign interference"
+      "topic": "Trump highlights Washington, D.C., and White House beautification projects"
     }
   ],
-  "selfPraiseCount": 6,
-  "topicsCacheKey": "day-themes-v10:44:410cf7e2710bdb744b889104",
-  "selfPraiseCacheKey": "self-praise-v1:44:410cf7e2710bdb744b889104",
+  "selfPraiseCount": 8,
+  "topicsCacheKey": "day-themes-v11:44:410cf7e2710bdb744b889104",
+  "selfPraiseCacheKey": "self-praise-v2:44:410cf7e2710bdb744b889104",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/40953",
@@ -1193,5 +1190,15 @@
       "rationale": "The text is empty.",
       "analyzedAt": "2026-09-05T07:49:31.690Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/40954",
+    "https://www.trumpstruth.org/statuses/40964",
+    "https://www.trumpstruth.org/statuses/40965",
+    "https://www.trumpstruth.org/statuses/40966",
+    "https://www.trumpstruth.org/statuses/40968",
+    "https://www.trumpstruth.org/statuses/40969",
+    "https://www.trumpstruth.org/statuses/40972",
+    "https://www.trumpstruth.org/statuses/40973"
   ]
 }

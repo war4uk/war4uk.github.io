@@ -27,6 +27,17 @@
   "selfPraiseCount": 9,
   "topicsCacheKey": "day-themes-v11:100:64011ffbbb0ad0df9732c798",
   "selfPraiseCacheKey": "self-praise-v2:100:64011ffbbb0ad0df9732c798",
+  "selfPraisePostIds": [
+    "https://trumpstruth.org/statuses/41540",
+    "https://trumpstruth.org/statuses/41546",
+    "https://trumpstruth.org/statuses/41543",
+    "https://trumpstruth.org/statuses/41555",
+    "https://trumpstruth.org/statuses/41561",
+    "https://trumpstruth.org/statuses/41564",
+    "https://trumpstruth.org/statuses/41565",
+    "https://trumpstruth.org/statuses/41578",
+    "https://trumpstruth.org/statuses/41576"
+  ],
   "posts": [
     {
       "id": "https://trumpstruth.org/statuses/41530",
@@ -2782,16 +2793,5 @@
       "rationale": "The text expresses enthusiasm and admiration for the idea of renaming New Mexico to 'NEW AMERICA', describing it as 'prestigious and beautiful' and concludes with 'Wow, I Love It!!!', indicating a strong positive sentiment.",
       "analyzedAt": "2026-09-07T10:24:54.506Z"
     }
-  ],
-  "selfPraisePostIds": [
-    "https://trumpstruth.org/statuses/41540",
-    "https://trumpstruth.org/statuses/41546",
-    "https://trumpstruth.org/statuses/41543",
-    "https://trumpstruth.org/statuses/41555",
-    "https://trumpstruth.org/statuses/41561",
-    "https://trumpstruth.org/statuses/41564",
-    "https://trumpstruth.org/statuses/41565",
-    "https://trumpstruth.org/statuses/41578",
-    "https://trumpstruth.org/statuses/41576"
   ]
 }

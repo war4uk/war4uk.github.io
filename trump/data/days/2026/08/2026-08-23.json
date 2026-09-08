@@ -6,25 +6,20 @@
     "negative": 2
   },
   "summary": "positive:1 neutral:3 negative:2",
-  "generatedAt": "2026-09-07T20:29:57.757Z",
+  "generatedAt": "2026-09-08T09:17:32.459Z",
   "topics": [
-    "Mark Levin warns that blue states are sabotaging Americans",
-    "Canada seeks state-like benefits while imposing massive tariffs on American farmers",
-    "Trump regulatory cuts target energy independence, paychecks, and affordable homeownership"
+    "Trump says blue-state governors are blocking deregulation, energy independence, and lower living costs",
+    "Trump threatens Canada over tariffs while criticizing its relationship with the United States"
   ],
-  "trendingTopic": "Mark Levin warns that blue states are sabotaging Americans",
-  "trendingName": "Mark Levin",
+  "trendingTopic": "Trump accuses blue-state governors of blocking deregulation, energy independence, and lower living costs",
   "secondaryHighlights": [
     {
-      "topic": "Canada seeks state-like benefits while imposing massive tariffs on American farmers"
-    },
-    {
-      "topic": "Trump regulatory cuts target energy independence, paychecks, and affordable homeownership"
+      "topic": "Trump threatens Canada over tariffs while criticizing its relationship with the United States"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v10:6:304599c093e6f536536c73a0",
-  "selfPraiseCacheKey": "self-praise-v1:6:304599c093e6f536536c73a0",
+  "topicsCacheKey": "day-themes-v11:6:304599c093e6f536536c73a0",
+  "selfPraiseCacheKey": "self-praise-v2:6:304599c093e6f536536c73a0",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41127",
@@ -176,5 +171,8 @@
       "rationale": "The text highlights positive actions taken by Trump regarding energy independence and affordability, portraying a favorable view.",
       "analyzedAt": "2026-09-05T07:50:43.098Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41149"
   ]
 }

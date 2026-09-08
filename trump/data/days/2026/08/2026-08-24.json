@@ -6,24 +6,24 @@
     "negative": 4
   },
   "summary": "positive:10 neutral:34 negative:4",
-  "generatedAt": "2026-09-07T20:30:28.195Z",
+  "generatedAt": "2026-09-08T09:17:52.900Z",
   "topics": [
-    "Trump pressures Iran as regime faces collapse, economic hardship, and threat of a crushing blockade",
-    "Trump attacks Canada’s tariffs as companies consider moving operations south",
-    "Trump shares images of past meetings with North Korea’s Kim Jong Un"
+    "Trump escalates pressure on Iran as regime faces economic and military collapse",
+    "Trump threatens 50% tariffs on Canadian vehicles, parts, and steel starting January 2027",
+    "Trump and Kim Jong Un revisit their North Korea diplomacy"
   ],
-  "trendingTopic": "Trump pressures Iran as regime faces collapse, economic hardship, and threat of a crushing blockade",
+  "trendingTopic": "Donald Trump escalates pressure on Iran as regime faces economic and military collapse",
   "secondaryHighlights": [
     {
-      "topic": "Trump attacks Canada’s tariffs as companies consider moving operations south"
+      "topic": "Trump threatens 50% tariffs on Canadian vehicles, parts, and steel starting January 2027"
     },
     {
-      "topic": "Trump shares images of past meetings with North Korea’s Kim Jong Un"
+      "topic": "Trump and Kim Jong Un revisit their North Korea diplomacy"
     }
   ],
-  "selfPraiseCount": 10,
-  "topicsCacheKey": "day-themes-v10:48:4aad36d8ac3b7c5ab183cbb2",
-  "selfPraiseCacheKey": "self-praise-v1:48:4aad36d8ac3b7c5ab183cbb2",
+  "selfPraiseCount": 11,
+  "topicsCacheKey": "day-themes-v11:48:4aad36d8ac3b7c5ab183cbb2",
+  "selfPraiseCacheKey": "self-praise-v2:48:4aad36d8ac3b7c5ab183cbb2",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41132",
@@ -1227,5 +1227,18 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T07:51:08.872Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41133",
+    "https://www.trumpstruth.org/statuses/41141",
+    "https://www.trumpstruth.org/statuses/41136",
+    "https://www.trumpstruth.org/statuses/41148",
+    "https://www.trumpstruth.org/statuses/41156",
+    "https://www.trumpstruth.org/statuses/41174",
+    "https://www.trumpstruth.org/statuses/41173",
+    "https://www.trumpstruth.org/statuses/41171",
+    "https://www.trumpstruth.org/statuses/41161",
+    "https://www.trumpstruth.org/statuses/41179",
+    "https://www.trumpstruth.org/statuses/41178"
   ]
 }

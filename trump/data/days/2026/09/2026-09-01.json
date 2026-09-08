@@ -21,6 +21,18 @@
   "selfPraiseCount": 10,
   "topicsCacheKey": "day-themes-v11:38:a9a4ae796f23828d30b0286a",
   "selfPraiseCacheKey": "self-praise-v2:38:a9a4ae796f23828d30b0286a",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41439",
+    "https://www.trumpstruth.org/statuses/41440",
+    "https://www.trumpstruth.org/statuses/41442",
+    "https://www.trumpstruth.org/statuses/41464",
+    "https://www.trumpstruth.org/statuses/41463",
+    "https://www.trumpstruth.org/statuses/41467",
+    "https://www.trumpstruth.org/statuses/41470",
+    "https://www.trumpstruth.org/statuses/41471",
+    "https://www.trumpstruth.org/statuses/41473",
+    "https://www.trumpstruth.org/statuses/41476"
+  ],
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41439",
@@ -961,17 +973,5 @@
       "rationale": "The text expresses positive sentiments about productive conversations, the strength of North Carolina, and the speaker's commitment to the state, highlighting achievements and gratitude.",
       "analyzedAt": "2026-09-05T07:41:31.208Z"
     }
-  ],
-  "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/41439",
-    "https://www.trumpstruth.org/statuses/41440",
-    "https://www.trumpstruth.org/statuses/41442",
-    "https://www.trumpstruth.org/statuses/41464",
-    "https://www.trumpstruth.org/statuses/41463",
-    "https://www.trumpstruth.org/statuses/41467",
-    "https://www.trumpstruth.org/statuses/41470",
-    "https://www.trumpstruth.org/statuses/41471",
-    "https://www.trumpstruth.org/statuses/41473",
-    "https://www.trumpstruth.org/statuses/41476"
   ]
 }

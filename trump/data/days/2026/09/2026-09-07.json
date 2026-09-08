@@ -29,6 +29,13 @@
   "selfPraiseCount": 5,
   "topicsCacheKey": "day-themes-v11:30:81f72d6fece9c99203285dd9",
   "selfPraiseCacheKey": "self-praise-v2:30:81f72d6fece9c99203285dd9",
+  "selfPraisePostIds": [
+    "https://trumpstruth.org/statuses/41587",
+    "https://trumpstruth.org/statuses/41590",
+    "https://trumpstruth.org/statuses/41591",
+    "https://trumpstruth.org/statuses/41592",
+    "https://trumpstruth.org/statuses/41594"
+  ],
   "posts": [
     {
       "id": "https://trumpstruth.org/statuses/41580",
@@ -760,12 +767,5 @@
       "rationale": "The text is a retweet and does not express a clear sentiment.",
       "analyzedAt": "2026-09-07T10:25:12.231Z"
     }
-  ],
-  "selfPraisePostIds": [
-    "https://trumpstruth.org/statuses/41587",
-    "https://trumpstruth.org/statuses/41590",
-    "https://trumpstruth.org/statuses/41591",
-    "https://trumpstruth.org/statuses/41592",
-    "https://trumpstruth.org/statuses/41594"
   ]
 }

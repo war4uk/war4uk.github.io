@@ -6,28 +6,25 @@
     "negative": 4
   },
   "summary": "positive:5 neutral:26 negative:4",
-  "generatedAt": "2026-09-07T20:31:58.033Z",
+  "generatedAt": "2026-09-08T09:19:20.924Z",
   "topics": [
-    "Attacks Texas Senate candidate James Talarico over his religious, gender, education, and policy views",
-    "Highlights vintage and alternate depictions of MAD magazine mascot Alfred E. Neuman",
-    "Promotes renaming Lake Ontario as Lake America"
+    "Attacks Texas Senate candidate James Talarico over religious, gender, and personal controversies",
+    "Shares vintage and parody images featuring MAD mascot Alfred E. Neuman",
+    "Promotes claim that Lake Ontario has been officially renamed Lake America"
   ],
-  "trendingTopic": "Attacks Texas Senate candidate James Talarico over his religious, gender, education, and policy views",
+  "trendingTopic": "Posts attack Texas Senate candidate James Talarico over religious, gender, and personal controversies",
   "trendingName": "James Talarico",
   "secondaryHighlights": [
     {
-      "topic": "Claims Iran is failing and says its leaders are begging to negotiate a deal"
+      "topic": "Criticizes Iran as failing while disputing Fox News coverage of negotiations"
     },
     {
-      "topic": "Highlights polling showing Donald Trump is the president Republicans admire most"
-    },
-    {
-      "topic": "Celebrates major U.S. investments and record sales from Micron and Nvidia"
+      "topic": "Touts Micron’s U.S. investment and Nvidia’s record sales as economic wins"
     }
   ],
-  "selfPraiseCount": 4,
-  "topicsCacheKey": "day-themes-v10:35:dc79b4c3392ceee82b5e7b9e",
-  "selfPraiseCacheKey": "self-praise-v1:35:dc79b4c3392ceee82b5e7b9e",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:35:dc79b4c3392ceee82b5e7b9e",
+  "selfPraiseCacheKey": "self-praise-v2:35:dc79b4c3392ceee82b5e7b9e",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41264",
@@ -963,5 +960,10 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:05:38.809Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41269",
+    "https://www.trumpstruth.org/statuses/41285",
+    "https://www.trumpstruth.org/statuses/41287"
   ]
 }

@@ -6,24 +6,28 @@
     "negative": 2
   },
   "summary": "positive:6 neutral:12 negative:2",
-  "generatedAt": "2026-09-07T20:28:29.029Z",
+  "generatedAt": "2026-09-08T09:15:53.524Z",
   "topics": [
-    "Trump touts Republican primary victories in Florida, Wyoming, and Alaska",
-    "Trump pauses 50% Canada tariffs after announcing a tentative deal involving Keystone XL",
-    "Trump nominates Dr. Heidi Overton as FDA commissioner"
+    "Trump-endorsed candidates win or advance in Florida, Wyoming, and Alaska primaries",
+    "Trump pauses planned Canada tariffs after announcing a deal and possible Keystone XL revival",
+    "News coverage spotlights Byron Donalds’s Trump-backed campaign for Florida governor"
   ],
-  "trendingTopic": "Trump touts Republican primary victories in Florida, Wyoming, and Alaska after election night",
+  "trendingTopic": "Trump celebrates Republican primary victories across Florida, Wyoming, and Alaska, including Alexander Vindman’s defeat",
   "secondaryHighlights": [
     {
-      "topic": "Trump announces a major economic warfare campaign against Iran"
+      "topic": "Trump announces unprecedented economic warfare and international isolation measures against Iran"
     },
     {
-      "topic": "Trump promotes the upcoming Republican Midterm Convention in Dallas"
+      "topic": "Trump nominates Dr. Heidi Overton to serve as FDA commissioner",
+      "name": "Heidi Overton"
+    },
+    {
+      "topic": "Trump promotes September midterm convention rally in Dallas"
     }
   ],
   "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:20:a81584d9afb09e390e7e82a2",
-  "selfPraiseCacheKey": "self-praise-v1:20:a81584d9afb09e390e7e82a2",
+  "topicsCacheKey": "day-themes-v11:20:a81584d9afb09e390e7e82a2",
+  "selfPraiseCacheKey": "self-praise-v2:20:a81584d9afb09e390e7e82a2",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41003",
@@ -565,5 +569,10 @@
       "rationale": "The text expresses a strong negative sentiment towards Iran, describing their military and economic state in a very harsh manner and announcing severe economic consequences.",
       "analyzedAt": "2026-09-05T07:49:43.913Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41007",
+    "https://www.trumpstruth.org/statuses/41010",
+    "https://www.trumpstruth.org/statuses/41014"
   ]
 }

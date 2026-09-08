@@ -11,9 +11,17 @@
     "Donald Trump announces appearances at a two-night rally in Dallas"
   ],
   "trendingTopic": "Donald Trump announces speaking appearances at a two-night rally in Dallas",
+  "secondaryHighlights": [
+    {
+      "topic": "The Greatest RALLY of them all!"
+    }
+  ],
   "selfPraiseCount": 1,
   "topicsCacheKey": "day-themes-v11:14:59c49031c15f887a72fbfc8e",
   "selfPraiseCacheKey": "self-praise-v2:14:59c49031c15f887a72fbfc8e",
+  "selfPraisePostIds": [
+    "https://trumpstruth.org/statuses/41523"
+  ],
   "posts": [
     {
       "id": "https://trumpstruth.org/statuses/41523",
@@ -384,14 +392,6 @@
       "label": "neutral",
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-06T00:02:45.525Z"
-    }
-  ],
-  "selfPraisePostIds": [
-    "https://trumpstruth.org/statuses/41523"
-  ],
-  "secondaryHighlights": [
-    {
-      "topic": "The Greatest RALLY of them all!"
     }
   ]
 }

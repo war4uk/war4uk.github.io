@@ -6,29 +6,21 @@
     "negative": 0
   },
   "summary": "positive:4 neutral:16 negative:0",
-  "generatedAt": "2026-09-07T20:28:44.749Z",
+  "generatedAt": "2026-09-08T09:16:18.174Z",
   "topics": [
-    "Stephen Miller and allies tout Donald Trump’s second-term record on border, economy, and foreign policy",
-    "Trump administration urges the Supreme Court to allow White House East Wing construction to proceed",
-    "Trump nominates Jesus Osete and Phil Axt to federal district judgeships"
+    "Nominates Jesus Osete and Phil Axt for federal district judgeships",
+    "Announces Legislative Affairs Director James Braid will leave the White House in September",
+    "Urges the Supreme Court to allow White House construction to proceed"
   ],
-  "trendingTopic": "Stephen Miller and allies tout Donald Trump’s second-term record on border, economy, and foreign policy",
+  "trendingTopic": "Trump nominates Jesus Osete and Phil Axt for federal district judgeships",
   "secondaryHighlights": [
     {
-      "topic": "James Braid to leave White House legislative affairs post in September",
-      "name": "James Braid"
-    },
-    {
-      "topic": "Trump’s support empowers law enforcement to make the country safer"
-    },
-    {
-      "topic": "Michael Cohen’s latest statements reportedly undermine the factual basis of Trump’s hush money conviction",
-      "name": "Michael Cohen"
+      "topic": "Fox News segment says Trump’s support empowers law enforcement to make the country safer"
     }
   ],
-  "selfPraiseCount": 7,
-  "topicsCacheKey": "day-themes-v10:20:b20080720d189a9c3bca6321",
-  "selfPraiseCacheKey": "self-praise-v1:20:b20080720d189a9c3bca6321",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:20:b20080720d189a9c3bca6321",
+  "selfPraiseCacheKey": "self-praise-v2:20:b20080720d189a9c3bca6321",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41019",
@@ -544,5 +536,9 @@
       "rationale": "The text is a retweet link without any additional commentary or sentiment.",
       "analyzedAt": "2026-09-05T07:49:53.404Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41024",
+    "https://www.trumpstruth.org/statuses/41027"
   ]
 }

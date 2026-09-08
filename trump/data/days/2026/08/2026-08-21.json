@@ -6,27 +6,27 @@
     "negative": 11
   },
   "summary": "positive:31 neutral:36 negative:11",
-  "generatedAt": "2026-09-07T20:29:26.366Z",
+  "generatedAt": "2026-09-08T09:17:10.582Z",
   "topics": [
-    "Trump administration touts strong U.S. growth, rising tax refunds, and falling consumer and drug prices",
-    "Trump escalates pressure on Iran while claiming control of the Strait of Hormuz",
-    "Supreme Court allows Trump administration to resume White House ballroom construction"
+    "Trump administration escalates pressure on Iran while claiming control of Strait of Hormuz",
+    "Supreme Court allows Trump White House ballroom construction to continue",
+    "Trump administration touts booming business activity, lower prices, and larger tax refunds"
   ],
-  "trendingTopic": "Trump administration touts strong U.S. growth, rising tax refunds, and falling consumer and drug prices",
+  "trendingTopic": "Trump administration escalates pressure on Iran while claiming control of Strait of Hormuz",
   "secondaryHighlights": [
     {
-      "topic": "Trump administration touts historic declines in violent crime and fentanyl deaths"
+      "topic": "FBI reports historic 2025 violent-crime decline as White House touts crackdown"
     },
     {
-      "topic": "Justice Department defends Trump’s National Guard deployment in Washington, D.C."
+      "topic": "Trump officials launch White House drone-dominance initiative"
     },
     {
-      "topic": "Trump administration advances a national drone dominance initiative"
+      "topic": "Trump hosts rescued boy and teen lifeguard in Oval Office"
     }
   ],
-  "selfPraiseCount": 23,
-  "topicsCacheKey": "day-themes-v10:78:bda72810ce7020131a2f6bfb",
-  "selfPraiseCacheKey": "self-praise-v1:78:bda72810ce7020131a2f6bfb",
+  "selfPraiseCount": 26,
+  "topicsCacheKey": "day-themes-v11:78:bda72810ce7020131a2f6bfb",
+  "selfPraiseCacheKey": "self-praise-v2:78:bda72810ce7020131a2f6bfb",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41040",
@@ -2024,5 +2024,33 @@
       "rationale": "The text discusses a booming economy and criticizes media narratives, indicating a positive sentiment.",
       "analyzedAt": "2026-09-05T07:50:25.831Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41040",
+    "https://www.trumpstruth.org/statuses/41039",
+    "https://www.trumpstruth.org/statuses/41038",
+    "https://www.trumpstruth.org/statuses/41041",
+    "https://www.trumpstruth.org/statuses/41044",
+    "https://www.trumpstruth.org/statuses/41046",
+    "https://www.trumpstruth.org/statuses/41053",
+    "https://www.trumpstruth.org/statuses/41059",
+    "https://www.trumpstruth.org/statuses/41205",
+    "https://www.trumpstruth.org/statuses/41068",
+    "https://www.trumpstruth.org/statuses/41066",
+    "https://www.trumpstruth.org/statuses/41065",
+    "https://www.trumpstruth.org/statuses/41064",
+    "https://www.trumpstruth.org/statuses/41087",
+    "https://www.trumpstruth.org/statuses/41071",
+    "https://www.trumpstruth.org/statuses/41085",
+    "https://www.trumpstruth.org/statuses/41084",
+    "https://www.trumpstruth.org/statuses/41081",
+    "https://www.trumpstruth.org/statuses/41078",
+    "https://www.trumpstruth.org/statuses/41096",
+    "https://www.trumpstruth.org/statuses/41094",
+    "https://www.trumpstruth.org/statuses/41091",
+    "https://www.trumpstruth.org/statuses/41105",
+    "https://www.trumpstruth.org/statuses/41108",
+    "https://www.trumpstruth.org/statuses/41110",
+    "https://www.trumpstruth.org/statuses/41109"
   ]
 }

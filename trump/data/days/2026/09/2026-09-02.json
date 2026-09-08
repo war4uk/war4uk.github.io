@@ -24,6 +24,13 @@
   "selfPraiseCount": 5,
   "topicsCacheKey": "day-themes-v11:11:080a78cf5fa07dfddd212eb5",
   "selfPraiseCacheKey": "self-praise-v2:11:080a78cf5fa07dfddd212eb5",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41478",
+    "https://www.trumpstruth.org/statuses/41484",
+    "https://www.trumpstruth.org/statuses/41483",
+    "https://www.trumpstruth.org/statuses/41485",
+    "https://www.trumpstruth.org/statuses/41486"
+  ],
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41477",
@@ -291,12 +298,5 @@
       "rationale": "The statement about Apple Maps changing the name of Lake Ontario is factual and does not convey a strong sentiment.",
       "analyzedAt": "2026-09-05T07:41:43.648Z"
     }
-  ],
-  "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/41478",
-    "https://www.trumpstruth.org/statuses/41484",
-    "https://www.trumpstruth.org/statuses/41483",
-    "https://www.trumpstruth.org/statuses/41485",
-    "https://www.trumpstruth.org/statuses/41486"
   ]
 }

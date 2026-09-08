@@ -6,27 +6,27 @@
     "negative": 5
   },
   "summary": "positive:10 neutral:16 negative:5",
-  "generatedAt": "2026-09-07T20:30:53.998Z",
+  "generatedAt": "2026-09-08T09:18:15.770Z",
   "topics": [
-    "Donald Trump rallies South Carolina voters behind Darline Graham in Republican Senate runoff",
-    "Trump escalates dispute with Canada over tariffs, trade losses, French-language rights, and renaming Lake Ontario",
-    "Trump highlights Iran’s unpaid military, protest killings, mine removals, and new U.S. financial pressure"
+    "Endorses and rallies for Darline Graham Nordone in South Carolina’s Republican Senate primary",
+    "Escalates tensions with Canada over tariffs, trade losses, and renaming Lake Ontario",
+    "Pressures Iran with humanitarian warnings, Strait of Hormuz mine clearance, and new sanctions"
   ],
-  "trendingTopic": "Donald Trump rallies South Carolina voters behind Darline Graham in Republican Senate runoff",
+  "trendingTopic": "Trump endorses Darline Graham Nordone and rallies South Carolina Republicans for the Senate primary",
   "secondaryHighlights": [
     {
-      "topic": "Trump promotes AI-powered energy production to support data centers and protect household electricity prices"
+      "topic": "Promotes booming U.S. business conditions and a major Pennsylvania manufacturing push"
     },
     {
-      "topic": "Trump and business commentators tout booming U.S. business conditions and manufacturing investment"
+      "topic": "Highlights Washington, D.C., cleanup, repairs, and public-safety improvements"
     },
     {
-      "topic": "Trump administration showcases repairs, beautification, and safety improvements across Washington, D.C."
+      "topic": "Reports Dolly Parton’s death and orders flags lowered nationwide for a week"
     }
   ],
-  "selfPraiseCount": 4,
-  "topicsCacheKey": "day-themes-v10:31:bdc58d2e434404c0ba20b57c",
-  "selfPraiseCacheKey": "self-praise-v1:31:bdc58d2e434404c0ba20b57c",
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v11:31:bdc58d2e434404c0ba20b57c",
+  "selfPraiseCacheKey": "self-praise-v2:31:bdc58d2e434404c0ba20b57c",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41181",
@@ -807,5 +807,13 @@
       "rationale": "The text expresses sadness over the passing of Dolly Parton, indicating a loss felt by many.",
       "analyzedAt": "2026-09-05T07:51:22.035Z"
     }
+  ],
+  "trendingName": "Darline Graham Nordone",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41197",
+    "https://www.trumpstruth.org/statuses/41208",
+    "https://www.trumpstruth.org/statuses/41206",
+    "https://www.trumpstruth.org/statuses/41204",
+    "https://www.trumpstruth.org/statuses/41211"
   ]
 }

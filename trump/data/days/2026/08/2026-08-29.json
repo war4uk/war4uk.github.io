@@ -6,27 +6,27 @@
     "negative": 2
   },
   "summary": "positive:5 neutral:11 negative:2",
-  "generatedAt": "2026-09-07T20:32:44.396Z",
+  "generatedAt": "2026-09-08T09:20:19.561Z",
   "topics": [
-    "Donald Trump tours NASA facilities and meets Administrator Jared Isaacman, astronauts, and space officials",
-    "Trump attacks Kathy Hochul over Canada and promotes renaming Lake Ontario “Lake America”",
-    "Trump announces a historic U.S.-Venezuela oil deal to boost production and private investment"
+    "Donald Trump visits NASA Mission Control and Kennedy Space Center with Jared Isaacman and astronauts",
+    "Trump touts historic U.S.-Venezuela agreement to expand oil production and investment",
+    "Trump promotes renaming Lake Ontario “Lake America” while endorsing Bruce Blakeman for New York governor"
   ],
-  "trendingTopic": "Donald Trump tours NASA facilities and meets Administrator Jared Isaacman, astronauts, and space officials",
+  "trendingTopic": "Donald Trump visits NASA facilities with Jared Isaacman, astronauts, and officials during presidential space program events",
   "secondaryHighlights": [
     {
-      "topic": "Trump claims victory in the Iran war and urges supporters to stay the course"
+      "topic": "Accepts honorary chairmanship of the upcoming Presidents Cup at Chicago’s Medinah Country Club"
     },
     {
-      "topic": "Trump declares CNN and MSNOW are in a ratings death spiral"
+      "topic": "Mourns the reported death of Norway’s King Harald and offers condolences to the royal family"
     },
     {
-      "topic": "Trump accepts honorary chairmanship of the upcoming Presidents Cup at Medinah Country Club"
+      "topic": "Attacks CNN and MS NOW while praising CNN pollster Harry Enten"
     }
   ],
-  "selfPraiseCount": 5,
-  "topicsCacheKey": "day-themes-v10:18:987be6002e5b2f47f91ee68d",
-  "selfPraiseCacheKey": "self-praise-v1:18:987be6002e5b2f47f91ee68d",
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v11:18:987be6002e5b2f47f91ee68d",
+  "selfPraiseCacheKey": "self-praise-v2:18:987be6002e5b2f47f91ee68d",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41357",
@@ -494,5 +494,11 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T08:06:15.965Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41357",
+    "https://www.trumpstruth.org/statuses/41360",
+    "https://www.trumpstruth.org/statuses/41361",
+    "https://www.trumpstruth.org/statuses/41364"
   ]
 }

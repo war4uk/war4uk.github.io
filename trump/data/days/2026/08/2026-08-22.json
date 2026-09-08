@@ -6,27 +6,24 @@
     "negative": 1
   },
   "summary": "positive:2 neutral:8 negative:1",
-  "generatedAt": "2026-09-07T20:29:46.051Z",
+  "generatedAt": "2026-09-08T09:17:24.925Z",
   "topics": [
-    "Trump showcases construction progress on the White House ballroom and military complex",
-    "Posts about U.S. naval escorts and territorial claims around the Strait of Hormuz",
-    "Trump announces the return of missionary Kevin Rideout after ten months as an ISIS hostage"
+    "Trump promotes the White House ballroom and military complex construction project",
+    "Trump attacks Tucker Carlson, Marjorie Taylor Greene, and Thomas Massie as political losers",
+    "Trump welcomes rescued American missionary Kevin Rideout home after ten months held hostage by ISIS"
   ],
-  "trendingTopic": "Trump showcases construction progress on the White House ballroom and military complex",
+  "trendingTopic": "Trump promotes construction of a taxpayer-free White House ballroom and military complex",
   "secondaryHighlights": [
     {
-      "topic": "Criticizes ongoing renovation work at the Federal Reserve building"
+      "topic": "Trump attacks Tucker Carlson, Marjorie Taylor Greene, and Thomas Massie as political losers"
     },
     {
-      "topic": "Highlights alleged sexual abuse and repression in Iranian prisons"
-    },
-    {
-      "topic": "Attacks Tucker Carlson, Thomas Massie, and Marjorie Taylor Greene"
+      "topic": "Trump welcomes rescued American missionary Kevin Rideout home after ten months held hostage by ISIS"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v10:11:e3a228df962ae61a01e3f22a",
-  "selfPraiseCacheKey": "self-praise-v1:11:e3a228df962ae61a01e3f22a",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:11:e3a228df962ae61a01e3f22a",
+  "selfPraiseCacheKey": "self-praise-v2:11:e3a228df962ae61a01e3f22a",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41116",
@@ -327,5 +324,9 @@
       "rationale": "The text is empty, providing no sentiment.",
       "analyzedAt": "2026-09-05T07:50:37.394Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41117",
+    "https://www.trumpstruth.org/statuses/41119"
   ]
 }

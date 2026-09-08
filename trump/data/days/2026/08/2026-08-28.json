@@ -6,24 +6,27 @@
     "negative": 8
   },
   "summary": "positive:14 neutral:36 negative:8",
-  "generatedAt": "2026-09-07T20:32:28.118Z",
+  "generatedAt": "2026-09-08T09:20:02.097Z",
   "topics": [
-    "Trump administration highlights restoration work at the White House and Washington monuments",
-    "Trump touts a 97% GOP primary endorsement record after key Republican victories",
-    "Trump administration highlights expanded ICE arrests and deportations of criminal migrants"
+    "Trump showcases White House restoration, monument cleaning, and Reflecting Pool repairs",
+    "Trump-backed candidates win South Carolina Senate and Oklahoma governor Republican primaries",
+    "Trump promotes renaming Lake Ontario as Lake America amid dispute with Governor Kathy Hochul"
   ],
-  "trendingTopic": "Trump administration highlights restoration work at the White House and Washington monuments",
+  "trendingTopic": "Trump showcases White House restoration, monument cleaning, and Reflecting Pool repairs",
   "secondaryHighlights": [
     {
-      "topic": "Trump touts a 97% GOP primary endorsement record after key Republican victories"
+      "topic": "Trump announces a major U.S.-Venezuela oil agreement aimed at expanding American reserves and lowering gas prices"
     },
     {
-      "topic": "Trump administration highlights expanded ICE arrests and deportations of criminal migrants"
+      "topic": "Trump moves to let farmers and ranchers process their own food to challenge meatpacking monopolies"
+    },
+    {
+      "topic": "White House prepares new drug-pricing agreements with biotechnology companies"
     }
   ],
-  "selfPraiseCount": 10,
-  "topicsCacheKey": "day-themes-v10:58:90a5b73a28621bab3ce77dd6",
-  "selfPraiseCacheKey": "self-praise-v1:58:90a5b73a28621bab3ce77dd6",
+  "selfPraiseCount": 18,
+  "topicsCacheKey": "day-themes-v11:58:90a5b73a28621bab3ce77dd6",
+  "selfPraiseCacheKey": "self-praise-v2:58:90a5b73a28621bab3ce77dd6",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41299",
@@ -1524,5 +1527,25 @@
       "rationale": "The text celebrates a significant agreement with Venezuela, highlighting benefits for the U.S. economy and oil supply, which is framed positively.",
       "analyzedAt": "2026-09-05T08:06:02.855Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41305",
+    "https://www.trumpstruth.org/statuses/41317",
+    "https://www.trumpstruth.org/statuses/41307",
+    "https://www.trumpstruth.org/statuses/41321",
+    "https://www.trumpstruth.org/statuses/41320",
+    "https://www.trumpstruth.org/statuses/41351",
+    "https://www.trumpstruth.org/statuses/41325",
+    "https://www.trumpstruth.org/statuses/41324",
+    "https://www.trumpstruth.org/statuses/41323",
+    "https://www.trumpstruth.org/statuses/41347",
+    "https://www.trumpstruth.org/statuses/41336",
+    "https://www.trumpstruth.org/statuses/41335",
+    "https://www.trumpstruth.org/statuses/41333",
+    "https://www.trumpstruth.org/statuses/41332",
+    "https://www.trumpstruth.org/statuses/41331",
+    "https://www.trumpstruth.org/statuses/41330",
+    "https://www.trumpstruth.org/statuses/41329",
+    "https://www.trumpstruth.org/statuses/41356"
   ]
 }
