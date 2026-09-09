@@ -190,27 +190,60 @@
     {
       "date": "2026-09-08",
       "counts": {
+        "positive": 3,
+        "neutral": 7,
+        "negative": 2
+      },
+      "summary": "positive:3 neutral:7 negative:2",
+      "topics": [
+        "Donald Trump previews his speaking role at the Republican National Convention in Dallas",
+        "Donald Trump orders Canadian products removed from federal purchasing schedules over trade reciprocity",
+        "Donald Trump celebrates Germany’s populist party after an election breakthrough"
+      ],
+      "postsCount": 12,
+      "hasDetail": true,
+      "generatedAt": "2026-09-09T00:05:01.182Z",
+      "trendingTopic": "Donald Trump previews his speaking role at the Republican National Convention in Dallas",
+      "secondaryHighlights": [
+        {
+          "topic": "Orders Canadian products removed from federal purchasing schedules over trade reciprocity"
+        },
+        {
+          "topic": "Celebrates Germany’s populist party after an election breakthrough"
+        },
+        {
+          "topic": "Sends birthday greetings to Mary, Queen of Victories"
+        }
+      ],
+      "selfPraiseCount": 1
+    },
+    {
+      "date": "2026-09-09",
+      "counts": {
         "positive": 0,
-        "neutral": 6,
+        "neutral": 0,
         "negative": 0
       },
-      "summary": "positive:0 neutral:6 negative:0",
+      "summary": "positive:0 neutral:0 negative:0",
       "topics": [],
-      "postsCount": 6,
+      "postsCount": 0,
       "hasDetail": true,
-      "generatedAt": "2026-09-08T20:03:07.555Z",
+      "generatedAt": "2026-09-09T00:04:43.152Z",
       "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-08T20:03:07.555Z",
-  "trendingTopic": "Trump escalates pressure on Iran through military operations, oil disruption, and Strait of Hormuz control",
+  "generatedAt": "2026-09-09T00:05:01.182Z",
+  "trendingTopic": "Donald Trump portrays Iran as collapsing amid military strikes, plunging oil exports, and hyperinflation",
   "secondaryHighlights": [
     {
-      "topic": "Trump showcases a new White House helipad, ballroom, and military complex"
+      "topic": "Donald Trump schedules Dallas rally and Republican National Convention appearances"
     },
     {
-      "topic": "Trump endorses candidates across Iowa, Florida, Texas, Arizona, Ohio, and Kentucky races"
+      "topic": "Donald Trump touts August job growth and demands lower interest rates"
+    },
+    {
+      "topic": "Donald Trump endorses candidates across multiple state races"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:8:11c9d920b2bf0f2414b1d28a"
+  "topicsCacheKey": "month-themes-v5:8:b53f2893dc01aa29e9fb9187"
 }
