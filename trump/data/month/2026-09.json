@@ -202,7 +202,7 @@
       ],
       "postsCount": 18,
       "hasDetail": true,
-      "generatedAt": "2026-09-09T04:03:49.806Z",
+      "generatedAt": "2026-09-09T08:01:13.824Z",
       "trendingTopic": "Trump previews expanded role at Dallas Republican convention, speaking and prioritizing candidates in tight races",
       "secondaryHighlights": [
         {
@@ -217,43 +217,43 @@
     {
       "date": "2026-09-09",
       "counts": {
-        "positive": 3,
-        "neutral": 6,
-        "negative": 1
+        "positive": 6,
+        "neutral": 12,
+        "negative": 2
       },
-      "summary": "positive:3 neutral:6 negative:1",
+      "summary": "positive:6 neutral:12 negative:2",
       "topics": [
-        "Trump-backed Anthony DiLorenzo and John E. Sununu win New Hampshire Republican primaries",
-        "Donald Trump visits a construction or disaster-recovery site with workers and first responders",
-        "Donald Trump walks through a city street surrounded by media cameras"
+        "Trump-endorsed John Sununu and Anthony DiLorenzo win New Hampshire Republican primaries",
+        "Donald Trump visits a construction or disaster-response site with firefighters, workers, and a soldier",
+        "Donald Trump walks through a city street surrounded by aides, security, and reporters"
       ],
-      "postsCount": 10,
+      "postsCount": 20,
       "hasDetail": true,
-      "generatedAt": "2026-09-09T04:04:00.343Z",
-      "trendingTopic": "Trump-backed Anthony DiLorenzo and John E. Sununu win New Hampshire Republican primaries",
+      "generatedAt": "2026-09-09T08:02:13.335Z",
+      "trendingTopic": "Trump-backed John Sununu and Anthony DiLorenzo win New Hampshire Republican primaries",
       "secondaryHighlights": [
         {
-          "topic": "Donald Trump visits a construction or disaster-recovery site with workers and first responders"
+          "topic": "Donald Trump visits a construction or disaster-response site with firefighters, workers, and a soldier"
         },
         {
-          "topic": "Donald Trump walks through a city street surrounded by media cameras"
+          "topic": "Donald Trump walks through a city street surrounded by aides, security, and reporters"
         }
       ],
       "selfPraiseCount": 1
     }
   ],
-  "generatedAt": "2026-09-09T04:04:00.343Z",
-  "trendingTopic": "Trump portrays Iran as collapsing while defending military operations and Strait of Hormuz control",
+  "generatedAt": "2026-09-09T08:02:13.335Z",
+  "trendingTopic": "Trump escalates Iran war while claiming its economy and strategic position are collapsing",
   "secondaryHighlights": [
     {
-      "topic": "Backs Republican candidates and expands his role in primary and convention contests"
+      "topic": "Trump campaigns for Republican candidates through rallies, conventions, endorsements, and primaries"
     },
     {
-      "topic": "Promotes tariff-driven growth and retaliatory trade measures"
+      "topic": "Trump pushes renaming New Mexico as \"New America\""
     },
     {
-      "topic": "Pushes renaming New Mexico as New America and other American-themed geographic rebrands"
+      "topic": "Trump expands trade retaliation against Canada and other foreign trade practices"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:9:88f112c7fe756fea65c6fda7"
+  "topicsCacheKey": "month-themes-v5:9:8d3a18dc41a887e076446f2d"
 }

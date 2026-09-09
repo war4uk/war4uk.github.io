@@ -1,28 +1,51 @@
 {
   "date": "2026-09-09",
   "counts": {
-    "positive": 3,
-    "neutral": 6,
-    "negative": 1
+    "positive": 6,
+    "neutral": 12,
+    "negative": 2
   },
-  "summary": "positive:3 neutral:6 negative:1",
-  "generatedAt": "2026-09-09T04:04:00.343Z",
+  "summary": "positive:6 neutral:12 negative:2",
+  "generatedAt": "2026-09-09T08:02:13.335Z",
   "topics": [
-    "Trump-backed Anthony DiLorenzo and John E. Sununu win New Hampshire Republican primaries",
-    "Donald Trump visits a construction or disaster-recovery site with workers and first responders",
-    "Donald Trump walks through a city street surrounded by media cameras"
+    "Trump-endorsed John Sununu and Anthony DiLorenzo win New Hampshire Republican primaries",
+    "Donald Trump visits a construction or disaster-response site with firefighters, workers, and a soldier",
+    "Donald Trump walks through a city street surrounded by aides, security, and reporters"
   ],
-  "trendingTopic": "Trump-backed Anthony DiLorenzo and John E. Sununu win New Hampshire Republican primaries",
+  "trendingTopic": "Trump-backed John Sununu and Anthony DiLorenzo win New Hampshire Republican primaries",
   "secondaryHighlights": [
     {
-      "topic": "Donald Trump visits a construction or disaster-recovery site with workers and first responders"
+      "topic": "Donald Trump visits a construction or disaster-response site with firefighters, workers, and a soldier"
     },
     {
-      "topic": "Donald Trump walks through a city street surrounded by media cameras"
+      "topic": "Donald Trump walks through a city street surrounded by aides, security, and reporters"
     }
   ],
   "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v11:20:1fc9c9739e696b91cff06b9e",
+  "selfPraiseCacheKey": "self-praise-v2:20:1fc9c9739e696b91cff06b9e",
+  "selfPraisePostIds": [
+    "https://trumpstruth.org/statuses/41653"
+  ],
   "posts": [
+    {
+      "id": "https://trumpstruth.org/statuses/41643",
+      "publishedAt": "2026-09-09T00:41:25.000Z",
+      "title": "[No Title] - Post from September 9, 2026",
+      "text": "<p></p>",
+      "url": "https://trumpstruth.org/statuses/41643",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 9, 2026",
+        "link": "https://trumpstruth.org/statuses/41643",
+        "pubDate": "Wed, 09 Sep 2026 00:41:25 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://trumpstruth.org/statuses/41643",
+        "isoDate": "2026-09-09T00:41:25.000Z"
+      }
+    },
     {
       "id": "https://www.trumpstruth.org/statuses/41643",
       "publishedAt": "2026-09-09T00:41:25.000Z",
@@ -40,6 +63,28 @@
         "guid": "https://www.trumpstruth.org/statuses/41643",
         "isoDate": "2026-09-09T00:41:25.000Z"
       }
+    },
+    {
+      "id": "https://trumpstruth.org/statuses/41642",
+      "publishedAt": "2026-09-09T00:41:46.000Z",
+      "title": "[No Title] - Post from September 9, 2026",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117238299718738295</span></p>\n\n[Image] A screenshot of a social-media post from the verified account “johnny maga” (@johnnymaga). The post says Donald Trump was speaking on September 13, 2001, about dangers faced by workers near buildings at risk of collapse and criticizes people for politicizing a 9/11 memorial. No photographs are shown.",
+      "url": "https://trumpstruth.org/statuses/41642",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 9, 2026",
+        "link": "https://trumpstruth.org/statuses/41642",
+        "pubDate": "Wed, 09 Sep 2026 00:41:46 +0000",
+        "author": "",
+        "content": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117238299718738295</span></p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117238299718738295",
+        "guid": "https://trumpstruth.org/statuses/41642",
+        "isoDate": "2026-09-09T00:41:46.000Z"
+      },
+      "imageDescribedAt": "2026-09-09T08:01:49.399Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18078/adaf1dfb7eb657de-beb9abb77bf3.png"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41642",
@@ -64,6 +109,24 @@
       ]
     },
     {
+      "id": "https://trumpstruth.org/statuses/41645",
+      "publishedAt": "2026-09-09T00:47:59.000Z",
+      "title": "[No Title] - Post from September 9, 2026",
+      "text": "<p></p>",
+      "url": "https://trumpstruth.org/statuses/41645",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 9, 2026",
+        "link": "https://trumpstruth.org/statuses/41645",
+        "pubDate": "Wed, 09 Sep 2026 00:47:59 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://trumpstruth.org/statuses/41645",
+        "isoDate": "2026-09-09T00:47:59.000Z"
+      }
+    },
+    {
       "id": "https://www.trumpstruth.org/statuses/41645",
       "publishedAt": "2026-09-09T00:47:59.000Z",
       "title": "[No Title] - Post from September 9, 2026",
@@ -79,6 +142,24 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41645",
         "isoDate": "2026-09-09T00:47:59.000Z"
+      }
+    },
+    {
+      "id": "https://trumpstruth.org/statuses/41648",
+      "publishedAt": "2026-09-09T00:51:53.000Z",
+      "title": "[No Title] - Post from September 9, 2026",
+      "text": "<p></p>",
+      "url": "https://trumpstruth.org/statuses/41648",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 9, 2026",
+        "link": "https://trumpstruth.org/statuses/41648",
+        "pubDate": "Wed, 09 Sep 2026 00:51:53 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://trumpstruth.org/statuses/41648",
+        "isoDate": "2026-09-09T00:51:53.000Z"
       }
     },
     {
@@ -98,6 +179,28 @@
         "guid": "https://www.trumpstruth.org/statuses/41648",
         "isoDate": "2026-09-09T00:51:53.000Z"
       }
+    },
+    {
+      "id": "https://trumpstruth.org/statuses/41647",
+      "publishedAt": "2026-09-09T00:52:30.000Z",
+      "title": "[No Title] - Post from September 9, 2026",
+      "text": "[Image] Donald Trump walks down a city street in a dark suit, white shirt, and red tie, surrounded by aides, security personnel, and reporters. A camera operator films him from the left, while pedestrians and office buildings line the street. An American flag hangs from a building in the background.",
+      "url": "https://trumpstruth.org/statuses/41647",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 9, 2026",
+        "link": "https://trumpstruth.org/statuses/41647",
+        "pubDate": "Wed, 09 Sep 2026 00:52:30 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://trumpstruth.org/statuses/41647",
+        "isoDate": "2026-09-09T00:52:30.000Z"
+      },
+      "imageDescribedAt": "2026-09-09T08:01:43.572Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18081/0ae20255aa3524e5-898514711a33.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41647",
@@ -122,6 +225,24 @@
       ]
     },
     {
+      "id": "https://trumpstruth.org/statuses/41650",
+      "publishedAt": "2026-09-09T01:07:46.000Z",
+      "title": "[No Title] - Post from September 9, 2026",
+      "text": "<p></p>",
+      "url": "https://trumpstruth.org/statuses/41650",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 9, 2026",
+        "link": "https://trumpstruth.org/statuses/41650",
+        "pubDate": "Wed, 09 Sep 2026 01:07:46 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://trumpstruth.org/statuses/41650",
+        "isoDate": "2026-09-09T01:07:46.000Z"
+      }
+    },
+    {
       "id": "https://www.trumpstruth.org/statuses/41650",
       "publishedAt": "2026-09-09T01:07:46.000Z",
       "title": "[No Title] - Post from September 9, 2026",
@@ -138,6 +259,28 @@
         "guid": "https://www.trumpstruth.org/statuses/41650",
         "isoDate": "2026-09-09T01:07:46.000Z"
       }
+    },
+    {
+      "id": "https://trumpstruth.org/statuses/41652",
+      "publishedAt": "2026-09-09T01:23:52.000Z",
+      "title": "[No Title] - Post from September 9, 2026",
+      "text": "[Image] Donald Trump stands at a construction or disaster-response site beside firefighters, workers, and a soldier in camouflage. He wears a dark suit with a red striped tie. An orange tracked construction vehicle marked “30” fills the background, with fencing, rubble, city buildings, and emergency personnel visible behind the group.",
+      "url": "https://trumpstruth.org/statuses/41652",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 9, 2026",
+        "link": "https://trumpstruth.org/statuses/41652",
+        "pubDate": "Wed, 09 Sep 2026 01:23:52 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://trumpstruth.org/statuses/41652",
+        "isoDate": "2026-09-09T01:23:52.000Z"
+      },
+      "imageDescribedAt": "2026-09-09T08:01:38.642Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18084/5f8f48f3971df6a3-13ad5902da33.jpg"
+      ]
     },
     {
       "id": "https://www.trumpstruth.org/statuses/41652",
@@ -159,6 +302,28 @@
       "imageDescribedAt": "2026-09-09T04:03:24.026Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18084/5f8f48f3971df6a3-13ad5902da33.jpg"
+      ]
+    },
+    {
+      "id": "https://trumpstruth.org/statuses/41655",
+      "publishedAt": "2026-09-09T02:24:48.000Z",
+      "title": "[No Title] - Post from September 9, 2026",
+      "text": "[Image] A political campaign graphic announces Anthony DiLorenzo as the Republican nominee for NH-01 and says he “wins.” It states that he is endorsed by President Donald Trump. Portraits of Donald Trump and Anthony DiLorenzo appear against a blue-to-red gradient, with a “Trump-Vance” logo and “Make America Great Again!” slogan at the bottom.",
+      "url": "https://trumpstruth.org/statuses/41655",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 9, 2026",
+        "link": "https://trumpstruth.org/statuses/41655",
+        "pubDate": "Wed, 09 Sep 2026 02:24:48 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://trumpstruth.org/statuses/41655",
+        "isoDate": "2026-09-09T02:24:48.000Z"
+      },
+      "imageDescribedAt": "2026-09-09T08:01:31.460Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18087/a1622c82542e42c8-33ac6df2caf2.jpg"
       ]
     },
     {
@@ -184,6 +349,28 @@
       ]
     },
     {
+      "id": "https://trumpstruth.org/statuses/41654",
+      "publishedAt": "2026-09-09T02:25:00.000Z",
+      "title": "[No Title] - Post from September 9, 2026",
+      "text": "[Image] A campaign-style graphic announces “Republican nominee for U.S. Senator from New Hampshire John E. Sununu wins!” and says he is endorsed by President Donald Trump. Portraits of Donald Trump in a suit and John E. Sununu in a plaid shirt appear against a blue-to-red gradient background. A Trump Vance logo is shown at the bottom.",
+      "url": "https://trumpstruth.org/statuses/41654",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 9, 2026",
+        "link": "https://trumpstruth.org/statuses/41654",
+        "pubDate": "Wed, 09 Sep 2026 02:25:00 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://trumpstruth.org/statuses/41654",
+        "isoDate": "2026-09-09T02:25:00.000Z"
+      },
+      "imageDescribedAt": "2026-09-09T08:01:28.187Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18086/548ab88562cc0a26-a097897d94d4.jpg"
+      ]
+    },
+    {
       "id": "https://www.trumpstruth.org/statuses/41654",
       "publishedAt": "2026-09-09T02:25:00.000Z",
       "title": "[No Title] - Post from September 9, 2026",
@@ -203,6 +390,28 @@
       "imageDescribedAt": "2026-09-09T04:03:18.040Z",
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18086/548ab88562cc0a26-a097897d94d4.jpg"
+      ]
+    },
+    {
+      "id": "https://trumpstruth.org/statuses/41653",
+      "publishedAt": "2026-09-09T02:25:12.000Z",
+      "title": "[No Title] - Post from September 9, 2026",
+      "text": "[Image] A political graphic features Donald Trump’s portrait inside a red circle with a green check mark. Text reads “September 8th Primary Recap: 2 Wins - 0 Losses,” “President Trump Endorsements 100%,” and shows a white outline of New Hampshire labeled “2-0.” A “Trump Vance” logo and “Make America Great Again!” appear at the bottom.",
+      "url": "https://trumpstruth.org/statuses/41653",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 9, 2026",
+        "link": "https://trumpstruth.org/statuses/41653",
+        "pubDate": "Wed, 09 Sep 2026 02:25:12 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://trumpstruth.org/statuses/41653",
+        "isoDate": "2026-09-09T02:25:12.000Z"
+      },
+      "imageDescribedAt": "2026-09-09T08:01:23.695Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18085/a649d449fc79ac25-073413fd9909.jpg"
       ]
     },
     {
@@ -229,6 +438,66 @@
     }
   ],
   "sentiments": [
+    {
+      "postId": "https://trumpstruth.org/statuses/41642",
+      "label": "negative",
+      "rationale": "The quoted post criticizes people for politicizing a 9/11 memorial and describes dangers faced by workers.",
+      "analyzedAt": "2026-09-09T08:01:56.556Z"
+    },
+    {
+      "postId": "https://trumpstruth.org/statuses/41643",
+      "label": "neutral",
+      "rationale": "The post contains no substantive text or visible sentiment.",
+      "analyzedAt": "2026-09-09T08:01:56.556Z"
+    },
+    {
+      "postId": "https://trumpstruth.org/statuses/41645",
+      "label": "neutral",
+      "rationale": "The post contains no substantive text or visible sentiment.",
+      "analyzedAt": "2026-09-09T08:01:56.556Z"
+    },
+    {
+      "postId": "https://trumpstruth.org/statuses/41647",
+      "label": "neutral",
+      "rationale": "The image shows Trump walking through a city with aides and reporters but conveys no clear sentiment.",
+      "analyzedAt": "2026-09-09T08:01:56.556Z"
+    },
+    {
+      "postId": "https://trumpstruth.org/statuses/41648",
+      "label": "neutral",
+      "rationale": "The post contains no substantive text or visible sentiment.",
+      "analyzedAt": "2026-09-09T08:01:56.556Z"
+    },
+    {
+      "postId": "https://trumpstruth.org/statuses/41650",
+      "label": "neutral",
+      "rationale": "The post contains no substantive text or visible sentiment.",
+      "analyzedAt": "2026-09-09T08:01:56.556Z"
+    },
+    {
+      "postId": "https://trumpstruth.org/statuses/41652",
+      "label": "neutral",
+      "rationale": "The image documents Trump at a construction or disaster-response site without explicit positive or negative language.",
+      "analyzedAt": "2026-09-09T08:01:56.556Z"
+    },
+    {
+      "postId": "https://trumpstruth.org/statuses/41653",
+      "label": "positive",
+      "rationale": "Celebrates two primary victories and presents President Trump's endorsements as 100% successful.",
+      "analyzedAt": "2026-09-09T08:01:56.556Z"
+    },
+    {
+      "postId": "https://trumpstruth.org/statuses/41654",
+      "label": "positive",
+      "rationale": "Announces John E. Sununu's nomination victory and highlights Trump's endorsement.",
+      "analyzedAt": "2026-09-09T08:01:56.556Z"
+    },
+    {
+      "postId": "https://trumpstruth.org/statuses/41655",
+      "label": "positive",
+      "rationale": "Celebrates Anthony DiLorenzo's nomination victory and Trump's endorsement.",
+      "analyzedAt": "2026-09-09T08:01:56.556Z"
+    },
     {
       "postId": "https://www.trumpstruth.org/statuses/41642",
       "label": "negative",
@@ -289,10 +558,5 @@
       "rationale": "Celebrates Anthony DiLorenzo's nomination and emphasizes his endorsement by Trump.",
       "analyzedAt": "2026-09-09T04:03:35.406Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v11:10:4ae7295a19f6f0e1d537eadf",
-  "selfPraiseCacheKey": "self-praise-v2:10:4ae7295a19f6f0e1d537eadf",
-  "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/41653"
   ]
 }
