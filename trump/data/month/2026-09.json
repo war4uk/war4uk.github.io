@@ -190,29 +190,26 @@
     {
       "date": "2026-09-08",
       "counts": {
-        "positive": 3,
-        "neutral": 7,
-        "negative": 2
+        "positive": 6,
+        "neutral": 8,
+        "negative": 4
       },
-      "summary": "positive:3 neutral:7 negative:2",
+      "summary": "positive:6 neutral:8 negative:4",
       "topics": [
-        "Donald Trump previews his speaking role at the Republican National Convention in Dallas",
-        "Donald Trump orders Canadian products removed from federal purchasing schedules over trade reciprocity",
-        "Donald Trump celebrates Germany’s populist party after an election breakthrough"
+        "Trump previews expanded role at Dallas Republican convention, speaking and prioritizing candidates in tight races",
+        "Trump orders removal of Canadian products from federal procurement schedules over trade reciprocity",
+        "Germany’s populist party gains momentum amid backlash against immigration policies"
       ],
-      "postsCount": 12,
+      "postsCount": 18,
       "hasDetail": true,
-      "generatedAt": "2026-09-09T00:05:01.182Z",
-      "trendingTopic": "Donald Trump previews his speaking role at the Republican National Convention in Dallas",
+      "generatedAt": "2026-09-09T04:03:49.806Z",
+      "trendingTopic": "Trump previews expanded role at Dallas Republican convention, speaking and prioritizing candidates in tight races",
       "secondaryHighlights": [
         {
-          "topic": "Orders Canadian products removed from federal purchasing schedules over trade reciprocity"
+          "topic": "Trump orders removal of Canadian products from federal procurement schedules over trade reciprocity"
         },
         {
-          "topic": "Celebrates Germany’s populist party after an election breakthrough"
-        },
-        {
-          "topic": "Sends birthday greetings to Mary, Queen of Victories"
+          "topic": "Germany’s populist party gains momentum amid backlash against immigration policies"
         }
       ],
       "selfPraiseCount": 1
@@ -220,30 +217,43 @@
     {
       "date": "2026-09-09",
       "counts": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 0
+        "positive": 3,
+        "neutral": 6,
+        "negative": 1
       },
-      "summary": "positive:0 neutral:0 negative:0",
-      "topics": [],
-      "postsCount": 0,
+      "summary": "positive:3 neutral:6 negative:1",
+      "topics": [
+        "Trump-backed Anthony DiLorenzo and John E. Sununu win New Hampshire Republican primaries",
+        "Donald Trump visits a construction or disaster-recovery site with workers and first responders",
+        "Donald Trump walks through a city street surrounded by media cameras"
+      ],
+      "postsCount": 10,
       "hasDetail": true,
-      "generatedAt": "2026-09-09T00:04:43.152Z",
-      "selfPraiseCount": 0
+      "generatedAt": "2026-09-09T04:04:00.343Z",
+      "trendingTopic": "Trump-backed Anthony DiLorenzo and John E. Sununu win New Hampshire Republican primaries",
+      "secondaryHighlights": [
+        {
+          "topic": "Donald Trump visits a construction or disaster-recovery site with workers and first responders"
+        },
+        {
+          "topic": "Donald Trump walks through a city street surrounded by media cameras"
+        }
+      ],
+      "selfPraiseCount": 1
     }
   ],
-  "generatedAt": "2026-09-09T00:05:01.182Z",
-  "trendingTopic": "Donald Trump portrays Iran as collapsing amid military strikes, plunging oil exports, and hyperinflation",
+  "generatedAt": "2026-09-09T04:04:00.343Z",
+  "trendingTopic": "Trump portrays Iran as collapsing while defending military operations and Strait of Hormuz control",
   "secondaryHighlights": [
     {
-      "topic": "Donald Trump schedules Dallas rally and Republican National Convention appearances"
+      "topic": "Backs Republican candidates and expands his role in primary and convention contests"
     },
     {
-      "topic": "Donald Trump touts August job growth and demands lower interest rates"
+      "topic": "Promotes tariff-driven growth and retaliatory trade measures"
     },
     {
-      "topic": "Donald Trump endorses candidates across multiple state races"
+      "topic": "Pushes renaming New Mexico as New America and other American-themed geographic rebrands"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:8:b53f2893dc01aa29e9fb9187"
+  "topicsCacheKey": "month-themes-v5:9:88f112c7fe756fea65c6fda7"
 }
