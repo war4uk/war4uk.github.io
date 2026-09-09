@@ -202,7 +202,7 @@
       ],
       "postsCount": 18,
       "hasDetail": true,
-      "generatedAt": "2026-09-09T12:03:54.058Z",
+      "generatedAt": "2026-09-09T16:00:58.995Z",
       "trendingTopic": "Trump previews expanded role at Dallas Republican convention, speaking and prioritizing candidates in tight races",
       "secondaryHighlights": [
         {
@@ -217,43 +217,42 @@
     {
       "date": "2026-09-09",
       "counts": {
-        "positive": 6,
+        "positive": 7,
         "neutral": 12,
-        "negative": 2
+        "negative": 3
       },
-      "summary": "positive:6 neutral:12 negative:2",
+      "summary": "positive:7 neutral:12 negative:3",
       "topics": [
-        "Trump-endorsed John Sununu and Anthony DiLorenzo win New Hampshire Republican primaries",
-        "Donald Trump visits a construction or disaster-response site with firefighters, workers, and a soldier",
-        "Donald Trump walks through a city street surrounded by aides, security, and reporters"
+        "Trump-endorsed Republicans Anthony DiLorenzo and John Sununu win New Hampshire primary nominations",
+        "Declassified FBI notes reveal discrepancies between Michael Flynn’s interview and official records",
+        "Trump promotes Phil Flynn’s oil and energy analysis"
       ],
-      "postsCount": 20,
+      "postsCount": 22,
       "hasDetail": true,
-      "generatedAt": "2026-09-09T12:04:03.497Z",
-      "trendingTopic": "Trump-backed John Sununu and Anthony DiLorenzo win New Hampshire Republican primaries",
+      "generatedAt": "2026-09-09T16:01:34.072Z",
+      "trendingTopic": "Trump-endorsed Republicans Anthony DiLorenzo and John Sununu win New Hampshire primary nominations",
       "secondaryHighlights": [
         {
-          "topic": "Donald Trump visits a construction or disaster-response site with firefighters, workers, and a soldier"
+          "topic": "Declassified FBI notes reveal discrepancies between Michael Flynn’s interview and official records",
+          "name": "Michael Flynn"
         },
         {
-          "topic": "Donald Trump walks through a city street surrounded by aides, security, and reporters"
+          "topic": "Trump promotes Phil Flynn’s oil and energy analysis",
+          "name": "Phil Flynn"
         }
       ],
       "selfPraiseCount": 1
     }
   ],
-  "generatedAt": "2026-09-09T12:04:03.497Z",
-  "trendingTopic": "Trump escalates Iran war while claiming its economy and strategic position are collapsing",
+  "generatedAt": "2026-09-09T16:01:34.072Z",
+  "trendingTopic": "Trump portrays Iran as collapsing after military action and predicts victory, lower oil prices, and pressure on its economy",
   "secondaryHighlights": [
     {
-      "topic": "Trump campaigns for Republican candidates through rallies, conventions, endorsements, and primaries"
+      "topic": "Trump escalates tariff and trade-reciprocity demands while touting economic growth"
     },
     {
-      "topic": "Trump pushes renaming New Mexico as \"New America\""
-    },
-    {
-      "topic": "Trump expands trade retaliation against Canada and other foreign trade practices"
+      "topic": "Trump promotes a new White House ballroom, helipad, and military complex"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:9:8d3a18dc41a887e076446f2d"
+  "topicsCacheKey": "month-themes-v5:9:7b1d34a16cc3ecea0109decb"
 }

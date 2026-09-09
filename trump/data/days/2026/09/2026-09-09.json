@@ -1,29 +1,31 @@
 {
   "date": "2026-09-09",
   "counts": {
-    "positive": 6,
+    "positive": 7,
     "neutral": 12,
-    "negative": 2
+    "negative": 3
   },
-  "summary": "positive:6 neutral:12 negative:2",
-  "generatedAt": "2026-09-09T12:04:03.497Z",
+  "summary": "positive:7 neutral:12 negative:3",
+  "generatedAt": "2026-09-09T16:01:34.072Z",
   "topics": [
-    "Trump-endorsed John Sununu and Anthony DiLorenzo win New Hampshire Republican primaries",
-    "Donald Trump visits a construction or disaster-response site with firefighters, workers, and a soldier",
-    "Donald Trump walks through a city street surrounded by aides, security, and reporters"
+    "Trump-endorsed Republicans Anthony DiLorenzo and John Sununu win New Hampshire primary nominations",
+    "Declassified FBI notes reveal discrepancies between Michael Flynn’s interview and official records",
+    "Trump promotes Phil Flynn’s oil and energy analysis"
   ],
-  "trendingTopic": "Trump-backed John Sununu and Anthony DiLorenzo win New Hampshire Republican primaries",
+  "trendingTopic": "Trump-endorsed Republicans Anthony DiLorenzo and John Sununu win New Hampshire primary nominations",
   "secondaryHighlights": [
     {
-      "topic": "Donald Trump visits a construction or disaster-response site with firefighters, workers, and a soldier"
+      "topic": "Declassified FBI notes reveal discrepancies between Michael Flynn’s interview and official records",
+      "name": "Michael Flynn"
     },
     {
-      "topic": "Donald Trump walks through a city street surrounded by aides, security, and reporters"
+      "topic": "Trump promotes Phil Flynn’s oil and energy analysis",
+      "name": "Phil Flynn"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v11:20:1fc9c9739e696b91cff06b9e",
-  "selfPraiseCacheKey": "self-praise-v2:20:1fc9c9739e696b91cff06b9e",
+  "topicsCacheKey": "day-themes-v11:22:41dd820f1ba8da1ddf595848",
+  "selfPraiseCacheKey": "self-praise-v2:22:41dd820f1ba8da1ddf595848",
   "selfPraisePostIds": [
     "https://trumpstruth.org/statuses/41653"
   ],
@@ -435,6 +437,42 @@
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18085/a649d449fc79ac25-073413fd9909.jpg"
       ]
+    },
+    {
+      "id": "https://trumpstruth.org/statuses/41656",
+      "publishedAt": "2026-09-09T12:00:58.000Z",
+      "title": "Declassified FBI notes expose discrepancies between Flynn interview, official FBI records:",
+      "text": "<p>Declassified FBI notes expose discrepancies between Flynn interview, official FBI records: <a href=\"https://justthenews.com/accountability/russia-and-ukraine-scandals/hld6am-declassified-fbi-notes-reveal-discrepancies-flynn\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/accountability</span><span class=\"invisible\">/russia-and-ukraine-scandals/hld6am-declassified-fbi-notes-reveal-discrepancies-flynn</span></a></p>",
+      "url": "https://trumpstruth.org/statuses/41656",
+      "raw": {
+        "creator": "",
+        "title": "Declassified FBI notes expose discrepancies between Flynn interview, official FBI records:",
+        "link": "https://trumpstruth.org/statuses/41656",
+        "pubDate": "Wed, 09 Sep 2026 12:00:58 +0000",
+        "author": "",
+        "content": "<p>Declassified FBI notes expose discrepancies between Flynn interview, official FBI records: <a href=\"https://justthenews.com/accountability/russia-and-ukraine-scandals/hld6am-declassified-fbi-notes-reveal-discrepancies-flynn\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/accountability</span><span class=\"invisible\">/russia-and-ukraine-scandals/hld6am-declassified-fbi-notes-reveal-discrepancies-flynn</span></a></p>",
+        "contentSnippet": "Declassified FBI notes expose discrepancies between Flynn interview, official FBI records: https://justthenews.com/accountability/russia-and-ukraine-scandals/hld6am-declassified-fbi-notes-reveal-discrepancies-flynn",
+        "guid": "https://trumpstruth.org/statuses/41656",
+        "isoDate": "2026-09-09T12:00:58.000Z"
+      }
+    },
+    {
+      "id": "https://trumpstruth.org/statuses/41657",
+      "publishedAt": "2026-09-09T13:41:33.000Z",
+      "title": "“Words of Wisdom” from Phil Flynn, one of the World’s Great Oil and Energy Analysts — A MUST SEE! President DONALD J. TRUMP",
+      "text": "<p>“Words of Wisdom” from Phil Flynn, one of the World’s Great Oil and Energy Analysts — A MUST SEE! President DONALD J. TRUMP</p>",
+      "url": "https://trumpstruth.org/statuses/41657",
+      "raw": {
+        "creator": "",
+        "title": "“Words of Wisdom” from Phil Flynn, one of the World’s Great Oil and Energy Analysts — A MUST SEE! President DONALD J. TRUMP",
+        "link": "https://trumpstruth.org/statuses/41657",
+        "pubDate": "Wed, 09 Sep 2026 13:41:33 +0000",
+        "author": "",
+        "content": "<p>“Words of Wisdom” from Phil Flynn, one of the World’s Great Oil and Energy Analysts — A MUST SEE! President DONALD J. TRUMP</p>",
+        "contentSnippet": "“Words of Wisdom” from Phil Flynn, one of the World’s Great Oil and Energy Analysts — A MUST SEE! President DONALD J. TRUMP",
+        "guid": "https://trumpstruth.org/statuses/41657",
+        "isoDate": "2026-09-09T13:41:33.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -497,6 +535,18 @@
       "label": "positive",
       "rationale": "Celebrates Anthony DiLorenzo's nomination victory and Trump's endorsement.",
       "analyzedAt": "2026-09-09T08:01:56.556Z"
+    },
+    {
+      "postId": "https://trumpstruth.org/statuses/41656",
+      "label": "negative",
+      "rationale": "Highlights alleged discrepancies in FBI records, framing the institution and its handling of the Flynn interview negatively.",
+      "analyzedAt": "2026-09-09T16:01:15.625Z"
+    },
+    {
+      "postId": "https://trumpstruth.org/statuses/41657",
+      "label": "positive",
+      "rationale": "Praises Phil Flynn as one of the world's great oil and energy analysts and strongly recommends his content.",
+      "analyzedAt": "2026-09-09T16:01:15.625Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/41642",
