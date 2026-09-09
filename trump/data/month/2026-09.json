@@ -202,7 +202,7 @@
       ],
       "postsCount": 18,
       "hasDetail": true,
-      "generatedAt": "2026-09-09T16:00:58.995Z",
+      "generatedAt": "2026-09-09T20:04:43.048Z",
       "trendingTopic": "Trump previews expanded role at Dallas Republican convention, speaking and prioritizing candidates in tight races",
       "secondaryHighlights": [
         {
@@ -218,41 +218,47 @@
       "date": "2026-09-09",
       "counts": {
         "positive": 7,
-        "neutral": 12,
+        "neutral": 13,
         "negative": 3
       },
-      "summary": "positive:7 neutral:12 negative:3",
+      "summary": "positive:7 neutral:13 negative:3",
       "topics": [
-        "Trump-endorsed Republicans Anthony DiLorenzo and John Sununu win New Hampshire primary nominations",
-        "Declassified FBI notes reveal discrepancies between Michael Flynn’s interview and official records",
-        "Trump promotes Phil Flynn’s oil and energy analysis"
+        "Trump-endorsed Anthony DiLorenzo and John Sununu win New Hampshire Republican primaries",
+        "Shares 9/11-related images showing Trump in New York and alongside first responders",
+        "Declassified FBI notes reportedly reveal discrepancies in Michael Flynn interview records"
       ],
-      "postsCount": 22,
+      "postsCount": 23,
       "hasDetail": true,
-      "generatedAt": "2026-09-09T16:01:34.072Z",
-      "trendingTopic": "Trump-endorsed Republicans Anthony DiLorenzo and John Sununu win New Hampshire primary nominations",
+      "generatedAt": "2026-09-09T20:05:17.366Z",
+      "trendingTopic": "Trump-endorsed candidates Anthony DiLorenzo and John Sununu win New Hampshire Republican primaries",
       "secondaryHighlights": [
         {
-          "topic": "Declassified FBI notes reveal discrepancies between Michael Flynn’s interview and official records",
+          "topic": "Shares 9/11-related images showing Trump in New York and alongside first responders"
+        },
+        {
+          "topic": "Declassified FBI notes reportedly reveal discrepancies in Michael Flynn interview records",
           "name": "Michael Flynn"
         },
         {
-          "topic": "Trump promotes Phil Flynn’s oil and energy analysis",
+          "topic": "Promotes oil analyst Phil Flynn’s energy commentary",
           "name": "Phil Flynn"
         }
       ],
       "selfPraiseCount": 1
     }
   ],
-  "generatedAt": "2026-09-09T16:01:34.072Z",
-  "trendingTopic": "Trump portrays Iran as collapsing after military action and predicts victory, lower oil prices, and pressure on its economy",
+  "generatedAt": "2026-09-09T20:05:17.366Z",
+  "trendingTopic": "Trump portrays Iran as collapsing and touts victory in the war with Iran",
   "secondaryHighlights": [
     {
-      "topic": "Trump escalates tariff and trade-reciprocity demands while touting economic growth"
+      "topic": "Trump touts August jobs growth, tariffs, and calls for lower interest rates"
     },
     {
-      "topic": "Trump promotes a new White House ballroom, helipad, and military complex"
+      "topic": "Expands and showcases White House ballroom, helipad, and military complex plans"
+    },
+    {
+      "topic": "Claims Michael Cohen recanted testimony and demands dismissals in New York cases"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:9:7b1d34a16cc3ecea0109decb"
+  "topicsCacheKey": "month-themes-v5:9:2afcc250c500c023f9e5fceb"
 }

@@ -2,30 +2,33 @@
   "date": "2026-09-09",
   "counts": {
     "positive": 7,
-    "neutral": 12,
+    "neutral": 13,
     "negative": 3
   },
-  "summary": "positive:7 neutral:12 negative:3",
-  "generatedAt": "2026-09-09T16:01:34.072Z",
+  "summary": "positive:7 neutral:13 negative:3",
+  "generatedAt": "2026-09-09T20:05:17.366Z",
   "topics": [
-    "Trump-endorsed Republicans Anthony DiLorenzo and John Sununu win New Hampshire primary nominations",
-    "Declassified FBI notes reveal discrepancies between Michael Flynn’s interview and official records",
-    "Trump promotes Phil Flynn’s oil and energy analysis"
+    "Trump-endorsed Anthony DiLorenzo and John Sununu win New Hampshire Republican primaries",
+    "Shares 9/11-related images showing Trump in New York and alongside first responders",
+    "Declassified FBI notes reportedly reveal discrepancies in Michael Flynn interview records"
   ],
-  "trendingTopic": "Trump-endorsed Republicans Anthony DiLorenzo and John Sununu win New Hampshire primary nominations",
+  "trendingTopic": "Trump-endorsed candidates Anthony DiLorenzo and John Sununu win New Hampshire Republican primaries",
   "secondaryHighlights": [
     {
-      "topic": "Declassified FBI notes reveal discrepancies between Michael Flynn’s interview and official records",
+      "topic": "Shares 9/11-related images showing Trump in New York and alongside first responders"
+    },
+    {
+      "topic": "Declassified FBI notes reportedly reveal discrepancies in Michael Flynn interview records",
       "name": "Michael Flynn"
     },
     {
-      "topic": "Trump promotes Phil Flynn’s oil and energy analysis",
+      "topic": "Promotes oil analyst Phil Flynn’s energy commentary",
       "name": "Phil Flynn"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v11:22:41dd820f1ba8da1ddf595848",
-  "selfPraiseCacheKey": "self-praise-v2:22:41dd820f1ba8da1ddf595848",
+  "topicsCacheKey": "day-themes-v11:23:7e73f9c7f7a69e2e5d0827fd",
+  "selfPraiseCacheKey": "self-praise-v2:23:7e73f9c7f7a69e2e5d0827fd",
   "selfPraisePostIds": [
     "https://trumpstruth.org/statuses/41653"
   ],
@@ -473,6 +476,24 @@
         "guid": "https://trumpstruth.org/statuses/41657",
         "isoDate": "2026-09-09T13:41:33.000Z"
       }
+    },
+    {
+      "id": "https://trumpstruth.org/statuses/41658",
+      "publishedAt": "2026-09-09T18:29:31.000Z",
+      "title": "[No Title] - Post from September 9, 2026",
+      "text": "<p></p>",
+      "url": "https://trumpstruth.org/statuses/41658",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 9, 2026",
+        "link": "https://trumpstruth.org/statuses/41658",
+        "pubDate": "Wed, 09 Sep 2026 18:29:31 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://trumpstruth.org/statuses/41658",
+        "isoDate": "2026-09-09T18:29:31.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -547,6 +568,12 @@
       "label": "positive",
       "rationale": "Praises Phil Flynn as one of the world's great oil and energy analysts and strongly recommends his content.",
       "analyzedAt": "2026-09-09T16:01:15.625Z"
+    },
+    {
+      "postId": "https://trumpstruth.org/statuses/41658",
+      "label": "neutral",
+      "rationale": "The text contains no substantive content or sentiment.",
+      "analyzedAt": "2026-09-09T20:04:51.827Z"
     },
     {
       "postId": "https://www.trumpstruth.org/statuses/41642",
