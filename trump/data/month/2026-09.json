@@ -217,48 +217,59 @@
     {
       "date": "2026-09-09",
       "counts": {
-        "positive": 7,
-        "neutral": 13,
-        "negative": 3
+        "positive": 8,
+        "neutral": 18,
+        "negative": 4
       },
-      "summary": "positive:7 neutral:13 negative:3",
+      "summary": "positive:8 neutral:18 negative:4",
       "topics": [
-        "Trump-endorsed Anthony DiLorenzo and John Sununu win New Hampshire Republican primaries",
-        "Shares 9/11-related images showing Trump in New York and alongside first responders",
-        "Declassified FBI notes reportedly reveal discrepancies in Michael Flynn interview records"
+        "Trump-endorsed candidates Anthony DiLorenzo and John E. Sununu win New Hampshire Republican primaries",
+        "Shares images of Donald Trump walking through a city and visiting a disaster-response site",
+        "Highlights declassified FBI notes alleging discrepancies in the Michael Flynn investigation"
       ],
-      "postsCount": 23,
+      "postsCount": 30,
       "hasDetail": true,
-      "generatedAt": "2026-09-09T20:05:17.366Z",
-      "trendingTopic": "Trump-endorsed candidates Anthony DiLorenzo and John Sununu win New Hampshire Republican primaries",
+      "generatedAt": "2026-09-10T00:02:00.280Z",
+      "trendingTopic": "Trump-endorsed Anthony DiLorenzo and John E. Sununu win New Hampshire Republican primaries",
       "secondaryHighlights": [
         {
-          "topic": "Shares 9/11-related images showing Trump in New York and alongside first responders"
-        },
-        {
-          "topic": "Declassified FBI notes reportedly reveal discrepancies in Michael Flynn interview records",
+          "topic": "Highlights declassified FBI notes alleging discrepancies in the Michael Flynn investigation",
           "name": "Michael Flynn"
         },
         {
-          "topic": "Promotes oil analyst Phil Flynn’s energy commentary",
+          "topic": "Promotes oil analyst Phil Flynn's commentary on energy markets",
           "name": "Phil Flynn"
         }
       ],
       "selfPraiseCount": 1
+    },
+    {
+      "date": "2026-09-10",
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "positive:0 neutral:0 negative:0",
+      "topics": [],
+      "postsCount": 0,
+      "hasDetail": true,
+      "generatedAt": "2026-09-10T00:01:45.549Z",
+      "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-09T20:05:17.366Z",
-  "trendingTopic": "Trump portrays Iran as collapsing and touts victory in the war with Iran",
+  "generatedAt": "2026-09-10T00:02:00.280Z",
+  "trendingTopic": "Donald Trump portrays Iran as collapsing while defending military pressure and Strait of Hormuz control",
   "secondaryHighlights": [
     {
-      "topic": "Trump touts August jobs growth, tariffs, and calls for lower interest rates"
+      "topic": "Donald Trump pushes renaming New Mexico as “New America” and reshaping patriotic maps"
     },
     {
-      "topic": "Expands and showcases White House ballroom, helipad, and military complex plans"
+      "topic": "Donald Trump advances a White House ballroom, helipad, and military-complex buildup"
     },
     {
-      "topic": "Claims Michael Cohen recanted testimony and demands dismissals in New York cases"
+      "topic": "Trump claims Michael Cohen recanted testimony in New York cases and demands dismissals"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:9:2afcc250c500c023f9e5fceb"
+  "topicsCacheKey": "month-themes-v5:9:7b46ef98ef82cdc5c8dbd034"
 }
