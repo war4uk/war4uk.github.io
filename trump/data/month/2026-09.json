@@ -229,7 +229,7 @@
       ],
       "postsCount": 30,
       "hasDetail": true,
-      "generatedAt": "2026-09-10T08:01:20.742Z",
+      "generatedAt": "2026-09-10T12:04:52.914Z",
       "trendingTopic": "Trump-endorsed Anthony DiLorenzo and John E. Sununu win New Hampshire Republican primaries",
       "secondaryHighlights": [
         {
@@ -246,30 +246,38 @@
     {
       "date": "2026-09-10",
       "counts": {
-        "positive": 0,
-        "neutral": 0,
+        "positive": 1,
+        "neutral": 2,
         "negative": 0
       },
-      "summary": "positive:0 neutral:0 negative:0",
-      "topics": [],
-      "postsCount": 0,
+      "summary": "positive:1 neutral:2 negative:0",
+      "topics": [
+        "Trump touts the Republican Midterm Convention’s sold-out Dallas crowds and ratings"
+      ],
+      "postsCount": 3,
       "hasDetail": true,
-      "generatedAt": "2026-09-10T08:01:23.333Z",
-      "selfPraiseCount": 0
+      "generatedAt": "2026-09-10T12:05:09.853Z",
+      "trendingTopic": "Donald Trump touts the Republican Midterm Convention’s sold-out Dallas crowds and record attendance",
+      "secondaryHighlights": [
+        {
+          "topic": "The Republican Midterm Convention last night, in Dallas, was a major, sold out hit, far bigger, better, and more important than anyone thought possible."
+        }
+      ],
+      "selfPraiseCount": 1
     }
   ],
-  "generatedAt": "2026-09-10T08:01:23.333Z",
-  "trendingTopic": "Donald Trump portrays Iran as collapsing while defending military pressure and Strait of Hormuz control",
+  "generatedAt": "2026-09-10T12:05:09.853Z",
+  "trendingTopic": "Trump promotes Republican candidates and expands his role at GOP midterm events",
   "secondaryHighlights": [
     {
-      "topic": "Donald Trump pushes renaming New Mexico as “New America” and reshaping patriotic maps"
+      "topic": "Trump and allies challenge New York prosecutions and FBI investigations"
     },
     {
-      "topic": "Donald Trump advances a White House ballroom, helipad, and military-complex buildup"
+      "topic": "Trump advances patriotic renamings and grand White House-military construction projects"
     },
     {
-      "topic": "Trump claims Michael Cohen recanted testimony in New York cases and demands dismissals"
+      "topic": "Trump portrays Iran as collapsing while defending U.S. military operations"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:9:7b46ef98ef82cdc5c8dbd034"
+  "topicsCacheKey": "month-themes-v5:10:bffe1858802a45dcc71467aa"
 }
