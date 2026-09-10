@@ -229,7 +229,7 @@
       ],
       "postsCount": 30,
       "hasDetail": true,
-      "generatedAt": "2026-09-10T12:04:52.914Z",
+      "generatedAt": "2026-09-10T16:03:57.759Z",
       "trendingTopic": "Trump-endorsed Anthony DiLorenzo and John E. Sununu win New Hampshire Republican primaries",
       "secondaryHighlights": [
         {
@@ -246,38 +246,43 @@
     {
       "date": "2026-09-10",
       "counts": {
-        "positive": 1,
-        "neutral": 2,
-        "negative": 0
+        "positive": 9,
+        "neutral": 13,
+        "negative": 2
       },
-      "summary": "positive:1 neutral:2 negative:0",
+      "summary": "positive:9 neutral:13 negative:2",
       "topics": [
-        "Trump touts the Republican Midterm Convention’s sold-out Dallas crowds and ratings"
+        "Donald Trump promotes a sold-out Republican Midterm Convention in Dallas that reportedly surpassed NFL viewership",
+        "Supreme Court sides with Republicans in dispute over broadcast advertising rates",
+        "Trump War Room promotes voter ID as a priority for Americans"
       ],
-      "postsCount": 3,
+      "postsCount": 24,
       "hasDetail": true,
-      "generatedAt": "2026-09-10T12:05:09.853Z",
-      "trendingTopic": "Donald Trump touts the Republican Midterm Convention’s sold-out Dallas crowds and record attendance",
+      "generatedAt": "2026-09-10T16:05:05.093Z",
+      "trendingTopic": "Donald Trump promotes a sold-out Republican Midterm Convention in Dallas that reportedly surpassed NFL viewership",
       "secondaryHighlights": [
         {
-          "topic": "The Republican Midterm Convention last night, in Dallas, was a major, sold out hit, far bigger, better, and more important than anyone thought possible."
+          "topic": "Supreme Court sides with Republicans in dispute over broadcast advertising rates"
+        },
+        {
+          "topic": "Trump War Room promotes voter ID as a priority for Americans"
         }
       ],
-      "selfPraiseCount": 1
+      "selfPraiseCount": 3
     }
   ],
-  "generatedAt": "2026-09-10T12:05:09.853Z",
-  "trendingTopic": "Trump promotes Republican candidates and expands his role at GOP midterm events",
+  "generatedAt": "2026-09-10T16:05:05.093Z",
+  "trendingTopic": "Trump backs Republican candidates and rallies voters ahead of the midterms",
   "secondaryHighlights": [
     {
-      "topic": "Trump and allies challenge New York prosecutions and FBI investigations"
+      "topic": "Trump promotes economic and trade policies on jobs, prices, tariffs, and Canada"
     },
     {
-      "topic": "Trump advances patriotic renamings and grand White House-military construction projects"
+      "topic": "Trump escalates Iran war rhetoric over military strikes, oil, and the Strait of Hormuz"
     },
     {
-      "topic": "Trump portrays Iran as collapsing while defending U.S. military operations"
+      "topic": "Trump pushes patriotic renaming and imagery for New Mexico"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:10:bffe1858802a45dcc71467aa"
+  "topicsCacheKey": "month-themes-v5:10:2076ecf031e1c73778673756"
 }

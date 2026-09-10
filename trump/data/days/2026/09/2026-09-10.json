@@ -1,17 +1,34 @@
 {
   "date": "2026-09-10",
   "counts": {
-    "positive": 1,
-    "neutral": 2,
-    "negative": 0
+    "positive": 9,
+    "neutral": 13,
+    "negative": 2
   },
-  "summary": "positive:1 neutral:2 negative:0",
-  "generatedAt": "2026-09-10T12:05:09.853Z",
+  "summary": "positive:9 neutral:13 negative:2",
+  "generatedAt": "2026-09-10T16:05:05.093Z",
   "topics": [
-    "Trump touts the Republican Midterm Convention’s sold-out Dallas crowds and ratings"
+    "Donald Trump promotes a sold-out Republican Midterm Convention in Dallas that reportedly surpassed NFL viewership",
+    "Supreme Court sides with Republicans in dispute over broadcast advertising rates",
+    "Trump War Room promotes voter ID as a priority for Americans"
   ],
-  "trendingTopic": "Donald Trump touts the Republican Midterm Convention’s sold-out Dallas crowds and record attendance",
-  "selfPraiseCount": 1,
+  "trendingTopic": "Donald Trump promotes a sold-out Republican Midterm Convention in Dallas that reportedly surpassed NFL viewership",
+  "secondaryHighlights": [
+    {
+      "topic": "Supreme Court sides with Republicans in dispute over broadcast advertising rates"
+    },
+    {
+      "topic": "Trump War Room promotes voter ID as a priority for Americans"
+    }
+  ],
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:24:cb6cfa07720d11c282f49308",
+  "selfPraiseCacheKey": "self-praise-v2:24:cb6cfa07720d11c282f49308",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41664",
+    "https://www.trumpstruth.org/statuses/41684",
+    "https://www.trumpstruth.org/statuses/41686"
+  ],
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41664",
@@ -66,6 +83,416 @@
         "guid": "https://www.trumpstruth.org/statuses/41665",
         "isoDate": "2026-09-10T11:56:18.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41669",
+      "publishedAt": "2026-09-10T12:01:01.000Z",
+      "title": "[No Title] - Post from September 10, 2026",
+      "text": "<p><a href=\"https://truthsocial.com/@realDonaldTrump/117184422478750334\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@realDonaldTru</span><span class=\"invisible\">mp/117184422478750334</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41669",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41669",
+        "pubDate": "Thu, 10 Sep 2026 12:01:01 +0000",
+        "author": "",
+        "content": "<p><a href=\"https://truthsocial.com/@realDonaldTrump/117184422478750334\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@realDonaldTru</span><span class=\"invisible\">mp/117184422478750334</span></a></p>",
+        "contentSnippet": "https://truthsocial.com/@realDonaldTrump/117184422478750334",
+        "guid": "https://www.trumpstruth.org/statuses/41669",
+        "isoDate": "2026-09-10T12:01:01.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41668",
+      "publishedAt": "2026-09-10T12:01:27.000Z",
+      "title": "[No Title] - Post from September 10, 2026",
+      "text": "<p><a href=\"https://truthsocial.com/@Angela73/117184541657732157\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@Angela73/1171</span><span class=\"invisible\">84541657732157</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41668",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41668",
+        "pubDate": "Thu, 10 Sep 2026 12:01:27 +0000",
+        "author": "",
+        "content": "<p><a href=\"https://truthsocial.com/@Angela73/117184541657732157\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@Angela73/1171</span><span class=\"invisible\">84541657732157</span></a></p>",
+        "contentSnippet": "https://truthsocial.com/@Angela73/117184541657732157",
+        "guid": "https://www.trumpstruth.org/statuses/41668",
+        "isoDate": "2026-09-10T12:01:27.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41667",
+      "publishedAt": "2026-09-10T12:01:51.000Z",
+      "title": "[No Title] - Post from September 10, 2026",
+      "text": "<p><a href=\"https://truthsocial.com/@mazurikl/117184492074309638\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@mazurikl/1171</span><span class=\"invisible\">84492074309638</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41667",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41667",
+        "pubDate": "Thu, 10 Sep 2026 12:01:51 +0000",
+        "author": "",
+        "content": "<p><a href=\"https://truthsocial.com/@mazurikl/117184492074309638\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@mazurikl/1171</span><span class=\"invisible\">84492074309638</span></a></p>",
+        "contentSnippet": "https://truthsocial.com/@mazurikl/117184492074309638",
+        "guid": "https://www.trumpstruth.org/statuses/41667",
+        "isoDate": "2026-09-10T12:01:51.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41666",
+      "publishedAt": "2026-09-10T12:02:05.000Z",
+      "title": "[No Title] - Post from September 10, 2026",
+      "text": "<p><a href=\"https://truthsocial.com/@mazurikl/117184504303118220\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@mazurikl/1171</span><span class=\"invisible\">84504303118220</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41666",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41666",
+        "pubDate": "Thu, 10 Sep 2026 12:02:05 +0000",
+        "author": "",
+        "content": "<p><a href=\"https://truthsocial.com/@mazurikl/117184504303118220\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@mazurikl/1171</span><span class=\"invisible\">84504303118220</span></a></p>",
+        "contentSnippet": "https://truthsocial.com/@mazurikl/117184504303118220",
+        "guid": "https://www.trumpstruth.org/statuses/41666",
+        "isoDate": "2026-09-10T12:02:05.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41670",
+      "publishedAt": "2026-09-10T12:10:44.000Z",
+      "title": "Supreme Court sides with Republicans in fight over broadcast ad rates:",
+      "text": "<p>Supreme Court sides with Republicans in fight over broadcast ad rates: <a href=\"https://www.cbsnews.com/news/supreme-court-sides-with-republicans-cheaper-broadcast-ad-rates/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cbsnews.com/news/supreme-court</span><span class=\"invisible\">-sides-with-republicans-cheaper-broadcast-ad-rates/</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41670",
+      "raw": {
+        "creator": "",
+        "title": "Supreme Court sides with Republicans in fight over broadcast ad rates:",
+        "link": "https://www.trumpstruth.org/statuses/41670",
+        "pubDate": "Thu, 10 Sep 2026 12:10:44 +0000",
+        "author": "",
+        "content": "<p>Supreme Court sides with Republicans in fight over broadcast ad rates: <a href=\"https://www.cbsnews.com/news/supreme-court-sides-with-republicans-cheaper-broadcast-ad-rates/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cbsnews.com/news/supreme-court</span><span class=\"invisible\">-sides-with-republicans-cheaper-broadcast-ad-rates/</span></a></p>",
+        "contentSnippet": "Supreme Court sides with Republicans in fight over broadcast ad rates: https://www.cbsnews.com/news/supreme-court-sides-with-republicans-cheaper-broadcast-ad-rates/",
+        "guid": "https://www.trumpstruth.org/statuses/41670",
+        "isoDate": "2026-09-10T12:10:44.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41676",
+      "publishedAt": "2026-09-10T12:44:19.000Z",
+      "title": "[No Title] - Post from September 10, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41676",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41676",
+        "pubDate": "Thu, 10 Sep 2026 12:44:19 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41676",
+        "isoDate": "2026-09-10T12:44:19.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41675",
+      "publishedAt": "2026-09-10T12:44:37.000Z",
+      "title": "A Classic answer by Jared to a hostile, Trump Deranged Reporter. President DJT",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246804565502433</span>A Classic answer by Jared to a hostile, Trump Deranged Reporter. President DJT</p>\n\n[Image] A screenshot of a post by Brooke Goldstein, whose profile photo appears at the top. The post claims that Hamas embedded itself among civilians, exploited them as human shields, and that media coverage amplified its propaganda. It criticizes media questions directed at Jared Kushner over the Gaza catastrophe and praises his diplomatic response.",
+      "url": "https://www.trumpstruth.org/statuses/41675",
+      "raw": {
+        "creator": "",
+        "title": "A Classic answer by Jared to a hostile, Trump Deranged Reporter. President DJT",
+        "link": "https://www.trumpstruth.org/statuses/41675",
+        "pubDate": "Thu, 10 Sep 2026 12:44:37 +0000",
+        "author": "",
+        "content": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246804565502433</span>A Classic answer by Jared to a hostile, Trump Deranged Reporter. President DJT</p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246804565502433A Classic answer by Jared to a hostile, Trump Deranged Reporter. President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/41675",
+        "isoDate": "2026-09-10T12:44:37.000Z"
+      },
+      "imageDescribedAt": "2026-09-10T16:04:29.071Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18098/960a0c89dbe23bde-6e131a47202d.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41674",
+      "publishedAt": "2026-09-10T12:44:58.000Z",
+      "title": "[No Title] - Post from September 10, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41674",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41674",
+        "pubDate": "Thu, 10 Sep 2026 12:44:58 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41674",
+        "isoDate": "2026-09-10T12:44:58.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41673",
+      "publishedAt": "2026-09-10T12:45:10.000Z",
+      "title": "[No Title] - Post from September 10, 2026",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246807115442408</span></p>\n\n[Image] A screenshot of a post from the “Trump War Room” account, showing its profile name, handle @TrumpWarRoom, verification symbols, and interface icons. The post quotes @SecScottBessent, saying that more Americans are working than ever, the private sector has added over 1 million jobs, and U.S. manufacturing is rebounding rapidly.",
+      "url": "https://www.trumpstruth.org/statuses/41673",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41673",
+        "pubDate": "Thu, 10 Sep 2026 12:45:10 +0000",
+        "author": "",
+        "content": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246807115442408</span></p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246807115442408",
+        "guid": "https://www.trumpstruth.org/statuses/41673",
+        "isoDate": "2026-09-10T12:45:10.000Z"
+      },
+      "imageDescribedAt": "2026-09-10T16:04:25.569Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18096/7b4d3d4fcc985d52-05e0bdcce6ed.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41672",
+      "publishedAt": "2026-09-10T12:45:54.000Z",
+      "title": "[No Title] - Post from September 10, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41672",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41672",
+        "pubDate": "Thu, 10 Sep 2026 12:45:54 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41672",
+        "isoDate": "2026-09-10T12:45:54.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41671",
+      "publishedAt": "2026-09-10T12:46:08.000Z",
+      "title": "[No Title] - Post from September 10, 2026",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246810836573647</span></p>\n\n[Image] A screenshot of an X post by Eric Daugherty says “Rep. Brandon Gill breaks it down flawlessly at the RNC tonight.” It quotes Brandon Gill criticizing Democrats on race, Christianity, immigration, and national security, including a claim involving Abdulrahman Mohamed El Sayed. The post praises Gill as one of Congress’s greatest members and says he supports America, Christianity, and secure borders.",
+      "url": "https://www.trumpstruth.org/statuses/41671",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41671",
+        "pubDate": "Thu, 10 Sep 2026 12:46:08 +0000",
+        "author": "",
+        "content": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246810836573647</span></p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246810836573647",
+        "guid": "https://www.trumpstruth.org/statuses/41671",
+        "isoDate": "2026-09-10T12:46:08.000Z"
+      },
+      "imageDescribedAt": "2026-09-10T16:04:21.954Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18094/b5f455a43eae2f92-0f4ac8c6cd91.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41684",
+      "publishedAt": "2026-09-10T12:50:22.000Z",
+      "title": "[No Title] - Post from September 10, 2026",
+      "text": "[Image] A screenshot of a post from the “Trump War Room” account shows Donald Trump’s verified profile and a text statement praising a Republican Midterm Convention in Dallas. The post claims the event was sold out, drew large streaming numbers, exceeded NFL viewership, broke arena attendance records, and attracted thousands outside. It ends with “MAKE AMERICA GREAT AGAIN!!!” and is dated September 10, 2026.",
+      "url": "https://www.trumpstruth.org/statuses/41684",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41684",
+        "pubDate": "Thu, 10 Sep 2026 12:50:22 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41684",
+        "isoDate": "2026-09-10T12:50:22.000Z"
+      },
+      "imageDescribedAt": "2026-09-10T16:04:18.676Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18107/9a481d3381a6a779-c24118237932.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41683",
+      "publishedAt": "2026-09-10T12:51:09.000Z",
+      "title": "[No Title] - Post from September 10, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41683",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41683",
+        "pubDate": "Thu, 10 Sep 2026 12:51:09 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41683",
+        "isoDate": "2026-09-10T12:51:09.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41682",
+      "publishedAt": "2026-09-10T12:51:20.000Z",
+      "title": "[No Title] - Post from September 10, 2026",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246831473522530</span></p>\n\n[Image] A screenshot of a social-media post from the account “Trump War Room” (@TrumpWarRoom), featuring a profile image of Donald Trump wearing a red cap and suit. The post reads, “We will NEVER forget the great Charlie Kirk.” followed by a red heart emoji. The interface includes a verification badge and menu icons.",
+      "url": "https://www.trumpstruth.org/statuses/41682",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41682",
+        "pubDate": "Thu, 10 Sep 2026 12:51:20 +0000",
+        "author": "",
+        "content": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246831473522530</span></p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246831473522530",
+        "guid": "https://www.trumpstruth.org/statuses/41682",
+        "isoDate": "2026-09-10T12:51:20.000Z"
+      },
+      "imageDescribedAt": "2026-09-10T16:04:15.088Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18105/3a2b900eb63ba543-7bc91dfc3bfd.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41681",
+      "publishedAt": "2026-09-10T12:51:36.000Z",
+      "title": "[No Title] - Post from September 10, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41681",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41681",
+        "pubDate": "Thu, 10 Sep 2026 12:51:36 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41681",
+        "isoDate": "2026-09-10T12:51:36.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41680",
+      "publishedAt": "2026-09-10T12:51:45.000Z",
+      "title": "[No Title] - Post from September 10, 2026",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246833197264572</span></p>\n\n[Image] A screenshot of a post from the “Trump War Room” account, featuring a profile image of Donald Trump wearing a red cap and suit. The post states that Democrats voted against eliminating taxes on tips and overtime, accusing them of abandoning working Americans and warning they would do so again if returned to power.",
+      "url": "https://www.trumpstruth.org/statuses/41680",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41680",
+        "pubDate": "Thu, 10 Sep 2026 12:51:45 +0000",
+        "author": "",
+        "content": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246833197264572</span></p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246833197264572",
+        "guid": "https://www.trumpstruth.org/statuses/41680",
+        "isoDate": "2026-09-10T12:51:45.000Z"
+      },
+      "imageDescribedAt": "2026-09-10T16:04:12.016Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18103/c64f3b1d92a72cff-5ac30ef5fed5.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41679",
+      "publishedAt": "2026-09-10T12:52:22.000Z",
+      "title": "[No Title] - Post from September 10, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41679",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41679",
+        "pubDate": "Thu, 10 Sep 2026 12:52:22 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41679",
+        "isoDate": "2026-09-10T12:52:22.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41678",
+      "publishedAt": "2026-09-10T12:52:34.000Z",
+      "title": "[No Title] - Post from September 10, 2026",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246836238536386</span></p>\n\n[Image] A screenshot of a post from the “Trump War Room” account, showing a profile image of Donald Trump wearing a red cap and suit. The post states, “IF @REPUBLICANS WIN THE HOUSE AND SENATE, I WILL ISSUE A DIVIDEND OF $5,000 TO EVERY ADULT AMERICAN CITIZEN,” and tags @POTUS. A red alert emoji appears before the message.",
+      "url": "https://www.trumpstruth.org/statuses/41678",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41678",
+        "pubDate": "Thu, 10 Sep 2026 12:52:34 +0000",
+        "author": "",
+        "content": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246836238536386</span></p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246836238536386",
+        "guid": "https://www.trumpstruth.org/statuses/41678",
+        "isoDate": "2026-09-10T12:52:34.000Z"
+      },
+      "imageDescribedAt": "2026-09-10T16:04:09.035Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18101/59cc3a7f6a7726ff-f686e35a1d11.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41677",
+      "publishedAt": "2026-09-10T12:52:42.000Z",
+      "title": "[No Title] - Post from September 10, 2026",
+      "text": "[Image] A screenshot of a social-media post from the account “Trump War Room,” showing a small profile image of Donald Trump wearing a red cap and suit. The post reads “AMERICANS WANT VOTER ID!” It is timestamped 9:09 PM on Sep. 9, 2026, and shows 46.2K views.",
+      "url": "https://www.trumpstruth.org/statuses/41677",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41677",
+        "pubDate": "Thu, 10 Sep 2026 12:52:42 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41677",
+        "isoDate": "2026-09-10T12:52:42.000Z"
+      },
+      "imageDescribedAt": "2026-09-10T16:04:05.661Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18100/a0c89d2a2e09ef4f-8f66e66b3307.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41685",
+      "publishedAt": "2026-09-10T15:23:07.000Z",
+      "title": "[No Title] - Post from September 10, 2026",
+      "text": "<p><a href=\"https://www.instagram.com/reel/Dcl4n1RPUVn/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">instagram.com/reel/Dcl4n1RPUVn</span><span class=\"invisible\">/</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41685",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 10, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41685",
+        "pubDate": "Thu, 10 Sep 2026 15:23:07 +0000",
+        "author": "",
+        "content": "<p><a href=\"https://www.instagram.com/reel/Dcl4n1RPUVn/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">instagram.com/reel/Dcl4n1RPUVn</span><span class=\"invisible\">/</span></a></p>",
+        "contentSnippet": "https://www.instagram.com/reel/Dcl4n1RPUVn/",
+        "guid": "https://www.trumpstruth.org/statuses/41685",
+        "isoDate": "2026-09-10T15:23:07.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41686",
+      "publishedAt": "2026-09-10T15:48:08.000Z",
+      "title": "Last night at the Convention — A packed house! President DONALD J. TRUMP",
+      "text": "<p>Last night at the Convention — A packed house! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41686",
+      "raw": {
+        "creator": "",
+        "title": "Last night at the Convention — A packed house! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41686",
+        "pubDate": "Thu, 10 Sep 2026 15:48:08 +0000",
+        "author": "",
+        "content": "<p>Last night at the Convention — A packed house! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Last night at the Convention — A packed house! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41686",
+        "isoDate": "2026-09-10T15:48:08.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -86,16 +513,132 @@
       "label": "neutral",
       "rationale": "The post contains only a link with no discernible sentiment-bearing text.",
       "analyzedAt": "2026-09-10T12:04:59.781Z"
-    }
-  ],
-  "topicsCacheKey": "day-themes-v11:3:8d22be1ce81ef548caa7d767",
-  "selfPraiseCacheKey": "self-praise-v2:3:8d22be1ce81ef548caa7d767",
-  "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/41664"
-  ],
-  "secondaryHighlights": [
+    },
     {
-      "topic": "The Republican Midterm Convention last night, in Dallas, was a major, sold out hit, far bigger, better, and more important than anyone thought possible."
+      "postId": "https://www.trumpstruth.org/statuses/41666",
+      "label": "neutral",
+      "rationale": "Contains only a link with no explicit sentiment.",
+      "analyzedAt": "2026-09-10T16:04:43.678Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41667",
+      "label": "neutral",
+      "rationale": "Contains only a link with no explicit sentiment.",
+      "analyzedAt": "2026-09-10T16:04:43.678Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41668",
+      "label": "neutral",
+      "rationale": "Contains only a link with no explicit sentiment.",
+      "analyzedAt": "2026-09-10T16:04:43.678Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41669",
+      "label": "neutral",
+      "rationale": "Contains only a link with no explicit sentiment.",
+      "analyzedAt": "2026-09-10T16:04:43.678Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41670",
+      "label": "positive",
+      "rationale": "Reports a favorable court decision for Republicans regarding broadcast advertising rates.",
+      "analyzedAt": "2026-09-10T16:04:43.678Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41671",
+      "label": "positive",
+      "rationale": "Strongly praises Brandon Gill and his stated pro-America positions.",
+      "analyzedAt": "2026-09-10T16:04:43.678Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41672",
+      "label": "neutral",
+      "rationale": "Contains no substantive text or expressed sentiment.",
+      "analyzedAt": "2026-09-10T16:04:43.678Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41673",
+      "label": "positive",
+      "rationale": "Highlights job growth, private-sector employment, and a manufacturing rebound.",
+      "analyzedAt": "2026-09-10T16:04:43.678Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41674",
+      "label": "neutral",
+      "rationale": "Contains no substantive text or expressed sentiment.",
+      "analyzedAt": "2026-09-10T16:04:43.678Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41675",
+      "label": "negative",
+      "rationale": "Uses hostile language toward a reporter and criticizes media coverage and questioning.",
+      "analyzedAt": "2026-09-10T16:04:43.678Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41676",
+      "label": "neutral",
+      "rationale": "Contains no substantive text or expressed sentiment.",
+      "analyzedAt": "2026-09-10T16:04:43.678Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41677",
+      "label": "positive",
+      "rationale": "Expresses strong support for voter identification requirements.",
+      "analyzedAt": "2026-09-10T16:04:43.678Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41678",
+      "label": "positive",
+      "rationale": "Promotes a proposed $5,000 dividend for adult American citizens.",
+      "analyzedAt": "2026-09-10T16:04:43.678Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41679",
+      "label": "neutral",
+      "rationale": "Contains no substantive text or expressed sentiment.",
+      "analyzedAt": "2026-09-10T16:04:43.678Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41680",
+      "label": "negative",
+      "rationale": "Criticizes Democrats and accuses them of abandoning working Americans.",
+      "analyzedAt": "2026-09-10T16:04:43.678Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41681",
+      "label": "neutral",
+      "rationale": "Contains no substantive text or expressed sentiment.",
+      "analyzedAt": "2026-09-10T16:04:43.678Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41682",
+      "label": "positive",
+      "rationale": "Expresses heartfelt remembrance and appreciation for Charlie Kirk.",
+      "analyzedAt": "2026-09-10T16:04:43.678Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41683",
+      "label": "neutral",
+      "rationale": "Contains no substantive text or expressed sentiment.",
+      "analyzedAt": "2026-09-10T16:04:43.678Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41684",
+      "label": "positive",
+      "rationale": "Praises the Republican convention's attendance, viewership, and success.",
+      "analyzedAt": "2026-09-10T16:04:43.678Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41685",
+      "label": "neutral",
+      "rationale": "Contains only a link with no explicit sentiment.",
+      "analyzedAt": "2026-09-10T16:04:43.678Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41686",
+      "label": "positive",
+      "rationale": "Celebrates a packed convention house and highlights President Trump positively.",
+      "analyzedAt": "2026-09-10T16:04:43.678Z"
     }
   ]
 }
