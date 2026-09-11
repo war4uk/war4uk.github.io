@@ -258,7 +258,7 @@
       ],
       "postsCount": 24,
       "hasDetail": true,
-      "generatedAt": "2026-09-10T20:04:52.173Z",
+      "generatedAt": "2026-09-11T00:04:23.470Z",
       "trendingTopic": "Donald Trump promotes a sold-out Republican Midterm Convention in Dallas that reportedly surpassed NFL viewership",
       "secondaryHighlights": [
         {
@@ -269,9 +269,23 @@
         }
       ],
       "selfPraiseCount": 3
+    },
+    {
+      "date": "2026-09-11",
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "positive:0 neutral:0 negative:0",
+      "topics": [],
+      "postsCount": 0,
+      "hasDetail": true,
+      "generatedAt": "2026-09-11T00:04:25.809Z",
+      "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-10T20:04:52.173Z",
+  "generatedAt": "2026-09-11T00:04:25.809Z",
   "trendingTopic": "Trump backs Republican candidates and rallies voters ahead of the midterms",
   "secondaryHighlights": [
     {
