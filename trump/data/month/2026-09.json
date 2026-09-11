@@ -258,7 +258,7 @@
       ],
       "postsCount": 24,
       "hasDetail": true,
-      "generatedAt": "2026-09-11T00:04:23.470Z",
+      "generatedAt": "2026-09-11T04:04:18.849Z",
       "trendingTopic": "Donald Trump promotes a sold-out Republican Midterm Convention in Dallas that reportedly surpassed NFL viewership",
       "secondaryHighlights": [
         {
@@ -274,29 +274,29 @@
       "date": "2026-09-11",
       "counts": {
         "positive": 0,
-        "neutral": 0,
+        "neutral": 1,
         "negative": 0
       },
-      "summary": "positive:0 neutral:0 negative:0",
+      "summary": "positive:0 neutral:1 negative:0",
       "topics": [],
-      "postsCount": 0,
+      "postsCount": 1,
       "hasDetail": true,
-      "generatedAt": "2026-09-11T00:04:25.809Z",
+      "generatedAt": "2026-09-11T04:04:30.148Z",
       "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-11T00:04:25.809Z",
-  "trendingTopic": "Trump backs Republican candidates and rallies voters ahead of the midterms",
+  "generatedAt": "2026-09-11T04:04:30.148Z",
+  "trendingTopic": "Donald Trump campaigns for Republican candidates and headlines the Dallas convention",
   "secondaryHighlights": [
     {
-      "topic": "Trump promotes economic and trade policies on jobs, prices, tariffs, and Canada"
+      "topic": "Donald Trump promotes patriotic renaming of New Mexico and Lake Ontario"
     },
     {
-      "topic": "Trump escalates Iran war rhetoric over military strikes, oil, and the Strait of Hormuz"
+      "topic": "Donald Trump highlights a new White House ballroom, helipad, and futuristic military facilities"
     },
     {
-      "topic": "Trump pushes patriotic renaming and imagery for New Mexico"
+      "topic": "Donald Trump challenges New York cases and alleged FBI investigative misconduct"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:10:2076ecf031e1c73778673756"
+  "topicsCacheKey": "month-themes-v5:11:5c663c73b55a1c27af0c372c"
 }
