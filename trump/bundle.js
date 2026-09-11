@@ -981,6 +981,10 @@ function writeViewUrl(runtime, view, mode, day) {
     runtime.history.replaceState({ ...view, day }, "", url);
   }
 }
+function setDayDetailOpen(runtime, open) {
+  runtime.document.body.classList.toggle("day-detail-open", open);
+  runtime.document.documentElement.classList.toggle("day-detail-open", open);
+}
 function closeDayDetail(runtime, mode) {
   const root = runtime.document.getElementById("day-detail");
   if (root) {
@@ -988,7 +992,7 @@ function closeDayDetail(runtime, mode) {
     const body = runtime.document.getElementById("day-detail-body");
     if (body) body.innerHTML = "";
   }
-  runtime.document.body.classList.remove("day-detail-open");
+  setDayDetailOpen(runtime, false);
   activeDayDate = null;
   if (mode !== "none") {
     writeViewUrl(runtime, currentView(runtime), mode);
@@ -1028,7 +1032,7 @@ function renderDayDetail(runtime, summary) {
     </section>
   `;
   root.hidden = false;
-  runtime.document.body.classList.add("day-detail-open");
+  setDayDetailOpen(runtime, true);
   activeDayDate = summary.date;
   runtime.document.getElementById("day-detail-close")?.focus();
 }
@@ -1039,7 +1043,7 @@ async function openDayDetail(runtime, date, mode) {
   if (title) title.textContent = date;
   if (body) body.innerHTML = '<p class="day-detail-loading">Loading day\u2026</p>';
   root.hidden = false;
-  runtime.document.body.classList.add("day-detail-open");
+  setDayDetailOpen(runtime, true);
   activeDayDate = date;
   if (mode !== "none") writeViewUrl(runtime, currentView(runtime), mode, date);
   try {
