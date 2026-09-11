@@ -258,7 +258,7 @@
       ],
       "postsCount": 24,
       "hasDetail": true,
-      "generatedAt": "2026-09-11T16:02:25.740Z",
+      "generatedAt": "2026-09-11T20:04:57.347Z",
       "trendingTopic": "Donald Trump promotes a sold-out Republican Midterm Convention in Dallas that reportedly surpassed NFL viewership",
       "secondaryHighlights": [
         {
@@ -273,30 +273,38 @@
     {
       "date": "2026-09-11",
       "counts": {
-        "positive": 0,
-        "neutral": 1,
+        "positive": 1,
+        "neutral": 5,
         "negative": 0
       },
-      "summary": "positive:0 neutral:1 negative:0",
-      "topics": [],
-      "postsCount": 1,
+      "summary": "positive:1 neutral:5 negative:0",
+      "topics": [
+        "Promises $5,000 dividends for American adults while dismissing Democratic criticism"
+      ],
+      "postsCount": 6,
       "hasDetail": true,
-      "generatedAt": "2026-09-11T16:02:36.418Z",
-      "selfPraiseCount": 0
+      "generatedAt": "2026-09-11T20:05:15.739Z",
+      "trendingTopic": "Donald Trump promises $5,000 dividends for American adults, citing economic success despite Democratic criticism",
+      "secondaryHighlights": [
+        {
+          "topic": "The $5,000 Trump Dividend, given to all Adults in the United States due to the fact that our Country is taking in Trillions of Dollars of Economic Development, Investment, and Pure SUCCESS, is being criticized by “Dumocrats” who are hoping that it never happens — But it will!"
+        }
+      ],
+      "selfPraiseCount": 1
     }
   ],
-  "generatedAt": "2026-09-11T16:02:36.418Z",
-  "trendingTopic": "Donald Trump campaigns for Republican candidates and headlines the Dallas convention",
+  "generatedAt": "2026-09-11T20:05:15.739Z",
+  "trendingTopic": "Trump promotes lower prices, economic growth, tariffs, and trade reciprocity",
   "secondaryHighlights": [
     {
-      "topic": "Donald Trump promotes patriotic renaming of New Mexico and Lake Ontario"
+      "topic": "Trump pushes renaming New Mexico and Lake Ontario with American-themed names"
     },
     {
-      "topic": "Donald Trump highlights a new White House ballroom, helipad, and futuristic military facilities"
+      "topic": "Trump showcases a new White House ballroom, helipad, and military complex"
     },
     {
-      "topic": "Donald Trump challenges New York cases and alleged FBI investigative misconduct"
+      "topic": "Trump attacks legal and election rulings while alleging misconduct in Cohen and Flynn investigations"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:11:5c663c73b55a1c27af0c372c"
+  "topicsCacheKey": "month-themes-v5:11:0baab8a9e2cc709aadec745d"
 }

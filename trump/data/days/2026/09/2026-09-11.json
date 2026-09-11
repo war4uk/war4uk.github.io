@@ -1,16 +1,19 @@
 {
   "date": "2026-09-11",
   "counts": {
-    "positive": 0,
-    "neutral": 1,
+    "positive": 1,
+    "neutral": 5,
     "negative": 0
   },
-  "summary": "positive:0 neutral:1 negative:0",
-  "generatedAt": "2026-09-11T16:02:36.418Z",
-  "topics": [],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v11:1:cb2e3523f1bcf31c0dc9bd81",
-  "selfPraiseCacheKey": "self-praise-v2:1:cb2e3523f1bcf31c0dc9bd81",
+  "summary": "positive:1 neutral:5 negative:0",
+  "generatedAt": "2026-09-11T20:05:15.739Z",
+  "topics": [
+    "Promises $5,000 dividends for American adults while dismissing Democratic criticism"
+  ],
+  "trendingTopic": "Donald Trump promises $5,000 dividends for American adults, citing economic success despite Democratic criticism",
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v11:6:dfdd9dea656808e68018232e",
+  "selfPraiseCacheKey": "self-praise-v2:6:dfdd9dea656808e68018232e",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41687",
@@ -29,6 +32,96 @@
         "guid": "https://www.trumpstruth.org/statuses/41687",
         "isoDate": "2026-09-11T01:19:51.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41688",
+      "publishedAt": "2026-09-11T17:35:34.000Z",
+      "title": "[No Title] - Post from September 11, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41688",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 11, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41688",
+        "pubDate": "Fri, 11 Sep 2026 17:35:34 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41688",
+        "isoDate": "2026-09-11T17:35:34.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41689",
+      "publishedAt": "2026-09-11T17:39:50.000Z",
+      "title": "[No Title] - Post from September 11, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41689",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 11, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41689",
+        "pubDate": "Fri, 11 Sep 2026 17:39:50 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41689",
+        "isoDate": "2026-09-11T17:39:50.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41690",
+      "publishedAt": "2026-09-11T18:51:49.000Z",
+      "title": "[No Title] - Post from September 11, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41690",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 11, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41690",
+        "pubDate": "Fri, 11 Sep 2026 18:51:49 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41690",
+        "isoDate": "2026-09-11T18:51:49.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41692",
+      "publishedAt": "2026-09-11T19:08:41.000Z",
+      "title": "The $5,000 Trump Dividend, given to all Adults in the United States due to the fact that our Country is taking in Trillions of Dollars of Economic Development, Investment, and Pure SUCCESS, is being criticized by “Dumocrats” who are hoping that it never happens — But it will! As an example, the Dumocrats said THE GREAT BIG BEAUTIFUL BILL, one of the largest ever approved by Congress, or signed into Law by a President happened, despite the Dumocrats saying it would be impossible to get approved — Or the Gift of $1776 that I gave last year to our Military, was an almost guaranteed Non Starter, everyone said it could not be done, but it was, our Military Patriots got the money, and loved it. When I say something, I mean it! The $5,000 Dividend will happen because the People of our Country deserve it. VOTE REPUBLICAN — MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+      "text": "<p>The $5,000 Trump Dividend, given to all Adults in the United States due to the fact that our Country is taking in Trillions of Dollars of Economic Development, Investment, and Pure SUCCESS, is being criticized by “Dumocrats” who are hoping that it never happens — But it will! As an example, the Dumocrats said THE GREAT BIG BEAUTIFUL BILL, one of the largest ever approved by Congress, or signed into Law by a President happened, despite the Dumocrats saying it would be impossible to get approved — Or the Gift of $1776 that I gave last year to our Military, was an almost guaranteed Non Starter, everyone said it could not be done, but it was, our Military Patriots got the money, and loved it. When I say something, I mean it! The $5,000 Dividend will happen because the People of our Country deserve it. VOTE REPUBLICAN — MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41692",
+      "raw": {
+        "creator": "",
+        "title": "The $5,000 Trump Dividend, given to all Adults in the United States due to the fact that our Country is taking in Trillions of Dollars of Economic Development, Investment, and Pure SUCCESS, is being criticized by “Dumocrats” who are hoping that it never happens — But it will! As an example, the Dumocrats said THE GREAT BIG BEAUTIFUL BILL, one of the largest ever approved by Congress, or signed into Law by a President happened, despite the Dumocrats saying it would be impossible to get approved — Or the Gift of $1776 that I gave last year to our Military, was an almost guaranteed Non Starter, everyone said it could not be done, but it was, our Military Patriots got the money, and loved it. When I say something, I mean it! The $5,000 Dividend will happen because the People of our Country deserve it. VOTE REPUBLICAN — MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41692",
+        "pubDate": "Fri, 11 Sep 2026 19:08:41 +0000",
+        "author": "",
+        "content": "<p>The $5,000 Trump Dividend, given to all Adults in the United States due to the fact that our Country is taking in Trillions of Dollars of Economic Development, Investment, and Pure SUCCESS, is being criticized by “Dumocrats” who are hoping that it never happens — But it will! As an example, the Dumocrats said THE GREAT BIG BEAUTIFUL BILL, one of the largest ever approved by Congress, or signed into Law by a President happened, despite the Dumocrats saying it would be impossible to get approved — Or the Gift of $1776 that I gave last year to our Military, was an almost guaranteed Non Starter, everyone said it could not be done, but it was, our Military Patriots got the money, and loved it. When I say something, I mean it! The $5,000 Dividend will happen because the People of our Country deserve it. VOTE REPUBLICAN — MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "The $5,000 Trump Dividend, given to all Adults in the United States due to the fact that our Country is taking in Trillions of Dollars of Economic Development, Investment, and Pure SUCCESS, is being criticized by “Dumocrats” who are hoping that it never happens — But it will! As an example, the Dumocrats said THE GREAT BIG BEAUTIFUL BILL, one of the largest ever approved by Congress, or signed into Law by a President happened, despite the Dumocrats saying it would be impossible to get approved — Or the Gift of $1776 that I gave last year to our Military, was an almost guaranteed Non Starter, everyone said it could not be done, but it was, our Military Patriots got the money, and loved it. When I say something, I mean it! The $5,000 Dividend will happen because the People of our Country deserve it. VOTE REPUBLICAN — MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41692",
+        "isoDate": "2026-09-11T19:08:41.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41691",
+      "publishedAt": "2026-09-11T19:09:11.000Z",
+      "title": "[No Title] - Post from September 11, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41691",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 11, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41691",
+        "pubDate": "Fri, 11 Sep 2026 19:09:11 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41691",
+        "isoDate": "2026-09-11T19:09:11.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -37,6 +130,44 @@
       "label": "neutral",
       "rationale": "The text is empty and expresses no sentiment.",
       "analyzedAt": "2026-09-11T04:04:24.516Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41688",
+      "label": "neutral",
+      "rationale": "The text is empty and expresses no sentiment.",
+      "analyzedAt": "2026-09-11T20:05:06.565Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41689",
+      "label": "neutral",
+      "rationale": "The text is empty and expresses no sentiment.",
+      "analyzedAt": "2026-09-11T20:05:06.565Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41690",
+      "label": "neutral",
+      "rationale": "The text is empty and expresses no sentiment.",
+      "analyzedAt": "2026-09-11T20:05:06.565Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41691",
+      "label": "neutral",
+      "rationale": "The text is empty and expresses no sentiment.",
+      "analyzedAt": "2026-09-11T20:05:06.565Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41692",
+      "label": "positive",
+      "rationale": "The post expresses optimism and confidence about the proposed dividend, economic success, and Republican achievements, while using negative language toward Democrats.",
+      "analyzedAt": "2026-09-11T20:05:06.565Z"
+    }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41692"
+  ],
+  "secondaryHighlights": [
+    {
+      "topic": "The $5,000 Trump Dividend, given to all Adults in the United States due to the fact that our Country is taking in Trillions of Dollars of Economic Development, Investment, and Pure SUCCESS, is being criticized by “Dumocrats” who are hoping that it never happens — But it will!"
     }
   ]
 }
