@@ -1,27 +1,29 @@
 {
   "date": "2026-09-12",
   "counts": {
-    "positive": 1,
+    "positive": 2,
     "neutral": 2,
     "negative": 0
   },
-  "summary": "positive:1 neutral:2 negative:0",
-  "generatedAt": "2026-09-12T08:01:51.369Z",
+  "summary": "positive:2 neutral:2 negative:0",
+  "generatedAt": "2026-09-12T12:02:45.828Z",
   "topics": [
-    "Calls for Smithsonian to install an 11-foot George Washington statue and replace “Infinity” with a 30-foot colossus"
+    "Urges Smithsonian to install George Washington statues and mount a five-year exhibition",
+    "Shares images of ornate neoclassical architecture",
+    "Praises a golfer while lamenting having little time to play"
   ],
-  "trendingTopic": "Calls for Smithsonian to install Washington statues and replace “Infinity” ahead of his 300th birthday",
+  "trendingTopic": "Urges Smithsonian to install an 11-foot George Washington statue and plan a 30-foot replacement",
   "secondaryHighlights": [
     {
-      "topic": "[Image] Two adjacent views show ornate white neoclassical architecture in bright sunlight"
+      "topic": "Shares images of ornate neoclassical architecture"
     },
     {
-      "topic": "So, I’m asking for the Smithsonian to install the 11-foot Washington statue that was featured at the recent Freedom 250 Grand Prix Race in the Museum’s Flag Hall, and dedicate it this Constitution Day, September 17, 2026.Immediately design and display a five-year exhibition worthy of the Life, Sacrifice, and Contributions of George Washington.Then, as soon as it is ready, install a 30-foot Washington Colossus where “Infinity” stands today.Replace a sculpture that says nothing about America with the man who, more than anyone else, says everything about America.This is how we should begin to honor George Washington in the lead-up to his 300th birthday in 2032."
+      "topic": "Praises a golfer while lamenting having little time to play"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v11:3:274aa310d84a546f81ec4cf3",
-  "selfPraiseCacheKey": "self-praise-v2:3:274aa310d84a546f81ec4cf3",
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v11:4:d5da70c1a1c01e927b0cd700",
+  "selfPraiseCacheKey": "self-praise-v2:4:d5da70c1a1c01e927b0cd700",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41696",
@@ -84,6 +86,24 @@
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18117/4f8265ba2c7f16fe-f865bc36a0ac.jpg"
       ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41699",
+      "publishedAt": "2026-09-12T09:06:42.000Z",
+      "title": "Such a great golfer. Too bad I have very little time to play!!!",
+      "text": "<p>Such a great golfer. Too bad I have very little time to play!!!</p>",
+      "url": "https://www.trumpstruth.org/statuses/41699",
+      "raw": {
+        "creator": "",
+        "title": "Such a great golfer. Too bad I have very little time to play!!!",
+        "link": "https://www.trumpstruth.org/statuses/41699",
+        "pubDate": "Sat, 12 Sep 2026 09:06:42 +0000",
+        "author": "",
+        "content": "<p>Such a great golfer. Too bad I have very little time to play!!!</p>",
+        "contentSnippet": "Such a great golfer. Too bad I have very little time to play!!!",
+        "guid": "https://www.trumpstruth.org/statuses/41699",
+        "isoDate": "2026-09-12T09:06:42.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -104,6 +124,15 @@
       "label": "neutral",
       "rationale": "The post contains no text to convey sentiment.",
       "analyzedAt": "2026-09-12T04:03:44.909Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41699",
+      "label": "positive",
+      "rationale": "Expresses pride in being a great golfer, with mild regret about not having enough time to play.",
+      "analyzedAt": "2026-09-12T12:02:32.181Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41699"
   ]
 }

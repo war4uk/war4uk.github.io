@@ -284,7 +284,7 @@
       ],
       "postsCount": 8,
       "hasDetail": true,
-      "generatedAt": "2026-09-12T08:01:43.652Z",
+      "generatedAt": "2026-09-12T12:02:26.016Z",
       "trendingTopic": "Trump and Vance energize a packed Dallas Republican convention ahead of the midterm elections",
       "secondaryHighlights": [
         {
@@ -296,41 +296,40 @@
     {
       "date": "2026-09-12",
       "counts": {
-        "positive": 1,
+        "positive": 2,
         "neutral": 2,
         "negative": 0
       },
-      "summary": "positive:1 neutral:2 negative:0",
+      "summary": "positive:2 neutral:2 negative:0",
       "topics": [
-        "Calls for Smithsonian to install an 11-foot George Washington statue and replace “Infinity” with a 30-foot colossus"
+        "Urges Smithsonian to install George Washington statues and mount a five-year exhibition",
+        "Shares images of ornate neoclassical architecture",
+        "Praises a golfer while lamenting having little time to play"
       ],
-      "postsCount": 3,
+      "postsCount": 4,
       "hasDetail": true,
-      "generatedAt": "2026-09-12T08:01:51.369Z",
-      "trendingTopic": "Calls for Smithsonian to install Washington statues and replace “Infinity” ahead of his 300th birthday",
+      "generatedAt": "2026-09-12T12:02:45.828Z",
+      "trendingTopic": "Urges Smithsonian to install an 11-foot George Washington statue and plan a 30-foot replacement",
       "secondaryHighlights": [
         {
-          "topic": "[Image] Two adjacent views show ornate white neoclassical architecture in bright sunlight"
+          "topic": "Shares images of ornate neoclassical architecture"
         },
         {
-          "topic": "So, I’m asking for the Smithsonian to install the 11-foot Washington statue that was featured at the recent Freedom 250 Grand Prix Race in the Museum’s Flag Hall, and dedicate it this Constitution Day, September 17, 2026.Immediately design and display a five-year exhibition worthy of the Life, Sacrifice, and Contributions of George Washington.Then, as soon as it is ready, install a 30-foot Washington Colossus where “Infinity” stands today.Replace a sculpture that says nothing about America with the man who, more than anyone else, says everything about America.This is how we should begin to honor George Washington in the lead-up to his 300th birthday in 2032."
+          "topic": "Praises a golfer while lamenting having little time to play"
         }
       ],
-      "selfPraiseCount": 0
+      "selfPraiseCount": 1
     }
   ],
-  "generatedAt": "2026-09-12T08:01:51.369Z",
-  "trendingTopic": "Donald Trump drives the Republican midterm push with endorsements, primary wins, and Dallas convention appearances",
+  "generatedAt": "2026-09-12T12:02:45.828Z",
+  "trendingTopic": "Trump mobilizes Republican candidates and voters for the 2026 midterm elections",
   "secondaryHighlights": [
     {
-      "topic": "Trump escalates tariff and trade-reciprocity disputes with Canada and foreign partners"
+      "topic": "Trump expands monumental White House and Washington architecture plans"
     },
     {
-      "topic": "Trump amplifies claims of misconduct in the Cohen, Flynn, and New York investigations"
-    },
-    {
-      "topic": "Trump promotes new White House, military, and Washington monument projects"
+      "topic": "Trump pushes American-themed renamings for New Mexico and Lake Ontario"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:12:511bb0f65fd152cabeed0803"
+  "topicsCacheKey": "month-themes-v5:12:ee690145b0731d0e8d7480ab"
 }
