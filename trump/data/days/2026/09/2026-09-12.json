@@ -6,12 +6,22 @@
     "negative": 0
   },
   "summary": "positive:1 neutral:2 negative:0",
-  "generatedAt": "2026-09-12T04:03:53.282Z",
+  "generatedAt": "2026-09-12T08:01:51.369Z",
   "topics": [
     "Calls for Smithsonian to install an 11-foot George Washington statue and replace “Infinity” with a 30-foot colossus"
   ],
   "trendingTopic": "Calls for Smithsonian to install Washington statues and replace “Infinity” ahead of his 300th birthday",
+  "secondaryHighlights": [
+    {
+      "topic": "[Image] Two adjacent views show ornate white neoclassical architecture in bright sunlight"
+    },
+    {
+      "topic": "So, I’m asking for the Smithsonian to install the 11-foot Washington statue that was featured at the recent Freedom 250 Grand Prix Race in the Museum’s Flag Hall, and dedicate it this Constitution Day, September 17, 2026.Immediately design and display a five-year exhibition worthy of the Life, Sacrifice, and Contributions of George Washington.Then, as soon as it is ready, install a 30-foot Washington Colossus where “Infinity” stands today.Replace a sculpture that says nothing about America with the man who, more than anyone else, says everything about America.This is how we should begin to honor George Washington in the lead-up to his 300th birthday in 2032."
+    }
+  ],
   "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v11:3:274aa310d84a546f81ec4cf3",
+  "selfPraiseCacheKey": "self-praise-v2:3:274aa310d84a546f81ec4cf3",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41696",
@@ -57,7 +67,7 @@
       "id": "https://www.trumpstruth.org/statuses/41698",
       "publishedAt": "2026-09-12T03:53:25.000Z",
       "title": "[No Title] - Post from September 12, 2026",
-      "text": "<p></p>",
+      "text": "[Image] Two adjacent views show ornate white neoclassical architecture in bright sunlight. Tall fluted Corinthian columns are topped with elaborate capitals featuring curling volutes, layered acanthus leaves, and sculpted lion heads. Decorative friezes, moldings, balustrades, and floral reliefs extend across the façade, creating a highly detailed classical composition.",
       "url": "https://www.trumpstruth.org/statuses/41698",
       "raw": {
         "creator": "",
@@ -69,7 +79,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41698",
         "isoDate": "2026-09-12T03:53:25.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-12T08:01:51.010Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18117/4f8265ba2c7f16fe-f865bc36a0ac.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -90,13 +104,6 @@
       "label": "neutral",
       "rationale": "The post contains no text to convey sentiment.",
       "analyzedAt": "2026-09-12T04:03:44.909Z"
-    }
-  ],
-  "topicsCacheKey": "day-themes-v11:3:274aa310d84a546f81ec4cf3",
-  "selfPraiseCacheKey": "self-praise-v2:3:274aa310d84a546f81ec4cf3",
-  "secondaryHighlights": [
-    {
-      "topic": "So, I’m asking for the Smithsonian to install the 11-foot Washington statue that was featured at the recent Freedom 250 Grand Prix Race in the Museum’s Flag Hall, and dedicate it this Constitution Day, September 17, 2026.Immediately design and display a five-year exhibition worthy of the Life, Sacrifice, and Contributions of George Washington.Then, as soon as it is ready, install a 30-foot Washington Colossus where “Infinity” stands today.Replace a sculpture that says nothing about America with the man who, more than anyone else, says everything about America.This is how we should begin to honor George Washington in the lead-up to his 300th birthday in 2032."
     }
   ]
 }
