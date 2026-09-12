@@ -284,7 +284,7 @@
       ],
       "postsCount": 8,
       "hasDetail": true,
-      "generatedAt": "2026-09-12T00:01:02.023Z",
+      "generatedAt": "2026-09-12T04:03:33.228Z",
       "trendingTopic": "Trump and Vance energize a packed Dallas Republican convention ahead of the midterm elections",
       "secondaryHighlights": [
         {
@@ -296,30 +296,38 @@
     {
       "date": "2026-09-12",
       "counts": {
-        "positive": 0,
-        "neutral": 0,
+        "positive": 1,
+        "neutral": 2,
         "negative": 0
       },
-      "summary": "positive:0 neutral:0 negative:0",
-      "topics": [],
-      "postsCount": 0,
+      "summary": "positive:1 neutral:2 negative:0",
+      "topics": [
+        "Calls for Smithsonian to install an 11-foot George Washington statue and replace “Infinity” with a 30-foot colossus"
+      ],
+      "postsCount": 3,
       "hasDetail": true,
-      "generatedAt": "2026-09-12T00:00:49.541Z",
+      "generatedAt": "2026-09-12T04:03:53.282Z",
+      "trendingTopic": "Calls for Smithsonian to install Washington statues and replace “Infinity” ahead of his 300th birthday",
+      "secondaryHighlights": [
+        {
+          "topic": "So, I’m asking for the Smithsonian to install the 11-foot Washington statue that was featured at the recent Freedom 250 Grand Prix Race in the Museum’s Flag Hall, and dedicate it this Constitution Day, September 17, 2026.Immediately design and display a five-year exhibition worthy of the Life, Sacrifice, and Contributions of George Washington.Then, as soon as it is ready, install a 30-foot Washington Colossus where “Infinity” stands today.Replace a sculpture that says nothing about America with the man who, more than anyone else, says everything about America.This is how we should begin to honor George Washington in the lead-up to his 300th birthday in 2032."
+        }
+      ],
       "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-12T00:01:02.023Z",
-  "trendingTopic": "Trump portrays Iran as collapsing amid military operations, oil-export losses, and pressure on strategic sites",
+  "generatedAt": "2026-09-12T04:03:53.282Z",
+  "trendingTopic": "Donald Trump drives the Republican midterm push with endorsements, primary wins, and Dallas convention appearances",
   "secondaryHighlights": [
     {
-      "topic": "Trump pushes tariffs, trade reciprocity, and economic growth policies"
+      "topic": "Trump escalates tariff and trade-reciprocity disputes with Canada and foreign partners"
     },
     {
-      "topic": "Trump promotes renaming New Mexico and Lake Ontario with American-themed names"
+      "topic": "Trump amplifies claims of misconduct in the Cohen, Flynn, and New York investigations"
     },
     {
-      "topic": "Trump attacks investigations, legal cases, and election disputes involving political opponents"
+      "topic": "Trump promotes new White House, military, and Washington monument projects"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:11:67e16dc6b5f2d1a53927d422"
+  "topicsCacheKey": "month-themes-v5:12:511bb0f65fd152cabeed0803"
 }
