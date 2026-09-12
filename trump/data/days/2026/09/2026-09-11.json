@@ -1,19 +1,29 @@
 {
   "date": "2026-09-11",
   "counts": {
-    "positive": 1,
+    "positive": 3,
     "neutral": 5,
     "negative": 0
   },
-  "summary": "positive:1 neutral:5 negative:0",
-  "generatedAt": "2026-09-11T20:05:15.739Z",
+  "summary": "positive:3 neutral:5 negative:0",
+  "generatedAt": "2026-09-12T00:01:02.023Z",
   "topics": [
-    "Promises $5,000 dividends for American adults while dismissing Democratic criticism"
+    "Trump and Vance energize packed Dallas Republican midterm convention",
+    "Trump promises a $5,000 dividend for American adults"
   ],
-  "trendingTopic": "Donald Trump promises $5,000 dividends for American adults, citing economic success despite Democratic criticism",
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v11:6:dfdd9dea656808e68018232e",
-  "selfPraiseCacheKey": "self-praise-v2:6:dfdd9dea656808e68018232e",
+  "trendingTopic": "Trump and Vance energize a packed Dallas Republican convention ahead of the midterm elections",
+  "secondaryHighlights": [
+    {
+      "topic": "Trump promises a $5,000 dividend for American adults funded by economic gains"
+    }
+  ],
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:8:3d7b7753ce21336deae0aab3",
+  "selfPraiseCacheKey": "self-praise-v2:8:3d7b7753ce21336deae0aab3",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41692",
+    "https://www.trumpstruth.org/statuses/41694"
+  ],
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41687",
@@ -122,6 +132,42 @@
         "guid": "https://www.trumpstruth.org/statuses/41691",
         "isoDate": "2026-09-11T19:09:11.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41693",
+      "publishedAt": "2026-09-11T20:13:18.000Z",
+      "title": "‘Sold-out crowd’ in Dallas energized for midterms as Vance, Trump speak at Republican convention:",
+      "text": "<p>‘Sold-out crowd’ in Dallas energized for midterms as Vance, Trump speak at Republican convention: <a href=\"https://heartlandernews.com/sold-out-crowd-in-dallas-energized-for-midterms-as-vance-trump-speak-at-republican-convention/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">heartlandernews.com/sold-out-c</span><span class=\"invisible\">rowd-in-dallas-energized-for-midterms-as-vance-trump-speak-at-republican-convention/</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41693",
+      "raw": {
+        "creator": "",
+        "title": "‘Sold-out crowd’ in Dallas energized for midterms as Vance, Trump speak at Republican convention:",
+        "link": "https://www.trumpstruth.org/statuses/41693",
+        "pubDate": "Fri, 11 Sep 2026 20:13:18 +0000",
+        "author": "",
+        "content": "<p>‘Sold-out crowd’ in Dallas energized for midterms as Vance, Trump speak at Republican convention: <a href=\"https://heartlandernews.com/sold-out-crowd-in-dallas-energized-for-midterms-as-vance-trump-speak-at-republican-convention/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">heartlandernews.com/sold-out-c</span><span class=\"invisible\">rowd-in-dallas-energized-for-midterms-as-vance-trump-speak-at-republican-convention/</span></a></p>",
+        "contentSnippet": "‘Sold-out crowd’ in Dallas energized for midterms as Vance, Trump speak at Republican convention: https://heartlandernews.com/sold-out-crowd-in-dallas-energized-for-midterms-as-vance-trump-speak-at-republican-convention/",
+        "guid": "https://www.trumpstruth.org/statuses/41693",
+        "isoDate": "2026-09-11T20:13:18.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41694",
+      "publishedAt": "2026-09-11T20:40:32.000Z",
+      "title": "Capacity Crowd Goes Wild for Trump, Vance at Midterm Convention Closing:",
+      "text": "<p>Capacity Crowd Goes Wild for Trump, Vance at Midterm Convention Closing: <a href=\"https://www.breitbart.com/politics/2026/09/10/capacity-crowd-wild-trump-vance-midterm-convention-closing/amp/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/09</span><span class=\"invisible\">/10/capacity-crowd-wild-trump-vance-midterm-convention-closing/amp/</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41694",
+      "raw": {
+        "creator": "",
+        "title": "Capacity Crowd Goes Wild for Trump, Vance at Midterm Convention Closing:",
+        "link": "https://www.trumpstruth.org/statuses/41694",
+        "pubDate": "Fri, 11 Sep 2026 20:40:32 +0000",
+        "author": "",
+        "content": "<p>Capacity Crowd Goes Wild for Trump, Vance at Midterm Convention Closing: <a href=\"https://www.breitbart.com/politics/2026/09/10/capacity-crowd-wild-trump-vance-midterm-convention-closing/amp/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/09</span><span class=\"invisible\">/10/capacity-crowd-wild-trump-vance-midterm-convention-closing/amp/</span></a></p>",
+        "contentSnippet": "Capacity Crowd Goes Wild for Trump, Vance at Midterm Convention Closing: https://www.breitbart.com/politics/2026/09/10/capacity-crowd-wild-trump-vance-midterm-convention-closing/amp/",
+        "guid": "https://www.trumpstruth.org/statuses/41694",
+        "isoDate": "2026-09-11T20:40:32.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -160,14 +206,18 @@
       "label": "positive",
       "rationale": "The post expresses optimism and confidence about the proposed dividend, economic success, and Republican achievements, while using negative language toward Democrats.",
       "analyzedAt": "2026-09-11T20:05:06.565Z"
-    }
-  ],
-  "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/41692"
-  ],
-  "secondaryHighlights": [
+    },
     {
-      "topic": "The $5,000 Trump Dividend, given to all Adults in the United States due to the fact that our Country is taking in Trillions of Dollars of Economic Development, Investment, and Pure SUCCESS, is being criticized by “Dumocrats” who are hoping that it never happens — But it will!"
+      "postId": "https://www.trumpstruth.org/statuses/41693",
+      "label": "positive",
+      "rationale": "Describes a sold-out and energized crowd for Trump and Vance at the Republican convention.",
+      "analyzedAt": "2026-09-12T00:00:47.020Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41694",
+      "label": "positive",
+      "rationale": "Highlights an enthusiastic, capacity crowd supporting Trump and Vance at the convention.",
+      "analyzedAt": "2026-09-12T00:00:47.020Z"
     }
   ]
 }

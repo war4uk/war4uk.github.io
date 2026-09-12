@@ -273,38 +273,53 @@
     {
       "date": "2026-09-11",
       "counts": {
-        "positive": 1,
+        "positive": 3,
         "neutral": 5,
         "negative": 0
       },
-      "summary": "positive:1 neutral:5 negative:0",
+      "summary": "positive:3 neutral:5 negative:0",
       "topics": [
-        "Promises $5,000 dividends for American adults while dismissing Democratic criticism"
+        "Trump and Vance energize packed Dallas Republican midterm convention",
+        "Trump promises a $5,000 dividend for American adults"
       ],
-      "postsCount": 6,
+      "postsCount": 8,
       "hasDetail": true,
-      "generatedAt": "2026-09-11T20:05:15.739Z",
-      "trendingTopic": "Donald Trump promises $5,000 dividends for American adults, citing economic success despite Democratic criticism",
+      "generatedAt": "2026-09-12T00:01:02.023Z",
+      "trendingTopic": "Trump and Vance energize a packed Dallas Republican convention ahead of the midterm elections",
       "secondaryHighlights": [
         {
-          "topic": "The $5,000 Trump Dividend, given to all Adults in the United States due to the fact that our Country is taking in Trillions of Dollars of Economic Development, Investment, and Pure SUCCESS, is being criticized by “Dumocrats” who are hoping that it never happens — But it will!"
+          "topic": "Trump promises a $5,000 dividend for American adults funded by economic gains"
         }
       ],
-      "selfPraiseCount": 1
+      "selfPraiseCount": 2
+    },
+    {
+      "date": "2026-09-12",
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "positive:0 neutral:0 negative:0",
+      "topics": [],
+      "postsCount": 0,
+      "hasDetail": true,
+      "generatedAt": "2026-09-12T00:00:49.541Z",
+      "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-11T20:05:15.739Z",
-  "trendingTopic": "Trump promotes lower prices, economic growth, tariffs, and trade reciprocity",
+  "generatedAt": "2026-09-12T00:01:02.023Z",
+  "trendingTopic": "Trump portrays Iran as collapsing amid military operations, oil-export losses, and pressure on strategic sites",
   "secondaryHighlights": [
     {
-      "topic": "Trump pushes renaming New Mexico and Lake Ontario with American-themed names"
+      "topic": "Trump pushes tariffs, trade reciprocity, and economic growth policies"
     },
     {
-      "topic": "Trump showcases a new White House ballroom, helipad, and military complex"
+      "topic": "Trump promotes renaming New Mexico and Lake Ontario with American-themed names"
     },
     {
-      "topic": "Trump attacks legal and election rulings while alleging misconduct in Cohen and Flynn investigations"
+      "topic": "Trump attacks investigations, legal cases, and election disputes involving political opponents"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:11:0baab8a9e2cc709aadec745d"
+  "topicsCacheKey": "month-themes-v5:11:67e16dc6b5f2d1a53927d422"
 }
