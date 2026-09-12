@@ -881,10 +881,18 @@ function buildDayStoryBoard(input) {
 }
 
 // src/main.ts
+var MOBILE_CALENDAR_MQ = "(max-width: 40rem)";
 var activeDayDate = null;
 var loadGeneration = 0;
 var calendar = null;
 var lastFocusedCell = null;
+function mobileCalendarNewestFirst(win) {
+  return win?.matchMedia?.(MOBILE_CALENDAR_MQ).matches === true;
+}
+function daysForCalendarGrid(days, newestFirst) {
+  const sorted = [...days].sort((a, b) => String(a.date).localeCompare(String(b.date)));
+  return newestFirst ? sorted.reverse() : sorted;
+}
 function escapeHtml(value) {
   return value.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
@@ -1159,38 +1167,7 @@ async function loadMonth(runtime, view) {
     }
     if (emptyEl) emptyEl.hidden = true;
     grid.hidden = false;
-    days.forEach((d) => {
-      const triple = formatTriple(d.sentiments);
-      const gradient = sentimentGradient(d.sentiments);
-      const cls = gradient ? "sentiment-blend" : sentimentClass(d.sentiments);
-      const cell = runtime.document.createElement("div");
-      cell.className = `day ${cls}`;
-      if (gradient) cell.style.setProperty("--day-blend", gradient);
-      cell.dataset.date = d.date;
-      cell.tabIndex = 0;
-      cell.setAttribute("role", "button");
-      cell.setAttribute("aria-haspopup", "dialog");
-      const n = Number(d.selfPraiseCount) || 0;
-      const praiseLabel = n === 1 ? "self-praise" : "self-praises";
-      const topicPreview = runtime.document.createElement("div");
-      topicPreview.className = "topic-preview";
-      topicPreview.textContent = d.trendingTopic || (d.summary ? `Summary: ${d.summary}` : "Summary: unavailable");
-      cell.innerHTML = `<div class="self-praise"><div class="self-praise-count">${n}</div><div class="self-praise-label">${praiseLabel}</div></div><strong>${d.date}</strong><div class="day-line">Posts: ${d.postsCount}</div><div class="day-line">${triple}</div>`;
-      cell.appendChild(topicPreview);
-      cell.setAttribute("aria-label", `Open details for ${d.date}, ${n} ${praiseLabel}`);
-      const showDetail = () => {
-        lastFocusedCell = cell;
-        void openDayDetail(runtime, d.date, "push");
-      };
-      cell.addEventListener("click", showDetail);
-      cell.addEventListener("keydown", (event) => {
-        if (event.key === "Enter" || event.key === " ") {
-          event.preventDefault();
-          showDetail();
-        }
-      });
-      grid.appendChild(cell);
-    });
+    renderDayCells(runtime, days);
     const requestedDay = parseViewDay(runtime.location.search);
     if (requestedDay && days.some((d) => d.date === requestedDay)) {
       void openDayDetail(runtime, requestedDay, "none");
@@ -1203,6 +1180,53 @@ async function loadMonth(runtime, view) {
     logger.error("Failed to load month data", { error: e instanceof Error ? e.message : String(e) });
     renderMonthHighlights(runtime, view, { days: [] });
   }
+}
+function renderDayCells(runtime, days) {
+  const grid = runtime.document.getElementById("grid");
+  if (!grid) return;
+  grid.innerHTML = "";
+  const newestFirst = mobileCalendarNewestFirst(runtime.document.defaultView);
+  daysForCalendarGrid(days, newestFirst).forEach((d) => {
+    const triple = formatTriple(d.sentiments);
+    const gradient = sentimentGradient(d.sentiments);
+    const cls = gradient ? "sentiment-blend" : sentimentClass(d.sentiments);
+    const cell = runtime.document.createElement("div");
+    cell.className = `day ${cls}`;
+    if (gradient) cell.style.setProperty("--day-blend", gradient);
+    cell.dataset.date = d.date;
+    cell.tabIndex = 0;
+    cell.setAttribute("role", "button");
+    cell.setAttribute("aria-haspopup", "dialog");
+    const n = Number(d.selfPraiseCount) || 0;
+    const praiseLabel = n === 1 ? "self-praise" : "self-praises";
+    const topicPreview = runtime.document.createElement("div");
+    topicPreview.className = "topic-preview";
+    topicPreview.textContent = d.trendingTopic || (d.summary ? `Summary: ${d.summary}` : "Summary: unavailable");
+    cell.innerHTML = `<div class="self-praise"><div class="self-praise-count">${n}</div><div class="self-praise-label">${praiseLabel}</div></div><strong>${d.date}</strong><div class="day-line">Posts: ${d.postsCount}</div><div class="day-line">${triple}</div>`;
+    cell.appendChild(topicPreview);
+    cell.setAttribute("aria-label", `Open details for ${d.date}, ${n} ${praiseLabel}`);
+    const showDetail = () => {
+      lastFocusedCell = cell;
+      void openDayDetail(runtime, d.date, "push");
+    };
+    cell.addEventListener("click", showDetail);
+    cell.addEventListener("keydown", (event) => {
+      if (event.key === "Enter" || event.key === " ") {
+        event.preventDefault();
+        showDetail();
+      }
+    });
+    grid.appendChild(cell);
+  });
+}
+function watchMobileCalendarOrder(runtime) {
+  const mq = runtime.document.defaultView?.matchMedia?.(MOBILE_CALENDAR_MQ);
+  if (!mq) return;
+  const onChange = () => {
+    if (calendar?.days?.length) renderDayCells(runtime, calendar.days);
+  };
+  if (typeof mq.addEventListener === "function") mq.addEventListener("change", onChange);
+  else mq.addListener?.(onChange);
 }
 function goToMonth(runtime, view, mode) {
   if (mode !== "none") writeViewUrl(runtime, view, mode);
@@ -1256,6 +1280,7 @@ function initCalendar(runtime = defaultRuntime()) {
     const view = parseViewMonth(runtime.location.search, now());
     void goToMonth(runtime, view, "none");
   });
+  watchMobileCalendarOrder(runtime);
   void goToMonth(runtime, initial, "none");
   return calendar;
 }
@@ -1267,7 +1292,10 @@ if (!isJest && document.getElementById("grid")) {
   initCalendar();
 }
 export {
+  MOBILE_CALENDAR_MQ,
   bootstrap,
-  initCalendar
+  daysForCalendarGrid,
+  initCalendar,
+  mobileCalendarNewestFirst
 };
 //# sourceMappingURL=bundle.js.map
