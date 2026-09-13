@@ -1,24 +1,25 @@
 {
   "date": "2026-09-13",
   "counts": {
-    "positive": 0,
+    "positive": 1,
     "neutral": 0,
     "negative": 2
   },
-  "summary": "positive:0 neutral:0 negative:2",
-  "generatedAt": "2026-09-13T16:04:25.231Z",
+  "summary": "positive:1 neutral:0 negative:2",
+  "generatedAt": "2026-09-13T20:02:21.233Z",
   "topics": [
-    "Documents alleged vandalism and construction damage at Washington’s Reflecting Pool"
+    "Promotes the White House ballroom as a privately funded gift to the country",
+    "Highlights alleged damage to the Reflecting Pool"
   ],
-  "trendingTopic": "Documents alleged vandalism and construction damage at Washington’s Reflecting Pool",
+  "trendingTopic": "Trump promotes a privately funded White House ballroom as the greatest of its kind worldwide",
   "secondaryHighlights": [
     {
-      "topic": "[Image] A four-image collage documents damage at the Reflecting Pool"
+      "topic": "Highlights alleged damage to the Reflecting Pool"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v11:2:addbdb01729712ebd87d03f1",
-  "selfPraiseCacheKey": "self-praise-v2:2:addbdb01729712ebd87d03f1",
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v11:3:24245bea90aec16b59d553a1",
+  "selfPraiseCacheKey": "self-praise-v2:3:24245bea90aec16b59d553a1",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41701",
@@ -70,6 +71,28 @@
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18122/4d81615c1157406d-fc1a3e8b5c2a.jpg",
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18123/7b0efbbbee71078c-9cf78621282f.jpg"
       ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41702",
+      "publishedAt": "2026-09-13T19:32:43.000Z",
+      "title": "The Spectacular Ballroom being built at the White House. Will be the GREATEST of its kind anywhere in the World! Also, it is a Gift to the U.S.A. from me and other American Patriots — No Taxpayer Dollars will be expended in its Construction. President DJT",
+      "text": "<p>The Spectacular Ballroom being built at the White House. Will be the GREATEST of its kind anywhere in the World! Also, it is a Gift to the U.S.A. from me and other American Patriots — No Taxpayer Dollars will be expended in its Construction. President DJT</p>\n\n[Image] An architectural rendering shows a large neoclassical complex with a prominent columned façade, triangular pediment, ornate detailing, and rows of tall windows. A second stone building stands behind it on a raised lawn, where an American flag is visible. Black metal fencing, gates, paved walkways, trees, and broad green lawns surround the buildings under a partly cloudy blue sky.",
+      "url": "https://www.trumpstruth.org/statuses/41702",
+      "raw": {
+        "creator": "",
+        "title": "The Spectacular Ballroom being built at the White House. Will be the GREATEST of its kind anywhere in the World! Also, it is a Gift to the U.S.A. from me and other American Patriots — No Taxpayer Dollars will be expended in its Construction. President DJT",
+        "link": "https://www.trumpstruth.org/statuses/41702",
+        "pubDate": "Sun, 13 Sep 2026 19:32:43 +0000",
+        "author": "",
+        "content": "<p>The Spectacular Ballroom being built at the White House. Will be the GREATEST of its kind anywhere in the World! Also, it is a Gift to the U.S.A. from me and other American Patriots — No Taxpayer Dollars will be expended in its Construction. President DJT</p>",
+        "contentSnippet": "The Spectacular Ballroom being built at the White House. Will be the GREATEST of its kind anywhere in the World! Also, it is a Gift to the U.S.A. from me and other American Patriots — No Taxpayer Dollars will be expended in its Construction. President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/41702",
+        "isoDate": "2026-09-13T19:32:43.000Z"
+      },
+      "imageDescribedAt": "2026-09-13T20:02:05.072Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18124/ddee36fef0d04f32-0eae44b01d98.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -84,6 +107,15 @@
       "label": "negative",
       "rationale": "Focuses on physical damage to the Reflecting Pool, including peeling, cracking, spray paint, and torn coating.",
       "analyzedAt": "2026-09-13T12:01:41.326Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41702",
+      "label": "positive",
+      "rationale": "The post enthusiastically praises the planned ballroom as the greatest of its kind and frames it as a generous gift to the United States without taxpayer funding.",
+      "analyzedAt": "2026-09-13T20:02:07.058Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41702"
   ]
 }
