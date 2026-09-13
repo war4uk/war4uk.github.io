@@ -308,7 +308,7 @@
       ],
       "postsCount": 4,
       "hasDetail": true,
-      "generatedAt": "2026-09-13T08:01:06.091Z",
+      "generatedAt": "2026-09-13T12:01:25.427Z",
       "trendingTopic": "Urges Smithsonian to install an 11-foot George Washington statue and plan a 30-foot replacement",
       "secondaryHighlights": [
         {
@@ -325,25 +325,33 @@
       "counts": {
         "positive": 0,
         "neutral": 0,
-        "negative": 0
+        "negative": 2
       },
-      "summary": "positive:0 neutral:0 negative:0",
-      "topics": [],
-      "postsCount": 0,
+      "summary": "positive:0 neutral:0 negative:2",
+      "topics": [
+        "Documents alleged vandalism and construction damage at Washington’s Reflecting Pool"
+      ],
+      "postsCount": 2,
       "hasDetail": true,
-      "generatedAt": "2026-09-13T08:01:08.730Z",
+      "generatedAt": "2026-09-13T12:01:53.215Z",
+      "trendingTopic": "Documents alleged vandalism and construction damage at Washington’s Reflecting Pool",
+      "secondaryHighlights": [
+        {
+          "topic": "[Image] A four-image collage documents damage at the Reflecting Pool"
+        }
+      ],
       "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-13T08:01:08.730Z",
-  "trendingTopic": "Trump mobilizes Republican candidates and voters for the 2026 midterm elections",
+  "generatedAt": "2026-09-13T12:01:53.215Z",
+  "trendingTopic": "Donald Trump drives Republican candidates and Dallas convention activity ahead of the midterms",
   "secondaryHighlights": [
     {
-      "topic": "Trump expands monumental White House and Washington architecture plans"
+      "topic": "Promotes American-themed renaming, grand federal projects, and Washington monuments"
     },
     {
-      "topic": "Trump pushes American-themed renamings for New Mexico and Lake Ontario"
+      "topic": "Portrays Iran’s economy and military position as collapsing after U.S. operations"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:12:ee690145b0731d0e8d7480ab"
+  "topicsCacheKey": "month-themes-v5:13:57fcd3859a0c3cf5f8380fe0"
 }

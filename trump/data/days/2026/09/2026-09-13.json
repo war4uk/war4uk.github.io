@@ -3,12 +3,87 @@
   "counts": {
     "positive": 0,
     "neutral": 0,
-    "negative": 0
+    "negative": 2
   },
-  "summary": "positive:0 neutral:0 negative:0",
-  "generatedAt": "2026-09-13T08:01:08.730Z",
-  "topics": [],
+  "summary": "positive:0 neutral:0 negative:2",
+  "generatedAt": "2026-09-13T12:01:53.215Z",
+  "topics": [
+    "Documents alleged vandalism and construction damage at Washington’s Reflecting Pool"
+  ],
+  "trendingTopic": "Documents alleged vandalism and construction damage at Washington’s Reflecting Pool",
   "selfPraiseCount": 0,
-  "posts": [],
-  "sentiments": []
+  "posts": [
+    {
+      "id": "https://www.trumpstruth.org/statuses/41701",
+      "publishedAt": "2026-09-13T09:06:41.000Z",
+      "title": "[No Title] - Post from September 13, 2026",
+      "text": "[Image] A four-image collage documents damage at the Reflecting Pool. It shows peeling and cracked coating along the pool edge, dark spray-painted outlines and turquoise resurfacing on the basin, a highlighted passage describing a defendant allegedly tearing the blue coating, and an aerial view of the rectangular lawn and surrounding construction area. Trees, pathways, equipment, and workers’ materials are visible.",
+      "url": "https://www.trumpstruth.org/statuses/41701",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 13, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41701",
+        "pubDate": "Sun, 13 Sep 2026 09:06:41 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41701",
+        "isoDate": "2026-09-13T09:06:41.000Z"
+      },
+      "imageDescribedAt": "2026-09-13T12:01:38.182Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18120/afa6ade79a399e61-0ca60d6a112f.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18121/e5dfd80389a96b1e-2ccdcf4924a7.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18122/4d81615c1157406d-fc1a3e8b5c2a.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18123/7b0efbbbee71078c-9cf78621282f.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41700",
+      "publishedAt": "2026-09-13T09:06:55.000Z",
+      "title": "[No Title] - Post from September 13, 2026",
+      "text": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117262935739176527</span><a href=\"https://x.com/interiorpress47/status/2098824375214506096?s=46\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/interiorpress47/status/2</span><span class=\"invisible\">098824375214506096?s=46</span></a></p>\n\n[Image] A collage includes a U.S. Interior Press social-media post alleging vandalism at the 9/11 Reflecting Pool, including razor slashes, “8647” graffiti and damaged coating. Photos show peeling pool edging, black markings on the pool surface, a highlighted court-document excerpt, and an aerial view of a lawn with large discolored or marked areas.",
+      "url": "https://www.trumpstruth.org/statuses/41700",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 13, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41700",
+        "pubDate": "Sun, 13 Sep 2026 09:06:55 +0000",
+        "author": "",
+        "content": "<p><span class=\"quote-inline\"><br/>RT: https://truthsocial.com/users/realDonaldTrump/statuses/117262935739176527</span><a href=\"https://x.com/interiorpress47/status/2098824375214506096?s=46\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/interiorpress47/status/2</span><span class=\"invisible\">098824375214506096?s=46</span></a></p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117262935739176527https://x.com/interiorpress47/status/2098824375214506096?s=46",
+        "guid": "https://www.trumpstruth.org/statuses/41700",
+        "isoDate": "2026-09-13T09:06:55.000Z"
+      },
+      "imageDescribedAt": "2026-09-13T12:01:33.952Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18119/fd143c47e8e6c165-2d598d7d8e02.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18120/afa6ade79a399e61-0ca60d6a112f.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18121/e5dfd80389a96b1e-2ccdcf4924a7.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18122/4d81615c1157406d-fc1a3e8b5c2a.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18123/7b0efbbbee71078c-9cf78621282f.jpg"
+      ]
+    }
+  ],
+  "sentiments": [
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41700",
+      "label": "negative",
+      "rationale": "Describes alleged vandalism and damage at the 9/11 Reflecting Pool, including graffiti, razor slashes, and damaged coating.",
+      "analyzedAt": "2026-09-13T12:01:41.326Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41701",
+      "label": "negative",
+      "rationale": "Focuses on physical damage to the Reflecting Pool, including peeling, cracking, spray paint, and torn coating.",
+      "analyzedAt": "2026-09-13T12:01:41.326Z"
+    }
+  ],
+  "topicsCacheKey": "day-themes-v11:2:addbdb01729712ebd87d03f1",
+  "selfPraiseCacheKey": "self-praise-v2:2:addbdb01729712ebd87d03f1",
+  "secondaryHighlights": [
+    {
+      "topic": "[Image] A four-image collage documents damage at the Reflecting Pool"
+    }
+  ]
 }
