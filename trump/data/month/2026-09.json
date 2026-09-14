@@ -335,7 +335,7 @@
       ],
       "postsCount": 9,
       "hasDetail": true,
-      "generatedAt": "2026-09-14T16:02:01.325Z",
+      "generatedAt": "2026-09-14T20:01:46.404Z",
       "trendingTopic": "Promotes a privately funded White House ballroom as magnificent, on budget, and ahead of schedule",
       "secondaryHighlights": [
         {
@@ -353,43 +353,47 @@
     {
       "date": "2026-09-14",
       "counts": {
-        "positive": 4,
+        "positive": 7,
         "neutral": 2,
-        "negative": 1
+        "negative": 3
       },
-      "summary": "positive:4 neutral:2 negative:1",
+      "summary": "positive:7 neutral:2 negative:3",
       "topics": [
-        "Trump defends U.S. AI leadership and warns against restricting data-center expansion",
-        "Trump says Iran wants a quick deal as Tehran suffers wartime setbacks",
-        "Trump showcases renovations restoring the White House exterior and interior"
+        "Trump highlights Iran’s battlefield setbacks, possible negotiations, and continued U.S. military support in the Middle East",
+        "Trump defends U.S. AI leadership and rejects calls for restrictive regulation",
+        "Trump pledges a $5,000 dividend funded by economic investment and development"
       ],
-      "postsCount": 7,
+      "postsCount": 12,
       "hasDetail": true,
-      "generatedAt": "2026-09-14T16:02:31.772Z",
-      "trendingTopic": "Trump defends AI leadership and warns against restricting U.S. data-center expansion",
+      "generatedAt": "2026-09-14T20:02:20.610Z",
+      "trendingTopic": "Trump highlights Iran’s battlefield setbacks, possible negotiations, and continued U.S. military support in the Middle East",
       "secondaryHighlights": [
         {
-          "topic": "Trump says Iran wants a quick deal as Tehran suffers wartime setbacks"
+          "topic": "Trump showcases renovations restoring the White House’s deteriorating exterior"
         },
         {
-          "topic": "Trump showcases renovations restoring the White House exterior and interior"
+          "topic": "Trump congratulates Shane Lowry on winning at Trump International Golf Links Ireland",
+          "name": "Shane Lowry"
+        },
+        {
+          "topic": "Trump says Ukraine and Russia agreed to avoid striking energy targets"
         }
       ],
-      "selfPraiseCount": 2
+      "selfPraiseCount": 4
     }
   ],
-  "generatedAt": "2026-09-14T16:02:31.772Z",
-  "trendingTopic": "Trump portrays Iran as collapsing under military and economic pressure",
+  "generatedAt": "2026-09-14T20:02:20.610Z",
+  "trendingTopic": "Trump portrays Iran as collapsing under military and economic pressure while defending U.S. operations and possible talks",
   "secondaryHighlights": [
     {
-      "topic": "Trump pushes renaming New Mexico as New America"
+      "topic": "Trump endorses candidates and celebrates Republican primary victories"
     },
     {
-      "topic": "Trump promotes lower prices, jobs, tariffs, and U.S. economic growth"
+      "topic": "Trump promotes restoration and redesign of Washington landmarks"
     },
     {
-      "topic": "Trump defends U.S. AI leadership and data-center expansion"
+      "topic": "Trump attacks investigations involving Michael Cohen and Michael Flynn"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:14:f50d3c65af3c9128ad7556dc"
+  "topicsCacheKey": "month-themes-v5:14:c2d7ecca9fd6278be61fdb0e"
 }
