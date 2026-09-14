@@ -324,25 +324,28 @@
       "date": "2026-09-13",
       "counts": {
         "positive": 2,
-        "neutral": 3,
+        "neutral": 4,
         "negative": 3
       },
-      "summary": "positive:2 neutral:3 negative:3",
+      "summary": "positive:2 neutral:4 negative:3",
       "topics": [
-        "Trump showcases White House ballroom construction and renderings, promising no taxpayer funding",
-        "Reflecting Pool damage and alleged vandalism documented at the White House",
-        "Iran’s gasoline shortages worsen amid mounting economic pressure"
+        "Promotes a privately funded White House ballroom as magnificent, on budget, and ahead of schedule",
+        "Highlights alleged damage and vandalism at the Reflecting Pool",
+        "Shares report that Iranians are running out of gasoline amid economic pressure"
       ],
-      "postsCount": 8,
+      "postsCount": 9,
       "hasDetail": true,
-      "generatedAt": "2026-09-14T00:02:24.316Z",
-      "trendingTopic": "Trump showcases White House ballroom construction and renderings, promising no taxpayer funding",
+      "generatedAt": "2026-09-14T04:02:45.000Z",
+      "trendingTopic": "Promotes a privately funded White House ballroom as magnificent, on budget, and ahead of schedule",
       "secondaryHighlights": [
         {
-          "topic": "Reflecting Pool damage and alleged vandalism documented at the White House"
+          "topic": "Highlights alleged damage and vandalism at the Reflecting Pool"
         },
         {
-          "topic": "Iran’s gasoline shortages worsen amid mounting economic pressure"
+          "topic": "Shares report that Iranians are running out of gasoline amid economic pressure"
+        },
+        {
+          "topic": "Presents a DronePort concept overlooking Washington, D.C."
         }
       ],
       "selfPraiseCount": 2
@@ -350,30 +353,45 @@
     {
       "date": "2026-09-14",
       "counts": {
-        "positive": 0,
-        "neutral": 0,
+        "positive": 2,
+        "neutral": 1,
         "negative": 0
       },
-      "summary": "positive:0 neutral:0 negative:0",
-      "topics": [],
-      "postsCount": 0,
+      "summary": "positive:2 neutral:1 negative:0",
+      "topics": [
+        "Trump showcases before-and-after renovations, calling restoration essential to saving the White House",
+        "Trump congratulates Shane Lowry on winning at Trump International Golf Links in Ireland",
+        "Epoch Times article argues Iran is losing its war and suffering military and regional setbacks"
+      ],
+      "postsCount": 3,
       "hasDetail": true,
-      "generatedAt": "2026-09-14T00:02:08.140Z",
-      "selfPraiseCount": 0
+      "generatedAt": "2026-09-14T04:02:51.935Z",
+      "trendingTopic": "Trump showcases before-and-after renovations, calling restoration essential to saving the White House",
+      "secondaryHighlights": [
+        {
+          "topic": "Trump congratulates Shane Lowry on winning at Trump International Golf Links in Ireland",
+          "name": "Shane Lowry"
+        },
+        {
+          "topic": "Epoch Times article argues Iran is losing its war and suffering military and regional setbacks",
+          "name": "Mike Fredenburg"
+        }
+      ],
+      "selfPraiseCount": 1
     }
   ],
-  "generatedAt": "2026-09-14T00:02:24.316Z",
-  "trendingTopic": "Trump escalates Iran confrontation as he claims victory, control of the Strait of Hormuz, and Iran’s economic collapse",
+  "generatedAt": "2026-09-14T04:02:51.935Z",
+  "trendingTopic": "Donald Trump portrays Iran as collapsing amid military pressure, economic turmoil, and oil disruption",
   "secondaryHighlights": [
     {
-      "topic": "Pushes American-themed renaming of New Mexico and Lake Ontario"
+      "topic": "Donald Trump escalates trade pressure on Canada and attacks foreign trade practices"
     },
     {
-      "topic": "Targets foreign trade practices and Canadian products through reciprocal trade measures"
+      "topic": "Donald Trump promotes renaming New Mexico as “New America” through patriotic imagery"
     },
     {
-      "topic": "Calls for lower interest rates while touting jobs, tariffs, and economic growth"
+      "topic": "Donald Trump challenges New York cases and promotes alleged misconduct in FBI investigations"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:13:1a2802ef5b204afd09452f1b"
+  "topicsCacheKey": "month-themes-v5:14:fa6328aac0589441d013148e"
 }

@@ -1,14 +1,118 @@
 {
   "date": "2026-09-14",
   "counts": {
-    "positive": 0,
-    "neutral": 0,
+    "positive": 2,
+    "neutral": 1,
     "negative": 0
   },
-  "summary": "positive:0 neutral:0 negative:0",
-  "generatedAt": "2026-09-14T00:02:08.140Z",
-  "topics": [],
-  "selfPraiseCount": 0,
-  "posts": [],
-  "sentiments": []
+  "summary": "positive:2 neutral:1 negative:0",
+  "generatedAt": "2026-09-14T04:02:51.935Z",
+  "topics": [
+    "Trump showcases before-and-after renovations, calling restoration essential to saving the White House",
+    "Trump congratulates Shane Lowry on winning at Trump International Golf Links in Ireland",
+    "Epoch Times article argues Iran is losing its war and suffering military and regional setbacks"
+  ],
+  "trendingTopic": "Trump showcases before-and-after renovations, calling restoration essential to saving the White House",
+  "secondaryHighlights": [
+    {
+      "topic": "Trump congratulates Shane Lowry on winning at Trump International Golf Links in Ireland",
+      "name": "Shane Lowry"
+    },
+    {
+      "topic": "Epoch Times article argues Iran is losing its war and suffering military and regional setbacks",
+      "name": "Mike Fredenburg"
+    }
+  ],
+  "selfPraiseCount": 1,
+  "posts": [
+    {
+      "id": "https://www.trumpstruth.org/statuses/41709",
+      "publishedAt": "2026-09-14T00:33:45.000Z",
+      "title": "[No Title] - Post from September 14, 2026",
+      "text": "[Image] Two photographed pages from The Epoch Times Opinion section show an article titled “Iran Is Not Even Close to Winning the War,” by Mike Fredenburg. The first page features a large cityscape with smoke rising over Tehran, captioned as smoke from airstrikes on March 6, 2026. The continuation discusses Iran’s military, economic, and regional setbacks and U.S. strategy.",
+      "url": "https://www.trumpstruth.org/statuses/41709",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 14, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41709",
+        "pubDate": "Mon, 14 Sep 2026 00:33:45 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41709",
+        "isoDate": "2026-09-14T00:33:45.000Z"
+      },
+      "imageDescribedAt": "2026-09-14T04:02:15.580Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18132/d1d98f0787485283-505dd53bd79a.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18133/636a2ee0d3484b82-1d2f9920d566.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41710",
+      "publishedAt": "2026-09-14T00:50:04.000Z",
+      "title": "Congratulations to Shane Lowry on his GREAT Win at Trump International Golf Links, Ireland! It was a spectacular WIN by a spectacular person, and he will have many more. Shane is a Great Champion, and a fantastic person — A total WINNER! President DONALD J. TRUMP",
+      "text": "<p>Congratulations to Shane Lowry on his GREAT Win at Trump International Golf Links, Ireland! It was a spectacular WIN by a spectacular person, and he will have many more. Shane is a Great Champion, and a fantastic person — A total WINNER! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41710",
+      "raw": {
+        "creator": "",
+        "title": "Congratulations to Shane Lowry on his GREAT Win at Trump International Golf Links, Ireland! It was a spectacular WIN by a spectacular person, and he will have many more. Shane is a Great Champion, and a fantastic person — A total WINNER! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41710",
+        "pubDate": "Mon, 14 Sep 2026 00:50:04 +0000",
+        "author": "",
+        "content": "<p>Congratulations to Shane Lowry on his GREAT Win at Trump International Golf Links, Ireland! It was a spectacular WIN by a spectacular person, and he will have many more. Shane is a Great Champion, and a fantastic person — A total WINNER! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Congratulations to Shane Lowry on his GREAT Win at Trump International Golf Links, Ireland! It was a spectacular WIN by a spectacular person, and he will have many more. Shane is a Great Champion, and a fantastic person — A total WINNER! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41710",
+        "isoDate": "2026-09-14T00:50:04.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41711",
+      "publishedAt": "2026-09-14T01:03:56.000Z",
+      "title": "The White House was in very bad condition, both inside and out. Frankly, it was a “dump!” Past Presidents did not take care of it. I love renovating it during my spare time, which is not much. The Department of Interior, and various contractors, are doing a fantastic job. Attached are pictures of BEFORE and AFTER. The exterior “skin” of the Building was practically falling off! It is now in better shape than when built in 1792. Such an Honor to have the privilege of saving this Great Structure! More time without renovation would have destroyed our beloved White House! President DONALD J. TRUMP",
+      "text": "<p>The White House was in very bad condition, both inside and out. Frankly, it was a “dump!” Past Presidents did not take care of it. I love renovating it during my spare time, which is not much. The Department of Interior, and various contractors, are doing a fantastic job. Attached are pictures of BEFORE and AFTER. The exterior “skin” of the Building was practically falling off! It is now in better shape than when built in 1792. Such an Honor to have the privilege of saving this Great Structure! More time without renovation would have destroyed our beloved White House! President DONALD J. TRUMP</p>\n\n[Image] A three-image collage shows restoration work on large white architectural columns outside and inside a classical building. The first image compares a rough, textured column base labeled “BEFORE” with a smooth painted surface labeled “AFTER.” A uniformed security officer stands nearby, while tools, buckets, protective flooring, and steps are visible. The final image shows a tall column surrounded by scaffolding.",
+      "url": "https://www.trumpstruth.org/statuses/41711",
+      "raw": {
+        "creator": "",
+        "title": "The White House was in very bad condition, both inside and out. Frankly, it was a “dump!” Past Presidents did not take care of it. I love renovating it during my spare time, which is not much. The Department of Interior, and various contractors, are doing a fantastic job. Attached are pictures of BEFORE and AFTER. The exterior “skin” of the Building was practically falling off! It is now in better shape than when built in 1792. Such an Honor to have the privilege of saving this Great Structure! More time without renovation would have destroyed our beloved White House! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41711",
+        "pubDate": "Mon, 14 Sep 2026 01:03:56 +0000",
+        "author": "",
+        "content": "<p>The White House was in very bad condition, both inside and out. Frankly, it was a “dump!” Past Presidents did not take care of it. I love renovating it during my spare time, which is not much. The Department of Interior, and various contractors, are doing a fantastic job. Attached are pictures of BEFORE and AFTER. The exterior “skin” of the Building was practically falling off! It is now in better shape than when built in 1792. Such an Honor to have the privilege of saving this Great Structure! More time without renovation would have destroyed our beloved White House! President DONALD J. TRUMP</p>",
+        "contentSnippet": "The White House was in very bad condition, both inside and out. Frankly, it was a “dump!” Past Presidents did not take care of it. I love renovating it during my spare time, which is not much. The Department of Interior, and various contractors, are doing a fantastic job. Attached are pictures of BEFORE and AFTER. The exterior “skin” of the Building was practically falling off! It is now in better shape than when built in 1792. Such an Honor to have the privilege of saving this Great Structure! More time without renovation would have destroyed our beloved White House! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41711",
+        "isoDate": "2026-09-14T01:03:56.000Z"
+      },
+      "imageDescribedAt": "2026-09-14T04:02:11.504Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18135/70ad30b5d14c54b1-ea2277ad6e84.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18136/865031c0905375e4-9b925f1db550.jpg"
+      ]
+    }
+  ],
+  "sentiments": [
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41709",
+      "label": "neutral",
+      "rationale": "The content describes an opinion article about Iran's military and regional setbacks but does not itself clearly express a distinct personal sentiment.",
+      "analyzedAt": "2026-09-14T04:02:19.610Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41710",
+      "label": "positive",
+      "rationale": "The post enthusiastically congratulates Shane Lowry, praising his victory, character, and status as a champion.",
+      "analyzedAt": "2026-09-14T04:02:19.610Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41711",
+      "label": "positive",
+      "rationale": "The post expresses pride and satisfaction with the White House renovation, praising the contractors and describing the restored building in highly positive terms.",
+      "analyzedAt": "2026-09-14T04:02:19.610Z"
+    }
+  ],
+  "topicsCacheKey": "day-themes-v11:3:40bba3e07d06a2afa87a46e0",
+  "selfPraiseCacheKey": "self-praise-v2:3:40bba3e07d06a2afa87a46e0",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41711"
+  ]
 }

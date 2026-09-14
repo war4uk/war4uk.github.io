@@ -2,28 +2,31 @@
   "date": "2026-09-13",
   "counts": {
     "positive": 2,
-    "neutral": 3,
+    "neutral": 4,
     "negative": 3
   },
-  "summary": "positive:2 neutral:3 negative:3",
-  "generatedAt": "2026-09-14T00:02:24.316Z",
+  "summary": "positive:2 neutral:4 negative:3",
+  "generatedAt": "2026-09-14T04:02:45.000Z",
   "topics": [
-    "Trump showcases White House ballroom construction and renderings, promising no taxpayer funding",
-    "Reflecting Pool damage and alleged vandalism documented at the White House",
-    "Iran’s gasoline shortages worsen amid mounting economic pressure"
+    "Promotes a privately funded White House ballroom as magnificent, on budget, and ahead of schedule",
+    "Highlights alleged damage and vandalism at the Reflecting Pool",
+    "Shares report that Iranians are running out of gasoline amid economic pressure"
   ],
-  "trendingTopic": "Trump showcases White House ballroom construction and renderings, promising no taxpayer funding",
+  "trendingTopic": "Promotes a privately funded White House ballroom as magnificent, on budget, and ahead of schedule",
   "secondaryHighlights": [
     {
-      "topic": "Reflecting Pool damage and alleged vandalism documented at the White House"
+      "topic": "Highlights alleged damage and vandalism at the Reflecting Pool"
     },
     {
-      "topic": "Iran’s gasoline shortages worsen amid mounting economic pressure"
+      "topic": "Shares report that Iranians are running out of gasoline amid economic pressure"
+    },
+    {
+      "topic": "Presents a DronePort concept overlooking Washington, D.C."
     }
   ],
   "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v11:8:de2bc19aea139d889cc23992",
-  "selfPraiseCacheKey": "self-praise-v2:8:de2bc19aea139d889cc23992",
+  "topicsCacheKey": "day-themes-v11:9:c292556cd78453a47b65a192",
+  "selfPraiseCacheKey": "self-praise-v2:9:c292556cd78453a47b65a192",
   "selfPraisePostIds": [
     "https://www.trumpstruth.org/statuses/41702",
     "https://www.trumpstruth.org/statuses/41707"
@@ -201,6 +204,28 @@
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18129/508cdf7de37ba540-2545f0eb493c.jpg",
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18130/58931e3bb3e5fbed-2c57c866c980.jpg"
       ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41708",
+      "publishedAt": "2026-09-13T23:56:01.000Z",
+      "title": "[No Title] - Post from September 13, 2026",
+      "text": "[Image] A graphic labeled “DronePort” shows a nighttime Washington, D.C., skyline with the Washington Monument centered in the distance and fireworks overhead. In the foreground, a wet rooftop or helipad is arranged with multiple large drones, smaller aircraft, and uniformed figures, illuminated by red, blue, and white lights. An oval White House emblem appears at upper left.",
+      "url": "https://www.trumpstruth.org/statuses/41708",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 13, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41708",
+        "pubDate": "Sun, 13 Sep 2026 23:56:01 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41708",
+        "isoDate": "2026-09-13T23:56:01.000Z"
+      },
+      "imageDescribedAt": "2026-09-14T04:02:03.525Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18131/c8342302b6be9ccd-a15d39bc9a4e.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -251,6 +276,12 @@
       "label": "positive",
       "rationale": "Praises the new White House ballroom as magnificent, emphasizing that it is on budget and ahead of schedule.",
       "analyzedAt": "2026-09-14T00:02:05.737Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41708",
+      "label": "neutral",
+      "rationale": "The description presents a stylized nighttime scene featuring drones, uniformed figures, landmarks, and fireworks without explicit positive or negative sentiment.",
+      "analyzedAt": "2026-09-14T04:02:05.864Z"
     }
   ]
 }
