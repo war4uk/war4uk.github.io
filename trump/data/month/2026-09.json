@@ -323,36 +323,57 @@
     {
       "date": "2026-09-13",
       "counts": {
-        "positive": 1,
-        "neutral": 0,
-        "negative": 2
+        "positive": 2,
+        "neutral": 3,
+        "negative": 3
       },
-      "summary": "positive:1 neutral:0 negative:2",
+      "summary": "positive:2 neutral:3 negative:3",
       "topics": [
-        "Promotes the White House ballroom as a privately funded gift to the country",
-        "Highlights alleged damage to the Reflecting Pool"
+        "Trump showcases White House ballroom construction and renderings, promising no taxpayer funding",
+        "Reflecting Pool damage and alleged vandalism documented at the White House",
+        "Iran’s gasoline shortages worsen amid mounting economic pressure"
       ],
-      "postsCount": 3,
+      "postsCount": 8,
       "hasDetail": true,
-      "generatedAt": "2026-09-13T20:02:21.233Z",
-      "trendingTopic": "Trump promotes a privately funded White House ballroom as the greatest of its kind worldwide",
+      "generatedAt": "2026-09-14T00:02:24.316Z",
+      "trendingTopic": "Trump showcases White House ballroom construction and renderings, promising no taxpayer funding",
       "secondaryHighlights": [
         {
-          "topic": "Highlights alleged damage to the Reflecting Pool"
+          "topic": "Reflecting Pool damage and alleged vandalism documented at the White House"
+        },
+        {
+          "topic": "Iran’s gasoline shortages worsen amid mounting economic pressure"
         }
       ],
-      "selfPraiseCount": 1
-    }
-  ],
-  "generatedAt": "2026-09-13T20:02:21.233Z",
-  "trendingTopic": "Trump portrays Iran as collapsing while defending U.S. military operations and oil pressure",
-  "secondaryHighlights": [
-    {
-      "topic": "Trump endorses candidates and celebrates Republican primary victories"
+      "selfPraiseCount": 2
     },
     {
-      "topic": "Trump attacks New York legal cases involving Michael Cohen and Letitia James"
+      "date": "2026-09-14",
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "positive:0 neutral:0 negative:0",
+      "topics": [],
+      "postsCount": 0,
+      "hasDetail": true,
+      "generatedAt": "2026-09-14T00:02:08.140Z",
+      "selfPraiseCount": 0
     }
   ],
-  "topicsCacheKey": "month-themes-v5:13:46fc0018a159bb19e59eb7db"
+  "generatedAt": "2026-09-14T00:02:24.316Z",
+  "trendingTopic": "Trump escalates Iran confrontation as he claims victory, control of the Strait of Hormuz, and Iran’s economic collapse",
+  "secondaryHighlights": [
+    {
+      "topic": "Pushes American-themed renaming of New Mexico and Lake Ontario"
+    },
+    {
+      "topic": "Targets foreign trade practices and Canadian products through reciprocal trade measures"
+    },
+    {
+      "topic": "Calls for lower interest rates while touting jobs, tariffs, and economic growth"
+    }
+  ],
+  "topicsCacheKey": "month-themes-v5:13:1a2802ef5b204afd09452f1b"
 }

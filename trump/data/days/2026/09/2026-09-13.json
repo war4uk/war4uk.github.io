@@ -1,25 +1,33 @@
 {
   "date": "2026-09-13",
   "counts": {
-    "positive": 1,
-    "neutral": 0,
-    "negative": 2
+    "positive": 2,
+    "neutral": 3,
+    "negative": 3
   },
-  "summary": "positive:1 neutral:0 negative:2",
-  "generatedAt": "2026-09-13T20:02:21.233Z",
+  "summary": "positive:2 neutral:3 negative:3",
+  "generatedAt": "2026-09-14T00:02:24.316Z",
   "topics": [
-    "Promotes the White House ballroom as a privately funded gift to the country",
-    "Highlights alleged damage to the Reflecting Pool"
+    "Trump showcases White House ballroom construction and renderings, promising no taxpayer funding",
+    "Reflecting Pool damage and alleged vandalism documented at the White House",
+    "Iran’s gasoline shortages worsen amid mounting economic pressure"
   ],
-  "trendingTopic": "Trump promotes a privately funded White House ballroom as the greatest of its kind worldwide",
+  "trendingTopic": "Trump showcases White House ballroom construction and renderings, promising no taxpayer funding",
   "secondaryHighlights": [
     {
-      "topic": "Highlights alleged damage to the Reflecting Pool"
+      "topic": "Reflecting Pool damage and alleged vandalism documented at the White House"
+    },
+    {
+      "topic": "Iran’s gasoline shortages worsen amid mounting economic pressure"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v11:3:24245bea90aec16b59d553a1",
-  "selfPraiseCacheKey": "self-praise-v2:3:24245bea90aec16b59d553a1",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:8:de2bc19aea139d889cc23992",
+  "selfPraiseCacheKey": "self-praise-v2:8:de2bc19aea139d889cc23992",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41702",
+    "https://www.trumpstruth.org/statuses/41707"
+  ],
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41701",
@@ -93,6 +101,106 @@
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18124/ddee36fef0d04f32-0eae44b01d98.jpg"
       ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41703",
+      "publishedAt": "2026-09-13T22:06:16.000Z",
+      "title": "[No Title] - Post from September 13, 2026",
+      "text": "[Image] A detailed architectural rendering shows a grand white neoclassical building under a clear blue sky. The symmetrical façade features a triangular pediment, ornate friezes, tall Corinthian columns, arched windows, broad steps, and black wrought-iron fencing. Manicured lawns, paved walkways, and a roadway surround the building, with modern structures visible in the background.",
+      "url": "https://www.trumpstruth.org/statuses/41703",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 13, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41703",
+        "pubDate": "Sun, 13 Sep 2026 22:06:16 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41703",
+        "isoDate": "2026-09-13T22:06:16.000Z"
+      },
+      "imageDescribedAt": "2026-09-14T00:02:00.189Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18125/0be0a70a56b009f7-b00e606db895.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41704",
+      "publishedAt": "2026-09-13T22:43:20.000Z",
+      "title": "Iranians Are Running Out of Gas as Economic Squeeze Takes Hold:",
+      "text": "<p>Iranians Are Running Out of Gas as Economic Squeeze Takes Hold: <a href=\"https://www.wsj.com/world/middle-east/iranians-are-running-out-of-gas-as-economic-squeeze-takes-hold-67e38a7b\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/world/middle-east/iran</span><span class=\"invisible\">ians-are-running-out-of-gas-as-economic-squeeze-takes-hold-67e38a7b</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41704",
+      "raw": {
+        "creator": "",
+        "title": "Iranians Are Running Out of Gas as Economic Squeeze Takes Hold:",
+        "link": "https://www.trumpstruth.org/statuses/41704",
+        "pubDate": "Sun, 13 Sep 2026 22:43:20 +0000",
+        "author": "",
+        "content": "<p>Iranians Are Running Out of Gas as Economic Squeeze Takes Hold: <a href=\"https://www.wsj.com/world/middle-east/iranians-are-running-out-of-gas-as-economic-squeeze-takes-hold-67e38a7b\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/world/middle-east/iran</span><span class=\"invisible\">ians-are-running-out-of-gas-as-economic-squeeze-takes-hold-67e38a7b</span></a></p>",
+        "contentSnippet": "Iranians Are Running Out of Gas as Economic Squeeze Takes Hold: https://www.wsj.com/world/middle-east/iranians-are-running-out-of-gas-as-economic-squeeze-takes-hold-67e38a7b",
+        "guid": "https://www.trumpstruth.org/statuses/41704",
+        "isoDate": "2026-09-13T22:43:20.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41706",
+      "publishedAt": "2026-09-13T22:48:18.000Z",
+      "title": "[No Title] - Post from September 13, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41706",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 13, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41706",
+        "pubDate": "Sun, 13 Sep 2026 22:48:18 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41706",
+        "isoDate": "2026-09-13T22:48:18.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41705",
+      "publishedAt": "2026-09-13T22:49:29.000Z",
+      "title": "[No Title] - Post from September 13, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41705",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 13, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41705",
+        "pubDate": "Sun, 13 Sep 2026 22:49:29 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41705",
+        "isoDate": "2026-09-13T22:49:29.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41707",
+      "publishedAt": "2026-09-13T23:52:48.000Z",
+      "title": "First interior renderings of the magnificent new Ballroom at the White House. Massively expensive, but free of charge to the American Taxpayer — On budget, and ahead of schedule! President DONALD J. TRUMP",
+      "text": "<p>First interior renderings of the magnificent new Ballroom at the White House. Massively expensive, but free of charge to the American Taxpayer — On budget, and ahead of schedule! President DONALD J. TRUMP</p>\n\n[Image] Three views show an opulent palace interior with white-and-gold neoclassical decoration, ornate coffered ceilings, crystal chandeliers, tall arched windows, columns, gilded doors, and polished amber marble floors. Small groups of formally dressed people stand or walk through the expansive ballroom, corridors, and grand entrance hall.",
+      "url": "https://www.trumpstruth.org/statuses/41707",
+      "raw": {
+        "creator": "",
+        "title": "First interior renderings of the magnificent new Ballroom at the White House. Massively expensive, but free of charge to the American Taxpayer — On budget, and ahead of schedule! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41707",
+        "pubDate": "Sun, 13 Sep 2026 23:52:48 +0000",
+        "author": "",
+        "content": "<p>First interior renderings of the magnificent new Ballroom at the White House. Massively expensive, but free of charge to the American Taxpayer — On budget, and ahead of schedule! President DONALD J. TRUMP</p>",
+        "contentSnippet": "First interior renderings of the magnificent new Ballroom at the White House. Massively expensive, but free of charge to the American Taxpayer — On budget, and ahead of schedule! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41707",
+        "isoDate": "2026-09-13T23:52:48.000Z"
+      },
+      "imageDescribedAt": "2026-09-14T00:01:55.652Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18128/efd63abb6ac2b100-9729d3f87412.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18129/508cdf7de37ba540-2545f0eb493c.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18130/58931e3bb3e5fbed-2c57c866c980.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -113,9 +221,36 @@
       "label": "positive",
       "rationale": "The post enthusiastically praises the planned ballroom as the greatest of its kind and frames it as a generous gift to the United States without taxpayer funding.",
       "analyzedAt": "2026-09-13T20:02:07.058Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41703",
+      "label": "neutral",
+      "rationale": "The post consists of an architectural rendering without explicit evaluative or emotional language.",
+      "analyzedAt": "2026-09-14T00:02:05.737Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41704",
+      "label": "negative",
+      "rationale": "Reports that Iranians are running out of gas due to economic pressure, describing a worsening situation.",
+      "analyzedAt": "2026-09-14T00:02:05.737Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41705",
+      "label": "neutral",
+      "rationale": "The post contains no text or discernible sentiment.",
+      "analyzedAt": "2026-09-14T00:02:05.737Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41706",
+      "label": "neutral",
+      "rationale": "The post contains no text or discernible sentiment.",
+      "analyzedAt": "2026-09-14T00:02:05.737Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41707",
+      "label": "positive",
+      "rationale": "Praises the new White House ballroom as magnificent, emphasizing that it is on budget and ahead of schedule.",
+      "analyzedAt": "2026-09-14T00:02:05.737Z"
     }
-  ],
-  "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/41702"
   ]
 }
