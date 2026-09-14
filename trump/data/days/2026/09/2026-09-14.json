@@ -1,33 +1,32 @@
 {
   "date": "2026-09-14",
   "counts": {
-    "positive": 2,
-    "neutral": 1,
-    "negative": 0
+    "positive": 4,
+    "neutral": 2,
+    "negative": 1
   },
-  "summary": "positive:2 neutral:1 negative:0",
-  "generatedAt": "2026-09-14T12:04:35.667Z",
+  "summary": "positive:4 neutral:2 negative:1",
+  "generatedAt": "2026-09-14T16:02:31.772Z",
   "topics": [
-    "Trump showcases before-and-after renovations, calling restoration essential to saving the White House",
-    "Trump congratulates Shane Lowry on winning at Trump International Golf Links in Ireland",
-    "Epoch Times article argues Iran is losing its war and suffering military and regional setbacks"
+    "Trump defends U.S. AI leadership and warns against restricting data-center expansion",
+    "Trump says Iran wants a quick deal as Tehran suffers wartime setbacks",
+    "Trump showcases renovations restoring the White House exterior and interior"
   ],
-  "trendingTopic": "Trump showcases before-and-after renovations, calling restoration essential to saving the White House",
+  "trendingTopic": "Trump defends AI leadership and warns against restricting U.S. data-center expansion",
   "secondaryHighlights": [
     {
-      "topic": "Trump congratulates Shane Lowry on winning at Trump International Golf Links in Ireland",
-      "name": "Shane Lowry"
+      "topic": "Trump says Iran wants a quick deal as Tehran suffers wartime setbacks"
     },
     {
-      "topic": "Epoch Times article argues Iran is losing its war and suffering military and regional setbacks",
-      "name": "Mike Fredenburg"
+      "topic": "Trump showcases renovations restoring the White House exterior and interior"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v11:3:40bba3e07d06a2afa87a46e0",
-  "selfPraiseCacheKey": "self-praise-v2:3:40bba3e07d06a2afa87a46e0",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:7:7ec97ca03310f524e55868fc",
+  "selfPraiseCacheKey": "self-praise-v2:7:7ec97ca03310f524e55868fc",
   "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/41711"
+    "https://www.trumpstruth.org/statuses/41711",
+    "https://www.trumpstruth.org/statuses/41712"
   ],
   "posts": [
     {
@@ -93,6 +92,78 @@
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18135/70ad30b5d14c54b1-ea2277ad6e84.jpg",
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18136/865031c0905375e4-9b925f1db550.jpg"
       ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41712",
+      "publishedAt": "2026-09-14T13:58:24.000Z",
+      "title": "The only control or “guardrails” that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades! The Trump Administration has stopped AI “people” from doing bad, or potentially bad, “things,“ like Dario (Anthropic!), who is now pretending to be a “perfect little angel” - and we will continue to do so! We already have tremendous CRIMINAL and REGULATORY power over these companies! There is a SICK conspiracy going on against AI and Data Centers, and the only one that is happy about it is China. WHOEVER WINS AI, WINS! We are leading China, and all others, and will continue to do so. Conspiracy Theorists, Treasonists, Traitors, and Leakers, BEWARE! Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "text": "<p>The only control or “guardrails” that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades! The Trump Administration has stopped AI “people” from doing bad, or potentially bad, “things,“ like Dario (Anthropic!), who is now pretending to be a “perfect little angel” - and we will continue to do so! We already have tremendous CRIMINAL and REGULATORY power over these companies! There is a SICK conspiracy going on against AI and Data Centers, and the only one that is happy about it is China. WHOEVER WINS AI, WINS! We are leading China, and all others, and will continue to do so. Conspiracy Theorists, Treasonists, Traitors, and Leakers, BEWARE! Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41712",
+      "raw": {
+        "creator": "",
+        "title": "The only control or “guardrails” that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades! The Trump Administration has stopped AI “people” from doing bad, or potentially bad, “things,“ like Dario (Anthropic!), who is now pretending to be a “perfect little angel” - and we will continue to do so! We already have tremendous CRIMINAL and REGULATORY power over these companies! There is a SICK conspiracy going on against AI and Data Centers, and the only one that is happy about it is China. WHOEVER WINS AI, WINS! We are leading China, and all others, and will continue to do so. Conspiracy Theorists, Treasonists, Traitors, and Leakers, BEWARE! Thank you for your attention to this matter! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41712",
+        "pubDate": "Mon, 14 Sep 2026 13:58:24 +0000",
+        "author": "",
+        "content": "<p>The only control or “guardrails” that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades! The Trump Administration has stopped AI “people” from doing bad, or potentially bad, “things,“ like Dario (Anthropic!), who is now pretending to be a “perfect little angel” - and we will continue to do so! We already have tremendous CRIMINAL and REGULATORY power over these companies! There is a SICK conspiracy going on against AI and Data Centers, and the only one that is happy about it is China. WHOEVER WINS AI, WINS! We are leading China, and all others, and will continue to do so. Conspiracy Theorists, Treasonists, Traitors, and Leakers, BEWARE! Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+        "contentSnippet": "The only control or “guardrails” that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades! The Trump Administration has stopped AI “people” from doing bad, or potentially bad, “things,“ like Dario (Anthropic!), who is now pretending to be a “perfect little angel” - and we will continue to do so! We already have tremendous CRIMINAL and REGULATORY power over these companies! There is a SICK conspiracy going on against AI and Data Centers, and the only one that is happy about it is China. WHOEVER WINS AI, WINS! We are leading China, and all others, and will continue to do so. Conspiracy Theorists, Treasonists, Traitors, and Leakers, BEWARE! Thank you for your attention to this matter! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41712",
+        "isoDate": "2026-09-14T13:58:24.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41713",
+      "publishedAt": "2026-09-14T15:05:39.000Z",
+      "title": "Ukraine has agreed not to hit Russian Energy targets. Russia has agreed to do, likewise! The World’s Diesel price rise is mostly caused by the Russia/Ukraine War, not Iran. President DJT",
+      "text": "<p>Ukraine has agreed not to hit Russian Energy targets. Russia has agreed to do, likewise! The World’s Diesel price rise is mostly caused by the Russia/Ukraine War, not Iran. President DJT</p>",
+      "url": "https://www.trumpstruth.org/statuses/41713",
+      "raw": {
+        "creator": "",
+        "title": "Ukraine has agreed not to hit Russian Energy targets. Russia has agreed to do, likewise! The World’s Diesel price rise is mostly caused by the Russia/Ukraine War, not Iran. President DJT",
+        "link": "https://www.trumpstruth.org/statuses/41713",
+        "pubDate": "Mon, 14 Sep 2026 15:05:39 +0000",
+        "author": "",
+        "content": "<p>Ukraine has agreed not to hit Russian Energy targets. Russia has agreed to do, likewise! The World’s Diesel price rise is mostly caused by the Russia/Ukraine War, not Iran. President DJT</p>",
+        "contentSnippet": "Ukraine has agreed not to hit Russian Energy targets. Russia has agreed to do, likewise! The World’s Diesel price rise is mostly caused by the Russia/Ukraine War, not Iran. President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/41713",
+        "isoDate": "2026-09-14T15:05:39.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41714",
+      "publishedAt": "2026-09-14T15:23:02.000Z",
+      "title": "The only reason the AI/Data Center outburst is happening is because the United States is leading, by a lot, every other country. Don’t kill the Golden Goose! President DONALD J. TRUMP",
+      "text": "<p>The only reason the AI/Data Center outburst is happening is because the United States is leading, by a lot, every other country. Don’t kill the Golden Goose! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41714",
+      "raw": {
+        "creator": "",
+        "title": "The only reason the AI/Data Center outburst is happening is because the United States is leading, by a lot, every other country. Don’t kill the Golden Goose! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41714",
+        "pubDate": "Mon, 14 Sep 2026 15:23:02 +0000",
+        "author": "",
+        "content": "<p>The only reason the AI/Data Center outburst is happening is because the United States is leading, by a lot, every other country. Don’t kill the Golden Goose! President DONALD J. TRUMP</p>",
+        "contentSnippet": "The only reason the AI/Data Center outburst is happening is because the United States is leading, by a lot, every other country. Don’t kill the Golden Goose! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41714",
+        "isoDate": "2026-09-14T15:23:02.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41715",
+      "publishedAt": "2026-09-14T15:32:27.000Z",
+      "title": "The failing Nation of Iran wants to make a deal, quickly and badly. I will determine whether or not the U.S.A. will choose to engage - The concept of which we are open to. Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "text": "<p>The failing Nation of Iran wants to make a deal, quickly and badly. I will determine whether or not the U.S.A. will choose to engage - The concept of which we are open to. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41715",
+      "raw": {
+        "creator": "",
+        "title": "The failing Nation of Iran wants to make a deal, quickly and badly. I will determine whether or not the U.S.A. will choose to engage - The concept of which we are open to. Thank you for your attention to this matter! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41715",
+        "pubDate": "Mon, 14 Sep 2026 15:32:27 +0000",
+        "author": "",
+        "content": "<p>The failing Nation of Iran wants to make a deal, quickly and badly. I will determine whether or not the U.S.A. will choose to engage - The concept of which we are open to. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+        "contentSnippet": "The failing Nation of Iran wants to make a deal, quickly and badly. I will determine whether or not the U.S.A. will choose to engage - The concept of which we are open to. Thank you for your attention to this matter! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41715",
+        "isoDate": "2026-09-14T15:32:27.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -113,6 +184,30 @@
       "label": "positive",
       "rationale": "The post expresses pride and satisfaction with the White House renovation, praising the contractors and describing the restored building in highly positive terms.",
       "analyzedAt": "2026-09-14T04:02:19.610Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41712",
+      "label": "positive",
+      "rationale": "Strongly praises the president and U.S. leadership in AI, though it also contains hostile accusations and warnings toward opponents.",
+      "analyzedAt": "2026-09-14T16:02:11.245Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41713",
+      "label": "neutral",
+      "rationale": "Primarily reports agreements and attributes diesel price increases to the Russia-Ukraine war.",
+      "analyzedAt": "2026-09-14T16:02:11.245Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41714",
+      "label": "positive",
+      "rationale": "Praises U.S. leadership in AI and data centers while encouraging protection of that advantage.",
+      "analyzedAt": "2026-09-14T16:02:11.245Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41715",
+      "label": "negative",
+      "rationale": "Uses disparaging language toward Iran, calling it a failing nation, despite expressing openness to negotiations.",
+      "analyzedAt": "2026-09-14T16:02:11.245Z"
     }
   ]
 }

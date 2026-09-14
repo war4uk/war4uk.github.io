@@ -335,7 +335,7 @@
       ],
       "postsCount": 9,
       "hasDetail": true,
-      "generatedAt": "2026-09-14T12:04:32.926Z",
+      "generatedAt": "2026-09-14T16:02:01.325Z",
       "trendingTopic": "Promotes a privately funded White House ballroom as magnificent, on budget, and ahead of schedule",
       "secondaryHighlights": [
         {
@@ -353,45 +353,43 @@
     {
       "date": "2026-09-14",
       "counts": {
-        "positive": 2,
-        "neutral": 1,
-        "negative": 0
+        "positive": 4,
+        "neutral": 2,
+        "negative": 1
       },
-      "summary": "positive:2 neutral:1 negative:0",
+      "summary": "positive:4 neutral:2 negative:1",
       "topics": [
-        "Trump showcases before-and-after renovations, calling restoration essential to saving the White House",
-        "Trump congratulates Shane Lowry on winning at Trump International Golf Links in Ireland",
-        "Epoch Times article argues Iran is losing its war and suffering military and regional setbacks"
+        "Trump defends U.S. AI leadership and warns against restricting data-center expansion",
+        "Trump says Iran wants a quick deal as Tehran suffers wartime setbacks",
+        "Trump showcases renovations restoring the White House exterior and interior"
       ],
-      "postsCount": 3,
+      "postsCount": 7,
       "hasDetail": true,
-      "generatedAt": "2026-09-14T12:04:35.667Z",
-      "trendingTopic": "Trump showcases before-and-after renovations, calling restoration essential to saving the White House",
+      "generatedAt": "2026-09-14T16:02:31.772Z",
+      "trendingTopic": "Trump defends AI leadership and warns against restricting U.S. data-center expansion",
       "secondaryHighlights": [
         {
-          "topic": "Trump congratulates Shane Lowry on winning at Trump International Golf Links in Ireland",
-          "name": "Shane Lowry"
+          "topic": "Trump says Iran wants a quick deal as Tehran suffers wartime setbacks"
         },
         {
-          "topic": "Epoch Times article argues Iran is losing its war and suffering military and regional setbacks",
-          "name": "Mike Fredenburg"
+          "topic": "Trump showcases renovations restoring the White House exterior and interior"
         }
       ],
-      "selfPraiseCount": 1
+      "selfPraiseCount": 2
     }
   ],
-  "generatedAt": "2026-09-14T12:04:35.667Z",
-  "trendingTopic": "Donald Trump portrays Iran as collapsing amid military pressure, economic turmoil, and oil disruption",
+  "generatedAt": "2026-09-14T16:02:31.772Z",
+  "trendingTopic": "Trump portrays Iran as collapsing under military and economic pressure",
   "secondaryHighlights": [
     {
-      "topic": "Donald Trump escalates trade pressure on Canada and attacks foreign trade practices"
+      "topic": "Trump pushes renaming New Mexico as New America"
     },
     {
-      "topic": "Donald Trump promotes renaming New Mexico as “New America” through patriotic imagery"
+      "topic": "Trump promotes lower prices, jobs, tariffs, and U.S. economic growth"
     },
     {
-      "topic": "Donald Trump challenges New York cases and promotes alleged misconduct in FBI investigations"
+      "topic": "Trump defends U.S. AI leadership and data-center expansion"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:14:fa6328aac0589441d013148e"
+  "topicsCacheKey": "month-themes-v5:14:f50d3c65af3c9128ad7556dc"
 }
