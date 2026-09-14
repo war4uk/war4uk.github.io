@@ -6,7 +6,7 @@
     "negative": 0
   },
   "summary": "positive:2 neutral:1 negative:0",
-  "generatedAt": "2026-09-14T04:02:51.935Z",
+  "generatedAt": "2026-09-14T08:02:08.544Z",
   "topics": [
     "Trump showcases before-and-after renovations, calling restoration essential to saving the White House",
     "Trump congratulates Shane Lowry on winning at Trump International Golf Links in Ireland",
@@ -24,6 +24,11 @@
     }
   ],
   "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v11:3:40bba3e07d06a2afa87a46e0",
+  "selfPraiseCacheKey": "self-praise-v2:3:40bba3e07d06a2afa87a46e0",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41711"
+  ],
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41709",
@@ -109,10 +114,5 @@
       "rationale": "The post expresses pride and satisfaction with the White House renovation, praising the contractors and describing the restored building in highly positive terms.",
       "analyzedAt": "2026-09-14T04:02:19.610Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v11:3:40bba3e07d06a2afa87a46e0",
-  "selfPraiseCacheKey": "self-praise-v2:3:40bba3e07d06a2afa87a46e0",
-  "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/41711"
   ]
 }
