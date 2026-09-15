@@ -365,7 +365,7 @@
       ],
       "postsCount": 20,
       "hasDetail": true,
-      "generatedAt": "2026-09-15T12:04:22.388Z",
+      "generatedAt": "2026-09-15T16:02:52.294Z",
       "trendingTopic": "Trump rejects AI takeover warnings as hoaxes and vows to expand U.S. data-center leadership",
       "secondaryHighlights": [
         {
@@ -382,37 +382,38 @@
       "counts": {
         "positive": 4,
         "neutral": 5,
-        "negative": 2
+        "negative": 4
       },
-      "summary": "positive:4 neutral:5 negative:2",
+      "summary": "positive:4 neutral:5 negative:4",
       "topics": [
-        "Promises $5,000 payments to adult citizens if Republicans win Congress",
-        "Reports National Weather Service maps changing Lake Ontario to Lake America"
+        "Trump claims new evidence shows the FBI mishandled the Butler assassination attempt",
+        "Trump warns the Kennedy Center is unsafe and seeks authority to restore it",
+        "Trump promises $5,000 payments to adult citizens if Republicans win Congress"
       ],
-      "postsCount": 11,
+      "postsCount": 13,
       "hasDetail": true,
-      "generatedAt": "2026-09-15T12:04:26.426Z",
-      "trendingTopic": "Promises $5,000 payments to adult citizens if Republicans win the House and Senate",
+      "generatedAt": "2026-09-15T16:03:18.250Z",
+      "trendingTopic": "Trump claims new evidence shows the FBI mishandled the Butler assassination attempt",
       "secondaryHighlights": [
         {
-          "topic": "Reports National Weather Service maps changing Lake Ontario to Lake America"
+          "topic": "Trump warns the Kennedy Center is unsafe and seeks authority to restore it"
+        },
+        {
+          "topic": "Trump promises $5,000 payments to adult citizens if Republicans win Congress"
         }
       ],
-      "selfPraiseCount": 1
+      "selfPraiseCount": 2
     }
   ],
-  "generatedAt": "2026-09-15T12:04:26.426Z",
-  "trendingTopic": "Escalates and defends the Iran conflict while portraying the country as collapsing and pressuring its oil supply",
+  "generatedAt": "2026-09-15T16:03:18.250Z",
+  "trendingTopic": "Trump portrays Iran as collapsing under military, oil, and currency pressure",
   "secondaryHighlights": [
     {
-      "topic": "Promotes Republican candidates, rallies, and the Dallas midterm convention"
+      "topic": "Trump backs Republican candidates and headlines the Dallas midterm convention"
     },
     {
-      "topic": "Showcases White House renovations, a ballroom, heliports, and monumental architecture"
-    },
-    {
-      "topic": "Promises $5,000 payments to adults if Republicans win Congress"
+      "topic": "Trump promotes a White House ballroom, helipad, and major renovations"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:15:8f696530cecf9614e9ca6ba2"
+  "topicsCacheKey": "month-themes-v5:15:3c75720f944b1e0e8475d633"
 }
