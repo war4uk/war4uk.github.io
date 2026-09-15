@@ -365,7 +365,7 @@
       ],
       "postsCount": 20,
       "hasDetail": true,
-      "generatedAt": "2026-09-15T16:02:52.294Z",
+      "generatedAt": "2026-09-15T20:04:31.421Z",
       "trendingTopic": "Trump rejects AI takeover warnings as hoaxes and vows to expand U.S. data-center leadership",
       "secondaryHighlights": [
         {
@@ -380,40 +380,48 @@
     {
       "date": "2026-09-15",
       "counts": {
-        "positive": 4,
-        "neutral": 5,
+        "positive": 6,
+        "neutral": 7,
         "negative": 4
       },
-      "summary": "positive:4 neutral:5 negative:4",
+      "summary": "positive:6 neutral:7 negative:4",
       "topics": [
-        "Trump claims new evidence shows the FBI mishandled the Butler assassination attempt",
-        "Trump warns the Kennedy Center is unsafe and seeks authority to restore it",
+        "Kennedy Center board votes to close building immediately for safety and reconstruction",
+        "Trump says Biden’s FBI concealed or corrupted evidence from the Butler assassination attempt",
         "Trump promises $5,000 payments to adult citizens if Republicans win Congress"
       ],
-      "postsCount": 13,
+      "postsCount": 17,
       "hasDetail": true,
-      "generatedAt": "2026-09-15T16:03:18.250Z",
-      "trendingTopic": "Trump claims new evidence shows the FBI mishandled the Butler assassination attempt",
+      "generatedAt": "2026-09-15T20:05:17.952Z",
+      "trendingTopic": "Kennedy Center board votes to close the building immediately for safety and reconstruction",
       "secondaryHighlights": [
         {
-          "topic": "Trump warns the Kennedy Center is unsafe and seeks authority to restore it"
+          "topic": "National Weather Service reportedly changes Lake Ontario maps and forecasts to Lake America"
         },
         {
-          "topic": "Trump promises $5,000 payments to adult citizens if Republicans win Congress"
+          "topic": "Trump promotes Brian Pannebecker’s book about blue-collar conservatism and American industry",
+          "name": "Brian Pannebecker"
+        },
+        {
+          "topic": "Trump promotes Charles Payne’s book about stock-market windfalls and financial success",
+          "name": "Charles Payne"
         }
       ],
-      "selfPraiseCount": 2
+      "selfPraiseCount": 3
     }
   ],
-  "generatedAt": "2026-09-15T16:03:18.250Z",
-  "trendingTopic": "Trump portrays Iran as collapsing under military, oil, and currency pressure",
+  "generatedAt": "2026-09-15T20:05:17.952Z",
+  "trendingTopic": "Trump portrays Iran as collapsing amid war, oil pressure, and possible negotiations",
   "secondaryHighlights": [
     {
-      "topic": "Trump backs Republican candidates and headlines the Dallas midterm convention"
+      "topic": "Trump drives Republican midterm endorsements, rallies, and convention campaigning"
     },
     {
-      "topic": "Trump promotes a White House ballroom, helipad, and major renovations"
+      "topic": "Trump promotes White House renovations, patriotic place renamings, and Washington monuments"
+    },
+    {
+      "topic": "Trump advances economic and trade claims on jobs, tariffs, interest rates, and foreign practices"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:15:3c75720f944b1e0e8475d633"
+  "topicsCacheKey": "month-themes-v5:15:c3a34e70668131bbda483faa"
 }

@@ -1,32 +1,38 @@
 {
   "date": "2026-09-15",
   "counts": {
-    "positive": 4,
-    "neutral": 5,
+    "positive": 6,
+    "neutral": 7,
     "negative": 4
   },
-  "summary": "positive:4 neutral:5 negative:4",
-  "generatedAt": "2026-09-15T16:03:18.250Z",
+  "summary": "positive:6 neutral:7 negative:4",
+  "generatedAt": "2026-09-15T20:05:17.952Z",
   "topics": [
-    "Trump claims new evidence shows the FBI mishandled the Butler assassination attempt",
-    "Trump warns the Kennedy Center is unsafe and seeks authority to restore it",
+    "Kennedy Center board votes to close building immediately for safety and reconstruction",
+    "Trump says Biden’s FBI concealed or corrupted evidence from the Butler assassination attempt",
     "Trump promises $5,000 payments to adult citizens if Republicans win Congress"
   ],
-  "trendingTopic": "Trump claims new evidence shows the FBI mishandled the Butler assassination attempt",
+  "trendingTopic": "Kennedy Center board votes to close the building immediately for safety and reconstruction",
   "secondaryHighlights": [
     {
-      "topic": "Trump warns the Kennedy Center is unsafe and seeks authority to restore it"
+      "topic": "National Weather Service reportedly changes Lake Ontario maps and forecasts to Lake America"
     },
     {
-      "topic": "Trump promises $5,000 payments to adult citizens if Republicans win Congress"
+      "topic": "Trump promotes Brian Pannebecker’s book about blue-collar conservatism and American industry",
+      "name": "Brian Pannebecker"
+    },
+    {
+      "topic": "Trump promotes Charles Payne’s book about stock-market windfalls and financial success",
+      "name": "Charles Payne"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v11:13:46700aeae55dd196b5599f03",
-  "selfPraiseCacheKey": "self-praise-v2:13:46700aeae55dd196b5599f03",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:17:504c0fd6d5dc7e4ad5347c7f",
+  "selfPraiseCacheKey": "self-praise-v2:17:504c0fd6d5dc7e4ad5347c7f",
   "selfPraisePostIds": [
     "https://www.trumpstruth.org/statuses/41728",
-    "https://www.trumpstruth.org/statuses/41742"
+    "https://www.trumpstruth.org/statuses/41742",
+    "https://www.trumpstruth.org/statuses/41744"
   ],
   "posts": [
     {
@@ -282,6 +288,86 @@
         "guid": "https://www.trumpstruth.org/statuses/41742",
         "isoDate": "2026-09-15T15:49:11.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41743",
+      "publishedAt": "2026-09-15T17:11:14.000Z",
+      "title": "[No Title] - Post from September 15, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41743",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 15, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41743",
+        "pubDate": "Tue, 15 Sep 2026 17:11:14 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41743",
+        "isoDate": "2026-09-15T17:11:14.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41744",
+      "publishedAt": "2026-09-15T18:54:52.000Z",
+      "title": "The Board of The Kennedy Center today agreed, almost unanimously, to close the Building for Safety reasons, and so that it can begin the process of Reconstruction. The closing will take place immediately, however, the Renovation and Reconstruction, which is a very large and complex job, cannot begin until such time as the D.C. Circuit rules on the Board’s approved name. If the ruling is a negative one, which it should not be, and is not overturned by the U.S. Supreme Court, the Reconstruction and the Renovation of The Kennedy Center will not take place. The attorneys from the DOJ will ask for an expedited appeal. In the meantime, 17 Million Dollars, raised by President Trump, has been put into The Kennedy Center account to keep it afloat. Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "text": "<p>The Board of The Kennedy Center today agreed, almost unanimously, to close the Building for Safety reasons, and so that it can begin the process of Reconstruction. The closing will take place immediately, however, the Renovation and Reconstruction, which is a very large and complex job, cannot begin until such time as the D.C. Circuit rules on the Board’s approved name. If the ruling is a negative one, which it should not be, and is not overturned by the U.S. Supreme Court, the Reconstruction and the Renovation of The Kennedy Center will not take place. The attorneys from the DOJ will ask for an expedited appeal. In the meantime, 17 Million Dollars, raised by President Trump, has been put into The Kennedy Center account to keep it afloat. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41744",
+      "raw": {
+        "creator": "",
+        "title": "The Board of The Kennedy Center today agreed, almost unanimously, to close the Building for Safety reasons, and so that it can begin the process of Reconstruction. The closing will take place immediately, however, the Renovation and Reconstruction, which is a very large and complex job, cannot begin until such time as the D.C. Circuit rules on the Board’s approved name. If the ruling is a negative one, which it should not be, and is not overturned by the U.S. Supreme Court, the Reconstruction and the Renovation of The Kennedy Center will not take place. The attorneys from the DOJ will ask for an expedited appeal. In the meantime, 17 Million Dollars, raised by President Trump, has been put into The Kennedy Center account to keep it afloat. Thank you for your attention to this matter! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41744",
+        "pubDate": "Tue, 15 Sep 2026 18:54:52 +0000",
+        "author": "",
+        "content": "<p>The Board of The Kennedy Center today agreed, almost unanimously, to close the Building for Safety reasons, and so that it can begin the process of Reconstruction. The closing will take place immediately, however, the Renovation and Reconstruction, which is a very large and complex job, cannot begin until such time as the D.C. Circuit rules on the Board’s approved name. If the ruling is a negative one, which it should not be, and is not overturned by the U.S. Supreme Court, the Reconstruction and the Renovation of The Kennedy Center will not take place. The attorneys from the DOJ will ask for an expedited appeal. In the meantime, 17 Million Dollars, raised by President Trump, has been put into The Kennedy Center account to keep it afloat. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+        "contentSnippet": "The Board of The Kennedy Center today agreed, almost unanimously, to close the Building for Safety reasons, and so that it can begin the process of Reconstruction. The closing will take place immediately, however, the Renovation and Reconstruction, which is a very large and complex job, cannot begin until such time as the D.C. Circuit rules on the Board’s approved name. If the ruling is a negative one, which it should not be, and is not overturned by the U.S. Supreme Court, the Reconstruction and the Renovation of The Kennedy Center will not take place. The attorneys from the DOJ will ask for an expedited appeal. In the meantime, 17 Million Dollars, raised by President Trump, has been put into The Kennedy Center account to keep it afloat. Thank you for your attention to this matter! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41744",
+        "isoDate": "2026-09-15T18:54:52.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41746",
+      "publishedAt": "2026-09-15T19:11:50.000Z",
+      "title": "It was my Honor to write the Foreword for Brian Pannebecker’s incredible new Book, “Blue Collar Conservative: From Reagan to Trump.” As the head of Autoworkers for Trump, Brian has been with us from the very beginning, and understands, like few others, the Wisdom, Courage, and TARIFFS required to, MAKE AMERICA GREAT AGAIN. It is Great Patriots like Brian who helped us secure Historic Victories in three Presidential Campaigns, and are working tirelessly to save American Industry, and champion MADE IN THE U.S.A. “Forgotten” America is forgotten no longer — Get your copy today:",
+      "text": "<p>It was my Honor to write the Foreword for Brian Pannebecker’s incredible new Book, “Blue Collar Conservative: From Reagan to Trump.” As the head of Autoworkers for Trump, Brian has been with us from the very beginning, and understands, like few others, the Wisdom, Courage, and TARIFFS required to, MAKE AMERICA GREAT AGAIN. It is Great Patriots like Brian who helped us secure Historic Victories in three Presidential Campaigns, and are working tirelessly to save American Industry, and champion MADE IN THE U.S.A. “Forgotten” America is forgotten no longer — Get your copy today:<br /><a href=\"https://www.amazon.com/Blue-Collar-Conservative-Reagan-Trump/dp/1960452258\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">amazon.com/Blue-Collar-Conserv</span><span class=\"invisible\">ative-Reagan-Trump/dp/1960452258</span></a></p>\n\n[Image] A book cover titled “Blue Collar Conservative: From Reagan to Trump” features a red banner reading “Foreword by President Donald J. Trump.” The photograph shows Donald Trump standing behind a worker in a reflective vest and cap, who speaks at a presidential lectern before a large American flag. The author’s name, Brian Pannebecker, appears in red at the bottom.",
+      "url": "https://www.trumpstruth.org/statuses/41746",
+      "raw": {
+        "creator": "",
+        "title": "It was my Honor to write the Foreword for Brian Pannebecker’s incredible new Book, “Blue Collar Conservative: From Reagan to Trump.” As the head of Autoworkers for Trump, Brian has been with us from the very beginning, and understands, like few others, the Wisdom, Courage, and TARIFFS required to, MAKE AMERICA GREAT AGAIN. It is Great Patriots like Brian who helped us secure Historic Victories in three Presidential Campaigns, and are working tirelessly to save American Industry, and champion MADE IN THE U.S.A. “Forgotten” America is forgotten no longer — Get your copy today:",
+        "link": "https://www.trumpstruth.org/statuses/41746",
+        "pubDate": "Tue, 15 Sep 2026 19:11:50 +0000",
+        "author": "",
+        "content": "<p>It was my Honor to write the Foreword for Brian Pannebecker’s incredible new Book, “Blue Collar Conservative: From Reagan to Trump.” As the head of Autoworkers for Trump, Brian has been with us from the very beginning, and understands, like few others, the Wisdom, Courage, and TARIFFS required to, MAKE AMERICA GREAT AGAIN. It is Great Patriots like Brian who helped us secure Historic Victories in three Presidential Campaigns, and are working tirelessly to save American Industry, and champion MADE IN THE U.S.A. “Forgotten” America is forgotten no longer — Get your copy today:<br /><a href=\"https://www.amazon.com/Blue-Collar-Conservative-Reagan-Trump/dp/1960452258\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">amazon.com/Blue-Collar-Conserv</span><span class=\"invisible\">ative-Reagan-Trump/dp/1960452258</span></a></p>",
+        "contentSnippet": "It was my Honor to write the Foreword for Brian Pannebecker’s incredible new Book, “Blue Collar Conservative: From Reagan to Trump.” As the head of Autoworkers for Trump, Brian has been with us from the very beginning, and understands, like few others, the Wisdom, Courage, and TARIFFS required to, MAKE AMERICA GREAT AGAIN. It is Great Patriots like Brian who helped us secure Historic Victories in three Presidential Campaigns, and are working tirelessly to save American Industry, and champion MADE IN THE U.S.A. “Forgotten” America is forgotten no longer — Get your copy today:\nhttps://www.amazon.com/Blue-Collar-Conservative-Reagan-Trump/dp/1960452258",
+        "guid": "https://www.trumpstruth.org/statuses/41746",
+        "isoDate": "2026-09-15T19:11:50.000Z"
+      },
+      "imageDescribedAt": "2026-09-15T20:04:45.452Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18150/82fed8932362d138-fa165d112447.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41745",
+      "publishedAt": "2026-09-15T19:11:57.000Z",
+      "title": "“Undeniable Windfalls: How One Stock Can Change Your Life” by the Great Charles Payne, of FoxNews, is a fantastic new book. Charles is a true professional, understands what it takes to be successful, and unleash the American Dream. Much less importantly, he is also a great guy! Get your copy today:",
+      "text": "<p>“Undeniable Windfalls: How One Stock Can Change Your Life” by the Great Charles Payne, of FoxNews, is a fantastic new book. Charles is a true professional, understands what it takes to be successful, and unleash the American Dream. Much less importantly, he is also a great guy! Get your copy today: <a href=\"https://www.undeniablewindfalls.com\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span>undeniablewindfalls.com</span><span class=\"invisible\"></span></a></p>\n\n[Image] A promotional image shows several copies of the book “Undeniable Windfalls: How One Stock Can Change Your Life” by Charles V. Payne. The upright cover features Charles V. Payne wearing glasses, a dark pinstriped suit, white shirt, and yellow tie, leaning against a railing. The books are arranged in a stack against a white background.",
+      "url": "https://www.trumpstruth.org/statuses/41745",
+      "raw": {
+        "creator": "",
+        "title": "“Undeniable Windfalls: How One Stock Can Change Your Life” by the Great Charles Payne, of FoxNews, is a fantastic new book. Charles is a true professional, understands what it takes to be successful, and unleash the American Dream. Much less importantly, he is also a great guy! Get your copy today:",
+        "link": "https://www.trumpstruth.org/statuses/41745",
+        "pubDate": "Tue, 15 Sep 2026 19:11:57 +0000",
+        "author": "",
+        "content": "<p>“Undeniable Windfalls: How One Stock Can Change Your Life” by the Great Charles Payne, of FoxNews, is a fantastic new book. Charles is a true professional, understands what it takes to be successful, and unleash the American Dream. Much less importantly, he is also a great guy! Get your copy today: <a href=\"https://www.undeniablewindfalls.com\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span>undeniablewindfalls.com</span><span class=\"invisible\"></span></a></p>",
+        "contentSnippet": "“Undeniable Windfalls: How One Stock Can Change Your Life” by the Great Charles Payne, of FoxNews, is a fantastic new book. Charles is a true professional, understands what it takes to be successful, and unleash the American Dream. Much less importantly, he is also a great guy! Get your copy today: https://www.undeniablewindfalls.com",
+        "guid": "https://www.trumpstruth.org/statuses/41745",
+        "isoDate": "2026-09-15T19:11:57.000Z"
+      },
+      "imageDescribedAt": "2026-09-15T20:04:42.641Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18149/0896b51cef5c7d7c-17fdc98cd7ec.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -362,6 +448,30 @@
       "label": "negative",
       "rationale": "Describes the Kennedy Center as collapsing, unsafe, financially failing, and threatened by an obstructive judge, creating an overwhelmingly negative tone despite claims of intended rescue.",
       "analyzedAt": "2026-09-15T16:03:01.150Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41743",
+      "label": "neutral",
+      "rationale": "The post contains no text conveying sentiment.",
+      "analyzedAt": "2026-09-15T20:04:51.361Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41744",
+      "label": "neutral",
+      "rationale": "Provides an update about the Kennedy Center's closure, reconstruction plans, legal proceedings, and funding without a predominantly positive or negative sentiment.",
+      "analyzedAt": "2026-09-15T20:04:51.361Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41745",
+      "label": "positive",
+      "rationale": "Strongly praises the author and book and encourages people to purchase it.",
+      "analyzedAt": "2026-09-15T20:04:51.361Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41746",
+      "label": "positive",
+      "rationale": "Uses enthusiastic praise for the author, the book, and its political themes while urging readers to buy it.",
+      "analyzedAt": "2026-09-15T20:04:51.361Z"
     }
   ]
 }
