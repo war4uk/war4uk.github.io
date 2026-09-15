@@ -1,38 +1,42 @@
 {
   "date": "2026-09-14",
   "counts": {
-    "positive": 7,
+    "positive": 9,
     "neutral": 2,
-    "negative": 3
+    "negative": 8
   },
-  "summary": "positive:7 neutral:2 negative:3",
-  "generatedAt": "2026-09-14T20:02:20.610Z",
+  "summary": "positive:9 neutral:2 negative:8",
+  "generatedAt": "2026-09-15T00:05:01.130Z",
   "topics": [
-    "Trump highlights Iran’s battlefield setbacks, possible negotiations, and continued U.S. military support in the Middle East",
-    "Trump defends U.S. AI leadership and rejects calls for restrictive regulation",
-    "Trump pledges a $5,000 dividend funded by economic investment and development"
+    "Trump defends AI and data centers, calling warnings of catastrophe a left-wing hoax",
+    "Trump discusses Iran conflict, possible negotiations, oil prices, and expanded U.S. weapons production",
+    "Trump showcases White House renovations, including a new South Lawn heliport and granite entrance"
   ],
-  "trendingTopic": "Trump highlights Iran’s battlefield setbacks, possible negotiations, and continued U.S. military support in the Middle East",
+  "trendingTopic": "Trump calls AI catastrophe warnings a left-wing hoax while defending data centers and U.S. leadership",
   "secondaryHighlights": [
     {
-      "topic": "Trump showcases renovations restoring the White House’s deteriorating exterior"
+      "topic": "Trump promises a $5,000 dividend for American adults funded by economic gains"
     },
     {
-      "topic": "Trump congratulates Shane Lowry on winning at Trump International Golf Links Ireland",
-      "name": "Shane Lowry"
+      "topic": "Trump touts the Republican midterm convention as a sold-out success ahead of November elections"
     },
     {
-      "topic": "Trump says Ukraine and Russia agreed to avoid striking energy targets"
+      "topic": "Trump attacks Karl Rove as a persistent loser and liability for Republicans",
+      "name": "Karl Rove"
     }
   ],
-  "selfPraiseCount": 4,
-  "topicsCacheKey": "day-themes-v11:12:7370f2befd864934b0d564c0",
-  "selfPraiseCacheKey": "self-praise-v2:12:7370f2befd864934b0d564c0",
+  "selfPraiseCount": 8,
+  "topicsCacheKey": "day-themes-v11:19:ae9fe0928e60bb8a2ebf188a",
+  "selfPraiseCacheKey": "self-praise-v2:19:ae9fe0928e60bb8a2ebf188a",
   "selfPraisePostIds": [
     "https://www.trumpstruth.org/statuses/41711",
     "https://www.trumpstruth.org/statuses/41712",
     "https://www.trumpstruth.org/statuses/41718",
-    "https://www.trumpstruth.org/statuses/41719"
+    "https://www.trumpstruth.org/statuses/41719",
+    "https://www.trumpstruth.org/statuses/41720",
+    "https://www.trumpstruth.org/statuses/41722",
+    "https://www.trumpstruth.org/statuses/41723",
+    "https://www.trumpstruth.org/statuses/41725"
   ],
   "posts": [
     {
@@ -260,6 +264,136 @@
         "guid": "https://www.trumpstruth.org/statuses/41720",
         "isoDate": "2026-09-14T17:33:39.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41721",
+      "publishedAt": "2026-09-14T20:30:07.000Z",
+      "title": "The people that say AI is going to destroy the World, and that Data Centers are bad for your neighborhood, are the same people that said, just a short time ago, that the World would be extinguished by “Climate Change.” That HOAX never worked out for them, and now they’re on to the next one. These people are Revolutionaries, but Revolutionaries for a Bad and Evil Cause. Soon you’ll find out they’re working for people that do not have the best interests of the United States in mind! President DONALD J. TRUMP",
+      "text": "<p>The people that say AI is going to destroy the World, and that Data Centers are bad for your neighborhood, are the same people that said, just a short time ago, that the World would be extinguished by “Climate Change.” That HOAX never worked out for them, and now they’re on to the next one. These people are Revolutionaries, but Revolutionaries for a Bad and Evil Cause. Soon you’ll find out they’re working for people that do not have the best interests of the United States in mind! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41721",
+      "raw": {
+        "creator": "",
+        "title": "The people that say AI is going to destroy the World, and that Data Centers are bad for your neighborhood, are the same people that said, just a short time ago, that the World would be extinguished by “Climate Change.” That HOAX never worked out for them, and now they’re on to the next one. These people are Revolutionaries, but Revolutionaries for a Bad and Evil Cause. Soon you’ll find out they’re working for people that do not have the best interests of the United States in mind! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41721",
+        "pubDate": "Mon, 14 Sep 2026 20:30:07 +0000",
+        "author": "",
+        "content": "<p>The people that say AI is going to destroy the World, and that Data Centers are bad for your neighborhood, are the same people that said, just a short time ago, that the World would be extinguished by “Climate Change.” That HOAX never worked out for them, and now they’re on to the next one. These people are Revolutionaries, but Revolutionaries for a Bad and Evil Cause. Soon you’ll find out they’re working for people that do not have the best interests of the United States in mind! President DONALD J. TRUMP</p>",
+        "contentSnippet": "The people that say AI is going to destroy the World, and that Data Centers are bad for your neighborhood, are the same people that said, just a short time ago, that the World would be extinguished by “Climate Change.” That HOAX never worked out for them, and now they’re on to the next one. These people are Revolutionaries, but Revolutionaries for a Bad and Evil Cause. Soon you’ll find out they’re working for people that do not have the best interests of the United States in mind! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41721",
+        "isoDate": "2026-09-14T20:30:07.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41722",
+      "publishedAt": "2026-09-14T20:34:53.000Z",
+      "title": "I am the Hoax Buster, and I’m right now breaking another Hoax — That AI is going to take over, consume, and destroy the World, and that Robots will be marching into our Cities, and getting rid of us all! This is even wilder than the RUSSIA, RUSSIA, RUSSIA HOAX, or the Global Warming Scam. Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "text": "<p>I am the Hoax Buster, and I’m right now breaking another Hoax — That AI is going to take over, consume, and destroy the World, and that Robots will be marching into our Cities, and getting rid of us all! This is even wilder than the RUSSIA, RUSSIA, RUSSIA HOAX, or the Global Warming Scam. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41722",
+      "raw": {
+        "creator": "",
+        "title": "I am the Hoax Buster, and I’m right now breaking another Hoax — That AI is going to take over, consume, and destroy the World, and that Robots will be marching into our Cities, and getting rid of us all! This is even wilder than the RUSSIA, RUSSIA, RUSSIA HOAX, or the Global Warming Scam. Thank you for your attention to this matter! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41722",
+        "pubDate": "Mon, 14 Sep 2026 20:34:53 +0000",
+        "author": "",
+        "content": "<p>I am the Hoax Buster, and I’m right now breaking another Hoax — That AI is going to take over, consume, and destroy the World, and that Robots will be marching into our Cities, and getting rid of us all! This is even wilder than the RUSSIA, RUSSIA, RUSSIA HOAX, or the Global Warming Scam. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+        "contentSnippet": "I am the Hoax Buster, and I’m right now breaking another Hoax — That AI is going to take over, consume, and destroy the World, and that Robots will be marching into our Cities, and getting rid of us all! This is even wilder than the RUSSIA, RUSSIA, RUSSIA HOAX, or the Global Warming Scam. Thank you for your attention to this matter! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41722",
+        "isoDate": "2026-09-14T20:34:53.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41724",
+      "publishedAt": "2026-09-14T20:53:11.000Z",
+      "title": "The claim that “AI is going to take over the World” is a Hoax, just like Global “Warming,” where everyone was going to be dead by now, RUSSIA, RUSSIA, RUSSIA, UKRAINE, UKRAINE, UKRAINE, or Impeachment Hoax #1, or Impeachment Hoax #2. These are all Radical Left Dumocrats, who never give up, but seldom win. Hopefully, the Voters have seen the light! President DONALD J. TRUMP",
+      "text": "<p>The claim that “AI is going to take over the World” is a Hoax, just like Global “Warming,” where everyone was going to be dead by now, RUSSIA, RUSSIA, RUSSIA, UKRAINE, UKRAINE, UKRAINE, or Impeachment Hoax <a href=\"https://truthsocial.com/tags/1\" rel=\"nofollow\">#<span>1</span></a>, or Impeachment Hoax <a href=\"https://truthsocial.com/tags/2\" rel=\"nofollow\">#<span>2</span></a>. These are all Radical Left Dumocrats, who never give up, but seldom win. Hopefully, the Voters have seen the light! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41724",
+      "raw": {
+        "creator": "",
+        "title": "The claim that “AI is going to take over the World” is a Hoax, just like Global “Warming,” where everyone was going to be dead by now, RUSSIA, RUSSIA, RUSSIA, UKRAINE, UKRAINE, UKRAINE, or Impeachment Hoax #1, or Impeachment Hoax #2. These are all Radical Left Dumocrats, who never give up, but seldom win. Hopefully, the Voters have seen the light! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41724",
+        "pubDate": "Mon, 14 Sep 2026 20:53:11 +0000",
+        "author": "",
+        "content": "<p>The claim that “AI is going to take over the World” is a Hoax, just like Global “Warming,” where everyone was going to be dead by now, RUSSIA, RUSSIA, RUSSIA, UKRAINE, UKRAINE, UKRAINE, or Impeachment Hoax <a href=\"https://truthsocial.com/tags/1\" rel=\"nofollow\">#<span>1</span></a>, or Impeachment Hoax <a href=\"https://truthsocial.com/tags/2\" rel=\"nofollow\">#<span>2</span></a>. These are all Radical Left Dumocrats, who never give up, but seldom win. Hopefully, the Voters have seen the light! President DONALD J. TRUMP</p>",
+        "contentSnippet": "The claim that “AI is going to take over the World” is a Hoax, just like Global “Warming,” where everyone was going to be dead by now, RUSSIA, RUSSIA, RUSSIA, UKRAINE, UKRAINE, UKRAINE, or Impeachment Hoax #1, or Impeachment Hoax #2. These are all Radical Left Dumocrats, who never give up, but seldom win. Hopefully, the Voters have seen the light! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41724",
+        "isoDate": "2026-09-14T20:53:11.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41723",
+      "publishedAt": "2026-09-14T20:59:55.000Z",
+      "title": "This is the first picture taken of the new Heliport Landing Zone on the South Lawn of the White House! It is magnificently made of carved granite in shades of Black and White. It is truly a work of art and, even the Trump Haters are saying, “Wow, that’s really good!” It was completed ahead of schedule, under budget and, again, though expensive, was a Gift to America! As part of the Project, the poorly conditioned asphalt at the Main Entrance was replaced with Highest Grade, 4 and 5 inch thick, White Granite! At a strength of 35,000 pounds per square inch, and rated “1 Million Years, PLUS, the Highest Rating there is for stone, aside from being beautiful, it is essentially indestructible. There will be no cracks, or defacement, EVER! The Heliport path travels directly into the Main Entrance where the green entrance doors, from what was years ago a maintenance area, were changed to White House White with new, highest level hardware, locks, and hinges. It is an Honor, “in my spare time,” to bring back the Beauty and Magnificence of the White House, to levels it has never seen before, not even after its construction in 1792. Like our Nation, under the Dumocrats, was in decline, the White House was a badly maintained “dump.” Now, it is a Palace! President DONALD J. TRUMP",
+      "text": "<p>This is the first picture taken of the new Heliport Landing Zone on the South Lawn of the White House! It is magnificently made of carved granite in shades of Black and White. It is truly a work of art and, even the Trump Haters are saying, “Wow, that’s really good!” It was completed ahead of schedule, under budget and, again, though expensive, was a Gift to America! As part of the Project, the poorly conditioned asphalt at the Main Entrance was replaced with Highest Grade, 4 and 5 inch thick, White Granite! At a strength of 35,000 pounds per square inch, and rated “1 Million Years, PLUS, the Highest Rating there is for stone, aside from being beautiful, it is essentially indestructible. There will be no cracks, or defacement, EVER! The Heliport path travels directly into the Main Entrance where the green entrance doors, from what was years ago a maintenance area, were changed to White House White with new, highest level hardware, locks, and hinges. It is an Honor, “in my spare time,” to bring back the Beauty and Magnificence of the White House, to levels it has never seen before, not even after its construction in 1792. Like our Nation, under the Dumocrats, was in decline, the White House was a badly maintained “dump.” Now, it is a Palace! President DONALD J. TRUMP</p>\n\n[Image] The south facade of the White House is shown in bright daylight, with its columns, windows, terraces, and surrounding trees and lawn visible. A large American flag flies in the foreground, and the presidential seal is displayed on the grass near the entrance. No people are visible.",
+      "url": "https://www.trumpstruth.org/statuses/41723",
+      "raw": {
+        "creator": "",
+        "title": "This is the first picture taken of the new Heliport Landing Zone on the South Lawn of the White House! It is magnificently made of carved granite in shades of Black and White. It is truly a work of art and, even the Trump Haters are saying, “Wow, that’s really good!” It was completed ahead of schedule, under budget and, again, though expensive, was a Gift to America! As part of the Project, the poorly conditioned asphalt at the Main Entrance was replaced with Highest Grade, 4 and 5 inch thick, White Granite! At a strength of 35,000 pounds per square inch, and rated “1 Million Years, PLUS, the Highest Rating there is for stone, aside from being beautiful, it is essentially indestructible. There will be no cracks, or defacement, EVER! The Heliport path travels directly into the Main Entrance where the green entrance doors, from what was years ago a maintenance area, were changed to White House White with new, highest level hardware, locks, and hinges. It is an Honor, “in my spare time,” to bring back the Beauty and Magnificence of the White House, to levels it has never seen before, not even after its construction in 1792. Like our Nation, under the Dumocrats, was in decline, the White House was a badly maintained “dump.” Now, it is a Palace! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41723",
+        "pubDate": "Mon, 14 Sep 2026 20:59:55 +0000",
+        "author": "",
+        "content": "<p>This is the first picture taken of the new Heliport Landing Zone on the South Lawn of the White House! It is magnificently made of carved granite in shades of Black and White. It is truly a work of art and, even the Trump Haters are saying, “Wow, that’s really good!” It was completed ahead of schedule, under budget and, again, though expensive, was a Gift to America! As part of the Project, the poorly conditioned asphalt at the Main Entrance was replaced with Highest Grade, 4 and 5 inch thick, White Granite! At a strength of 35,000 pounds per square inch, and rated “1 Million Years, PLUS, the Highest Rating there is for stone, aside from being beautiful, it is essentially indestructible. There will be no cracks, or defacement, EVER! The Heliport path travels directly into the Main Entrance where the green entrance doors, from what was years ago a maintenance area, were changed to White House White with new, highest level hardware, locks, and hinges. It is an Honor, “in my spare time,” to bring back the Beauty and Magnificence of the White House, to levels it has never seen before, not even after its construction in 1792. Like our Nation, under the Dumocrats, was in decline, the White House was a badly maintained “dump.” Now, it is a Palace! President DONALD J. TRUMP</p>",
+        "contentSnippet": "This is the first picture taken of the new Heliport Landing Zone on the South Lawn of the White House! It is magnificently made of carved granite in shades of Black and White. It is truly a work of art and, even the Trump Haters are saying, “Wow, that’s really good!” It was completed ahead of schedule, under budget and, again, though expensive, was a Gift to America! As part of the Project, the poorly conditioned asphalt at the Main Entrance was replaced with Highest Grade, 4 and 5 inch thick, White Granite! At a strength of 35,000 pounds per square inch, and rated “1 Million Years, PLUS, the Highest Rating there is for stone, aside from being beautiful, it is essentially indestructible. There will be no cracks, or defacement, EVER! The Heliport path travels directly into the Main Entrance where the green entrance doors, from what was years ago a maintenance area, were changed to White House White with new, highest level hardware, locks, and hinges. It is an Honor, “in my spare time,” to bring back the Beauty and Magnificence of the White House, to levels it has never seen before, not even after its construction in 1792. Like our Nation, under the Dumocrats, was in decline, the White House was a badly maintained “dump.” Now, it is a Palace! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41723",
+        "isoDate": "2026-09-14T20:59:55.000Z"
+      },
+      "imageDescribedAt": "2026-09-15T00:04:28.314Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18137/f15da5463d9b0ae4-29af6af597dc.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41725",
+      "publishedAt": "2026-09-14T23:43:20.000Z",
+      "title": "Karl Rove is so bad for the Republican Party, and completely wrong so often. He suffers from a major case of Trump Derangement Syndrome primarily because, for almost 10 years, I beat back and won against so many of the people and things that he wanted and espoused. Why does FoxNews and the WSJ keep his RINO Voice alive. The guy is a stone cold loser!",
+      "text": "<p>Karl Rove is so bad for the Republican Party, and completely wrong so often. He suffers from a major case of Trump Derangement Syndrome primarily because, for almost 10 years, I beat back and won against so many of the people and things that he wanted and espoused. Why does FoxNews and the WSJ keep his RINO Voice alive. The guy is a stone cold loser!</p>",
+      "url": "https://www.trumpstruth.org/statuses/41725",
+      "raw": {
+        "creator": "",
+        "title": "Karl Rove is so bad for the Republican Party, and completely wrong so often. He suffers from a major case of Trump Derangement Syndrome primarily because, for almost 10 years, I beat back and won against so many of the people and things that he wanted and espoused. Why does FoxNews and the WSJ keep his RINO Voice alive. The guy is a stone cold loser!",
+        "link": "https://www.trumpstruth.org/statuses/41725",
+        "pubDate": "Mon, 14 Sep 2026 23:43:20 +0000",
+        "author": "",
+        "content": "<p>Karl Rove is so bad for the Republican Party, and completely wrong so often. He suffers from a major case of Trump Derangement Syndrome primarily because, for almost 10 years, I beat back and won against so many of the people and things that he wanted and espoused. Why does FoxNews and the WSJ keep his RINO Voice alive. The guy is a stone cold loser!</p>",
+        "contentSnippet": "Karl Rove is so bad for the Republican Party, and completely wrong so often. He suffers from a major case of Trump Derangement Syndrome primarily because, for almost 10 years, I beat back and won against so many of the people and things that he wanted and espoused. Why does FoxNews and the WSJ keep his RINO Voice alive. The guy is a stone cold loser!",
+        "guid": "https://www.trumpstruth.org/statuses/41725",
+        "isoDate": "2026-09-14T23:43:20.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41726",
+      "publishedAt": "2026-09-14T23:48:17.000Z",
+      "title": "The Republican Midterm Convention in Dallas was a solidly sold out winner for Republicans. Also, great Views and Ratings. Should have a big impact on November 3rd. President DJT",
+      "text": "<p>The Republican Midterm Convention in Dallas was a solidly sold out winner for Republicans. Also, great Views and Ratings. Should have a big impact on November 3rd. President DJT</p>",
+      "url": "https://www.trumpstruth.org/statuses/41726",
+      "raw": {
+        "creator": "",
+        "title": "The Republican Midterm Convention in Dallas was a solidly sold out winner for Republicans. Also, great Views and Ratings. Should have a big impact on November 3rd. President DJT",
+        "link": "https://www.trumpstruth.org/statuses/41726",
+        "pubDate": "Mon, 14 Sep 2026 23:48:17 +0000",
+        "author": "",
+        "content": "<p>The Republican Midterm Convention in Dallas was a solidly sold out winner for Republicans. Also, great Views and Ratings. Should have a big impact on November 3rd. President DJT</p>",
+        "contentSnippet": "The Republican Midterm Convention in Dallas was a solidly sold out winner for Republicans. Also, great Views and Ratings. Should have a big impact on November 3rd. President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/41726",
+        "isoDate": "2026-09-14T23:48:17.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41727",
+      "publishedAt": "2026-09-14T23:55:09.000Z",
+      "title": "The AI Hoax being perpetrated by the Radical Left Dumocrats is reminiscent of their Global Warming Scam of not so long ago, where everyone was going to die from extreme heat. What happened? MAKE AMERICA GREAT AGAIN!!! President DJT",
+      "text": "<p>The AI Hoax being perpetrated by the Radical Left Dumocrats is reminiscent of their Global Warming Scam of not so long ago, where everyone was going to die from extreme heat. What happened? MAKE AMERICA GREAT AGAIN!!! President DJT</p>",
+      "url": "https://www.trumpstruth.org/statuses/41727",
+      "raw": {
+        "creator": "",
+        "title": "The AI Hoax being perpetrated by the Radical Left Dumocrats is reminiscent of their Global Warming Scam of not so long ago, where everyone was going to die from extreme heat. What happened? MAKE AMERICA GREAT AGAIN!!! President DJT",
+        "link": "https://www.trumpstruth.org/statuses/41727",
+        "pubDate": "Mon, 14 Sep 2026 23:55:09 +0000",
+        "author": "",
+        "content": "<p>The AI Hoax being perpetrated by the Radical Left Dumocrats is reminiscent of their Global Warming Scam of not so long ago, where everyone was going to die from extreme heat. What happened? MAKE AMERICA GREAT AGAIN!!! President DJT</p>",
+        "contentSnippet": "The AI Hoax being perpetrated by the Radical Left Dumocrats is reminiscent of their Global Warming Scam of not so long ago, where everyone was going to die from extreme heat. What happened? MAKE AMERICA GREAT AGAIN!!! President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/41727",
+        "isoDate": "2026-09-14T23:55:09.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -334,6 +468,48 @@
       "label": "positive",
       "rationale": "Expresses strong optimism about AI and data centers as major drivers of economic growth and defends continued development.",
       "analyzedAt": "2026-09-14T20:01:57.060Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41721",
+      "label": "negative",
+      "rationale": "Accuses unnamed people of promoting hoaxes and pursuing a bad or evil cause against American interests.",
+      "analyzedAt": "2026-09-15T00:04:35.094Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41722",
+      "label": "negative",
+      "rationale": "Frames concerns about AI as a hoax and uses combative language while attacking those who promote them.",
+      "analyzedAt": "2026-09-15T00:04:35.094Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41723",
+      "label": "positive",
+      "rationale": "Enthusiastically praises the White House renovations as beautiful, magnificent, high quality, and beneficial to America.",
+      "analyzedAt": "2026-09-15T00:04:35.094Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41724",
+      "label": "negative",
+      "rationale": "Dismisses multiple issues as hoaxes and uses derogatory language to attack Democrats and other perceived opponents.",
+      "analyzedAt": "2026-09-15T00:04:35.094Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41725",
+      "label": "negative",
+      "rationale": "Strongly attacks Karl Rove and criticizes Fox News and the Wall Street Journal for amplifying him.",
+      "analyzedAt": "2026-09-15T00:04:35.094Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41726",
+      "label": "positive",
+      "rationale": "Praises the Republican convention as successful, well attended, and politically impactful.",
+      "analyzedAt": "2026-09-15T00:04:35.094Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41727",
+      "label": "negative",
+      "rationale": "Uses hostile, dismissive language toward political opponents and characterizes their claims as scams and hoaxes.",
+      "analyzedAt": "2026-09-15T00:04:35.094Z"
     }
   ]
 }

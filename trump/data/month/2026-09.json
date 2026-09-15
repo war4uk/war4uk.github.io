@@ -353,47 +353,61 @@
     {
       "date": "2026-09-14",
       "counts": {
-        "positive": 7,
+        "positive": 9,
         "neutral": 2,
-        "negative": 3
+        "negative": 8
       },
-      "summary": "positive:7 neutral:2 negative:3",
+      "summary": "positive:9 neutral:2 negative:8",
       "topics": [
-        "Trump highlights Iran’s battlefield setbacks, possible negotiations, and continued U.S. military support in the Middle East",
-        "Trump defends U.S. AI leadership and rejects calls for restrictive regulation",
-        "Trump pledges a $5,000 dividend funded by economic investment and development"
+        "Trump defends AI and data centers, calling warnings of catastrophe a left-wing hoax",
+        "Trump discusses Iran conflict, possible negotiations, oil prices, and expanded U.S. weapons production",
+        "Trump showcases White House renovations, including a new South Lawn heliport and granite entrance"
       ],
-      "postsCount": 12,
+      "postsCount": 19,
       "hasDetail": true,
-      "generatedAt": "2026-09-14T20:02:20.610Z",
-      "trendingTopic": "Trump highlights Iran’s battlefield setbacks, possible negotiations, and continued U.S. military support in the Middle East",
+      "generatedAt": "2026-09-15T00:05:01.130Z",
+      "trendingTopic": "Trump calls AI catastrophe warnings a left-wing hoax while defending data centers and U.S. leadership",
       "secondaryHighlights": [
         {
-          "topic": "Trump showcases renovations restoring the White House’s deteriorating exterior"
+          "topic": "Trump promises a $5,000 dividend for American adults funded by economic gains"
         },
         {
-          "topic": "Trump congratulates Shane Lowry on winning at Trump International Golf Links Ireland",
-          "name": "Shane Lowry"
+          "topic": "Trump touts the Republican midterm convention as a sold-out success ahead of November elections"
         },
         {
-          "topic": "Trump says Ukraine and Russia agreed to avoid striking energy targets"
+          "topic": "Trump attacks Karl Rove as a persistent loser and liability for Republicans",
+          "name": "Karl Rove"
         }
       ],
-      "selfPraiseCount": 4
+      "selfPraiseCount": 8
+    },
+    {
+      "date": "2026-09-15",
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "positive:0 neutral:0 negative:0",
+      "topics": [],
+      "postsCount": 0,
+      "hasDetail": true,
+      "generatedAt": "2026-09-15T00:04:37.651Z",
+      "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-14T20:02:20.610Z",
-  "trendingTopic": "Trump portrays Iran as collapsing under military and economic pressure while defending U.S. operations and possible talks",
+  "generatedAt": "2026-09-15T00:05:01.130Z",
+  "trendingTopic": "Trump portrays Iran as collapsing while defending military action and oil pressure",
   "secondaryHighlights": [
     {
-      "topic": "Trump endorses candidates and celebrates Republican primary victories"
+      "topic": "Trump targets Canada and foreign trade practices with tariffs and procurement restrictions"
     },
     {
-      "topic": "Trump promotes restoration and redesign of Washington landmarks"
+      "topic": "Trump claims Michael Cohen recanted testimony and demands dismissals in New York cases"
     },
     {
-      "topic": "Trump attacks investigations involving Michael Cohen and Michael Flynn"
+      "topic": "Trump defends AI data centers and U.S. leadership against catastrophe warnings"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:14:c2d7ecca9fd6278be61fdb0e"
+  "topicsCacheKey": "month-themes-v5:14:52c75f8e7ac089af475df856"
 }
