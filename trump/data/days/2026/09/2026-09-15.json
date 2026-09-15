@@ -6,7 +6,7 @@
     "negative": 2
   },
   "summary": "positive:4 neutral:5 negative:2",
-  "generatedAt": "2026-09-15T04:02:31.946Z",
+  "generatedAt": "2026-09-15T08:04:56.454Z",
   "topics": [
     "Promises $5,000 payments to adult citizens if Republicans win Congress",
     "Reports National Weather Service maps changing Lake Ontario to Lake America"
@@ -18,6 +18,11 @@
     }
   ],
   "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v11:11:37d577ce7eb6940d7b18dd39",
+  "selfPraiseCacheKey": "self-praise-v2:11:37d577ce7eb6940d7b18dd39",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41728"
+  ],
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41729",
@@ -305,10 +310,5 @@
       "rationale": "The post contains no text or discernible sentiment.",
       "analyzedAt": "2026-09-15T04:02:04.551Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v11:11:37d577ce7eb6940d7b18dd39",
-  "selfPraiseCacheKey": "self-praise-v2:11:37d577ce7eb6940d7b18dd39",
-  "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/41728"
   ]
 }
