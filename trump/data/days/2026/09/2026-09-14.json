@@ -2,32 +2,28 @@
   "date": "2026-09-14",
   "counts": {
     "positive": 9,
-    "neutral": 2,
+    "neutral": 3,
     "negative": 8
   },
-  "summary": "positive:9 neutral:2 negative:8",
-  "generatedAt": "2026-09-15T00:05:01.130Z",
+  "summary": "positive:9 neutral:3 negative:8",
+  "generatedAt": "2026-09-15T04:02:24.059Z",
   "topics": [
-    "Trump defends AI and data centers, calling warnings of catastrophe a left-wing hoax",
-    "Trump discusses Iran conflict, possible negotiations, oil prices, and expanded U.S. weapons production",
-    "Trump showcases White House renovations, including a new South Lawn heliport and granite entrance"
+    "Trump rejects AI and data-center warnings as hoaxes while promoting U.S. leadership",
+    "Trump addresses Iran conflict, weapons production, oil prices, and possible negotiations",
+    "Trump highlights extensive White House renovations and new South Lawn heliport"
   ],
-  "trendingTopic": "Trump calls AI catastrophe warnings a left-wing hoax while defending data centers and U.S. leadership",
+  "trendingTopic": "Trump rejects AI takeover warnings as hoaxes and vows to expand U.S. data-center leadership",
   "secondaryHighlights": [
     {
-      "topic": "Trump promises a $5,000 dividend for American adults funded by economic gains"
+      "topic": "Trump addresses Iran conflict, weapons production, oil prices, and possible negotiations"
     },
     {
-      "topic": "Trump touts the Republican midterm convention as a sold-out success ahead of November elections"
-    },
-    {
-      "topic": "Trump attacks Karl Rove as a persistent loser and liability for Republicans",
-      "name": "Karl Rove"
+      "topic": "Trump highlights extensive White House renovations and new South Lawn heliport"
     }
   ],
   "selfPraiseCount": 8,
-  "topicsCacheKey": "day-themes-v11:19:ae9fe0928e60bb8a2ebf188a",
-  "selfPraiseCacheKey": "self-praise-v2:19:ae9fe0928e60bb8a2ebf188a",
+  "topicsCacheKey": "day-themes-v11:20:85e73167efd2bfeefa887174",
+  "selfPraiseCacheKey": "self-praise-v2:20:85e73167efd2bfeefa887174",
   "selfPraisePostIds": [
     "https://www.trumpstruth.org/statuses/41711",
     "https://www.trumpstruth.org/statuses/41712",
@@ -394,6 +390,24 @@
         "guid": "https://www.trumpstruth.org/statuses/41727",
         "isoDate": "2026-09-14T23:55:09.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41730",
+      "publishedAt": "2026-09-14T23:59:57.000Z",
+      "title": "[No Title] - Post from September 14, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41730",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 14, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41730",
+        "pubDate": "Mon, 14 Sep 2026 23:59:57 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41730",
+        "isoDate": "2026-09-14T23:59:57.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -510,6 +524,12 @@
       "label": "negative",
       "rationale": "Uses hostile, dismissive language toward political opponents and characterizes their claims as scams and hoaxes.",
       "analyzedAt": "2026-09-15T00:04:35.094Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41730",
+      "label": "neutral",
+      "rationale": "The text contains no substantive content or sentiment.",
+      "analyzedAt": "2026-09-15T04:01:33.195Z"
     }
   ]
 }

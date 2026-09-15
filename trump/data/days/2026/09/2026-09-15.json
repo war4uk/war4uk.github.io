@@ -1,14 +1,314 @@
 {
   "date": "2026-09-15",
   "counts": {
-    "positive": 0,
-    "neutral": 0,
-    "negative": 0
+    "positive": 4,
+    "neutral": 5,
+    "negative": 2
   },
-  "summary": "positive:0 neutral:0 negative:0",
-  "generatedAt": "2026-09-15T00:04:37.651Z",
-  "topics": [],
-  "selfPraiseCount": 0,
-  "posts": [],
-  "sentiments": []
+  "summary": "positive:4 neutral:5 negative:2",
+  "generatedAt": "2026-09-15T04:02:31.946Z",
+  "topics": [
+    "Promises $5,000 payments to adult citizens if Republicans win Congress",
+    "Reports National Weather Service maps changing Lake Ontario to Lake America"
+  ],
+  "trendingTopic": "Promises $5,000 payments to adult citizens if Republicans win the House and Senate",
+  "secondaryHighlights": [
+    {
+      "topic": "Reports National Weather Service maps changing Lake Ontario to Lake America"
+    }
+  ],
+  "selfPraiseCount": 1,
+  "posts": [
+    {
+      "id": "https://www.trumpstruth.org/statuses/41729",
+      "publishedAt": "2026-09-15T00:01:02.000Z",
+      "title": "[No Title] - Post from September 15, 2026",
+      "text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117272110542335708</span></p>\n\n[Image] A screenshot of a social-media post by Howard Lutnick, whose profile photo and verified account are shown. The post claims that the Kennedy Center lobby ceiling collapsed because of unsafe structural conditions, warns the building should be closed and reconstructed, and says Donald Trump is needed to oversee renovations and raise funds.",
+      "url": "https://www.trumpstruth.org/statuses/41729",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 15, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41729",
+        "pubDate": "Tue, 15 Sep 2026 00:01:02 +0000",
+        "author": "",
+        "content": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117272110542335708</span></p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117272110542335708",
+        "guid": "https://www.trumpstruth.org/statuses/41729",
+        "isoDate": "2026-09-15T00:01:02.000Z"
+      },
+      "imageDescribedAt": "2026-09-15T04:01:55.939Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18138/e06c5978d1147af0-260c9d43f24a.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41728",
+      "publishedAt": "2026-09-15T00:02:33.000Z",
+      "title": "Just like I delivered on the Great Big Beautiful Bill, which everyone said was impossible to pass, and the $1,776 to our great Military Warriors, I will get the $5000 for adult citizens if the Republicans win the House and Senate. JUST GET OUT AND VOTE!!! President DJT",
+      "text": "<p>Just like I delivered on the Great Big Beautiful Bill, which everyone said was impossible to pass, and the $1,776 to our great Military Warriors, I will get the $5000 for adult citizens if the Republicans win the House and Senate. JUST GET OUT AND VOTE!!! President DJT</p>",
+      "url": "https://www.trumpstruth.org/statuses/41728",
+      "raw": {
+        "creator": "",
+        "title": "Just like I delivered on the Great Big Beautiful Bill, which everyone said was impossible to pass, and the $1,776 to our great Military Warriors, I will get the $5000 for adult citizens if the Republicans win the House and Senate. JUST GET OUT AND VOTE!!! President DJT",
+        "link": "https://www.trumpstruth.org/statuses/41728",
+        "pubDate": "Tue, 15 Sep 2026 00:02:33 +0000",
+        "author": "",
+        "content": "<p>Just like I delivered on the Great Big Beautiful Bill, which everyone said was impossible to pass, and the $1,776 to our great Military Warriors, I will get the $5000 for adult citizens if the Republicans win the House and Senate. JUST GET OUT AND VOTE!!! President DJT</p>",
+        "contentSnippet": "Just like I delivered on the Great Big Beautiful Bill, which everyone said was impossible to pass, and the $1,776 to our great Military Warriors, I will get the $5000 for adult citizens if the Republicans win the House and Senate. JUST GET OUT AND VOTE!!! President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/41728",
+        "isoDate": "2026-09-15T00:02:33.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41731",
+      "publishedAt": "2026-09-15T03:23:10.000Z",
+      "title": "National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts:",
+      "text": "<p>National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts: <a href=\"https://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/nat</span><span class=\"invisible\">ional-weather-service-begins-changing-lake-ontario-lake-america-maps-weather</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41731",
+      "raw": {
+        "creator": "",
+        "title": "National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts:",
+        "link": "https://www.trumpstruth.org/statuses/41731",
+        "pubDate": "Tue, 15 Sep 2026 03:23:10 +0000",
+        "author": "",
+        "content": "<p>National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts: <a href=\"https://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/nat</span><span class=\"invisible\">ional-weather-service-begins-changing-lake-ontario-lake-america-maps-weather</span></a></p>",
+        "contentSnippet": "National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts: https://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather",
+        "guid": "https://www.trumpstruth.org/statuses/41731",
+        "isoDate": "2026-09-15T03:23:10.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41739",
+      "publishedAt": "2026-09-15T03:52:13.000Z",
+      "title": "[No Title] - Post from September 15, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41739",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 15, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41739",
+        "pubDate": "Tue, 15 Sep 2026 03:52:13 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41739",
+        "isoDate": "2026-09-15T03:52:13.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41738",
+      "publishedAt": "2026-09-15T03:52:27.000Z",
+      "title": "[No Title] - Post from September 15, 2026",
+      "text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117273023815860960</span></p>\n\n[Image] A screenshot of a post from verified account Whiplash437 claims that Treasury Secretary Scott Bessent announced massive IRS audits of banks, money-services businesses, and financial intermediaries involved in laundering Minnesota funds. The post calls for following the money, prosecuting lawbreakers, and thanks Bessent, ending with a teaser about a shocking future post.",
+      "url": "https://www.trumpstruth.org/statuses/41738",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 15, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41738",
+        "pubDate": "Tue, 15 Sep 2026 03:52:27 +0000",
+        "author": "",
+        "content": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117273023815860960</span></p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117273023815860960",
+        "guid": "https://www.trumpstruth.org/statuses/41738",
+        "isoDate": "2026-09-15T03:52:27.000Z"
+      },
+      "imageDescribedAt": "2026-09-15T04:01:51.761Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18146/e1baa710878928c8-f2ca8b39c7a5.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41737",
+      "publishedAt": "2026-09-15T03:52:53.000Z",
+      "title": "[No Title] - Post from September 15, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41737",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 15, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41737",
+        "pubDate": "Tue, 15 Sep 2026 03:52:53 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41737",
+        "isoDate": "2026-09-15T03:52:53.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41736",
+      "publishedAt": "2026-09-15T03:53:07.000Z",
+      "title": "[No Title] - Post from September 15, 2026",
+      "text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117273026439561125</span></p>\n\n[Image] A screenshot of an Innovation Council social-media post displays three siren emojis and a quote praising Donald Trump as a president for workers, national security, and the economy. The post says Trump understands the industry, sees through online claims, and that the issue involves controlling the future, limiting competition, and shifting liability. It tags @Budowich and Larry Kudlow.",
+      "url": "https://www.trumpstruth.org/statuses/41736",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 15, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41736",
+        "pubDate": "Tue, 15 Sep 2026 03:53:07 +0000",
+        "author": "",
+        "content": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117273026439561125</span></p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117273026439561125",
+        "guid": "https://www.trumpstruth.org/statuses/41736",
+        "isoDate": "2026-09-15T03:53:07.000Z"
+      },
+      "imageDescribedAt": "2026-09-15T04:01:48.357Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18144/f4d7bac43b708996-eec566774ec2.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41735",
+      "publishedAt": "2026-09-15T03:53:32.000Z",
+      "title": "[No Title] - Post from September 15, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41735",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 15, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41735",
+        "pubDate": "Tue, 15 Sep 2026 03:53:32 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41735",
+        "isoDate": "2026-09-15T03:53:32.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41734",
+      "publishedAt": "2026-09-15T03:53:44.000Z",
+      "title": "[No Title] - Post from September 15, 2026",
+      "text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117273029042752027</span></p>\n\n[Image] A screenshot of a post from the verified account Whiplash437, labeled a commentary account. The post begins “BREAKING” and claims that President Donald Trump announced construction of “two brand new, very large battleships,” describing them as the fastest, biggest, and 100 times more powerful than any battleship ever built. It ends with “LET’S FREAKING GO” and fire emojis.",
+      "url": "https://www.trumpstruth.org/statuses/41734",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 15, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41734",
+        "pubDate": "Tue, 15 Sep 2026 03:53:44 +0000",
+        "author": "",
+        "content": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117273029042752027</span></p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117273029042752027",
+        "guid": "https://www.trumpstruth.org/statuses/41734",
+        "isoDate": "2026-09-15T03:53:44.000Z"
+      },
+      "imageDescribedAt": "2026-09-15T04:01:44.387Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18142/4ba9597dbca768e5-4d3bf2e38ace.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41733",
+      "publishedAt": "2026-09-15T03:53:59.000Z",
+      "title": "[No Title] - Post from September 15, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41733",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 15, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41733",
+        "pubDate": "Tue, 15 Sep 2026 03:53:59 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41733",
+        "isoDate": "2026-09-15T03:53:59.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41732",
+      "publishedAt": "2026-09-15T03:54:14.000Z",
+      "title": "[No Title] - Post from September 15, 2026",
+      "text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117273030816566258</span></p>\n\n[Image] A screenshot of a social media post from the account Whiplash437 claims that Florida Governor Ron DeSantis signed a law banning Sharia law from being enforced anywhere in Florida. The post states that Sharia law and Islam are incompatible with America and argues that such a ban should become federal law.",
+      "url": "https://www.trumpstruth.org/statuses/41732",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 15, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41732",
+        "pubDate": "Tue, 15 Sep 2026 03:54:14 +0000",
+        "author": "",
+        "content": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117273030816566258</span></p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117273030816566258",
+        "guid": "https://www.trumpstruth.org/statuses/41732",
+        "isoDate": "2026-09-15T03:54:14.000Z"
+      },
+      "imageDescribedAt": "2026-09-15T04:01:40.400Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18140/8c252cfc38b806d5-d027aec67752.png"
+      ]
+    }
+  ],
+  "sentiments": [
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41728",
+      "label": "positive",
+      "rationale": "The post promotes Trump’s accomplishments and promises future benefits while urging supporters to vote.",
+      "analyzedAt": "2026-09-15T04:02:04.551Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41729",
+      "label": "negative",
+      "rationale": "The post describes unsafe structural conditions and a building collapse, conveying concern and criticism.",
+      "analyzedAt": "2026-09-15T04:02:04.551Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41731",
+      "label": "neutral",
+      "rationale": "The post reports a naming change by the National Weather Service without clear emotional language.",
+      "analyzedAt": "2026-09-15T04:02:04.551Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41732",
+      "label": "negative",
+      "rationale": "The post uses hostile language toward Sharia law and Islam and advocates banning them.",
+      "analyzedAt": "2026-09-15T04:02:04.551Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41733",
+      "label": "neutral",
+      "rationale": "The post contains no text or discernible sentiment.",
+      "analyzedAt": "2026-09-15T04:02:04.551Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41734",
+      "label": "positive",
+      "rationale": "The post enthusiastically celebrates the announcement of new battleships with excited language and emojis.",
+      "analyzedAt": "2026-09-15T04:02:04.551Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41735",
+      "label": "neutral",
+      "rationale": "The post contains no text or discernible sentiment.",
+      "analyzedAt": "2026-09-15T04:02:04.551Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41736",
+      "label": "positive",
+      "rationale": "The post praises Donald Trump as beneficial to workers, national security, and the economy.",
+      "analyzedAt": "2026-09-15T04:02:04.551Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41737",
+      "label": "neutral",
+      "rationale": "The post contains no text or discernible sentiment.",
+      "analyzedAt": "2026-09-15T04:02:04.551Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41738",
+      "label": "positive",
+      "rationale": "The post supports investigations and prosecution of alleged financial wrongdoing and praises the Treasury Secretary.",
+      "analyzedAt": "2026-09-15T04:02:04.551Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41739",
+      "label": "neutral",
+      "rationale": "The post contains no text or discernible sentiment.",
+      "analyzedAt": "2026-09-15T04:02:04.551Z"
+    }
+  ],
+  "topicsCacheKey": "day-themes-v11:11:37d577ce7eb6940d7b18dd39",
+  "selfPraiseCacheKey": "self-praise-v2:11:37d577ce7eb6940d7b18dd39",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41728"
+  ]
 }

@@ -354,29 +354,25 @@
       "date": "2026-09-14",
       "counts": {
         "positive": 9,
-        "neutral": 2,
+        "neutral": 3,
         "negative": 8
       },
-      "summary": "positive:9 neutral:2 negative:8",
+      "summary": "positive:9 neutral:3 negative:8",
       "topics": [
-        "Trump defends AI and data centers, calling warnings of catastrophe a left-wing hoax",
-        "Trump discusses Iran conflict, possible negotiations, oil prices, and expanded U.S. weapons production",
-        "Trump showcases White House renovations, including a new South Lawn heliport and granite entrance"
+        "Trump rejects AI and data-center warnings as hoaxes while promoting U.S. leadership",
+        "Trump addresses Iran conflict, weapons production, oil prices, and possible negotiations",
+        "Trump highlights extensive White House renovations and new South Lawn heliport"
       ],
-      "postsCount": 19,
+      "postsCount": 20,
       "hasDetail": true,
-      "generatedAt": "2026-09-15T00:05:01.130Z",
-      "trendingTopic": "Trump calls AI catastrophe warnings a left-wing hoax while defending data centers and U.S. leadership",
+      "generatedAt": "2026-09-15T04:02:24.059Z",
+      "trendingTopic": "Trump rejects AI takeover warnings as hoaxes and vows to expand U.S. data-center leadership",
       "secondaryHighlights": [
         {
-          "topic": "Trump promises a $5,000 dividend for American adults funded by economic gains"
+          "topic": "Trump addresses Iran conflict, weapons production, oil prices, and possible negotiations"
         },
         {
-          "topic": "Trump touts the Republican midterm convention as a sold-out success ahead of November elections"
-        },
-        {
-          "topic": "Trump attacks Karl Rove as a persistent loser and liability for Republicans",
-          "name": "Karl Rove"
+          "topic": "Trump highlights extensive White House renovations and new South Lawn heliport"
         }
       ],
       "selfPraiseCount": 8
@@ -384,30 +380,39 @@
     {
       "date": "2026-09-15",
       "counts": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 0
+        "positive": 4,
+        "neutral": 5,
+        "negative": 2
       },
-      "summary": "positive:0 neutral:0 negative:0",
-      "topics": [],
-      "postsCount": 0,
+      "summary": "positive:4 neutral:5 negative:2",
+      "topics": [
+        "Promises $5,000 payments to adult citizens if Republicans win Congress",
+        "Reports National Weather Service maps changing Lake Ontario to Lake America"
+      ],
+      "postsCount": 11,
       "hasDetail": true,
-      "generatedAt": "2026-09-15T00:04:37.651Z",
-      "selfPraiseCount": 0
+      "generatedAt": "2026-09-15T04:02:31.946Z",
+      "trendingTopic": "Promises $5,000 payments to adult citizens if Republicans win the House and Senate",
+      "secondaryHighlights": [
+        {
+          "topic": "Reports National Weather Service maps changing Lake Ontario to Lake America"
+        }
+      ],
+      "selfPraiseCount": 1
     }
   ],
-  "generatedAt": "2026-09-15T00:05:01.130Z",
-  "trendingTopic": "Trump portrays Iran as collapsing while defending military action and oil pressure",
+  "generatedAt": "2026-09-15T04:02:31.946Z",
+  "trendingTopic": "Escalates and defends the Iran conflict while portraying the country as collapsing and pressuring its oil supply",
   "secondaryHighlights": [
     {
-      "topic": "Trump targets Canada and foreign trade practices with tariffs and procurement restrictions"
+      "topic": "Promotes Republican candidates, rallies, and the Dallas midterm convention"
     },
     {
-      "topic": "Trump claims Michael Cohen recanted testimony and demands dismissals in New York cases"
+      "topic": "Showcases White House renovations, a ballroom, heliports, and monumental architecture"
     },
     {
-      "topic": "Trump defends AI data centers and U.S. leadership against catastrophe warnings"
+      "topic": "Promises $5,000 payments to adults if Republicans win Congress"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:14:52c75f8e7ac089af475df856"
+  "topicsCacheKey": "month-themes-v5:15:8f696530cecf9614e9ca6ba2"
 }
