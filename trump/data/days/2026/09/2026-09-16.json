@@ -6,12 +6,22 @@
     "negative": 0
   },
   "summary": "positive:1 neutral:0 negative:0",
-  "generatedAt": "2026-09-16T04:02:12.129Z",
+  "generatedAt": "2026-09-16T08:02:16.244Z",
   "topics": [
     "Washington Post opinion argues Iran leaks expose Trump's willingness to trust an enemy's assurances"
   ],
   "trendingTopic": "Washington Post opinion argues Iran leaks expose Trump's willingness to trust an enemy's assurances",
+  "secondaryHighlights": [
+    {
+      "topic": "What the disloyal leaks about Iran prove about Trump"
+    }
+  ],
   "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v11:1:7328b9399630c5b681726f7d",
+  "selfPraiseCacheKey": "self-praise-v2:1:7328b9399630c5b681726f7d",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41747"
+  ],
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41747",
@@ -38,16 +48,6 @@
       "label": "positive",
       "rationale": "The post frames the leaks as disloyal and points to commentary presenting Trump’s handling of Iran favorably.",
       "analyzedAt": "2026-09-16T04:01:58.836Z"
-    }
-  ],
-  "topicsCacheKey": "day-themes-v11:1:7328b9399630c5b681726f7d",
-  "selfPraiseCacheKey": "self-praise-v2:1:7328b9399630c5b681726f7d",
-  "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/41747"
-  ],
-  "secondaryHighlights": [
-    {
-      "topic": "What the disloyal leaks about Iran prove about Trump"
     }
   ]
 }
