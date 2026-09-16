@@ -392,7 +392,7 @@
       ],
       "postsCount": 17,
       "hasDetail": true,
-      "generatedAt": "2026-09-16T00:01:17.738Z",
+      "generatedAt": "2026-09-16T04:01:49.865Z",
       "trendingTopic": "Kennedy Center board votes to close the building immediately for safety and reconstruction",
       "secondaryHighlights": [
         {
@@ -412,30 +412,38 @@
     {
       "date": "2026-09-16",
       "counts": {
-        "positive": 0,
+        "positive": 1,
         "neutral": 0,
         "negative": 0
       },
-      "summary": "positive:0 neutral:0 negative:0",
-      "topics": [],
-      "postsCount": 0,
+      "summary": "positive:1 neutral:0 negative:0",
+      "topics": [
+        "Washington Post opinion argues Iran leaks expose Trump's willingness to trust an enemy's assurances"
+      ],
+      "postsCount": 1,
       "hasDetail": true,
-      "generatedAt": "2026-09-16T00:01:20.281Z",
-      "selfPraiseCount": 0
+      "generatedAt": "2026-09-16T04:02:12.129Z",
+      "trendingTopic": "Washington Post opinion argues Iran leaks expose Trump's willingness to trust an enemy's assurances",
+      "secondaryHighlights": [
+        {
+          "topic": "What the disloyal leaks about Iran prove about Trump"
+        }
+      ],
+      "selfPraiseCount": 1
     }
   ],
-  "generatedAt": "2026-09-16T00:01:20.281Z",
-  "trendingTopic": "Trump portrays Iran as collapsing amid war, oil pressure, and possible negotiations",
+  "generatedAt": "2026-09-16T04:02:12.129Z",
+  "trendingTopic": "Trump portrays Iran as collapsing while defending the war and pressuring oil routes",
   "secondaryHighlights": [
     {
-      "topic": "Trump drives Republican midterm endorsements, rallies, and convention campaigning"
+      "topic": "Trump pushes renaming New Mexico and Lake Ontario as “New America” and “Lake America”"
     },
     {
-      "topic": "Trump promotes White House renovations, patriotic place renamings, and Washington monuments"
+      "topic": "Trump and allies revive allegations of misconduct in FBI and New York investigations"
     },
     {
-      "topic": "Trump advances economic and trade claims on jobs, tariffs, interest rates, and foreign practices"
+      "topic": "Trump promises $5,000 payments or dividends to American adults"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:15:c3a34e70668131bbda483faa"
+  "topicsCacheKey": "month-themes-v5:16:70091107be24765a70d53059"
 }

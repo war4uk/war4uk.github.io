@@ -1,14 +1,53 @@
 {
   "date": "2026-09-16",
   "counts": {
-    "positive": 0,
+    "positive": 1,
     "neutral": 0,
     "negative": 0
   },
-  "summary": "positive:0 neutral:0 negative:0",
-  "generatedAt": "2026-09-16T00:01:20.281Z",
-  "topics": [],
-  "selfPraiseCount": 0,
-  "posts": [],
-  "sentiments": []
+  "summary": "positive:1 neutral:0 negative:0",
+  "generatedAt": "2026-09-16T04:02:12.129Z",
+  "topics": [
+    "Washington Post opinion argues Iran leaks expose Trump's willingness to trust an enemy's assurances"
+  ],
+  "trendingTopic": "Washington Post opinion argues Iran leaks expose Trump's willingness to trust an enemy's assurances",
+  "selfPraiseCount": 1,
+  "posts": [
+    {
+      "id": "https://www.trumpstruth.org/statuses/41747",
+      "publishedAt": "2026-09-16T02:19:13.000Z",
+      "title": "What the disloyal leaks about Iran prove about Trump:",
+      "text": "<p>What the disloyal leaks about Iran prove about Trump: <a href=\"https://www.washingtonpost.com/opinions/2026/08/27/iran-trump-took-an-enemy-its-word-if-only-past-leaders-had/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">26/08/27/iran-trump-took-an-enemy-its-word-if-only-past-leaders-had/</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41747",
+      "raw": {
+        "creator": "",
+        "title": "What the disloyal leaks about Iran prove about Trump:",
+        "link": "https://www.trumpstruth.org/statuses/41747",
+        "pubDate": "Wed, 16 Sep 2026 02:19:13 +0000",
+        "author": "",
+        "content": "<p>What the disloyal leaks about Iran prove about Trump: <a href=\"https://www.washingtonpost.com/opinions/2026/08/27/iran-trump-took-an-enemy-its-word-if-only-past-leaders-had/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">26/08/27/iran-trump-took-an-enemy-its-word-if-only-past-leaders-had/</span></a></p>",
+        "contentSnippet": "What the disloyal leaks about Iran prove about Trump: https://www.washingtonpost.com/opinions/2026/08/27/iran-trump-took-an-enemy-its-word-if-only-past-leaders-had/",
+        "guid": "https://www.trumpstruth.org/statuses/41747",
+        "isoDate": "2026-09-16T02:19:13.000Z"
+      }
+    }
+  ],
+  "sentiments": [
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41747",
+      "label": "positive",
+      "rationale": "The post frames the leaks as disloyal and points to commentary presenting Trump’s handling of Iran favorably.",
+      "analyzedAt": "2026-09-16T04:01:58.836Z"
+    }
+  ],
+  "topicsCacheKey": "day-themes-v11:1:7328b9399630c5b681726f7d",
+  "selfPraiseCacheKey": "self-praise-v2:1:7328b9399630c5b681726f7d",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41747"
+  ],
+  "secondaryHighlights": [
+    {
+      "topic": "What the disloyal leaks about Iran prove about Trump"
+    }
+  ]
 }
