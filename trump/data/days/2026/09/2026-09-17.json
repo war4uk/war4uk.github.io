@@ -6,7 +6,7 @@
     "negative": 0
   },
   "summary": "positive:3 neutral:2 negative:0",
-  "generatedAt": "2026-09-17T04:02:08.262Z",
+  "generatedAt": "2026-09-17T08:01:00.342Z",
   "topics": [
     "National Weather Service begins labeling Lake Ontario as Lake America",
     "Trump appears in an image branded “The Hoax Buster”",
@@ -25,6 +25,12 @@
     }
   ],
   "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:5:fb07c68498eb23e6e00c4617",
+  "selfPraiseCacheKey": "self-praise-v2:5:fb07c68498eb23e6e00c4617",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41756",
+    "https://www.trumpstruth.org/statuses/41755"
+  ],
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41754",
@@ -164,11 +170,5 @@
       "rationale": "The post depicts the Iwo Jima Memorial and contains descriptive content without clear positive or negative sentiment.",
       "analyzedAt": "2026-09-17T04:01:52.893Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v11:5:fb07c68498eb23e6e00c4617",
-  "selfPraiseCacheKey": "self-praise-v2:5:fb07c68498eb23e6e00c4617",
-  "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/41756",
-    "https://www.trumpstruth.org/statuses/41755"
   ]
 }
