@@ -1,35 +1,36 @@
 {
   "date": "2026-09-17",
   "counts": {
-    "positive": 3,
+    "positive": 4,
     "neutral": 2,
     "negative": 0
   },
-  "summary": "positive:3 neutral:2 negative:0",
-  "generatedAt": "2026-09-17T12:04:49.863Z",
+  "summary": "positive:4 neutral:2 negative:0",
+  "generatedAt": "2026-09-17T16:07:22.451Z",
   "topics": [
-    "National Weather Service begins labeling Lake Ontario as Lake America",
-    "Trump appears in an image branded “The Hoax Buster”",
-    "White House image promotes “Only Trump”"
+    "Shares self-promotional Trump graphics portraying him as “The Hoax Buster” and the sole presidential choice",
+    "National Weather Service begins labeling Lake Ontario as “Lake America”",
+    "White House publishes Trump’s 250 victories for people of faith"
   ],
-  "trendingTopic": "National Weather Service begins labeling Lake Ontario as Lake America on maps and forecasts",
+  "trendingTopic": "Shares graphics portraying Donald Trump as “The Hoax Buster” and the sole presidential choice",
   "secondaryHighlights": [
     {
-      "topic": "Trump appears in an image branded “The Hoax Buster”"
+      "topic": "National Weather Service begins labeling Lake Ontario as “Lake America”"
     },
     {
-      "topic": "White House image promotes “Only Trump”"
+      "topic": "White House publishes Trump’s 250 victories for people of faith"
     },
     {
-      "topic": "Iwo Jima Memorial shown behind construction fencing and equipment"
+      "topic": "Shares an image of the Iwo Jima Memorial"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v11:5:fb07c68498eb23e6e00c4617",
-  "selfPraiseCacheKey": "self-praise-v2:5:fb07c68498eb23e6e00c4617",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:6:883ec5c9f6cc71e913cf9c8b",
+  "selfPraiseCacheKey": "self-praise-v2:6:883ec5c9f6cc71e913cf9c8b",
   "selfPraisePostIds": [
     "https://www.trumpstruth.org/statuses/41756",
-    "https://www.trumpstruth.org/statuses/41755"
+    "https://www.trumpstruth.org/statuses/41755",
+    "https://www.trumpstruth.org/statuses/41759"
   ],
   "posts": [
     {
@@ -137,6 +138,24 @@
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18155/52fdbf7af46dcba1-98cba1ee996f.jpg"
       ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41759",
+      "publishedAt": "2026-09-17T13:00:22.000Z",
+      "title": "President Trump’s Top 250 Victories For People of Faith:",
+      "text": "<p>President Trump’s Top 250 Victories For People of Faith: <a href=\"https://www.whitehouse.gov/releases/2026/09/president-trumps-top-250-victories-for-people-of-faith/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">whitehouse.gov/releases/2026/0</span><span class=\"invisible\">9/president-trumps-top-250-victories-for-people-of-faith/</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41759",
+      "raw": {
+        "creator": "",
+        "title": "President Trump’s Top 250 Victories For People of Faith:",
+        "link": "https://www.trumpstruth.org/statuses/41759",
+        "pubDate": "Thu, 17 Sep 2026 13:00:22 +0000",
+        "author": "",
+        "content": "<p>President Trump’s Top 250 Victories For People of Faith: <a href=\"https://www.whitehouse.gov/releases/2026/09/president-trumps-top-250-victories-for-people-of-faith/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">whitehouse.gov/releases/2026/0</span><span class=\"invisible\">9/president-trumps-top-250-victories-for-people-of-faith/</span></a></p>",
+        "contentSnippet": "President Trump’s Top 250 Victories For People of Faith: https://www.whitehouse.gov/releases/2026/09/president-trumps-top-250-victories-for-people-of-faith/",
+        "guid": "https://www.trumpstruth.org/statuses/41759",
+        "isoDate": "2026-09-17T13:00:22.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -169,6 +188,12 @@
       "label": "neutral",
       "rationale": "The post depicts the Iwo Jima Memorial and contains descriptive content without clear positive or negative sentiment.",
       "analyzedAt": "2026-09-17T04:01:52.893Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41759",
+      "label": "positive",
+      "rationale": "The post highlights President Trump’s claimed victories for people of faith, using favorable and celebratory framing.",
+      "analyzedAt": "2026-09-17T16:04:23.028Z"
     }
   ]
 }

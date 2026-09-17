@@ -424,7 +424,7 @@
       ],
       "postsCount": 7,
       "hasDetail": true,
-      "generatedAt": "2026-09-17T12:04:46.805Z",
+      "generatedAt": "2026-09-17T16:04:17.124Z",
       "trendingTopic": "Trump demands U.S. interest rates fall to 1% or less, citing investment and trade deficits",
       "secondaryHighlights": [
         {
@@ -436,46 +436,46 @@
     {
       "date": "2026-09-17",
       "counts": {
-        "positive": 3,
+        "positive": 4,
         "neutral": 2,
         "negative": 0
       },
-      "summary": "positive:3 neutral:2 negative:0",
+      "summary": "positive:4 neutral:2 negative:0",
       "topics": [
-        "National Weather Service begins labeling Lake Ontario as Lake America",
-        "Trump appears in an image branded “The Hoax Buster”",
-        "White House image promotes “Only Trump”"
+        "Shares self-promotional Trump graphics portraying him as “The Hoax Buster” and the sole presidential choice",
+        "National Weather Service begins labeling Lake Ontario as “Lake America”",
+        "White House publishes Trump’s 250 victories for people of faith"
       ],
-      "postsCount": 5,
+      "postsCount": 6,
       "hasDetail": true,
-      "generatedAt": "2026-09-17T12:04:49.863Z",
-      "trendingTopic": "National Weather Service begins labeling Lake Ontario as Lake America on maps and forecasts",
+      "generatedAt": "2026-09-17T16:07:22.451Z",
+      "trendingTopic": "Shares graphics portraying Donald Trump as “The Hoax Buster” and the sole presidential choice",
       "secondaryHighlights": [
         {
-          "topic": "Trump appears in an image branded “The Hoax Buster”"
+          "topic": "National Weather Service begins labeling Lake Ontario as “Lake America”"
         },
         {
-          "topic": "White House image promotes “Only Trump”"
+          "topic": "White House publishes Trump’s 250 victories for people of faith"
         },
         {
-          "topic": "Iwo Jima Memorial shown behind construction fencing and equipment"
+          "topic": "Shares an image of the Iwo Jima Memorial"
         }
       ],
-      "selfPraiseCount": 2
+      "selfPraiseCount": 3
     }
   ],
-  "generatedAt": "2026-09-17T12:04:49.863Z",
-  "trendingTopic": "Trump portrays Iran as collapsing while defending the U.S. military operation and discussing oil and negotiations",
+  "generatedAt": "2026-09-17T16:07:22.451Z",
+  "trendingTopic": "Trump promotes renovations and patriotic projects at Washington landmarks",
   "secondaryHighlights": [
     {
-      "topic": "Trump promotes renaming Lake Ontario and New Mexico with American-themed names"
+      "topic": "Trump administration advances American-themed renaming of Lake Ontario and New Mexico"
     },
     {
-      "topic": "Trump pushes lower interest rates while touting jobs, tariffs, and economic growth"
+      "topic": "Trump attacks New York cases and FBI investigations involving Michael Cohen, Michael Flynn, and Biden"
     },
     {
-      "topic": "Kennedy Center closes immediately for safety repairs and reconstruction"
+      "topic": "Trump pushes trade reciprocity and lower interest rates amid economic pressure"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:17:7a66dd6d315c037943d28bc6"
+  "topicsCacheKey": "month-themes-v5:17:9b5d93840db56ecf5cbf94c3"
 }
