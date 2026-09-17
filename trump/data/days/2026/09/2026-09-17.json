@@ -1,36 +1,34 @@
 {
   "date": "2026-09-17",
   "counts": {
-    "positive": 4,
+    "positive": 9,
     "neutral": 2,
     "negative": 0
   },
-  "summary": "positive:4 neutral:2 negative:0",
-  "generatedAt": "2026-09-17T16:07:22.451Z",
+  "summary": "positive:9 neutral:2 negative:0",
+  "generatedAt": "2026-09-17T20:04:50.990Z",
   "topics": [
-    "Shares self-promotional Trump graphics portraying him as “The Hoax Buster” and the sole presidential choice",
-    "National Weather Service begins labeling Lake Ontario as “Lake America”",
-    "White House publishes Trump’s 250 victories for people of faith"
+    "Trump praises bipartisan Senate vote to regulate college sports NIL compensation",
+    "Trump celebrates Farm Bill committee passage and promises aid for farmers and ranchers",
+    "Trump announces progress toward a possible U.S. Army base in Poland"
   ],
-  "trendingTopic": "Shares graphics portraying Donald Trump as “The Hoax Buster” and the sole presidential choice",
+  "trendingTopic": "Trump praises bipartisan Senate vote to regulate college sports NIL compensation",
   "secondaryHighlights": [
     {
-      "topic": "National Weather Service begins labeling Lake Ontario as “Lake America”"
+      "topic": "Trump celebrates Farm Bill committee passage and promises aid for farmers and ranchers"
     },
     {
-      "topic": "White House publishes Trump’s 250 victories for people of faith"
-    },
-    {
-      "topic": "Shares an image of the Iwo Jima Memorial"
+      "topic": "Trump announces progress toward a possible U.S. Army base in Poland"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v11:6:883ec5c9f6cc71e913cf9c8b",
-  "selfPraiseCacheKey": "self-praise-v2:6:883ec5c9f6cc71e913cf9c8b",
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v11:11:3c3d59a98d77debb95715cf7",
+  "selfPraiseCacheKey": "self-praise-v2:11:3c3d59a98d77debb95715cf7",
   "selfPraisePostIds": [
     "https://www.trumpstruth.org/statuses/41756",
     "https://www.trumpstruth.org/statuses/41755",
-    "https://www.trumpstruth.org/statuses/41759"
+    "https://www.trumpstruth.org/statuses/41759",
+    "https://www.trumpstruth.org/statuses/41764"
   ],
   "posts": [
     {
@@ -156,6 +154,104 @@
         "guid": "https://www.trumpstruth.org/statuses/41759",
         "isoDate": "2026-09-17T13:00:22.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41760",
+      "publishedAt": "2026-09-17T17:25:11.000Z",
+      "title": "GREAT NEWS! Thanks to the bold leadership of my friend, Karol Nawrocki, President of Poland, major progress is being made toward establishing a U.S. Army base in Poland. If this happens, the location will be announced very soon. This will be a historic step for our Great U.S./Polish Alliance. Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "text": "<p>GREAT NEWS! Thanks to the bold leadership of my friend, Karol Nawrocki, President of Poland, major progress is being made toward establishing a U.S. Army base in Poland. If this happens, the location will be announced very soon. This will be a historic step for our Great U.S./Polish Alliance. Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41760",
+      "raw": {
+        "creator": "",
+        "title": "GREAT NEWS! Thanks to the bold leadership of my friend, Karol Nawrocki, President of Poland, major progress is being made toward establishing a U.S. Army base in Poland. If this happens, the location will be announced very soon. This will be a historic step for our Great U.S./Polish Alliance. Thank you for your attention to this matter. President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41760",
+        "pubDate": "Thu, 17 Sep 2026 17:25:11 +0000",
+        "author": "",
+        "content": "<p>GREAT NEWS! Thanks to the bold leadership of my friend, Karol Nawrocki, President of Poland, major progress is being made toward establishing a U.S. Army base in Poland. If this happens, the location will be announced very soon. This will be a historic step for our Great U.S./Polish Alliance. Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+        "contentSnippet": "GREAT NEWS! Thanks to the bold leadership of my friend, Karol Nawrocki, President of Poland, major progress is being made toward establishing a U.S. Army base in Poland. If this happens, the location will be announced very soon. This will be a historic step for our Great U.S./Polish Alliance. Thank you for your attention to this matter. President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41760",
+        "isoDate": "2026-09-17T17:25:11.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41761",
+      "publishedAt": "2026-09-17T18:07:01.000Z",
+      "title": "[No Title] - Post from September 17, 2026",
+      "text": "[Image] A screenshot of an X post by John Solomon says, “GOP midterm convention last week draws over 100 million live stream views.” The attached photo shows several silhouetted people walking across a dark stage in front of bright red, white, and blue graphics featuring stars, stripes, and the words “DALLAS 2025.” The post shows engagement counts and a Justthenews.com attribution.",
+      "url": "https://www.trumpstruth.org/statuses/41761",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 17, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41761",
+        "pubDate": "Thu, 17 Sep 2026 18:07:01 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41761",
+        "isoDate": "2026-09-17T18:07:01.000Z"
+      },
+      "imageDescribedAt": "2026-09-17T20:04:32.276Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18158/67e1d6a7b0a2429f-a23ab6a0b414.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41762",
+      "publishedAt": "2026-09-17T18:14:32.000Z",
+      "title": "Great news on NIL, in other words, straightening out the horrible situation taking place with respect to College Sports. It is out of control, and will lead to bankruptcies and disaster for many Colleges. If nothing is done, it is also very bad for Women’s Sports, all Olympic Sports, and everything else other than Football — But even Football is bad because, without “caps,” all Colleges will be financially consumed and, in many cases, it will ruin them. We can’t have Professional Athletes going back to College for Big Dollars, and playing against much younger competitors. It’s both dangerous and unfair! I want to thank all of the United States Senate for a very Bipartisan Vote. Both Parties know the importance of it. The only two Republicans that we lost were, surprisingly, from the Great State of Florida, Ashley Moody and Rick Scott, but I believe they will come along. This Vote is vital to future Sports in America. I look forward to the Final Vote in the Senate next week and, ultimately, our House of Representatives. Thank you very much to Coach Nick Saban, Randy Levine, of The New York Yankees, and all of the others, especially those involved with Sports, that helped! This issue is polling at 91% — THE PEOPLE OF AMERICA WANT IT DONE. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+      "text": "<p>Great news on NIL, in other words, straightening out the horrible situation taking place with respect to College Sports. It is out of control, and will lead to bankruptcies and disaster for many Colleges. If nothing is done, it is also very bad for Women’s Sports, all Olympic Sports, and everything else other than Football — But even Football is bad because, without “caps,” all Colleges will be financially consumed and, in many cases, it will ruin them. We can’t have Professional Athletes going back to College for Big Dollars, and playing against much younger competitors. It’s both dangerous and unfair! I want to thank all of the United States Senate for a very Bipartisan Vote. Both Parties know the importance of it. The only two Republicans that we lost were, surprisingly, from the Great State of Florida, Ashley Moody and Rick Scott, but I believe they will come along. This Vote is vital to future Sports in America. I look forward to the Final Vote in the Senate next week and, ultimately, our House of Representatives. Thank you very much to Coach Nick Saban, Randy Levine, of The New York Yankees, and all of the others, especially those involved with Sports, that helped! This issue is polling at 91% — THE PEOPLE OF AMERICA WANT IT DONE. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41762",
+      "raw": {
+        "creator": "",
+        "title": "Great news on NIL, in other words, straightening out the horrible situation taking place with respect to College Sports. It is out of control, and will lead to bankruptcies and disaster for many Colleges. If nothing is done, it is also very bad for Women’s Sports, all Olympic Sports, and everything else other than Football — But even Football is bad because, without “caps,” all Colleges will be financially consumed and, in many cases, it will ruin them. We can’t have Professional Athletes going back to College for Big Dollars, and playing against much younger competitors. It’s both dangerous and unfair! I want to thank all of the United States Senate for a very Bipartisan Vote. Both Parties know the importance of it. The only two Republicans that we lost were, surprisingly, from the Great State of Florida, Ashley Moody and Rick Scott, but I believe they will come along. This Vote is vital to future Sports in America. I look forward to the Final Vote in the Senate next week and, ultimately, our House of Representatives. Thank you very much to Coach Nick Saban, Randy Levine, of The New York Yankees, and all of the others, especially those involved with Sports, that helped! This issue is polling at 91% — THE PEOPLE OF AMERICA WANT IT DONE. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41762",
+        "pubDate": "Thu, 17 Sep 2026 18:14:32 +0000",
+        "author": "",
+        "content": "<p>Great news on NIL, in other words, straightening out the horrible situation taking place with respect to College Sports. It is out of control, and will lead to bankruptcies and disaster for many Colleges. If nothing is done, it is also very bad for Women’s Sports, all Olympic Sports, and everything else other than Football — But even Football is bad because, without “caps,” all Colleges will be financially consumed and, in many cases, it will ruin them. We can’t have Professional Athletes going back to College for Big Dollars, and playing against much younger competitors. It’s both dangerous and unfair! I want to thank all of the United States Senate for a very Bipartisan Vote. Both Parties know the importance of it. The only two Republicans that we lost were, surprisingly, from the Great State of Florida, Ashley Moody and Rick Scott, but I believe they will come along. This Vote is vital to future Sports in America. I look forward to the Final Vote in the Senate next week and, ultimately, our House of Representatives. Thank you very much to Coach Nick Saban, Randy Levine, of The New York Yankees, and all of the others, especially those involved with Sports, that helped! This issue is polling at 91% — THE PEOPLE OF AMERICA WANT IT DONE. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Great news on NIL, in other words, straightening out the horrible situation taking place with respect to College Sports. It is out of control, and will lead to bankruptcies and disaster for many Colleges. If nothing is done, it is also very bad for Women’s Sports, all Olympic Sports, and everything else other than Football — But even Football is bad because, without “caps,” all Colleges will be financially consumed and, in many cases, it will ruin them. We can’t have Professional Athletes going back to College for Big Dollars, and playing against much younger competitors. It’s both dangerous and unfair! I want to thank all of the United States Senate for a very Bipartisan Vote. Both Parties know the importance of it. The only two Republicans that we lost were, surprisingly, from the Great State of Florida, Ashley Moody and Rick Scott, but I believe they will come along. This Vote is vital to future Sports in America. I look forward to the Final Vote in the Senate next week and, ultimately, our House of Representatives. Thank you very much to Coach Nick Saban, Randy Levine, of The New York Yankees, and all of the others, especially those involved with Sports, that helped! This issue is polling at 91% — THE PEOPLE OF AMERICA WANT IT DONE. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41762",
+        "isoDate": "2026-09-17T18:14:32.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41763",
+      "publishedAt": "2026-09-17T18:19:59.000Z",
+      "title": "[No Title] - Post from September 17, 2026",
+      "text": "[Image] A before-and-after comparison shows a white exterior wall and parapet. The upper “before” image has cracked, stained, textured concrete, with a red cooler and other items on top. The lower “after” image shows the wall resurfaced and smoothly painted light gray, with a clean ledge and unobstructed view of trees and neighboring buildings.",
+      "url": "https://www.trumpstruth.org/statuses/41763",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 17, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41763",
+        "pubDate": "Thu, 17 Sep 2026 18:19:59 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41763",
+        "isoDate": "2026-09-17T18:19:59.000Z"
+      },
+      "imageDescribedAt": "2026-09-17T20:04:29.155Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18159/4424d710a580b78b-14a0ba83f890.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41764",
+      "publishedAt": "2026-09-17T19:35:54.000Z",
+      "title": "I was proud to be the President that got our last Farm Bill done, in December of 2018, after the previous President, Barack Hussein Obama, was unable to get it passed (Or didn’t want to!). Now I look forward to being the President who again, along with our Great Republican Senators and Congressmen/women will get it done, for a second time but, even more conclusively, and an even better Bill. Yesterday our Farm Bill passed along strict Party Lines, 12 Republican “YEAS,” to 11 Dumocrat “NAYS.” So, in other words, we got it done! The Phase Two Vote will be taken soon, and I feel confident that the Republicans will again come through for our wonderful Farmers and Ranchers. It will be passed! Such a Great Honor to be involved with our Republican Majorities in getting this Legislation done, especially with the great things that are included in it. We look forward to the Vote! I want to totally reassure our Farmers and Ranchers, and our Rural Communities, that they will be extremely happy with the end result. In addition to everything else, some much needed Dollar Assistance will be provided — and well deserved — considering all these incredible people have had to endure due to four years of Sleepy Joe Biden, and the very Anti-Farm Biden Administration. MAKE AMERICA GREAT AGAIN! Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "text": "<p>I was proud to be the President that got our last Farm Bill done, in December of 2018, after the previous President, Barack Hussein Obama, was unable to get it passed (Or didn’t want to!). Now I look forward to being the President who again, along with our Great Republican Senators and Congressmen/women will get it done, for a second time but, even more conclusively, and an even better Bill. Yesterday our Farm Bill passed along strict Party Lines, 12 Republican “YEAS,” to 11 Dumocrat “NAYS.” So, in other words, we got it done! The Phase Two Vote will be taken soon, and I feel confident that the Republicans will again come through for our wonderful Farmers and Ranchers. It will be passed! Such a Great Honor to be involved with our Republican Majorities in getting this Legislation done, especially with the great things that are included in it. We look forward to the Vote! I want to totally reassure our Farmers and Ranchers, and our Rural Communities, that they will be extremely happy with the end result. In addition to everything else, some much needed Dollar Assistance will be provided — and well deserved — considering all these incredible people have had to endure due to four years of Sleepy Joe Biden, and the very Anti-Farm Biden Administration. MAKE AMERICA GREAT AGAIN! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41764",
+      "raw": {
+        "creator": "",
+        "title": "I was proud to be the President that got our last Farm Bill done, in December of 2018, after the previous President, Barack Hussein Obama, was unable to get it passed (Or didn’t want to!). Now I look forward to being the President who again, along with our Great Republican Senators and Congressmen/women will get it done, for a second time but, even more conclusively, and an even better Bill. Yesterday our Farm Bill passed along strict Party Lines, 12 Republican “YEAS,” to 11 Dumocrat “NAYS.” So, in other words, we got it done! The Phase Two Vote will be taken soon, and I feel confident that the Republicans will again come through for our wonderful Farmers and Ranchers. It will be passed! Such a Great Honor to be involved with our Republican Majorities in getting this Legislation done, especially with the great things that are included in it. We look forward to the Vote! I want to totally reassure our Farmers and Ranchers, and our Rural Communities, that they will be extremely happy with the end result. In addition to everything else, some much needed Dollar Assistance will be provided — and well deserved — considering all these incredible people have had to endure due to four years of Sleepy Joe Biden, and the very Anti-Farm Biden Administration. MAKE AMERICA GREAT AGAIN! Thank you for your attention to this matter. President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41764",
+        "pubDate": "Thu, 17 Sep 2026 19:35:54 +0000",
+        "author": "",
+        "content": "<p>I was proud to be the President that got our last Farm Bill done, in December of 2018, after the previous President, Barack Hussein Obama, was unable to get it passed (Or didn’t want to!). Now I look forward to being the President who again, along with our Great Republican Senators and Congressmen/women will get it done, for a second time but, even more conclusively, and an even better Bill. Yesterday our Farm Bill passed along strict Party Lines, 12 Republican “YEAS,” to 11 Dumocrat “NAYS.” So, in other words, we got it done! The Phase Two Vote will be taken soon, and I feel confident that the Republicans will again come through for our wonderful Farmers and Ranchers. It will be passed! Such a Great Honor to be involved with our Republican Majorities in getting this Legislation done, especially with the great things that are included in it. We look forward to the Vote! I want to totally reassure our Farmers and Ranchers, and our Rural Communities, that they will be extremely happy with the end result. In addition to everything else, some much needed Dollar Assistance will be provided — and well deserved — considering all these incredible people have had to endure due to four years of Sleepy Joe Biden, and the very Anti-Farm Biden Administration. MAKE AMERICA GREAT AGAIN! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+        "contentSnippet": "I was proud to be the President that got our last Farm Bill done, in December of 2018, after the previous President, Barack Hussein Obama, was unable to get it passed (Or didn’t want to!). Now I look forward to being the President who again, along with our Great Republican Senators and Congressmen/women will get it done, for a second time but, even more conclusively, and an even better Bill. Yesterday our Farm Bill passed along strict Party Lines, 12 Republican “YEAS,” to 11 Dumocrat “NAYS.” So, in other words, we got it done! The Phase Two Vote will be taken soon, and I feel confident that the Republicans will again come through for our wonderful Farmers and Ranchers. It will be passed! Such a Great Honor to be involved with our Republican Majorities in getting this Legislation done, especially with the great things that are included in it. We look forward to the Vote! I want to totally reassure our Farmers and Ranchers, and our Rural Communities, that they will be extremely happy with the end result. In addition to everything else, some much needed Dollar Assistance will be provided — and well deserved — considering all these incredible people have had to endure due to four years of Sleepy Joe Biden, and the very Anti-Farm Biden Administration. MAKE AMERICA GREAT AGAIN! Thank you for your attention to this matter. President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41764",
+        "isoDate": "2026-09-17T19:35:54.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -194,6 +290,36 @@
       "label": "positive",
       "rationale": "The post highlights President Trump’s claimed victories for people of faith, using favorable and celebratory framing.",
       "analyzedAt": "2026-09-17T16:04:23.028Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41760",
+      "label": "positive",
+      "rationale": "Celebrates progress toward establishing a U.S. Army base in Poland and praises the strengthening of the U.S.-Polish alliance.",
+      "analyzedAt": "2026-09-17T20:04:36.970Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41761",
+      "label": "positive",
+      "rationale": "Highlights strong viewership for a Republican convention, presenting the event's reach as a favorable development.",
+      "analyzedAt": "2026-09-17T20:04:36.970Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41762",
+      "label": "positive",
+      "rationale": "Celebrates bipartisan progress on regulating college sports and expresses optimism that the legislation will pass, despite criticizing the current situation.",
+      "analyzedAt": "2026-09-17T20:04:36.970Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41763",
+      "label": "positive",
+      "rationale": "Shows a visibly improved and cleaned exterior wall in the after image.",
+      "analyzedAt": "2026-09-17T20:04:36.970Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41764",
+      "label": "positive",
+      "rationale": "Expresses pride and confidence about passing the Farm Bill, praises Republican lawmakers, and promises support for farmers and rural communities.",
+      "analyzedAt": "2026-09-17T20:04:36.970Z"
     }
   ]
 }

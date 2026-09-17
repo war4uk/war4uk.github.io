@@ -424,7 +424,7 @@
       ],
       "postsCount": 7,
       "hasDetail": true,
-      "generatedAt": "2026-09-17T16:04:17.124Z",
+      "generatedAt": "2026-09-17T20:04:21.823Z",
       "trendingTopic": "Trump demands U.S. interest rates fall to 1% or less, citing investment and trade deficits",
       "secondaryHighlights": [
         {
@@ -436,46 +436,43 @@
     {
       "date": "2026-09-17",
       "counts": {
-        "positive": 4,
+        "positive": 9,
         "neutral": 2,
         "negative": 0
       },
-      "summary": "positive:4 neutral:2 negative:0",
+      "summary": "positive:9 neutral:2 negative:0",
       "topics": [
-        "Shares self-promotional Trump graphics portraying him as “The Hoax Buster” and the sole presidential choice",
-        "National Weather Service begins labeling Lake Ontario as “Lake America”",
-        "White House publishes Trump’s 250 victories for people of faith"
+        "Trump praises bipartisan Senate vote to regulate college sports NIL compensation",
+        "Trump celebrates Farm Bill committee passage and promises aid for farmers and ranchers",
+        "Trump announces progress toward a possible U.S. Army base in Poland"
       ],
-      "postsCount": 6,
+      "postsCount": 11,
       "hasDetail": true,
-      "generatedAt": "2026-09-17T16:07:22.451Z",
-      "trendingTopic": "Shares graphics portraying Donald Trump as “The Hoax Buster” and the sole presidential choice",
+      "generatedAt": "2026-09-17T20:04:50.990Z",
+      "trendingTopic": "Trump praises bipartisan Senate vote to regulate college sports NIL compensation",
       "secondaryHighlights": [
         {
-          "topic": "National Weather Service begins labeling Lake Ontario as “Lake America”"
+          "topic": "Trump celebrates Farm Bill committee passage and promises aid for farmers and ranchers"
         },
         {
-          "topic": "White House publishes Trump’s 250 victories for people of faith"
-        },
-        {
-          "topic": "Shares an image of the Iwo Jima Memorial"
+          "topic": "Trump announces progress toward a possible U.S. Army base in Poland"
         }
       ],
-      "selfPraiseCount": 3
+      "selfPraiseCount": 4
     }
   ],
-  "generatedAt": "2026-09-17T16:07:22.451Z",
-  "trendingTopic": "Trump promotes renovations and patriotic projects at Washington landmarks",
+  "generatedAt": "2026-09-17T20:04:50.990Z",
+  "trendingTopic": "Trump escalates pressure on Iran while touting military victories and economic collapse",
   "secondaryHighlights": [
     {
-      "topic": "Trump administration advances American-themed renaming of Lake Ontario and New Mexico"
+      "topic": "Trump rallies Republicans around the Dallas convention and midterm candidates"
     },
     {
-      "topic": "Trump attacks New York cases and FBI investigations involving Michael Cohen, Michael Flynn, and Biden"
+      "topic": "Trump promotes grand Washington building, monument and White House projects"
     },
     {
-      "topic": "Trump pushes trade reciprocity and lower interest rates amid economic pressure"
+      "topic": "Trump demands lower interest rates while touting economic growth and trade"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:17:9b5d93840db56ecf5cbf94c3"
+  "topicsCacheKey": "month-themes-v5:17:bfe0721f19f2e42d26e56009"
 }
