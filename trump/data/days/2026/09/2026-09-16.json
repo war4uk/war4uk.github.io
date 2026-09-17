@@ -1,27 +1,26 @@
 {
   "date": "2026-09-16",
   "counts": {
-    "positive": 1,
-    "neutral": 0,
+    "positive": 5,
+    "neutral": 2,
     "negative": 0
   },
-  "summary": "positive:1 neutral:0 negative:0",
-  "generatedAt": "2026-09-16T20:01:18.382Z",
+  "summary": "positive:5 neutral:2 negative:0",
+  "generatedAt": "2026-09-17T00:02:48.179Z",
   "topics": [
-    "Washington Post opinion argues Iran leaks expose Trump's willingness to trust an enemy's assurances"
+    "Trump demands U.S. interest rates fall to 1% or less, citing investment and trade deficits",
+    "Midterm RNC livestream reportedly surpasses 100 million views",
+    "U.S. poverty rate reported at 10.2% by the Census Bureau"
   ],
-  "trendingTopic": "Washington Post opinion argues Iran leaks expose Trump's willingness to trust an enemy's assurances",
+  "trendingTopic": "Trump demands U.S. interest rates fall to 1% or less, citing investment and trade deficits",
   "secondaryHighlights": [
     {
-      "topic": "What the disloyal leaks about Iran prove about Trump"
+      "topic": "Opinion article examines what Iran leaks reveal about Trump"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v11:1:7328b9399630c5b681726f7d",
-  "selfPraiseCacheKey": "self-praise-v2:1:7328b9399630c5b681726f7d",
-  "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/41747"
-  ],
+  "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v11:7:5e75b53d202c1c3b587ce8d1",
+  "selfPraiseCacheKey": "self-praise-v2:7:5e75b53d202c1c3b587ce8d1",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41747",
@@ -40,6 +39,126 @@
         "guid": "https://www.trumpstruth.org/statuses/41747",
         "isoDate": "2026-09-16T02:19:13.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41748",
+      "publishedAt": "2026-09-16T20:27:25.000Z",
+      "title": "[No Title] - Post from September 16, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41748",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 16, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41748",
+        "pubDate": "Wed, 16 Sep 2026 20:27:25 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41748",
+        "isoDate": "2026-09-16T20:27:25.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41749",
+      "publishedAt": "2026-09-16T20:31:59.000Z",
+      "title": "[No Title] - Post from September 16, 2026",
+      "text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117282599441012397</span></p>\n\n[Image] A screenshot of a social-media post by Jason Bartlett, whose verified profile is shown with the handle @Jason2bartlett. The post asks, “How are the white South Africans doing in America?” The interface includes a Follow button and standard account and menu icons; no separate photo or image is visible in the post.",
+      "url": "https://www.trumpstruth.org/statuses/41749",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 16, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41749",
+        "pubDate": "Wed, 16 Sep 2026 20:31:59 +0000",
+        "author": "",
+        "content": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117282599441012397</span></p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117282599441012397",
+        "guid": "https://www.trumpstruth.org/statuses/41749",
+        "isoDate": "2026-09-16T20:31:59.000Z"
+      },
+      "imageDescribedAt": "2026-09-17T00:02:23.312Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18152/62a9c1b1b46a61c8-d5bacf3e6919.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41750",
+      "publishedAt": "2026-09-16T20:38:35.000Z",
+      "title": "Interest Rates in the United States should be 1%, or less, because we are the Best Credit in the World — BY FAR. Our Country is BOOMING with new Investment! If we stopped Trading with every country that we have a Deficit with, which is most of them, we would make, at least, 1.5 Trillion Dollars a year. The word “Deficit” is nothing more than a fancy word for LOSS. We are “carrying” almost every country in the World, and that cannot go on any longer. LOWER THE INTEREST RATES FOR THE UNITED STATES OF AMERICA, AND FAST! President DONALD J. TRUMP",
+      "text": "<p>Interest Rates in the United States should be 1%, or less, because we are the Best Credit in the World — BY FAR. Our Country is BOOMING with new Investment! If we stopped Trading with every country that we have a Deficit with, which is most of them, we would make, at least, 1.5 Trillion Dollars a year. The word “Deficit” is nothing more than a fancy word for LOSS. We are “carrying” almost every country in the World, and that cannot go on any longer. LOWER THE INTEREST RATES FOR THE UNITED STATES OF AMERICA, AND FAST! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41750",
+      "raw": {
+        "creator": "",
+        "title": "Interest Rates in the United States should be 1%, or less, because we are the Best Credit in the World — BY FAR. Our Country is BOOMING with new Investment! If we stopped Trading with every country that we have a Deficit with, which is most of them, we would make, at least, 1.5 Trillion Dollars a year. The word “Deficit” is nothing more than a fancy word for LOSS. We are “carrying” almost every country in the World, and that cannot go on any longer. LOWER THE INTEREST RATES FOR THE UNITED STATES OF AMERICA, AND FAST! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41750",
+        "pubDate": "Wed, 16 Sep 2026 20:38:35 +0000",
+        "author": "",
+        "content": "<p>Interest Rates in the United States should be 1%, or less, because we are the Best Credit in the World — BY FAR. Our Country is BOOMING with new Investment! If we stopped Trading with every country that we have a Deficit with, which is most of them, we would make, at least, 1.5 Trillion Dollars a year. The word “Deficit” is nothing more than a fancy word for LOSS. We are “carrying” almost every country in the World, and that cannot go on any longer. LOWER THE INTEREST RATES FOR THE UNITED STATES OF AMERICA, AND FAST! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Interest Rates in the United States should be 1%, or less, because we are the Best Credit in the World — BY FAR. Our Country is BOOMING with new Investment! If we stopped Trading with every country that we have a Deficit with, which is most of them, we would make, at least, 1.5 Trillion Dollars a year. The word “Deficit” is nothing more than a fancy word for LOSS. We are “carrying” almost every country in the World, and that cannot go on any longer. LOWER THE INTEREST RATES FOR THE UNITED STATES OF AMERICA, AND FAST! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41750",
+        "isoDate": "2026-09-16T20:38:35.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41751",
+      "publishedAt": "2026-09-16T21:10:28.000Z",
+      "title": "[No Title] - Post from September 16, 2026",
+      "text": "<p><a href=\"https://www.reuters.com/world/us-poverty-rate-102-2025-census-bureau-says-2026-09-15/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">reuters.com/world/us-poverty-r</span><span class=\"invisible\">ate-102-2025-census-bureau-says-2026-09-15/</span></a></p>\n\n[Image] A screenshot of a Reuters post on X.com reports, “US poverty rate dips to lowest on record, Census Bureau says,” with a Reuters link. The accompanying photo shows a worker in a reflective orange vest, cap, and gloves pushing a shopping cart loaded with boxes near parked vehicles in a covered outdoor area. The post shows 8:30 PM, September 15, 2026, and 76K views.",
+      "url": "https://www.trumpstruth.org/statuses/41751",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 16, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41751",
+        "pubDate": "Wed, 16 Sep 2026 21:10:28 +0000",
+        "author": "",
+        "content": "<p><a href=\"https://www.reuters.com/world/us-poverty-rate-102-2025-census-bureau-says-2026-09-15/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">reuters.com/world/us-poverty-r</span><span class=\"invisible\">ate-102-2025-census-bureau-says-2026-09-15/</span></a></p>",
+        "contentSnippet": "https://www.reuters.com/world/us-poverty-rate-102-2025-census-bureau-says-2026-09-15/",
+        "guid": "https://www.trumpstruth.org/statuses/41751",
+        "isoDate": "2026-09-16T21:10:28.000Z"
+      },
+      "imageDescribedAt": "2026-09-17T00:02:19.219Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18153/6dd75cda9ae7bafd-c340d397f466.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41752",
+      "publishedAt": "2026-09-16T22:02:18.000Z",
+      "title": "First-Ever Midterm RNC Garnered Over 100 Million Live Stream Views:",
+      "text": "<p>First-Ever Midterm RNC Garnered Over 100 Million Live Stream Views: <a href=\"https://www.breitbart.com/politics/2026/09/16/first-ever-midterm-rnc-garnered-over-100-million-live-stream-views/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/09</span><span class=\"invisible\">/16/first-ever-midterm-rnc-garnered-over-100-million-live-stream-views/</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41752",
+      "raw": {
+        "creator": "",
+        "title": "First-Ever Midterm RNC Garnered Over 100 Million Live Stream Views:",
+        "link": "https://www.trumpstruth.org/statuses/41752",
+        "pubDate": "Wed, 16 Sep 2026 22:02:18 +0000",
+        "author": "",
+        "content": "<p>First-Ever Midterm RNC Garnered Over 100 Million Live Stream Views: <a href=\"https://www.breitbart.com/politics/2026/09/16/first-ever-midterm-rnc-garnered-over-100-million-live-stream-views/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/09</span><span class=\"invisible\">/16/first-ever-midterm-rnc-garnered-over-100-million-live-stream-views/</span></a></p>",
+        "contentSnippet": "First-Ever Midterm RNC Garnered Over 100 Million Live Stream Views: https://www.breitbart.com/politics/2026/09/16/first-ever-midterm-rnc-garnered-over-100-million-live-stream-views/",
+        "guid": "https://www.trumpstruth.org/statuses/41752",
+        "isoDate": "2026-09-16T22:02:18.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41753",
+      "publishedAt": "2026-09-16T22:49:03.000Z",
+      "title": "[No Title] - Post from September 16, 2026",
+      "text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117227242849038794</span></p>\n\n[Image] A cropped screenshot of a nonfiction book listing shows “THE COUNTERREVOLUTION” by Victor Davis Hanson, marked as a bestseller. The accompanying description says the author of “The End of Everything” evaluates the influence of President Trump’s time out of office on his second term. “Weeks on list” columns and a repeated “FOR REDISTRIBUTION” watermark are visible.",
+      "url": "https://www.trumpstruth.org/statuses/41753",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 16, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41753",
+        "pubDate": "Wed, 16 Sep 2026 22:49:03 +0000",
+        "author": "",
+        "content": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117227242849038794</span></p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117227242849038794",
+        "guid": "https://www.trumpstruth.org/statuses/41753",
+        "isoDate": "2026-09-16T22:49:03.000Z"
+      },
+      "imageDescribedAt": "2026-09-17T00:02:15.708Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18154/94f98e4637d70ddc-1a4c630962e2.png"
+      ]
     }
   ],
   "sentiments": [
@@ -48,6 +167,42 @@
       "label": "positive",
       "rationale": "The post frames the leaks as disloyal and points to commentary presenting Trump’s handling of Iran favorably.",
       "analyzedAt": "2026-09-16T04:01:58.836Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41748",
+      "label": "neutral",
+      "rationale": "The post contains no substantive text or sentiment.",
+      "analyzedAt": "2026-09-17T00:02:28.535Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41749",
+      "label": "neutral",
+      "rationale": "Poses a question about white South Africans in America without an explicit positive or negative sentiment.",
+      "analyzedAt": "2026-09-17T00:02:28.535Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41750",
+      "label": "positive",
+      "rationale": "Uses enthusiastic language about the U.S. economy and calls for lower interest rates to support growth.",
+      "analyzedAt": "2026-09-17T00:02:28.535Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41751",
+      "label": "positive",
+      "rationale": "Reports that the U.S. poverty rate fell to its lowest recorded level.",
+      "analyzedAt": "2026-09-17T00:02:28.535Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41752",
+      "label": "positive",
+      "rationale": "Highlights the RNC's exceptionally large livestream audience, conveying success and popularity.",
+      "analyzedAt": "2026-09-17T00:02:28.535Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41753",
+      "label": "positive",
+      "rationale": "Promotes a bestselling book and presents a favorable evaluation of President Trump's second term.",
+      "analyzedAt": "2026-09-17T00:02:28.534Z"
     }
   ]
 }

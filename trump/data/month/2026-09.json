@@ -412,38 +412,51 @@
     {
       "date": "2026-09-16",
       "counts": {
-        "positive": 1,
+        "positive": 5,
+        "neutral": 2,
+        "negative": 0
+      },
+      "summary": "positive:5 neutral:2 negative:0",
+      "topics": [
+        "Trump demands U.S. interest rates fall to 1% or less, citing investment and trade deficits",
+        "Midterm RNC livestream reportedly surpasses 100 million views",
+        "U.S. poverty rate reported at 10.2% by the Census Bureau"
+      ],
+      "postsCount": 7,
+      "hasDetail": true,
+      "generatedAt": "2026-09-17T00:02:48.179Z",
+      "trendingTopic": "Trump demands U.S. interest rates fall to 1% or less, citing investment and trade deficits",
+      "secondaryHighlights": [
+        {
+          "topic": "Opinion article examines what Iran leaks reveal about Trump"
+        }
+      ],
+      "selfPraiseCount": 0
+    },
+    {
+      "date": "2026-09-17",
+      "counts": {
+        "positive": 0,
         "neutral": 0,
         "negative": 0
       },
-      "summary": "positive:1 neutral:0 negative:0",
-      "topics": [
-        "Washington Post opinion argues Iran leaks expose Trump's willingness to trust an enemy's assurances"
-      ],
-      "postsCount": 1,
+      "summary": "positive:0 neutral:0 negative:0",
+      "topics": [],
+      "postsCount": 0,
       "hasDetail": true,
-      "generatedAt": "2026-09-16T20:01:18.382Z",
-      "trendingTopic": "Washington Post opinion argues Iran leaks expose Trump's willingness to trust an enemy's assurances",
-      "secondaryHighlights": [
-        {
-          "topic": "What the disloyal leaks about Iran prove about Trump"
-        }
-      ],
-      "selfPraiseCount": 1
+      "generatedAt": "2026-09-17T00:02:31.230Z",
+      "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-16T20:01:18.382Z",
-  "trendingTopic": "Trump portrays Iran as collapsing while defending the war and pressuring oil routes",
+  "generatedAt": "2026-09-17T00:02:48.179Z",
+  "trendingTopic": "Trump rallies Republican candidates and voters ahead of the 2026 midterms",
   "secondaryHighlights": [
     {
-      "topic": "Trump pushes renaming New Mexico and Lake Ontario as “New America” and “Lake America”"
+      "topic": "Trump pushes renaming Lake Ontario and New Mexico with American-themed names"
     },
     {
-      "topic": "Trump and allies revive allegations of misconduct in FBI and New York investigations"
-    },
-    {
-      "topic": "Trump promises $5,000 payments or dividends to American adults"
+      "topic": "Trump rejects AI takeover warnings while promoting U.S. data-center leadership"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:16:70091107be24765a70d53059"
+  "topicsCacheKey": "month-themes-v5:16:1e7885b357f9e9fd96a1d11c"
 }
