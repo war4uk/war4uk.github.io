@@ -1,14 +1,174 @@
 {
   "date": "2026-09-17",
   "counts": {
-    "positive": 0,
-    "neutral": 0,
+    "positive": 3,
+    "neutral": 2,
     "negative": 0
   },
-  "summary": "positive:0 neutral:0 negative:0",
-  "generatedAt": "2026-09-17T00:02:31.230Z",
-  "topics": [],
-  "selfPraiseCount": 0,
-  "posts": [],
-  "sentiments": []
+  "summary": "positive:3 neutral:2 negative:0",
+  "generatedAt": "2026-09-17T04:02:08.262Z",
+  "topics": [
+    "National Weather Service begins labeling Lake Ontario as Lake America",
+    "Trump appears in an image branded “The Hoax Buster”",
+    "White House image promotes “Only Trump”"
+  ],
+  "trendingTopic": "National Weather Service begins labeling Lake Ontario as Lake America on maps and forecasts",
+  "secondaryHighlights": [
+    {
+      "topic": "Trump appears in an image branded “The Hoax Buster”"
+    },
+    {
+      "topic": "White House image promotes “Only Trump”"
+    },
+    {
+      "topic": "Iwo Jima Memorial shown behind construction fencing and equipment"
+    }
+  ],
+  "selfPraiseCount": 2,
+  "posts": [
+    {
+      "id": "https://www.trumpstruth.org/statuses/41754",
+      "publishedAt": "2026-09-17T01:24:27.000Z",
+      "title": "National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts:",
+      "text": "<p>National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts: <a href=\"https://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/nat</span><span class=\"invisible\">ional-weather-service-begins-changing-lake-ontario-lake-america-maps-weather</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41754",
+      "raw": {
+        "creator": "",
+        "title": "National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts:",
+        "link": "https://www.trumpstruth.org/statuses/41754",
+        "pubDate": "Thu, 17 Sep 2026 01:24:27 +0000",
+        "author": "",
+        "content": "<p>National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts: <a href=\"https://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/nat</span><span class=\"invisible\">ional-weather-service-begins-changing-lake-ontario-lake-america-maps-weather</span></a></p>",
+        "contentSnippet": "National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts: https://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather",
+        "guid": "https://www.trumpstruth.org/statuses/41754",
+        "isoDate": "2026-09-17T01:24:27.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41756",
+      "publishedAt": "2026-09-17T02:35:36.000Z",
+      "title": "[No Title] - Post from September 17, 2026",
+      "text": "[Image] The image features Donald Trump walking through a crowded indoor area in a dark suit, white shirt, and gold tie. Security personnel, police officers, and metal barricades surround him. Large black text at the top reads “The Hoax Buster.” The scene has a serious, press-event or courthouse-like atmosphere.",
+      "url": "https://www.trumpstruth.org/statuses/41756",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 17, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41756",
+        "pubDate": "Thu, 17 Sep 2026 02:35:36 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41756",
+        "isoDate": "2026-09-17T02:35:36.000Z"
+      },
+      "imageDescribedAt": "2026-09-17T04:01:49.050Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18156/d6d72327633c97b6-53a4ca4c8b47.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41755",
+      "publishedAt": "2026-09-17T02:36:01.000Z",
+      "title": "[No Title] - Post from September 17, 2026",
+      "text": "[Image] The image shows the White House viewed from the south lawn under a blue sky, with an American flag flying in the foreground. The presidential seal is displayed on the grass, and large black text above the photograph reads “Only Trump,” referring to Donald Trump. Trees, manicured lawns, and the building’s columns and windows are visible.",
+      "url": "https://www.trumpstruth.org/statuses/41755",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 17, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41755",
+        "pubDate": "Thu, 17 Sep 2026 02:36:01 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41755",
+        "isoDate": "2026-09-17T02:36:01.000Z"
+      },
+      "imageDescribedAt": "2026-09-17T04:01:45.767Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18155/52fdbf7af46dcba1-98cba1ee996f.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41758",
+      "publishedAt": "2026-09-17T03:23:01.000Z",
+      "title": "[No Title] - Post from September 17, 2026",
+      "text": "[Image] A large image is titled “Iwo Jima Memorial.” It shows the Marine Corps War Memorial depicting six servicemen raising an American flag atop Mount Suribachi. The illuminated statue stands behind construction fencing and rental equipment, with trees, a curved office building, and a blue evening sky in the background.",
+      "url": "https://www.trumpstruth.org/statuses/41758",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 17, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41758",
+        "pubDate": "Thu, 17 Sep 2026 03:23:01 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41758",
+        "isoDate": "2026-09-17T03:23:01.000Z"
+      },
+      "imageDescribedAt": "2026-09-17T04:01:42.791Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18157/efac85a71d341970-c5b701c3ac36.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41757",
+      "publishedAt": "2026-09-17T03:23:08.000Z",
+      "title": "RT @realDonaldTrump",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p>\n\n[Image] The image shows the White House viewed from the south lawn under a blue sky, with the presidential seal in the foreground and American flags flying near the building. Large black text across the top reads “Only Trump,” referring to Donald Trump. Trees, manicured lawns, and the White House’s columns and balconies are visible.",
+      "url": "https://www.trumpstruth.org/statuses/41757",
+      "raw": {
+        "creator": "",
+        "title": "RT @realDonaldTrump",
+        "link": "https://www.trumpstruth.org/statuses/41757",
+        "pubDate": "Thu, 17 Sep 2026 03:23:08 +0000",
+        "author": "",
+        "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p>",
+        "contentSnippet": "RT @realDonaldTrump",
+        "guid": "https://www.trumpstruth.org/statuses/41757",
+        "isoDate": "2026-09-17T03:23:08.000Z"
+      },
+      "imageDescribedAt": "2026-09-17T04:01:39.714Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18155/52fdbf7af46dcba1-98cba1ee996f.jpg"
+      ]
+    }
+  ],
+  "sentiments": [
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41754",
+      "label": "neutral",
+      "rationale": "The post reports a claim about a map and weather-service terminology without expressing a clear sentiment.",
+      "analyzedAt": "2026-09-17T04:01:52.893Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41755",
+      "label": "positive",
+      "rationale": "The “Only Trump” slogan and presidential imagery express clear support for Donald Trump.",
+      "analyzedAt": "2026-09-17T04:01:52.893Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41756",
+      "label": "positive",
+      "rationale": "Calling Trump “The Hoax Buster” presents him favorably as someone who exposes or defeats alleged hoaxes.",
+      "analyzedAt": "2026-09-17T04:01:52.893Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41757",
+      "label": "positive",
+      "rationale": "The image prominently endorses Donald Trump with the slogan “Only Trump,” conveying strong support.",
+      "analyzedAt": "2026-09-17T04:01:52.893Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41758",
+      "label": "neutral",
+      "rationale": "The post depicts the Iwo Jima Memorial and contains descriptive content without clear positive or negative sentiment.",
+      "analyzedAt": "2026-09-17T04:01:52.893Z"
+    }
+  ],
+  "topicsCacheKey": "day-themes-v11:5:fb07c68498eb23e6e00c4617",
+  "selfPraiseCacheKey": "self-praise-v2:5:fb07c68498eb23e6e00c4617",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41756",
+    "https://www.trumpstruth.org/statuses/41755"
+  ]
 }

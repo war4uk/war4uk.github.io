@@ -424,7 +424,7 @@
       ],
       "postsCount": 7,
       "hasDetail": true,
-      "generatedAt": "2026-09-17T00:02:48.179Z",
+      "generatedAt": "2026-09-17T04:01:33.226Z",
       "trendingTopic": "Trump demands U.S. interest rates fall to 1% or less, citing investment and trade deficits",
       "secondaryHighlights": [
         {
@@ -436,27 +436,46 @@
     {
       "date": "2026-09-17",
       "counts": {
-        "positive": 0,
-        "neutral": 0,
+        "positive": 3,
+        "neutral": 2,
         "negative": 0
       },
-      "summary": "positive:0 neutral:0 negative:0",
-      "topics": [],
-      "postsCount": 0,
+      "summary": "positive:3 neutral:2 negative:0",
+      "topics": [
+        "National Weather Service begins labeling Lake Ontario as Lake America",
+        "Trump appears in an image branded “The Hoax Buster”",
+        "White House image promotes “Only Trump”"
+      ],
+      "postsCount": 5,
       "hasDetail": true,
-      "generatedAt": "2026-09-17T00:02:31.230Z",
-      "selfPraiseCount": 0
+      "generatedAt": "2026-09-17T04:02:08.262Z",
+      "trendingTopic": "National Weather Service begins labeling Lake Ontario as Lake America on maps and forecasts",
+      "secondaryHighlights": [
+        {
+          "topic": "Trump appears in an image branded “The Hoax Buster”"
+        },
+        {
+          "topic": "White House image promotes “Only Trump”"
+        },
+        {
+          "topic": "Iwo Jima Memorial shown behind construction fencing and equipment"
+        }
+      ],
+      "selfPraiseCount": 2
     }
   ],
-  "generatedAt": "2026-09-17T00:02:48.179Z",
-  "trendingTopic": "Trump rallies Republican candidates and voters ahead of the 2026 midterms",
+  "generatedAt": "2026-09-17T04:02:08.262Z",
+  "trendingTopic": "Trump portrays Iran as collapsing while defending the U.S. military operation and discussing oil and negotiations",
   "secondaryHighlights": [
     {
-      "topic": "Trump pushes renaming Lake Ontario and New Mexico with American-themed names"
+      "topic": "Trump promotes renaming Lake Ontario and New Mexico with American-themed names"
     },
     {
-      "topic": "Trump rejects AI takeover warnings while promoting U.S. data-center leadership"
+      "topic": "Trump pushes lower interest rates while touting jobs, tariffs, and economic growth"
+    },
+    {
+      "topic": "Kennedy Center closes immediately for safety repairs and reconstruction"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:16:1e7885b357f9e9fd96a1d11c"
+  "topicsCacheKey": "month-themes-v5:17:7a66dd6d315c037943d28bc6"
 }
