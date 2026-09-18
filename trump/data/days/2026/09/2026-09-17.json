@@ -1,34 +1,36 @@
 {
   "date": "2026-09-17",
   "counts": {
-    "positive": 9,
-    "neutral": 2,
-    "negative": 0
+    "positive": 12,
+    "neutral": 3,
+    "negative": 1
   },
-  "summary": "positive:9 neutral:2 negative:0",
-  "generatedAt": "2026-09-17T20:04:50.990Z",
+  "summary": "positive:12 neutral:3 negative:1",
+  "generatedAt": "2026-09-18T00:01:00.119Z",
   "topics": [
-    "Trump praises bipartisan Senate vote to regulate college sports NIL compensation",
-    "Trump celebrates Farm Bill committee passage and promises aid for farmers and ranchers",
-    "Trump announces progress toward a possible U.S. Army base in Poland"
+    "Fox News highlights record household incomes, low poverty, and improving prices under Trump",
+    "Trump praises bipartisan Senate progress on college sports NIL legislation",
+    "Trump celebrates Senate committee passage of a new Farm Bill"
   ],
-  "trendingTopic": "Trump praises bipartisan Senate vote to regulate college sports NIL compensation",
+  "trendingTopic": "Fox News highlights record household incomes, low poverty, and improving prices under Trump",
   "secondaryHighlights": [
     {
-      "topic": "Trump celebrates Farm Bill committee passage and promises aid for farmers and ranchers"
-    },
-    {
-      "topic": "Trump announces progress toward a possible U.S. Army base in Poland"
+      "topic": "Trump says progress toward establishing a U.S. Army base in Poland is imminent",
+      "name": "Karol Nawrocki"
     }
   ],
-  "selfPraiseCount": 4,
-  "topicsCacheKey": "day-themes-v11:11:3c3d59a98d77debb95715cf7",
-  "selfPraiseCacheKey": "self-praise-v2:11:3c3d59a98d77debb95715cf7",
+  "selfPraiseCount": 8,
+  "topicsCacheKey": "day-themes-v11:16:28dc549053dcd10d24820d13",
+  "selfPraiseCacheKey": "self-praise-v2:16:28dc549053dcd10d24820d13",
   "selfPraisePostIds": [
     "https://www.trumpstruth.org/statuses/41756",
     "https://www.trumpstruth.org/statuses/41755",
     "https://www.trumpstruth.org/statuses/41759",
-    "https://www.trumpstruth.org/statuses/41764"
+    "https://www.trumpstruth.org/statuses/41764",
+    "https://www.trumpstruth.org/statuses/41765",
+    "https://www.trumpstruth.org/statuses/41768",
+    "https://www.trumpstruth.org/statuses/41767",
+    "https://www.trumpstruth.org/statuses/41766"
   ],
   "posts": [
     {
@@ -252,6 +254,112 @@
         "guid": "https://www.trumpstruth.org/statuses/41764",
         "isoDate": "2026-09-17T19:35:54.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41765",
+      "publishedAt": "2026-09-17T22:10:05.000Z",
+      "title": "[No Title] - Post from September 17, 2026",
+      "text": "[Image] A Fox News broadcast shows a male presenter beside a chart titled “Cumulative Change in Price Biden vs Trump 2.0,” covering January–July of the second year in office. The graphic compares price changes under Biden and Trump across overall inflation, groceries, gasoline, rent, electricity, and new and used cars, with data attributed to the U.S. Bureau of Labor Statistics.",
+      "url": "https://www.trumpstruth.org/statuses/41765",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 17, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41765",
+        "pubDate": "Thu, 17 Sep 2026 22:10:05 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41765",
+        "isoDate": "2026-09-17T22:10:05.000Z"
+      },
+      "imageDescribedAt": "2026-09-18T00:00:39.329Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18160/38bca62dbb7c0dba-6cb3a87a3005.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41768",
+      "publishedAt": "2026-09-17T22:10:55.000Z",
+      "title": "[No Title] - Post from September 17, 2026",
+      "text": "[Image] Will Cain stands beside a Fox News graphic labeled “U.S. Household Income at Record High.” The chart shows median household income in U.S. dollars from 1967 to 2025, with a generally upward trend and a sharp rise after 2015, reaching nearly $90,000 in 2025. The graphic cites the U.S. Census Bureau and identifies the Will Cain Show.",
+      "url": "https://www.trumpstruth.org/statuses/41768",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 17, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41768",
+        "pubDate": "Thu, 17 Sep 2026 22:10:55 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41768",
+        "isoDate": "2026-09-17T22:10:55.000Z"
+      },
+      "imageDescribedAt": "2026-09-18T00:00:35.630Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18163/1ef6f9d8fbb63e36-21cace748023.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41767",
+      "publishedAt": "2026-09-17T22:11:04.000Z",
+      "title": "[No Title] - Post from September 17, 2026",
+      "text": "[Image] A Fox News broadcast shows host Will Cain standing beside a large chart titled “U.S. Poverty Rate at Record Low.” The graph, attributed to the U.S. Census Bureau, displays the official poverty rate for all people from 1959 through 2025, with a blue line declining overall to about 10% in 2025. A red “LIVE” banner and “The Will Cain Show” graphics are visible.",
+      "url": "https://www.trumpstruth.org/statuses/41767",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 17, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41767",
+        "pubDate": "Thu, 17 Sep 2026 22:11:04 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41767",
+        "isoDate": "2026-09-17T22:11:04.000Z"
+      },
+      "imageDescribedAt": "2026-09-18T00:00:32.841Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18162/c5fe102256c8b885-51b43d21c383.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41766",
+      "publishedAt": "2026-09-17T22:14:32.000Z",
+      "title": "[No Title] - Post from September 17, 2026",
+      "text": "[Image] A Fox News broadcast shows two male commentators in split-screen, with the guest identified as EJ Antoni, a Heritage Foundation economist. Beside them is a chart titled “U.S. Household Income at Record High,” showing median household income in U.S. dollars from 1967 to 2025, rising sharply in recent years. A lower banner says voters are focused on groceries, gas and housing.",
+      "url": "https://www.trumpstruth.org/statuses/41766",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 17, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41766",
+        "pubDate": "Thu, 17 Sep 2026 22:14:32 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41766",
+        "isoDate": "2026-09-17T22:14:32.000Z"
+      },
+      "imageDescribedAt": "2026-09-18T00:00:29.839Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18161/13aa59b6b6163b72-13ef3bb1edb9.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41769",
+      "publishedAt": "2026-09-17T22:51:51.000Z",
+      "title": "[No Title] - Post from September 17, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41769",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 17, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41769",
+        "pubDate": "Thu, 17 Sep 2026 22:51:51 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41769",
+        "isoDate": "2026-09-17T22:51:51.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -320,6 +428,36 @@
       "label": "positive",
       "rationale": "Expresses pride and confidence about passing the Farm Bill, praises Republican lawmakers, and promises support for farmers and rural communities.",
       "analyzedAt": "2026-09-17T20:04:36.970Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41765",
+      "label": "negative",
+      "rationale": "The comparison of price changes under Biden and Trump foregrounds inflation and rising costs, conveying a critical economic message.",
+      "analyzedAt": "2026-09-18T00:00:42.510Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41766",
+      "label": "positive",
+      "rationale": "The graphic highlights record-high U.S. household income, presenting an optimistic economic message.",
+      "analyzedAt": "2026-09-18T00:00:42.510Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41767",
+      "label": "positive",
+      "rationale": "The graphic emphasizes that the U.S. poverty rate is at a record low, conveying a favorable economic condition.",
+      "analyzedAt": "2026-09-18T00:00:42.510Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41768",
+      "label": "positive",
+      "rationale": "The chart presents household income reaching a record high, which is a positive economic claim.",
+      "analyzedAt": "2026-09-18T00:00:42.510Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41769",
+      "label": "neutral",
+      "rationale": "The post contains no substantive text or sentiment.",
+      "analyzedAt": "2026-09-18T00:00:42.510Z"
     }
   ]
 }

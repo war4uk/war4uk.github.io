@@ -436,43 +436,55 @@
     {
       "date": "2026-09-17",
       "counts": {
-        "positive": 9,
-        "neutral": 2,
-        "negative": 0
+        "positive": 12,
+        "neutral": 3,
+        "negative": 1
       },
-      "summary": "positive:9 neutral:2 negative:0",
+      "summary": "positive:12 neutral:3 negative:1",
       "topics": [
-        "Trump praises bipartisan Senate vote to regulate college sports NIL compensation",
-        "Trump celebrates Farm Bill committee passage and promises aid for farmers and ranchers",
-        "Trump announces progress toward a possible U.S. Army base in Poland"
+        "Fox News highlights record household incomes, low poverty, and improving prices under Trump",
+        "Trump praises bipartisan Senate progress on college sports NIL legislation",
+        "Trump celebrates Senate committee passage of a new Farm Bill"
       ],
-      "postsCount": 11,
+      "postsCount": 16,
       "hasDetail": true,
-      "generatedAt": "2026-09-17T20:04:50.990Z",
-      "trendingTopic": "Trump praises bipartisan Senate vote to regulate college sports NIL compensation",
+      "generatedAt": "2026-09-18T00:01:00.119Z",
+      "trendingTopic": "Fox News highlights record household incomes, low poverty, and improving prices under Trump",
       "secondaryHighlights": [
         {
-          "topic": "Trump celebrates Farm Bill committee passage and promises aid for farmers and ranchers"
-        },
-        {
-          "topic": "Trump announces progress toward a possible U.S. Army base in Poland"
+          "topic": "Trump says progress toward establishing a U.S. Army base in Poland is imminent",
+          "name": "Karol Nawrocki"
         }
       ],
-      "selfPraiseCount": 4
+      "selfPraiseCount": 8
+    },
+    {
+      "date": "2026-09-18",
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "positive:0 neutral:0 negative:0",
+      "topics": [],
+      "postsCount": 0,
+      "hasDetail": true,
+      "generatedAt": "2026-09-18T00:00:45.156Z",
+      "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-17T20:04:50.990Z",
-  "trendingTopic": "Trump escalates pressure on Iran while touting military victories and economic collapse",
+  "generatedAt": "2026-09-18T00:01:00.119Z",
+  "trendingTopic": "Donald Trump portrays Iran as collapsing while defending the war and weighing its oil and diplomatic consequences",
   "secondaryHighlights": [
     {
-      "topic": "Trump rallies Republicans around the Dallas convention and midterm candidates"
+      "topic": "Trump-backed candidates and Republicans rally ahead of the midterm elections"
     },
     {
-      "topic": "Trump promotes grand Washington building, monument and White House projects"
+      "topic": "Trump promotes White House renovations, a ballroom, heliports, and military facilities"
     },
     {
-      "topic": "Trump demands lower interest rates while touting economic growth and trade"
+      "topic": "Trump pushes lower interest rates while touting jobs, incomes, trade, and economic gains"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:17:bfe0721f19f2e42d26e56009"
+  "topicsCacheKey": "month-themes-v5:17:afc125b43144785077498ed1"
 }
