@@ -448,7 +448,7 @@
       ],
       "postsCount": 16,
       "hasDetail": true,
-      "generatedAt": "2026-09-18T00:01:00.119Z",
+      "generatedAt": "2026-09-18T04:02:19.329Z",
       "trendingTopic": "Fox News highlights record household incomes, low poverty, and improving prices under Trump",
       "secondaryHighlights": [
         {
@@ -461,30 +461,40 @@
     {
       "date": "2026-09-18",
       "counts": {
-        "positive": 0,
-        "neutral": 0,
+        "positive": 4,
+        "neutral": 5,
         "negative": 0
       },
-      "summary": "positive:0 neutral:0 negative:0",
-      "topics": [],
-      "postsCount": 0,
+      "summary": "positive:4 neutral:5 negative:0",
+      "topics": [
+        "Endorses Virginia congressmen Rob Wittman, Jen Kiggans, and John McGuire for reelection",
+        "Praises Andrew Ferguson and JD Vance’s fraud task force for pursuing billions in recoveries and prison sentences"
+      ],
+      "postsCount": 9,
       "hasDetail": true,
-      "generatedAt": "2026-09-18T00:00:45.156Z",
+      "generatedAt": "2026-09-18T04:02:38.521Z",
+      "trendingTopic": "Endorses Virginia congressmen Rob Wittman, Jen Kiggans, and John McGuire for reelection",
+      "secondaryHighlights": [
+        {
+          "topic": "Praises Andrew Ferguson and JD Vance’s fraud task force for pursuing billions in recoveries and prison sentences",
+          "name": "Andrew Ferguson"
+        }
+      ],
       "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-18T00:01:00.119Z",
-  "trendingTopic": "Donald Trump portrays Iran as collapsing while defending the war and weighing its oil and diplomatic consequences",
+  "generatedAt": "2026-09-18T04:02:38.521Z",
+  "trendingTopic": "Trump touts military pressure on Iran, control of the Strait of Hormuz, and Iran’s worsening economic crisis",
   "secondaryHighlights": [
     {
-      "topic": "Trump-backed candidates and Republicans rally ahead of the midterm elections"
+      "topic": "Trump pushes American-themed renamings for New Mexico and Lake Ontario"
     },
     {
-      "topic": "Trump promotes White House renovations, a ballroom, heliports, and military facilities"
+      "topic": "Trump endorses and celebrates Republican candidates across multiple state races"
     },
     {
-      "topic": "Trump pushes lower interest rates while touting jobs, incomes, trade, and economic gains"
+      "topic": "Trump attacks alleged misconduct by prosecutors, courts, and the FBI in cases involving him and his allies"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:17:afc125b43144785077498ed1"
+  "topicsCacheKey": "month-themes-v5:18:2dc49eadeecaaeae139a6a46"
 }

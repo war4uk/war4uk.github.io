@@ -1,14 +1,244 @@
 {
   "date": "2026-09-18",
   "counts": {
-    "positive": 0,
-    "neutral": 0,
+    "positive": 4,
+    "neutral": 5,
     "negative": 0
   },
-  "summary": "positive:0 neutral:0 negative:0",
-  "generatedAt": "2026-09-18T00:00:45.156Z",
-  "topics": [],
+  "summary": "positive:4 neutral:5 negative:0",
+  "generatedAt": "2026-09-18T04:02:38.521Z",
+  "topics": [
+    "Endorses Virginia congressmen Rob Wittman, Jen Kiggans, and John McGuire for reelection",
+    "Praises Andrew Ferguson and JD Vance’s fraud task force for pursuing billions in recoveries and prison sentences"
+  ],
+  "trendingTopic": "Endorses Virginia congressmen Rob Wittman, Jen Kiggans, and John McGuire for reelection",
+  "secondaryHighlights": [
+    {
+      "topic": "Praises Andrew Ferguson and JD Vance’s fraud task force for pursuing billions in recoveries and prison sentences",
+      "name": "Andrew Ferguson"
+    }
+  ],
   "selfPraiseCount": 0,
-  "posts": [],
-  "sentiments": []
+  "posts": [
+    {
+      "id": "https://www.trumpstruth.org/statuses/41770",
+      "publishedAt": "2026-09-18T00:13:38.000Z",
+      "title": "Congressman Rob Wittman is doing a truly fantastic job representing the wonderful people of Virginia’s 1st Congressional District!   As the Vice Chairman of the House Armed Services Committee, Rob is working tirelessly to advance our America First Agenda. He understands the Wisdom and Courage required to Defend our Country, Support our Brave Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, Rob is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Stop Migrant Crime, and Protect our always under siege Second Amendment.   Rob Wittman has my Complete and Total Endorsement for Re-Election — HE WILL NEVER LET YOU DOWN!",
+      "text": "<p>Congressman Rob Wittman is doing a truly fantastic job representing the wonderful people of Virginia’s 1st Congressional District!   As the Vice Chairman of the House Armed Services Committee, Rob is working tirelessly to advance our America First Agenda. He understands the Wisdom and Courage required to Defend our Country, Support our Brave Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, Rob is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Stop Migrant Crime, and Protect our always under siege Second Amendment.   Rob Wittman has my Complete and Total Endorsement for Re-Election — HE WILL NEVER LET YOU DOWN!</p>",
+      "url": "https://www.trumpstruth.org/statuses/41770",
+      "raw": {
+        "creator": "",
+        "title": "Congressman Rob Wittman is doing a truly fantastic job representing the wonderful people of Virginia’s 1st Congressional District!   As the Vice Chairman of the House Armed Services Committee, Rob is working tirelessly to advance our America First Agenda. He understands the Wisdom and Courage required to Defend our Country, Support our Brave Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, Rob is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Stop Migrant Crime, and Protect our always under siege Second Amendment.   Rob Wittman has my Complete and Total Endorsement for Re-Election — HE WILL NEVER LET YOU DOWN!",
+        "link": "https://www.trumpstruth.org/statuses/41770",
+        "pubDate": "Fri, 18 Sep 2026 00:13:38 +0000",
+        "author": "",
+        "content": "<p>Congressman Rob Wittman is doing a truly fantastic job representing the wonderful people of Virginia’s 1st Congressional District!   As the Vice Chairman of the House Armed Services Committee, Rob is working tirelessly to advance our America First Agenda. He understands the Wisdom and Courage required to Defend our Country, Support our Brave Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, Rob is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Stop Migrant Crime, and Protect our always under siege Second Amendment.   Rob Wittman has my Complete and Total Endorsement for Re-Election — HE WILL NEVER LET YOU DOWN!</p>",
+        "contentSnippet": "Congressman Rob Wittman is doing a truly fantastic job representing the wonderful people of Virginia’s 1st Congressional District!   As the Vice Chairman of the House Armed Services Committee, Rob is working tirelessly to advance our America First Agenda. He understands the Wisdom and Courage required to Defend our Country, Support our Brave Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, Rob is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Stop Migrant Crime, and Protect our always under siege Second Amendment.   Rob Wittman has my Complete and Total Endorsement for Re-Election — HE WILL NEVER LET YOU DOWN!",
+        "guid": "https://www.trumpstruth.org/statuses/41770",
+        "isoDate": "2026-09-18T00:13:38.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41772",
+      "publishedAt": "2026-09-18T00:19:12.000Z",
+      "title": "Congresswoman Jen Kiggans is a Tremendous Advocate for the Great People of Virginia’s 2nd Congressional District! A former Navy helicopter pilot, Jen knows how to Defend our Country, Support our Brave Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, Jen is working hard to Secure the Border, Grow the Economy, Restore American Energy Independence, and Protect our always under siege Second Amendment. Jen Kiggans has my Complete and Total Endorsement — SHE WILL NOT LET YOU DOWN!",
+      "text": "<p>Congresswoman Jen Kiggans is a Tremendous Advocate for the Great People of Virginia’s 2nd Congressional District!<br /> <br />A former Navy helicopter pilot, Jen knows how to Defend our Country, Support our Brave Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, Jen is working hard to Secure the Border, Grow the Economy, Restore American Energy Independence, and Protect our always under siege Second Amendment.<br /> <br />Jen Kiggans has my Complete and Total Endorsement — SHE WILL NOT LET YOU DOWN!</p>",
+      "url": "https://www.trumpstruth.org/statuses/41772",
+      "raw": {
+        "creator": "",
+        "title": "Congresswoman Jen Kiggans is a Tremendous Advocate for the Great People of Virginia’s 2nd Congressional District! A former Navy helicopter pilot, Jen knows how to Defend our Country, Support our Brave Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, Jen is working hard to Secure the Border, Grow the Economy, Restore American Energy Independence, and Protect our always under siege Second Amendment. Jen Kiggans has my Complete and Total Endorsement — SHE WILL NOT LET YOU DOWN!",
+        "link": "https://www.trumpstruth.org/statuses/41772",
+        "pubDate": "Fri, 18 Sep 2026 00:19:12 +0000",
+        "author": "",
+        "content": "<p>Congresswoman Jen Kiggans is a Tremendous Advocate for the Great People of Virginia’s 2nd Congressional District!<br /> <br />A former Navy helicopter pilot, Jen knows how to Defend our Country, Support our Brave Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, Jen is working hard to Secure the Border, Grow the Economy, Restore American Energy Independence, and Protect our always under siege Second Amendment.<br /> <br />Jen Kiggans has my Complete and Total Endorsement — SHE WILL NOT LET YOU DOWN!</p>",
+        "contentSnippet": "Congresswoman Jen Kiggans is a Tremendous Advocate for the Great People of Virginia’s 2nd Congressional District!\n A former Navy helicopter pilot, Jen knows how to Defend our Country, Support our Brave Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, Jen is working hard to Secure the Border, Grow the Economy, Restore American Energy Independence, and Protect our always under siege Second Amendment.\n Jen Kiggans has my Complete and Total Endorsement — SHE WILL NOT LET YOU DOWN!",
+        "guid": "https://www.trumpstruth.org/statuses/41772",
+        "isoDate": "2026-09-18T00:19:12.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41771",
+      "publishedAt": "2026-09-18T00:20:02.000Z",
+      "title": "Congressman John McGuire is an America First Warrior for Virginia’s 5th Congressional District. John bravely served our Great Country as a U.S. Navy SEAL, and is doing an incredible job fighting for the people of Rural Virginia. He is working hard to Grow our Economy, Create GREAT Jobs, Champion American Energy DOMINANCE, Secure our Border, Strengthen our Military/Veterans, Defend our always under siege Second Amendment, and Restore PEACE THROUGH STRENGTH. John is MAGA all the way, and has been with us from the very beginning. John McGuire has my Complete and Total Endorsement — He will never let you down!",
+      "text": "<p>Congressman John McGuire is an America First Warrior for Virginia’s 5th Congressional District. </p><p>John bravely served our Great Country as a U.S. Navy SEAL, and is doing an incredible job fighting for the people of Rural Virginia. He is working hard to Grow our Economy, Create GREAT Jobs, Champion American Energy DOMINANCE, Secure our Border, Strengthen our Military/Veterans, Defend our always under siege Second Amendment, and Restore PEACE THROUGH STRENGTH. </p><p>John is MAGA all the way, and has been with us from the very beginning. John McGuire has my Complete and Total Endorsement — He will never let you down!</p>",
+      "url": "https://www.trumpstruth.org/statuses/41771",
+      "raw": {
+        "creator": "",
+        "title": "Congressman John McGuire is an America First Warrior for Virginia’s 5th Congressional District. John bravely served our Great Country as a U.S. Navy SEAL, and is doing an incredible job fighting for the people of Rural Virginia. He is working hard to Grow our Economy, Create GREAT Jobs, Champion American Energy DOMINANCE, Secure our Border, Strengthen our Military/Veterans, Defend our always under siege Second Amendment, and Restore PEACE THROUGH STRENGTH. John is MAGA all the way, and has been with us from the very beginning. John McGuire has my Complete and Total Endorsement — He will never let you down!",
+        "link": "https://www.trumpstruth.org/statuses/41771",
+        "pubDate": "Fri, 18 Sep 2026 00:20:02 +0000",
+        "author": "",
+        "content": "<p>Congressman John McGuire is an America First Warrior for Virginia’s 5th Congressional District. </p><p>John bravely served our Great Country as a U.S. Navy SEAL, and is doing an incredible job fighting for the people of Rural Virginia. He is working hard to Grow our Economy, Create GREAT Jobs, Champion American Energy DOMINANCE, Secure our Border, Strengthen our Military/Veterans, Defend our always under siege Second Amendment, and Restore PEACE THROUGH STRENGTH. </p><p>John is MAGA all the way, and has been with us from the very beginning. John McGuire has my Complete and Total Endorsement — He will never let you down!</p>",
+        "contentSnippet": "Congressman John McGuire is an America First Warrior for Virginia’s 5th Congressional District. \nJohn bravely served our Great Country as a U.S. Navy SEAL, and is doing an incredible job fighting for the people of Rural Virginia. He is working hard to Grow our Economy, Create GREAT Jobs, Champion American Energy DOMINANCE, Secure our Border, Strengthen our Military/Veterans, Defend our always under siege Second Amendment, and Restore PEACE THROUGH STRENGTH. \nJohn is MAGA all the way, and has been with us from the very beginning. John McGuire has my Complete and Total Endorsement — He will never let you down!",
+        "guid": "https://www.trumpstruth.org/statuses/41771",
+        "isoDate": "2026-09-18T00:20:02.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41773",
+      "publishedAt": "2026-09-18T01:24:23.000Z",
+      "title": "Andrew Ferguson, Fraud Task Force Vice Chairman, was FANTASTIC tonight on FoxNews. He and his group, headed up by wonderful V.P., JD Vance, have got the fraudsters running for shelter. They are bringing in Billions of Dollars - LONG PRISON SENTENCES. Thank you to Charlie Hurt for a great interview! President DONALD J. TRUMP",
+      "text": "<p>Andrew Ferguson, Fraud Task Force Vice Chairman, was FANTASTIC tonight on FoxNews. He and his group, headed up by wonderful V.P., JD Vance, have got the fraudsters running for shelter. They are bringing in Billions of Dollars - LONG PRISON SENTENCES. Thank you to Charlie Hurt for a great interview! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41773",
+      "raw": {
+        "creator": "",
+        "title": "Andrew Ferguson, Fraud Task Force Vice Chairman, was FANTASTIC tonight on FoxNews. He and his group, headed up by wonderful V.P., JD Vance, have got the fraudsters running for shelter. They are bringing in Billions of Dollars - LONG PRISON SENTENCES. Thank you to Charlie Hurt for a great interview! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41773",
+        "pubDate": "Fri, 18 Sep 2026 01:24:23 +0000",
+        "author": "",
+        "content": "<p>Andrew Ferguson, Fraud Task Force Vice Chairman, was FANTASTIC tonight on FoxNews. He and his group, headed up by wonderful V.P., JD Vance, have got the fraudsters running for shelter. They are bringing in Billions of Dollars - LONG PRISON SENTENCES. Thank you to Charlie Hurt for a great interview! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Andrew Ferguson, Fraud Task Force Vice Chairman, was FANTASTIC tonight on FoxNews. He and his group, headed up by wonderful V.P., JD Vance, have got the fraudsters running for shelter. They are bringing in Billions of Dollars - LONG PRISON SENTENCES. Thank you to Charlie Hurt for a great interview! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41773",
+        "isoDate": "2026-09-18T01:24:23.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41775",
+      "publishedAt": "2026-09-18T02:13:54.000Z",
+      "title": "[No Title] - Post from September 18, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41775",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 18, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41775",
+        "pubDate": "Fri, 18 Sep 2026 02:13:54 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41775",
+        "isoDate": "2026-09-18T02:13:54.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41774",
+      "publishedAt": "2026-09-18T02:14:17.000Z",
+      "title": "[No Title] - Post from September 18, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41774",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 18, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41774",
+        "pubDate": "Fri, 18 Sep 2026 02:14:17 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41774",
+        "isoDate": "2026-09-18T02:14:17.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41776",
+      "publishedAt": "2026-09-18T02:19:40.000Z",
+      "title": "[No Title] - Post from September 18, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41776",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 18, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41776",
+        "pubDate": "Fri, 18 Sep 2026 02:19:40 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41776",
+        "isoDate": "2026-09-18T02:19:40.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41778",
+      "publishedAt": "2026-09-18T02:22:02.000Z",
+      "title": "[No Title] - Post from September 18, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41778",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 18, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41778",
+        "pubDate": "Fri, 18 Sep 2026 02:22:02 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41778",
+        "isoDate": "2026-09-18T02:22:02.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41777",
+      "publishedAt": "2026-09-18T02:22:39.000Z",
+      "title": "[No Title] - Post from September 18, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41777",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 18, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41777",
+        "pubDate": "Fri, 18 Sep 2026 02:22:39 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41777",
+        "isoDate": "2026-09-18T02:22:39.000Z"
+      }
+    }
+  ],
+  "sentiments": [
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41770",
+      "label": "positive",
+      "rationale": "The post describes Rob Wittman as doing a fantastic job and gives him a strong endorsement for reelection.",
+      "analyzedAt": "2026-09-18T04:02:29.068Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41771",
+      "label": "positive",
+      "rationale": "The post strongly endorses John McGuire, praising his service, policy efforts, and commitment to the stated agenda.",
+      "analyzedAt": "2026-09-18T04:02:29.068Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41772",
+      "label": "positive",
+      "rationale": "The post praises Jen Kiggans's advocacy and service and gives her a complete and total endorsement.",
+      "analyzedAt": "2026-09-18T04:02:29.068Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41773",
+      "label": "positive",
+      "rationale": "The post praises Andrew Ferguson and his task force for fighting fraud and expresses appreciation for their efforts.",
+      "analyzedAt": "2026-09-18T04:02:29.068Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41774",
+      "label": "neutral",
+      "rationale": "The text is empty and expresses no sentiment.",
+      "analyzedAt": "2026-09-18T04:02:29.068Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41775",
+      "label": "neutral",
+      "rationale": "The text is empty and expresses no sentiment.",
+      "analyzedAt": "2026-09-18T04:02:29.068Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41776",
+      "label": "neutral",
+      "rationale": "The text is empty and expresses no sentiment.",
+      "analyzedAt": "2026-09-18T04:02:29.068Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41777",
+      "label": "neutral",
+      "rationale": "The text is empty and expresses no sentiment.",
+      "analyzedAt": "2026-09-18T04:02:29.068Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41778",
+      "label": "neutral",
+      "rationale": "The text is empty and expresses no sentiment.",
+      "analyzedAt": "2026-09-18T04:02:29.068Z"
+    }
+  ],
+  "topicsCacheKey": "day-themes-v11:9:bb8413f1603a01e85f639fa5",
+  "selfPraiseCacheKey": "self-praise-v2:9:bb8413f1603a01e85f639fa5"
 }
