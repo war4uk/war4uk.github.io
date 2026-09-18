@@ -1,36 +1,33 @@
 {
   "date": "2026-09-18",
   "counts": {
-    "positive": 5,
-    "neutral": 5,
-    "negative": 2
+    "positive": 22,
+    "neutral": 6,
+    "negative": 3
   },
-  "summary": "positive:5 neutral:5 negative:2",
-  "generatedAt": "2026-09-18T16:02:27.252Z",
+  "summary": "positive:22 neutral:6 negative:3",
+  "generatedAt": "2026-09-18T20:05:23.349Z",
   "topics": [
-    "Endorses Rob Wittman, Jen Kiggans, and John McGuire for reelection in Virginia",
-    "Praises Andrew Ferguson and the JD Vance-led fraud task force",
-    "Shares article alleging Iran leaks expose Trump’s reliance on enemy assurances"
+    "Endorses 18 Republican candidates for congressional, Senate, and gubernatorial races across 13 states",
+    "Bans CNN, MS NOW, and Politico from the White House over alleged fake news",
+    "Highlights fraud task force investigations led by Andrew Ferguson and JD Vance"
   ],
-  "trendingTopic": "Endorses Rob Wittman, Jen Kiggans, and John McGuire for reelection in Virginia",
+  "trendingTopic": "Endorses 18 Republican candidates for congressional, Senate, and gubernatorial races across 13 states",
   "secondaryHighlights": [
     {
-      "topic": "Praises Andrew Ferguson and the JD Vance-led fraud task force for pursuing billions and prison sentences",
+      "topic": "Bans CNN, MS NOW, and Politico from the White House over alleged fake news"
+    },
+    {
+      "topic": "Highlights fraud task force investigations led by Andrew Ferguson and JD Vance",
       "name": "Andrew Ferguson"
-    },
-    {
-      "topic": "Shares article alleging Iran leaks expose Trump’s reliance on enemy assurances and threatens leakers"
-    },
-    {
-      "topic": "Attacks CNN as dishonest, anti-Republican, and losing viewers"
     }
   ],
   "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v11:12:1cd8de166365a96f30ca89d6",
-  "selfPraiseCacheKey": "self-praise-v2:12:1cd8de166365a96f30ca89d6",
+  "topicsCacheKey": "day-themes-v11:31:0bf70b67921f4b33c0f5f5ce",
+  "selfPraiseCacheKey": "self-praise-v2:31:0bf70b67921f4b33c0f5f5ce",
   "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/41779",
-    "https://www.trumpstruth.org/statuses/41780"
+    "https://www.trumpstruth.org/statuses/41780",
+    "https://www.trumpstruth.org/statuses/41782"
   ],
   "posts": [
     {
@@ -252,6 +249,348 @@
         "guid": "https://www.trumpstruth.org/statuses/41781",
         "isoDate": "2026-09-18T14:52:00.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41782",
+      "publishedAt": "2026-09-18T17:58:32.000Z",
+      "title": "TRUMP Approval Rating in the Republican Party is now 95%, A RECORD. Second place is Ronald Reagan at 86%. Thank you! President DONALD J. TRUMP",
+      "text": "<p>TRUMP Approval Rating in the Republican Party is now 95%, A RECORD. Second place is Ronald Reagan at 86%. Thank you! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41782",
+      "raw": {
+        "creator": "",
+        "title": "TRUMP Approval Rating in the Republican Party is now 95%, A RECORD. Second place is Ronald Reagan at 86%. Thank you! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41782",
+        "pubDate": "Fri, 18 Sep 2026 17:58:32 +0000",
+        "author": "",
+        "content": "<p>TRUMP Approval Rating in the Republican Party is now 95%, A RECORD. Second place is Ronald Reagan at 86%. Thank you! President DONALD J. TRUMP</p>",
+        "contentSnippet": "TRUMP Approval Rating in the Republican Party is now 95%, A RECORD. Second place is Ronald Reagan at 86%. Thank you! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41782",
+        "isoDate": "2026-09-18T17:58:32.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41783",
+      "publishedAt": "2026-09-18T18:09:16.000Z",
+      "title": "Dan S. Sullivan has my Complete and Total Endorsement for Re-Election as U.S. Senator from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "text": "<p>Dan S. Sullivan has my Complete and Total Endorsement for Re-Election as U.S. Senator from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41783",
+      "raw": {
+        "creator": "",
+        "title": "Dan S. Sullivan has my Complete and Total Endorsement for Re-Election as U.S. Senator from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41783",
+        "pubDate": "Fri, 18 Sep 2026 18:09:16 +0000",
+        "author": "",
+        "content": "<p>Dan S. Sullivan has my Complete and Total Endorsement for Re-Election as U.S. Senator from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Dan S. Sullivan has my Complete and Total Endorsement for Re-Election as U.S. Senator from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41783",
+        "isoDate": "2026-09-18T18:09:16.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41785",
+      "publishedAt": "2026-09-18T18:09:49.000Z",
+      "title": "Ashley Moody has my Complete and Total Endorsement for Re-Election as U.S. Senator from Florida — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "text": "<p>Ashley Moody has my Complete and Total Endorsement for Re-Election as U.S. Senator from Florida — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41785",
+      "raw": {
+        "creator": "",
+        "title": "Ashley Moody has my Complete and Total Endorsement for Re-Election as U.S. Senator from Florida — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41785",
+        "pubDate": "Fri, 18 Sep 2026 18:09:49 +0000",
+        "author": "",
+        "content": "<p>Ashley Moody has my Complete and Total Endorsement for Re-Election as U.S. Senator from Florida — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Ashley Moody has my Complete and Total Endorsement for Re-Election as U.S. Senator from Florida — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41785",
+        "isoDate": "2026-09-18T18:09:49.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41784",
+      "publishedAt": "2026-09-18T18:14:13.000Z",
+      "title": "Mike Collins has my Complete and Total Endorsement to be the next U.S. Senator from Georgia — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "text": "<p>Mike Collins has my Complete and Total Endorsement to be the next U.S. Senator from Georgia — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41784",
+      "raw": {
+        "creator": "",
+        "title": "Mike Collins has my Complete and Total Endorsement to be the next U.S. Senator from Georgia — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41784",
+        "pubDate": "Fri, 18 Sep 2026 18:14:13 +0000",
+        "author": "",
+        "content": "<p>Mike Collins has my Complete and Total Endorsement to be the next U.S. Senator from Georgia — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Mike Collins has my Complete and Total Endorsement to be the next U.S. Senator from Georgia — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41784",
+        "isoDate": "2026-09-18T18:14:13.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41787",
+      "publishedAt": "2026-09-18T18:16:38.000Z",
+      "title": "Roger Marshall has my Complete and Total Endorsement for Re-Election as U.S. Senator from Kansas — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "text": "<p>Roger Marshall has my Complete and Total Endorsement for Re-Election as U.S. Senator from Kansas — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41787",
+      "raw": {
+        "creator": "",
+        "title": "Roger Marshall has my Complete and Total Endorsement for Re-Election as U.S. Senator from Kansas — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41787",
+        "pubDate": "Fri, 18 Sep 2026 18:16:38 +0000",
+        "author": "",
+        "content": "<p>Roger Marshall has my Complete and Total Endorsement for Re-Election as U.S. Senator from Kansas — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Roger Marshall has my Complete and Total Endorsement for Re-Election as U.S. Senator from Kansas — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41787",
+        "isoDate": "2026-09-18T18:16:38.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41786",
+      "publishedAt": "2026-09-18T18:17:48.000Z",
+      "title": "Mike Rogers has my Complete and Total Endorsement to be the next U.S. Senator from Michigan — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "text": "<p>Mike Rogers has my Complete and Total Endorsement to be the next U.S. Senator from Michigan — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41786",
+      "raw": {
+        "creator": "",
+        "title": "Mike Rogers has my Complete and Total Endorsement to be the next U.S. Senator from Michigan — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41786",
+        "pubDate": "Fri, 18 Sep 2026 18:17:48 +0000",
+        "author": "",
+        "content": "<p>Mike Rogers has my Complete and Total Endorsement to be the next U.S. Senator from Michigan — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Mike Rogers has my Complete and Total Endorsement to be the next U.S. Senator from Michigan — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41786",
+        "isoDate": "2026-09-18T18:17:48.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41797",
+      "publishedAt": "2026-09-18T18:25:16.000Z",
+      "title": "Laurie Buckhout has my Complete and Total Endorsement to be the next U.S. Representative from North Carolina’s 1st Congressional District — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "text": "<p>Laurie Buckhout has my Complete and Total Endorsement to be the next U.S. Representative from North Carolina’s 1st Congressional District — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41797",
+      "raw": {
+        "creator": "",
+        "title": "Laurie Buckhout has my Complete and Total Endorsement to be the next U.S. Representative from North Carolina’s 1st Congressional District — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41797",
+        "pubDate": "Fri, 18 Sep 2026 18:25:16 +0000",
+        "author": "",
+        "content": "<p>Laurie Buckhout has my Complete and Total Endorsement to be the next U.S. Representative from North Carolina’s 1st Congressional District — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Laurie Buckhout has my Complete and Total Endorsement to be the next U.S. Representative from North Carolina’s 1st Congressional District — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41797",
+        "isoDate": "2026-09-18T18:25:16.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41796",
+      "publishedAt": "2026-09-18T18:26:15.000Z",
+      "title": "Michael Whatley has my Complete and Total Endorsement to be the next U.S. Senator from North Carolina — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "text": "<p>Michael Whatley has my Complete and Total Endorsement to be the next U.S. Senator from North Carolina — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41796",
+      "raw": {
+        "creator": "",
+        "title": "Michael Whatley has my Complete and Total Endorsement to be the next U.S. Senator from North Carolina — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41796",
+        "pubDate": "Fri, 18 Sep 2026 18:26:15 +0000",
+        "author": "",
+        "content": "<p>Michael Whatley has my Complete and Total Endorsement to be the next U.S. Senator from North Carolina — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Michael Whatley has my Complete and Total Endorsement to be the next U.S. Senator from North Carolina — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41796",
+        "isoDate": "2026-09-18T18:26:15.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41795",
+      "publishedAt": "2026-09-18T18:26:56.000Z",
+      "title": "Pete Ricketts has my Complete and Total Endorsement for Re-Election as U.S. Senator from Nebraska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "text": "<p>Pete Ricketts has my Complete and Total Endorsement for Re-Election as U.S. Senator from Nebraska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41795",
+      "raw": {
+        "creator": "",
+        "title": "Pete Ricketts has my Complete and Total Endorsement for Re-Election as U.S. Senator from Nebraska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41795",
+        "pubDate": "Fri, 18 Sep 2026 18:26:56 +0000",
+        "author": "",
+        "content": "<p>Pete Ricketts has my Complete and Total Endorsement for Re-Election as U.S. Senator from Nebraska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Pete Ricketts has my Complete and Total Endorsement for Re-Election as U.S. Senator from Nebraska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41795",
+        "isoDate": "2026-09-18T18:26:56.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41794",
+      "publishedAt": "2026-09-18T18:27:34.000Z",
+      "title": "Jon Husted has my Complete and Total Endorsement for Re-Election as U.S. Senator from Ohio — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "text": "<p>Jon Husted has my Complete and Total Endorsement for Re-Election as U.S. Senator from Ohio — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41794",
+      "raw": {
+        "creator": "",
+        "title": "Jon Husted has my Complete and Total Endorsement for Re-Election as U.S. Senator from Ohio — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41794",
+        "pubDate": "Fri, 18 Sep 2026 18:27:34 +0000",
+        "author": "",
+        "content": "<p>Jon Husted has my Complete and Total Endorsement for Re-Election as U.S. Senator from Ohio — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Jon Husted has my Complete and Total Endorsement for Re-Election as U.S. Senator from Ohio — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41794",
+        "isoDate": "2026-09-18T18:27:34.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41793",
+      "publishedAt": "2026-09-18T18:27:51.000Z",
+      "title": "Stacy Garrity has my Complete and Total Endorsement to be the next Governor of Pennsylvania — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "text": "<p>Stacy Garrity has my Complete and Total Endorsement to be the next Governor of Pennsylvania — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41793",
+      "raw": {
+        "creator": "",
+        "title": "Stacy Garrity has my Complete and Total Endorsement to be the next Governor of Pennsylvania — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41793",
+        "pubDate": "Fri, 18 Sep 2026 18:27:51 +0000",
+        "author": "",
+        "content": "<p>Stacy Garrity has my Complete and Total Endorsement to be the next Governor of Pennsylvania — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Stacy Garrity has my Complete and Total Endorsement to be the next Governor of Pennsylvania — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41793",
+        "isoDate": "2026-09-18T18:27:51.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41792",
+      "publishedAt": "2026-09-18T18:28:33.000Z",
+      "title": "Monica De La Cruz has my Complete and Total Endorsement for Re-Election as U.S. Representative from Texas’ 15th Congressional District — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "text": "<p>Monica De La Cruz has my Complete and Total Endorsement for Re-Election as U.S. Representative from Texas’ 15th Congressional District — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41792",
+      "raw": {
+        "creator": "",
+        "title": "Monica De La Cruz has my Complete and Total Endorsement for Re-Election as U.S. Representative from Texas’ 15th Congressional District — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41792",
+        "pubDate": "Fri, 18 Sep 2026 18:28:33 +0000",
+        "author": "",
+        "content": "<p>Monica De La Cruz has my Complete and Total Endorsement for Re-Election as U.S. Representative from Texas’ 15th Congressional District — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Monica De La Cruz has my Complete and Total Endorsement for Re-Election as U.S. Representative from Texas’ 15th Congressional District — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41792",
+        "isoDate": "2026-09-18T18:28:33.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41791",
+      "publishedAt": "2026-09-18T18:29:34.000Z",
+      "title": "Tano Tijerina has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 28th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "text": "<p>Tano Tijerina has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 28th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41791",
+      "raw": {
+        "creator": "",
+        "title": "Tano Tijerina has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 28th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41791",
+        "pubDate": "Fri, 18 Sep 2026 18:29:34 +0000",
+        "author": "",
+        "content": "<p>Tano Tijerina has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 28th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Tano Tijerina has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 28th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41791",
+        "isoDate": "2026-09-18T18:29:34.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41790",
+      "publishedAt": "2026-09-18T18:29:48.000Z",
+      "title": "Eric Flores has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 34th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "text": "<p>Eric Flores has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 34th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41790",
+      "raw": {
+        "creator": "",
+        "title": "Eric Flores has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 34th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41790",
+        "pubDate": "Fri, 18 Sep 2026 18:29:48 +0000",
+        "author": "",
+        "content": "<p>Eric Flores has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 34th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Eric Flores has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 34th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41790",
+        "isoDate": "2026-09-18T18:29:48.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41789",
+      "publishedAt": "2026-09-18T18:30:16.000Z",
+      "title": "Carlos De La Cruz has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 35th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "text": "<p>Carlos De La Cruz has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 35th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41789",
+      "raw": {
+        "creator": "",
+        "title": "Carlos De La Cruz has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 35th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41789",
+        "pubDate": "Fri, 18 Sep 2026 18:30:16 +0000",
+        "author": "",
+        "content": "<p>Carlos De La Cruz has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 35th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Carlos De La Cruz has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 35th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41789",
+        "isoDate": "2026-09-18T18:30:16.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41788",
+      "publishedAt": "2026-09-18T18:31:00.000Z",
+      "title": "Ken Paxton has my Complete and Total Endorsement to be the next U.S. Senator from Texas — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "text": "<p>Ken Paxton has my Complete and Total Endorsement to be the next U.S. Senator from Texas — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41788",
+      "raw": {
+        "creator": "",
+        "title": "Ken Paxton has my Complete and Total Endorsement to be the next U.S. Senator from Texas — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41788",
+        "pubDate": "Fri, 18 Sep 2026 18:31:00 +0000",
+        "author": "",
+        "content": "<p>Ken Paxton has my Complete and Total Endorsement to be the next U.S. Senator from Texas — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Ken Paxton has my Complete and Total Endorsement to be the next U.S. Senator from Texas — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41788",
+        "isoDate": "2026-09-18T18:31:00.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41798",
+      "publishedAt": "2026-09-18T18:35:53.000Z",
+      "title": "RT @realDonaldTrumpTRUMP Approval Rating in the Republican Party is now 95%, A RECORD. Second place is Ronald Reagan at 86%. Thank you! President DONALD J. TRUMP",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span>TRUMP Approval Rating in the Republican Party is now 95%, A RECORD. Second place is Ronald Reagan at 86%. Thank you! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41798",
+      "raw": {
+        "creator": "",
+        "title": "RT @realDonaldTrumpTRUMP Approval Rating in the Republican Party is now 95%, A RECORD. Second place is Ronald Reagan at 86%. Thank you! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41798",
+        "pubDate": "Fri, 18 Sep 2026 18:35:53 +0000",
+        "author": "",
+        "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span>TRUMP Approval Rating in the Republican Party is now 95%, A RECORD. Second place is Ronald Reagan at 86%. Thank you! President DONALD J. TRUMP</p>",
+        "contentSnippet": "RT @realDonaldTrumpTRUMP Approval Rating in the Republican Party is now 95%, A RECORD. Second place is Ronald Reagan at 86%. Thank you! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41798",
+        "isoDate": "2026-09-18T18:35:53.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41799",
+      "publishedAt": "2026-09-18T18:48:10.000Z",
+      "title": "[No Title] - Post from September 18, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41799",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 18, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41799",
+        "pubDate": "Fri, 18 Sep 2026 18:48:10 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41799",
+        "isoDate": "2026-09-18T18:48:10.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41800",
+      "publishedAt": "2026-09-18T19:04:50.000Z",
+      "title": "I am proud to announce that, effective immediately, I am banning Fake News CNN, MSNOW (who recently changed their name from MSNBC due to lack of viewership and credibility!), and Politico (The recipients of an illegal and ridiculous $8 Million Dollar subscription, an All Time Record, directly from the United States Government, under Crooked Joe Biden, in order to keep them “alive.” Seems like corruption to me!), from the White House as a result of their constant “reporting” FAKE NEWS! Media Outlets shouldn’t be able to constantly write or report FICTION and LIES when they’re covering the President of the United States, the Trump Administration, or the United States of America. Other Fake News Media Outlets to follow. Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "text": "<p>I am proud to announce that, effective immediately, I am banning Fake News CNN, MSNOW (who recently changed their name from MSNBC due to lack of viewership and credibility!), and Politico (The recipients of an illegal and ridiculous $8 Million Dollar subscription, an All Time Record, directly from the United States Government, under Crooked Joe Biden, in order to keep them “alive.” Seems like corruption to me!), from the White House as a result of their constant “reporting” FAKE NEWS! Media Outlets shouldn’t be able to constantly write or report FICTION and LIES when they’re covering the President of the United States, the Trump Administration, or the United States of America. Other Fake News Media Outlets to follow. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41800",
+      "raw": {
+        "creator": "",
+        "title": "I am proud to announce that, effective immediately, I am banning Fake News CNN, MSNOW (who recently changed their name from MSNBC due to lack of viewership and credibility!), and Politico (The recipients of an illegal and ridiculous $8 Million Dollar subscription, an All Time Record, directly from the United States Government, under Crooked Joe Biden, in order to keep them “alive.” Seems like corruption to me!), from the White House as a result of their constant “reporting” FAKE NEWS! Media Outlets shouldn’t be able to constantly write or report FICTION and LIES when they’re covering the President of the United States, the Trump Administration, or the United States of America. Other Fake News Media Outlets to follow. Thank you for your attention to this matter! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41800",
+        "pubDate": "Fri, 18 Sep 2026 19:04:50 +0000",
+        "author": "",
+        "content": "<p>I am proud to announce that, effective immediately, I am banning Fake News CNN, MSNOW (who recently changed their name from MSNBC due to lack of viewership and credibility!), and Politico (The recipients of an illegal and ridiculous $8 Million Dollar subscription, an All Time Record, directly from the United States Government, under Crooked Joe Biden, in order to keep them “alive.” Seems like corruption to me!), from the White House as a result of their constant “reporting” FAKE NEWS! Media Outlets shouldn’t be able to constantly write or report FICTION and LIES when they’re covering the President of the United States, the Trump Administration, or the United States of America. Other Fake News Media Outlets to follow. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+        "contentSnippet": "I am proud to announce that, effective immediately, I am banning Fake News CNN, MSNOW (who recently changed their name from MSNBC due to lack of viewership and credibility!), and Politico (The recipients of an illegal and ridiculous $8 Million Dollar subscription, an All Time Record, directly from the United States Government, under Crooked Joe Biden, in order to keep them “alive.” Seems like corruption to me!), from the White House as a result of their constant “reporting” FAKE NEWS! Media Outlets shouldn’t be able to constantly write or report FICTION and LIES when they’re covering the President of the United States, the Trump Administration, or the United States of America. Other Fake News Media Outlets to follow. Thank you for your attention to this matter! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41800",
+        "isoDate": "2026-09-18T19:04:50.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -326,6 +665,120 @@
       "label": "negative",
       "rationale": "Strongly criticizes CNN as dishonest, biased, fake news, and failing.",
       "analyzedAt": "2026-09-18T16:02:10.826Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41782",
+      "label": "positive",
+      "rationale": "The post celebrates a record-high approval rating within the Republican Party and expresses gratitude.",
+      "analyzedAt": "2026-09-18T20:05:11.432Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41783",
+      "label": "positive",
+      "rationale": "The post endorses Dan S. Sullivan for reelection and expresses strong confidence in him.",
+      "analyzedAt": "2026-09-18T20:05:11.432Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41784",
+      "label": "positive",
+      "rationale": "The post gives Mike Collins a complete and total endorsement and expresses confidence in him.",
+      "analyzedAt": "2026-09-18T20:05:11.432Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41785",
+      "label": "positive",
+      "rationale": "The post endorses Ashley Moody for reelection and expresses strong confidence in her.",
+      "analyzedAt": "2026-09-18T20:05:11.432Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41786",
+      "label": "positive",
+      "rationale": "The post gives Mike Rogers a complete and total endorsement and expresses confidence in him.",
+      "analyzedAt": "2026-09-18T20:05:11.432Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41787",
+      "label": "positive",
+      "rationale": "The post endorses Roger Marshall for reelection and expresses strong confidence in him.",
+      "analyzedAt": "2026-09-18T20:05:11.432Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41788",
+      "label": "positive",
+      "rationale": "The post gives Ken Paxton a complete and total endorsement and expresses confidence in him.",
+      "analyzedAt": "2026-09-18T20:05:11.431Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41789",
+      "label": "positive",
+      "rationale": "The post gives Carlos De La Cruz a complete and total endorsement and expresses confidence in him.",
+      "analyzedAt": "2026-09-18T20:05:11.431Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41790",
+      "label": "positive",
+      "rationale": "The post gives Eric Flores a complete and total endorsement and expresses confidence in him.",
+      "analyzedAt": "2026-09-18T20:05:11.431Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41791",
+      "label": "positive",
+      "rationale": "The post gives Tano Tijerina a complete and total endorsement and expresses confidence in him.",
+      "analyzedAt": "2026-09-18T20:05:11.432Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41792",
+      "label": "positive",
+      "rationale": "The post endorses Monica De La Cruz for reelection and expresses strong confidence in her.",
+      "analyzedAt": "2026-09-18T20:05:11.432Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41793",
+      "label": "positive",
+      "rationale": "The post gives Stacy Garrity a complete and total endorsement and expresses confidence in her.",
+      "analyzedAt": "2026-09-18T20:05:11.432Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41794",
+      "label": "positive",
+      "rationale": "The post endorses Jon Husted for reelection and expresses strong confidence in him.",
+      "analyzedAt": "2026-09-18T20:05:11.432Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41795",
+      "label": "positive",
+      "rationale": "The post endorses Pete Ricketts for reelection and expresses strong confidence in him.",
+      "analyzedAt": "2026-09-18T20:05:11.432Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41796",
+      "label": "positive",
+      "rationale": "The post gives Michael Whatley a complete and total endorsement and expresses confidence in him.",
+      "analyzedAt": "2026-09-18T20:05:11.432Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41797",
+      "label": "positive",
+      "rationale": "The post gives Laurie Buckhout a complete and total endorsement and expresses confidence in her.",
+      "analyzedAt": "2026-09-18T20:05:11.432Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41798",
+      "label": "positive",
+      "rationale": "The post celebrates a record-high approval rating within the Republican Party and expresses gratitude.",
+      "analyzedAt": "2026-09-18T20:05:11.431Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41799",
+      "label": "neutral",
+      "rationale": "The post contains no text.",
+      "analyzedAt": "2026-09-18T20:05:11.431Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41800",
+      "label": "negative",
+      "rationale": "The post uses strongly hostile language to criticize and ban several media outlets, accusing them of spreading fake news, fiction, and lies.",
+      "analyzedAt": "2026-09-18T20:05:11.431Z"
     }
   ]
 }

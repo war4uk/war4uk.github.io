@@ -448,7 +448,7 @@
       ],
       "postsCount": 16,
       "hasDetail": true,
-      "generatedAt": "2026-09-18T16:02:01.050Z",
+      "generatedAt": "2026-09-18T20:04:54.668Z",
       "trendingTopic": "Fox News highlights record household incomes, low poverty, and improving prices under Trump",
       "secondaryHighlights": [
         {
@@ -461,47 +461,41 @@
     {
       "date": "2026-09-18",
       "counts": {
-        "positive": 5,
-        "neutral": 5,
-        "negative": 2
+        "positive": 22,
+        "neutral": 6,
+        "negative": 3
       },
-      "summary": "positive:5 neutral:5 negative:2",
+      "summary": "positive:22 neutral:6 negative:3",
       "topics": [
-        "Endorses Rob Wittman, Jen Kiggans, and John McGuire for reelection in Virginia",
-        "Praises Andrew Ferguson and the JD Vance-led fraud task force",
-        "Shares article alleging Iran leaks expose Trump’s reliance on enemy assurances"
+        "Endorses 18 Republican candidates for congressional, Senate, and gubernatorial races across 13 states",
+        "Bans CNN, MS NOW, and Politico from the White House over alleged fake news",
+        "Highlights fraud task force investigations led by Andrew Ferguson and JD Vance"
       ],
-      "postsCount": 12,
+      "postsCount": 31,
       "hasDetail": true,
-      "generatedAt": "2026-09-18T16:02:27.252Z",
-      "trendingTopic": "Endorses Rob Wittman, Jen Kiggans, and John McGuire for reelection in Virginia",
+      "generatedAt": "2026-09-18T20:05:23.349Z",
+      "trendingTopic": "Endorses 18 Republican candidates for congressional, Senate, and gubernatorial races across 13 states",
       "secondaryHighlights": [
         {
-          "topic": "Praises Andrew Ferguson and the JD Vance-led fraud task force for pursuing billions and prison sentences",
+          "topic": "Bans CNN, MS NOW, and Politico from the White House over alleged fake news"
+        },
+        {
+          "topic": "Highlights fraud task force investigations led by Andrew Ferguson and JD Vance",
           "name": "Andrew Ferguson"
-        },
-        {
-          "topic": "Shares article alleging Iran leaks expose Trump’s reliance on enemy assurances and threatens leakers"
-        },
-        {
-          "topic": "Attacks CNN as dishonest, anti-Republican, and losing viewers"
         }
       ],
       "selfPraiseCount": 2
     }
   ],
-  "generatedAt": "2026-09-18T16:02:27.252Z",
-  "trendingTopic": "Donald Trump portrays Iran as collapsing while defending the military operation and discussing oil, weapons, and negotiations",
+  "generatedAt": "2026-09-18T20:05:23.349Z",
+  "trendingTopic": "Donald Trump defends the Iran war while portraying Iran’s economy and strategic position as collapsing",
   "secondaryHighlights": [
     {
-      "topic": "Trump promotes White House ballroom, heliport, military complex, and patriotic monument projects"
+      "topic": "Trump promotes White House construction, renovations, and patriotic monument projects"
     },
     {
       "topic": "Trump pushes American-themed renaming of Lake Ontario and New Mexico"
-    },
-    {
-      "topic": "Trump amplifies conservative books, commentators, and media attacks"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:18:6c807765a4bc0e20ff0ff148"
+  "topicsCacheKey": "month-themes-v5:18:5b5286e950170ea80b228d4d"
 }
