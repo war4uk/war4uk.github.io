@@ -448,7 +448,7 @@
       ],
       "postsCount": 16,
       "hasDetail": true,
-      "generatedAt": "2026-09-18T12:00:17.227Z",
+      "generatedAt": "2026-09-18T16:02:01.050Z",
       "trendingTopic": "Fox News highlights record household incomes, low poverty, and improving prices under Trump",
       "secondaryHighlights": [
         {
@@ -461,41 +461,47 @@
     {
       "date": "2026-09-18",
       "counts": {
-        "positive": 4,
+        "positive": 5,
         "neutral": 5,
-        "negative": 1
+        "negative": 2
       },
-      "summary": "positive:4 neutral:5 negative:1",
+      "summary": "positive:5 neutral:5 negative:2",
       "topics": [
-        "Endorses Virginia congressional incumbents Rob Wittman, Jen Kiggans, and John McGuire for reelection",
-        "Praises Andrew Ferguson and JD Vance’s fraud task force crackdown",
-        "Accuses Iran-related leakers of disloyalty and threatens punishment"
+        "Endorses Rob Wittman, Jen Kiggans, and John McGuire for reelection in Virginia",
+        "Praises Andrew Ferguson and the JD Vance-led fraud task force",
+        "Shares article alleging Iran leaks expose Trump’s reliance on enemy assurances"
       ],
-      "postsCount": 10,
+      "postsCount": 12,
       "hasDetail": true,
-      "generatedAt": "2026-09-18T12:00:22.331Z",
-      "trendingTopic": "Endorses Rob Wittman, Jen Kiggans, and John McGuire for reelection in Virginia congressional districts",
+      "generatedAt": "2026-09-18T16:02:27.252Z",
+      "trendingTopic": "Endorses Rob Wittman, Jen Kiggans, and John McGuire for reelection in Virginia",
       "secondaryHighlights": [
         {
-          "topic": "Praises Andrew Ferguson and JD Vance’s fraud task force crackdown",
+          "topic": "Praises Andrew Ferguson and the JD Vance-led fraud task force for pursuing billions and prison sentences",
           "name": "Andrew Ferguson"
         },
         {
-          "topic": "Accuses Iran-related leakers of disloyalty and threatens punishment"
+          "topic": "Shares article alleging Iran leaks expose Trump’s reliance on enemy assurances and threatens leakers"
+        },
+        {
+          "topic": "Attacks CNN as dishonest, anti-Republican, and losing viewers"
         }
       ],
-      "selfPraiseCount": 1
+      "selfPraiseCount": 2
     }
   ],
-  "generatedAt": "2026-09-18T12:00:22.331Z",
-  "trendingTopic": "Trump wages and defends the Iran conflict while touting pressure on Iran",
+  "generatedAt": "2026-09-18T16:02:27.252Z",
+  "trendingTopic": "Donald Trump portrays Iran as collapsing while defending the military operation and discussing oil, weapons, and negotiations",
   "secondaryHighlights": [
     {
-      "topic": "Trump drives Republican midterm campaigning with endorsements, rallies, and the Dallas convention"
+      "topic": "Trump promotes White House ballroom, heliport, military complex, and patriotic monument projects"
     },
     {
-      "topic": "Trump promotes White House renovations, a ballroom, and new military facilities"
+      "topic": "Trump pushes American-themed renaming of Lake Ontario and New Mexico"
+    },
+    {
+      "topic": "Trump amplifies conservative books, commentators, and media attacks"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:18:48d0f2defe2961149bdc57e3"
+  "topicsCacheKey": "month-themes-v5:18:6c807765a4bc0e20ff0ff148"
 }

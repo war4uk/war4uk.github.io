@@ -1,32 +1,36 @@
 {
   "date": "2026-09-18",
   "counts": {
-    "positive": 4,
+    "positive": 5,
     "neutral": 5,
-    "negative": 1
+    "negative": 2
   },
-  "summary": "positive:4 neutral:5 negative:1",
-  "generatedAt": "2026-09-18T12:00:22.331Z",
+  "summary": "positive:5 neutral:5 negative:2",
+  "generatedAt": "2026-09-18T16:02:27.252Z",
   "topics": [
-    "Endorses Virginia congressional incumbents Rob Wittman, Jen Kiggans, and John McGuire for reelection",
-    "Praises Andrew Ferguson and JD Vance’s fraud task force crackdown",
-    "Accuses Iran-related leakers of disloyalty and threatens punishment"
+    "Endorses Rob Wittman, Jen Kiggans, and John McGuire for reelection in Virginia",
+    "Praises Andrew Ferguson and the JD Vance-led fraud task force",
+    "Shares article alleging Iran leaks expose Trump’s reliance on enemy assurances"
   ],
-  "trendingTopic": "Endorses Rob Wittman, Jen Kiggans, and John McGuire for reelection in Virginia congressional districts",
+  "trendingTopic": "Endorses Rob Wittman, Jen Kiggans, and John McGuire for reelection in Virginia",
   "secondaryHighlights": [
     {
-      "topic": "Praises Andrew Ferguson and JD Vance’s fraud task force crackdown",
+      "topic": "Praises Andrew Ferguson and the JD Vance-led fraud task force for pursuing billions and prison sentences",
       "name": "Andrew Ferguson"
     },
     {
-      "topic": "Accuses Iran-related leakers of disloyalty and threatens punishment"
+      "topic": "Shares article alleging Iran leaks expose Trump’s reliance on enemy assurances and threatens leakers"
+    },
+    {
+      "topic": "Attacks CNN as dishonest, anti-Republican, and losing viewers"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v11:10:d1587f0c249872cd8580388f",
-  "selfPraiseCacheKey": "self-praise-v2:10:d1587f0c249872cd8580388f",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:12:1cd8de166365a96f30ca89d6",
+  "selfPraiseCacheKey": "self-praise-v2:12:1cd8de166365a96f30ca89d6",
   "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/41779"
+    "https://www.trumpstruth.org/statuses/41779",
+    "https://www.trumpstruth.org/statuses/41780"
   ],
   "posts": [
     {
@@ -212,6 +216,42 @@
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18170/6362ede9c6326f9c-213e1ca97d95.jpg"
       ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41780",
+      "publishedAt": "2026-09-18T13:54:16.000Z",
+      "title": "Ruddy: 'A Rising Trump Lifts All Boats':",
+      "text": "<p>Ruddy: 'A Rising Trump Lifts All Boats': <a href=\"https://www.newsmax.com/ruddy/ruddy-donald-trump-economy/2026/09/13/id/1269294/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/ruddy/ruddy-donald</span><span class=\"invisible\">-trump-economy/2026/09/13/id/1269294/</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41780",
+      "raw": {
+        "creator": "",
+        "title": "Ruddy: 'A Rising Trump Lifts All Boats':",
+        "link": "https://www.trumpstruth.org/statuses/41780",
+        "pubDate": "Fri, 18 Sep 2026 13:54:16 +0000",
+        "author": "",
+        "content": "<p>Ruddy: 'A Rising Trump Lifts All Boats': <a href=\"https://www.newsmax.com/ruddy/ruddy-donald-trump-economy/2026/09/13/id/1269294/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/ruddy/ruddy-donald</span><span class=\"invisible\">-trump-economy/2026/09/13/id/1269294/</span></a></p>",
+        "contentSnippet": "Ruddy: 'A Rising Trump Lifts All Boats': https://www.newsmax.com/ruddy/ruddy-donald-trump-economy/2026/09/13/id/1269294/",
+        "guid": "https://www.trumpstruth.org/statuses/41780",
+        "isoDate": "2026-09-18T13:54:16.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41781",
+      "publishedAt": "2026-09-18T14:52:00.000Z",
+      "title": "Unwatchable and Failing CNN is so dishonest. Everything they say is slanted against the Republican Party. They are truly FAKE NEWS! Thankfully, very few people are watching! President DJT",
+      "text": "<p>Unwatchable and Failing CNN is so dishonest. Everything they say is slanted against the Republican Party. They are truly FAKE NEWS! Thankfully, very few people are watching! President DJT</p>",
+      "url": "https://www.trumpstruth.org/statuses/41781",
+      "raw": {
+        "creator": "",
+        "title": "Unwatchable and Failing CNN is so dishonest. Everything they say is slanted against the Republican Party. They are truly FAKE NEWS! Thankfully, very few people are watching! President DJT",
+        "link": "https://www.trumpstruth.org/statuses/41781",
+        "pubDate": "Fri, 18 Sep 2026 14:52:00 +0000",
+        "author": "",
+        "content": "<p>Unwatchable and Failing CNN is so dishonest. Everything they say is slanted against the Republican Party. They are truly FAKE NEWS! Thankfully, very few people are watching! President DJT</p>",
+        "contentSnippet": "Unwatchable and Failing CNN is so dishonest. Everything they say is slanted against the Republican Party. They are truly FAKE NEWS! Thankfully, very few people are watching! President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/41781",
+        "isoDate": "2026-09-18T14:52:00.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -274,6 +314,18 @@
       "label": "negative",
       "rationale": "The post uses hostile, threatening language toward leakers, including saying they will pay a big price, creating an overall negative sentiment.",
       "analyzedAt": "2026-09-18T08:02:29.827Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41780",
+      "label": "positive",
+      "rationale": "Presents Trump’s rise as broadly beneficial, using favorable economic imagery.",
+      "analyzedAt": "2026-09-18T16:02:10.826Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41781",
+      "label": "negative",
+      "rationale": "Strongly criticizes CNN as dishonest, biased, fake news, and failing.",
+      "analyzedAt": "2026-09-18T16:02:10.826Z"
     }
   ]
 }
