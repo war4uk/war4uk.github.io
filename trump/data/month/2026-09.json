@@ -448,7 +448,7 @@
       ],
       "postsCount": 16,
       "hasDetail": true,
-      "generatedAt": "2026-09-18T04:02:19.329Z",
+      "generatedAt": "2026-09-18T08:02:18.286Z",
       "trendingTopic": "Fox News highlights record household incomes, low poverty, and improving prices under Trump",
       "secondaryHighlights": [
         {
@@ -463,38 +463,39 @@
       "counts": {
         "positive": 4,
         "neutral": 5,
-        "negative": 0
+        "negative": 1
       },
-      "summary": "positive:4 neutral:5 negative:0",
+      "summary": "positive:4 neutral:5 negative:1",
       "topics": [
-        "Endorses Virginia congressmen Rob Wittman, Jen Kiggans, and John McGuire for reelection",
-        "Praises Andrew Ferguson and JD Vance’s fraud task force for pursuing billions in recoveries and prison sentences"
+        "Endorses Virginia congressional incumbents Rob Wittman, Jen Kiggans, and John McGuire for reelection",
+        "Praises Andrew Ferguson and JD Vance’s fraud task force crackdown",
+        "Accuses Iran-related leakers of disloyalty and threatens punishment"
       ],
-      "postsCount": 9,
+      "postsCount": 10,
       "hasDetail": true,
-      "generatedAt": "2026-09-18T04:02:38.521Z",
-      "trendingTopic": "Endorses Virginia congressmen Rob Wittman, Jen Kiggans, and John McGuire for reelection",
+      "generatedAt": "2026-09-18T08:02:41.860Z",
+      "trendingTopic": "Endorses Rob Wittman, Jen Kiggans, and John McGuire for reelection in Virginia congressional districts",
       "secondaryHighlights": [
         {
-          "topic": "Praises Andrew Ferguson and JD Vance’s fraud task force for pursuing billions in recoveries and prison sentences",
+          "topic": "Praises Andrew Ferguson and JD Vance’s fraud task force crackdown",
           "name": "Andrew Ferguson"
+        },
+        {
+          "topic": "Accuses Iran-related leakers of disloyalty and threatens punishment"
         }
       ],
-      "selfPraiseCount": 0
+      "selfPraiseCount": 1
     }
   ],
-  "generatedAt": "2026-09-18T04:02:38.521Z",
-  "trendingTopic": "Trump touts military pressure on Iran, control of the Strait of Hormuz, and Iran’s worsening economic crisis",
+  "generatedAt": "2026-09-18T08:02:41.860Z",
+  "trendingTopic": "Trump wages and defends the Iran conflict while touting pressure on Iran",
   "secondaryHighlights": [
     {
-      "topic": "Trump pushes American-themed renamings for New Mexico and Lake Ontario"
+      "topic": "Trump drives Republican midterm campaigning with endorsements, rallies, and the Dallas convention"
     },
     {
-      "topic": "Trump endorses and celebrates Republican candidates across multiple state races"
-    },
-    {
-      "topic": "Trump attacks alleged misconduct by prosecutors, courts, and the FBI in cases involving him and his allies"
+      "topic": "Trump promotes White House renovations, a ballroom, and new military facilities"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:18:2dc49eadeecaaeae139a6a46"
+  "topicsCacheKey": "month-themes-v5:18:48d0f2defe2961149bdc57e3"
 }

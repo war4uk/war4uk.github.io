@@ -3,22 +3,28 @@
   "counts": {
     "positive": 4,
     "neutral": 5,
-    "negative": 0
+    "negative": 1
   },
-  "summary": "positive:4 neutral:5 negative:0",
-  "generatedAt": "2026-09-18T04:02:38.521Z",
+  "summary": "positive:4 neutral:5 negative:1",
+  "generatedAt": "2026-09-18T08:02:41.860Z",
   "topics": [
-    "Endorses Virginia congressmen Rob Wittman, Jen Kiggans, and John McGuire for reelection",
-    "Praises Andrew Ferguson and JD Vance’s fraud task force for pursuing billions in recoveries and prison sentences"
+    "Endorses Virginia congressional incumbents Rob Wittman, Jen Kiggans, and John McGuire for reelection",
+    "Praises Andrew Ferguson and JD Vance’s fraud task force crackdown",
+    "Accuses Iran-related leakers of disloyalty and threatens punishment"
   ],
-  "trendingTopic": "Endorses Virginia congressmen Rob Wittman, Jen Kiggans, and John McGuire for reelection",
+  "trendingTopic": "Endorses Rob Wittman, Jen Kiggans, and John McGuire for reelection in Virginia congressional districts",
   "secondaryHighlights": [
     {
-      "topic": "Praises Andrew Ferguson and JD Vance’s fraud task force for pursuing billions in recoveries and prison sentences",
+      "topic": "Praises Andrew Ferguson and JD Vance’s fraud task force crackdown",
       "name": "Andrew Ferguson"
+    },
+    {
+      "topic": "Accuses Iran-related leakers of disloyalty and threatens punishment"
     }
   ],
-  "selfPraiseCount": 0,
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v11:10:d1587f0c249872cd8580388f",
+  "selfPraiseCacheKey": "self-praise-v2:10:d1587f0c249872cd8580388f",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41770",
@@ -181,6 +187,28 @@
         "guid": "https://www.trumpstruth.org/statuses/41777",
         "isoDate": "2026-09-18T02:22:39.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41779",
+      "publishedAt": "2026-09-18T04:16:42.000Z",
+      "title": "Very interesting. A must read! Keep on leaking you dirty dogs! When we find you, you will pay a big price!!! President DJTWhat the disloyal leaks about Iran prove about Trump:",
+      "text": "<p>Very interesting. A must read! Keep on leaking you dirty dogs! When we find you, you will pay a big price!!! President DJT</p><p>What the disloyal leaks about Iran prove about Trump: <a href=\"https://www.washingtonpost.com/opinions/2026/08/27/iran-trump-took-an-enemy-its-word-if-only-past-leaders-had/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">26/08/27/iran-trump-took-an-enemy-its-word-if-only-past-leaders-had/</span></a></p>\n\n[Image] A stylized black-and-white line illustration shows a front-facing man with short, dark hair, prominent ears, arched eyebrows, and a slight smile. His head and shoulders are set against a large salmon-colored circle on a white background, with a dark jacket or shirt collar visible at the bottom.",
+      "url": "https://www.trumpstruth.org/statuses/41779",
+      "raw": {
+        "creator": "",
+        "title": "Very interesting. A must read! Keep on leaking you dirty dogs! When we find you, you will pay a big price!!! President DJTWhat the disloyal leaks about Iran prove about Trump:",
+        "link": "https://www.trumpstruth.org/statuses/41779",
+        "pubDate": "Fri, 18 Sep 2026 04:16:42 +0000",
+        "author": "",
+        "content": "<p>Very interesting. A must read! Keep on leaking you dirty dogs! When we find you, you will pay a big price!!! President DJT</p><p>What the disloyal leaks about Iran prove about Trump: <a href=\"https://www.washingtonpost.com/opinions/2026/08/27/iran-trump-took-an-enemy-its-word-if-only-past-leaders-had/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">26/08/27/iran-trump-took-an-enemy-its-word-if-only-past-leaders-had/</span></a></p>",
+        "contentSnippet": "Very interesting. A must read! Keep on leaking you dirty dogs! When we find you, you will pay a big price!!! President DJT\nWhat the disloyal leaks about Iran prove about Trump: https://www.washingtonpost.com/opinions/2026/08/27/iran-trump-took-an-enemy-its-word-if-only-past-leaders-had/",
+        "guid": "https://www.trumpstruth.org/statuses/41779",
+        "isoDate": "2026-09-18T04:16:42.000Z"
+      },
+      "imageDescribedAt": "2026-09-18T08:02:27.265Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18170/6362ede9c6326f9c-213e1ca97d95.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -237,8 +265,15 @@
       "label": "neutral",
       "rationale": "The text is empty and expresses no sentiment.",
       "analyzedAt": "2026-09-18T04:02:29.068Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41779",
+      "label": "negative",
+      "rationale": "The post uses hostile, threatening language toward leakers, including saying they will pay a big price, creating an overall negative sentiment.",
+      "analyzedAt": "2026-09-18T08:02:29.827Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v11:9:bb8413f1603a01e85f639fa5",
-  "selfPraiseCacheKey": "self-praise-v2:9:bb8413f1603a01e85f639fa5"
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41779"
+  ]
 }
