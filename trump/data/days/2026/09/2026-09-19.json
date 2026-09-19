@@ -6,9 +6,11 @@
     "negative": 0
   },
   "summary": "positive:0 neutral:1 negative:0",
-  "generatedAt": "2026-09-19T08:01:49.854Z",
+  "generatedAt": "2026-09-19T12:01:31.673Z",
   "topics": [],
   "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v11:1:c173d3c782b232520d3a3c66",
+  "selfPraiseCacheKey": "self-praise-v2:1:c173d3c782b232520d3a3c66",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41805",
@@ -36,7 +38,5 @@
       "rationale": "The text contains no substantive content or sentiment.",
       "analyzedAt": "2026-09-19T08:01:44.198Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v11:1:c173d3c782b232520d3a3c66",
-  "selfPraiseCacheKey": "self-praise-v2:1:c173d3c782b232520d3a3c66"
+  ]
 }
