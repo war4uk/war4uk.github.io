@@ -473,7 +473,7 @@
       ],
       "postsCount": 35,
       "hasDetail": true,
-      "generatedAt": "2026-09-19T04:04:30.782Z",
+      "generatedAt": "2026-09-19T08:01:39.153Z",
       "trendingTopic": "Endorses 19 candidates for congressional, Senate, and gubernatorial races across multiple states",
       "secondaryHighlights": [
         {
@@ -493,26 +493,29 @@
       "date": "2026-09-19",
       "counts": {
         "positive": 0,
-        "neutral": 0,
+        "neutral": 1,
         "negative": 0
       },
-      "summary": "positive:0 neutral:0 negative:0",
+      "summary": "positive:0 neutral:1 negative:0",
       "topics": [],
-      "postsCount": 0,
+      "postsCount": 1,
       "hasDetail": true,
-      "generatedAt": "2026-09-19T04:04:33.213Z",
+      "generatedAt": "2026-09-19T08:01:49.854Z",
       "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-19T04:04:33.213Z",
-  "trendingTopic": "Trump portrays Iran as collapsing while defending military pressure and control of the Strait of Hormuz",
+  "generatedAt": "2026-09-19T08:01:49.854Z",
+  "trendingTopic": "Trump portrays Iran as collapsing while defending the war and pressure on its oil exports",
   "secondaryHighlights": [
     {
-      "topic": "Trump rallies Republicans and endorses candidates ahead of the midterms"
+      "topic": "Trump pushes renaming Lake Ontario and New Mexico with American-themed names"
     },
     {
-      "topic": "Trump promotes a White House ballroom, helipad, and Washington architectural projects"
+      "topic": "Trump and Vance headline a high-profile Dallas Republican midterm convention"
+    },
+    {
+      "topic": "Trump touts economic gains while demanding lower interest rates"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:18:e8c56bd229d39b289ad5e922"
+  "topicsCacheKey": "month-themes-v5:19:c768df8dc1a3a9ac5a8bc2ff"
 }
