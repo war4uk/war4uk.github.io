@@ -473,7 +473,7 @@
       ],
       "postsCount": 35,
       "hasDetail": true,
-      "generatedAt": "2026-09-19T16:02:16.977Z",
+      "generatedAt": "2026-09-19T20:02:15.446Z",
       "trendingTopic": "Endorses 19 candidates for congressional, Senate, and gubernatorial races across multiple states",
       "secondaryHighlights": [
         {
@@ -492,35 +492,43 @@
     {
       "date": "2026-09-19",
       "counts": {
-        "positive": 0,
-        "neutral": 2,
-        "negative": 0
+        "positive": 1,
+        "neutral": 3,
+        "negative": 1
       },
-      "summary": "positive:0 neutral:2 negative:0",
+      "summary": "positive:1 neutral:3 negative:1",
       "topics": [
-        "Polls followers on renaming artificial intelligence as Superior, Extreme, or Supreme Intelligence"
+        "Trump defends artificial intelligence growth and announces an AI Force with a future AI czar",
+        "Trump attacks Supreme Court rulings on tariffs and birthright citizenship",
+        "New York Post portrays Trump securing permanent U.S. military rights in Greenland"
       ],
-      "postsCount": 2,
+      "postsCount": 5,
       "hasDetail": true,
-      "generatedAt": "2026-09-19T16:02:31.329Z",
-      "trendingTopic": "Donald Trump polls followers on renaming artificial intelligence as Superior, Extreme, or Supreme Intelligence",
+      "generatedAt": "2026-09-19T20:02:37.258Z",
+      "trendingTopic": "Trump defends artificial intelligence growth and announces an AI Force with a future AI czar",
       "secondaryHighlights": [
         {
-          "topic": "Many people think that the words “Artificial Intelligence” are inaccurate, and very ineloquent, relative to AI, or Artificial Intelligence."
+          "topic": "Trump attacks Supreme Court rulings on tariffs and birthright citizenship"
+        },
+        {
+          "topic": "New York Post portrays Trump securing permanent U.S. military rights in Greenland"
         }
       ],
-      "selfPraiseCount": 0
+      "selfPraiseCount": 1
     }
   ],
-  "generatedAt": "2026-09-19T16:02:31.329Z",
-  "trendingTopic": "Donald Trump portrays Iran as collapsing while defending military operations and confronting oil and shipping risks",
+  "generatedAt": "2026-09-19T20:02:37.258Z",
+  "trendingTopic": "Trump intensifies pressure on Iran while claiming control of the Strait of Hormuz",
   "secondaryHighlights": [
     {
-      "topic": "Endorses candidates and mobilizes Republicans for the 2026 midterm elections"
+      "topic": "Endorses candidates across congressional, gubernatorial, and Senate races"
     },
     {
-      "topic": "Promotes White House renovations, military complexes, and monumental Washington projects"
+      "topic": "Pushes renaming Lake Ontario and New Mexico with American-themed names"
+    },
+    {
+      "topic": "Trump defends artificial intelligence expansion and announces an AI Force"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:19:a22bfc85cd255abb609cbc97"
+  "topicsCacheKey": "month-themes-v5:19:6ce24c700ee0b8bb820e87ba"
 }
