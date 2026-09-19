@@ -1,33 +1,38 @@
 {
   "date": "2026-09-18",
   "counts": {
-    "positive": 22,
-    "neutral": 6,
+    "positive": 25,
+    "neutral": 7,
     "negative": 3
   },
-  "summary": "positive:22 neutral:6 negative:3",
-  "generatedAt": "2026-09-18T20:05:23.349Z",
+  "summary": "positive:25 neutral:7 negative:3",
+  "generatedAt": "2026-09-19T00:04:16.106Z",
   "topics": [
-    "Endorses 18 Republican candidates for congressional, Senate, and gubernatorial races across 13 states",
+    "Endorses 19 candidates for congressional, Senate, and gubernatorial races across multiple states",
     "Bans CNN, MS NOW, and Politico from the White House over alleged fake news",
-    "Highlights fraud task force investigations led by Andrew Ferguson and JD Vance"
+    "Announces permanent U.S. security control agreement for Greenland with Denmark"
   ],
-  "trendingTopic": "Endorses 18 Republican candidates for congressional, Senate, and gubernatorial races across 13 states",
+  "trendingTopic": "Endorses 19 candidates for congressional, Senate, and gubernatorial races across multiple states",
   "secondaryHighlights": [
     {
-      "topic": "Bans CNN, MS NOW, and Politico from the White House over alleged fake news"
+      "topic": "Praises Andrew Ferguson and JD Vance’s fraud task force for pursuing billions and prison sentences",
+      "name": "Andrew Ferguson"
     },
     {
-      "topic": "Highlights fraud task force investigations led by Andrew Ferguson and JD Vance",
-      "name": "Andrew Ferguson"
+      "topic": "Claims a record 95% approval rating among Republican voters, surpassing Ronald Reagan"
+    },
+    {
+      "topic": "Accuses Iran-related leaks of exposing disloyalty and threatens severe punishment for leakers"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v11:31:0bf70b67921f4b33c0f5f5ce",
-  "selfPraiseCacheKey": "self-praise-v2:31:0bf70b67921f4b33c0f5f5ce",
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v11:35:673a7df112f6ac6b9acd0de7",
+  "selfPraiseCacheKey": "self-praise-v2:35:673a7df112f6ac6b9acd0de7",
   "selfPraisePostIds": [
     "https://www.trumpstruth.org/statuses/41780",
-    "https://www.trumpstruth.org/statuses/41782"
+    "https://www.trumpstruth.org/statuses/41782",
+    "https://www.trumpstruth.org/statuses/41803",
+    "https://www.trumpstruth.org/statuses/41804"
   ],
   "posts": [
     {
@@ -591,6 +596,83 @@
         "guid": "https://www.trumpstruth.org/statuses/41800",
         "isoDate": "2026-09-18T19:04:50.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41802",
+      "publishedAt": "2026-09-18T20:46:32.000Z",
+      "title": "Ashley Hinson has my Complete and Total Endorsement to be the next U.S. Senator from Iowa — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "text": "<p>Ashley Hinson has my Complete and Total Endorsement to be the next U.S. Senator from Iowa — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41802",
+      "raw": {
+        "creator": "",
+        "title": "Ashley Hinson has my Complete and Total Endorsement to be the next U.S. Senator from Iowa — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41802",
+        "pubDate": "Fri, 18 Sep 2026 20:46:32 +0000",
+        "author": "",
+        "content": "<p>Ashley Hinson has my Complete and Total Endorsement to be the next U.S. Senator from Iowa — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Ashley Hinson has my Complete and Total Endorsement to be the next U.S. Senator from Iowa — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41802",
+        "isoDate": "2026-09-18T20:46:32.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41801",
+      "publishedAt": "2026-09-18T20:48:19.000Z",
+      "title": "[No Title] - Post from September 18, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41801",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 18, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41801",
+        "pubDate": "Fri, 18 Sep 2026 20:48:19 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41801",
+        "isoDate": "2026-09-18T20:48:19.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41803",
+      "publishedAt": "2026-09-18T21:18:49.000Z",
+      "title": "BREAKING NEWS: I am pleased to announce that the United States of America has entered into an Agreement with The Kingdom of Denmark, and Greenland, that gives the United States permanent control over security, and all other needs, in Greenland, completely addressing ALL of our many U.S. concerns. There will be NO COST to the United States! At my direction, we worked with representatives of Denmark and Greenland to guarantee that the United States will FOREVER have the complete ability to do what is necessary in Greenland in order to secure and defend the security of Greenland, and the United States of America. Additionally, from now on, no U.S. adversary can EVER have a base in Greenland, have a military presence in Greenland, or make sensitive investments in Greenland, without our express written approval. For over 100 years, Presidents have known the strategic importance of Greenland, but NONE of them were able to do anything about it. I am proud to be the President that permanently and conclusively addressed this very important situation. This is an “Infinite Life” Agreement, there is no end! We are very honored and proud of what has just taken place, and everything agreed to today will be cherished by the American People. We will immediately begin the process of developing a large Military presence in the appropriate part of Greenland, of which there are many. We will work with the people of Greenland in its development and construction. This solution is a great one for the United States of America, Denmark, Greenland, and all of our Allies. We look forward to working with the wonderful people of Denmark and Greenland toward a magnificent future with respect to this large, and highly strategic, parcel of land. We will be very protective of it! This is a dream come true for the United States of America, one that is very important, historic, and special. Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "text": "<p>BREAKING NEWS: I am pleased to announce that the United States of America has entered into an Agreement with The Kingdom of Denmark, and Greenland, that gives the United States permanent control over security, and all other needs, in Greenland, completely addressing ALL of our many U.S. concerns. There will be NO COST to the United States! At my direction, we worked with representatives of Denmark and Greenland to guarantee that the United States will FOREVER have the complete ability to do what is necessary in Greenland in order to secure and defend the security of Greenland, and the United States of America. Additionally, from now on, no U.S. adversary can EVER have a base in Greenland, have a military presence in Greenland, or make sensitive investments in Greenland, without our express written approval. For over 100 years, Presidents have known the strategic importance of Greenland, but NONE of them were able to do anything about it. I am proud to be the President that permanently and conclusively addressed this very important situation. This is an “Infinite Life” Agreement, there is no end! We are very honored and proud of what has just taken place, and everything agreed to today will be cherished by the American People. We will immediately begin the process of developing a large Military presence in the appropriate part of Greenland, of which there are many. We will work with the people of Greenland in its development and construction. This solution is a great one for the United States of America, Denmark, Greenland, and all of our Allies. We look forward to working with the wonderful people of Denmark and Greenland toward a magnificent future with respect to this large, and highly strategic, parcel of land. We will be very protective of it! This is a dream come true for the United States of America, one that is very important, historic, and special. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41803",
+      "raw": {
+        "creator": "",
+        "title": "BREAKING NEWS: I am pleased to announce that the United States of America has entered into an Agreement with The Kingdom of Denmark, and Greenland, that gives the United States permanent control over security, and all other needs, in Greenland, completely addressing ALL of our many U.S. concerns. There will be NO COST to the United States! At my direction, we worked with representatives of Denmark and Greenland to guarantee that the United States will FOREVER have the complete ability to do what is necessary in Greenland in order to secure and defend the security of Greenland, and the United States of America. Additionally, from now on, no U.S. adversary can EVER have a base in Greenland, have a military presence in Greenland, or make sensitive investments in Greenland, without our express written approval. For over 100 years, Presidents have known the strategic importance of Greenland, but NONE of them were able to do anything about it. I am proud to be the President that permanently and conclusively addressed this very important situation. This is an “Infinite Life” Agreement, there is no end! We are very honored and proud of what has just taken place, and everything agreed to today will be cherished by the American People. We will immediately begin the process of developing a large Military presence in the appropriate part of Greenland, of which there are many. We will work with the people of Greenland in its development and construction. This solution is a great one for the United States of America, Denmark, Greenland, and all of our Allies. We look forward to working with the wonderful people of Denmark and Greenland toward a magnificent future with respect to this large, and highly strategic, parcel of land. We will be very protective of it! This is a dream come true for the United States of America, one that is very important, historic, and special. Thank you for your attention to this matter! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41803",
+        "pubDate": "Fri, 18 Sep 2026 21:18:49 +0000",
+        "author": "",
+        "content": "<p>BREAKING NEWS: I am pleased to announce that the United States of America has entered into an Agreement with The Kingdom of Denmark, and Greenland, that gives the United States permanent control over security, and all other needs, in Greenland, completely addressing ALL of our many U.S. concerns. There will be NO COST to the United States! At my direction, we worked with representatives of Denmark and Greenland to guarantee that the United States will FOREVER have the complete ability to do what is necessary in Greenland in order to secure and defend the security of Greenland, and the United States of America. Additionally, from now on, no U.S. adversary can EVER have a base in Greenland, have a military presence in Greenland, or make sensitive investments in Greenland, without our express written approval. For over 100 years, Presidents have known the strategic importance of Greenland, but NONE of them were able to do anything about it. I am proud to be the President that permanently and conclusively addressed this very important situation. This is an “Infinite Life” Agreement, there is no end! We are very honored and proud of what has just taken place, and everything agreed to today will be cherished by the American People. We will immediately begin the process of developing a large Military presence in the appropriate part of Greenland, of which there are many. We will work with the people of Greenland in its development and construction. This solution is a great one for the United States of America, Denmark, Greenland, and all of our Allies. We look forward to working with the wonderful people of Denmark and Greenland toward a magnificent future with respect to this large, and highly strategic, parcel of land. We will be very protective of it! This is a dream come true for the United States of America, one that is very important, historic, and special. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+        "contentSnippet": "BREAKING NEWS: I am pleased to announce that the United States of America has entered into an Agreement with The Kingdom of Denmark, and Greenland, that gives the United States permanent control over security, and all other needs, in Greenland, completely addressing ALL of our many U.S. concerns. There will be NO COST to the United States! At my direction, we worked with representatives of Denmark and Greenland to guarantee that the United States will FOREVER have the complete ability to do what is necessary in Greenland in order to secure and defend the security of Greenland, and the United States of America. Additionally, from now on, no U.S. adversary can EVER have a base in Greenland, have a military presence in Greenland, or make sensitive investments in Greenland, without our express written approval. For over 100 years, Presidents have known the strategic importance of Greenland, but NONE of them were able to do anything about it. I am proud to be the President that permanently and conclusively addressed this very important situation. This is an “Infinite Life” Agreement, there is no end! We are very honored and proud of what has just taken place, and everything agreed to today will be cherished by the American People. We will immediately begin the process of developing a large Military presence in the appropriate part of Greenland, of which there are many. We will work with the people of Greenland in its development and construction. This solution is a great one for the United States of America, Denmark, Greenland, and all of our Allies. We look forward to working with the wonderful people of Denmark and Greenland toward a magnificent future with respect to this large, and highly strategic, parcel of land. We will be very protective of it! This is a dream come true for the United States of America, one that is very important, historic, and special. Thank you for your attention to this matter! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41803",
+        "isoDate": "2026-09-18T21:18:49.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41804",
+      "publishedAt": "2026-09-18T22:50:11.000Z",
+      "title": "TOP 25 TRUMP ACCOMPLISHMENTS OF TERM THREE:",
+      "text": "<p>TOP 25 TRUMP ACCOMPLISHMENTS OF TERM THREE:</p>\n\n[Image] Two-page text graphic titled “Top 25 Trump Achievements 2025–2026” presents claims attributed to Donald Trump. The numbered list covers immigration, crime, taxes, tariffs, investment, military actions, energy, automobiles, trade, education, gender policy, foreign wars, hostages, refugee admissions, public order, and making English the official U.S. language.",
+      "url": "https://www.trumpstruth.org/statuses/41804",
+      "raw": {
+        "creator": "",
+        "title": "TOP 25 TRUMP ACCOMPLISHMENTS OF TERM THREE:",
+        "link": "https://www.trumpstruth.org/statuses/41804",
+        "pubDate": "Fri, 18 Sep 2026 22:50:11 +0000",
+        "author": "",
+        "content": "<p>TOP 25 TRUMP ACCOMPLISHMENTS OF TERM THREE:</p>",
+        "contentSnippet": "TOP 25 TRUMP ACCOMPLISHMENTS OF TERM THREE:",
+        "guid": "https://www.trumpstruth.org/statuses/41804",
+        "isoDate": "2026-09-18T22:50:11.000Z"
+      },
+      "imageDescribedAt": "2026-09-19T00:03:53.820Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18189/e3c9278a523e9474-f4e96ae7819d.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18190/aafc3b496b3b349a-3c40ea11e32a.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -779,6 +861,30 @@
       "label": "negative",
       "rationale": "The post uses strongly hostile language to criticize and ban several media outlets, accusing them of spreading fake news, fiction, and lies.",
       "analyzedAt": "2026-09-18T20:05:11.431Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41801",
+      "label": "neutral",
+      "rationale": "The post contains no text or discernible sentiment.",
+      "analyzedAt": "2026-09-19T00:03:56.698Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41802",
+      "label": "positive",
+      "rationale": "Strongly endorses Ashley Hinson and expresses confidence in her.",
+      "analyzedAt": "2026-09-19T00:03:56.698Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41803",
+      "label": "positive",
+      "rationale": "Expresses pride, optimism, and approval regarding the announced Greenland agreement.",
+      "analyzedAt": "2026-09-19T00:03:56.698Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41804",
+      "label": "positive",
+      "rationale": "Presents a list of claimed accomplishments in a celebratory and approving manner.",
+      "analyzedAt": "2026-09-19T00:03:56.698Z"
     }
   ]
 }

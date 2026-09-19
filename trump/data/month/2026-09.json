@@ -461,41 +461,58 @@
     {
       "date": "2026-09-18",
       "counts": {
-        "positive": 22,
-        "neutral": 6,
+        "positive": 25,
+        "neutral": 7,
         "negative": 3
       },
-      "summary": "positive:22 neutral:6 negative:3",
+      "summary": "positive:25 neutral:7 negative:3",
       "topics": [
-        "Endorses 18 Republican candidates for congressional, Senate, and gubernatorial races across 13 states",
+        "Endorses 19 candidates for congressional, Senate, and gubernatorial races across multiple states",
         "Bans CNN, MS NOW, and Politico from the White House over alleged fake news",
-        "Highlights fraud task force investigations led by Andrew Ferguson and JD Vance"
+        "Announces permanent U.S. security control agreement for Greenland with Denmark"
       ],
-      "postsCount": 31,
+      "postsCount": 35,
       "hasDetail": true,
-      "generatedAt": "2026-09-18T20:05:23.349Z",
-      "trendingTopic": "Endorses 18 Republican candidates for congressional, Senate, and gubernatorial races across 13 states",
+      "generatedAt": "2026-09-19T00:04:16.106Z",
+      "trendingTopic": "Endorses 19 candidates for congressional, Senate, and gubernatorial races across multiple states",
       "secondaryHighlights": [
         {
-          "topic": "Bans CNN, MS NOW, and Politico from the White House over alleged fake news"
+          "topic": "Praises Andrew Ferguson and JD Vance’s fraud task force for pursuing billions and prison sentences",
+          "name": "Andrew Ferguson"
         },
         {
-          "topic": "Highlights fraud task force investigations led by Andrew Ferguson and JD Vance",
-          "name": "Andrew Ferguson"
+          "topic": "Claims a record 95% approval rating among Republican voters, surpassing Ronald Reagan"
+        },
+        {
+          "topic": "Accuses Iran-related leaks of exposing disloyalty and threatens severe punishment for leakers"
         }
       ],
-      "selfPraiseCount": 2
-    }
-  ],
-  "generatedAt": "2026-09-18T20:05:23.349Z",
-  "trendingTopic": "Donald Trump defends the Iran war while portraying Iran’s economy and strategic position as collapsing",
-  "secondaryHighlights": [
-    {
-      "topic": "Trump promotes White House construction, renovations, and patriotic monument projects"
+      "selfPraiseCount": 4
     },
     {
-      "topic": "Trump pushes American-themed renaming of Lake Ontario and New Mexico"
+      "date": "2026-09-19",
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "positive:0 neutral:0 negative:0",
+      "topics": [],
+      "postsCount": 0,
+      "hasDetail": true,
+      "generatedAt": "2026-09-19T00:03:59.314Z",
+      "selfPraiseCount": 0
     }
   ],
-  "topicsCacheKey": "month-themes-v5:18:5b5286e950170ea80b228d4d"
+  "generatedAt": "2026-09-19T00:04:16.106Z",
+  "trendingTopic": "Trump portrays Iran as collapsing while defending military pressure and control of the Strait of Hormuz",
+  "secondaryHighlights": [
+    {
+      "topic": "Trump rallies Republicans and endorses candidates ahead of the midterms"
+    },
+    {
+      "topic": "Trump promotes a White House ballroom, helipad, and Washington architectural projects"
+    }
+  ],
+  "topicsCacheKey": "month-themes-v5:18:e8c56bd229d39b289ad5e922"
 }
