@@ -2,15 +2,18 @@
   "date": "2026-09-19",
   "counts": {
     "positive": 0,
-    "neutral": 1,
+    "neutral": 2,
     "negative": 0
   },
-  "summary": "positive:0 neutral:1 negative:0",
-  "generatedAt": "2026-09-19T12:01:31.673Z",
-  "topics": [],
+  "summary": "positive:0 neutral:2 negative:0",
+  "generatedAt": "2026-09-19T16:02:31.329Z",
+  "topics": [
+    "Polls followers on renaming artificial intelligence as Superior, Extreme, or Supreme Intelligence"
+  ],
+  "trendingTopic": "Donald Trump polls followers on renaming artificial intelligence as Superior, Extreme, or Supreme Intelligence",
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v11:1:c173d3c782b232520d3a3c66",
-  "selfPraiseCacheKey": "self-praise-v2:1:c173d3c782b232520d3a3c66",
+  "topicsCacheKey": "day-themes-v11:2:932dd252858cb141dcd373c9",
+  "selfPraiseCacheKey": "self-praise-v2:2:932dd252858cb141dcd373c9",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41805",
@@ -29,6 +32,24 @@
         "guid": "https://www.trumpstruth.org/statuses/41805",
         "isoDate": "2026-09-19T05:06:05.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41806",
+      "publishedAt": "2026-09-19T15:29:14.000Z",
+      "title": "Many people think that the words “Artificial Intelligence” are inaccurate, and very ineloquent, relative to AI, or Artificial Intelligence. A far more elegant and accurate description of this new phenomena would be Superior Intelligence (SI) or, Extreme Intelligence (EI) or, Supreme Intelligence (SI). This is a Poll, and I would appreciate everybody voting! Which is the best name for this ever growing “Revolution?” President DONALD J. TRUMP",
+      "text": "<p>Many people think that the words “Artificial Intelligence” are inaccurate, and very ineloquent, relative to AI, or Artificial Intelligence. A far more elegant and accurate description of this new phenomena would be Superior Intelligence (SI) or, Extreme Intelligence (EI) or, Supreme Intelligence (SI). This is a Poll, and I would appreciate everybody voting! Which is the best name for this ever growing “Revolution?” President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41806",
+      "raw": {
+        "creator": "",
+        "title": "Many people think that the words “Artificial Intelligence” are inaccurate, and very ineloquent, relative to AI, or Artificial Intelligence. A far more elegant and accurate description of this new phenomena would be Superior Intelligence (SI) or, Extreme Intelligence (EI) or, Supreme Intelligence (SI). This is a Poll, and I would appreciate everybody voting! Which is the best name for this ever growing “Revolution?” President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41806",
+        "pubDate": "Sat, 19 Sep 2026 15:29:14 +0000",
+        "author": "",
+        "content": "<p>Many people think that the words “Artificial Intelligence” are inaccurate, and very ineloquent, relative to AI, or Artificial Intelligence. A far more elegant and accurate description of this new phenomena would be Superior Intelligence (SI) or, Extreme Intelligence (EI) or, Supreme Intelligence (SI). This is a Poll, and I would appreciate everybody voting! Which is the best name for this ever growing “Revolution?” President DONALD J. TRUMP</p>",
+        "contentSnippet": "Many people think that the words “Artificial Intelligence” are inaccurate, and very ineloquent, relative to AI, or Artificial Intelligence. A far more elegant and accurate description of this new phenomena would be Superior Intelligence (SI) or, Extreme Intelligence (EI) or, Supreme Intelligence (SI). This is a Poll, and I would appreciate everybody voting! Which is the best name for this ever growing “Revolution?” President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41806",
+        "isoDate": "2026-09-19T15:29:14.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -37,6 +58,17 @@
       "label": "neutral",
       "rationale": "The text contains no substantive content or sentiment.",
       "analyzedAt": "2026-09-19T08:01:44.198Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41806",
+      "label": "neutral",
+      "rationale": "The post proposes alternative names for artificial intelligence and asks readers to vote; it expresses an opinion but no clear positive or negative sentiment.",
+      "analyzedAt": "2026-09-19T16:02:23.045Z"
+    }
+  ],
+  "secondaryHighlights": [
+    {
+      "topic": "Many people think that the words “Artificial Intelligence” are inaccurate, and very ineloquent, relative to AI, or Artificial Intelligence."
     }
   ]
 }
