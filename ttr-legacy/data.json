@@ -1,0 +1,2647 @@
+{
+  "regions": [
+    {
+      "id": "ec",
+      "name": "East Coast",
+      "short": "EC",
+      "locked": true,
+      "color": "#2f5d8a"
+    },
+    {
+      "id": "fl",
+      "name": "Florida",
+      "short": "FL",
+      "locked": false,
+      "color": "#3a8a7a"
+    },
+    {
+      "id": "gp",
+      "name": "Great Plains",
+      "short": "GP",
+      "locked": false,
+      "color": "#c4a35a"
+    },
+    {
+      "id": "or",
+      "name": "Open Range",
+      "short": "OR",
+      "locked": false,
+      "color": "#b86b3a"
+    },
+    {
+      "id": "bl",
+      "name": "Badlands",
+      "short": "BL",
+      "locked": false,
+      "color": "#8a6b45"
+    },
+    {
+      "id": "hw",
+      "name": "Haunted Wastes",
+      "short": "HW",
+      "locked": false,
+      "color": "#5c5c66"
+    },
+    {
+      "id": "cs",
+      "name": "Cascadia",
+      "short": "CS",
+      "locked": false,
+      "color": "#3d7a4a"
+    },
+    {
+      "id": "ca",
+      "name": "California",
+      "short": "CA",
+      "locked": false,
+      "color": "#c45c4a"
+    },
+    {
+      "id": "sm",
+      "name": "Sierra Madre",
+      "short": "SM",
+      "locked": false,
+      "color": "#a45a3a"
+    }
+  ],
+  "cities": [
+    {
+      "id": "Vancouver",
+      "x": 78,
+      "y": 62,
+      "region": "cs",
+      "port": true
+    },
+    {
+      "id": "Seattle",
+      "x": 72,
+      "y": 118,
+      "region": "cs",
+      "port": true
+    },
+    {
+      "id": "Portland",
+      "x": 78,
+      "y": 168,
+      "region": "cs"
+    },
+    {
+      "id": "Spokane",
+      "x": 188,
+      "y": 128,
+      "region": "cs"
+    },
+    {
+      "id": "Calgary",
+      "x": 248,
+      "y": 48,
+      "region": "cs"
+    },
+    {
+      "id": "Helena",
+      "x": 268,
+      "y": 132,
+      "region": "cs"
+    },
+    {
+      "id": "Sacramento",
+      "x": 78,
+      "y": 268,
+      "region": "ca"
+    },
+    {
+      "id": "San Francisco",
+      "x": 38,
+      "y": 292,
+      "region": "ca",
+      "port": true
+    },
+    {
+      "id": "Pacific Haven",
+      "x": 36,
+      "y": 352,
+      "region": "ca",
+      "port": true
+    },
+    {
+      "id": "Nuevos Angeles",
+      "x": 70,
+      "y": 412,
+      "region": "ca",
+      "port": true
+    },
+    {
+      "id": "Baja",
+      "x": 108,
+      "y": 468,
+      "region": "ca",
+      "port": true
+    },
+    {
+      "id": "Cemetery City",
+      "x": 138,
+      "y": 318,
+      "region": "ca"
+    },
+    {
+      "id": "Salt Lake City",
+      "x": 214,
+      "y": 248,
+      "region": "hw"
+    },
+    {
+      "id": "Phoenix",
+      "x": 198,
+      "y": 402,
+      "region": "hw"
+    },
+    {
+      "id": "Santa Fe",
+      "x": 292,
+      "y": 372,
+      "region": "hw"
+    },
+    {
+      "id": "Denver",
+      "x": 332,
+      "y": 268,
+      "region": "hw"
+    },
+    {
+      "id": "Cheyenne",
+      "x": 338,
+      "y": 198,
+      "region": "hw"
+    },
+    {
+      "id": "Regina",
+      "x": 368,
+      "y": 38,
+      "region": "bl"
+    },
+    {
+      "id": "Miles City",
+      "x": 338,
+      "y": 112,
+      "region": "bl"
+    },
+    {
+      "id": "Winnipeg",
+      "x": 458,
+      "y": 36,
+      "region": "bl"
+    },
+    {
+      "id": "Fargo",
+      "x": 448,
+      "y": 118,
+      "region": "bl"
+    },
+    {
+      "id": "Duluth",
+      "x": 548,
+      "y": 72,
+      "region": "gp"
+    },
+    {
+      "id": "St. Paul",
+      "x": 548,
+      "y": 138,
+      "region": "gp"
+    },
+    {
+      "id": "Davenport",
+      "x": 608,
+      "y": 198,
+      "region": "gp"
+    },
+    {
+      "id": "Omaha",
+      "x": 488,
+      "y": 208,
+      "region": "gp"
+    },
+    {
+      "id": "Kansas City",
+      "x": 508,
+      "y": 278,
+      "region": "gp"
+    },
+    {
+      "id": "St. Louis",
+      "x": 608,
+      "y": 278,
+      "region": "gp"
+    },
+    {
+      "id": "Dodge City",
+      "x": 418,
+      "y": 308,
+      "region": "or"
+    },
+    {
+      "id": "Oklahoma City",
+      "x": 458,
+      "y": 358,
+      "region": "or"
+    },
+    {
+      "id": "Dallas",
+      "x": 478,
+      "y": 428,
+      "region": "or"
+    },
+    {
+      "id": "Little Rock",
+      "x": 558,
+      "y": 358,
+      "region": "or"
+    },
+    {
+      "id": "Houston",
+      "x": 528,
+      "y": 498,
+      "region": "or",
+      "port": true
+    },
+    {
+      "id": "San Antonio",
+      "x": 438,
+      "y": 508,
+      "region": "or"
+    },
+    {
+      "id": "El Paso",
+      "x": 308,
+      "y": 458,
+      "region": "sm"
+    },
+    {
+      "id": "Hermosillo",
+      "x": 198,
+      "y": 528,
+      "region": "sm"
+    },
+    {
+      "id": "Chihuahua",
+      "x": 268,
+      "y": 548,
+      "region": "sm"
+    },
+    {
+      "id": "Monterrey",
+      "x": 348,
+      "y": 578,
+      "region": "sm"
+    },
+    {
+      "id": "Chicago",
+      "x": 668,
+      "y": 178,
+      "region": "ec"
+    },
+    {
+      "id": "Detroit",
+      "x": 738,
+      "y": 128,
+      "region": "ec"
+    },
+    {
+      "id": "Cincinnati",
+      "x": 698,
+      "y": 248,
+      "region": "ec"
+    },
+    {
+      "id": "Pittsburgh",
+      "x": 798,
+      "y": 168,
+      "region": "ec"
+    },
+    {
+      "id": "Lewisburg",
+      "x": 838,
+      "y": 228,
+      "region": "ec",
+      "town": true
+    },
+    {
+      "id": "Buffalo",
+      "x": 818,
+      "y": 98,
+      "region": "ec"
+    },
+    {
+      "id": "Montreal",
+      "x": 888,
+      "y": 48,
+      "region": "ec"
+    },
+    {
+      "id": "Quebec",
+      "x": 958,
+      "y": 28,
+      "region": "ec"
+    },
+    {
+      "id": "Albany",
+      "x": 918,
+      "y": 98,
+      "region": "ec"
+    },
+    {
+      "id": "Boston",
+      "x": 1008,
+      "y": 88,
+      "region": "ec",
+      "port": true
+    },
+    {
+      "id": "Bangor",
+      "x": 1058,
+      "y": 38,
+      "region": "ec"
+    },
+    {
+      "id": "New York",
+      "x": 968,
+      "y": 148,
+      "region": "ec",
+      "port": true
+    },
+    {
+      "id": "Philadelphia",
+      "x": 948,
+      "y": 198,
+      "region": "ec",
+      "port": true
+    },
+    {
+      "id": "Baltimore",
+      "x": 898,
+      "y": 238,
+      "region": "ec",
+      "port": true
+    },
+    {
+      "id": "Norfolk",
+      "x": 958,
+      "y": 298,
+      "region": "ec",
+      "port": true
+    },
+    {
+      "id": "Knoxville",
+      "x": 768,
+      "y": 308,
+      "region": "ec"
+    },
+    {
+      "id": "Nashville",
+      "x": 698,
+      "y": 328,
+      "region": "ec"
+    },
+    {
+      "id": "Charlotte",
+      "x": 858,
+      "y": 338,
+      "region": "ec"
+    },
+    {
+      "id": "Atlanta",
+      "x": 778,
+      "y": 378,
+      "region": "ec"
+    },
+    {
+      "id": "Charleston",
+      "x": 918,
+      "y": 378,
+      "region": "ec",
+      "port": true
+    },
+    {
+      "id": "Savannah",
+      "x": 888,
+      "y": 428,
+      "region": "ec",
+      "port": true
+    },
+    {
+      "id": "Mobile",
+      "x": 728,
+      "y": 448,
+      "region": "ec",
+      "port": true
+    },
+    {
+      "id": "New Orleans",
+      "x": 668,
+      "y": 498,
+      "region": "ec",
+      "port": true
+    },
+    {
+      "id": "Jacksonville",
+      "x": 868,
+      "y": 488,
+      "region": "fl",
+      "port": true
+    },
+    {
+      "id": "Tampa",
+      "x": 808,
+      "y": 548,
+      "region": "fl",
+      "port": true
+    },
+    {
+      "id": "Miami",
+      "x": 878,
+      "y": 588,
+      "region": "fl",
+      "port": true
+    }
+  ],
+  "routes": [
+    {
+      "id": "Montreal|Quebec",
+      "a": "Quebec",
+      "b": "Montreal",
+      "length": 1,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Bangor|Quebec",
+      "a": "Quebec",
+      "b": "Bangor",
+      "length": 2,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Bangor|Boston",
+      "a": "Bangor",
+      "b": "Boston",
+      "length": 2,
+      "region": "ec",
+      "tracks": 2
+    },
+    {
+      "id": "Buffalo|Montreal",
+      "a": "Montreal",
+      "b": "Buffalo",
+      "length": 2,
+      "region": "ec",
+      "tracks": 2
+    },
+    {
+      "id": "Albany|Montreal",
+      "a": "Montreal",
+      "b": "Albany",
+      "length": 2,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Albany|Buffalo",
+      "a": "Buffalo",
+      "b": "Albany",
+      "length": 2,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Buffalo|New York",
+      "a": "Buffalo",
+      "b": "New York",
+      "length": 3,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Buffalo|Detroit",
+      "a": "Buffalo",
+      "b": "Detroit",
+      "length": 2,
+      "region": "ec",
+      "tracks": 2
+    },
+    {
+      "id": "Buffalo|Pittsburgh",
+      "a": "Buffalo",
+      "b": "Pittsburgh",
+      "length": 2,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Albany|Boston",
+      "a": "Albany",
+      "b": "Boston",
+      "length": 2,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Albany|New York",
+      "a": "Albany",
+      "b": "New York",
+      "length": 2,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Boston|New York",
+      "a": "Boston",
+      "b": "New York",
+      "length": 2,
+      "region": "ec",
+      "tracks": 2
+    },
+    {
+      "id": "New York|Philadelphia",
+      "a": "New York",
+      "b": "Philadelphia",
+      "length": 1,
+      "region": "ec",
+      "tracks": 2
+    },
+    {
+      "id": "Baltimore|Philadelphia",
+      "a": "Philadelphia",
+      "b": "Baltimore",
+      "length": 2,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Norfolk|Philadelphia",
+      "a": "Philadelphia",
+      "b": "Norfolk",
+      "length": 2,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Baltimore|Norfolk",
+      "a": "Baltimore",
+      "b": "Norfolk",
+      "length": 2,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Baltimore|Pittsburgh",
+      "a": "Baltimore",
+      "b": "Pittsburgh",
+      "length": 3,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Baltimore|Lewisburg",
+      "a": "Baltimore",
+      "b": "Lewisburg",
+      "length": 2,
+      "region": "ec",
+      "tracks": 2
+    },
+    {
+      "id": "Baltimore|Charlotte",
+      "a": "Baltimore",
+      "b": "Charlotte",
+      "length": 2,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Charlotte|Norfolk",
+      "a": "Norfolk",
+      "b": "Charlotte",
+      "length": 2,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Chicago|Detroit",
+      "a": "Detroit",
+      "b": "Chicago",
+      "length": 2,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Detroit|Pittsburgh",
+      "a": "Detroit",
+      "b": "Pittsburgh",
+      "length": 2,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Chicago|Pittsburgh",
+      "a": "Chicago",
+      "b": "Pittsburgh",
+      "length": 3,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Chicago|Cincinnati",
+      "a": "Chicago",
+      "b": "Cincinnati",
+      "length": 2,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Lewisburg|Pittsburgh",
+      "a": "Pittsburgh",
+      "b": "Lewisburg",
+      "length": 2,
+      "region": "ec",
+      "tracks": 2
+    },
+    {
+      "id": "Cincinnati|Lewisburg",
+      "a": "Cincinnati",
+      "b": "Lewisburg",
+      "length": 3,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Cincinnati|Knoxville",
+      "a": "Cincinnati",
+      "b": "Knoxville",
+      "length": 2,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Cincinnati|Nashville",
+      "a": "Cincinnati",
+      "b": "Nashville",
+      "length": 2,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Knoxville|Lewisburg",
+      "a": "Lewisburg",
+      "b": "Knoxville",
+      "length": 3,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Charlotte|Lewisburg",
+      "a": "Lewisburg",
+      "b": "Charlotte",
+      "length": 3,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Knoxville|Nashville",
+      "a": "Knoxville",
+      "b": "Nashville",
+      "length": 2,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Atlanta|Knoxville",
+      "a": "Knoxville",
+      "b": "Atlanta",
+      "length": 2,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Charlotte|Knoxville",
+      "a": "Knoxville",
+      "b": "Charlotte",
+      "length": 2,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Atlanta|Nashville",
+      "a": "Nashville",
+      "b": "Atlanta",
+      "length": 2,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Mobile|Nashville",
+      "a": "Nashville",
+      "b": "Mobile",
+      "length": 3,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Atlanta|Charlotte",
+      "a": "Atlanta",
+      "b": "Charlotte",
+      "length": 2,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Atlanta|Charleston",
+      "a": "Atlanta",
+      "b": "Charleston",
+      "length": 3,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Atlanta|Mobile",
+      "a": "Atlanta",
+      "b": "Mobile",
+      "length": 3,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Atlanta|Savannah",
+      "a": "Atlanta",
+      "b": "Savannah",
+      "length": 2,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Charleston|Charlotte",
+      "a": "Charlotte",
+      "b": "Charleston",
+      "length": 2,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Charleston|Savannah",
+      "a": "Charleston",
+      "b": "Savannah",
+      "length": 2,
+      "region": "ec",
+      "tracks": 2
+    },
+    {
+      "id": "Mobile|New Orleans",
+      "a": "Mobile",
+      "b": "New Orleans",
+      "length": 2,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Mobile|Savannah",
+      "a": "Mobile",
+      "b": "Savannah",
+      "length": 3,
+      "region": "ec",
+      "tracks": 1
+    },
+    {
+      "id": "Jacksonville|Savannah",
+      "a": "Savannah",
+      "b": "Jacksonville",
+      "length": 2,
+      "region": "fl",
+      "tracks": 1
+    },
+    {
+      "id": "Jacksonville|Miami",
+      "a": "Jacksonville",
+      "b": "Miami",
+      "length": 3,
+      "region": "fl",
+      "tracks": 1
+    },
+    {
+      "id": "Jacksonville|Tampa",
+      "a": "Jacksonville",
+      "b": "Tampa",
+      "length": 2,
+      "region": "fl",
+      "tracks": 2
+    },
+    {
+      "id": "Miami|Tampa",
+      "a": "Miami",
+      "b": "Tampa",
+      "length": 2,
+      "region": "fl",
+      "tracks": 1
+    },
+    {
+      "id": "Jacksonville|Mobile",
+      "a": "Jacksonville",
+      "b": "Mobile",
+      "length": 3,
+      "region": "fl",
+      "tracks": 1
+    },
+    {
+      "id": "Mobile|Tampa",
+      "a": "Mobile",
+      "b": "Tampa",
+      "length": 3,
+      "region": "fl",
+      "tracks": 1
+    },
+    {
+      "id": "Chicago|Davenport",
+      "a": "Davenport",
+      "b": "Chicago",
+      "length": 2,
+      "region": "gp",
+      "tracks": 1
+    },
+    {
+      "id": "Davenport|Kansas City",
+      "a": "Davenport",
+      "b": "Kansas City",
+      "length": 2,
+      "region": "gp",
+      "tracks": 1
+    },
+    {
+      "id": "Davenport|Omaha",
+      "a": "Davenport",
+      "b": "Omaha",
+      "length": 2,
+      "region": "gp",
+      "tracks": 2
+    },
+    {
+      "id": "Davenport|St. Louis",
+      "a": "Davenport",
+      "b": "St. Louis",
+      "length": 2,
+      "region": "gp",
+      "tracks": 1
+    },
+    {
+      "id": "Davenport|St. Paul",
+      "a": "Davenport",
+      "b": "St. Paul",
+      "length": 2,
+      "region": "gp",
+      "tracks": 1
+    },
+    {
+      "id": "Chicago|Duluth",
+      "a": "Duluth",
+      "b": "Chicago",
+      "length": 3,
+      "region": "gp",
+      "tracks": 1
+    },
+    {
+      "id": "Duluth|Fargo",
+      "a": "Duluth",
+      "b": "Fargo",
+      "length": 2,
+      "region": "gp",
+      "tracks": 1
+    },
+    {
+      "id": "Duluth|St. Paul",
+      "a": "Duluth",
+      "b": "St. Paul",
+      "length": 2,
+      "region": "gp",
+      "tracks": 1
+    },
+    {
+      "id": "Duluth|Winnipeg",
+      "a": "Duluth",
+      "b": "Winnipeg",
+      "length": 3,
+      "region": "gp",
+      "tracks": 1
+    },
+    {
+      "id": "Kansas City|Little Rock",
+      "a": "Kansas City",
+      "b": "Little Rock",
+      "length": 2,
+      "region": "gp",
+      "tracks": 1
+    },
+    {
+      "id": "Kansas City|Oklahoma City",
+      "a": "Kansas City",
+      "b": "Oklahoma City",
+      "length": 2,
+      "region": "gp",
+      "tracks": 1
+    },
+    {
+      "id": "Kansas City|Omaha",
+      "a": "Kansas City",
+      "b": "Omaha",
+      "length": 2,
+      "region": "gp",
+      "tracks": 1
+    },
+    {
+      "id": "Kansas City|St. Louis",
+      "a": "Kansas City",
+      "b": "St. Louis",
+      "length": 2,
+      "region": "gp",
+      "tracks": 1
+    },
+    {
+      "id": "Omaha|St. Paul",
+      "a": "Omaha",
+      "b": "St. Paul",
+      "length": 3,
+      "region": "gp",
+      "tracks": 1
+    },
+    {
+      "id": "Chicago|St. Louis",
+      "a": "St. Louis",
+      "b": "Chicago",
+      "length": 2,
+      "region": "gp",
+      "tracks": 1
+    },
+    {
+      "id": "Cincinnati|St. Louis",
+      "a": "St. Louis",
+      "b": "Cincinnati",
+      "length": 3,
+      "region": "gp",
+      "tracks": 1
+    },
+    {
+      "id": "Nashville|St. Louis",
+      "a": "St. Louis",
+      "b": "Nashville",
+      "length": 2,
+      "region": "gp",
+      "tracks": 1
+    },
+    {
+      "id": "Chicago|St. Paul",
+      "a": "St. Paul",
+      "b": "Chicago",
+      "length": 3,
+      "region": "gp",
+      "tracks": 1
+    },
+    {
+      "id": "Dodge City|Kansas City",
+      "a": "Dodge City",
+      "b": "Kansas City",
+      "length": 2,
+      "region": "or",
+      "tracks": 1
+    },
+    {
+      "id": "Dodge City|Oklahoma City",
+      "a": "Dodge City",
+      "b": "Oklahoma City",
+      "length": 2,
+      "region": "or",
+      "tracks": 1
+    },
+    {
+      "id": "Dodge City|Santa Fe",
+      "a": "Dodge City",
+      "b": "Santa Fe",
+      "length": 3,
+      "region": "or",
+      "tracks": 1
+    },
+    {
+      "id": "Dallas|El Paso",
+      "a": "Dallas",
+      "b": "El Paso",
+      "length": 3,
+      "region": "or",
+      "tracks": 1
+    },
+    {
+      "id": "Dallas|Little Rock",
+      "a": "Dallas",
+      "b": "Little Rock",
+      "length": 2,
+      "region": "or",
+      "tracks": 1
+    },
+    {
+      "id": "Dallas|Oklahoma City",
+      "a": "Dallas",
+      "b": "Oklahoma City",
+      "length": 2,
+      "region": "or",
+      "tracks": 1
+    },
+    {
+      "id": "Dallas|Houston",
+      "a": "Dallas",
+      "b": "Houston",
+      "length": 2,
+      "region": "or",
+      "tracks": 1
+    },
+    {
+      "id": "Dallas|San Antonio",
+      "a": "Dallas",
+      "b": "San Antonio",
+      "length": 2,
+      "region": "or",
+      "tracks": 2
+    },
+    {
+      "id": "Houston|Little Rock",
+      "a": "Houston",
+      "b": "Little Rock",
+      "length": 3,
+      "region": "or",
+      "tracks": 1
+    },
+    {
+      "id": "Houston|New Orleans",
+      "a": "Houston",
+      "b": "New Orleans",
+      "length": 2,
+      "region": "or",
+      "tracks": 1
+    },
+    {
+      "id": "Houston|San Antonio",
+      "a": "Houston",
+      "b": "San Antonio",
+      "length": 2,
+      "region": "or",
+      "tracks": 1
+    },
+    {
+      "id": "Little Rock|Nashville",
+      "a": "Little Rock",
+      "b": "Nashville",
+      "length": 2,
+      "region": "or",
+      "tracks": 1
+    },
+    {
+      "id": "Little Rock|New Orleans",
+      "a": "Little Rock",
+      "b": "New Orleans",
+      "length": 3,
+      "region": "or",
+      "tracks": 1
+    },
+    {
+      "id": "Little Rock|Oklahoma City",
+      "a": "Little Rock",
+      "b": "Oklahoma City",
+      "length": 2,
+      "region": "or",
+      "tracks": 1
+    },
+    {
+      "id": "Little Rock|St. Louis",
+      "a": "Little Rock",
+      "b": "St. Louis",
+      "length": 3,
+      "region": "or",
+      "tracks": 1
+    },
+    {
+      "id": "Oklahoma City|Santa Fe",
+      "a": "Oklahoma City",
+      "b": "Santa Fe",
+      "length": 3,
+      "region": "or",
+      "tracks": 1
+    },
+    {
+      "id": "Fargo|Miles City",
+      "a": "Fargo",
+      "b": "Miles City",
+      "length": 3,
+      "region": "bl",
+      "tracks": 1
+    },
+    {
+      "id": "Fargo|St. Paul",
+      "a": "Fargo",
+      "b": "St. Paul",
+      "length": 2,
+      "region": "bl",
+      "tracks": 1
+    },
+    {
+      "id": "Fargo|Winnipeg",
+      "a": "Fargo",
+      "b": "Winnipeg",
+      "length": 2,
+      "region": "bl",
+      "tracks": 1
+    },
+    {
+      "id": "Miles City|Regina",
+      "a": "Miles City",
+      "b": "Regina",
+      "length": 2,
+      "region": "bl",
+      "tracks": 1
+    },
+    {
+      "id": "Miles City|Winnipeg",
+      "a": "Miles City",
+      "b": "Winnipeg",
+      "length": 3,
+      "region": "bl",
+      "tracks": 1
+    },
+    {
+      "id": "Regina|Winnipeg",
+      "a": "Regina",
+      "b": "Winnipeg",
+      "length": 2,
+      "region": "bl",
+      "tracks": 1
+    },
+    {
+      "id": "Cheyenne|Denver",
+      "a": "Cheyenne",
+      "b": "Denver",
+      "length": 2,
+      "region": "hw",
+      "tracks": 1
+    },
+    {
+      "id": "Cheyenne|Fargo",
+      "a": "Cheyenne",
+      "b": "Fargo",
+      "length": 3,
+      "region": "hw",
+      "tracks": 1
+    },
+    {
+      "id": "Cheyenne|Helena",
+      "a": "Cheyenne",
+      "b": "Helena",
+      "length": 3,
+      "region": "hw",
+      "tracks": 1
+    },
+    {
+      "id": "Cheyenne|Miles City",
+      "a": "Cheyenne",
+      "b": "Miles City",
+      "length": 2,
+      "region": "hw",
+      "tracks": 1
+    },
+    {
+      "id": "Cheyenne|Omaha",
+      "a": "Cheyenne",
+      "b": "Omaha",
+      "length": 3,
+      "region": "hw",
+      "tracks": 1
+    },
+    {
+      "id": "Cheyenne|Salt Lake City",
+      "a": "Cheyenne",
+      "b": "Salt Lake City",
+      "length": 4,
+      "region": "hw",
+      "tracks": 1
+    },
+    {
+      "id": "Denver|Dodge City",
+      "a": "Denver",
+      "b": "Dodge City",
+      "length": 3,
+      "region": "hw",
+      "tracks": 1
+    },
+    {
+      "id": "Denver|Omaha",
+      "a": "Denver",
+      "b": "Omaha",
+      "length": 3,
+      "region": "hw",
+      "tracks": 1
+    },
+    {
+      "id": "Denver|Phoenix",
+      "a": "Denver",
+      "b": "Phoenix",
+      "length": 3,
+      "region": "hw",
+      "tracks": 1
+    },
+    {
+      "id": "Denver|Salt Lake City",
+      "a": "Denver",
+      "b": "Salt Lake City",
+      "length": 2,
+      "region": "hw",
+      "tracks": 1
+    },
+    {
+      "id": "Denver|Santa Fe",
+      "a": "Denver",
+      "b": "Santa Fe",
+      "length": 2,
+      "region": "hw",
+      "tracks": 1
+    },
+    {
+      "id": "Phoenix|Salt Lake City",
+      "a": "Phoenix",
+      "b": "Salt Lake City",
+      "length": 3,
+      "region": "hw",
+      "tracks": 1
+    },
+    {
+      "id": "Phoenix|Santa Fe",
+      "a": "Phoenix",
+      "b": "Santa Fe",
+      "length": 3,
+      "region": "hw",
+      "tracks": 1
+    },
+    {
+      "id": "Salt Lake City|Spokane",
+      "a": "Salt Lake City",
+      "b": "Spokane",
+      "length": 3,
+      "region": "hw",
+      "tracks": 1
+    },
+    {
+      "id": "Calgary|Helena",
+      "a": "Calgary",
+      "b": "Helena",
+      "length": 2,
+      "region": "cs",
+      "tracks": 1
+    },
+    {
+      "id": "Calgary|Miles City",
+      "a": "Calgary",
+      "b": "Miles City",
+      "length": 2,
+      "region": "cs",
+      "tracks": 1
+    },
+    {
+      "id": "Calgary|Regina",
+      "a": "Calgary",
+      "b": "Regina",
+      "length": 3,
+      "region": "cs",
+      "tracks": 1
+    },
+    {
+      "id": "Calgary|Spokane",
+      "a": "Calgary",
+      "b": "Spokane",
+      "length": 2,
+      "region": "cs",
+      "tracks": 1
+    },
+    {
+      "id": "Calgary|Vancouver",
+      "a": "Calgary",
+      "b": "Vancouver",
+      "length": 3,
+      "region": "cs",
+      "tracks": 1
+    },
+    {
+      "id": "Helena|Miles City",
+      "a": "Helena",
+      "b": "Miles City",
+      "length": 2,
+      "region": "cs",
+      "tracks": 1
+    },
+    {
+      "id": "Helena|Salt Lake City",
+      "a": "Helena",
+      "b": "Salt Lake City",
+      "length": 3,
+      "region": "cs",
+      "tracks": 1
+    },
+    {
+      "id": "Helena|Spokane",
+      "a": "Helena",
+      "b": "Spokane",
+      "length": 2,
+      "region": "cs",
+      "tracks": 1
+    },
+    {
+      "id": "Portland|Salt Lake City",
+      "a": "Portland",
+      "b": "Salt Lake City",
+      "length": 4,
+      "region": "cs",
+      "tracks": 1
+    },
+    {
+      "id": "Portland|Seattle",
+      "a": "Portland",
+      "b": "Seattle",
+      "length": 2,
+      "region": "cs",
+      "tracks": 1
+    },
+    {
+      "id": "Portland|Spokane",
+      "a": "Portland",
+      "b": "Spokane",
+      "length": 3,
+      "region": "cs",
+      "tracks": 1
+    },
+    {
+      "id": "Seattle|Spokane",
+      "a": "Seattle",
+      "b": "Spokane",
+      "length": 3,
+      "region": "cs",
+      "tracks": 1
+    },
+    {
+      "id": "Seattle|Vancouver",
+      "a": "Seattle",
+      "b": "Vancouver",
+      "length": 1,
+      "region": "cs",
+      "tracks": 2
+    },
+    {
+      "id": "Spokane|Vancouver",
+      "a": "Spokane",
+      "b": "Vancouver",
+      "length": 3,
+      "region": "cs",
+      "tracks": 1
+    },
+    {
+      "id": "Nuevos Angeles|Sacramento",
+      "a": "Nuevos Angeles",
+      "b": "Sacramento",
+      "length": 3,
+      "region": "ca",
+      "tracks": 1
+    },
+    {
+      "id": "Sacramento|San Francisco",
+      "a": "Sacramento",
+      "b": "San Francisco",
+      "length": 2,
+      "region": "ca",
+      "tracks": 1
+    },
+    {
+      "id": "Cemetery City|Sacramento",
+      "a": "Sacramento",
+      "b": "Cemetery City",
+      "length": 2,
+      "region": "ca",
+      "tracks": 1
+    },
+    {
+      "id": "Portland|Sacramento",
+      "a": "Sacramento",
+      "b": "Portland",
+      "length": 3,
+      "region": "ca",
+      "tracks": 1
+    },
+    {
+      "id": "Pacific Haven|San Francisco",
+      "a": "San Francisco",
+      "b": "Pacific Haven",
+      "length": 2,
+      "region": "ca",
+      "tracks": 1
+    },
+    {
+      "id": "Nuevos Angeles|Pacific Haven",
+      "a": "Pacific Haven",
+      "b": "Nuevos Angeles",
+      "length": 2,
+      "region": "ca",
+      "tracks": 1
+    },
+    {
+      "id": "Baja|Nuevos Angeles",
+      "a": "Nuevos Angeles",
+      "b": "Baja",
+      "length": 2,
+      "region": "ca",
+      "tracks": 1
+    },
+    {
+      "id": "Cemetery City|Nuevos Angeles",
+      "a": "Nuevos Angeles",
+      "b": "Cemetery City",
+      "length": 2,
+      "region": "ca",
+      "tracks": 1
+    },
+    {
+      "id": "Baja|Cemetery City",
+      "a": "Cemetery City",
+      "b": "Baja",
+      "length": 2,
+      "region": "ca",
+      "tracks": 1
+    },
+    {
+      "id": "Chihuahua|El Paso",
+      "a": "Chihuahua",
+      "b": "El Paso",
+      "length": 2,
+      "region": "sm",
+      "tracks": 1
+    },
+    {
+      "id": "Chihuahua|Hermosillo",
+      "a": "Chihuahua",
+      "b": "Hermosillo",
+      "length": 2,
+      "region": "sm",
+      "tracks": 1
+    },
+    {
+      "id": "Chihuahua|Monterrey",
+      "a": "Chihuahua",
+      "b": "Monterrey",
+      "length": 2,
+      "region": "sm",
+      "tracks": 1
+    },
+    {
+      "id": "El Paso|Hermosillo",
+      "a": "El Paso",
+      "b": "Hermosillo",
+      "length": 3,
+      "region": "sm",
+      "tracks": 1
+    },
+    {
+      "id": "El Paso|Monterrey",
+      "a": "El Paso",
+      "b": "Monterrey",
+      "length": 3,
+      "region": "sm",
+      "tracks": 1
+    },
+    {
+      "id": "El Paso|Phoenix",
+      "a": "El Paso",
+      "b": "Phoenix",
+      "length": 3,
+      "region": "sm",
+      "tracks": 1
+    },
+    {
+      "id": "El Paso|San Antonio",
+      "a": "El Paso",
+      "b": "San Antonio",
+      "length": 3,
+      "region": "sm",
+      "tracks": 1
+    },
+    {
+      "id": "El Paso|Santa Fe",
+      "a": "El Paso",
+      "b": "Santa Fe",
+      "length": 3,
+      "region": "sm",
+      "tracks": 1
+    },
+    {
+      "id": "Hermosillo|Phoenix",
+      "a": "Hermosillo",
+      "b": "Phoenix",
+      "length": 3,
+      "region": "sm",
+      "tracks": 1
+    },
+    {
+      "id": "Monterrey|San Antonio",
+      "a": "Monterrey",
+      "b": "San Antonio",
+      "length": 3,
+      "region": "sm",
+      "tracks": 1
+    }
+  ],
+  "tickets": [
+    {
+      "id": "EC-01",
+      "region": "ec",
+      "a": "Albany",
+      "b": "Bangor",
+      "value": 3
+    },
+    {
+      "id": "EC-02",
+      "region": "ec",
+      "a": "Albany",
+      "b": "Savannah",
+      "value": 8
+    },
+    {
+      "id": "EC-03",
+      "region": "ec",
+      "a": "Atlanta",
+      "b": "Philadelphia",
+      "value": 6
+    },
+    {
+      "id": "EC-04",
+      "region": "ec",
+      "a": "Baltimore",
+      "b": "New York",
+      "value": 2
+    },
+    {
+      "id": "EC-05",
+      "region": "ec",
+      "a": "Baltimore",
+      "b": "Savannah",
+      "value": 5
+    },
+    {
+      "id": "EC-06",
+      "region": "ec",
+      "a": "Boston",
+      "b": "Baltimore",
+      "value": 3
+    },
+    {
+      "id": "EC-07",
+      "region": "ec",
+      "a": "Buffalo",
+      "b": "Baltimore",
+      "value": 4
+    },
+    {
+      "id": "EC-08",
+      "region": "ec",
+      "a": "Buffalo",
+      "b": "Charleston",
+      "value": 6
+    },
+    {
+      "id": "EC-09",
+      "region": "ec",
+      "a": "Chicago",
+      "b": "Atlanta",
+      "value": 4
+    },
+    {
+      "id": "EC-10",
+      "region": "ec",
+      "a": "Chicago",
+      "b": "Baltimore",
+      "value": 5
+    },
+    {
+      "id": "EC-11",
+      "region": "ec",
+      "a": "Chicago",
+      "b": "Montreal",
+      "value": 6
+    },
+    {
+      "id": "EC-12",
+      "region": "ec",
+      "a": "Cincinnati",
+      "b": "Boston",
+      "value": 7
+    },
+    {
+      "id": "EC-13",
+      "region": "ec",
+      "a": "Cincinnati",
+      "b": "Mobile",
+      "value": 6
+    },
+    {
+      "id": "EC-14",
+      "region": "ec",
+      "a": "Detroit",
+      "b": "New Orleans",
+      "value": 9
+    },
+    {
+      "id": "EC-15",
+      "region": "ec",
+      "a": "Detroit",
+      "b": "New York",
+      "value": 5
+    },
+    {
+      "id": "EC-16",
+      "region": "ec",
+      "a": "Detroit",
+      "b": "Philadelphia",
+      "value": 4
+    },
+    {
+      "id": "EC-17",
+      "region": "ec",
+      "a": "Knoxville",
+      "b": "Norfolk",
+      "value": 5
+    },
+    {
+      "id": "EC-18",
+      "region": "ec",
+      "a": "Knoxville",
+      "b": "Savannah",
+      "value": 3
+    },
+    {
+      "id": "EC-19",
+      "region": "ec",
+      "a": "Mobile",
+      "b": "Boston",
+      "value": 11
+    },
+    {
+      "id": "EC-20",
+      "region": "ec",
+      "a": "Mobile",
+      "b": "Charlotte",
+      "value": 4
+    },
+    {
+      "id": "EC-21",
+      "region": "ec",
+      "a": "Montreal",
+      "b": "Philadelphia",
+      "value": 3
+    },
+    {
+      "id": "EC-22",
+      "region": "ec",
+      "a": "Montreal",
+      "b": "Quebec",
+      "value": 1
+    },
+    {
+      "id": "EC-23",
+      "region": "ec",
+      "a": "Nashville",
+      "b": "Charleston",
+      "value": 5
+    },
+    {
+      "id": "EC-24",
+      "region": "ec",
+      "a": "Nashville",
+      "b": "Montreal",
+      "value": 9
+    },
+    {
+      "id": "EC-25",
+      "region": "ec",
+      "a": "New Orleans",
+      "b": "Charleston",
+      "value": 6
+    },
+    {
+      "id": "EC-26",
+      "region": "ec",
+      "a": "New Orleans",
+      "b": "New York",
+      "value": 11
+    },
+    {
+      "id": "EC-27",
+      "region": "ec",
+      "a": "New Orleans",
+      "b": "Norfolk",
+      "value": 8
+    },
+    {
+      "id": "EC-28",
+      "region": "ec",
+      "a": "New York",
+      "b": "Boston",
+      "value": 1
+    },
+    {
+      "id": "EC-29",
+      "region": "ec",
+      "a": "Philadelphia",
+      "b": "Charleston",
+      "value": 5
+    },
+    {
+      "id": "EC-30",
+      "region": "ec",
+      "a": "Philadelphia",
+      "b": "New York",
+      "value": 1
+    },
+    {
+      "id": "EC-31",
+      "region": "ec",
+      "a": "Pittsburgh",
+      "b": "Bangor",
+      "value": 6
+    },
+    {
+      "id": "EC-32",
+      "region": "ec",
+      "a": "Pittsburgh",
+      "b": "Charlotte",
+      "value": 3
+    },
+    {
+      "id": "EC-33",
+      "region": "ec",
+      "a": "Quebec",
+      "b": "Savannah",
+      "value": 10
+    },
+    {
+      "id": "BL-05",
+      "region": "bl",
+      "a": "Fargo",
+      "b": "Chicago",
+      "value": 5
+    },
+    {
+      "id": "BL-13",
+      "region": "bl",
+      "a": "Miles City",
+      "b": "Baltimore",
+      "value": 14
+    },
+    {
+      "id": "BL-14",
+      "region": "bl",
+      "a": "Miles City",
+      "b": "New Orleans",
+      "value": 15
+    },
+    {
+      "id": "BL-08",
+      "region": "bl",
+      "a": "Regina",
+      "b": "Charleston",
+      "value": 16
+    },
+    {
+      "id": "BL-06",
+      "region": "bl",
+      "a": "Regina",
+      "b": "Fargo",
+      "value": 5
+    },
+    {
+      "id": "BL-07",
+      "region": "bl",
+      "a": "Regina",
+      "b": "New York",
+      "value": 17
+    },
+    {
+      "id": "BL-12",
+      "region": "bl",
+      "a": "Winnipeg",
+      "b": "Bangor",
+      "value": 15
+    },
+    {
+      "id": "BL-11",
+      "region": "bl",
+      "a": "Winnipeg",
+      "b": "Buffalo",
+      "value": 11
+    },
+    {
+      "id": "BL-09",
+      "region": "bl",
+      "a": "Winnipeg",
+      "b": "Cincinnati",
+      "value": 8
+    },
+    {
+      "id": "BL-10",
+      "region": "bl",
+      "a": "Winnipeg",
+      "b": "Savannah",
+      "value": 13
+    },
+    {
+      "id": "CA-19",
+      "region": "ca",
+      "a": "Baja",
+      "b": "Norfolk",
+      "value": 21
+    },
+    {
+      "id": "CA-21",
+      "region": "ca",
+      "a": "Baja",
+      "b": "Pittsburgh",
+      "value": 19
+    },
+    {
+      "id": "CA-22",
+      "region": "ca",
+      "a": "Cemetery City",
+      "b": "Charlotte",
+      "value": 18
+    },
+    {
+      "id": "CA-14",
+      "region": "ca",
+      "a": "Nuevos Angeles",
+      "b": "Atlanta",
+      "value": 18
+    },
+    {
+      "id": "CA-20",
+      "region": "ca",
+      "a": "Nuevos Angeles",
+      "b": "Detroit",
+      "value": 19
+    },
+    {
+      "id": "CA-15",
+      "region": "ca",
+      "a": "Nuevos Angeles",
+      "b": "Montreal",
+      "value": 23
+    },
+    {
+      "id": "CA-18",
+      "region": "ca",
+      "a": "Nuevos Angeles",
+      "b": "Nashville",
+      "value": 16
+    },
+    {
+      "id": "CA-13",
+      "region": "ca",
+      "a": "Nuevos Angeles",
+      "b": "New York",
+      "value": 23
+    },
+    {
+      "id": "CA-17",
+      "region": "ca",
+      "a": "Sacramento",
+      "b": "Albany",
+      "value": 21
+    },
+    {
+      "id": "CA-16",
+      "region": "ca",
+      "a": "Sacramento",
+      "b": "Knoxville",
+      "value": 18
+    },
+    {
+      "id": "CA-09",
+      "region": "ca",
+      "a": "Sacramento",
+      "b": "New Orleans",
+      "value": 18
+    },
+    {
+      "id": "CA-08",
+      "region": "ca",
+      "a": "San Francisco",
+      "b": "Baltimore",
+      "value": 21
+    },
+    {
+      "id": "CA-12",
+      "region": "ca",
+      "a": "San Francisco",
+      "b": "Chicago",
+      "value": 16
+    },
+    {
+      "id": "CA-11",
+      "region": "ca",
+      "a": "San Francisco",
+      "b": "Quebec",
+      "value": 23
+    },
+    {
+      "id": "CA-10",
+      "region": "ca",
+      "a": "San Francisco",
+      "b": "Savannah",
+      "value": 21
+    },
+    {
+      "id": "CS-11",
+      "region": "cs",
+      "a": "Calgary",
+      "b": "Chicago",
+      "value": 13
+    },
+    {
+      "id": "CS-10",
+      "region": "cs",
+      "a": "Calgary",
+      "b": "Mobile",
+      "value": 20
+    },
+    {
+      "id": "CS-13",
+      "region": "cs",
+      "a": "Helena",
+      "b": "Detroit",
+      "value": 14
+    },
+    {
+      "id": "CS-12",
+      "region": "cs",
+      "a": "Helena",
+      "b": "Knoxville",
+      "value": 15
+    },
+    {
+      "id": "CS-07",
+      "region": "cs",
+      "a": "Portland",
+      "b": "Cincinnati",
+      "value": 18
+    },
+    {
+      "id": "CS-06",
+      "region": "cs",
+      "a": "Portland",
+      "b": "Philadelphia",
+      "value": 23
+    },
+    {
+      "id": "CS-17",
+      "region": "cs",
+      "a": "Seattle",
+      "b": "Boston",
+      "value": 23
+    },
+    {
+      "id": "CS-05",
+      "region": "cs",
+      "a": "Seattle",
+      "b": "Buffalo",
+      "value": 20
+    },
+    {
+      "id": "CS-18",
+      "region": "cs",
+      "a": "Seattle",
+      "b": "Nashville",
+      "value": 18
+    },
+    {
+      "id": "CS-15",
+      "region": "cs",
+      "a": "Spokane",
+      "b": "Montreal",
+      "value": 20
+    },
+    {
+      "id": "CS-14",
+      "region": "cs",
+      "a": "Spokane",
+      "b": "Norfolk",
+      "value": 20
+    },
+    {
+      "id": "CS-09",
+      "region": "cs",
+      "a": "Vancouver",
+      "b": "Charleston",
+      "value": 23
+    },
+    {
+      "id": "CS-16",
+      "region": "cs",
+      "a": "Vancouver",
+      "b": "Helena",
+      "value": 5
+    },
+    {
+      "id": "CS-08",
+      "region": "cs",
+      "a": "Vancouver",
+      "b": "Pittsburgh",
+      "value": 21
+    },
+    {
+      "id": "FL-10",
+      "region": "fl",
+      "a": "Atlanta",
+      "b": "Tampa",
+      "value": 4
+    },
+    {
+      "id": "FL-08",
+      "region": "fl",
+      "a": "Boston",
+      "b": "Jacksonville",
+      "value": 9
+    },
+    {
+      "id": "FL-09",
+      "region": "fl",
+      "a": "Chicago",
+      "b": "Jacksonville",
+      "value": 7
+    },
+    {
+      "id": "FL-07",
+      "region": "fl",
+      "a": "Detroit",
+      "b": "Miami",
+      "value": 10
+    },
+    {
+      "id": "FL-06",
+      "region": "fl",
+      "a": "New Orleans",
+      "b": "Miami",
+      "value": 6
+    },
+    {
+      "id": "FL-05",
+      "region": "fl",
+      "a": "New York",
+      "b": "Miami",
+      "value": 10
+    },
+    {
+      "id": "FL-11",
+      "region": "fl",
+      "a": "Pittsburgh",
+      "b": "Tampa",
+      "value": 7
+    },
+    {
+      "id": "GP-12",
+      "region": "gp",
+      "a": "Davenport",
+      "b": "Charlotte",
+      "value": 7
+    },
+    {
+      "id": "GP-07",
+      "region": "gp",
+      "a": "Duluth",
+      "b": "Kansas City",
+      "value": 5
+    },
+    {
+      "id": "GP-10",
+      "region": "gp",
+      "a": "Duluth",
+      "b": "New Orleans",
+      "value": 11
+    },
+    {
+      "id": "GP-11",
+      "region": "gp",
+      "a": "Duluth",
+      "b": "Pittsburgh",
+      "value": 8
+    },
+    {
+      "id": "GP-09",
+      "region": "gp",
+      "a": "Kansas City",
+      "b": "Atlanta",
+      "value": 6
+    },
+    {
+      "id": "GP-08",
+      "region": "gp",
+      "a": "Kansas City",
+      "b": "Philadelphia",
+      "value": 9
+    },
+    {
+      "id": "GP-16",
+      "region": "gp",
+      "a": "Omaha",
+      "b": "Cincinnati",
+      "value": 4
+    },
+    {
+      "id": "GP-17",
+      "region": "gp",
+      "a": "Omaha",
+      "b": "Pittsburgh",
+      "value": 7
+    },
+    {
+      "id": "GP-14",
+      "region": "gp",
+      "a": "St. Louis",
+      "b": "Baltimore",
+      "value": 6
+    },
+    {
+      "id": "GP-15",
+      "region": "gp",
+      "a": "St. Louis",
+      "b": "Boston",
+      "value": 9
+    },
+    {
+      "id": "GP-13",
+      "region": "gp",
+      "a": "St. Louis",
+      "b": "Charleston",
+      "value": 6
+    },
+    {
+      "id": "GP-18",
+      "region": "gp",
+      "a": "St. Paul",
+      "b": "New York",
+      "value": 10
+    },
+    {
+      "id": "GP-06",
+      "region": "gp",
+      "a": "St. Paul",
+      "b": "Quebec",
+      "value": 10
+    },
+    {
+      "id": "GP-19",
+      "region": "gp",
+      "a": "St. Paul",
+      "b": "Savannah",
+      "value": 9
+    },
+    {
+      "id": "HW-13",
+      "region": "hw",
+      "a": "Cheyenne",
+      "b": "Montreal",
+      "value": 13
+    },
+    {
+      "id": "HW-12",
+      "region": "hw",
+      "a": "Cheyenne",
+      "b": "Pittsburgh",
+      "value": 11
+    },
+    {
+      "id": "HW-08",
+      "region": "hw",
+      "a": "Denver",
+      "b": "Atlanta",
+      "value": 10
+    },
+    {
+      "id": "HW-09",
+      "region": "hw",
+      "a": "Denver",
+      "b": "Knoxville",
+      "value": 10
+    },
+    {
+      "id": "HW-07",
+      "region": "hw",
+      "a": "Denver",
+      "b": "Norfolk",
+      "value": 14
+    },
+    {
+      "id": "HW-16",
+      "region": "hw",
+      "a": "Phoenix",
+      "b": "Bangor",
+      "value": 22
+    },
+    {
+      "id": "HW-15",
+      "region": "hw",
+      "a": "Phoenix",
+      "b": "Nashville",
+      "value": 13
+    },
+    {
+      "id": "HW-05",
+      "region": "hw",
+      "a": "Salt Lake City",
+      "b": "Mobile",
+      "value": 15
+    },
+    {
+      "id": "HW-14",
+      "region": "hw",
+      "a": "Salt Lake City",
+      "b": "Philadelphia",
+      "value": 17
+    },
+    {
+      "id": "HW-06",
+      "region": "hw",
+      "a": "Salt Lake City",
+      "b": "Santa Fe",
+      "value": 7
+    },
+    {
+      "id": "HW-11",
+      "region": "hw",
+      "a": "Santa Fe",
+      "b": "Boston",
+      "value": 17
+    },
+    {
+      "id": "HW-10",
+      "region": "hw",
+      "a": "Santa Fe",
+      "b": "Nashville",
+      "value": 9
+    },
+    {
+      "id": "OR-11",
+      "region": "or",
+      "a": "Dallas",
+      "b": "Buffalo",
+      "value": 11
+    },
+    {
+      "id": "OR-13",
+      "region": "or",
+      "a": "Dallas",
+      "b": "Montreal",
+      "value": 13
+    },
+    {
+      "id": "OR-12",
+      "region": "or",
+      "a": "Dallas",
+      "b": "New Orleans",
+      "value": 5
+    },
+    {
+      "id": "OR-10",
+      "region": "or",
+      "a": "Dallas",
+      "b": "New York",
+      "value": 12
+    },
+    {
+      "id": "OR-08",
+      "region": "or",
+      "a": "Dodge City",
+      "b": "Houston",
+      "value": 5
+    },
+    {
+      "id": "OR-09",
+      "region": "or",
+      "a": "Dodge City",
+      "b": "Pittsburgh",
+      "value": 9
+    },
+    {
+      "id": "OR-14",
+      "region": "or",
+      "a": "Houston",
+      "b": "Boston",
+      "value": 14
+    },
+    {
+      "id": "OR-16",
+      "region": "or",
+      "a": "Houston",
+      "b": "Charlotte",
+      "value": 8
+    },
+    {
+      "id": "OR-15",
+      "region": "or",
+      "a": "Houston",
+      "b": "Chicago",
+      "value": 9
+    },
+    {
+      "id": "OR-18",
+      "region": "or",
+      "a": "Little Rock",
+      "b": "Albany",
+      "value": 10
+    },
+    {
+      "id": "OR-17",
+      "region": "or",
+      "a": "Little Rock",
+      "b": "Philadelphia",
+      "value": 8
+    },
+    {
+      "id": "OR-19",
+      "region": "or",
+      "a": "Oklahoma City",
+      "b": "Baltimore",
+      "value": 10
+    },
+    {
+      "id": "OR-20",
+      "region": "or",
+      "a": "Oklahoma City",
+      "b": "Cincinnati",
+      "value": 6
+    },
+    {
+      "id": "OR-22",
+      "region": "or",
+      "a": "San Antonio",
+      "b": "Charleston",
+      "value": 11
+    },
+    {
+      "id": "OR-21",
+      "region": "or",
+      "a": "San Antonio",
+      "b": "Mobile",
+      "value": 6
+    },
+    {
+      "id": "SM-11",
+      "region": "sm",
+      "a": "Chihuahua",
+      "b": "Albany",
+      "value": 20
+    },
+    {
+      "id": "SM-12",
+      "region": "sm",
+      "a": "Chihuahua",
+      "b": "Chicago",
+      "value": 14
+    },
+    {
+      "id": "SM-07",
+      "region": "sm",
+      "a": "El Paso",
+      "b": "Charlotte",
+      "value": 14
+    },
+    {
+      "id": "SM-06",
+      "region": "sm",
+      "a": "El Paso",
+      "b": "Quebec",
+      "value": 19
+    },
+    {
+      "id": "SM-08",
+      "region": "sm",
+      "a": "Hermosillo",
+      "b": "Bangor",
+      "value": 23
+    },
+    {
+      "id": "SM-10",
+      "region": "sm",
+      "a": "Hermosillo",
+      "b": "Monterrey",
+      "value": 5
+    },
+    {
+      "id": "SM-09",
+      "region": "sm",
+      "a": "Hermosillo",
+      "b": "Savannah",
+      "value": 16
+    },
+    {
+      "id": "SM-13",
+      "region": "sm",
+      "a": "Monterrey",
+      "b": "Detroit",
+      "value": 13
+    },
+    {
+      "id": "SM-14",
+      "region": "sm",
+      "a": "Monterrey",
+      "b": "New Orleans",
+      "value": 7
+    }
+  ],
+  "years": [
+    {
+      "year": 1865,
+      "game": 1,
+      "trains": 20,
+      "deal": 4,
+      "keepMin": 2,
+      "note": "Только Восточное побережье. 20 вагонов."
+    },
+    {
+      "year": 1868,
+      "game": 2,
+      "trains": 20,
+      "deal": 4,
+      "keepMin": 2,
+      "note": "Ещё 20 вагонов. После партии 1-е место открывает фронтир."
+    },
+    {
+      "year": 1871,
+      "game": 3,
+      "trains": 20,
+      "deal": 4,
+      "keepMin": 2,
+      "note": "Третья партия на 20 вагонах. Карта начинает расти."
+    },
+    {
+      "year": 1874,
+      "game": 4,
+      "trains": 25,
+      "deal": 4,
+      "keepMin": 2,
+      "note": "Вагоны добавляются по шкале на обороте коробки компании."
+    },
+    {
+      "year": 1877,
+      "game": 5,
+      "trains": 30,
+      "deal": 4,
+      "keepMin": 2,
+      "note": "Больше вагонов и билетов с новых регионов."
+    },
+    {
+      "year": 1880,
+      "game": 6,
+      "trains": 34,
+      "deal": 4,
+      "keepMin": 2,
+      "note": "Около 34 вагонов (шестая партия кампании)."
+    },
+    {
+      "year": 1883,
+      "game": 7,
+      "trains": 40,
+      "deal": 4,
+      "keepMin": 2,
+      "note": "Карта уже заметно шире исходной."
+    },
+    {
+      "year": 1886,
+      "game": 8,
+      "trains": 45,
+      "deal": 4,
+      "keepMin": 2,
+      "note": "Поздняя кампания, длинные трансконтинентальные билеты."
+    },
+    {
+      "year": 1889,
+      "game": 9,
+      "trains": 50,
+      "deal": 4,
+      "keepMin": 2,
+      "note": "Почти полный запас вагонов."
+    },
+    {
+      "year": 1892,
+      "game": 10,
+      "trains": 52,
+      "deal": 4,
+      "keepMin": 2,
+      "note": "Десятая партия."
+    },
+    {
+      "year": 1895,
+      "game": 11,
+      "trains": 56,
+      "deal": 4,
+      "keepMin": 2,
+      "note": "Полный запас: 56 вагонов на игрока."
+    },
+    {
+      "year": 1898,
+      "game": 12,
+      "trains": 56,
+      "deal": 4,
+      "keepMin": 2,
+      "note": "Финал кампании. 56 вагонов."
+    },
+    {
+      "year": 1901,
+      "game": 13,
+      "trains": 56,
+      "deal": 5,
+      "keepMin": 3,
+      "note": "Посткампания: все билеты возвращаются, раздача 5, оставить ≥3."
+    }
+  ],
+  "trainRemainderBonus": [
+    {
+      "left": [
+        0
+      ],
+      "dollars": 16
+    },
+    {
+      "left": [
+        1
+      ],
+      "dollars": 12
+    },
+    {
+      "left": [
+        2
+      ],
+      "dollars": 9
+    },
+    {
+      "left": [
+        3
+      ],
+      "dollars": 6
+    },
+    {
+      "left": [
+        4
+      ],
+      "dollars": 4
+    },
+    {
+      "left": [
+        5,
+        6,
+        7
+      ],
+      "dollars": 2
+    },
+    {
+      "left": [
+        8,
+        9,
+        10
+      ],
+      "dollars": 1
+    },
+    {
+      "left": [
+        11
+      ],
+      "dollars": 0
+    }
+  ],
+  "rules": {
+    "players": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "startCash": 5,
+    "startTrainCards": 4,
+    "newspapers": {
+      "2": 6,
+      "3": 4,
+      "4": 3,
+      "5": 3
+    },
+    "doubleRoutesLockedIfPlayersAtMost": 3,
+    "notes": [
+      "В начале партии раздают 4 билета, оставить нужно минимум 2 (в 1901: 5 и минимум 3).",
+      "Добирать билеты можно ходом: 3 штуки, оставить ≥1.",
+      "Очки за билет — напечатанные доллары; незакрытый билет вычитается.",
+      "Вагоны за маршруты очков не дают — только за билеты, цвет компании, события и остаток вагонов.",
+      "В партиях на 2–3 игроков из двойного маршрута доступен только один путь.",
+      "Регионы открывает победитель (иногда проигравший) — состав карты не фиксирован годом."
+    ]
+  }
+}

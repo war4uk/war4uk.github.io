@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ticket to Ride Legacy — оптимальные билеты</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@500;700&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="page">
+    <header>
+      <h1>Ticket to Ride Legacy: оптимальные билеты</h1>
+      <p class="lede">
+        Математический максимум долларов за карточки маршрутов
+        (destination tickets) при заданном годе, числе игроков, открытых регионах
+        и запасе вагончиков. На карте подсвечиваются выбранные билеты и пути,
+        которыми их можно закрыть одной сетью.
+      </p>
+    </header>
+
+    <div class="layout">
+      <aside class="panel controls">
+        <label for="year">Год партии</label>
+        <select id="year"></select>
+        <p class="year-note" id="yearNote"></p>
+
+        <label for="players">Игроки</label>
+        <select id="players">
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4" selected>4</option>
+          <option value="5">5</option>
+        </select>
+        <p class="hint" id="playerNote"></p>
+
+        <div class="row-inline">
+          <label for="trains">Вагончики</label>
+          <span class="num" id="trainsOut">20</span>
+        </div>
+        <input id="trains" type="range" min="15" max="56" value="20" />
+        <p class="hint">Шкала на обороте коробки компании растёт от 20 в 1865 до 56 к финалу. Значение можно поправить вручную.</p>
+
+        <span class="lbl">Регионы</span>
+        <div class="regions" id="regions"></div>
+        <p class="hint">East Coast открыт всегда. Остальные фронтиры выбирает победитель (иногда проигравший) — год сам по себе регионы не фиксирует.</p>
+
+        <span class="lbl">Какие билеты считать</span>
+        <div class="modes">
+          <label class="chk">
+            <input type="radio" name="mode" value="opening" checked />
+            <span>Только стартовая рука: раздача 4, оставить минимум 2 (в 1901: 5, минимум 3)</span>
+          </label>
+          <label class="chk">
+            <input type="radio" name="mode" value="draws" />
+            <span>С добором в партии: любые билеты из доступной колоды, пока хватает вагонов</span>
+          </label>
+        </div>
+      </aside>
+
+      <main>
+        <div class="stats">
+          <div class="stat"><b id="statTickets">$0</b><span>Максимум за билеты</span></div>
+          <div class="stat"><b id="statTrains">0 / 20</b><span>Вагоны на сеть</span></div>
+          <div class="stat"><b id="statLeft">0</b><span>Остаток вагонов</span></div>
+          <div class="stat"><b id="statCount">0</b><span>Билетов в наборе</span></div>
+        </div>
+        <p class="hint" id="availMeta"></p>
+        <div class="panel map-wrap">
+          <svg id="board" viewBox="0 0 1400 820" role="img" aria-label="Карта Ticket to Ride Legacy"></svg>
+        </div>
+        <div class="results">
+          <section class="panel">
+            <h2>Выбранные билеты</h2>
+            <ul class="ticket-list" id="tickets"></ul>
+          </section>
+          <section class="panel">
+            <h2>Пути, которыми закрывается набор</h2>
+            <ul class="route-list" id="routes"></ul>
+          </section>
+        </div>
+        <footer class="fine">
+          Это верхняя оценка для одной компании без блокировок соперниками:
+          любой открытый путь считается свободным, карты поездов не лимитируют.
+          Длины путей восстановлены по фотографии поля; номиналы билетов — из
+          справочника кампании. Незакрытый билет в настоящей партии вычитается,
+          поэтому в оптимуме остаются только выполнимые карточки.
+        </footer>
+      </main>
+    </div>
+  </div>
+  <script type="module" src="./js/app.js"></script>
+</body>
+</html>
