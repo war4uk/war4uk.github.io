@@ -1,18 +1,25 @@
 {
   "date": "2026-09-20",
   "counts": {
-    "positive": 1,
+    "positive": 2,
     "neutral": 0,
     "negative": 0
   },
-  "summary": "positive:1 neutral:0 negative:0",
-  "generatedAt": "2026-09-20T08:03:56.309Z",
+  "summary": "positive:2 neutral:0 negative:0",
+  "generatedAt": "2026-09-20T12:02:35.234Z",
   "topics": [
-    "Praises Matthew Continetti’s Mark Levin interview about the alleged AI disaster hoax"
+    "Trump agrees to convert planned Arlington Memorial Bridge triumphal arch into military complex",
+    "Matthew Continetti interviews Mark Levin about the AI disaster hoax"
   ],
-  "trendingTopic": "Trump praises Matthew Continetti’s Mark Levin interview about the alleged AI disaster hoax",
-  "trendingName": "Matthew Continetti",
+  "trendingTopic": "Trump agrees to convert planned Arlington Memorial Bridge triumphal arch into military complex",
+  "secondaryHighlights": [
+    {
+      "topic": "Matthew Continetti interviews Mark Levin about the AI disaster hoax"
+    }
+  ],
   "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v11:2:868e08b628d753575d5be5e3",
+  "selfPraiseCacheKey": "self-praise-v2:2:868e08b628d753575d5be5e3",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41810",
@@ -31,6 +38,24 @@
         "guid": "https://www.trumpstruth.org/statuses/41810",
         "isoDate": "2026-09-20T05:14:43.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41811",
+      "publishedAt": "2026-09-20T11:34:46.000Z",
+      "title": "At the strong request of the United States Military, and for National Security purposes, I have agreed to convert the magnificent Triumphal Arch, planned since the Civil War Era many years ago, at the Receptive Circle adjoining the Arlington Memorial Bridge, into a top grade Military Complex/Triumphal Arch, to house, store, and have the rapid ability to use large numbers of drones, plus Snipers, on both the roof and plaza areas, and additionally have and hold large quantities of sniper ammunition in storage. There will be no facility like this anywhere in the World. Out of the 59 top cities and Capitals, Washington, D.C., IS THE ONLY ONE IN THE WORLD THAT DOES NOT HAVE A TRIUMPHAL ARCH, but it will now and, by far, the greatest of them all! Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "text": "<p>At the strong request of the United States Military, and for National Security purposes, I have agreed to convert the magnificent Triumphal Arch, planned since the Civil War Era many years ago, at the Receptive Circle adjoining the Arlington Memorial Bridge, into a top grade Military Complex/Triumphal Arch, to house, store, and have the rapid ability to use large numbers of drones, plus Snipers, on both the roof and plaza areas, and additionally have and hold large quantities of sniper ammunition in storage. There will be no facility like this anywhere in the World. Out of the 59 top cities and Capitals, Washington, D.C., IS THE ONLY ONE IN THE WORLD THAT DOES NOT HAVE A TRIUMPHAL ARCH, but it will now and, by far, the greatest of them all! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41811",
+      "raw": {
+        "creator": "",
+        "title": "At the strong request of the United States Military, and for National Security purposes, I have agreed to convert the magnificent Triumphal Arch, planned since the Civil War Era many years ago, at the Receptive Circle adjoining the Arlington Memorial Bridge, into a top grade Military Complex/Triumphal Arch, to house, store, and have the rapid ability to use large numbers of drones, plus Snipers, on both the roof and plaza areas, and additionally have and hold large quantities of sniper ammunition in storage. There will be no facility like this anywhere in the World. Out of the 59 top cities and Capitals, Washington, D.C., IS THE ONLY ONE IN THE WORLD THAT DOES NOT HAVE A TRIUMPHAL ARCH, but it will now and, by far, the greatest of them all! Thank you for your attention to this matter. President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41811",
+        "pubDate": "Sun, 20 Sep 2026 11:34:46 +0000",
+        "author": "",
+        "content": "<p>At the strong request of the United States Military, and for National Security purposes, I have agreed to convert the magnificent Triumphal Arch, planned since the Civil War Era many years ago, at the Receptive Circle adjoining the Arlington Memorial Bridge, into a top grade Military Complex/Triumphal Arch, to house, store, and have the rapid ability to use large numbers of drones, plus Snipers, on both the roof and plaza areas, and additionally have and hold large quantities of sniper ammunition in storage. There will be no facility like this anywhere in the World. Out of the 59 top cities and Capitals, Washington, D.C., IS THE ONLY ONE IN THE WORLD THAT DOES NOT HAVE A TRIUMPHAL ARCH, but it will now and, by far, the greatest of them all! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+        "contentSnippet": "At the strong request of the United States Military, and for National Security purposes, I have agreed to convert the magnificent Triumphal Arch, planned since the Civil War Era many years ago, at the Receptive Circle adjoining the Arlington Memorial Bridge, into a top grade Military Complex/Triumphal Arch, to house, store, and have the rapid ability to use large numbers of drones, plus Snipers, on both the roof and plaza areas, and additionally have and hold large quantities of sniper ammunition in storage. There will be no facility like this anywhere in the World. Out of the 59 top cities and Capitals, Washington, D.C., IS THE ONLY ONE IN THE WORLD THAT DOES NOT HAVE A TRIUMPHAL ARCH, but it will now and, by far, the greatest of them all! Thank you for your attention to this matter. President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41811",
+        "isoDate": "2026-09-20T11:34:46.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -39,14 +64,12 @@
       "label": "positive",
       "rationale": "Praises Matthew Continetti's work and interview, expressing strong approval.",
       "analyzedAt": "2026-09-20T08:03:47.682Z"
-    }
-  ],
-  "topicsCacheKey": "day-themes-v11:1:4b22e09f1df55b0d07de19a2",
-  "selfPraiseCacheKey": "self-praise-v2:1:4b22e09f1df55b0d07de19a2",
-  "secondaryHighlights": [
+    },
     {
-      "topic": "A great job by very smart Matthew Continetti on Mark Levin",
-      "name": "Matthew Continetti"
+      "postId": "https://www.trumpstruth.org/statuses/41811",
+      "label": "positive",
+      "rationale": "The post enthusiastically promotes the proposed military complex and triumphal arch, using strongly approving and celebratory language.",
+      "analyzedAt": "2026-09-20T12:02:24.856Z"
     }
   ]
 }

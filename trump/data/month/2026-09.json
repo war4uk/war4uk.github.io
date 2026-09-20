@@ -504,7 +504,7 @@
       ],
       "postsCount": 5,
       "hasDetail": true,
-      "generatedAt": "2026-09-20T08:03:42.090Z",
+      "generatedAt": "2026-09-20T12:02:19.376Z",
       "trendingTopic": "Trump defends artificial intelligence growth and announces an AI Force with a future AI czar",
       "secondaryHighlights": [
         {
@@ -519,40 +519,39 @@
     {
       "date": "2026-09-20",
       "counts": {
-        "positive": 1,
+        "positive": 2,
         "neutral": 0,
         "negative": 0
       },
-      "summary": "positive:1 neutral:0 negative:0",
+      "summary": "positive:2 neutral:0 negative:0",
       "topics": [
-        "Praises Matthew Continetti’s Mark Levin interview about the alleged AI disaster hoax"
+        "Trump agrees to convert planned Arlington Memorial Bridge triumphal arch into military complex",
+        "Matthew Continetti interviews Mark Levin about the AI disaster hoax"
       ],
-      "postsCount": 1,
+      "postsCount": 2,
       "hasDetail": true,
-      "generatedAt": "2026-09-20T08:03:56.309Z",
-      "trendingTopic": "Trump praises Matthew Continetti’s Mark Levin interview about the alleged AI disaster hoax",
-      "trendingName": "Matthew Continetti",
+      "generatedAt": "2026-09-20T12:02:35.234Z",
+      "trendingTopic": "Trump agrees to convert planned Arlington Memorial Bridge triumphal arch into military complex",
       "secondaryHighlights": [
         {
-          "topic": "A great job by very smart Matthew Continetti on Mark Levin",
-          "name": "Matthew Continetti"
+          "topic": "Matthew Continetti interviews Mark Levin about the AI disaster hoax"
         }
       ],
       "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-20T08:03:56.309Z",
-  "trendingTopic": "Trump portrays Iran as collapsing amid war, oil pressure, and Strait of Hormuz claims",
+  "generatedAt": "2026-09-20T12:02:35.234Z",
+  "trendingTopic": "Trump portrays Iran as collapsing while defending military action and pressure on its oil economy",
   "secondaryHighlights": [
     {
-      "topic": "Trump backs Republican candidates and mobilizes voters through midterm rallies and conventions"
+      "topic": "Trump drives a packed Dallas Republican convention and midterm rally"
     },
     {
-      "topic": "Trump advances an AI infrastructure agenda while dismissing warnings about the technology"
+      "topic": "Trump defends U.S. artificial-intelligence expansion while announcing new AI initiatives"
     },
     {
-      "topic": "Trump promotes a privately funded White House ballroom and expanded Washington landmark projects"
+      "topic": "Trump-endorsed candidates win New Hampshire Republican primaries"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:20:4b45f3e37e3a141941ea3133"
+  "topicsCacheKey": "month-themes-v5:20:1a324472601002340bc818a8"
 }
