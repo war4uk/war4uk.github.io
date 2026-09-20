@@ -504,7 +504,7 @@
       ],
       "postsCount": 5,
       "hasDetail": true,
-      "generatedAt": "2026-09-19T20:02:37.258Z",
+      "generatedAt": "2026-09-20T00:00:31.973Z",
       "trendingTopic": "Trump defends artificial intelligence growth and announces an AI Force with a future AI czar",
       "secondaryHighlights": [
         {
@@ -515,9 +515,23 @@
         }
       ],
       "selfPraiseCount": 1
+    },
+    {
+      "date": "2026-09-20",
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "positive:0 neutral:0 negative:0",
+      "topics": [],
+      "postsCount": 0,
+      "hasDetail": true,
+      "generatedAt": "2026-09-20T00:00:34.434Z",
+      "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-19T20:02:37.258Z",
+  "generatedAt": "2026-09-20T00:00:34.434Z",
   "trendingTopic": "Trump intensifies pressure on Iran while claiming control of the Strait of Hormuz",
   "secondaryHighlights": [
     {
