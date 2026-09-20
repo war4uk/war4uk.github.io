@@ -10,7 +10,9 @@ shortest path in the residual graph (existing claimed edges cost 0).
 from __future__ import annotations
 
 import heapq
+import itertools
 import json
+import math
 from collections import defaultdict
 from pathlib import Path
 
@@ -118,47 +120,125 @@ def available_tickets(region_ids, cities, dist):
     return out
 
 
+def _orders(tickets):
+    by_ratio = sorted(tickets, key=lambda t: (-t["ratio"], -t["value"], t["sp"]))
+    by_value = sorted(tickets, key=lambda t: (-t["value"], t["sp"]))
+    by_sp = sorted(tickets, key=lambda t: (t["sp"], -t["value"]))
+    return (by_ratio, by_value, by_sp, list(reversed(by_ratio)), tickets)
+
+
+def min_forest(adj, tickets, trains):
+    """Cheapest residual-SP forest over a few orders, then all perms if needed."""
+    best_cost, best_claimed = None, None
+    seen = set()
+
+    def consider(order):
+        nonlocal best_cost, best_claimed
+        key = tuple(t["id"] for t in order)
+        if key in seen:
+            return
+        seen.add(key)
+        cost, claimed = forest_for_tickets(adj, order)
+        if cost is None:
+            return
+        if best_cost is None or cost < best_cost:
+            best_cost, best_claimed = cost, claimed
+
+    for order in _orders(tickets):
+        consider(order)
+    if len(tickets) <= 4 or (len(tickets) == 5 and (best_cost is None or best_cost > trains)):
+        for order in itertools.permutations(tickets):
+            consider(order)
+            if best_cost is not None and best_cost <= trains and len(tickets) == 5:
+                break
+    return best_cost, best_claimed
+
+
 def optimize(tickets, adj, trains, min_keep, max_keep):
     tickets = [t for t in tickets if t["sp"] <= trains]
     tickets.sort(key=lambda t: (-t["ratio"], -t["value"], t["sp"]))
     n = len(tickets)
     best = {"value": -1, "cost": 0, "tickets": [], "routes": []}
+    max_keep = min(max_keep, n)
+    if n == 0 or max_keep < min_keep:
+        return best
 
-    # Optimistic remaining value using efficiency packing.
-    prefix_vals = [0]
-    for t in tickets:
-        prefix_vals.append(prefix_vals[-1] + t["value"])
+    combo_limit = 80_000
+    enum_size = sum(
+        math.comb(n, k) for k in range(min_keep, max_keep + 1)
+    )
+    use_exact = n <= 36 and max_keep <= 5 and enum_size <= combo_limit
+    if not use_exact:
+        return _greedy(tickets, adj, trains, min_keep, max_keep)
 
-    def rec(i, chosen, claimed, cost, value):
-        if min_keep <= len(chosen) <= max_keep and value > best["value"]:
+    combos = []
+    for k in range(min_keep, max_keep + 1):
+        for chosen in itertools.combinations(tickets, k):
+            combos.append((sum(t["value"] for t in chosen), chosen))
+    combos.sort(key=lambda row: (-row[0], len(row[1])))
+
+    for value, chosen in combos:
+        if value < best["value"]:
+            break
+        if max(t["sp"] for t in chosen) > trains:
+            continue
+        cost, claimed = min_forest(adj, list(chosen), trains)
+        if cost is None or cost > trains:
+            continue
+        if value > best["value"] or (value == best["value"] and cost < best["cost"]):
             best["value"] = value
             best["cost"] = cost
             best["tickets"] = list(chosen)
-            best["routes"] = sorted(claimed)
-        elif value == best["value"] and cost < best["cost"] and min_keep <= len(chosen) <= max_keep:
-            best["cost"] = cost
-            best["tickets"] = list(chosen)
-            best["routes"] = sorted(claimed)
-
-        if i >= n or len(chosen) >= max_keep:
-            return
-        remaining_slots = max_keep - len(chosen)
-        leftover = sorted((tickets[j]["value"] for j in range(i, n)), reverse=True)
-        optimistic = value + sum(leftover[:remaining_slots])
-        if optimistic < best["value"]:
-            return
-
-        rec(i + 1, chosen, claimed, cost, value)
-
-        t = tickets[i]
-        extra, path = dijkstra(adj, t["a"], t["b"], claimed)
-        if extra is None or cost + extra > trains:
-            return
-        new_claimed = claimed | set(path)
-        rec(i + 1, chosen + [t], new_claimed, cost + extra, value + t["value"])
-
-    rec(0, [], set(), 0, 0)
+            best["routes"] = claimed
     return best
+
+
+def _greedy(tickets, adj, trains, min_keep, max_keep):
+    claimed = set()
+    cost = 0
+    chosen = []
+    used = set()
+    while len(chosen) < max_keep:
+        best_add = None
+        for t in tickets:
+            if t["id"] in used:
+                continue
+            extra, path = dijkstra(adj, t["a"], t["b"], claimed)
+            if extra is None or cost + extra > trains:
+                continue
+            score = (t["value"] + 0.05) / (extra + 0.35)
+            if best_add is None or score > best_add[0]:
+                best_add = (score, t, extra, path)
+        if best_add is None:
+            break
+        _, t, extra, path = best_add
+        chosen.append(t)
+        used.add(t["id"])
+        claimed.update(path)
+        cost += extra
+    if len(chosen) < min_keep:
+        return {"value": -1, "cost": 0, "tickets": [], "routes": []}
+    cost, claimed = min_forest(adj, chosen, trains) if len(chosen) <= 6 else forest_for_tickets(adj, chosen)
+    if cost is None:
+        cost, claimed = forest_for_tickets(adj, chosen)
+    # 0-cost extras
+    if claimed is None:
+        claimed = set()
+        cost = 0
+    used = {t["id"] for t in chosen}
+    for t in sorted(tickets, key=lambda x: -x["value"]):
+        if t["id"] in used or len(chosen) >= max_keep:
+            continue
+        extra, path = dijkstra(adj, t["a"], t["b"], claimed)
+        if extra == 0:
+            chosen.append(t)
+            used.add(t["id"])
+    return {
+        "value": sum(t["value"] for t in chosen),
+        "cost": cost,
+        "tickets": chosen,
+        "routes": sorted(claimed) if claimed is not None else [],
+    }
 
 
 def solve(region_ids, trains, min_keep, max_keep):
@@ -214,8 +294,14 @@ def validate():
     # sample solve
     res = solve({"ec"}, 20, 2, 4)
     print("EC 20 trains, keep 2-4:", res["value"], "$ with", res["cost"], "trains;", [t["id"] for t in res["tickets"]])
+    assert res["value"] == 40, res
+    assert res["cost"] <= 20
     res2 = solve({"ec"}, 20, 2, 12)
     print("EC 20 trains, up to 12 tickets:", res2["value"], "$ with", res2["cost"], "trains;", len(res2["tickets"]), "tickets")
+    bonus = build_payload()["trainRemainderBonus"]
+    by_left = {left: row["dollars"] for row in bonus for left in row["left"]}
+    assert by_left[0] == 16 and by_left[3] == 7 and by_left[4] == 6
+    assert by_left[5] == 4 and by_left[8] == 2
 
 
 def export(path: Path):

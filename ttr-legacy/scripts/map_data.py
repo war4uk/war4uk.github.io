@@ -417,14 +417,15 @@ def build_payload():
         "routes": routes,
         "tickets": tickets,
         "years": YEARS,
+        # Official rulebook table (Game End / bank slip).
         "trainRemainderBonus": [
             {"left": [0], "dollars": 16},
             {"left": [1], "dollars": 12},
             {"left": [2], "dollars": 9},
-            {"left": [3], "dollars": 6},
-            {"left": [4], "dollars": 4},
-            {"left": [5, 6, 7], "dollars": 2},
-            {"left": [8, 9, 10], "dollars": 1},
+            {"left": [3], "dollars": 7},
+            {"left": [4], "dollars": 6},
+            {"left": [5, 6, 7], "dollars": 4},
+            {"left": [8, 9, 10], "dollars": 2},
             {"left": [11], "dollars": 0},
         ],
         "rules": {

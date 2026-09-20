@@ -32,7 +32,7 @@ function keepBounds() {
   const y = yearMeta();
   const mode = document.querySelector("input[name=mode]:checked").value;
   if (mode === "opening") return { minKeep: y.keepMin, maxKeep: y.deal };
-  return { minKeep: y.keepMin, maxKeep: 16 };
+  return { minKeep: 1, maxKeep: state.data.tickets.length };
 }
 
 function solve() {
@@ -61,8 +61,25 @@ function render() {
   $("#statTrains").textContent = `${r.cost} / ${trains}`;
   $("#statLeft").textContent = `${r.trainsLeft} (бонус $${bonus})`;
   $("#statCount").textContent = String(r.tickets.length);
+  const mode = document.querySelector("input[name=mode]:checked").value;
+  const modeNote =
+    mode === "opening"
+      ? `стартовая рука: лучшие ${yearMeta().deal} из всей колоды, не случайная раздача`
+      : "с добором: все билеты колоды, пока хватает вагонов";
   $("#availMeta").textContent =
-    `${r.availableTickets} билетов в колоде региона · ${r.cityCount} городов · ${r.routeCount} путей · ${r.elapsed} мс`;
+    `${r.availableTickets} достижимых билетов · ${r.cityCount} городов · ${r.routeCount} путей · ${r.elapsed} мс · ${modeNote}`;
+
+  const warn = $("#regionWarn");
+  if (r.unreachableTickets) {
+    warn.hidden = false;
+    warn.textContent =
+      `${r.unreachableTickets} билетов выбранных регионов недостижимы: нет стыка с Восточным побережьем. ` +
+      `Badlands и Haunted Wastes стыкуются через Great Plains; Cascadia — через Badlands или Haunted Wastes; ` +
+      `California — через Cascadia (Sacramento—Portland); Sierra Madre — через Open Range.`;
+  } else {
+    warn.hidden = true;
+    warn.textContent = "";
+  }
 
   const papers = state.data.rules.newspapers[players];
   const doubles =
