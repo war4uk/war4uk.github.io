@@ -1,14 +1,52 @@
 {
   "date": "2026-09-20",
   "counts": {
-    "positive": 0,
+    "positive": 1,
     "neutral": 0,
     "negative": 0
   },
-  "summary": "positive:0 neutral:0 negative:0",
-  "generatedAt": "2026-09-20T04:00:55.534Z",
-  "topics": [],
+  "summary": "positive:1 neutral:0 negative:0",
+  "generatedAt": "2026-09-20T08:03:56.309Z",
+  "topics": [
+    "Praises Matthew Continetti’s Mark Levin interview about the alleged AI disaster hoax"
+  ],
+  "trendingTopic": "Trump praises Matthew Continetti’s Mark Levin interview about the alleged AI disaster hoax",
+  "trendingName": "Matthew Continetti",
   "selfPraiseCount": 0,
-  "posts": [],
-  "sentiments": []
+  "posts": [
+    {
+      "id": "https://www.trumpstruth.org/statuses/41810",
+      "publishedAt": "2026-09-20T05:14:43.000Z",
+      "title": "A great job by very smart Matthew Continetti on Mark Levin. The interview concerned the AI Disaster Hoax. Let it roll!!! President DJT",
+      "text": "<p>A great job by very smart Matthew Continetti on Mark Levin. The interview concerned the AI Disaster Hoax. Let it roll!!! President DJT</p>",
+      "url": "https://www.trumpstruth.org/statuses/41810",
+      "raw": {
+        "creator": "",
+        "title": "A great job by very smart Matthew Continetti on Mark Levin. The interview concerned the AI Disaster Hoax. Let it roll!!! President DJT",
+        "link": "https://www.trumpstruth.org/statuses/41810",
+        "pubDate": "Sun, 20 Sep 2026 05:14:43 +0000",
+        "author": "",
+        "content": "<p>A great job by very smart Matthew Continetti on Mark Levin. The interview concerned the AI Disaster Hoax. Let it roll!!! President DJT</p>",
+        "contentSnippet": "A great job by very smart Matthew Continetti on Mark Levin. The interview concerned the AI Disaster Hoax. Let it roll!!! President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/41810",
+        "isoDate": "2026-09-20T05:14:43.000Z"
+      }
+    }
+  ],
+  "sentiments": [
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41810",
+      "label": "positive",
+      "rationale": "Praises Matthew Continetti's work and interview, expressing strong approval.",
+      "analyzedAt": "2026-09-20T08:03:47.682Z"
+    }
+  ],
+  "topicsCacheKey": "day-themes-v11:1:4b22e09f1df55b0d07de19a2",
+  "selfPraiseCacheKey": "self-praise-v2:1:4b22e09f1df55b0d07de19a2",
+  "secondaryHighlights": [
+    {
+      "topic": "A great job by very smart Matthew Continetti on Mark Levin",
+      "name": "Matthew Continetti"
+    }
+  ]
 }

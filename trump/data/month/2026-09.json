@@ -504,7 +504,7 @@
       ],
       "postsCount": 5,
       "hasDetail": true,
-      "generatedAt": "2026-09-20T04:00:53.088Z",
+      "generatedAt": "2026-09-20T08:03:42.090Z",
       "trendingTopic": "Trump defends artificial intelligence growth and announces an AI Force with a future AI czar",
       "secondaryHighlights": [
         {
@@ -519,30 +519,40 @@
     {
       "date": "2026-09-20",
       "counts": {
-        "positive": 0,
+        "positive": 1,
         "neutral": 0,
         "negative": 0
       },
-      "summary": "positive:0 neutral:0 negative:0",
-      "topics": [],
-      "postsCount": 0,
+      "summary": "positive:1 neutral:0 negative:0",
+      "topics": [
+        "Praises Matthew Continetti’s Mark Levin interview about the alleged AI disaster hoax"
+      ],
+      "postsCount": 1,
       "hasDetail": true,
-      "generatedAt": "2026-09-20T04:00:55.534Z",
+      "generatedAt": "2026-09-20T08:03:56.309Z",
+      "trendingTopic": "Trump praises Matthew Continetti’s Mark Levin interview about the alleged AI disaster hoax",
+      "trendingName": "Matthew Continetti",
+      "secondaryHighlights": [
+        {
+          "topic": "A great job by very smart Matthew Continetti on Mark Levin",
+          "name": "Matthew Continetti"
+        }
+      ],
       "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-20T04:00:55.534Z",
-  "trendingTopic": "Trump intensifies pressure on Iran while claiming control of the Strait of Hormuz",
+  "generatedAt": "2026-09-20T08:03:56.309Z",
+  "trendingTopic": "Trump portrays Iran as collapsing amid war, oil pressure, and Strait of Hormuz claims",
   "secondaryHighlights": [
     {
-      "topic": "Endorses candidates across congressional, gubernatorial, and Senate races"
+      "topic": "Trump backs Republican candidates and mobilizes voters through midterm rallies and conventions"
     },
     {
-      "topic": "Pushes renaming Lake Ontario and New Mexico with American-themed names"
+      "topic": "Trump advances an AI infrastructure agenda while dismissing warnings about the technology"
     },
     {
-      "topic": "Trump defends artificial intelligence expansion and announces an AI Force"
+      "topic": "Trump promotes a privately funded White House ballroom and expanded Washington landmark projects"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:19:6ce24c700ee0b8bb820e87ba"
+  "topicsCacheKey": "month-themes-v5:20:4b45f3e37e3a141941ea3133"
 }
