@@ -1,30 +1,32 @@
 {
   "date": "2026-09-20",
   "counts": {
-    "positive": 2,
+    "positive": 5,
     "neutral": 2,
-    "negative": 0
+    "negative": 1
   },
-  "summary": "positive:2 neutral:2 negative:0",
-  "generatedAt": "2026-09-20T16:04:39.042Z",
+  "summary": "positive:5 neutral:2 negative:1",
+  "generatedAt": "2026-09-20T20:01:35.661Z",
   "topics": [
-    "Plans to convert Arlington’s triumphal arch into a military drone and sniper complex",
-    "Changes Supreme Intelligence contest by removing the leading qualifier and opening a final vote",
-    "Praises Matthew Continetti’s interview with Mark Levin about the AI disaster hoax"
+    "Trump touts record-low poverty, record-high household income, and slower price increases",
+    "Trump announces converting Washington’s planned triumphal arch into a military drone and sniper complex",
+    "Trump promotes Mark Levin interview addressing the alleged AI disaster hoax"
   ],
-  "trendingTopic": "Trump plans to convert Arlington’s triumphal arch into a military drone and sniper complex",
+  "trendingTopic": "Trump touts record-low poverty, record-high household income, and slower price increases",
   "secondaryHighlights": [
     {
-      "topic": "Changes Supreme Intelligence contest by removing the leading qualifier and opening a final vote"
+      "topic": "Trump announces converting Washington’s planned triumphal arch into a military drone and sniper complex"
     },
     {
-      "topic": "Praises Matthew Continetti’s interview with Mark Levin about the AI disaster hoax",
-      "name": "Matthew Continetti"
+      "topic": "Trump promotes Mark Levin interview addressing the alleged AI disaster hoax"
+    },
+    {
+      "topic": "Trump removes “Supreme Intelligence” from a naming vote and asks followers to choose between two finalists"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v11:4:d322bf4c375b742e79ff36cd",
-  "selfPraiseCacheKey": "self-praise-v2:4:d322bf4c375b742e79ff36cd",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:8:d0124c685f2c8569165a6ce8",
+  "selfPraiseCacheKey": "self-praise-v2:8:d0124c685f2c8569165a6ce8",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41810",
@@ -97,6 +99,94 @@
         "guid": "https://www.trumpstruth.org/statuses/41813",
         "isoDate": "2026-09-20T13:31:10.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41814",
+      "publishedAt": "2026-09-20T16:22:12.000Z",
+      "title": "[No Title] - Post from September 20, 2026",
+      "text": "[Image] The White House is shown from the lawn, with the American flag flying above it and leafless trees and trimmed shrubs in the foreground. Three black garbage bags sit on the grass, labeled with the logos of CNN, MSNBC, and Politico, creating a pointed visual statement about those news organizations.",
+      "url": "https://www.trumpstruth.org/statuses/41814",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 20, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41814",
+        "pubDate": "Sun, 20 Sep 2026 16:22:12 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41814",
+        "isoDate": "2026-09-20T16:22:12.000Z"
+      },
+      "imageDescribedAt": "2026-09-20T20:01:21.141Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18194/5a5996d1edc8710a-e2b440a3a4bc.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41817",
+      "publishedAt": "2026-09-20T19:51:58.000Z",
+      "title": "[No Title] - Post from September 20, 2026",
+      "text": "[Image] A political graphic titled “U.S. Poverty Rate At Record Low” shows a line chart labeled “Official Poverty Rate, All People, 1959–2025.” The black line tracks rates from roughly 22% in the 1960s to about 8% near 2025. Red text attributes a claimed 10.2% record low to Donald Trump, with a large downward arrow.",
+      "url": "https://www.trumpstruth.org/statuses/41817",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 20, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41817",
+        "pubDate": "Sun, 20 Sep 2026 19:51:58 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41817",
+        "isoDate": "2026-09-20T19:51:58.000Z"
+      },
+      "imageDescribedAt": "2026-09-20T20:01:17.844Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18197/6b5a767d7045385d-78569f697e24.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41816",
+      "publishedAt": "2026-09-20T19:52:11.000Z",
+      "title": "[No Title] - Post from September 20, 2026",
+      "text": "[Image] A bar chart titled “Cumulative Change in Price Biden VS Trump 2.0” compares January–July of the second year in office. Blue bars for Joe Biden and red bars for Donald Trump show overall inflation at 12.3% versus 4.3%, groceries at 15.8% versus 3.3%, gasoline at 69% versus 12%, rent at 7.7% versus 4.5%, electricity at 19.1% versus 6.6%, and new and used cars at 23.9% versus −1.2%.",
+      "url": "https://www.trumpstruth.org/statuses/41816",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 20, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41816",
+        "pubDate": "Sun, 20 Sep 2026 19:52:11 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41816",
+        "isoDate": "2026-09-20T19:52:11.000Z"
+      },
+      "imageDescribedAt": "2026-09-20T20:01:14.900Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18196/e18446b6d1e646b0-cb17b85bc4e2.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41815",
+      "publishedAt": "2026-09-20T19:52:22.000Z",
+      "title": "[No Title] - Post from September 20, 2026",
+      "text": "[Image] A graphic titled “U.S. Household Income at RECORD HIGH” shows a line chart of median U.S. household income from 1967 to 2025, measured in U.S. dollars. The line rises from about $51,000 in 1980 to nearly $90,000 in 2025, with fluctuations along the way. A red upward arrow highlights “TRUMP $87,500.”",
+      "url": "https://www.trumpstruth.org/statuses/41815",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 20, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41815",
+        "pubDate": "Sun, 20 Sep 2026 19:52:22 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41815",
+        "isoDate": "2026-09-20T19:52:22.000Z"
+      },
+      "imageDescribedAt": "2026-09-20T20:01:11.758Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18195/5776d00aa53867af-a2a6c9df7e3e.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -123,6 +213,35 @@
       "label": "neutral",
       "rationale": "The text is empty and expresses no sentiment.",
       "analyzedAt": "2026-09-20T16:04:27.866Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41814",
+      "label": "negative",
+      "rationale": "Uses garbage bags labeled with major news organizations to express hostility and contempt toward them.",
+      "analyzedAt": "2026-09-20T20:01:24.515Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41815",
+      "label": "positive",
+      "rationale": "Highlights record-high household income and attributes the favorable result to Trump.",
+      "analyzedAt": "2026-09-20T20:01:24.515Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41816",
+      "label": "positive",
+      "rationale": "Presents Trump-era price changes as substantially better than Biden-era changes, favorably portraying Trump.",
+      "analyzedAt": "2026-09-20T20:01:24.515Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41817",
+      "label": "positive",
+      "rationale": "Celebrates a claimed record-low poverty rate and credits Donald Trump.",
+      "analyzedAt": "2026-09-20T20:01:24.515Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41817",
+    "https://www.trumpstruth.org/statuses/41816",
+    "https://www.trumpstruth.org/statuses/41815"
   ]
 }

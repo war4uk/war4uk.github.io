@@ -504,7 +504,7 @@
       ],
       "postsCount": 5,
       "hasDetail": true,
-      "generatedAt": "2026-09-20T16:04:21.372Z",
+      "generatedAt": "2026-09-20T20:01:04.830Z",
       "trendingTopic": "Trump defends artificial intelligence growth and announces an AI Force with a future AI czar",
       "secondaryHighlights": [
         {
@@ -519,41 +519,46 @@
     {
       "date": "2026-09-20",
       "counts": {
-        "positive": 2,
+        "positive": 5,
         "neutral": 2,
-        "negative": 0
+        "negative": 1
       },
-      "summary": "positive:2 neutral:2 negative:0",
+      "summary": "positive:5 neutral:2 negative:1",
       "topics": [
-        "Plans to convert Arlington’s triumphal arch into a military drone and sniper complex",
-        "Changes Supreme Intelligence contest by removing the leading qualifier and opening a final vote",
-        "Praises Matthew Continetti’s interview with Mark Levin about the AI disaster hoax"
+        "Trump touts record-low poverty, record-high household income, and slower price increases",
+        "Trump announces converting Washington’s planned triumphal arch into a military drone and sniper complex",
+        "Trump promotes Mark Levin interview addressing the alleged AI disaster hoax"
       ],
-      "postsCount": 4,
+      "postsCount": 8,
       "hasDetail": true,
-      "generatedAt": "2026-09-20T16:04:39.042Z",
-      "trendingTopic": "Trump plans to convert Arlington’s triumphal arch into a military drone and sniper complex",
+      "generatedAt": "2026-09-20T20:01:35.661Z",
+      "trendingTopic": "Trump touts record-low poverty, record-high household income, and slower price increases",
       "secondaryHighlights": [
         {
-          "topic": "Changes Supreme Intelligence contest by removing the leading qualifier and opening a final vote"
+          "topic": "Trump announces converting Washington’s planned triumphal arch into a military drone and sniper complex"
         },
         {
-          "topic": "Praises Matthew Continetti’s interview with Mark Levin about the AI disaster hoax",
-          "name": "Matthew Continetti"
+          "topic": "Trump promotes Mark Levin interview addressing the alleged AI disaster hoax"
+        },
+        {
+          "topic": "Trump removes “Supreme Intelligence” from a naming vote and asks followers to choose between two finalists"
         }
       ],
-      "selfPraiseCount": 0
+      "selfPraiseCount": 3
     }
   ],
-  "generatedAt": "2026-09-20T16:04:39.042Z",
-  "trendingTopic": "Trump portrays Iran as collapsing while defending military operations and discussing oil, weapons, and negotiations",
+  "generatedAt": "2026-09-20T20:01:35.661Z",
+  "trendingTopic": "Trump portrays Iran as collapsing while defending U.S. military pressure and control of Hormuz",
   "secondaryHighlights": [
     {
-      "topic": "Trump promotes U.S. AI infrastructure, leadership, and a proposed AI Force"
+      "topic": "Trump promotes major White House and Washington landmark construction and renovation projects"
     },
     {
-      "topic": "Trump showcases White House renovations, monumental projects, and military complexes"
+      "topic": "Trump endorses candidates and mobilizes Republicans for the midterm elections"
+    },
+    {
+      "topic": "Trump promotes U.S. artificial-intelligence expansion while rejecting warnings about an AI crisis"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:20:5b73e171b2151b5e7dc56e1b"
+  "topicsCacheKey": "month-themes-v5:20:c5bd395eca718bb8d0ee9ca5"
 }
