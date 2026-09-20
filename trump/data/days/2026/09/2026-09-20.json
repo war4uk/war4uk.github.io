@@ -2,24 +2,29 @@
   "date": "2026-09-20",
   "counts": {
     "positive": 2,
-    "neutral": 0,
+    "neutral": 2,
     "negative": 0
   },
-  "summary": "positive:2 neutral:0 negative:0",
-  "generatedAt": "2026-09-20T12:02:35.234Z",
+  "summary": "positive:2 neutral:2 negative:0",
+  "generatedAt": "2026-09-20T16:04:39.042Z",
   "topics": [
-    "Trump agrees to convert planned Arlington Memorial Bridge triumphal arch into military complex",
-    "Matthew Continetti interviews Mark Levin about the AI disaster hoax"
+    "Plans to convert Arlington’s triumphal arch into a military drone and sniper complex",
+    "Changes Supreme Intelligence contest by removing the leading qualifier and opening a final vote",
+    "Praises Matthew Continetti’s interview with Mark Levin about the AI disaster hoax"
   ],
-  "trendingTopic": "Trump agrees to convert planned Arlington Memorial Bridge triumphal arch into military complex",
+  "trendingTopic": "Trump plans to convert Arlington’s triumphal arch into a military drone and sniper complex",
   "secondaryHighlights": [
     {
-      "topic": "Matthew Continetti interviews Mark Levin about the AI disaster hoax"
+      "topic": "Changes Supreme Intelligence contest by removing the leading qualifier and opening a final vote"
+    },
+    {
+      "topic": "Praises Matthew Continetti’s interview with Mark Levin about the AI disaster hoax",
+      "name": "Matthew Continetti"
     }
   ],
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v11:2:868e08b628d753575d5be5e3",
-  "selfPraiseCacheKey": "self-praise-v2:2:868e08b628d753575d5be5e3",
+  "topicsCacheKey": "day-themes-v11:4:d322bf4c375b742e79ff36cd",
+  "selfPraiseCacheKey": "self-praise-v2:4:d322bf4c375b742e79ff36cd",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41810",
@@ -56,6 +61,42 @@
         "guid": "https://www.trumpstruth.org/statuses/41811",
         "isoDate": "2026-09-20T11:34:46.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41812",
+      "publishedAt": "2026-09-20T13:21:23.000Z",
+      "title": "“Supreme Intelligence,” probably because of its relationship to the Supreme Court, is losing badly to both “Superior” and “Extreme Intelligence.” Therefore, we are going to take “Supreme Intelligence” OUT, deleting it as a qualifier, and let you vote for the Final Two: Superior Intelligence, or Extreme Intelligence. A fresh Vote begins now! President DONALD J. TRUMP",
+      "text": "<p>“Supreme Intelligence,” probably because of its relationship to the Supreme Court, is losing badly to both “Superior” and “Extreme Intelligence.” Therefore, we are going to take “Supreme Intelligence” OUT, deleting it as a qualifier, and let you vote for the Final Two: Superior Intelligence, or Extreme Intelligence. A fresh Vote begins now! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41812",
+      "raw": {
+        "creator": "",
+        "title": "“Supreme Intelligence,” probably because of its relationship to the Supreme Court, is losing badly to both “Superior” and “Extreme Intelligence.” Therefore, we are going to take “Supreme Intelligence” OUT, deleting it as a qualifier, and let you vote for the Final Two: Superior Intelligence, or Extreme Intelligence. A fresh Vote begins now! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41812",
+        "pubDate": "Sun, 20 Sep 2026 13:21:23 +0000",
+        "author": "",
+        "content": "<p>“Supreme Intelligence,” probably because of its relationship to the Supreme Court, is losing badly to both “Superior” and “Extreme Intelligence.” Therefore, we are going to take “Supreme Intelligence” OUT, deleting it as a qualifier, and let you vote for the Final Two: Superior Intelligence, or Extreme Intelligence. A fresh Vote begins now! President DONALD J. TRUMP</p>",
+        "contentSnippet": "“Supreme Intelligence,” probably because of its relationship to the Supreme Court, is losing badly to both “Superior” and “Extreme Intelligence.” Therefore, we are going to take “Supreme Intelligence” OUT, deleting it as a qualifier, and let you vote for the Final Two: Superior Intelligence, or Extreme Intelligence. A fresh Vote begins now! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41812",
+        "isoDate": "2026-09-20T13:21:23.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41813",
+      "publishedAt": "2026-09-20T13:31:10.000Z",
+      "title": "[No Title] - Post from September 20, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41813",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 20, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41813",
+        "pubDate": "Sun, 20 Sep 2026 13:31:10 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41813",
+        "isoDate": "2026-09-20T13:31:10.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -70,6 +111,18 @@
       "label": "positive",
       "rationale": "The post enthusiastically promotes the proposed military complex and triumphal arch, using strongly approving and celebratory language.",
       "analyzedAt": "2026-09-20T12:02:24.856Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41812",
+      "label": "neutral",
+      "rationale": "The post neutrally announces the removal of one option and a new vote between two alternatives.",
+      "analyzedAt": "2026-09-20T16:04:27.866Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41813",
+      "label": "neutral",
+      "rationale": "The text is empty and expresses no sentiment.",
+      "analyzedAt": "2026-09-20T16:04:27.866Z"
     }
   ]
 }

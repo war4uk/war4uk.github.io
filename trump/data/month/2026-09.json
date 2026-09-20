@@ -504,7 +504,7 @@
       ],
       "postsCount": 5,
       "hasDetail": true,
-      "generatedAt": "2026-09-20T12:02:19.376Z",
+      "generatedAt": "2026-09-20T16:04:21.372Z",
       "trendingTopic": "Trump defends artificial intelligence growth and announces an AI Force with a future AI czar",
       "secondaryHighlights": [
         {
@@ -520,38 +520,40 @@
       "date": "2026-09-20",
       "counts": {
         "positive": 2,
-        "neutral": 0,
+        "neutral": 2,
         "negative": 0
       },
-      "summary": "positive:2 neutral:0 negative:0",
+      "summary": "positive:2 neutral:2 negative:0",
       "topics": [
-        "Trump agrees to convert planned Arlington Memorial Bridge triumphal arch into military complex",
-        "Matthew Continetti interviews Mark Levin about the AI disaster hoax"
+        "Plans to convert Arlington’s triumphal arch into a military drone and sniper complex",
+        "Changes Supreme Intelligence contest by removing the leading qualifier and opening a final vote",
+        "Praises Matthew Continetti’s interview with Mark Levin about the AI disaster hoax"
       ],
-      "postsCount": 2,
+      "postsCount": 4,
       "hasDetail": true,
-      "generatedAt": "2026-09-20T12:02:35.234Z",
-      "trendingTopic": "Trump agrees to convert planned Arlington Memorial Bridge triumphal arch into military complex",
+      "generatedAt": "2026-09-20T16:04:39.042Z",
+      "trendingTopic": "Trump plans to convert Arlington’s triumphal arch into a military drone and sniper complex",
       "secondaryHighlights": [
         {
-          "topic": "Matthew Continetti interviews Mark Levin about the AI disaster hoax"
+          "topic": "Changes Supreme Intelligence contest by removing the leading qualifier and opening a final vote"
+        },
+        {
+          "topic": "Praises Matthew Continetti’s interview with Mark Levin about the AI disaster hoax",
+          "name": "Matthew Continetti"
         }
       ],
       "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-20T12:02:35.234Z",
-  "trendingTopic": "Trump portrays Iran as collapsing while defending military action and pressure on its oil economy",
+  "generatedAt": "2026-09-20T16:04:39.042Z",
+  "trendingTopic": "Trump portrays Iran as collapsing while defending military operations and discussing oil, weapons, and negotiations",
   "secondaryHighlights": [
     {
-      "topic": "Trump drives a packed Dallas Republican convention and midterm rally"
+      "topic": "Trump promotes U.S. AI infrastructure, leadership, and a proposed AI Force"
     },
     {
-      "topic": "Trump defends U.S. artificial-intelligence expansion while announcing new AI initiatives"
-    },
-    {
-      "topic": "Trump-endorsed candidates win New Hampshire Republican primaries"
+      "topic": "Trump showcases White House renovations, monumental projects, and military complexes"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:20:1a324472601002340bc818a8"
+  "topicsCacheKey": "month-themes-v5:20:5b73e171b2151b5e7dc56e1b"
 }
