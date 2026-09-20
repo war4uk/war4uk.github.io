@@ -1,0 +1,248 @@
+:root {
+  --paper: #f3ead6;
+  --ink: #2c241c;
+  --muted: #6b5d4d;
+  --line: #cbb99a;
+  --gold: #c45c1a;
+  --gold-soft: #e8c48a;
+  --navy: #24384f;
+  --panel: #fff8ea;
+  --shadow: 0 10px 30px rgba(44, 36, 28, 0.12);
+  font-family: "Source Serif 4", "Iowan Old Style", Georgia, serif;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  background:
+    radial-gradient(1200px 500px at 10% -10%, #efe2c4, transparent 55%),
+    linear-gradient(180deg, #efe4cc 0%, #e4d5b5 100%);
+  color: var(--ink);
+  min-height: 100%;
+}
+
+.page {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 1.25rem 1.1rem 2.5rem;
+}
+
+header h1 {
+  margin: 0 0 0.25rem;
+  font-size: clamp(1.6rem, 3vw, 2.3rem);
+  letter-spacing: 0.01em;
+}
+
+header p.lede {
+  margin: 0;
+  color: var(--muted);
+  max-width: 70ch;
+  line-height: 1.45;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 320px minmax(0, 1fr);
+  gap: 1rem;
+  margin-top: 1.1rem;
+}
+
+.panel {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  box-shadow: var(--shadow);
+  padding: 0.9rem 1rem 1rem;
+}
+
+.controls { position: sticky; top: 0.7rem; }
+
+label, .lbl {
+  display: block;
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted);
+  font-weight: 700;
+  margin: 0.7rem 0 0.3rem;
+  font-family: "Source Sans 3", system-ui, sans-serif;
+}
+
+select, input[type="range"] {
+  width: 100%;
+}
+
+select, button {
+  font: inherit;
+  font-family: "Source Sans 3", system-ui, sans-serif;
+}
+
+select {
+  border: 1px solid #bba88a;
+  background: #fff;
+  border-radius: 8px;
+  padding: 0.45rem 0.55rem;
+}
+
+.row-inline {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.num {
+  font-variant-numeric: tabular-nums;
+  font-weight: 700;
+}
+
+.regions {
+  display: grid;
+  gap: 0.28rem;
+}
+
+.regions label.chk {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  text-transform: none;
+  letter-spacing: 0;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--ink);
+  margin: 0;
+  font-family: inherit;
+}
+
+.regions input { accent-color: var(--gold); }
+
+.modes {
+  display: grid;
+  gap: 0.35rem;
+}
+
+.modes label.chk {
+  display: flex;
+  gap: 0.5rem;
+  align-items: flex-start;
+  text-transform: none;
+  letter-spacing: 0;
+  font-size: 0.92rem;
+  font-weight: 600;
+  margin: 0;
+  color: var(--ink);
+  font-family: inherit;
+}
+
+.hint {
+  font-size: 0.85rem;
+  color: var(--muted);
+  line-height: 1.4;
+  margin: 0.35rem 0 0;
+}
+
+.year-note {
+  font-size: 0.88rem;
+  color: var(--navy);
+  background: #efe4cc;
+  border-radius: 8px;
+  padding: 0.5rem 0.6rem;
+  margin-top: 0.55rem;
+}
+
+.map-wrap {
+  overflow: auto;
+}
+
+svg#board {
+  width: 100%;
+  height: auto;
+  display: block;
+  background: #e7dcc4;
+  border-radius: 12px;
+}
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.6rem;
+  margin-bottom: 0.8rem;
+}
+
+.stat {
+  background: #2c241c;
+  color: #f3ead6;
+  border-radius: 12px;
+  padding: 0.7rem 0.8rem;
+}
+
+.stat b {
+  display: block;
+  font-size: 1.45rem;
+  line-height: 1.1;
+  color: #f1c453;
+}
+
+.stat span {
+  font-size: 0.78rem;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  opacity: 0.8;
+  font-family: "Source Sans 3", system-ui, sans-serif;
+}
+
+.results {
+  display: grid;
+  grid-template-columns: 1.1fr 0.9fr;
+  gap: 0.8rem;
+  margin-top: 0.8rem;
+}
+
+.ticket-list, .route-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.35rem;
+}
+
+.ticket-list li, .route-list li {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 0.45rem;
+  align-items: center;
+  padding: 0.4rem 0.5rem;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  font-family: "Source Sans 3", system-ui, sans-serif;
+  font-size: 0.92rem;
+}
+
+.badge {
+  font-size: 0.72rem;
+  font-weight: 700;
+  background: #efe4cc;
+  padding: 0.12rem 0.35rem;
+  border-radius: 999px;
+}
+
+.money { font-weight: 800; color: var(--gold); }
+
+h2 {
+  font-size: 1.05rem;
+  margin: 0 0 0.45rem;
+}
+
+footer.fine {
+  margin-top: 1rem;
+  font-size: 0.8rem;
+  color: var(--muted);
+  line-height: 1.45;
+}
+
+@media (max-width: 980px) {
+  .layout, .results, .stats { grid-template-columns: 1fr; }
+  .controls { position: static; }
+}
