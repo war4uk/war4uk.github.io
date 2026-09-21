@@ -520,45 +520,59 @@
       "date": "2026-09-20",
       "counts": {
         "positive": 5,
-        "neutral": 2,
+        "neutral": 3,
         "negative": 1
       },
-      "summary": "positive:5 neutral:2 negative:1",
+      "summary": "positive:5 neutral:3 negative:1",
       "topics": [
-        "Trump touts record-low poverty, record-high household income, and slower price increases",
-        "Trump announces converting Washington’s planned triumphal arch into a military drone and sniper complex",
-        "Trump promotes Mark Levin interview addressing the alleged AI disaster hoax"
+        "Trump touts record-low poverty, record household income, and lower inflation compared with Biden",
+        "Trump converts Washington’s planned triumphal arch into a military drone and sniper complex",
+        "Trump removes “Supreme Intelligence” from a naming poll and opens a final vote"
       ],
-      "postsCount": 8,
+      "postsCount": 9,
       "hasDetail": true,
-      "generatedAt": "2026-09-20T20:01:35.661Z",
-      "trendingTopic": "Trump touts record-low poverty, record-high household income, and slower price increases",
+      "generatedAt": "2026-09-21T00:01:30.170Z",
+      "trendingTopic": "Trump touts record-low poverty, record household income, and lower inflation compared with Biden",
       "secondaryHighlights": [
         {
-          "topic": "Trump announces converting Washington’s planned triumphal arch into a military drone and sniper complex"
+          "topic": "Trump converts Washington’s planned triumphal arch into a military drone and sniper complex"
         },
         {
-          "topic": "Trump promotes Mark Levin interview addressing the alleged AI disaster hoax"
+          "topic": "Trump removes “Supreme Intelligence” from a naming poll and opens a final vote"
         },
         {
-          "topic": "Trump removes “Supreme Intelligence” from a naming vote and asks followers to choose between two finalists"
+          "topic": "Trump attacks CNN, MSNBC, and Politico in a White House garbage-bag image"
         }
       ],
-      "selfPraiseCount": 3
+      "selfPraiseCount": 5
+    },
+    {
+      "date": "2026-09-21",
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "positive:0 neutral:0 negative:0",
+      "topics": [],
+      "postsCount": 0,
+      "hasDetail": true,
+      "generatedAt": "2026-09-21T00:01:15.616Z",
+      "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-20T20:01:35.661Z",
-  "trendingTopic": "Trump portrays Iran as collapsing while defending U.S. military pressure and control of Hormuz",
+  "generatedAt": "2026-09-21T00:01:30.170Z",
+  "trendingTopic": "Trump reshapes Washington landmarks with White House renovations, patriotic renamings, and military complexes",
   "secondaryHighlights": [
     {
-      "topic": "Trump promotes major White House and Washington landmark construction and renovation projects"
+      "topic": "Trump touts lower poverty, stronger incomes, and economic growth while demanding lower interest rates"
     },
     {
-      "topic": "Trump endorses candidates and mobilizes Republicans for the midterm elections"
+      "topic": "Trump expands U.S. artificial-intelligence infrastructure and announces an AI Force"
     },
     {
-      "topic": "Trump promotes U.S. artificial-intelligence expansion while rejecting warnings about an AI crisis"
+      "topic": "Trump attacks media outlets, courts, and alleged investigative abuses across multiple disputes"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:20:c5bd395eca718bb8d0ee9ca5"
+  "topicsCacheKey": "month-themes-v5:20:d9b86cc1e0969db3f110f058"
 }

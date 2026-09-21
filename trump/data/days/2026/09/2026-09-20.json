@@ -2,31 +2,38 @@
   "date": "2026-09-20",
   "counts": {
     "positive": 5,
-    "neutral": 2,
+    "neutral": 3,
     "negative": 1
   },
-  "summary": "positive:5 neutral:2 negative:1",
-  "generatedAt": "2026-09-20T20:01:35.661Z",
+  "summary": "positive:5 neutral:3 negative:1",
+  "generatedAt": "2026-09-21T00:01:30.170Z",
   "topics": [
-    "Trump touts record-low poverty, record-high household income, and slower price increases",
-    "Trump announces converting Washington’s planned triumphal arch into a military drone and sniper complex",
-    "Trump promotes Mark Levin interview addressing the alleged AI disaster hoax"
+    "Trump touts record-low poverty, record household income, and lower inflation compared with Biden",
+    "Trump converts Washington’s planned triumphal arch into a military drone and sniper complex",
+    "Trump removes “Supreme Intelligence” from a naming poll and opens a final vote"
   ],
-  "trendingTopic": "Trump touts record-low poverty, record-high household income, and slower price increases",
+  "trendingTopic": "Trump touts record-low poverty, record household income, and lower inflation compared with Biden",
   "secondaryHighlights": [
     {
-      "topic": "Trump announces converting Washington’s planned triumphal arch into a military drone and sniper complex"
+      "topic": "Trump converts Washington’s planned triumphal arch into a military drone and sniper complex"
     },
     {
-      "topic": "Trump promotes Mark Levin interview addressing the alleged AI disaster hoax"
+      "topic": "Trump removes “Supreme Intelligence” from a naming poll and opens a final vote"
     },
     {
-      "topic": "Trump removes “Supreme Intelligence” from a naming vote and asks followers to choose between two finalists"
+      "topic": "Trump attacks CNN, MSNBC, and Politico in a White House garbage-bag image"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v11:8:d0124c685f2c8569165a6ce8",
-  "selfPraiseCacheKey": "self-praise-v2:8:d0124c685f2c8569165a6ce8",
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v11:9:22a34ccb8a5fcca0f1f9ad35",
+  "selfPraiseCacheKey": "self-praise-v2:9:22a34ccb8a5fcca0f1f9ad35",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41811",
+    "https://www.trumpstruth.org/statuses/41817",
+    "https://www.trumpstruth.org/statuses/41816",
+    "https://www.trumpstruth.org/statuses/41815",
+    "https://www.trumpstruth.org/statuses/41818"
+  ],
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41810",
@@ -187,6 +194,28 @@
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18195/5776d00aa53867af-a2a6c9df7e3e.jpg"
       ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41818",
+      "publishedAt": "2026-09-20T21:37:59.000Z",
+      "title": "[No Title] - Post from September 20, 2026",
+      "text": "[Image] A graphic titled “His Hemisphere” shows a black-and-white close-up of Donald Trump behind a large globe. The globe prominently displays the Arctic region, including Greenland, Canada, the North Atlantic, and surrounding geographic labels. Pink and red concentric shapes form the background behind the image.",
+      "url": "https://www.trumpstruth.org/statuses/41818",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 20, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41818",
+        "pubDate": "Sun, 20 Sep 2026 21:37:59 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41818",
+        "isoDate": "2026-09-20T21:37:59.000Z"
+      },
+      "imageDescribedAt": "2026-09-21T00:01:11.597Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18198/bc78c6131ec38d8e-5352dd9fdf2a.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -237,11 +266,12 @@
       "label": "positive",
       "rationale": "Celebrates a claimed record-low poverty rate and credits Donald Trump.",
       "analyzedAt": "2026-09-20T20:01:24.515Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41818",
+      "label": "neutral",
+      "rationale": "The description presents a graphic featuring Donald Trump and a globe but does not express clear positive or negative sentiment.",
+      "analyzedAt": "2026-09-21T00:01:13.194Z"
     }
-  ],
-  "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/41817",
-    "https://www.trumpstruth.org/statuses/41816",
-    "https://www.trumpstruth.org/statuses/41815"
   ]
 }
