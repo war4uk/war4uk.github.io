@@ -1,24 +1,36 @@
 {
   "date": "2026-09-21",
   "counts": {
-    "positive": 1,
-    "neutral": 0,
-    "negative": 1
+    "positive": 2,
+    "neutral": 2,
+    "negative": 3
   },
-  "summary": "positive:1 neutral:0 negative:1",
-  "generatedAt": "2026-09-21T04:04:52.236Z",
+  "summary": "positive:2 neutral:2 negative:3",
+  "generatedAt": "2026-09-21T08:03:30.347Z",
   "topics": [
-    "Claims gas and consumer prices were higher under Biden than during Trump’s presidency",
-    "Plays golf with Bryson DeChambeau"
+    "Donald Trump plays golf with Bryson DeChambeau",
+    "Trump touts lower gas and consumer prices compared with Biden",
+    "Prosecutors examine John Brennan's role in the Trump-Russia collusion narrative"
   ],
-  "trendingTopic": "Donald Trump claims gas and consumer prices were higher under Biden than during his presidency",
+  "trendingTopic": "Donald Trump plays golf with Bryson DeChambeau",
   "secondaryHighlights": [
     {
-      "topic": "Plays golf with Bryson DeChambeau",
-      "name": "Bryson DeChambeau"
+      "topic": "Trump touts lower gas and consumer prices compared with Biden"
+    },
+    {
+      "topic": "Prosecutors examine John Brennan's role in the Trump-Russia collusion narrative",
+      "name": "John Brennan"
+    },
+    {
+      "topic": "Trump seeks to fix Kennedy Center disrepair and safety hazards exposed by Biden-era inspections"
     }
   ],
   "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v11:7:29c42d8d6175d7c22dc8be39",
+  "selfPraiseCacheKey": "self-praise-v2:7:29c42d8d6175d7c22dc8be39",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41820"
+  ],
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41819",
@@ -55,6 +67,96 @@
         "guid": "https://www.trumpstruth.org/statuses/41820",
         "isoDate": "2026-09-21T02:02:54.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41823",
+      "publishedAt": "2026-09-21T04:57:41.000Z",
+      "title": "Prosecutors zero in on John Brennan’s role in Trump-Russia collusion narrative in conspiracy case:",
+      "text": "<p>Prosecutors zero in on John Brennan’s role in Trump-Russia collusion narrative in conspiracy case: <a href=\"https://justthenews.com/government/courts-law/prosecutors-zero-john-brennans-role-trump-russia-collusion-narrative\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/cou</span><span class=\"invisible\">rts-law/prosecutors-zero-john-brennans-role-trump-russia-collusion-narrative</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41823",
+      "raw": {
+        "creator": "",
+        "title": "Prosecutors zero in on John Brennan’s role in Trump-Russia collusion narrative in conspiracy case:",
+        "link": "https://www.trumpstruth.org/statuses/41823",
+        "pubDate": "Mon, 21 Sep 2026 04:57:41 +0000",
+        "author": "",
+        "content": "<p>Prosecutors zero in on John Brennan’s role in Trump-Russia collusion narrative in conspiracy case: <a href=\"https://justthenews.com/government/courts-law/prosecutors-zero-john-brennans-role-trump-russia-collusion-narrative\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/cou</span><span class=\"invisible\">rts-law/prosecutors-zero-john-brennans-role-trump-russia-collusion-narrative</span></a></p>",
+        "contentSnippet": "Prosecutors zero in on John Brennan’s role in Trump-Russia collusion narrative in conspiracy case: https://justthenews.com/government/courts-law/prosecutors-zero-john-brennans-role-trump-russia-collusion-narrative",
+        "guid": "https://www.trumpstruth.org/statuses/41823",
+        "isoDate": "2026-09-21T04:57:41.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41822",
+      "publishedAt": "2026-09-21T04:58:20.000Z",
+      "title": "Biden-era inspection reports expose Kennedy Center disrepair, safety hazards that Trump seeks to fix:",
+      "text": "<p>Biden-era inspection reports expose Kennedy Center disrepair, safety hazards that Trump seeks to fix: <a href=\"https://justthenews.com/politics-policy/all-things-trump/biden-era-inspections-exposed-kennedy-center-disrepair-safety\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/all-things-trump/biden-era-inspections-exposed-kennedy-center-disrepair-safety</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41822",
+      "raw": {
+        "creator": "",
+        "title": "Biden-era inspection reports expose Kennedy Center disrepair, safety hazards that Trump seeks to fix:",
+        "link": "https://www.trumpstruth.org/statuses/41822",
+        "pubDate": "Mon, 21 Sep 2026 04:58:20 +0000",
+        "author": "",
+        "content": "<p>Biden-era inspection reports expose Kennedy Center disrepair, safety hazards that Trump seeks to fix: <a href=\"https://justthenews.com/politics-policy/all-things-trump/biden-era-inspections-exposed-kennedy-center-disrepair-safety\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/all-things-trump/biden-era-inspections-exposed-kennedy-center-disrepair-safety</span></a></p>",
+        "contentSnippet": "Biden-era inspection reports expose Kennedy Center disrepair, safety hazards that Trump seeks to fix: https://justthenews.com/politics-policy/all-things-trump/biden-era-inspections-exposed-kennedy-center-disrepair-safety",
+        "guid": "https://www.trumpstruth.org/statuses/41822",
+        "isoDate": "2026-09-21T04:58:20.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41821",
+      "publishedAt": "2026-09-21T04:59:03.000Z",
+      "title": "Trump bans CNN, MSNOW, and Politico from White House:",
+      "text": "<p>Trump bans CNN, MSNOW, and Politico from White House: <a href=\"https://justthenews.com/politics-policy/all-things-trump/trump-bans-cnn-msnow-and-politico-white-house\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/all-things-trump/trump-bans-cnn-msnow-and-politico-white-house</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41821",
+      "raw": {
+        "creator": "",
+        "title": "Trump bans CNN, MSNOW, and Politico from White House:",
+        "link": "https://www.trumpstruth.org/statuses/41821",
+        "pubDate": "Mon, 21 Sep 2026 04:59:03 +0000",
+        "author": "",
+        "content": "<p>Trump bans CNN, MSNOW, and Politico from White House: <a href=\"https://justthenews.com/politics-policy/all-things-trump/trump-bans-cnn-msnow-and-politico-white-house\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/all-things-trump/trump-bans-cnn-msnow-and-politico-white-house</span></a></p>",
+        "contentSnippet": "Trump bans CNN, MSNOW, and Politico from White House: https://justthenews.com/politics-policy/all-things-trump/trump-bans-cnn-msnow-and-politico-white-house",
+        "guid": "https://www.trumpstruth.org/statuses/41821",
+        "isoDate": "2026-09-21T04:59:03.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41825",
+      "publishedAt": "2026-09-21T05:06:28.000Z",
+      "title": "[No Title] - Post from September 21, 2026",
+      "text": "<p><a href=\"https://truthsocial.com/@realDonaldTrump/117304284426928910\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@realDonaldTru</span><span class=\"invisible\">mp/117304284426928910</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41825",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 21, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41825",
+        "pubDate": "Mon, 21 Sep 2026 05:06:28 +0000",
+        "author": "",
+        "content": "<p><a href=\"https://truthsocial.com/@realDonaldTrump/117304284426928910\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@realDonaldTru</span><span class=\"invisible\">mp/117304284426928910</span></a></p>",
+        "contentSnippet": "https://truthsocial.com/@realDonaldTrump/117304284426928910",
+        "guid": "https://www.trumpstruth.org/statuses/41825",
+        "isoDate": "2026-09-21T05:06:28.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41824",
+      "publishedAt": "2026-09-21T05:07:05.000Z",
+      "title": "[No Title] - Post from September 21, 2026",
+      "text": "<p><a href=\"https://truthsocial.com/@breitbartnews/117305295296594991\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@breitbartnews</span><span class=\"invisible\">/117305295296594991</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41824",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 21, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41824",
+        "pubDate": "Mon, 21 Sep 2026 05:07:05 +0000",
+        "author": "",
+        "content": "<p><a href=\"https://truthsocial.com/@breitbartnews/117305295296594991\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@breitbartnews</span><span class=\"invisible\">/117305295296594991</span></a></p>",
+        "contentSnippet": "https://truthsocial.com/@breitbartnews/117305295296594991",
+        "guid": "https://www.trumpstruth.org/statuses/41824",
+        "isoDate": "2026-09-21T05:07:05.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -69,11 +171,37 @@
       "label": "negative",
       "rationale": "Criticizes the Biden administration by claiming prices, including gas, were much higher under Biden.",
       "analyzedAt": "2026-09-21T04:04:43.143Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41821",
+      "label": "negative",
+      "rationale": "Describes Trump banning news organizations from the White House, framing the action as restrictive.",
+      "analyzedAt": "2026-09-21T08:03:16.139Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41822",
+      "label": "positive",
+      "rationale": "Highlights disrepair and safety hazards but presents Trump positively as seeking to fix them.",
+      "analyzedAt": "2026-09-21T08:03:16.139Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41823",
+      "label": "negative",
+      "rationale": "Uses allegations of conspiracy and collusion, creating a negative framing around the subject.",
+      "analyzedAt": "2026-09-21T08:03:16.139Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41824",
+      "label": "neutral",
+      "rationale": "Contains only a link without evaluative or emotional language.",
+      "analyzedAt": "2026-09-21T08:03:16.139Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41825",
+      "label": "neutral",
+      "rationale": "Contains only a link without evaluative or emotional language.",
+      "analyzedAt": "2026-09-21T08:03:16.139Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v11:2:8ab735fc02eeac6f62b93081",
-  "selfPraiseCacheKey": "self-praise-v2:2:8ab735fc02eeac6f62b93081",
-  "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/41820"
-  ]
+  "trendingName": "Bryson DeChambeau"
 }

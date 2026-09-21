@@ -531,7 +531,7 @@
       ],
       "postsCount": 9,
       "hasDetail": true,
-      "generatedAt": "2026-09-21T04:04:37.193Z",
+      "generatedAt": "2026-09-21T08:03:07.394Z",
       "trendingTopic": "Trump touts record-low poverty, record household income, and lower inflation compared with Biden",
       "secondaryHighlights": [
         {
@@ -549,40 +549,48 @@
     {
       "date": "2026-09-21",
       "counts": {
-        "positive": 1,
-        "neutral": 0,
-        "negative": 1
+        "positive": 2,
+        "neutral": 2,
+        "negative": 3
       },
-      "summary": "positive:1 neutral:0 negative:1",
+      "summary": "positive:2 neutral:2 negative:3",
       "topics": [
-        "Claims gas and consumer prices were higher under Biden than during Trump’s presidency",
-        "Plays golf with Bryson DeChambeau"
+        "Donald Trump plays golf with Bryson DeChambeau",
+        "Trump touts lower gas and consumer prices compared with Biden",
+        "Prosecutors examine John Brennan's role in the Trump-Russia collusion narrative"
       ],
-      "postsCount": 2,
+      "postsCount": 7,
       "hasDetail": true,
-      "generatedAt": "2026-09-21T04:04:52.236Z",
-      "trendingTopic": "Donald Trump claims gas and consumer prices were higher under Biden than during his presidency",
+      "generatedAt": "2026-09-21T08:03:30.347Z",
+      "trendingTopic": "Donald Trump plays golf with Bryson DeChambeau",
+      "trendingName": "Bryson DeChambeau",
       "secondaryHighlights": [
         {
-          "topic": "Plays golf with Bryson DeChambeau",
-          "name": "Bryson DeChambeau"
+          "topic": "Trump touts lower gas and consumer prices compared with Biden"
+        },
+        {
+          "topic": "Prosecutors examine John Brennan's role in the Trump-Russia collusion narrative",
+          "name": "John Brennan"
+        },
+        {
+          "topic": "Trump seeks to fix Kennedy Center disrepair and safety hazards exposed by Biden-era inspections"
         }
       ],
       "selfPraiseCount": 1
     }
   ],
-  "generatedAt": "2026-09-21T04:04:52.236Z",
-  "trendingTopic": "Portrays Iran as collapsing while defending the U.S. military campaign and its oil pressure",
+  "generatedAt": "2026-09-21T08:03:30.347Z",
+  "trendingTopic": "Trump portrays Iran as collapsing while defending military operations and pressuring its economy",
   "secondaryHighlights": [
     {
-      "topic": "Defends AI expansion and creates an AI Force with a future AI czar"
+      "topic": "Trump touts stronger incomes, jobs, lower prices, and economic gains"
     },
     {
-      "topic": "Attacks CNN, MSNBC, Politico, and Supreme Court rulings"
+      "topic": "Trump endorses candidates and rallies Republicans ahead of the midterms"
     },
     {
-      "topic": "Promotes conservative books and commentary from Victor Davis Hanson, Brian Pannebecker, Charles Payne, and Phil Flynn"
+      "topic": "Trump promotes White House renovations and monumental construction projects"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:21:8756b8852eb2d338747c0662"
+  "topicsCacheKey": "month-themes-v5:21:5d9b0316d8279082520f26dd"
 }
