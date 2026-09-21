@@ -531,7 +531,7 @@
       ],
       "postsCount": 9,
       "hasDetail": true,
-      "generatedAt": "2026-09-21T00:01:30.170Z",
+      "generatedAt": "2026-09-21T04:04:37.193Z",
       "trendingTopic": "Trump touts record-low poverty, record household income, and lower inflation compared with Biden",
       "secondaryHighlights": [
         {
@@ -549,30 +549,40 @@
     {
       "date": "2026-09-21",
       "counts": {
-        "positive": 0,
+        "positive": 1,
         "neutral": 0,
-        "negative": 0
+        "negative": 1
       },
-      "summary": "positive:0 neutral:0 negative:0",
-      "topics": [],
-      "postsCount": 0,
+      "summary": "positive:1 neutral:0 negative:1",
+      "topics": [
+        "Claims gas and consumer prices were higher under Biden than during Trump’s presidency",
+        "Plays golf with Bryson DeChambeau"
+      ],
+      "postsCount": 2,
       "hasDetail": true,
-      "generatedAt": "2026-09-21T00:01:15.616Z",
-      "selfPraiseCount": 0
+      "generatedAt": "2026-09-21T04:04:52.236Z",
+      "trendingTopic": "Donald Trump claims gas and consumer prices were higher under Biden than during his presidency",
+      "secondaryHighlights": [
+        {
+          "topic": "Plays golf with Bryson DeChambeau",
+          "name": "Bryson DeChambeau"
+        }
+      ],
+      "selfPraiseCount": 1
     }
   ],
-  "generatedAt": "2026-09-21T00:01:30.170Z",
-  "trendingTopic": "Trump reshapes Washington landmarks with White House renovations, patriotic renamings, and military complexes",
+  "generatedAt": "2026-09-21T04:04:52.236Z",
+  "trendingTopic": "Portrays Iran as collapsing while defending the U.S. military campaign and its oil pressure",
   "secondaryHighlights": [
     {
-      "topic": "Trump touts lower poverty, stronger incomes, and economic growth while demanding lower interest rates"
+      "topic": "Defends AI expansion and creates an AI Force with a future AI czar"
     },
     {
-      "topic": "Trump expands U.S. artificial-intelligence infrastructure and announces an AI Force"
+      "topic": "Attacks CNN, MSNBC, Politico, and Supreme Court rulings"
     },
     {
-      "topic": "Trump attacks media outlets, courts, and alleged investigative abuses across multiple disputes"
+      "topic": "Promotes conservative books and commentary from Victor Davis Hanson, Brian Pannebecker, Charles Payne, and Phil Flynn"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:20:d9b86cc1e0969db3f110f058"
+  "topicsCacheKey": "month-themes-v5:21:8756b8852eb2d338747c0662"
 }

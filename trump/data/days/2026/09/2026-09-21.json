@@ -1,14 +1,79 @@
 {
   "date": "2026-09-21",
   "counts": {
-    "positive": 0,
+    "positive": 1,
     "neutral": 0,
-    "negative": 0
+    "negative": 1
   },
-  "summary": "positive:0 neutral:0 negative:0",
-  "generatedAt": "2026-09-21T00:01:15.616Z",
-  "topics": [],
-  "selfPraiseCount": 0,
-  "posts": [],
-  "sentiments": []
+  "summary": "positive:1 neutral:0 negative:1",
+  "generatedAt": "2026-09-21T04:04:52.236Z",
+  "topics": [
+    "Claims gas and consumer prices were higher under Biden than during Trump’s presidency",
+    "Plays golf with Bryson DeChambeau"
+  ],
+  "trendingTopic": "Donald Trump claims gas and consumer prices were higher under Biden than during his presidency",
+  "secondaryHighlights": [
+    {
+      "topic": "Plays golf with Bryson DeChambeau",
+      "name": "Bryson DeChambeau"
+    }
+  ],
+  "selfPraiseCount": 1,
+  "posts": [
+    {
+      "id": "https://www.trumpstruth.org/statuses/41819",
+      "publishedAt": "2026-09-21T01:05:32.000Z",
+      "title": "Hitting balls with Bryson D.",
+      "text": "<p>Hitting balls with Bryson D.</p>",
+      "url": "https://www.trumpstruth.org/statuses/41819",
+      "raw": {
+        "creator": "",
+        "title": "Hitting balls with Bryson D.",
+        "link": "https://www.trumpstruth.org/statuses/41819",
+        "pubDate": "Mon, 21 Sep 2026 01:05:32 +0000",
+        "author": "",
+        "content": "<p>Hitting balls with Bryson D.</p>",
+        "contentSnippet": "Hitting balls with Bryson D.",
+        "guid": "https://www.trumpstruth.org/statuses/41819",
+        "isoDate": "2026-09-21T01:05:32.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41820",
+      "publishedAt": "2026-09-21T02:02:54.000Z",
+      "title": "Gas prices were much higher under Biden than under “TRUMP.” So were almost all other prices. President DJT",
+      "text": "<p>Gas prices were much higher under Biden than under “TRUMP.” So were almost all other prices. President DJT</p>",
+      "url": "https://www.trumpstruth.org/statuses/41820",
+      "raw": {
+        "creator": "",
+        "title": "Gas prices were much higher under Biden than under “TRUMP.” So were almost all other prices. President DJT",
+        "link": "https://www.trumpstruth.org/statuses/41820",
+        "pubDate": "Mon, 21 Sep 2026 02:02:54 +0000",
+        "author": "",
+        "content": "<p>Gas prices were much higher under Biden than under “TRUMP.” So were almost all other prices. President DJT</p>",
+        "contentSnippet": "Gas prices were much higher under Biden than under “TRUMP.” So were almost all other prices. President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/41820",
+        "isoDate": "2026-09-21T02:02:54.000Z"
+      }
+    }
+  ],
+  "sentiments": [
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41819",
+      "label": "positive",
+      "rationale": "Describes an enjoyable recreational activity with Bryson D.",
+      "analyzedAt": "2026-09-21T04:04:43.143Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41820",
+      "label": "negative",
+      "rationale": "Criticizes the Biden administration by claiming prices, including gas, were much higher under Biden.",
+      "analyzedAt": "2026-09-21T04:04:43.143Z"
+    }
+  ],
+  "topicsCacheKey": "day-themes-v11:2:8ab735fc02eeac6f62b93081",
+  "selfPraiseCacheKey": "self-praise-v2:2:8ab735fc02eeac6f62b93081",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41820"
+  ]
 }
