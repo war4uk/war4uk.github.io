@@ -531,7 +531,7 @@
       ],
       "postsCount": 9,
       "hasDetail": true,
-      "generatedAt": "2026-09-21T08:03:07.394Z",
+      "generatedAt": "2026-09-21T12:00:54.739Z",
       "trendingTopic": "Trump touts record-low poverty, record household income, and lower inflation compared with Biden",
       "secondaryHighlights": [
         {
@@ -551,46 +551,42 @@
       "counts": {
         "positive": 2,
         "neutral": 2,
-        "negative": 3
+        "negative": 4
       },
-      "summary": "positive:2 neutral:2 negative:3",
+      "summary": "positive:2 neutral:2 negative:4",
       "topics": [
-        "Donald Trump plays golf with Bryson DeChambeau",
-        "Trump touts lower gas and consumer prices compared with Biden",
-        "Prosecutors examine John Brennan's role in the Trump-Russia collusion narrative"
+        "Trump bans CNN, MSNOW, and Politico from the White House while defending the move as a fight against fake news",
+        "Prosecutors examine John Brennan’s role in the Trump-Russia collusion narrative",
+        "Trump highlights Biden-era disrepair and safety hazards at the Kennedy Center"
       ],
-      "postsCount": 7,
+      "postsCount": 8,
       "hasDetail": true,
-      "generatedAt": "2026-09-21T08:03:30.347Z",
-      "trendingTopic": "Donald Trump plays golf with Bryson DeChambeau",
-      "trendingName": "Bryson DeChambeau",
+      "generatedAt": "2026-09-21T12:01:14.406Z",
+      "trendingTopic": "Trump bans CNN, MSNOW, and Politico from the White House while defending the move as a fight against fake news",
       "secondaryHighlights": [
         {
-          "topic": "Trump touts lower gas and consumer prices compared with Biden"
-        },
-        {
-          "topic": "Prosecutors examine John Brennan's role in the Trump-Russia collusion narrative",
+          "topic": "Prosecutors examine John Brennan’s role in the Trump-Russia collusion narrative",
           "name": "John Brennan"
         },
         {
-          "topic": "Trump seeks to fix Kennedy Center disrepair and safety hazards exposed by Biden-era inspections"
+          "topic": "Trump highlights Biden-era disrepair and safety hazards at the Kennedy Center"
+        },
+        {
+          "topic": "Trump says gas and other prices were higher under Biden"
         }
       ],
       "selfPraiseCount": 1
     }
   ],
-  "generatedAt": "2026-09-21T08:03:30.347Z",
-  "trendingTopic": "Trump portrays Iran as collapsing while defending military operations and pressuring its economy",
+  "generatedAt": "2026-09-21T12:01:14.406Z",
+  "trendingTopic": "Wages war on Iran while claiming its economy, oil exports, and strategic sites are collapsing",
   "secondaryHighlights": [
     {
-      "topic": "Trump touts stronger incomes, jobs, lower prices, and economic gains"
+      "topic": "Bans CNN, MS NOW, and Politico from the White House over alleged fake news"
     },
     {
-      "topic": "Trump endorses candidates and rallies Republicans ahead of the midterms"
-    },
-    {
-      "topic": "Trump promotes White House renovations and monumental construction projects"
+      "topic": "Defends AI expansion and promotes U.S. data-center leadership through a new AI Force"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:21:5d9b0316d8279082520f26dd"
+  "topicsCacheKey": "month-themes-v5:21:7d137f67e680f7db9e8bddbe"
 }
