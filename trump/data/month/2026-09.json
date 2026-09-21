@@ -531,7 +531,7 @@
       ],
       "postsCount": 9,
       "hasDetail": true,
-      "generatedAt": "2026-09-21T12:00:54.739Z",
+      "generatedAt": "2026-09-21T16:01:51.004Z",
       "trendingTopic": "Trump touts record-low poverty, record household income, and lower inflation compared with Biden",
       "secondaryHighlights": [
         {
@@ -549,44 +549,46 @@
     {
       "date": "2026-09-21",
       "counts": {
-        "positive": 2,
-        "neutral": 2,
-        "negative": 4
+        "positive": 4,
+        "neutral": 3,
+        "negative": 5
       },
-      "summary": "positive:2 neutral:2 negative:4",
+      "summary": "positive:4 neutral:3 negative:5",
       "topics": [
         "Trump bans CNN, MSNOW, and Politico from the White House while defending the move as a fight against fake news",
-        "Prosecutors examine John Brennan’s role in the Trump-Russia collusion narrative",
-        "Trump highlights Biden-era disrepair and safety hazards at the Kennedy Center"
+        "Trump promotes artificial intelligence and rejects warnings that AI will cause catastrophe",
+        "Trump says the United States is negotiating a cheaper Belarus potash deal for American farmers and ranchers"
       ],
-      "postsCount": 8,
+      "postsCount": 12,
       "hasDetail": true,
-      "generatedAt": "2026-09-21T12:01:14.406Z",
+      "generatedAt": "2026-09-21T16:02:44.168Z",
       "trendingTopic": "Trump bans CNN, MSNOW, and Politico from the White House while defending the move as a fight against fake news",
       "secondaryHighlights": [
         {
-          "topic": "Prosecutors examine John Brennan’s role in the Trump-Russia collusion narrative",
-          "name": "John Brennan"
+          "topic": "Trump says Russia’s war with Ukraine has crippled its diesel industry and calls for ending the conflict"
         },
         {
-          "topic": "Trump highlights Biden-era disrepair and safety hazards at the Kennedy Center"
+          "topic": "Trump highlights Biden-era inspections documenting disrepair and safety hazards at the Kennedy Center"
         },
         {
-          "topic": "Trump says gas and other prices were higher under Biden"
+          "topic": "Trump claims gas and other prices were higher under Biden than during his presidency"
         }
       ],
-      "selfPraiseCount": 1
+      "selfPraiseCount": 2
     }
   ],
-  "generatedAt": "2026-09-21T12:01:14.406Z",
-  "trendingTopic": "Wages war on Iran while claiming its economy, oil exports, and strategic sites are collapsing",
+  "generatedAt": "2026-09-21T16:02:44.168Z",
+  "trendingTopic": "Trump portrays Iran as collapsing while defending military operations and discussing oil and negotiations",
   "secondaryHighlights": [
     {
-      "topic": "Bans CNN, MS NOW, and Politico from the White House over alleged fake news"
+      "topic": "Trump endorses candidates across multiple states and celebrates Republican primary wins"
     },
     {
-      "topic": "Defends AI expansion and promotes U.S. data-center leadership through a new AI Force"
+      "topic": "Trump expands his role at the Dallas Republican convention and promotes its reach"
+    },
+    {
+      "topic": "Trump promotes artificial intelligence expansion and an AI Force while dismissing catastrophe warnings"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:21:7d137f67e680f7db9e8bddbe"
+  "topicsCacheKey": "month-themes-v5:21:f71091ed250c29a8f9ba2992"
 }
