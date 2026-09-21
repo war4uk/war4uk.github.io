@@ -531,7 +531,7 @@
       ],
       "postsCount": 9,
       "hasDetail": true,
-      "generatedAt": "2026-09-21T16:01:51.004Z",
+      "generatedAt": "2026-09-21T20:01:07.709Z",
       "trendingTopic": "Trump touts record-low poverty, record household income, and lower inflation compared with Biden",
       "secondaryHighlights": [
         {
@@ -549,46 +549,43 @@
     {
       "date": "2026-09-21",
       "counts": {
-        "positive": 4,
+        "positive": 9,
         "neutral": 3,
-        "negative": 5
+        "negative": 7
       },
-      "summary": "positive:4 neutral:3 negative:5",
+      "summary": "positive:9 neutral:3 negative:7",
       "topics": [
-        "Trump bans CNN, MSNOW, and Politico from the White House while defending the move as a fight against fake news",
-        "Trump promotes artificial intelligence and rejects warnings that AI will cause catastrophe",
-        "Trump says the United States is negotiating a cheaper Belarus potash deal for American farmers and ranchers"
+        "Trump battles CNN, Politico, and MS NOW over White House press access",
+        "Trump endorses three House candidates in Michigan, Iowa, and Washington",
+        "Trump promotes artificial intelligence while dismissing catastrophic-risk warnings"
       ],
-      "postsCount": 12,
+      "postsCount": 19,
       "hasDetail": true,
-      "generatedAt": "2026-09-21T16:02:44.168Z",
-      "trendingTopic": "Trump bans CNN, MSNOW, and Politico from the White House while defending the move as a fight against fake news",
+      "generatedAt": "2026-09-21T20:01:32.225Z",
+      "trendingTopic": "Trump battles CNN, Politico, and MS NOW over White House press access",
       "secondaryHighlights": [
         {
-          "topic": "Trump says Russia’s war with Ukraine has crippled its diesel industry and calls for ending the conflict"
+          "topic": "Trump endorses three House candidates in Michigan, Iowa, and Washington"
         },
         {
-          "topic": "Trump highlights Biden-era inspections documenting disrepair and safety hazards at the Kennedy Center"
-        },
-        {
-          "topic": "Trump claims gas and other prices were higher under Biden than during his presidency"
+          "topic": "Trump promotes artificial intelligence while dismissing catastrophic-risk warnings"
         }
       ],
-      "selfPraiseCount": 2
+      "selfPraiseCount": 4
     }
   ],
-  "generatedAt": "2026-09-21T16:02:44.168Z",
-  "trendingTopic": "Trump portrays Iran as collapsing while defending military operations and discussing oil and negotiations",
+  "generatedAt": "2026-09-21T20:01:32.225Z",
+  "trendingTopic": "Trump endorses candidates and rallies Republicans ahead of the midterms",
   "secondaryHighlights": [
     {
-      "topic": "Trump endorses candidates across multiple states and celebrates Republican primary wins"
+      "topic": "Trump promotes White House renovations, a ballroom, and military-themed Washington projects"
     },
     {
-      "topic": "Trump expands his role at the Dallas Republican convention and promotes its reach"
+      "topic": "Trump expands U.S. artificial intelligence infrastructure while dismissing catastrophic-risk warnings"
     },
     {
-      "topic": "Trump promotes artificial intelligence expansion and an AI Force while dismissing catastrophe warnings"
+      "topic": "Trump battles CNN, Politico, and MS NOW over coverage and White House press access"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:21:f71091ed250c29a8f9ba2992"
+  "topicsCacheKey": "month-themes-v5:21:c917d79ba9b0bdbcc97bf639"
 }

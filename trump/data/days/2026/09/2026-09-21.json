@@ -1,35 +1,34 @@
 {
   "date": "2026-09-21",
   "counts": {
-    "positive": 4,
+    "positive": 9,
     "neutral": 3,
-    "negative": 5
+    "negative": 7
   },
-  "summary": "positive:4 neutral:3 negative:5",
-  "generatedAt": "2026-09-21T16:02:44.168Z",
+  "summary": "positive:9 neutral:3 negative:7",
+  "generatedAt": "2026-09-21T20:01:32.225Z",
   "topics": [
-    "Trump bans CNN, MSNOW, and Politico from the White House while defending the move as a fight against fake news",
-    "Trump promotes artificial intelligence and rejects warnings that AI will cause catastrophe",
-    "Trump says the United States is negotiating a cheaper Belarus potash deal for American farmers and ranchers"
+    "Trump battles CNN, Politico, and MS NOW over White House press access",
+    "Trump endorses three House candidates in Michigan, Iowa, and Washington",
+    "Trump promotes artificial intelligence while dismissing catastrophic-risk warnings"
   ],
-  "trendingTopic": "Trump bans CNN, MSNOW, and Politico from the White House while defending the move as a fight against fake news",
+  "trendingTopic": "Trump battles CNN, Politico, and MS NOW over White House press access",
   "secondaryHighlights": [
     {
-      "topic": "Trump says Russia’s war with Ukraine has crippled its diesel industry and calls for ending the conflict"
+      "topic": "Trump endorses three House candidates in Michigan, Iowa, and Washington"
     },
     {
-      "topic": "Trump highlights Biden-era inspections documenting disrepair and safety hazards at the Kennedy Center"
-    },
-    {
-      "topic": "Trump claims gas and other prices were higher under Biden than during his presidency"
+      "topic": "Trump promotes artificial intelligence while dismissing catastrophic-risk warnings"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v11:12:f3e60a2b5c7c81449576b9c1",
-  "selfPraiseCacheKey": "self-praise-v2:12:f3e60a2b5c7c81449576b9c1",
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v11:19:c2a3210546ffe0931caa7998",
+  "selfPraiseCacheKey": "self-praise-v2:19:c2a3210546ffe0931caa7998",
   "selfPraisePostIds": [
     "https://www.trumpstruth.org/statuses/41820",
-    "https://www.trumpstruth.org/statuses/41830"
+    "https://www.trumpstruth.org/statuses/41830",
+    "https://www.trumpstruth.org/statuses/41832",
+    "https://www.trumpstruth.org/statuses/41836"
   ],
   "posts": [
     {
@@ -247,6 +246,132 @@
         "guid": "https://www.trumpstruth.org/statuses/41830",
         "isoDate": "2026-09-21T15:48:29.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41831",
+      "publishedAt": "2026-09-21T17:18:05.000Z",
+      "title": "If Senate Republicans don’t TERMINATE THE FILIBUSTER, the Dumocrats will, and I will be, despite how well our Party is doing, the last Republican President! The Dumocrats will vote in Puerto Rico (4% Republican Vote), and Washington, D.C. (3% Republican Vote), pick up 4 Senators, 8 Congressmen/women, tremendous numbers of Popular and Electoral College Votes and, importantly, control the Voting Mechanisms and Systems, both Legal and otherwise, throughout the United States. It will be impossible for Republicans to ever win an Election again. In other words, it will be THE END OF AMERICA! Thank you for your attention to this matter. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+      "text": "<p>If Senate Republicans don’t TERMINATE THE FILIBUSTER, the Dumocrats will, and I will be, despite how well our Party is doing, the last Republican President! The Dumocrats will vote in Puerto Rico (4% Republican Vote), and Washington, D.C. (3% Republican Vote), pick up 4 Senators, 8 Congressmen/women, tremendous numbers of Popular and Electoral College Votes and, importantly, control the Voting Mechanisms and Systems, both Legal and otherwise, throughout the United States. It will be impossible for Republicans to ever win an Election again. In other words, it will be THE END OF AMERICA! Thank you for your attention to this matter. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41831",
+      "raw": {
+        "creator": "",
+        "title": "If Senate Republicans don’t TERMINATE THE FILIBUSTER, the Dumocrats will, and I will be, despite how well our Party is doing, the last Republican President! The Dumocrats will vote in Puerto Rico (4% Republican Vote), and Washington, D.C. (3% Republican Vote), pick up 4 Senators, 8 Congressmen/women, tremendous numbers of Popular and Electoral College Votes and, importantly, control the Voting Mechanisms and Systems, both Legal and otherwise, throughout the United States. It will be impossible for Republicans to ever win an Election again. In other words, it will be THE END OF AMERICA! Thank you for your attention to this matter. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41831",
+        "pubDate": "Mon, 21 Sep 2026 17:18:05 +0000",
+        "author": "",
+        "content": "<p>If Senate Republicans don’t TERMINATE THE FILIBUSTER, the Dumocrats will, and I will be, despite how well our Party is doing, the last Republican President! The Dumocrats will vote in Puerto Rico (4% Republican Vote), and Washington, D.C. (3% Republican Vote), pick up 4 Senators, 8 Congressmen/women, tremendous numbers of Popular and Electoral College Votes and, importantly, control the Voting Mechanisms and Systems, both Legal and otherwise, throughout the United States. It will be impossible for Republicans to ever win an Election again. In other words, it will be THE END OF AMERICA! Thank you for your attention to this matter. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "If Senate Republicans don’t TERMINATE THE FILIBUSTER, the Dumocrats will, and I will be, despite how well our Party is doing, the last Republican President! The Dumocrats will vote in Puerto Rico (4% Republican Vote), and Washington, D.C. (3% Republican Vote), pick up 4 Senators, 8 Congressmen/women, tremendous numbers of Popular and Electoral College Votes and, importantly, control the Voting Mechanisms and Systems, both Legal and otherwise, throughout the United States. It will be impossible for Republicans to ever win an Election again. In other words, it will be THE END OF AMERICA! Thank you for your attention to this matter. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41831",
+        "isoDate": "2026-09-21T17:18:05.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41832",
+      "publishedAt": "2026-09-21T18:08:27.000Z",
+      "title": "We are just leaving the White House Lawn on the maiden voyage from the newly built, and very beautiful, Heliport! I want to thank Jim Taiclet, CEO of Lockheed Martin, who made this valuable contribution to our Country. Our Government has been thinking about doing this for 25 years, but was never able to get it done. I get things done! Also, and most importantly, THANK YOU to the Great Construction Workers and Stone Masons of the Washington, D.C., area, who created something very special, and to Clark Construction for its wonderful supervisory work. GOD BLESS AMERICA! President DONALD J. TRUMP",
+      "text": "<p>We are just leaving the White House Lawn on the maiden voyage from the newly built, and very beautiful, Heliport! I want to thank Jim Taiclet, CEO of Lockheed Martin, who made this valuable contribution to our Country. Our Government has been thinking about doing this for 25 years, but was never able to get it done. I get things done! Also, and most importantly, THANK YOU to the Great Construction Workers and Stone Masons of the Washington, D.C., area, who created something very special, and to Clark Construction for its wonderful supervisory work. GOD BLESS AMERICA! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41832",
+      "raw": {
+        "creator": "",
+        "title": "We are just leaving the White House Lawn on the maiden voyage from the newly built, and very beautiful, Heliport! I want to thank Jim Taiclet, CEO of Lockheed Martin, who made this valuable contribution to our Country. Our Government has been thinking about doing this for 25 years, but was never able to get it done. I get things done! Also, and most importantly, THANK YOU to the Great Construction Workers and Stone Masons of the Washington, D.C., area, who created something very special, and to Clark Construction for its wonderful supervisory work. GOD BLESS AMERICA! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41832",
+        "pubDate": "Mon, 21 Sep 2026 18:08:27 +0000",
+        "author": "",
+        "content": "<p>We are just leaving the White House Lawn on the maiden voyage from the newly built, and very beautiful, Heliport! I want to thank Jim Taiclet, CEO of Lockheed Martin, who made this valuable contribution to our Country. Our Government has been thinking about doing this for 25 years, but was never able to get it done. I get things done! Also, and most importantly, THANK YOU to the Great Construction Workers and Stone Masons of the Washington, D.C., area, who created something very special, and to Clark Construction for its wonderful supervisory work. GOD BLESS AMERICA! President DONALD J. TRUMP</p>",
+        "contentSnippet": "We are just leaving the White House Lawn on the maiden voyage from the newly built, and very beautiful, Heliport! I want to thank Jim Taiclet, CEO of Lockheed Martin, who made this valuable contribution to our Country. Our Government has been thinking about doing this for 25 years, but was never able to get it done. I get things done! Also, and most importantly, THANK YOU to the Great Construction Workers and Stone Masons of the Washington, D.C., area, who created something very special, and to Clark Construction for its wonderful supervisory work. GOD BLESS AMERICA! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41832",
+        "isoDate": "2026-09-21T18:08:27.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41835",
+      "publishedAt": "2026-09-21T18:41:32.000Z",
+      "title": "Mike Bouchard has my Complete and Total Endorsement to be the next U.S. Representative from Michigan’s 10th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "text": "<p>Mike Bouchard has my Complete and Total Endorsement to be the next U.S. Representative from Michigan’s 10th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41835",
+      "raw": {
+        "creator": "",
+        "title": "Mike Bouchard has my Complete and Total Endorsement to be the next U.S. Representative from Michigan’s 10th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41835",
+        "pubDate": "Mon, 21 Sep 2026 18:41:32 +0000",
+        "author": "",
+        "content": "<p>Mike Bouchard has my Complete and Total Endorsement to be the next U.S. Representative from Michigan’s 10th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Mike Bouchard has my Complete and Total Endorsement to be the next U.S. Representative from Michigan’s 10th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41835",
+        "isoDate": "2026-09-21T18:41:32.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41834",
+      "publishedAt": "2026-09-21T18:43:14.000Z",
+      "title": "Joe Mitchell has my Complete and Total Endorsement to be the next U.S. Representative from Iowa’s 2nd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "text": "<p>Joe Mitchell has my Complete and Total Endorsement to be the next U.S. Representative from Iowa’s 2nd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41834",
+      "raw": {
+        "creator": "",
+        "title": "Joe Mitchell has my Complete and Total Endorsement to be the next U.S. Representative from Iowa’s 2nd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41834",
+        "pubDate": "Mon, 21 Sep 2026 18:43:14 +0000",
+        "author": "",
+        "content": "<p>Joe Mitchell has my Complete and Total Endorsement to be the next U.S. Representative from Iowa’s 2nd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Joe Mitchell has my Complete and Total Endorsement to be the next U.S. Representative from Iowa’s 2nd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41834",
+        "isoDate": "2026-09-21T18:43:14.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41833",
+      "publishedAt": "2026-09-21T18:43:24.000Z",
+      "title": "Michael Baumgartner has my Complete and Total Endorsement for Re-Election as U.S. Representative from Washington’s 5th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "text": "<p>Michael Baumgartner has my Complete and Total Endorsement for Re-Election as U.S. Representative from Washington’s 5th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41833",
+      "raw": {
+        "creator": "",
+        "title": "Michael Baumgartner has my Complete and Total Endorsement for Re-Election as U.S. Representative from Washington’s 5th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41833",
+        "pubDate": "Mon, 21 Sep 2026 18:43:24 +0000",
+        "author": "",
+        "content": "<p>Michael Baumgartner has my Complete and Total Endorsement for Re-Election as U.S. Representative from Washington’s 5th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Michael Baumgartner has my Complete and Total Endorsement for Re-Election as U.S. Representative from Washington’s 5th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41833",
+        "isoDate": "2026-09-21T18:43:24.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41836",
+      "publishedAt": "2026-09-21T19:39:56.000Z",
+      "title": "As expected, Fake News CNN, Politico (Pay back the 8 Million Dollar contribution made by the U.S. Government to keep them afloat!), and MSNOW (formerly known as MSDNC!), have brought suit to gain access to the White House, and your President, ME! They have drawn a great Judge, for them, a man who ruled in favor of Jim Acosta, who now seems to have disappeared from the Planet. The Judge’s name is Tim Kelly, and he was, sadly, appointed by “TRUMP.” In other words, almost without question and, as usual, we’ll go for appeal because Fake News people and publications that only write negatively, and who violate our National Security by writing false and defamatory stories with unknown “sources,” shouldn’t be allowed access to the most important Office anywhere in the World. It is called the Oval Office, and it should be treated with Decorum, Respect, and Dignity, not defiled by Third Rate Clowns, who purposefully distort, twist, and degrade with everything they write or publish. Virtually every story about me, or anything having to do with me, is negative, wrong and, in many cases, DANGEROUS for our Country! No matter how GREAT my Achievements, they trivialize and demean. The fact is, I won all seven Swing States, the Popular Vote, the Electoral College (312 to 226), and the Counties throughout America by 86%, and yet it is reported that I get 94% bad publicity. With such a Crooked and Corrupt Press, how did I win in such a LANDSLIDE? It is because the Media has NO credibility, and that is a very bad thing for our Nation! Why should I have to give “access” to such people? Perhaps Judge Kelly could explain that! In any event, I have an obligation to fight for the Success and Safety of our Country. FAKE NEWS IS A THREAT TO DEMOCRACY, and I will do whatever is necessary to make sure that the U.S.A. thrives. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+      "text": "<p>As expected, Fake News CNN, Politico (Pay back the 8 Million Dollar contribution made by the U.S. Government to keep them afloat!), and MSNOW (formerly known as MSDNC!), have brought suit to gain access to the White House, and your President, ME! They have drawn a great Judge, for them, a man who ruled in favor of Jim Acosta, who now seems to have disappeared from the Planet. The Judge’s name is Tim Kelly, and he was, sadly, appointed by “TRUMP.” In other words, almost without question and, as usual, we’ll go for appeal because Fake News people and publications that only write negatively, and who violate our National Security by writing false and defamatory stories with unknown “sources,” shouldn’t be allowed access to the most important Office anywhere in the World. It is called the Oval Office, and it should be treated with Decorum, Respect, and Dignity, not defiled by Third Rate Clowns, who purposefully distort, twist, and degrade with everything they write or publish. Virtually every story about me, or anything having to do with me, is negative, wrong and, in many cases, DANGEROUS for our Country! No matter how GREAT my Achievements, they trivialize and demean. The fact is, I won all seven Swing States, the Popular Vote, the Electoral College (312 to 226), and the Counties throughout America by 86%, and yet it is reported that I get 94% bad publicity. With such a Crooked and Corrupt Press, how did I win in such a LANDSLIDE? It is because the Media has NO credibility, and that is a very bad thing for our Nation! Why should I have to give “access” to such people? Perhaps Judge Kelly could explain that! In any event, I have an obligation to fight for the Success and Safety of our Country. FAKE NEWS IS A THREAT TO DEMOCRACY, and I will do whatever is necessary to make sure that the U.S.A. thrives. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41836",
+      "raw": {
+        "creator": "",
+        "title": "As expected, Fake News CNN, Politico (Pay back the 8 Million Dollar contribution made by the U.S. Government to keep them afloat!), and MSNOW (formerly known as MSDNC!), have brought suit to gain access to the White House, and your President, ME! They have drawn a great Judge, for them, a man who ruled in favor of Jim Acosta, who now seems to have disappeared from the Planet. The Judge’s name is Tim Kelly, and he was, sadly, appointed by “TRUMP.” In other words, almost without question and, as usual, we’ll go for appeal because Fake News people and publications that only write negatively, and who violate our National Security by writing false and defamatory stories with unknown “sources,” shouldn’t be allowed access to the most important Office anywhere in the World. It is called the Oval Office, and it should be treated with Decorum, Respect, and Dignity, not defiled by Third Rate Clowns, who purposefully distort, twist, and degrade with everything they write or publish. Virtually every story about me, or anything having to do with me, is negative, wrong and, in many cases, DANGEROUS for our Country! No matter how GREAT my Achievements, they trivialize and demean. The fact is, I won all seven Swing States, the Popular Vote, the Electoral College (312 to 226), and the Counties throughout America by 86%, and yet it is reported that I get 94% bad publicity. With such a Crooked and Corrupt Press, how did I win in such a LANDSLIDE? It is because the Media has NO credibility, and that is a very bad thing for our Nation! Why should I have to give “access” to such people? Perhaps Judge Kelly could explain that! In any event, I have an obligation to fight for the Success and Safety of our Country. FAKE NEWS IS A THREAT TO DEMOCRACY, and I will do whatever is necessary to make sure that the U.S.A. thrives. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41836",
+        "pubDate": "Mon, 21 Sep 2026 19:39:56 +0000",
+        "author": "",
+        "content": "<p>As expected, Fake News CNN, Politico (Pay back the 8 Million Dollar contribution made by the U.S. Government to keep them afloat!), and MSNOW (formerly known as MSDNC!), have brought suit to gain access to the White House, and your President, ME! They have drawn a great Judge, for them, a man who ruled in favor of Jim Acosta, who now seems to have disappeared from the Planet. The Judge’s name is Tim Kelly, and he was, sadly, appointed by “TRUMP.” In other words, almost without question and, as usual, we’ll go for appeal because Fake News people and publications that only write negatively, and who violate our National Security by writing false and defamatory stories with unknown “sources,” shouldn’t be allowed access to the most important Office anywhere in the World. It is called the Oval Office, and it should be treated with Decorum, Respect, and Dignity, not defiled by Third Rate Clowns, who purposefully distort, twist, and degrade with everything they write or publish. Virtually every story about me, or anything having to do with me, is negative, wrong and, in many cases, DANGEROUS for our Country! No matter how GREAT my Achievements, they trivialize and demean. The fact is, I won all seven Swing States, the Popular Vote, the Electoral College (312 to 226), and the Counties throughout America by 86%, and yet it is reported that I get 94% bad publicity. With such a Crooked and Corrupt Press, how did I win in such a LANDSLIDE? It is because the Media has NO credibility, and that is a very bad thing for our Nation! Why should I have to give “access” to such people? Perhaps Judge Kelly could explain that! In any event, I have an obligation to fight for the Success and Safety of our Country. FAKE NEWS IS A THREAT TO DEMOCRACY, and I will do whatever is necessary to make sure that the U.S.A. thrives. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "As expected, Fake News CNN, Politico (Pay back the 8 Million Dollar contribution made by the U.S. Government to keep them afloat!), and MSNOW (formerly known as MSDNC!), have brought suit to gain access to the White House, and your President, ME! They have drawn a great Judge, for them, a man who ruled in favor of Jim Acosta, who now seems to have disappeared from the Planet. The Judge’s name is Tim Kelly, and he was, sadly, appointed by “TRUMP.” In other words, almost without question and, as usual, we’ll go for appeal because Fake News people and publications that only write negatively, and who violate our National Security by writing false and defamatory stories with unknown “sources,” shouldn’t be allowed access to the most important Office anywhere in the World. It is called the Oval Office, and it should be treated with Decorum, Respect, and Dignity, not defiled by Third Rate Clowns, who purposefully distort, twist, and degrade with everything they write or publish. Virtually every story about me, or anything having to do with me, is negative, wrong and, in many cases, DANGEROUS for our Country! No matter how GREAT my Achievements, they trivialize and demean. The fact is, I won all seven Swing States, the Popular Vote, the Electoral College (312 to 226), and the Counties throughout America by 86%, and yet it is reported that I get 94% bad publicity. With such a Crooked and Corrupt Press, how did I win in such a LANDSLIDE? It is because the Media has NO credibility, and that is a very bad thing for our Nation! Why should I have to give “access” to such people? Perhaps Judge Kelly could explain that! In any event, I have an obligation to fight for the Success and Safety of our Country. FAKE NEWS IS A THREAT TO DEMOCRACY, and I will do whatever is necessary to make sure that the U.S.A. thrives. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41836",
+        "isoDate": "2026-09-21T19:39:56.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41837",
+      "publishedAt": "2026-09-21T19:53:03.000Z",
+      "title": "While in New York City, I’m on the way to one of my favorite places in the World, Gracie Mansion. I spent lots of hours there over the years, with some great Mayors, some average Mayors, and some bad Mayors. It will be interesting to see how it looks now, invited by Mayor Mamdani. Look forward to it. MAKE NEW YORK CITY GREAT AGAIN! President DONALD J. TRUMP",
+      "text": "<p>While in New York City, I’m on the way to one of my favorite places in the World, Gracie Mansion. I spent lots of hours there over the years, with some great Mayors, some average Mayors, and some bad Mayors. It will be interesting to see how it looks now, invited by Mayor Mamdani. Look forward to it. MAKE NEW YORK CITY GREAT AGAIN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41837",
+      "raw": {
+        "creator": "",
+        "title": "While in New York City, I’m on the way to one of my favorite places in the World, Gracie Mansion. I spent lots of hours there over the years, with some great Mayors, some average Mayors, and some bad Mayors. It will be interesting to see how it looks now, invited by Mayor Mamdani. Look forward to it. MAKE NEW YORK CITY GREAT AGAIN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41837",
+        "pubDate": "Mon, 21 Sep 2026 19:53:03 +0000",
+        "author": "",
+        "content": "<p>While in New York City, I’m on the way to one of my favorite places in the World, Gracie Mansion. I spent lots of hours there over the years, with some great Mayors, some average Mayors, and some bad Mayors. It will be interesting to see how it looks now, invited by Mayor Mamdani. Look forward to it. MAKE NEW YORK CITY GREAT AGAIN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "While in New York City, I’m on the way to one of my favorite places in the World, Gracie Mansion. I spent lots of hours there over the years, with some great Mayors, some average Mayors, and some bad Mayors. It will be interesting to see how it looks now, invited by Mayor Mamdani. Look forward to it. MAKE NEW YORK CITY GREAT AGAIN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41837",
+        "isoDate": "2026-09-21T19:53:03.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -321,6 +446,48 @@
       "label": "positive",
       "rationale": "Expresses strong optimism about AI leadership and growth, despite criticizing opponents and warning narratives.",
       "analyzedAt": "2026-09-21T16:02:27.499Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41831",
+      "label": "negative",
+      "rationale": "Uses alarmist language to warn of political defeat and the alleged end of America if the filibuster is not terminated.",
+      "analyzedAt": "2026-09-21T20:01:19.347Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41832",
+      "label": "positive",
+      "rationale": "Celebrates the new heliport, praises contributors and workers, and expresses patriotic gratitude.",
+      "analyzedAt": "2026-09-21T20:01:19.347Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41833",
+      "label": "positive",
+      "rationale": "Strongly endorses Michael Baumgartner and expresses confidence in his re-election.",
+      "analyzedAt": "2026-09-21T20:01:19.347Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41834",
+      "label": "positive",
+      "rationale": "Strongly endorses Joe Mitchell and expresses confidence in his candidacy.",
+      "analyzedAt": "2026-09-21T20:01:19.347Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41835",
+      "label": "positive",
+      "rationale": "Strongly endorses Mike Bouchard and expresses confidence in his candidacy.",
+      "analyzedAt": "2026-09-21T20:01:19.347Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41836",
+      "label": "negative",
+      "rationale": "Uses hostile and derogatory language toward news organizations and a judge while portraying the media as dangerous and corrupt.",
+      "analyzedAt": "2026-09-21T20:01:19.347Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41837",
+      "label": "positive",
+      "rationale": "Expresses enthusiasm about visiting Gracie Mansion and optimism about New York City.",
+      "analyzedAt": "2026-09-21T20:01:19.347Z"
     }
   ]
 }
