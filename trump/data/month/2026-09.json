@@ -561,7 +561,7 @@
       ],
       "postsCount": 19,
       "hasDetail": true,
-      "generatedAt": "2026-09-22T04:00:35.522Z",
+      "generatedAt": "2026-09-22T08:01:40.815Z",
       "trendingTopic": "Trump battles CNN, Politico, and MS NOW over White House press access",
       "secondaryHighlights": [
         {
@@ -576,39 +576,44 @@
     {
       "date": "2026-09-22",
       "counts": {
-        "positive": 2,
+        "positive": 3,
         "neutral": 0,
         "negative": 0
       },
-      "summary": "positive:2 neutral:0 negative:0",
+      "summary": "positive:3 neutral:0 negative:0",
       "topics": [
-        "Trump EPA rollback could save ratepayers $310 billion and curb federal waste",
-        "Trump celebrates improved household finances and sharply lower poverty in America"
+        "Trump promotes EPA rollback projected to save ratepayers $310 billion",
+        "Trump celebrates falling poverty and improving American household finances",
+        "Trump praises Johnny Damon for refusing to apologize for his pro-Trump opinion"
       ],
-      "postsCount": 2,
+      "postsCount": 3,
       "hasDetail": true,
-      "generatedAt": "2026-09-22T04:00:55.324Z",
-      "trendingTopic": "Trump EPA rollback could save ratepayers $310 billion while eliminating federal waste",
+      "generatedAt": "2026-09-22T08:01:59.237Z",
+      "trendingTopic": "Trump promotes EPA rollback projected to save ratepayers $310 billion",
       "secondaryHighlights": [
         {
-          "topic": "Trump celebrates improved household finances and sharply lower poverty in America"
+          "topic": "Trump celebrates falling poverty and improving American household finances"
+        },
+        {
+          "topic": "Trump praises Johnny Damon for refusing to apologize for his pro-Trump opinion",
+          "name": "Johnny Damon"
         }
       ],
       "selfPraiseCount": 1
     }
   ],
-  "generatedAt": "2026-09-22T04:00:55.324Z",
-  "trendingTopic": "Trump portrays Iran as collapsing while defending military operations and addressing oil, weapons, and negotiations",
+  "generatedAt": "2026-09-22T08:01:59.237Z",
+  "trendingTopic": "Trump portrays Iran as defeated and economically collapsing while defending the war and control of the Strait of Hormuz",
   "secondaryHighlights": [
     {
-      "topic": "Trump expands U.S. artificial-intelligence infrastructure while dismissing catastrophic-risk warnings"
+      "topic": "Trump touts lower prices, jobs, income, and poverty while demanding steep interest-rate cuts"
     },
     {
-      "topic": "Trump battles CNN, Politico, and MS NOW over White House press access"
+      "topic": "Trump backs U.S. AI expansion and an AI Force while dismissing catastrophic-risk warnings"
     },
     {
-      "topic": "Trump energizes Republicans through Dallas rallies and the midterm convention"
+      "topic": "Trump bans and attacks CNN, Politico, and MS NOW over White House press coverage"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:22:bd18eb881932987dd52b8d73"
+  "topicsCacheKey": "month-themes-v5:22:0f5faeb2a768ac3ed451391c"
 }

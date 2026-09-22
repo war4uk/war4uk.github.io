@@ -1,23 +1,33 @@
 {
   "date": "2026-09-22",
   "counts": {
-    "positive": 2,
+    "positive": 3,
     "neutral": 0,
     "negative": 0
   },
-  "summary": "positive:2 neutral:0 negative:0",
-  "generatedAt": "2026-09-22T04:00:55.324Z",
+  "summary": "positive:3 neutral:0 negative:0",
+  "generatedAt": "2026-09-22T08:01:59.237Z",
   "topics": [
-    "Trump EPA rollback could save ratepayers $310 billion and curb federal waste",
-    "Trump celebrates improved household finances and sharply lower poverty in America"
+    "Trump promotes EPA rollback projected to save ratepayers $310 billion",
+    "Trump celebrates falling poverty and improving American household finances",
+    "Trump praises Johnny Damon for refusing to apologize for his pro-Trump opinion"
   ],
-  "trendingTopic": "Trump EPA rollback could save ratepayers $310 billion while eliminating federal waste",
+  "trendingTopic": "Trump promotes EPA rollback projected to save ratepayers $310 billion",
   "secondaryHighlights": [
     {
-      "topic": "Trump celebrates improved household finances and sharply lower poverty in America"
+      "topic": "Trump celebrates falling poverty and improving American household finances"
+    },
+    {
+      "topic": "Trump praises Johnny Damon for refusing to apologize for his pro-Trump opinion",
+      "name": "Johnny Damon"
     }
   ],
   "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v11:3:dc1a402dee1e5113c4d4e23b",
+  "selfPraiseCacheKey": "self-praise-v2:3:dc1a402dee1e5113c4d4e23b",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41838"
+  ],
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41838",
@@ -54,6 +64,24 @@
         "guid": "https://www.trumpstruth.org/statuses/41839",
         "isoDate": "2026-09-22T03:26:49.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41841",
+      "publishedAt": "2026-09-22T04:00:52.000Z",
+      "title": "Thanks Johnny. You are a total winner! President DJTSPORTS MLB Legend Johnny Damon Refuses To Apologize For His Opinion on President Trump:",
+      "text": "<p>Thanks Johnny. You are a total winner! President DJT</p><p>SPORTS MLB Legend Johnny Damon Refuses To Apologize For His Opinion on President Trump: <a href=\"https://www.miamiherald.com/sports/article317314631.html\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">miamiherald.com/sports/article</span><span class=\"invisible\">317314631.html</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41841",
+      "raw": {
+        "creator": "",
+        "title": "Thanks Johnny. You are a total winner! President DJTSPORTS MLB Legend Johnny Damon Refuses To Apologize For His Opinion on President Trump:",
+        "link": "https://www.trumpstruth.org/statuses/41841",
+        "pubDate": "Tue, 22 Sep 2026 04:00:52 +0000",
+        "author": "",
+        "content": "<p>Thanks Johnny. You are a total winner! President DJT</p><p>SPORTS MLB Legend Johnny Damon Refuses To Apologize For His Opinion on President Trump: <a href=\"https://www.miamiherald.com/sports/article317314631.html\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">miamiherald.com/sports/article</span><span class=\"invisible\">317314631.html</span></a></p>",
+        "contentSnippet": "Thanks Johnny. You are a total winner! President DJT\nSPORTS MLB Legend Johnny Damon Refuses To Apologize For His Opinion on President Trump: https://www.miamiherald.com/sports/article317314631.html",
+        "guid": "https://www.trumpstruth.org/statuses/41841",
+        "isoDate": "2026-09-22T04:00:52.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -68,11 +96,12 @@
       "label": "positive",
       "rationale": "Celebrates reported improvements in Americans' finances and lower poverty, praising the news as beneficial for the country.",
       "analyzedAt": "2026-09-22T04:00:42.069Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41841",
+      "label": "positive",
+      "rationale": "The author praises Johnny Damon as a 'total winner' and thanks him, expressing approval and support.",
+      "analyzedAt": "2026-09-22T08:01:46.340Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v11:2:2bc63337a2a438e82eecb92a",
-  "selfPraiseCacheKey": "self-praise-v2:2:2bc63337a2a438e82eecb92a",
-  "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/41838"
   ]
 }
