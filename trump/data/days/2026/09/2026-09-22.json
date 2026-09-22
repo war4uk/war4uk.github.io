@@ -1,32 +1,37 @@
 {
   "date": "2026-09-22",
   "counts": {
-    "positive": 3,
+    "positive": 4,
     "neutral": 0,
     "negative": 0
   },
-  "summary": "positive:3 neutral:0 negative:0",
-  "generatedAt": "2026-09-22T08:01:59.237Z",
+  "summary": "positive:4 neutral:0 negative:0",
+  "generatedAt": "2026-09-22T12:04:34.193Z",
   "topics": [
-    "Trump promotes EPA rollback projected to save ratepayers $310 billion",
-    "Trump celebrates falling poverty and improving American household finances",
-    "Trump praises Johnny Damon for refusing to apologize for his pro-Trump opinion"
+    "Trump EPA rollback could save ratepayers $310 billion by cutting waste and regulation",
+    "Trump touts falling poverty and improved American household finances",
+    "Trump says the United States has ample munitions and is rapidly expanding stockpiles"
   ],
-  "trendingTopic": "Trump promotes EPA rollback projected to save ratepayers $310 billion",
+  "trendingTopic": "Trump EPA rollback could save ratepayers $310 billion by cutting waste and regulation",
   "secondaryHighlights": [
     {
-      "topic": "Trump celebrates falling poverty and improving American household finances"
+      "topic": "Trump praises Johnny Damon for defending his political opinion",
+      "name": "Johnny Damon"
     },
     {
-      "topic": "Trump praises Johnny Damon for refusing to apologize for his pro-Trump opinion",
-      "name": "Johnny Damon"
+      "topic": "Trump touts falling poverty and improved American household finances"
+    },
+    {
+      "topic": "Trump says the United States has ample munitions and is rapidly expanding stockpiles"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v11:3:dc1a402dee1e5113c4d4e23b",
-  "selfPraiseCacheKey": "self-praise-v2:3:dc1a402dee1e5113c4d4e23b",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:4:ab6b2559cc19563d08204d2c",
+  "selfPraiseCacheKey": "self-praise-v2:4:ab6b2559cc19563d08204d2c",
   "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/41838"
+    "https://www.trumpstruth.org/statuses/41838",
+    "https://www.trumpstruth.org/statuses/41839",
+    "https://www.trumpstruth.org/statuses/41842"
   ],
   "posts": [
     {
@@ -82,6 +87,24 @@
         "guid": "https://www.trumpstruth.org/statuses/41841",
         "isoDate": "2026-09-22T04:00:52.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41842",
+      "publishedAt": "2026-09-22T11:14:40.000Z",
+      "title": "The cowards and traitors would love to say the United States is low on munitions. It's not true. We have more munitions than we could ever possibly think of using, and are building them up now at levels we have never seen before. President DONALD J. TRUMP",
+      "text": "<p>The cowards and traitors would love to say the United States is low on munitions. It's not true. We have more munitions than we could ever possibly think of using, and are building them up now at levels we have never seen before. President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41842",
+      "raw": {
+        "creator": "",
+        "title": "The cowards and traitors would love to say the United States is low on munitions. It's not true. We have more munitions than we could ever possibly think of using, and are building them up now at levels we have never seen before. President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41842",
+        "pubDate": "Tue, 22 Sep 2026 11:14:40 +0000",
+        "author": "",
+        "content": "<p>The cowards and traitors would love to say the United States is low on munitions. It's not true. We have more munitions than we could ever possibly think of using, and are building them up now at levels we have never seen before. President DONALD J. TRUMP</p>",
+        "contentSnippet": "The cowards and traitors would love to say the United States is low on munitions. It's not true. We have more munitions than we could ever possibly think of using, and are building them up now at levels we have never seen before. President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41842",
+        "isoDate": "2026-09-22T11:14:40.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -102,6 +125,12 @@
       "label": "positive",
       "rationale": "The author praises Johnny Damon as a 'total winner' and thanks him, expressing approval and support.",
       "analyzedAt": "2026-09-22T08:01:46.340Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41842",
+      "label": "positive",
+      "rationale": "The statement conveys confidence in the United States' abundant and increasing munitions capacity, despite using hostile language toward critics.",
+      "analyzedAt": "2026-09-22T12:04:16.712Z"
     }
   ]
 }

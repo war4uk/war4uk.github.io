@@ -561,7 +561,7 @@
       ],
       "postsCount": 19,
       "hasDetail": true,
-      "generatedAt": "2026-09-22T08:01:40.815Z",
+      "generatedAt": "2026-09-22T12:04:09.512Z",
       "trendingTopic": "Trump battles CNN, Politico, and MS NOW over White House press access",
       "secondaryHighlights": [
         {
@@ -576,44 +576,47 @@
     {
       "date": "2026-09-22",
       "counts": {
-        "positive": 3,
+        "positive": 4,
         "neutral": 0,
         "negative": 0
       },
-      "summary": "positive:3 neutral:0 negative:0",
+      "summary": "positive:4 neutral:0 negative:0",
       "topics": [
-        "Trump promotes EPA rollback projected to save ratepayers $310 billion",
-        "Trump celebrates falling poverty and improving American household finances",
-        "Trump praises Johnny Damon for refusing to apologize for his pro-Trump opinion"
+        "Trump EPA rollback could save ratepayers $310 billion by cutting waste and regulation",
+        "Trump touts falling poverty and improved American household finances",
+        "Trump says the United States has ample munitions and is rapidly expanding stockpiles"
       ],
-      "postsCount": 3,
+      "postsCount": 4,
       "hasDetail": true,
-      "generatedAt": "2026-09-22T08:01:59.237Z",
-      "trendingTopic": "Trump promotes EPA rollback projected to save ratepayers $310 billion",
+      "generatedAt": "2026-09-22T12:04:34.193Z",
+      "trendingTopic": "Trump EPA rollback could save ratepayers $310 billion by cutting waste and regulation",
       "secondaryHighlights": [
         {
-          "topic": "Trump celebrates falling poverty and improving American household finances"
+          "topic": "Trump praises Johnny Damon for defending his political opinion",
+          "name": "Johnny Damon"
         },
         {
-          "topic": "Trump praises Johnny Damon for refusing to apologize for his pro-Trump opinion",
-          "name": "Johnny Damon"
+          "topic": "Trump touts falling poverty and improved American household finances"
+        },
+        {
+          "topic": "Trump says the United States has ample munitions and is rapidly expanding stockpiles"
         }
       ],
-      "selfPraiseCount": 1
+      "selfPraiseCount": 3
     }
   ],
-  "generatedAt": "2026-09-22T08:01:59.237Z",
-  "trendingTopic": "Trump portrays Iran as defeated and economically collapsing while defending the war and control of the Strait of Hormuz",
+  "generatedAt": "2026-09-22T12:04:34.193Z",
+  "trendingTopic": "Defends U.S. military pressure on Iran while portraying its economy and strategic position as collapsing",
   "secondaryHighlights": [
     {
-      "topic": "Trump touts lower prices, jobs, income, and poverty while demanding steep interest-rate cuts"
+      "topic": "Touts stronger household finances, lower poverty, and economic gains under Trump"
     },
     {
-      "topic": "Trump backs U.S. AI expansion and an AI Force while dismissing catastrophic-risk warnings"
+      "topic": "Promotes U.S. artificial-intelligence and data-center expansion while dismissing catastrophic-risk warnings"
     },
     {
-      "topic": "Trump bans and attacks CNN, Politico, and MS NOW over White House press coverage"
+      "topic": "Battles CNN, Politico, and MS NOW over alleged bias and White House press access"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:22:0f5faeb2a768ac3ed451391c"
+  "topicsCacheKey": "month-themes-v5:22:e97065877f6e0144867f836a"
 }
