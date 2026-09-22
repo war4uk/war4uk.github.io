@@ -561,7 +561,7 @@
       ],
       "postsCount": 19,
       "hasDetail": true,
-      "generatedAt": "2026-09-21T20:01:32.225Z",
+      "generatedAt": "2026-09-22T00:03:44.601Z",
       "trendingTopic": "Trump battles CNN, Politico, and MS NOW over White House press access",
       "secondaryHighlights": [
         {
@@ -572,9 +572,23 @@
         }
       ],
       "selfPraiseCount": 4
+    },
+    {
+      "date": "2026-09-22",
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "positive:0 neutral:0 negative:0",
+      "topics": [],
+      "postsCount": 0,
+      "hasDetail": true,
+      "generatedAt": "2026-09-22T00:03:47.267Z",
+      "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-21T20:01:32.225Z",
+  "generatedAt": "2026-09-22T00:03:47.267Z",
   "trendingTopic": "Trump endorses candidates and rallies Republicans ahead of the midterms",
   "secondaryHighlights": [
     {
