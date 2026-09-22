@@ -561,7 +561,7 @@
       ],
       "postsCount": 19,
       "hasDetail": true,
-      "generatedAt": "2026-09-22T00:03:44.601Z",
+      "generatedAt": "2026-09-22T04:00:35.522Z",
       "trendingTopic": "Trump battles CNN, Politico, and MS NOW over White House press access",
       "secondaryHighlights": [
         {
@@ -576,30 +576,39 @@
     {
       "date": "2026-09-22",
       "counts": {
-        "positive": 0,
+        "positive": 2,
         "neutral": 0,
         "negative": 0
       },
-      "summary": "positive:0 neutral:0 negative:0",
-      "topics": [],
-      "postsCount": 0,
+      "summary": "positive:2 neutral:0 negative:0",
+      "topics": [
+        "Trump EPA rollback could save ratepayers $310 billion and curb federal waste",
+        "Trump celebrates improved household finances and sharply lower poverty in America"
+      ],
+      "postsCount": 2,
       "hasDetail": true,
-      "generatedAt": "2026-09-22T00:03:47.267Z",
-      "selfPraiseCount": 0
+      "generatedAt": "2026-09-22T04:00:55.324Z",
+      "trendingTopic": "Trump EPA rollback could save ratepayers $310 billion while eliminating federal waste",
+      "secondaryHighlights": [
+        {
+          "topic": "Trump celebrates improved household finances and sharply lower poverty in America"
+        }
+      ],
+      "selfPraiseCount": 1
     }
   ],
-  "generatedAt": "2026-09-22T00:03:47.267Z",
-  "trendingTopic": "Trump endorses candidates and rallies Republicans ahead of the midterms",
+  "generatedAt": "2026-09-22T04:00:55.324Z",
+  "trendingTopic": "Trump portrays Iran as collapsing while defending military operations and addressing oil, weapons, and negotiations",
   "secondaryHighlights": [
     {
-      "topic": "Trump promotes White House renovations, a ballroom, and military-themed Washington projects"
+      "topic": "Trump expands U.S. artificial-intelligence infrastructure while dismissing catastrophic-risk warnings"
     },
     {
-      "topic": "Trump expands U.S. artificial intelligence infrastructure while dismissing catastrophic-risk warnings"
+      "topic": "Trump battles CNN, Politico, and MS NOW over White House press access"
     },
     {
-      "topic": "Trump battles CNN, Politico, and MS NOW over coverage and White House press access"
+      "topic": "Trump energizes Republicans through Dallas rallies and the midterm convention"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:21:c917d79ba9b0bdbcc97bf639"
+  "topicsCacheKey": "month-themes-v5:22:bd18eb881932987dd52b8d73"
 }

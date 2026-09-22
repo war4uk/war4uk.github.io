@@ -1,14 +1,78 @@
 {
   "date": "2026-09-22",
   "counts": {
-    "positive": 0,
+    "positive": 2,
     "neutral": 0,
     "negative": 0
   },
-  "summary": "positive:0 neutral:0 negative:0",
-  "generatedAt": "2026-09-22T00:03:47.267Z",
-  "topics": [],
-  "selfPraiseCount": 0,
-  "posts": [],
-  "sentiments": []
+  "summary": "positive:2 neutral:0 negative:0",
+  "generatedAt": "2026-09-22T04:00:55.324Z",
+  "topics": [
+    "Trump EPA rollback could save ratepayers $310 billion and curb federal waste",
+    "Trump celebrates improved household finances and sharply lower poverty in America"
+  ],
+  "trendingTopic": "Trump EPA rollback could save ratepayers $310 billion while eliminating federal waste",
+  "secondaryHighlights": [
+    {
+      "topic": "Trump celebrates improved household finances and sharply lower poverty in America"
+    }
+  ],
+  "selfPraiseCount": 1,
+  "posts": [
+    {
+      "id": "https://www.trumpstruth.org/statuses/41838",
+      "publishedAt": "2026-09-22T03:19:27.000Z",
+      "title": "Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion:",
+      "text": "<p>Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion: <a href=\"https://justthenews.com/government/federal-agencies/trumps-epa-gets-action-roots-out-30-billion-waste-fraud-and-abuse\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/fed</span><span class=\"invisible\">eral-agencies/trumps-epa-gets-action-roots-out-30-billion-waste-fraud-and-abuse</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41838",
+      "raw": {
+        "creator": "",
+        "title": "Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion:",
+        "link": "https://www.trumpstruth.org/statuses/41838",
+        "pubDate": "Tue, 22 Sep 2026 03:19:27 +0000",
+        "author": "",
+        "content": "<p>Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion: <a href=\"https://justthenews.com/government/federal-agencies/trumps-epa-gets-action-roots-out-30-billion-waste-fraud-and-abuse\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/fed</span><span class=\"invisible\">eral-agencies/trumps-epa-gets-action-roots-out-30-billion-waste-fraud-and-abuse</span></a></p>",
+        "contentSnippet": "Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion: https://justthenews.com/government/federal-agencies/trumps-epa-gets-action-roots-out-30-billion-waste-fraud-and-abuse",
+        "guid": "https://www.trumpstruth.org/statuses/41838",
+        "isoDate": "2026-09-22T03:19:27.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41839",
+      "publishedAt": "2026-09-22T03:26:49.000Z",
+      "title": "RT @Schoenlaw The writer tries to make excuses to explain this great news but the facts are the facts:  Americans are doing better financially and the poverty level is dramatically down!  Let’s give credit where it is due and celebrate good news for our country and fellow Americans!!! @realDonaldTrump",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@Schoenlaw\" rel=\"nofollow\">@<span>Schoenlaw</span></a></span><a href=\"https://www.wsj.com/opinion/americans-household-income-2025-census-bureau-2e2a9e36?st=9jyvTw\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/opinion/americans-hous</span><span class=\"invisible\">ehold-income-2025-census-bureau-2e2a9e36?st=9jyvTw</span></a>.  The writer tries to make excuses to explain this great news but the facts are the facts:  Americans are doing better financially and the poverty level is dramatically down!  Let’s give credit where it is due and celebrate good news for our country and fellow Americans!!! <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p>",
+      "url": "https://www.trumpstruth.org/statuses/41839",
+      "raw": {
+        "creator": "",
+        "title": "RT @Schoenlaw The writer tries to make excuses to explain this great news but the facts are the facts:  Americans are doing better financially and the poverty level is dramatically down!  Let’s give credit where it is due and celebrate good news for our country and fellow Americans!!! @realDonaldTrump",
+        "link": "https://www.trumpstruth.org/statuses/41839",
+        "pubDate": "Tue, 22 Sep 2026 03:26:49 +0000",
+        "author": "",
+        "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@Schoenlaw\" rel=\"nofollow\">@<span>Schoenlaw</span></a></span><a href=\"https://www.wsj.com/opinion/americans-household-income-2025-census-bureau-2e2a9e36?st=9jyvTw\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/opinion/americans-hous</span><span class=\"invisible\">ehold-income-2025-census-bureau-2e2a9e36?st=9jyvTw</span></a>.  The writer tries to make excuses to explain this great news but the facts are the facts:  Americans are doing better financially and the poverty level is dramatically down!  Let’s give credit where it is due and celebrate good news for our country and fellow Americans!!! <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p>",
+        "contentSnippet": "RT @Schoenlawhttps://www.wsj.com/opinion/americans-household-income-2025-census-bureau-2e2a9e36?st=9jyvTw.  The writer tries to make excuses to explain this great news but the facts are the facts:  Americans are doing better financially and the poverty level is dramatically down!  Let’s give credit where it is due and celebrate good news for our country and fellow Americans!!! @realDonaldTrump",
+        "guid": "https://www.trumpstruth.org/statuses/41839",
+        "isoDate": "2026-09-22T03:26:49.000Z"
+      }
+    }
+  ],
+  "sentiments": [
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41838",
+      "label": "positive",
+      "rationale": "Presents the EPA rollback favorably, emphasizing potential savings for ratepayers and reduced government overreach.",
+      "analyzedAt": "2026-09-22T04:00:42.069Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41839",
+      "label": "positive",
+      "rationale": "Celebrates reported improvements in Americans' finances and lower poverty, praising the news as beneficial for the country.",
+      "analyzedAt": "2026-09-22T04:00:42.069Z"
+    }
+  ],
+  "topicsCacheKey": "day-themes-v11:2:2bc63337a2a438e82eecb92a",
+  "selfPraiseCacheKey": "self-praise-v2:2:2bc63337a2a438e82eecb92a",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41838"
+  ]
 }
