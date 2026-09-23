@@ -1,17 +1,32 @@
 {
   "date": "2026-09-23",
   "counts": {
-    "positive": 0,
-    "neutral": 0,
+    "positive": 2,
+    "neutral": 2,
     "negative": 1
   },
-  "summary": "positive:0 neutral:0 negative:1",
-  "generatedAt": "2026-09-23T04:04:43.735Z",
+  "summary": "positive:2 neutral:2 negative:1",
+  "generatedAt": "2026-09-23T08:02:06.599Z",
   "topics": [
-    "Trump attacks Kaitlan Collins and CNN over United Nations press coverage"
+    "Netanyahu’s bloc leads the latest Israeli election poll",
+    "Azerbaijani official says Trump could broker a possible Iran deal",
+    "Ruddy says Trump’s rising influence is lifting the economy"
   ],
-  "trendingTopic": "Trump attacks Kaitlan Collins and CNN over their coverage from the United Nations",
-  "selfPraiseCount": 0,
+  "trendingTopic": "Netanyahu’s bloc leads the latest Israeli election poll",
+  "secondaryHighlights": [
+    {
+      "topic": "Azerbaijani official says Trump could broker a possible Iran deal"
+    },
+    {
+      "topic": "Ruddy says Trump’s rising influence is lifting the economy"
+    },
+    {
+      "topic": "Trump attacks Kaitlan Collins and CNN for covering him at the United Nations"
+    }
+  ],
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:5:057e466fcbbcc46bb909edee",
+  "selfPraiseCacheKey": "self-praise-v2:5:057e466fcbbcc46bb909edee",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41844",
@@ -30,6 +45,78 @@
         "guid": "https://www.trumpstruth.org/statuses/41844",
         "isoDate": "2026-09-23T03:53:59.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41848",
+      "publishedAt": "2026-09-23T04:03:16.000Z",
+      "title": "[No Title] - Post from September 23, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41848",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 23, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41848",
+        "pubDate": "Wed, 23 Sep 2026 04:03:16 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41848",
+        "isoDate": "2026-09-23T04:03:16.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41847",
+      "publishedAt": "2026-09-23T04:04:03.000Z",
+      "title": "Netanyahu Bloc Takes Lead in Latest Israeli Election Poll:",
+      "text": "<p>Netanyahu Bloc Takes Lead in Latest Israeli Election Poll: <a href=\"https://www.newsmax.com/newsfront/israel-benjamin-netanyahu-likud/2026/09/17/id/1269830/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/newsfront/israel-b</span><span class=\"invisible\">enjamin-netanyahu-likud/2026/09/17/id/1269830/</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41847",
+      "raw": {
+        "creator": "",
+        "title": "Netanyahu Bloc Takes Lead in Latest Israeli Election Poll:",
+        "link": "https://www.trumpstruth.org/statuses/41847",
+        "pubDate": "Wed, 23 Sep 2026 04:04:03 +0000",
+        "author": "",
+        "content": "<p>Netanyahu Bloc Takes Lead in Latest Israeli Election Poll: <a href=\"https://www.newsmax.com/newsfront/israel-benjamin-netanyahu-likud/2026/09/17/id/1269830/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/newsfront/israel-b</span><span class=\"invisible\">enjamin-netanyahu-likud/2026/09/17/id/1269830/</span></a></p>",
+        "contentSnippet": "Netanyahu Bloc Takes Lead in Latest Israeli Election Poll: https://www.newsmax.com/newsfront/israel-benjamin-netanyahu-likud/2026/09/17/id/1269830/",
+        "guid": "https://www.trumpstruth.org/statuses/41847",
+        "isoDate": "2026-09-23T04:04:03.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41846",
+      "publishedAt": "2026-09-23T04:04:24.000Z",
+      "title": "Azerbaijan's Hajiyev to Newsmax: Trump Peacemaker, Iran Deal Possible:",
+      "text": "<p>Azerbaijan's Hajiyev to Newsmax: Trump Peacemaker, Iran Deal Possible: <a href=\"https://www.newsmax.com/newsfront/azerbaijan-ilham-aliyev-armenia/2026/09/14/id/1269433/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/newsfront/azerbaij</span><span class=\"invisible\">an-ilham-aliyev-armenia/2026/09/14/id/1269433/</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41846",
+      "raw": {
+        "creator": "",
+        "title": "Azerbaijan's Hajiyev to Newsmax: Trump Peacemaker, Iran Deal Possible:",
+        "link": "https://www.trumpstruth.org/statuses/41846",
+        "pubDate": "Wed, 23 Sep 2026 04:04:24 +0000",
+        "author": "",
+        "content": "<p>Azerbaijan's Hajiyev to Newsmax: Trump Peacemaker, Iran Deal Possible: <a href=\"https://www.newsmax.com/newsfront/azerbaijan-ilham-aliyev-armenia/2026/09/14/id/1269433/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/newsfront/azerbaij</span><span class=\"invisible\">an-ilham-aliyev-armenia/2026/09/14/id/1269433/</span></a></p>",
+        "contentSnippet": "Azerbaijan's Hajiyev to Newsmax: Trump Peacemaker, Iran Deal Possible: https://www.newsmax.com/newsfront/azerbaijan-ilham-aliyev-armenia/2026/09/14/id/1269433/",
+        "guid": "https://www.trumpstruth.org/statuses/41846",
+        "isoDate": "2026-09-23T04:04:24.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41845",
+      "publishedAt": "2026-09-23T04:04:44.000Z",
+      "title": "Ruddy: 'A Rising Trump Lifts All Boats':",
+      "text": "<p>Ruddy: 'A Rising Trump Lifts All Boats': <a href=\"https://www.newsmax.com/ruddy/ruddy-donald-trump-economy/2026/09/13/id/1269294/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/ruddy/ruddy-donald</span><span class=\"invisible\">-trump-economy/2026/09/13/id/1269294/</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41845",
+      "raw": {
+        "creator": "",
+        "title": "Ruddy: 'A Rising Trump Lifts All Boats':",
+        "link": "https://www.trumpstruth.org/statuses/41845",
+        "pubDate": "Wed, 23 Sep 2026 04:04:44 +0000",
+        "author": "",
+        "content": "<p>Ruddy: 'A Rising Trump Lifts All Boats': <a href=\"https://www.newsmax.com/ruddy/ruddy-donald-trump-economy/2026/09/13/id/1269294/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/ruddy/ruddy-donald</span><span class=\"invisible\">-trump-economy/2026/09/13/id/1269294/</span></a></p>",
+        "contentSnippet": "Ruddy: 'A Rising Trump Lifts All Boats': https://www.newsmax.com/ruddy/ruddy-donald-trump-economy/2026/09/13/id/1269294/",
+        "guid": "https://www.trumpstruth.org/statuses/41845",
+        "isoDate": "2026-09-23T04:04:44.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -38,13 +125,35 @@
       "label": "negative",
       "rationale": "The text is dominated by hostile insults, accusations, and disparaging language toward journalists, CNN, and a judge.",
       "analyzedAt": "2026-09-23T04:04:33.447Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41845",
+      "label": "positive",
+      "rationale": "Presents Trump's economic impact as broadly beneficial, suggesting his rise lifts everyone.",
+      "analyzedAt": "2026-09-23T08:01:49.473Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41846",
+      "label": "positive",
+      "rationale": "Describes Trump favorably as a peacemaker and highlights the possibility of an Iran deal.",
+      "analyzedAt": "2026-09-23T08:01:49.473Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41847",
+      "label": "neutral",
+      "rationale": "Reports an election poll result without expressing clear approval or disapproval.",
+      "analyzedAt": "2026-09-23T08:01:49.473Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41848",
+      "label": "neutral",
+      "rationale": "Contains no text or discernible sentiment.",
+      "analyzedAt": "2026-09-23T08:01:49.473Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v11:1:78d1fc5c63e86eb393d11f34",
-  "selfPraiseCacheKey": "self-praise-v2:1:78d1fc5c63e86eb393d11f34",
-  "secondaryHighlights": [
-    {
-      "topic": "All of the SLEAZEBAGS, like Third Rate “Reporter,” Kaitlan Collins, of Fake News CNN, a truly unhappy person, said they weren’t going to be covering me."
-    }
+  "trendingName": "Benjamin Netanyahu",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41846",
+    "https://www.trumpstruth.org/statuses/41845"
   ]
 }
