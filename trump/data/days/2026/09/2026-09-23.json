@@ -1,35 +1,36 @@
 {
   "date": "2026-09-23",
   "counts": {
-    "positive": 4,
+    "positive": 6,
     "neutral": 2,
     "negative": 2
   },
-  "summary": "positive:4 neutral:2 negative:2",
-  "generatedAt": "2026-09-23T16:04:36.283Z",
+  "summary": "positive:6 neutral:2 negative:2",
+  "generatedAt": "2026-09-23T20:04:20.483Z",
   "topics": [
-    "Trump warns Canada’s unchecked immigration is driving unemployment and a destructive Liberal takeover",
-    "Netanyahu’s bloc leads the latest Israeli election polling",
-    "Azerbaijan official says Trump could broker a possible Iran deal"
+    "Trump warns Canada’s unchecked immigration is causing unemployment and a looming national crisis",
+    "Trump attacks CNN reporter Kaitlan Collins and the network’s United Nations coverage",
+    "Netanyahu’s bloc leads in the latest Israeli election poll"
   ],
-  "trendingTopic": "Trump warns Canada’s unchecked immigration is driving unemployment and a destructive Liberal takeover",
+  "trendingTopic": "Trump warns Canada’s unchecked immigration is causing unemployment and a looming national crisis",
   "secondaryHighlights": [
     {
-      "topic": "Trump attacks CNN reporter Kaitlan Collins and other media critics"
+      "topic": "Trump shares report saying Azerbaijan sees him as a peacemaker and an Iran deal as possible"
     },
     {
-      "topic": "Newsmax commentary credits Trump with lifting the economy"
+      "topic": "Trump promotes commentary claiming his rising influence is benefiting the economy"
     },
     {
-      "topic": "Trump thanks Robert Greenway and Jesse for supporting his views"
+      "topic": "Trump features Gary Player, Bryson DeChambeau, Mikayla Demaiter, and Susan Waterfall aboard Marine One"
     }
   ],
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v11:8:2fc0f47ffa1fed17ab700e79",
-  "selfPraiseCacheKey": "self-praise-v2:8:2fc0f47ffa1fed17ab700e79",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:10:d18a227f92838efd61474e40",
+  "selfPraiseCacheKey": "self-praise-v2:10:d18a227f92838efd61474e40",
   "selfPraisePostIds": [
     "https://www.trumpstruth.org/statuses/41846",
-    "https://www.trumpstruth.org/statuses/41845"
+    "https://www.trumpstruth.org/statuses/41845",
+    "https://www.trumpstruth.org/statuses/41853"
   ],
   "posts": [
     {
@@ -175,6 +176,50 @@
         "guid": "https://www.trumpstruth.org/statuses/41851",
         "isoDate": "2026-09-23T13:26:43.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41852",
+      "publishedAt": "2026-09-23T19:44:04.000Z",
+      "title": "The Great Gary Player, Bryson DeChambeau, Mikayla Demaiter, and Susan Waterfall, on Marine One! President DONALD J. TRUMP",
+      "text": "<p>The Great Gary Player, Bryson DeChambeau, Mikayla Demaiter, and Susan Waterfall, on Marine One! President DONALD J. TRUMP</p>\n\n[Image] A dark vehicle is shown in close-up, with several people visible through its windows. Two men sit behind the smaller left window, including an older man in a red jacket and a younger man in a light shirt. Through the larger window, a woman and an older man in a dark suit are seated inside under warm interior lighting.",
+      "url": "https://www.trumpstruth.org/statuses/41852",
+      "raw": {
+        "creator": "",
+        "title": "The Great Gary Player, Bryson DeChambeau, Mikayla Demaiter, and Susan Waterfall, on Marine One! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41852",
+        "pubDate": "Wed, 23 Sep 2026 19:44:04 +0000",
+        "author": "",
+        "content": "<p>The Great Gary Player, Bryson DeChambeau, Mikayla Demaiter, and Susan Waterfall, on Marine One! President DONALD J. TRUMP</p>",
+        "contentSnippet": "The Great Gary Player, Bryson DeChambeau, Mikayla Demaiter, and Susan Waterfall, on Marine One! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41852",
+        "isoDate": "2026-09-23T19:44:04.000Z"
+      },
+      "imageDescribedAt": "2026-09-23T20:03:55.350Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18206/c66324f06e1ed97d-aa94883d868f.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41853",
+      "publishedAt": "2026-09-23T19:50:55.000Z",
+      "title": "[No Title] - Post from September 23, 2026",
+      "text": "[Image] A book cover titled “Trump and Churchill: Defenders of Western Civilization” features black-and-white portraits of Donald Trump and Winston Churchill side by side. The author’s name, Nick Adams, appears at the top, while the bottom notes a foreword by Newt Gingrich. The design uses large gold lettering against a dark background.",
+      "url": "https://www.trumpstruth.org/statuses/41853",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 23, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41853",
+        "pubDate": "Wed, 23 Sep 2026 19:50:55 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41853",
+        "isoDate": "2026-09-23T19:50:55.000Z"
+      },
+      "imageDescribedAt": "2026-09-23T20:03:50.481Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18207/5b7c50844c6f358f-3b94eabb4a3f.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -225,6 +270,18 @@
       "label": "positive",
       "rationale": "Promotes Victor Davis Hanson’s content as highly recommended and uses an approving tone.",
       "analyzedAt": "2026-09-23T16:04:19.428Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41852",
+      "label": "positive",
+      "rationale": "The enthusiastic wording praises Trump and highlights his association with notable guests aboard Marine One.",
+      "analyzedAt": "2026-09-23T20:03:58.346Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41853",
+      "label": "positive",
+      "rationale": "The post presents Trump favorably by associating him with Winston Churchill as a defender of Western civilization.",
+      "analyzedAt": "2026-09-23T20:03:58.346Z"
     }
   ]
 }
