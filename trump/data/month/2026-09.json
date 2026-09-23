@@ -588,7 +588,7 @@
       ],
       "postsCount": 5,
       "hasDetail": true,
-      "generatedAt": "2026-09-23T12:04:45.509Z",
+      "generatedAt": "2026-09-23T16:04:11.482Z",
       "trendingTopic": "Trump highlights EPA rollback projected to save ratepayers $310 billion",
       "secondaryHighlights": [
         {
@@ -604,47 +604,46 @@
     {
       "date": "2026-09-23",
       "counts": {
-        "positive": 2,
+        "positive": 4,
         "neutral": 2,
-        "negative": 1
+        "negative": 2
       },
-      "summary": "positive:2 neutral:2 negative:1",
+      "summary": "positive:4 neutral:2 negative:2",
       "topics": [
-        "Netanyahu’s bloc leads the latest Israeli election poll",
-        "Azerbaijani official says Trump could broker a possible Iran deal",
-        "Ruddy says Trump’s rising influence is lifting the economy"
+        "Trump warns Canada’s unchecked immigration is driving unemployment and a destructive Liberal takeover",
+        "Netanyahu’s bloc leads the latest Israeli election polling",
+        "Azerbaijan official says Trump could broker a possible Iran deal"
       ],
-      "postsCount": 5,
+      "postsCount": 8,
       "hasDetail": true,
-      "generatedAt": "2026-09-23T12:04:48.880Z",
-      "trendingTopic": "Netanyahu’s bloc leads the latest Israeli election poll",
-      "trendingName": "Benjamin Netanyahu",
+      "generatedAt": "2026-09-23T16:04:36.283Z",
+      "trendingTopic": "Trump warns Canada’s unchecked immigration is driving unemployment and a destructive Liberal takeover",
       "secondaryHighlights": [
         {
-          "topic": "Azerbaijani official says Trump could broker a possible Iran deal"
+          "topic": "Trump attacks CNN reporter Kaitlan Collins and other media critics"
         },
         {
-          "topic": "Ruddy says Trump’s rising influence is lifting the economy"
+          "topic": "Newsmax commentary credits Trump with lifting the economy"
         },
         {
-          "topic": "Trump attacks Kaitlan Collins and CNN for covering him at the United Nations"
+          "topic": "Trump thanks Robert Greenway and Jesse for supporting his views"
         }
       ],
       "selfPraiseCount": 2
     }
   ],
-  "generatedAt": "2026-09-23T12:04:48.880Z",
-  "trendingTopic": "Escalates pressure on Iran through military action, economic sanctions, and oil disruption",
+  "generatedAt": "2026-09-23T16:04:36.283Z",
+  "trendingTopic": "Trump portrays Iran as collapsing amid military pressure, oil disruption, and possible negotiations",
   "secondaryHighlights": [
     {
-      "topic": "Rallies Republicans around the Dallas midterm convention and campaign events"
+      "topic": "Trump endorses candidates across congressional, Senate, gubernatorial, and state races"
     },
     {
-      "topic": "Touts stronger household finances, lower poverty, jobs, and economic growth"
+      "topic": "Trump fights CNN, Politico, and MS NOW over press access and coverage"
     },
     {
-      "topic": "Battles CNN, Politico, MS NOW, and other media outlets over coverage and press access"
+      "topic": "Trump expands U.S. AI infrastructure while dismissing catastrophic-risk warnings"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:23:b258973d278821b624e55f84"
+  "topicsCacheKey": "month-themes-v5:23:152147efd96eeee7c9fae3b1"
 }

@@ -1,33 +1,32 @@
 {
   "date": "2026-09-23",
   "counts": {
-    "positive": 2,
+    "positive": 4,
     "neutral": 2,
-    "negative": 1
+    "negative": 2
   },
-  "summary": "positive:2 neutral:2 negative:1",
-  "generatedAt": "2026-09-23T12:04:48.880Z",
+  "summary": "positive:4 neutral:2 negative:2",
+  "generatedAt": "2026-09-23T16:04:36.283Z",
   "topics": [
-    "Netanyahu’s bloc leads the latest Israeli election poll",
-    "Azerbaijani official says Trump could broker a possible Iran deal",
-    "Ruddy says Trump’s rising influence is lifting the economy"
+    "Trump warns Canada’s unchecked immigration is driving unemployment and a destructive Liberal takeover",
+    "Netanyahu’s bloc leads the latest Israeli election polling",
+    "Azerbaijan official says Trump could broker a possible Iran deal"
   ],
-  "trendingTopic": "Netanyahu’s bloc leads the latest Israeli election poll",
-  "trendingName": "Benjamin Netanyahu",
+  "trendingTopic": "Trump warns Canada’s unchecked immigration is driving unemployment and a destructive Liberal takeover",
   "secondaryHighlights": [
     {
-      "topic": "Azerbaijani official says Trump could broker a possible Iran deal"
+      "topic": "Trump attacks CNN reporter Kaitlan Collins and other media critics"
     },
     {
-      "topic": "Ruddy says Trump’s rising influence is lifting the economy"
+      "topic": "Newsmax commentary credits Trump with lifting the economy"
     },
     {
-      "topic": "Trump attacks Kaitlan Collins and CNN for covering him at the United Nations"
+      "topic": "Trump thanks Robert Greenway and Jesse for supporting his views"
     }
   ],
   "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v11:5:057e466fcbbcc46bb909edee",
-  "selfPraiseCacheKey": "self-praise-v2:5:057e466fcbbcc46bb909edee",
+  "topicsCacheKey": "day-themes-v11:8:2fc0f47ffa1fed17ab700e79",
+  "selfPraiseCacheKey": "self-praise-v2:8:2fc0f47ffa1fed17ab700e79",
   "selfPraisePostIds": [
     "https://www.trumpstruth.org/statuses/41846",
     "https://www.trumpstruth.org/statuses/41845"
@@ -122,6 +121,60 @@
         "guid": "https://www.trumpstruth.org/statuses/41845",
         "isoDate": "2026-09-23T04:04:44.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41849",
+      "publishedAt": "2026-09-23T12:36:52.000Z",
+      "title": "Thank you to the Great Robert Greenway and Jesse — They get it! President DONALD J. TRUMP",
+      "text": "<p>Thank you to the Great Robert Greenway and Jesse — They get it! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41849",
+      "raw": {
+        "creator": "",
+        "title": "Thank you to the Great Robert Greenway and Jesse — They get it! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41849",
+        "pubDate": "Wed, 23 Sep 2026 12:36:52 +0000",
+        "author": "",
+        "content": "<p>Thank you to the Great Robert Greenway and Jesse — They get it! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Thank you to the Great Robert Greenway and Jesse — They get it! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41849",
+        "isoDate": "2026-09-23T12:36:52.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41850",
+      "publishedAt": "2026-09-23T13:08:24.000Z",
+      "title": "Canada is destroying itself by allowing millions and millions of people into the Country, essentially unchecked and unvetted, and who are causing problems that will soon be too big to handle. It is a Liberal takeover that will end very badly. Already showing up in their numbers. Big unemployment. ‘Oh Canada! President DJT",
+      "text": "<p>Canada is destroying itself by allowing millions and millions of people into the Country, essentially unchecked and unvetted, and who are causing problems that will soon be too big to handle. It is a Liberal takeover that will end very badly. Already showing up in their numbers. Big unemployment. ‘Oh Canada! President DJT</p>",
+      "url": "https://www.trumpstruth.org/statuses/41850",
+      "raw": {
+        "creator": "",
+        "title": "Canada is destroying itself by allowing millions and millions of people into the Country, essentially unchecked and unvetted, and who are causing problems that will soon be too big to handle. It is a Liberal takeover that will end very badly. Already showing up in their numbers. Big unemployment. ‘Oh Canada! President DJT",
+        "link": "https://www.trumpstruth.org/statuses/41850",
+        "pubDate": "Wed, 23 Sep 2026 13:08:24 +0000",
+        "author": "",
+        "content": "<p>Canada is destroying itself by allowing millions and millions of people into the Country, essentially unchecked and unvetted, and who are causing problems that will soon be too big to handle. It is a Liberal takeover that will end very badly. Already showing up in their numbers. Big unemployment. ‘Oh Canada! President DJT</p>",
+        "contentSnippet": "Canada is destroying itself by allowing millions and millions of people into the Country, essentially unchecked and unvetted, and who are causing problems that will soon be too big to handle. It is a Liberal takeover that will end very badly. Already showing up in their numbers. Big unemployment. ‘Oh Canada! President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/41850",
+        "isoDate": "2026-09-23T13:08:24.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41851",
+      "publishedAt": "2026-09-23T13:26:43.000Z",
+      "title": "Victor Davis Hanson on Canada — A MUST SEE! President DONALD J. TRUMP",
+      "text": "<p>Victor Davis Hanson on Canada — A MUST SEE! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41851",
+      "raw": {
+        "creator": "",
+        "title": "Victor Davis Hanson on Canada — A MUST SEE! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41851",
+        "pubDate": "Wed, 23 Sep 2026 13:26:43 +0000",
+        "author": "",
+        "content": "<p>Victor Davis Hanson on Canada — A MUST SEE! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Victor Davis Hanson on Canada — A MUST SEE! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41851",
+        "isoDate": "2026-09-23T13:26:43.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -154,6 +207,24 @@
       "label": "neutral",
       "rationale": "Contains no text or discernible sentiment.",
       "analyzedAt": "2026-09-23T08:01:49.473Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41849",
+      "label": "positive",
+      "rationale": "Offers enthusiastic thanks and praise to Robert Greenway and Jesse.",
+      "analyzedAt": "2026-09-23T16:04:19.428Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41850",
+      "label": "negative",
+      "rationale": "Expresses strong criticism of Canada’s immigration policies and predicts harmful consequences.",
+      "analyzedAt": "2026-09-23T16:04:19.428Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41851",
+      "label": "positive",
+      "rationale": "Promotes Victor Davis Hanson’s content as highly recommended and uses an approving tone.",
+      "analyzedAt": "2026-09-23T16:04:19.428Z"
     }
   ]
 }
