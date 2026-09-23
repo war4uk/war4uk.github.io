@@ -6,13 +6,14 @@
     "negative": 1
   },
   "summary": "positive:2 neutral:2 negative:1",
-  "generatedAt": "2026-09-23T08:02:06.599Z",
+  "generatedAt": "2026-09-23T12:04:48.880Z",
   "topics": [
     "Netanyahu’s bloc leads the latest Israeli election poll",
     "Azerbaijani official says Trump could broker a possible Iran deal",
     "Ruddy says Trump’s rising influence is lifting the economy"
   ],
   "trendingTopic": "Netanyahu’s bloc leads the latest Israeli election poll",
+  "trendingName": "Benjamin Netanyahu",
   "secondaryHighlights": [
     {
       "topic": "Azerbaijani official says Trump could broker a possible Iran deal"
@@ -27,6 +28,10 @@
   "selfPraiseCount": 2,
   "topicsCacheKey": "day-themes-v11:5:057e466fcbbcc46bb909edee",
   "selfPraiseCacheKey": "self-praise-v2:5:057e466fcbbcc46bb909edee",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41846",
+    "https://www.trumpstruth.org/statuses/41845"
+  ],
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41844",
@@ -150,10 +155,5 @@
       "rationale": "Contains no text or discernible sentiment.",
       "analyzedAt": "2026-09-23T08:01:49.473Z"
     }
-  ],
-  "trendingName": "Benjamin Netanyahu",
-  "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/41846",
-    "https://www.trumpstruth.org/statuses/41845"
   ]
 }
