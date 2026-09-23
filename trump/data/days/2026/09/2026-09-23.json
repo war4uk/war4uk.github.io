@@ -3,12 +3,48 @@
   "counts": {
     "positive": 0,
     "neutral": 0,
-    "negative": 0
+    "negative": 1
   },
-  "summary": "positive:0 neutral:0 negative:0",
-  "generatedAt": "2026-09-23T00:04:27.585Z",
-  "topics": [],
+  "summary": "positive:0 neutral:0 negative:1",
+  "generatedAt": "2026-09-23T04:04:43.735Z",
+  "topics": [
+    "Trump attacks Kaitlan Collins and CNN over United Nations press coverage"
+  ],
+  "trendingTopic": "Trump attacks Kaitlan Collins and CNN over their coverage from the United Nations",
   "selfPraiseCount": 0,
-  "posts": [],
-  "sentiments": []
+  "posts": [
+    {
+      "id": "https://www.trumpstruth.org/statuses/41844",
+      "publishedAt": "2026-09-23T03:53:59.000Z",
+      "title": "All of the SLEAZEBAGS, like Third Rate “Reporter,” Kaitlan Collins, of Fake News CNN, a truly unhappy person, said they weren’t going to be covering me. Then why were they ranting and raving like Lunatics, in the Press Area, at the United Nations? Why was she there? She’s got a “TRUMP” addiction, and so does CNN and MSDNC. They’re all sick, treasonous, and demented! The “good news” is that they have a great, for them, and totally disloyal Judge. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+      "text": "<p>All of the SLEAZEBAGS, like Third Rate “Reporter,” Kaitlan Collins, of Fake News CNN, a truly unhappy person, said they weren’t going to be covering me. Then why were they ranting and raving like Lunatics, in the Press Area, at the United Nations? Why was she there? She’s got a “TRUMP” addiction, and so does CNN and MSDNC. They’re all sick, treasonous, and demented! The “good news” is that they have a great, for them, and totally disloyal Judge. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41844",
+      "raw": {
+        "creator": "",
+        "title": "All of the SLEAZEBAGS, like Third Rate “Reporter,” Kaitlan Collins, of Fake News CNN, a truly unhappy person, said they weren’t going to be covering me. Then why were they ranting and raving like Lunatics, in the Press Area, at the United Nations? Why was she there? She’s got a “TRUMP” addiction, and so does CNN and MSDNC. They’re all sick, treasonous, and demented! The “good news” is that they have a great, for them, and totally disloyal Judge. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41844",
+        "pubDate": "Wed, 23 Sep 2026 03:53:59 +0000",
+        "author": "",
+        "content": "<p>All of the SLEAZEBAGS, like Third Rate “Reporter,” Kaitlan Collins, of Fake News CNN, a truly unhappy person, said they weren’t going to be covering me. Then why were they ranting and raving like Lunatics, in the Press Area, at the United Nations? Why was she there? She’s got a “TRUMP” addiction, and so does CNN and MSDNC. They’re all sick, treasonous, and demented! The “good news” is that they have a great, for them, and totally disloyal Judge. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "All of the SLEAZEBAGS, like Third Rate “Reporter,” Kaitlan Collins, of Fake News CNN, a truly unhappy person, said they weren’t going to be covering me. Then why were they ranting and raving like Lunatics, in the Press Area, at the United Nations? Why was she there? She’s got a “TRUMP” addiction, and so does CNN and MSDNC. They’re all sick, treasonous, and demented! The “good news” is that they have a great, for them, and totally disloyal Judge. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41844",
+        "isoDate": "2026-09-23T03:53:59.000Z"
+      }
+    }
+  ],
+  "sentiments": [
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41844",
+      "label": "negative",
+      "rationale": "The text is dominated by hostile insults, accusations, and disparaging language toward journalists, CNN, and a judge.",
+      "analyzedAt": "2026-09-23T04:04:33.447Z"
+    }
+  ],
+  "topicsCacheKey": "day-themes-v11:1:78d1fc5c63e86eb393d11f34",
+  "selfPraiseCacheKey": "self-praise-v2:1:78d1fc5c63e86eb393d11f34",
+  "secondaryHighlights": [
+    {
+      "topic": "All of the SLEAZEBAGS, like Third Rate “Reporter,” Kaitlan Collins, of Fake News CNN, a truly unhappy person, said they weren’t going to be covering me."
+    }
+  ]
 }

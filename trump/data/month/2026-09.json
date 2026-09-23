@@ -588,7 +588,7 @@
       ],
       "postsCount": 5,
       "hasDetail": true,
-      "generatedAt": "2026-09-23T00:04:45.686Z",
+      "generatedAt": "2026-09-23T04:04:27.883Z",
       "trendingTopic": "Trump highlights EPA rollback projected to save ratepayers $310 billion",
       "secondaryHighlights": [
         {
@@ -606,28 +606,36 @@
       "counts": {
         "positive": 0,
         "neutral": 0,
-        "negative": 0
+        "negative": 1
       },
-      "summary": "positive:0 neutral:0 negative:0",
-      "topics": [],
-      "postsCount": 0,
+      "summary": "positive:0 neutral:0 negative:1",
+      "topics": [
+        "Trump attacks Kaitlan Collins and CNN over United Nations press coverage"
+      ],
+      "postsCount": 1,
       "hasDetail": true,
-      "generatedAt": "2026-09-23T00:04:27.585Z",
+      "generatedAt": "2026-09-23T04:04:43.735Z",
+      "trendingTopic": "Trump attacks Kaitlan Collins and CNN over their coverage from the United Nations",
+      "secondaryHighlights": [
+        {
+          "topic": "All of the SLEAZEBAGS, like Third Rate “Reporter,” Kaitlan Collins, of Fake News CNN, a truly unhappy person, said they weren’t going to be covering me."
+        }
+      ],
       "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-23T00:04:45.686Z",
-  "trendingTopic": "Trump portrays Iran as collapsing while defending military operations and oil pressure",
+  "generatedAt": "2026-09-23T04:04:43.735Z",
+  "trendingTopic": "Trump presses Iran through military action while touting economic collapse and oil security",
   "secondaryHighlights": [
     {
-      "topic": "Trump promotes White House renovations, grandiose monuments, and military complexes"
+      "topic": "Trump touts lower poverty, stronger household finances, and pressure for lower interest rates"
     },
     {
-      "topic": "Trump touts stronger household finances, jobs, and lower poverty while demanding lower rates"
+      "topic": "Trump expands U.S. artificial-intelligence infrastructure while dismissing catastrophic-risk warnings"
     },
     {
-      "topic": "Trump endorses candidates across multiple 2026 Republican races"
+      "topic": "Trump battles CNN, Politico, and MS NOW over White House press access"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:22:54de5dc993bb1733781dc5fa"
+  "topicsCacheKey": "month-themes-v5:23:52c9760bfeda662e55bad938"
 }
