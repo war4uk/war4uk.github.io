@@ -2,35 +2,31 @@
   "date": "2026-09-22",
   "counts": {
     "positive": 4,
-    "neutral": 0,
+    "neutral": 1,
     "negative": 0
   },
-  "summary": "positive:4 neutral:0 negative:0",
-  "generatedAt": "2026-09-22T20:02:39.779Z",
+  "summary": "positive:4 neutral:1 negative:0",
+  "generatedAt": "2026-09-23T00:04:45.686Z",
   "topics": [
-    "Trump EPA rollback could save ratepayers $310 billion by cutting waste and regulation",
-    "Trump touts falling poverty and improved American household finances",
-    "Trump says the United States has ample munitions and is rapidly expanding stockpiles"
+    "Trump highlights EPA rollback projected to save ratepayers $310 billion",
+    "Trump celebrates higher household finances and sharply lower poverty",
+    "Trump says U.S. has abundant munitions and is rapidly expanding stockpiles"
   ],
-  "trendingTopic": "Trump EPA rollback could save ratepayers $310 billion by cutting waste and regulation",
+  "trendingTopic": "Trump highlights EPA rollback projected to save ratepayers $310 billion",
   "secondaryHighlights": [
     {
-      "topic": "Trump praises Johnny Damon for defending his political opinion",
+      "topic": "Johnny Damon refuses to apologize for supporting President Trump",
       "name": "Johnny Damon"
     },
     {
-      "topic": "Trump touts falling poverty and improved American household finances"
-    },
-    {
-      "topic": "Trump says the United States has ample munitions and is rapidly expanding stockpiles"
+      "topic": "Agent says he was unaware subpoenaed phone data belonged to Congress in Jack Smith case"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v11:4:ab6b2559cc19563d08204d2c",
-  "selfPraiseCacheKey": "self-praise-v2:4:ab6b2559cc19563d08204d2c",
+  "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:5:8529addcf35b185b1e93c077",
+  "selfPraiseCacheKey": "self-praise-v2:5:8529addcf35b185b1e93c077",
   "selfPraisePostIds": [
     "https://www.trumpstruth.org/statuses/41838",
-    "https://www.trumpstruth.org/statuses/41839",
     "https://www.trumpstruth.org/statuses/41842"
   ],
   "posts": [
@@ -105,6 +101,24 @@
         "guid": "https://www.trumpstruth.org/statuses/41842",
         "isoDate": "2026-09-22T11:14:40.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41843",
+      "publishedAt": "2026-09-22T22:13:52.000Z",
+      "title": "Agent in Jack Smith case says he was kept in dark that subpoenaed phone data belonged to Congress:",
+      "text": "<p>Agent in Jack Smith case says he was kept in dark that subpoenaed phone data belonged to Congress: <a href=\"https://justthenews.com/accountability/political-ethics/agent-jack-smith-case-says-he-was-kept-dark-subpoenaed-phone-data\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/accountability</span><span class=\"invisible\">/political-ethics/agent-jack-smith-case-says-he-was-kept-dark-subpoenaed-phone-data</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41843",
+      "raw": {
+        "creator": "",
+        "title": "Agent in Jack Smith case says he was kept in dark that subpoenaed phone data belonged to Congress:",
+        "link": "https://www.trumpstruth.org/statuses/41843",
+        "pubDate": "Tue, 22 Sep 2026 22:13:52 +0000",
+        "author": "",
+        "content": "<p>Agent in Jack Smith case says he was kept in dark that subpoenaed phone data belonged to Congress: <a href=\"https://justthenews.com/accountability/political-ethics/agent-jack-smith-case-says-he-was-kept-dark-subpoenaed-phone-data\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/accountability</span><span class=\"invisible\">/political-ethics/agent-jack-smith-case-says-he-was-kept-dark-subpoenaed-phone-data</span></a></p>",
+        "contentSnippet": "Agent in Jack Smith case says he was kept in dark that subpoenaed phone data belonged to Congress: https://justthenews.com/accountability/political-ethics/agent-jack-smith-case-says-he-was-kept-dark-subpoenaed-phone-data",
+        "guid": "https://www.trumpstruth.org/statuses/41843",
+        "isoDate": "2026-09-22T22:13:52.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -131,6 +145,12 @@
       "label": "positive",
       "rationale": "The statement conveys confidence in the United States' abundant and increasing munitions capacity, despite using hostile language toward critics.",
       "analyzedAt": "2026-09-22T12:04:16.712Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41843",
+      "label": "neutral",
+      "rationale": "The post neutrally shares a report about an agent being unaware that subpoenaed phone data belonged to Congress, without expressing explicit approval, disapproval, or emotion.",
+      "analyzedAt": "2026-09-23T00:04:25.179Z"
     }
   ]
 }

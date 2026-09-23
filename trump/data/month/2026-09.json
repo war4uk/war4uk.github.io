@@ -577,46 +577,57 @@
       "date": "2026-09-22",
       "counts": {
         "positive": 4,
-        "neutral": 0,
+        "neutral": 1,
         "negative": 0
       },
-      "summary": "positive:4 neutral:0 negative:0",
+      "summary": "positive:4 neutral:1 negative:0",
       "topics": [
-        "Trump EPA rollback could save ratepayers $310 billion by cutting waste and regulation",
-        "Trump touts falling poverty and improved American household finances",
-        "Trump says the United States has ample munitions and is rapidly expanding stockpiles"
+        "Trump highlights EPA rollback projected to save ratepayers $310 billion",
+        "Trump celebrates higher household finances and sharply lower poverty",
+        "Trump says U.S. has abundant munitions and is rapidly expanding stockpiles"
       ],
-      "postsCount": 4,
+      "postsCount": 5,
       "hasDetail": true,
-      "generatedAt": "2026-09-22T20:02:39.779Z",
-      "trendingTopic": "Trump EPA rollback could save ratepayers $310 billion by cutting waste and regulation",
+      "generatedAt": "2026-09-23T00:04:45.686Z",
+      "trendingTopic": "Trump highlights EPA rollback projected to save ratepayers $310 billion",
       "secondaryHighlights": [
         {
-          "topic": "Trump praises Johnny Damon for defending his political opinion",
+          "topic": "Johnny Damon refuses to apologize for supporting President Trump",
           "name": "Johnny Damon"
         },
         {
-          "topic": "Trump touts falling poverty and improved American household finances"
-        },
-        {
-          "topic": "Trump says the United States has ample munitions and is rapidly expanding stockpiles"
+          "topic": "Agent says he was unaware subpoenaed phone data belonged to Congress in Jack Smith case"
         }
       ],
-      "selfPraiseCount": 3
+      "selfPraiseCount": 2
+    },
+    {
+      "date": "2026-09-23",
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "positive:0 neutral:0 negative:0",
+      "topics": [],
+      "postsCount": 0,
+      "hasDetail": true,
+      "generatedAt": "2026-09-23T00:04:27.585Z",
+      "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-22T20:02:39.779Z",
-  "trendingTopic": "Defends U.S. military pressure on Iran while portraying its economy and strategic position as collapsing",
+  "generatedAt": "2026-09-23T00:04:45.686Z",
+  "trendingTopic": "Trump portrays Iran as collapsing while defending military operations and oil pressure",
   "secondaryHighlights": [
     {
-      "topic": "Touts stronger household finances, lower poverty, and economic gains under Trump"
+      "topic": "Trump promotes White House renovations, grandiose monuments, and military complexes"
     },
     {
-      "topic": "Promotes U.S. artificial-intelligence and data-center expansion while dismissing catastrophic-risk warnings"
+      "topic": "Trump touts stronger household finances, jobs, and lower poverty while demanding lower rates"
     },
     {
-      "topic": "Battles CNN, Politico, and MS NOW over alleged bias and White House press access"
+      "topic": "Trump endorses candidates across multiple 2026 Republican races"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:22:e97065877f6e0144867f836a"
+  "topicsCacheKey": "month-themes-v5:22:54de5dc993bb1733781dc5fa"
 }
