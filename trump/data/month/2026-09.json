@@ -616,7 +616,7 @@
       ],
       "postsCount": 10,
       "hasDetail": true,
-      "generatedAt": "2026-09-24T12:00:25.854Z",
+      "generatedAt": "2026-09-24T16:05:05.488Z",
       "trendingTopic": "Trump warns Canada’s unchecked immigration is causing unemployment and a looming national crisis",
       "secondaryHighlights": [
         {
@@ -634,43 +634,44 @@
     {
       "date": "2026-09-24",
       "counts": {
-        "positive": 3,
-        "neutral": 1,
-        "negative": 2
+        "positive": 6,
+        "neutral": 8,
+        "negative": 5
       },
-      "summary": "positive:3 neutral:1 negative:2",
+      "summary": "positive:6 neutral:8 negative:5",
       "topics": [
-        "Denies reports he wants Washington’s Ford’s Theatre renamed after him",
-        "Highlights meeting with Xi Jinping and discussions of superintelligence",
-        "Hails Türkiye and Bangladesh orders for 111 Boeing aircraft"
+        "Trump meets Xi Jinping, saying superintelligence policy will remain unchanged with DOJ as guardrail",
+        "Denies reports seeking to rename Ford’s Theatre after himself",
+        "Hails Türkiye and Bangladesh ordering 111 Boeing aircraft as a manufacturing victory"
       ],
-      "postsCount": 6,
+      "postsCount": 19,
       "hasDetail": true,
-      "generatedAt": "2026-09-24T12:00:51.263Z",
-      "trendingTopic": "Denies false reports that he wants Washington’s Ford’s Theatre renamed after him",
+      "generatedAt": "2026-09-24T16:05:42.284Z",
+      "trendingTopic": "Trump meets Xi Jinping, saying superintelligence policy will remain unchanged with DOJ as guardrail",
       "secondaryHighlights": [
         {
-          "topic": "Highlights meeting with Xi Jinping and discussions of superintelligence"
+          "topic": "Rejects economic doom narratives and urges viewers to watch a Fox News fact check"
         },
         {
-          "topic": "Hails Türkiye and Bangladesh orders for 111 Boeing aircraft"
+          "topic": "Recommends Victor Davis Hanson’s analysis of Canada",
+          "name": "Victor Davis Hanson"
         }
       ],
       "selfPraiseCount": 1
     }
   ],
-  "generatedAt": "2026-09-24T12:00:51.263Z",
-  "trendingTopic": "Trump portrays Iran as collapsing after military strikes while weighing oil and diplomatic outcomes",
+  "generatedAt": "2026-09-24T16:05:42.284Z",
+  "trendingTopic": "Donald Trump portrays Iran as collapsing while defending military operations and discussing oil, weapons, and negotiations",
   "secondaryHighlights": [
     {
-      "topic": "Trump promotes U.S. AI expansion and announces an AI Force while dismissing catastrophe warnings"
+      "topic": "Donald Trump touts stronger household finances, lower poverty, and economic growth while demanding lower interest rates"
     },
     {
-      "topic": "Trump touts stronger household finances, lower poverty, and economic gains"
+      "topic": "Donald Trump battles CNN, Politico, and MS NOW over White House press access"
     },
     {
-      "topic": "Trump battles CNN, Politico, and MS NOW over White House press access"
+      "topic": "Donald Trump expands his role at the Dallas Republican convention ahead of the midterm elections"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:24:b3fa0788814df5f0aed013d8"
+  "topicsCacheKey": "month-themes-v5:24:5237845c833eebec564acd06"
 }

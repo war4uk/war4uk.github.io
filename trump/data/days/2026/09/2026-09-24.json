@@ -1,29 +1,33 @@
 {
   "date": "2026-09-24",
   "counts": {
-    "positive": 3,
-    "neutral": 1,
-    "negative": 2
+    "positive": 6,
+    "neutral": 8,
+    "negative": 5
   },
-  "summary": "positive:3 neutral:1 negative:2",
-  "generatedAt": "2026-09-24T12:00:51.263Z",
+  "summary": "positive:6 neutral:8 negative:5",
+  "generatedAt": "2026-09-24T16:05:42.284Z",
   "topics": [
-    "Denies reports he wants Washington’s Ford’s Theatre renamed after him",
-    "Highlights meeting with Xi Jinping and discussions of superintelligence",
-    "Hails Türkiye and Bangladesh orders for 111 Boeing aircraft"
+    "Trump meets Xi Jinping, saying superintelligence policy will remain unchanged with DOJ as guardrail",
+    "Denies reports seeking to rename Ford’s Theatre after himself",
+    "Hails Türkiye and Bangladesh ordering 111 Boeing aircraft as a manufacturing victory"
   ],
-  "trendingTopic": "Denies false reports that he wants Washington’s Ford’s Theatre renamed after him",
+  "trendingTopic": "Trump meets Xi Jinping, saying superintelligence policy will remain unchanged with DOJ as guardrail",
   "secondaryHighlights": [
     {
-      "topic": "Highlights meeting with Xi Jinping and discussions of superintelligence"
+      "topic": "Rejects economic doom narratives and urges viewers to watch a Fox News fact check"
     },
     {
-      "topic": "Hails Türkiye and Bangladesh orders for 111 Boeing aircraft"
+      "topic": "Recommends Victor Davis Hanson’s analysis of Canada",
+      "name": "Victor Davis Hanson"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v11:6:09c9fba61c0c488acd8194cc",
-  "selfPraiseCacheKey": "self-praise-v2:6:09c9fba61c0c488acd8194cc",
+  "topicsCacheKey": "day-themes-v11:19:fa4256a72e9f8894feddaa6b",
+  "selfPraiseCacheKey": "self-praise-v2:19:fa4256a72e9f8894feddaa6b",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41857"
+  ],
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41855",
@@ -136,6 +140,244 @@
         "guid": "https://www.trumpstruth.org/statuses/41859",
         "isoDate": "2026-09-24T11:24:38.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41860",
+      "publishedAt": "2026-09-24T12:20:00.000Z",
+      "title": "The Ford’s Theatre Lie is just another example of how the Fake News Media and the Dumocrats conspire together to make up false stories about “President Donald J. Trump.” Shouldn’t be allowed to happen. Our Country is desperately seeking a Free and Fair Press! President DJT",
+      "text": "<p>The Ford’s Theatre Lie is just another example of how the Fake News Media and the Dumocrats conspire together to make up false stories about “President Donald J. Trump.” Shouldn’t be allowed to happen. Our Country is desperately seeking a Free and Fair Press! President DJT</p>",
+      "url": "https://www.trumpstruth.org/statuses/41860",
+      "raw": {
+        "creator": "",
+        "title": "The Ford’s Theatre Lie is just another example of how the Fake News Media and the Dumocrats conspire together to make up false stories about “President Donald J. Trump.” Shouldn’t be allowed to happen. Our Country is desperately seeking a Free and Fair Press! President DJT",
+        "link": "https://www.trumpstruth.org/statuses/41860",
+        "pubDate": "Thu, 24 Sep 2026 12:20:00 +0000",
+        "author": "",
+        "content": "<p>The Ford’s Theatre Lie is just another example of how the Fake News Media and the Dumocrats conspire together to make up false stories about “President Donald J. Trump.” Shouldn’t be allowed to happen. Our Country is desperately seeking a Free and Fair Press! President DJT</p>",
+        "contentSnippet": "The Ford’s Theatre Lie is just another example of how the Fake News Media and the Dumocrats conspire together to make up false stories about “President Donald J. Trump.” Shouldn’t be allowed to happen. Our Country is desperately seeking a Free and Fair Press! President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/41860",
+        "isoDate": "2026-09-24T12:20:00.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41863",
+      "publishedAt": "2026-09-24T12:21:32.000Z",
+      "title": "[No Title] - Post from September 24, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41863",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 24, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41863",
+        "pubDate": "Thu, 24 Sep 2026 12:21:32 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41863",
+        "isoDate": "2026-09-24T12:21:32.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41862",
+      "publishedAt": "2026-09-24T12:21:53.000Z",
+      "title": "[No Title] - Post from September 24, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41862",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 24, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41862",
+        "pubDate": "Thu, 24 Sep 2026 12:21:53 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41862",
+        "isoDate": "2026-09-24T12:21:53.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41861",
+      "publishedAt": "2026-09-24T12:22:54.000Z",
+      "title": "[No Title] - Post from September 24, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41861",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 24, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41861",
+        "pubDate": "Thu, 24 Sep 2026 12:22:54 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41861",
+        "isoDate": "2026-09-24T12:22:54.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41865",
+      "publishedAt": "2026-09-24T12:24:47.000Z",
+      "title": "I met President Xi at the plane (Airport!) yesterday and he looks strong, vibrant, and fit - Better than ever. Madam Xi, of course, BEAUTIFUL! President DJT",
+      "text": "<p>I met President Xi at the plane (Airport!) yesterday and he looks strong, vibrant, and fit - Better than ever. Madam Xi, of course, BEAUTIFUL! President DJT</p>",
+      "url": "https://www.trumpstruth.org/statuses/41865",
+      "raw": {
+        "creator": "",
+        "title": "I met President Xi at the plane (Airport!) yesterday and he looks strong, vibrant, and fit - Better than ever. Madam Xi, of course, BEAUTIFUL! President DJT",
+        "link": "https://www.trumpstruth.org/statuses/41865",
+        "pubDate": "Thu, 24 Sep 2026 12:24:47 +0000",
+        "author": "",
+        "content": "<p>I met President Xi at the plane (Airport!) yesterday and he looks strong, vibrant, and fit - Better than ever. Madam Xi, of course, BEAUTIFUL! President DJT</p>",
+        "contentSnippet": "I met President Xi at the plane (Airport!) yesterday and he looks strong, vibrant, and fit - Better than ever. Madam Xi, of course, BEAUTIFUL! President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/41865",
+        "isoDate": "2026-09-24T12:24:47.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41864",
+      "publishedAt": "2026-09-24T12:24:50.000Z",
+      "title": "[No Title] - Post from September 24, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41864",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 24, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41864",
+        "pubDate": "Thu, 24 Sep 2026 12:24:50 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41864",
+        "isoDate": "2026-09-24T12:24:50.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41872",
+      "publishedAt": "2026-09-24T12:36:10.000Z",
+      "title": "Midterm Fact Check: Don’t believe the economic doomers:",
+      "text": "<p>Midterm Fact Check: Don’t believe the economic doomers: <a href=\"https://www.foxnews.com/video/6405515361112\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/video/640551536111</span><span class=\"invisible\">2</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41872",
+      "raw": {
+        "creator": "",
+        "title": "Midterm Fact Check: Don’t believe the economic doomers:",
+        "link": "https://www.trumpstruth.org/statuses/41872",
+        "pubDate": "Thu, 24 Sep 2026 12:36:10 +0000",
+        "author": "",
+        "content": "<p>Midterm Fact Check: Don’t believe the economic doomers: <a href=\"https://www.foxnews.com/video/6405515361112\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/video/640551536111</span><span class=\"invisible\">2</span></a></p>",
+        "contentSnippet": "Midterm Fact Check: Don’t believe the economic doomers: https://www.foxnews.com/video/6405515361112",
+        "guid": "https://www.trumpstruth.org/statuses/41872",
+        "isoDate": "2026-09-24T12:36:10.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41870",
+      "publishedAt": "2026-09-24T12:37:44.000Z",
+      "title": "RT @realDonaldTrumpThe Dumocrats make up lie after lie. The new one is that I want Ford’s Theater named after me. That’s where Abraham Lincoln was assassinated. Who would want that? I don’t! It is FAKE NEWS started by MSDNC AND CNN.",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span>The Dumocrats make up lie after lie. The new one is that I want Ford’s Theater named after me. That’s where Abraham Lincoln was assassinated. Who would want that? I don’t! It is FAKE NEWS started by MSDNC AND CNN.</p>",
+      "url": "https://www.trumpstruth.org/statuses/41870",
+      "raw": {
+        "creator": "",
+        "title": "RT @realDonaldTrumpThe Dumocrats make up lie after lie. The new one is that I want Ford’s Theater named after me. That’s where Abraham Lincoln was assassinated. Who would want that? I don’t! It is FAKE NEWS started by MSDNC AND CNN.",
+        "link": "https://www.trumpstruth.org/statuses/41870",
+        "pubDate": "Thu, 24 Sep 2026 12:37:44 +0000",
+        "author": "",
+        "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span>The Dumocrats make up lie after lie. The new one is that I want Ford’s Theater named after me. That’s where Abraham Lincoln was assassinated. Who would want that? I don’t! It is FAKE NEWS started by MSDNC AND CNN.</p>",
+        "contentSnippet": "RT @realDonaldTrumpThe Dumocrats make up lie after lie. The new one is that I want Ford’s Theater named after me. That’s where Abraham Lincoln was assassinated. Who would want that? I don’t! It is FAKE NEWS started by MSDNC AND CNN.",
+        "guid": "https://www.trumpstruth.org/statuses/41870",
+        "isoDate": "2026-09-24T12:37:44.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41869",
+      "publishedAt": "2026-09-24T12:37:49.000Z",
+      "title": "RT @realDonaldTrumpThe Ford’s Theatre Lie is just another example of how the Fake News Media and the Dumocrats conspire together to make up false stories about “President Donald J. Trump.” Shouldn’t be allowed to happen. Our Country is desperately seeking a Free and Fair Press! President DJT",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span>The Ford’s Theatre Lie is just another example of how the Fake News Media and the Dumocrats conspire together to make up false stories about “President Donald J. Trump.” Shouldn’t be allowed to happen. Our Country is desperately seeking a Free and Fair Press! President DJT</p>",
+      "url": "https://www.trumpstruth.org/statuses/41869",
+      "raw": {
+        "creator": "",
+        "title": "RT @realDonaldTrumpThe Ford’s Theatre Lie is just another example of how the Fake News Media and the Dumocrats conspire together to make up false stories about “President Donald J. Trump.” Shouldn’t be allowed to happen. Our Country is desperately seeking a Free and Fair Press! President DJT",
+        "link": "https://www.trumpstruth.org/statuses/41869",
+        "pubDate": "Thu, 24 Sep 2026 12:37:49 +0000",
+        "author": "",
+        "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span>The Ford’s Theatre Lie is just another example of how the Fake News Media and the Dumocrats conspire together to make up false stories about “President Donald J. Trump.” Shouldn’t be allowed to happen. Our Country is desperately seeking a Free and Fair Press! President DJT</p>",
+        "contentSnippet": "RT @realDonaldTrumpThe Ford’s Theatre Lie is just another example of how the Fake News Media and the Dumocrats conspire together to make up false stories about “President Donald J. Trump.” Shouldn’t be allowed to happen. Our Country is desperately seeking a Free and Fair Press! President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/41869",
+        "isoDate": "2026-09-24T12:37:49.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41868",
+      "publishedAt": "2026-09-24T12:37:56.000Z",
+      "title": "RT @realDonaldTrump",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p>",
+      "url": "https://www.trumpstruth.org/statuses/41868",
+      "raw": {
+        "creator": "",
+        "title": "RT @realDonaldTrump",
+        "link": "https://www.trumpstruth.org/statuses/41868",
+        "pubDate": "Thu, 24 Sep 2026 12:37:56 +0000",
+        "author": "",
+        "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p>",
+        "contentSnippet": "RT @realDonaldTrump",
+        "guid": "https://www.trumpstruth.org/statuses/41868",
+        "isoDate": "2026-09-24T12:37:56.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41867",
+      "publishedAt": "2026-09-24T12:37:58.000Z",
+      "title": "RT @realDonaldTrump",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p>\n\n[Image] Donald Trump and Chinese President Xi Jinping stand on a red carpet beside a large Air China passenger jet. Trump raises one hand in salute while Xi stands beside him in a dark suit and red tie. A woman stands near the aircraft with her hand over her chest. A fighter jet flies overhead, and the words “Only Trump” appear above them, surrounded by stars.",
+      "url": "https://www.trumpstruth.org/statuses/41867",
+      "raw": {
+        "creator": "",
+        "title": "RT @realDonaldTrump",
+        "link": "https://www.trumpstruth.org/statuses/41867",
+        "pubDate": "Thu, 24 Sep 2026 12:37:58 +0000",
+        "author": "",
+        "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p>",
+        "contentSnippet": "RT @realDonaldTrump",
+        "guid": "https://www.trumpstruth.org/statuses/41867",
+        "isoDate": "2026-09-24T12:37:58.000Z"
+      },
+      "imageDescribedAt": "2026-09-24T16:05:15.080Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18209/7071d8c321e91d1a-17f38d001c04.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41866",
+      "publishedAt": "2026-09-24T12:38:01.000Z",
+      "title": "RT @realDonaldTrumpA big day with President Xi of China. Super Intelligence (SI) will be a big topic of discussion, but I want to leave it exactly where it is. That is China’s position also. Our guardrail is the DOJ! President DJT",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span>A big day with President Xi of China. Super Intelligence (SI) will be a big topic of discussion, but I want to leave it exactly where it is. That is China’s position also. Our guardrail is the DOJ! President DJT</p>",
+      "url": "https://www.trumpstruth.org/statuses/41866",
+      "raw": {
+        "creator": "",
+        "title": "RT @realDonaldTrumpA big day with President Xi of China. Super Intelligence (SI) will be a big topic of discussion, but I want to leave it exactly where it is. That is China’s position also. Our guardrail is the DOJ! President DJT",
+        "link": "https://www.trumpstruth.org/statuses/41866",
+        "pubDate": "Thu, 24 Sep 2026 12:38:01 +0000",
+        "author": "",
+        "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span>A big day with President Xi of China. Super Intelligence (SI) will be a big topic of discussion, but I want to leave it exactly where it is. That is China’s position also. Our guardrail is the DOJ! President DJT</p>",
+        "contentSnippet": "RT @realDonaldTrumpA big day with President Xi of China. Super Intelligence (SI) will be a big topic of discussion, but I want to leave it exactly where it is. That is China’s position also. Our guardrail is the DOJ! President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/41866",
+        "isoDate": "2026-09-24T12:38:01.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41873",
+      "publishedAt": "2026-09-24T13:18:56.000Z",
+      "title": "Victor Davis Hanson on Canada — A MUST SEE! President DONALD J. TRUMP",
+      "text": "<p>Victor Davis Hanson on Canada — A MUST SEE! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41873",
+      "raw": {
+        "creator": "",
+        "title": "Victor Davis Hanson on Canada — A MUST SEE! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41873",
+        "pubDate": "Thu, 24 Sep 2026 13:18:56 +0000",
+        "author": "",
+        "content": "<p>Victor Davis Hanson on Canada — A MUST SEE! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Victor Davis Hanson on Canada — A MUST SEE! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41873",
+        "isoDate": "2026-09-24T13:18:56.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -174,9 +416,84 @@
       "label": "positive",
       "rationale": "Describes a significant day and constructive discussion with President Xi, using an optimistic tone about Super Intelligence.",
       "analyzedAt": "2026-09-24T12:00:38.412Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41860",
+      "label": "negative",
+      "rationale": "Accuses the media and Democrats of conspiring to create false stories and criticizes press coverage.",
+      "analyzedAt": "2026-09-24T16:05:23.266Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41861",
+      "label": "neutral",
+      "rationale": "Contains no substantive text or expressed sentiment.",
+      "analyzedAt": "2026-09-24T16:05:23.266Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41862",
+      "label": "neutral",
+      "rationale": "Contains no substantive text or expressed sentiment.",
+      "analyzedAt": "2026-09-24T16:05:23.266Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41863",
+      "label": "neutral",
+      "rationale": "Contains no substantive text or expressed sentiment.",
+      "analyzedAt": "2026-09-24T16:05:23.266Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41864",
+      "label": "neutral",
+      "rationale": "Contains no substantive text or expressed sentiment.",
+      "analyzedAt": "2026-09-24T16:05:23.266Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41865",
+      "label": "positive",
+      "rationale": "Praises President Xi’s health and describes Madam Xi as beautiful.",
+      "analyzedAt": "2026-09-24T16:05:23.266Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41866",
+      "label": "neutral",
+      "rationale": "Describes an upcoming discussion with President Xi without a clearly positive or negative overall sentiment.",
+      "analyzedAt": "2026-09-24T16:05:23.266Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41867",
+      "label": "neutral",
+      "rationale": "Contains an image and no explicit sentiment-bearing text.",
+      "analyzedAt": "2026-09-24T16:05:23.266Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41868",
+      "label": "neutral",
+      "rationale": "Contains no substantive text or expressed sentiment.",
+      "analyzedAt": "2026-09-24T16:05:23.266Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41869",
+      "label": "negative",
+      "rationale": "Accuses the media and Democrats of conspiring to spread false stories.",
+      "analyzedAt": "2026-09-24T16:05:23.266Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41870",
+      "label": "negative",
+      "rationale": "Uses hostile language to accuse Democrats and media outlets of spreading lies and fake news.",
+      "analyzedAt": "2026-09-24T16:05:23.266Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41872",
+      "label": "positive",
+      "rationale": "Rejects pessimism about the economy and conveys an optimistic outlook.",
+      "analyzedAt": "2026-09-24T16:05:23.266Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41873",
+      "label": "positive",
+      "rationale": "Promotes Victor Davis Hanson’s content as highly recommended.",
+      "analyzedAt": "2026-09-24T16:05:23.266Z"
     }
-  ],
-  "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/41857"
   ]
 }
