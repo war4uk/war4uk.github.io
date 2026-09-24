@@ -1,25 +1,29 @@
 {
   "date": "2026-09-24",
   "counts": {
-    "positive": 1,
+    "positive": 3,
     "neutral": 1,
-    "negative": 1
+    "negative": 2
   },
-  "summary": "positive:1 neutral:1 negative:1",
-  "generatedAt": "2026-09-24T08:01:16.320Z",
+  "summary": "positive:3 neutral:1 negative:2",
+  "generatedAt": "2026-09-24T12:00:51.263Z",
   "topics": [
-    "Trump touts Türkiye and Bangladesh purchases of 111 Boeing aircraft supporting American manufacturing and exports",
-    "Trump denies wanting his name affixed to Washington’s Ford’s Theatre"
+    "Denies reports he wants Washington’s Ford’s Theatre renamed after him",
+    "Highlights meeting with Xi Jinping and discussions of superintelligence",
+    "Hails Türkiye and Bangladesh orders for 111 Boeing aircraft"
   ],
-  "trendingTopic": "Trump touts Türkiye and Bangladesh purchases of 111 Boeing aircraft supporting American manufacturing and exports",
+  "trendingTopic": "Denies false reports that he wants Washington’s Ford’s Theatre renamed after him",
   "secondaryHighlights": [
     {
-      "topic": "Trump denies wanting his name affixed to Washington’s Ford’s Theatre"
+      "topic": "Highlights meeting with Xi Jinping and discussions of superintelligence"
+    },
+    {
+      "topic": "Hails Türkiye and Bangladesh orders for 111 Boeing aircraft"
     }
   ],
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v11:3:c9e3246cacfd6ba265cc60b9",
-  "selfPraiseCacheKey": "self-praise-v2:3:c9e3246cacfd6ba265cc60b9",
+  "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v11:6:09c9fba61c0c488acd8194cc",
+  "selfPraiseCacheKey": "self-praise-v2:6:09c9fba61c0c488acd8194cc",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41855",
@@ -74,6 +78,64 @@
         "guid": "https://www.trumpstruth.org/statuses/41856",
         "isoDate": "2026-09-24T01:51:54.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41857",
+      "publishedAt": "2026-09-24T11:07:08.000Z",
+      "title": "[No Title] - Post from September 24, 2026",
+      "text": "[Image] Donald Trump and Chinese President Xi Jinping stand on a red carpet beside an Air China aircraft. Trump raises one hand in a salute, while Xi stands with his hands at his sides. A woman behind them places a hand over her chest. A fighter jet flies overhead, and the words “Only Trump” appear above them, surrounded by stars.",
+      "url": "https://www.trumpstruth.org/statuses/41857",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 24, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41857",
+        "pubDate": "Thu, 24 Sep 2026 11:07:08 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41857",
+        "isoDate": "2026-09-24T11:07:08.000Z"
+      },
+      "imageDescribedAt": "2026-09-24T12:00:34.163Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18209/7071d8c321e91d1a-17f38d001c04.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41858",
+      "publishedAt": "2026-09-24T11:15:37.000Z",
+      "title": "The Dumocrats make up lie after lie. The new one is that I want Ford’s Theater named after me. That’s where Abraham Lincoln was assassinated. Who would want that? I don’t! It is FAKE NEWS started by MSDNC AND CNN.",
+      "text": "<p>The Dumocrats make up lie after lie. The new one is that I want Ford’s Theater named after me. That’s where Abraham Lincoln was assassinated. Who would want that? I don’t! It is FAKE NEWS started by MSDNC AND CNN.</p>",
+      "url": "https://www.trumpstruth.org/statuses/41858",
+      "raw": {
+        "creator": "",
+        "title": "The Dumocrats make up lie after lie. The new one is that I want Ford’s Theater named after me. That’s where Abraham Lincoln was assassinated. Who would want that? I don’t! It is FAKE NEWS started by MSDNC AND CNN.",
+        "link": "https://www.trumpstruth.org/statuses/41858",
+        "pubDate": "Thu, 24 Sep 2026 11:15:37 +0000",
+        "author": "",
+        "content": "<p>The Dumocrats make up lie after lie. The new one is that I want Ford’s Theater named after me. That’s where Abraham Lincoln was assassinated. Who would want that? I don’t! It is FAKE NEWS started by MSDNC AND CNN.</p>",
+        "contentSnippet": "The Dumocrats make up lie after lie. The new one is that I want Ford’s Theater named after me. That’s where Abraham Lincoln was assassinated. Who would want that? I don’t! It is FAKE NEWS started by MSDNC AND CNN.",
+        "guid": "https://www.trumpstruth.org/statuses/41858",
+        "isoDate": "2026-09-24T11:15:37.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41859",
+      "publishedAt": "2026-09-24T11:24:38.000Z",
+      "title": "A big day with President Xi of China. Super Intelligence (SI) will be a big topic of discussion, but I want to leave it exactly where it is. That is China’s position also. Our guardrail is the DOJ! President DJT",
+      "text": "<p>A big day with President Xi of China. Super Intelligence (SI) will be a big topic of discussion, but I want to leave it exactly where it is. That is China’s position also. Our guardrail is the DOJ! President DJT</p>",
+      "url": "https://www.trumpstruth.org/statuses/41859",
+      "raw": {
+        "creator": "",
+        "title": "A big day with President Xi of China. Super Intelligence (SI) will be a big topic of discussion, but I want to leave it exactly where it is. That is China’s position also. Our guardrail is the DOJ! President DJT",
+        "link": "https://www.trumpstruth.org/statuses/41859",
+        "pubDate": "Thu, 24 Sep 2026 11:24:38 +0000",
+        "author": "",
+        "content": "<p>A big day with President Xi of China. Super Intelligence (SI) will be a big topic of discussion, but I want to leave it exactly where it is. That is China’s position also. Our guardrail is the DOJ! President DJT</p>",
+        "contentSnippet": "A big day with President Xi of China. Super Intelligence (SI) will be a big topic of discussion, but I want to leave it exactly where it is. That is China’s position also. Our guardrail is the DOJ! President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/41859",
+        "isoDate": "2026-09-24T11:24:38.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -94,6 +156,27 @@
       "label": "neutral",
       "rationale": "The text is empty and expresses no sentiment.",
       "analyzedAt": "2026-09-24T04:03:53.533Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41857",
+      "label": "positive",
+      "rationale": "The celebratory image and 'Only Trump' slogan present Trump favorably and promote him positively.",
+      "analyzedAt": "2026-09-24T12:00:38.412Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41858",
+      "label": "negative",
+      "rationale": "Uses hostile language to accuse Democrats and news outlets of spreading lies and fake news.",
+      "analyzedAt": "2026-09-24T12:00:38.412Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41859",
+      "label": "positive",
+      "rationale": "Describes a significant day and constructive discussion with President Xi, using an optimistic tone about Super Intelligence.",
+      "analyzedAt": "2026-09-24T12:00:38.412Z"
     }
+  ],
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41857"
   ]
 }

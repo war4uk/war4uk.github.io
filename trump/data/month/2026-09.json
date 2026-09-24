@@ -616,7 +616,7 @@
       ],
       "postsCount": 10,
       "hasDetail": true,
-      "generatedAt": "2026-09-24T08:01:13.036Z",
+      "generatedAt": "2026-09-24T12:00:25.854Z",
       "trendingTopic": "Trump warns Canada’s unchecked immigration is causing unemployment and a looming national crisis",
       "secondaryHighlights": [
         {
@@ -634,36 +634,43 @@
     {
       "date": "2026-09-24",
       "counts": {
-        "positive": 1,
+        "positive": 3,
         "neutral": 1,
-        "negative": 1
+        "negative": 2
       },
-      "summary": "positive:1 neutral:1 negative:1",
+      "summary": "positive:3 neutral:1 negative:2",
       "topics": [
-        "Trump touts Türkiye and Bangladesh purchases of 111 Boeing aircraft supporting American manufacturing and exports",
-        "Trump denies wanting his name affixed to Washington’s Ford’s Theatre"
+        "Denies reports he wants Washington’s Ford’s Theatre renamed after him",
+        "Highlights meeting with Xi Jinping and discussions of superintelligence",
+        "Hails Türkiye and Bangladesh orders for 111 Boeing aircraft"
       ],
-      "postsCount": 3,
+      "postsCount": 6,
       "hasDetail": true,
-      "generatedAt": "2026-09-24T08:01:16.320Z",
-      "trendingTopic": "Trump touts Türkiye and Bangladesh purchases of 111 Boeing aircraft supporting American manufacturing and exports",
+      "generatedAt": "2026-09-24T12:00:51.263Z",
+      "trendingTopic": "Denies false reports that he wants Washington’s Ford’s Theatre renamed after him",
       "secondaryHighlights": [
         {
-          "topic": "Trump denies wanting his name affixed to Washington’s Ford’s Theatre"
+          "topic": "Highlights meeting with Xi Jinping and discussions of superintelligence"
+        },
+        {
+          "topic": "Hails Türkiye and Bangladesh orders for 111 Boeing aircraft"
         }
       ],
-      "selfPraiseCount": 0
+      "selfPraiseCount": 1
     }
   ],
-  "generatedAt": "2026-09-24T08:01:16.320Z",
-  "trendingTopic": "Trump promotes White House renovations, monuments, military complexes, and patriotic place renamings",
+  "generatedAt": "2026-09-24T12:00:51.263Z",
+  "trendingTopic": "Trump portrays Iran as collapsing after military strikes while weighing oil and diplomatic outcomes",
   "secondaryHighlights": [
     {
-      "topic": "Trump drives Republican midterm campaigning through endorsements, rallies, and convention appearances"
+      "topic": "Trump promotes U.S. AI expansion and announces an AI Force while dismissing catastrophe warnings"
     },
     {
-      "topic": "Trump portrays Iran as collapsing while defending military operations and discussing oil and negotiations"
+      "topic": "Trump touts stronger household finances, lower poverty, and economic gains"
+    },
+    {
+      "topic": "Trump battles CNN, Politico, and MS NOW over White House press access"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:24:82a97c33009a2dfed145e070"
+  "topicsCacheKey": "month-themes-v5:24:b3fa0788814df5f0aed013d8"
 }
