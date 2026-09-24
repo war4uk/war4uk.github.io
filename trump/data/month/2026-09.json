@@ -616,7 +616,7 @@
       ],
       "postsCount": 10,
       "hasDetail": true,
-      "generatedAt": "2026-09-23T20:04:20.483Z",
+      "generatedAt": "2026-09-24T00:02:26.456Z",
       "trendingTopic": "Trump warns Canada’s unchecked immigration is causing unemployment and a looming national crisis",
       "secondaryHighlights": [
         {
@@ -630,9 +630,23 @@
         }
       ],
       "selfPraiseCount": 3
+    },
+    {
+      "date": "2026-09-24",
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "positive:0 neutral:0 negative:0",
+      "topics": [],
+      "postsCount": 0,
+      "hasDetail": true,
+      "generatedAt": "2026-09-24T00:02:28.862Z",
+      "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-23T20:04:20.483Z",
+  "generatedAt": "2026-09-24T00:02:28.862Z",
   "trendingTopic": "Trump escalates pressure on Iran while touting military strikes, economic collapse, and possible negotiations",
   "secondaryHighlights": [
     {
