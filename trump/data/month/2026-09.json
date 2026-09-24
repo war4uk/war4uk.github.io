@@ -616,7 +616,7 @@
       ],
       "postsCount": 10,
       "hasDetail": true,
-      "generatedAt": "2026-09-24T16:05:05.488Z",
+      "generatedAt": "2026-09-24T20:01:42.756Z",
       "trendingTopic": "Trump warns Canada’s unchecked immigration is causing unemployment and a looming national crisis",
       "secondaryHighlights": [
         {
@@ -635,43 +635,43 @@
       "date": "2026-09-24",
       "counts": {
         "positive": 6,
-        "neutral": 8,
+        "neutral": 14,
         "negative": 5
       },
-      "summary": "positive:6 neutral:8 negative:5",
+      "summary": "positive:6 neutral:14 negative:5",
       "topics": [
-        "Trump meets Xi Jinping, saying superintelligence policy will remain unchanged with DOJ as guardrail",
-        "Denies reports seeking to rename Ford’s Theatre after himself",
-        "Hails Türkiye and Bangladesh ordering 111 Boeing aircraft as a manufacturing victory"
+        "Trump hosts Chinese President Xi Jinping for talks, ceremonies, and military reviews",
+        "Trump denies reports that Ford’s Theatre will be renamed after him",
+        "Türkiye and Bangladesh announce purchases of 111 Boeing aircraft"
       ],
-      "postsCount": 19,
+      "postsCount": 25,
       "hasDetail": true,
-      "generatedAt": "2026-09-24T16:05:42.284Z",
-      "trendingTopic": "Trump meets Xi Jinping, saying superintelligence policy will remain unchanged with DOJ as guardrail",
+      "generatedAt": "2026-09-24T20:02:08.885Z",
+      "trendingTopic": "Trump hosts Chinese President Xi Jinping for talks, ceremonies, and military reviews",
+      "trendingName": "Xi Jinping",
       "secondaryHighlights": [
         {
-          "topic": "Rejects economic doom narratives and urges viewers to watch a Fox News fact check"
+          "topic": "Trump denies reports that Ford’s Theatre will be renamed after him"
         },
         {
-          "topic": "Recommends Victor Davis Hanson’s analysis of Canada",
-          "name": "Victor Davis Hanson"
+          "topic": "Türkiye and Bangladesh announce purchases of 111 Boeing aircraft"
         }
       ],
       "selfPraiseCount": 1
     }
   ],
-  "generatedAt": "2026-09-24T16:05:42.284Z",
-  "trendingTopic": "Donald Trump portrays Iran as collapsing while defending military operations and discussing oil, weapons, and negotiations",
+  "generatedAt": "2026-09-24T20:02:08.885Z",
+  "trendingTopic": "Trump pressures Iran through war threats, economic collapse claims, and possible negotiations",
   "secondaryHighlights": [
     {
-      "topic": "Donald Trump touts stronger household finances, lower poverty, and economic growth while demanding lower interest rates"
+      "topic": "Trump touts record household income and lower poverty while demanding rate cuts"
     },
     {
-      "topic": "Donald Trump battles CNN, Politico, and MS NOW over White House press access"
+      "topic": "Trump battles CNN, Politico, and MS NOW over White House press access"
     },
     {
-      "topic": "Donald Trump expands his role at the Dallas Republican convention ahead of the midterm elections"
+      "topic": "Trump promotes AI expansion while dismissing catastrophic-risk warnings"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:24:5237845c833eebec564acd06"
+  "topicsCacheKey": "month-themes-v5:24:35e6676bb28a80ae1b7b6220"
 }

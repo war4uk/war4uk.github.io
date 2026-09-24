@@ -2,29 +2,28 @@
   "date": "2026-09-24",
   "counts": {
     "positive": 6,
-    "neutral": 8,
+    "neutral": 14,
     "negative": 5
   },
-  "summary": "positive:6 neutral:8 negative:5",
-  "generatedAt": "2026-09-24T16:05:42.284Z",
+  "summary": "positive:6 neutral:14 negative:5",
+  "generatedAt": "2026-09-24T20:02:08.885Z",
   "topics": [
-    "Trump meets Xi Jinping, saying superintelligence policy will remain unchanged with DOJ as guardrail",
-    "Denies reports seeking to rename Ford’s Theatre after himself",
-    "Hails Türkiye and Bangladesh ordering 111 Boeing aircraft as a manufacturing victory"
+    "Trump hosts Chinese President Xi Jinping for talks, ceremonies, and military reviews",
+    "Trump denies reports that Ford’s Theatre will be renamed after him",
+    "Türkiye and Bangladesh announce purchases of 111 Boeing aircraft"
   ],
-  "trendingTopic": "Trump meets Xi Jinping, saying superintelligence policy will remain unchanged with DOJ as guardrail",
+  "trendingTopic": "Trump hosts Chinese President Xi Jinping for talks, ceremonies, and military reviews",
   "secondaryHighlights": [
     {
-      "topic": "Rejects economic doom narratives and urges viewers to watch a Fox News fact check"
+      "topic": "Trump denies reports that Ford’s Theatre will be renamed after him"
     },
     {
-      "topic": "Recommends Victor Davis Hanson’s analysis of Canada",
-      "name": "Victor Davis Hanson"
+      "topic": "Türkiye and Bangladesh announce purchases of 111 Boeing aircraft"
     }
   ],
   "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v11:19:fa4256a72e9f8894feddaa6b",
-  "selfPraiseCacheKey": "self-praise-v2:19:fa4256a72e9f8894feddaa6b",
+  "topicsCacheKey": "day-themes-v11:25:9736eab64488bd1eed846f06",
+  "selfPraiseCacheKey": "self-praise-v2:25:9736eab64488bd1eed846f06",
   "selfPraisePostIds": [
     "https://www.trumpstruth.org/statuses/41857"
   ],
@@ -378,6 +377,114 @@
         "guid": "https://www.trumpstruth.org/statuses/41873",
         "isoDate": "2026-09-24T13:18:56.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41878",
+      "publishedAt": "2026-09-24T19:22:25.000Z",
+      "title": "President Trump and the First Lady Greet the President of China and Madame Peng:",
+      "text": "<p>President Trump and the First Lady Greet the President of China and Madame Peng: <a href=\"https://www.youtube.com/watch?v=EWdAEh9NeOs\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=EWdAEh9NeO</span><span class=\"invisible\">s</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41878",
+      "raw": {
+        "creator": "",
+        "title": "President Trump and the First Lady Greet the President of China and Madame Peng:",
+        "link": "https://www.trumpstruth.org/statuses/41878",
+        "pubDate": "Thu, 24 Sep 2026 19:22:25 +0000",
+        "author": "",
+        "content": "<p>President Trump and the First Lady Greet the President of China and Madame Peng: <a href=\"https://www.youtube.com/watch?v=EWdAEh9NeOs\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=EWdAEh9NeO</span><span class=\"invisible\">s</span></a></p>",
+        "contentSnippet": "President Trump and the First Lady Greet the President of China and Madame Peng: https://www.youtube.com/watch?v=EWdAEh9NeOs",
+        "guid": "https://www.trumpstruth.org/statuses/41878",
+        "isoDate": "2026-09-24T19:22:25.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41877",
+      "publishedAt": "2026-09-24T19:22:40.000Z",
+      "title": "President Trump and the President of China Deliver Remarks:",
+      "text": "<p>President Trump and the President of China Deliver Remarks: <a href=\"https://www.youtube.com/watch?v=KroMEOZ8oFo\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=KroMEOZ8oF</span><span class=\"invisible\">o</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41877",
+      "raw": {
+        "creator": "",
+        "title": "President Trump and the President of China Deliver Remarks:",
+        "link": "https://www.trumpstruth.org/statuses/41877",
+        "pubDate": "Thu, 24 Sep 2026 19:22:40 +0000",
+        "author": "",
+        "content": "<p>President Trump and the President of China Deliver Remarks: <a href=\"https://www.youtube.com/watch?v=KroMEOZ8oFo\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=KroMEOZ8oF</span><span class=\"invisible\">o</span></a></p>",
+        "contentSnippet": "President Trump and the President of China Deliver Remarks: https://www.youtube.com/watch?v=KroMEOZ8oFo",
+        "guid": "https://www.trumpstruth.org/statuses/41877",
+        "isoDate": "2026-09-24T19:22:40.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41876",
+      "publishedAt": "2026-09-24T19:22:53.000Z",
+      "title": "Silent Drill Platoon Review with the President of China and Madame Peng:",
+      "text": "<p>Silent Drill Platoon Review with the President of China and Madame Peng: <a href=\"https://www.youtube.com/watch?v=LliHi0rYUY0\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=LliHi0rYUY</span><span class=\"invisible\">0</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41876",
+      "raw": {
+        "creator": "",
+        "title": "Silent Drill Platoon Review with the President of China and Madame Peng:",
+        "link": "https://www.trumpstruth.org/statuses/41876",
+        "pubDate": "Thu, 24 Sep 2026 19:22:53 +0000",
+        "author": "",
+        "content": "<p>Silent Drill Platoon Review with the President of China and Madame Peng: <a href=\"https://www.youtube.com/watch?v=LliHi0rYUY0\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=LliHi0rYUY</span><span class=\"invisible\">0</span></a></p>",
+        "contentSnippet": "Silent Drill Platoon Review with the President of China and Madame Peng: https://www.youtube.com/watch?v=LliHi0rYUY0",
+        "guid": "https://www.trumpstruth.org/statuses/41876",
+        "isoDate": "2026-09-24T19:22:53.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41875",
+      "publishedAt": "2026-09-24T19:23:04.000Z",
+      "title": "Military Review with the President of China and Madame Peng:",
+      "text": "<p>Military Review with the President of China and Madame Peng: <a href=\"https://www.youtube.com/watch?v=lUe8vwhnjbk\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=lUe8vwhnjb</span><span class=\"invisible\">k</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41875",
+      "raw": {
+        "creator": "",
+        "title": "Military Review with the President of China and Madame Peng:",
+        "link": "https://www.trumpstruth.org/statuses/41875",
+        "pubDate": "Thu, 24 Sep 2026 19:23:04 +0000",
+        "author": "",
+        "content": "<p>Military Review with the President of China and Madame Peng: <a href=\"https://www.youtube.com/watch?v=lUe8vwhnjbk\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=lUe8vwhnjb</span><span class=\"invisible\">k</span></a></p>",
+        "contentSnippet": "Military Review with the President of China and Madame Peng: https://www.youtube.com/watch?v=lUe8vwhnjbk",
+        "guid": "https://www.trumpstruth.org/statuses/41875",
+        "isoDate": "2026-09-24T19:23:04.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41874",
+      "publishedAt": "2026-09-24T19:23:35.000Z",
+      "title": "[No Title] - Post from September 24, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41874",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 24, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41874",
+        "pubDate": "Thu, 24 Sep 2026 19:23:35 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41874",
+        "isoDate": "2026-09-24T19:23:35.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41879",
+      "publishedAt": "2026-09-24T19:32:20.000Z",
+      "title": "President Trump Gives the President of China a Tour of Marine One and the South Lawn Helipad:",
+      "text": "<p>President Trump Gives the President of China a Tour of Marine One and the South Lawn Helipad: <a href=\"https://www.youtube.com/watch?v=Oh05NJy_SaM\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=Oh05NJy_Sa</span><span class=\"invisible\">M</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41879",
+      "raw": {
+        "creator": "",
+        "title": "President Trump Gives the President of China a Tour of Marine One and the South Lawn Helipad:",
+        "link": "https://www.trumpstruth.org/statuses/41879",
+        "pubDate": "Thu, 24 Sep 2026 19:32:20 +0000",
+        "author": "",
+        "content": "<p>President Trump Gives the President of China a Tour of Marine One and the South Lawn Helipad: <a href=\"https://www.youtube.com/watch?v=Oh05NJy_SaM\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=Oh05NJy_Sa</span><span class=\"invisible\">M</span></a></p>",
+        "contentSnippet": "President Trump Gives the President of China a Tour of Marine One and the South Lawn Helipad: https://www.youtube.com/watch?v=Oh05NJy_SaM",
+        "guid": "https://www.trumpstruth.org/statuses/41879",
+        "isoDate": "2026-09-24T19:32:20.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -494,6 +601,43 @@
       "label": "positive",
       "rationale": "Promotes Victor Davis Hanson’s content as highly recommended.",
       "analyzedAt": "2026-09-24T16:05:23.266Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41874",
+      "label": "neutral",
+      "rationale": "The post contains no text or expressed sentiment.",
+      "analyzedAt": "2026-09-24T20:01:54.366Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41875",
+      "label": "neutral",
+      "rationale": "Factual description of a military review, without evaluative or emotional language.",
+      "analyzedAt": "2026-09-24T20:01:54.366Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41876",
+      "label": "neutral",
+      "rationale": "Factual description of a silent drill platoon review, without expressed sentiment.",
+      "analyzedAt": "2026-09-24T20:01:54.366Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41877",
+      "label": "neutral",
+      "rationale": "Factual announcement that the leaders delivered remarks, without sentiment.",
+      "analyzedAt": "2026-09-24T20:01:54.366Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41878",
+      "label": "neutral",
+      "rationale": "Factual description of a diplomatic greeting, without evaluative language.",
+      "analyzedAt": "2026-09-24T20:01:54.366Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41879",
+      "label": "neutral",
+      "rationale": "Factual description of President Trump giving the Chinese president a tour, without expressed sentiment.",
+      "analyzedAt": "2026-09-24T20:01:54.366Z"
     }
-  ]
+  ],
+  "trendingName": "Xi Jinping"
 }
