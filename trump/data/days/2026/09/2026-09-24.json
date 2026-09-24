@@ -1,14 +1,99 @@
 {
   "date": "2026-09-24",
   "counts": {
-    "positive": 0,
-    "neutral": 0,
-    "negative": 0
+    "positive": 1,
+    "neutral": 1,
+    "negative": 1
   },
-  "summary": "positive:0 neutral:0 negative:0",
-  "generatedAt": "2026-09-24T00:02:28.862Z",
-  "topics": [],
+  "summary": "positive:1 neutral:1 negative:1",
+  "generatedAt": "2026-09-24T04:04:04.152Z",
+  "topics": [
+    "Trump touts Türkiye and Bangladesh purchases of 111 Boeing aircraft supporting American manufacturing and exports",
+    "Trump denies wanting his name affixed to Washington’s Ford’s Theatre"
+  ],
+  "trendingTopic": "Trump touts Türkiye and Bangladesh purchases of 111 Boeing aircraft supporting American manufacturing and exports",
+  "secondaryHighlights": [
+    {
+      "topic": "Trump denies wanting his name affixed to Washington’s Ford’s Theatre"
+    }
+  ],
   "selfPraiseCount": 0,
-  "posts": [],
-  "sentiments": []
+  "posts": [
+    {
+      "id": "https://www.trumpstruth.org/statuses/41855",
+      "publishedAt": "2026-09-24T00:19:29.000Z",
+      "title": "BIG DAY FOR BOEING AND AMERICAN MANUFACTURING! Today, Türkiye and Bangladesh announced purchases totaling 111 Boeing Airplanes—with options for 50 more—following support from Howard Lutnick and the Department of Commerce. TENS of BILLIONS of Dollars in Sales, and huge U.S. Exports, supporting tens of thousands of American Jobs across our Country. The Market is recognizing what Boeing and I have known all along: When you BUILD IN AMERICA, EXPORT FROM AMERICA, and SUPPORT AMERICAN WORKERS, you make your Company stronger. Congratulations to Boeing, and its incredible workforce! President DONALD J. TRUMP",
+      "text": "<p>BIG DAY FOR BOEING AND AMERICAN MANUFACTURING! Today, Türkiye and Bangladesh announced purchases totaling 111 Boeing Airplanes—with options for 50 more—following support from Howard Lutnick and the Department of Commerce. TENS of BILLIONS of Dollars in Sales, and huge U.S. Exports, supporting tens of thousands of American Jobs across our Country. The Market is recognizing what Boeing and I have known all along: When you BUILD IN AMERICA, EXPORT FROM AMERICA, and SUPPORT AMERICAN WORKERS, you make your Company stronger. Congratulations to Boeing, and its incredible workforce! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41855",
+      "raw": {
+        "creator": "",
+        "title": "BIG DAY FOR BOEING AND AMERICAN MANUFACTURING! Today, Türkiye and Bangladesh announced purchases totaling 111 Boeing Airplanes—with options for 50 more—following support from Howard Lutnick and the Department of Commerce. TENS of BILLIONS of Dollars in Sales, and huge U.S. Exports, supporting tens of thousands of American Jobs across our Country. The Market is recognizing what Boeing and I have known all along: When you BUILD IN AMERICA, EXPORT FROM AMERICA, and SUPPORT AMERICAN WORKERS, you make your Company stronger. Congratulations to Boeing, and its incredible workforce! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41855",
+        "pubDate": "Thu, 24 Sep 2026 00:19:29 +0000",
+        "author": "",
+        "content": "<p>BIG DAY FOR BOEING AND AMERICAN MANUFACTURING! Today, Türkiye and Bangladesh announced purchases totaling 111 Boeing Airplanes—with options for 50 more—following support from Howard Lutnick and the Department of Commerce. TENS of BILLIONS of Dollars in Sales, and huge U.S. Exports, supporting tens of thousands of American Jobs across our Country. The Market is recognizing what Boeing and I have known all along: When you BUILD IN AMERICA, EXPORT FROM AMERICA, and SUPPORT AMERICAN WORKERS, you make your Company stronger. Congratulations to Boeing, and its incredible workforce! President DONALD J. TRUMP</p>",
+        "contentSnippet": "BIG DAY FOR BOEING AND AMERICAN MANUFACTURING! Today, Türkiye and Bangladesh announced purchases totaling 111 Boeing Airplanes—with options for 50 more—following support from Howard Lutnick and the Department of Commerce. TENS of BILLIONS of Dollars in Sales, and huge U.S. Exports, supporting tens of thousands of American Jobs across our Country. The Market is recognizing what Boeing and I have known all along: When you BUILD IN AMERICA, EXPORT FROM AMERICA, and SUPPORT AMERICAN WORKERS, you make your Company stronger. Congratulations to Boeing, and its incredible workforce! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41855",
+        "isoDate": "2026-09-24T00:19:29.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41854",
+      "publishedAt": "2026-09-24T00:21:25.000Z",
+      "title": "The story that the White House, or me, want to affix my name to Ford’s Theatre, in Washington, D.C., where Abraham Lincoln was assassinated, is a ridiculous lie. It is FAKE NEWS! Who would possibly want a name on such a tragic place? The Dumocrats suffer from serious Trump Derangement Syndrome. They are Degenerates and Losers who make up lie after lie, and this Ford’s Theatre Hoax is just another one of their never-ending, malicious falsehoods to try to discredit and demean. Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "text": "<p>The story that the White House, or me, want to affix my name to Ford’s Theatre, in Washington, D.C., where Abraham Lincoln was assassinated, is a ridiculous lie. It is FAKE NEWS! Who would possibly want a name on such a tragic place? The Dumocrats suffer from serious Trump Derangement Syndrome. They are Degenerates and Losers who make up lie after lie, and this Ford’s Theatre Hoax is just another one of their never-ending, malicious falsehoods to try to discredit and demean. Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41854",
+      "raw": {
+        "creator": "",
+        "title": "The story that the White House, or me, want to affix my name to Ford’s Theatre, in Washington, D.C., where Abraham Lincoln was assassinated, is a ridiculous lie. It is FAKE NEWS! Who would possibly want a name on such a tragic place? The Dumocrats suffer from serious Trump Derangement Syndrome. They are Degenerates and Losers who make up lie after lie, and this Ford’s Theatre Hoax is just another one of their never-ending, malicious falsehoods to try to discredit and demean. Thank you for your attention to this matter. President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41854",
+        "pubDate": "Thu, 24 Sep 2026 00:21:25 +0000",
+        "author": "",
+        "content": "<p>The story that the White House, or me, want to affix my name to Ford’s Theatre, in Washington, D.C., where Abraham Lincoln was assassinated, is a ridiculous lie. It is FAKE NEWS! Who would possibly want a name on such a tragic place? The Dumocrats suffer from serious Trump Derangement Syndrome. They are Degenerates and Losers who make up lie after lie, and this Ford’s Theatre Hoax is just another one of their never-ending, malicious falsehoods to try to discredit and demean. Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+        "contentSnippet": "The story that the White House, or me, want to affix my name to Ford’s Theatre, in Washington, D.C., where Abraham Lincoln was assassinated, is a ridiculous lie. It is FAKE NEWS! Who would possibly want a name on such a tragic place? The Dumocrats suffer from serious Trump Derangement Syndrome. They are Degenerates and Losers who make up lie after lie, and this Ford’s Theatre Hoax is just another one of their never-ending, malicious falsehoods to try to discredit and demean. Thank you for your attention to this matter. President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41854",
+        "isoDate": "2026-09-24T00:21:25.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41856",
+      "publishedAt": "2026-09-24T01:51:54.000Z",
+      "title": "[No Title] - Post from September 24, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41856",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 24, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41856",
+        "pubDate": "Thu, 24 Sep 2026 01:51:54 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41856",
+        "isoDate": "2026-09-24T01:51:54.000Z"
+      }
+    }
+  ],
+  "sentiments": [
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41854",
+      "label": "negative",
+      "rationale": "The post uses hostile language, insults political opponents, and expresses anger about alleged false reporting.",
+      "analyzedAt": "2026-09-24T04:03:53.533Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41855",
+      "label": "positive",
+      "rationale": "The post celebrates Boeing sales, American manufacturing, exports, jobs, and the company's workforce.",
+      "analyzedAt": "2026-09-24T04:03:53.533Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41856",
+      "label": "neutral",
+      "rationale": "The text is empty and expresses no sentiment.",
+      "analyzedAt": "2026-09-24T04:03:53.533Z"
+    }
+  ],
+  "topicsCacheKey": "day-themes-v11:3:c9e3246cacfd6ba265cc60b9",
+  "selfPraiseCacheKey": "self-praise-v2:3:c9e3246cacfd6ba265cc60b9"
 }

@@ -616,7 +616,7 @@
       ],
       "postsCount": 10,
       "hasDetail": true,
-      "generatedAt": "2026-09-24T00:02:26.456Z",
+      "generatedAt": "2026-09-24T04:03:46.372Z",
       "trendingTopic": "Trump warns Canada’s unchecked immigration is causing unemployment and a looming national crisis",
       "secondaryHighlights": [
         {
@@ -634,30 +634,36 @@
     {
       "date": "2026-09-24",
       "counts": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 0
+        "positive": 1,
+        "neutral": 1,
+        "negative": 1
       },
-      "summary": "positive:0 neutral:0 negative:0",
-      "topics": [],
-      "postsCount": 0,
+      "summary": "positive:1 neutral:1 negative:1",
+      "topics": [
+        "Trump touts Türkiye and Bangladesh purchases of 111 Boeing aircraft supporting American manufacturing and exports",
+        "Trump denies wanting his name affixed to Washington’s Ford’s Theatre"
+      ],
+      "postsCount": 3,
       "hasDetail": true,
-      "generatedAt": "2026-09-24T00:02:28.862Z",
+      "generatedAt": "2026-09-24T04:04:04.152Z",
+      "trendingTopic": "Trump touts Türkiye and Bangladesh purchases of 111 Boeing aircraft supporting American manufacturing and exports",
+      "secondaryHighlights": [
+        {
+          "topic": "Trump denies wanting his name affixed to Washington’s Ford’s Theatre"
+        }
+      ],
       "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-24T00:02:28.862Z",
-  "trendingTopic": "Trump escalates pressure on Iran while touting military strikes, economic collapse, and possible negotiations",
+  "generatedAt": "2026-09-24T04:04:04.152Z",
+  "trendingTopic": "Trump promotes White House renovations, monuments, military complexes, and patriotic place renamings",
   "secondaryHighlights": [
     {
-      "topic": "Trump expands U.S. artificial-intelligence infrastructure while dismissing catastrophic-risk warnings"
+      "topic": "Trump drives Republican midterm campaigning through endorsements, rallies, and convention appearances"
     },
     {
-      "topic": "Trump and allies build momentum around the Dallas Republican midterm convention"
-    },
-    {
-      "topic": "Trump battles CNN, Politico, and MS NOW over White House press access"
+      "topic": "Trump portrays Iran as collapsing while defending military operations and discussing oil and negotiations"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:23:94ab2f0d6da0cc6602df7552"
+  "topicsCacheKey": "month-themes-v5:24:82a97c33009a2dfed145e070"
 }
