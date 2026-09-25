@@ -646,7 +646,7 @@
       ],
       "postsCount": 27,
       "hasDetail": true,
-      "generatedAt": "2026-09-25T16:02:35.273Z",
+      "generatedAt": "2026-09-25T20:03:47.128Z",
       "trendingTopic": "Hosts Chinese President Xi Jinping for White House meetings, ceremonies, and military reviews",
       "trendingName": "Xi Jinping",
       "secondaryHighlights": [
@@ -665,44 +665,42 @@
     {
       "date": "2026-09-25",
       "counts": {
-        "positive": 2,
+        "positive": 5,
         "neutral": 2,
         "negative": 0
       },
-      "summary": "positive:2 neutral:2 negative:0",
+      "summary": "positive:5 neutral:2 negative:0",
       "topics": [
-        "Census Bureau releases income, poverty, and health insurance coverage statistics",
-        "Trump mourns American patriot and warrior James Copenhaver",
-        "Trump describes productive meeting with Chinese President Xi Jinping"
+        "Trump describes Xi meeting as productive and schedules follow-up U.S.-China talks in November and December",
+        "Census Bureau releases 2025 income, poverty, and health insurance coverage statistics",
+        "Trump denies Scott Bessent will become artificial intelligence czar and says he will remain Treasury secretary"
       ],
-      "postsCount": 4,
+      "postsCount": 7,
       "hasDetail": true,
-      "generatedAt": "2026-09-25T16:02:54.318Z",
-      "trendingTopic": "Census Bureau releases annual income, poverty, and health insurance coverage statistics",
+      "generatedAt": "2026-09-25T20:04:12.651Z",
+      "trendingTopic": "Trump describes Xi meeting as productive and schedules follow-up U.S.-China talks in November and December",
+      "trendingName": "Xi Jinping",
       "secondaryHighlights": [
         {
-          "topic": "Trump mourns American patriot and warrior James Copenhaver"
+          "topic": "Census Bureau releases 2025 income, poverty, and health insurance coverage statistics"
         },
         {
-          "topic": "Trump describes productive meeting with Chinese President Xi Jinping",
-          "name": "Xi Jinping"
+          "topic": "Trump denies Scott Bessent will become artificial intelligence czar and says he will remain Treasury secretary",
+          "name": "Scott Bessent"
         }
       ],
       "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-25T16:02:54.318Z",
-  "trendingTopic": "Trump portrays Iran as collapsing while defending military operations and weighing negotiations",
+  "generatedAt": "2026-09-25T20:04:12.651Z",
+  "trendingTopic": "Trump defends the Iran war while portraying Iran’s economy and military position as collapsing",
   "secondaryHighlights": [
     {
-      "topic": "Trump touts jobs, lower poverty, higher incomes, and demands sharply lower interest rates"
+      "topic": "Trump promotes White House renovations, a ballroom, helipad, and monumental military projects"
     },
     {
-      "topic": "Trump escalates battles with CNN, MSNBC, Politico, and White House press access"
-    },
-    {
-      "topic": "Trump promotes U.S. artificial-intelligence expansion while dismissing catastrophic-risk warnings"
+      "topic": "Trump touts strong household finances, low poverty, jobs, and economic gains while seeking lower interest rates"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:25:dd45c07f969ca9df6fbe0240"
+  "topicsCacheKey": "month-themes-v5:25:c16d44a8a54752f1ceea9ae7"
 }

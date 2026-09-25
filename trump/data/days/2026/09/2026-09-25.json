@@ -1,30 +1,30 @@
 {
   "date": "2026-09-25",
   "counts": {
-    "positive": 2,
+    "positive": 5,
     "neutral": 2,
     "negative": 0
   },
-  "summary": "positive:2 neutral:2 negative:0",
-  "generatedAt": "2026-09-25T16:02:54.318Z",
+  "summary": "positive:5 neutral:2 negative:0",
+  "generatedAt": "2026-09-25T20:04:12.651Z",
   "topics": [
-    "Census Bureau releases income, poverty, and health insurance coverage statistics",
-    "Trump mourns American patriot and warrior James Copenhaver",
-    "Trump describes productive meeting with Chinese President Xi Jinping"
+    "Trump describes Xi meeting as productive and schedules follow-up U.S.-China talks in November and December",
+    "Census Bureau releases 2025 income, poverty, and health insurance coverage statistics",
+    "Trump denies Scott Bessent will become artificial intelligence czar and says he will remain Treasury secretary"
   ],
-  "trendingTopic": "Census Bureau releases annual income, poverty, and health insurance coverage statistics",
+  "trendingTopic": "Trump describes Xi meeting as productive and schedules follow-up U.S.-China talks in November and December",
   "secondaryHighlights": [
     {
-      "topic": "Trump mourns American patriot and warrior James Copenhaver"
+      "topic": "Census Bureau releases 2025 income, poverty, and health insurance coverage statistics"
     },
     {
-      "topic": "Trump describes productive meeting with Chinese President Xi Jinping",
-      "name": "Xi Jinping"
+      "topic": "Trump denies Scott Bessent will become artificial intelligence czar and says he will remain Treasury secretary",
+      "name": "Scott Bessent"
     }
   ],
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v11:4:da1216d9e31d9a62d4f29880",
-  "selfPraiseCacheKey": "self-praise-v2:4:da1216d9e31d9a62d4f29880",
+  "topicsCacheKey": "day-themes-v11:7:225ebec4ee58d3ca325b45df",
+  "selfPraiseCacheKey": "self-praise-v2:7:225ebec4ee58d3ca325b45df",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41884",
@@ -97,6 +97,60 @@
         "guid": "https://www.trumpstruth.org/statuses/41885",
         "isoDate": "2026-09-25T12:46:52.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41886",
+      "publishedAt": "2026-09-25T16:49:50.000Z",
+      "title": "Scott Bessent will not be going to be Super Intelligence (SI) Czar. Number One, he doesn’t want to. Number Two, he’s doing such a great job at Treasury, and that’s where I want to keep him! Why would I ever make such a change? Just more Fake News! President DONALD J. TRUMP",
+      "text": "<p>Scott Bessent will not be going to be Super Intelligence (SI) Czar. Number One, he doesn’t want to. Number Two, he’s doing such a great job at Treasury, and that’s where I want to keep him! Why would I ever make such a change? Just more Fake News! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41886",
+      "raw": {
+        "creator": "",
+        "title": "Scott Bessent will not be going to be Super Intelligence (SI) Czar. Number One, he doesn’t want to. Number Two, he’s doing such a great job at Treasury, and that’s where I want to keep him! Why would I ever make such a change? Just more Fake News! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41886",
+        "pubDate": "Fri, 25 Sep 2026 16:49:50 +0000",
+        "author": "",
+        "content": "<p>Scott Bessent will not be going to be Super Intelligence (SI) Czar. Number One, he doesn’t want to. Number Two, he’s doing such a great job at Treasury, and that’s where I want to keep him! Why would I ever make such a change? Just more Fake News! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Scott Bessent will not be going to be Super Intelligence (SI) Czar. Number One, he doesn’t want to. Number Two, he’s doing such a great job at Treasury, and that’s where I want to keep him! Why would I ever make such a change? Just more Fake News! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41886",
+        "isoDate": "2026-09-25T16:49:50.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41887",
+      "publishedAt": "2026-09-25T17:17:16.000Z",
+      "title": "President Xi and Madam Peng have just left D.C., heading for China. The meeting was one of Friendship, Strength, and Success, for both China and the U.S.A. We will be meeting again in November, in China, and then at the G20 in December, in Miami, Florida. Much has been, and will be, accomplished. I look forward to our next meeting! President DONALD J. TRUMP",
+      "text": "<p>President Xi and Madam Peng have just left D.C., heading for China. The meeting was one of Friendship, Strength, and Success, for both China and the U.S.A. We will be meeting again in November, in China, and then at the G20 in December, in Miami, Florida. Much has been, and will be, accomplished. I look forward to our next meeting! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41887",
+      "raw": {
+        "creator": "",
+        "title": "President Xi and Madam Peng have just left D.C., heading for China. The meeting was one of Friendship, Strength, and Success, for both China and the U.S.A. We will be meeting again in November, in China, and then at the G20 in December, in Miami, Florida. Much has been, and will be, accomplished. I look forward to our next meeting! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41887",
+        "pubDate": "Fri, 25 Sep 2026 17:17:16 +0000",
+        "author": "",
+        "content": "<p>President Xi and Madam Peng have just left D.C., heading for China. The meeting was one of Friendship, Strength, and Success, for both China and the U.S.A. We will be meeting again in November, in China, and then at the G20 in December, in Miami, Florida. Much has been, and will be, accomplished. I look forward to our next meeting! President DONALD J. TRUMP</p>",
+        "contentSnippet": "President Xi and Madam Peng have just left D.C., heading for China. The meeting was one of Friendship, Strength, and Success, for both China and the U.S.A. We will be meeting again in November, in China, and then at the G20 in December, in Miami, Florida. Much has been, and will be, accomplished. I look forward to our next meeting! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41887",
+        "isoDate": "2026-09-25T17:17:16.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41888",
+      "publishedAt": "2026-09-25T18:11:59.000Z",
+      "title": "Congratulations to America First Patriot, Jerry Kassar, who I very strongly supported, on his unanimous Re-Election as Chairman of the Conservative Party of New York State. Jerry is MAGA all the way, and has dedicated his life to the Conservative Party, and the ONCE GREAT STATE OF NEW YORK (IT CAN BE GREAT AGAIN!). I know Jerry will continue to do a fantastic job, and secure many Victories for New York Conservatives and Republicans in the 2026 Midterm Elections, and beyond. THANK YOU NEW YORK — MAGA2026! President DONALD J. TRUMP",
+      "text": "<p>Congratulations to America First Patriot, Jerry Kassar, who I very strongly supported, on his unanimous Re-Election as Chairman of the Conservative Party of New York State. Jerry is MAGA all the way, and has dedicated his life to the Conservative Party, and the ONCE GREAT STATE OF NEW YORK (IT CAN BE GREAT AGAIN!). I know Jerry will continue to do a fantastic job, and secure many Victories for New York Conservatives and Republicans in the 2026 Midterm Elections, and beyond. THANK YOU NEW YORK — MAGA2026! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41888",
+      "raw": {
+        "creator": "",
+        "title": "Congratulations to America First Patriot, Jerry Kassar, who I very strongly supported, on his unanimous Re-Election as Chairman of the Conservative Party of New York State. Jerry is MAGA all the way, and has dedicated his life to the Conservative Party, and the ONCE GREAT STATE OF NEW YORK (IT CAN BE GREAT AGAIN!). I know Jerry will continue to do a fantastic job, and secure many Victories for New York Conservatives and Republicans in the 2026 Midterm Elections, and beyond. THANK YOU NEW YORK — MAGA2026! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41888",
+        "pubDate": "Fri, 25 Sep 2026 18:11:59 +0000",
+        "author": "",
+        "content": "<p>Congratulations to America First Patriot, Jerry Kassar, who I very strongly supported, on his unanimous Re-Election as Chairman of the Conservative Party of New York State. Jerry is MAGA all the way, and has dedicated his life to the Conservative Party, and the ONCE GREAT STATE OF NEW YORK (IT CAN BE GREAT AGAIN!). I know Jerry will continue to do a fantastic job, and secure many Victories for New York Conservatives and Republicans in the 2026 Midterm Elections, and beyond. THANK YOU NEW YORK — MAGA2026! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Congratulations to America First Patriot, Jerry Kassar, who I very strongly supported, on his unanimous Re-Election as Chairman of the Conservative Party of New York State. Jerry is MAGA all the way, and has dedicated his life to the Conservative Party, and the ONCE GREAT STATE OF NEW YORK (IT CAN BE GREAT AGAIN!). I know Jerry will continue to do a fantastic job, and secure many Victories for New York Conservatives and Republicans in the 2026 Midterm Elections, and beyond. THANK YOU NEW YORK — MAGA2026! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41888",
+        "isoDate": "2026-09-25T18:11:59.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -123,6 +177,25 @@
       "label": "positive",
       "rationale": "The text describes the meeting as very productive, anticipates tremendous developments, and expresses enthusiastic approval of the term “SUPER INTELLIGENCE.”",
       "analyzedAt": "2026-09-25T16:02:41.578Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41886",
+      "label": "positive",
+      "rationale": "Strongly praises Scott Bessent's performance at the Treasury and affirms the decision to keep him there, despite dismissing contrary reports as fake news.",
+      "analyzedAt": "2026-09-25T20:03:56.338Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41887",
+      "label": "positive",
+      "rationale": "Describes the meeting with President Xi as friendly, strong, and successful, while expressing optimism about future cooperation.",
+      "analyzedAt": "2026-09-25T20:03:56.338Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41888",
+      "label": "positive",
+      "rationale": "Celebrates Jerry Kassar's unanimous reelection, praises his dedication and abilities, and expresses optimism about future victories.",
+      "analyzedAt": "2026-09-25T20:03:56.338Z"
     }
-  ]
+  ],
+  "trendingName": "Xi Jinping"
 }
