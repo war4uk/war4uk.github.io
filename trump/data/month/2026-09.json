@@ -646,7 +646,7 @@
       ],
       "postsCount": 27,
       "hasDetail": true,
-      "generatedAt": "2026-09-25T12:00:26.093Z",
+      "generatedAt": "2026-09-25T16:02:35.273Z",
       "trendingTopic": "Hosts Chinese President Xi Jinping for White House meetings, ceremonies, and military reviews",
       "trendingName": "Xi Jinping",
       "secondaryHighlights": [
@@ -665,39 +665,44 @@
     {
       "date": "2026-09-25",
       "counts": {
-        "positive": 1,
+        "positive": 2,
         "neutral": 2,
         "negative": 0
       },
-      "summary": "positive:1 neutral:2 negative:0",
+      "summary": "positive:2 neutral:2 negative:0",
       "topics": [
-        "Census Bureau reports on income, poverty, and health insurance coverage",
-        "Trump mourns James Copenhaver and honors his family"
+        "Census Bureau releases income, poverty, and health insurance coverage statistics",
+        "Trump mourns American patriot and warrior James Copenhaver",
+        "Trump describes productive meeting with Chinese President Xi Jinping"
       ],
-      "postsCount": 3,
+      "postsCount": 4,
       "hasDetail": true,
-      "generatedAt": "2026-09-25T12:00:46.752Z",
-      "trendingTopic": "Census Bureau releases annual report on income, poverty, and health insurance coverage",
+      "generatedAt": "2026-09-25T16:02:54.318Z",
+      "trendingTopic": "Census Bureau releases annual income, poverty, and health insurance coverage statistics",
       "secondaryHighlights": [
         {
-          "topic": "Trump mourns James Copenhaver and honors his family"
+          "topic": "Trump mourns American patriot and warrior James Copenhaver"
+        },
+        {
+          "topic": "Trump describes productive meeting with Chinese President Xi Jinping",
+          "name": "Xi Jinping"
         }
       ],
       "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-25T12:00:46.752Z",
-  "trendingTopic": "Trump portrays Iran as collapsing while defending military operations and discussing oil, weapons, and negotiations",
+  "generatedAt": "2026-09-25T16:02:54.318Z",
+  "trendingTopic": "Trump portrays Iran as collapsing while defending military operations and weighing negotiations",
   "secondaryHighlights": [
     {
-      "topic": "Trump touts higher household incomes, lower poverty, and improving prices"
+      "topic": "Trump touts jobs, lower poverty, higher incomes, and demands sharply lower interest rates"
     },
     {
-      "topic": "Trump battles CNN, Politico, and MS NOW over White House press access"
+      "topic": "Trump escalates battles with CNN, MSNBC, Politico, and White House press access"
     },
     {
-      "topic": "Trump promotes artificial intelligence leadership while dismissing catastrophic-risk warnings"
+      "topic": "Trump promotes U.S. artificial-intelligence expansion while dismissing catastrophic-risk warnings"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:25:cecffd1ef0aa685ca0505d7f"
+  "topicsCacheKey": "month-themes-v5:25:dd45c07f969ca9df6fbe0240"
 }

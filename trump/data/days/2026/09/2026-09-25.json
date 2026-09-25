@@ -1,23 +1,30 @@
 {
   "date": "2026-09-25",
   "counts": {
-    "positive": 1,
+    "positive": 2,
     "neutral": 2,
     "negative": 0
   },
-  "summary": "positive:1 neutral:2 negative:0",
-  "generatedAt": "2026-09-25T12:00:46.752Z",
+  "summary": "positive:2 neutral:2 negative:0",
+  "generatedAt": "2026-09-25T16:02:54.318Z",
   "topics": [
-    "Census Bureau reports on income, poverty, and health insurance coverage",
-    "Trump mourns James Copenhaver and honors his family"
+    "Census Bureau releases income, poverty, and health insurance coverage statistics",
+    "Trump mourns American patriot and warrior James Copenhaver",
+    "Trump describes productive meeting with Chinese President Xi Jinping"
   ],
-  "trendingTopic": "Census Bureau releases annual report on income, poverty, and health insurance coverage",
+  "trendingTopic": "Census Bureau releases annual income, poverty, and health insurance coverage statistics",
   "secondaryHighlights": [
     {
-      "topic": "Trump mourns James Copenhaver and honors his family"
+      "topic": "Trump mourns American patriot and warrior James Copenhaver"
+    },
+    {
+      "topic": "Trump describes productive meeting with Chinese President Xi Jinping",
+      "name": "Xi Jinping"
     }
   ],
   "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v11:4:da1216d9e31d9a62d4f29880",
+  "selfPraiseCacheKey": "self-praise-v2:4:da1216d9e31d9a62d4f29880",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41884",
@@ -72,6 +79,24 @@
         "guid": "https://www.trumpstruth.org/statuses/41883",
         "isoDate": "2026-09-25T11:09:11.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41885",
+      "publishedAt": "2026-09-25T12:46:52.000Z",
+      "title": "Very productive meeting with President Xi for both the U.S.A. and China. Tremendous things will be happening. Like almost everyone else, he seemed to like calling the poorly and inaccurately named Artificial Intelligence to a far more accurate and important name, SUPER INTELLIGENCE. That would be “SUPER!” Everyone last night agreed, also. President DJT",
+      "text": "<p>Very productive meeting with President Xi for both the U.S.A. and China. Tremendous things will be happening. Like almost everyone else, he seemed to like calling the poorly and inaccurately named Artificial Intelligence to a far more accurate and important name, SUPER INTELLIGENCE. That would be “SUPER!” Everyone last night agreed, also. President DJT</p>",
+      "url": "https://www.trumpstruth.org/statuses/41885",
+      "raw": {
+        "creator": "",
+        "title": "Very productive meeting with President Xi for both the U.S.A. and China. Tremendous things will be happening. Like almost everyone else, he seemed to like calling the poorly and inaccurately named Artificial Intelligence to a far more accurate and important name, SUPER INTELLIGENCE. That would be “SUPER!” Everyone last night agreed, also. President DJT",
+        "link": "https://www.trumpstruth.org/statuses/41885",
+        "pubDate": "Fri, 25 Sep 2026 12:46:52 +0000",
+        "author": "",
+        "content": "<p>Very productive meeting with President Xi for both the U.S.A. and China. Tremendous things will be happening. Like almost everyone else, he seemed to like calling the poorly and inaccurately named Artificial Intelligence to a far more accurate and important name, SUPER INTELLIGENCE. That would be “SUPER!” Everyone last night agreed, also. President DJT</p>",
+        "contentSnippet": "Very productive meeting with President Xi for both the U.S.A. and China. Tremendous things will be happening. Like almost everyone else, he seemed to like calling the poorly and inaccurately named Artificial Intelligence to a far more accurate and important name, SUPER INTELLIGENCE. That would be “SUPER!” Everyone last night agreed, also. President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/41885",
+        "isoDate": "2026-09-25T12:46:52.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -92,8 +117,12 @@
       "label": "neutral",
       "rationale": "The post consists only of a news link and contains no explicit sentiment.",
       "analyzedAt": "2026-09-25T12:00:33.477Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41885",
+      "label": "positive",
+      "rationale": "The text describes the meeting as very productive, anticipates tremendous developments, and expresses enthusiastic approval of the term “SUPER INTELLIGENCE.”",
+      "analyzedAt": "2026-09-25T16:02:41.578Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v11:3:da277c902e1c996fbea5086b",
-  "selfPraiseCacheKey": "self-praise-v2:3:da277c902e1c996fbea5086b"
+  ]
 }
