@@ -636,42 +636,56 @@
       "counts": {
         "positive": 6,
         "neutral": 14,
-        "negative": 5
+        "negative": 7
       },
-      "summary": "positive:6 neutral:14 negative:5",
+      "summary": "positive:6 neutral:14 negative:7",
       "topics": [
-        "Trump hosts Chinese President Xi Jinping for talks, ceremonies, and military reviews",
-        "Trump denies reports that Ford’s Theatre will be renamed after him",
-        "Türkiye and Bangladesh announce purchases of 111 Boeing aircraft"
+        "Hosts Chinese President Xi Jinping for White House meetings, ceremonies, and military reviews",
+        "Denies false reports that Ford’s Theatre will be renamed after him",
+        "Highlights Türkiye and Bangladesh orders for 111 Boeing aircraft and American manufacturing jobs"
       ],
-      "postsCount": 25,
+      "postsCount": 27,
       "hasDetail": true,
-      "generatedAt": "2026-09-24T20:02:08.885Z",
-      "trendingTopic": "Trump hosts Chinese President Xi Jinping for talks, ceremonies, and military reviews",
+      "generatedAt": "2026-09-25T00:04:09.709Z",
+      "trendingTopic": "Hosts Chinese President Xi Jinping for White House meetings, ceremonies, and military reviews",
       "trendingName": "Xi Jinping",
       "secondaryHighlights": [
         {
-          "topic": "Trump denies reports that Ford’s Theatre will be renamed after him"
+          "topic": "Criticizes CNN and MSNBC for declining ratings and refusing to cover Xi Jinping’s White House arrival"
         },
         {
-          "topic": "Türkiye and Bangladesh announce purchases of 111 Boeing aircraft"
+          "topic": "Mourns Butler shooting survivor Jim Copenhaver and praises his courage"
+        },
+        {
+          "topic": "Shares Victor Davis Hanson’s commentary on Canada"
         }
       ],
-      "selfPraiseCount": 1
+      "selfPraiseCount": 2
+    },
+    {
+      "date": "2026-09-25",
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "positive:0 neutral:0 negative:0",
+      "topics": [],
+      "postsCount": 0,
+      "hasDetail": true,
+      "generatedAt": "2026-09-25T00:03:52.268Z",
+      "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-24T20:02:08.885Z",
-  "trendingTopic": "Trump pressures Iran through war threats, economic collapse claims, and possible negotiations",
+  "generatedAt": "2026-09-25T00:04:09.709Z",
+  "trendingTopic": "Defends the Iran war while portraying Iran as collapsing under military and economic pressure",
   "secondaryHighlights": [
     {
-      "topic": "Trump touts record household income and lower poverty while demanding rate cuts"
+      "topic": "Battles CNN, MSNBC, MS NOW, and Politico over coverage and White House access"
     },
     {
-      "topic": "Trump battles CNN, Politico, and MS NOW over White House press access"
-    },
-    {
-      "topic": "Trump promotes AI expansion while dismissing catastrophic-risk warnings"
+      "topic": "Touts jobs, household incomes, lower poverty, and economic gains while demanding lower interest rates"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:24:35e6676bb28a80ae1b7b6220"
+  "topicsCacheKey": "month-themes-v5:24:777cb2a945732a449159ad85"
 }
