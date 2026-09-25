@@ -86,47 +86,78 @@ export function ticketsForRegions(data, regionSet, dist) {
   return out;
 }
 
-function cloneSet(s) {
-  return new Set(s);
-}
-
-function optimisticValue(tickets, start, slots) {
-  if (slots <= 0) return 0;
-  const vals = [];
-  for (let j = start; j < tickets.length; j++) vals.push(tickets[j].value);
-  vals.sort((a, b) => b - a);
-  let s = 0;
-  for (let i = 0; i < slots && i < vals.length; i++) s += vals[i];
-  return s;
-}
-
-function dfsExact(tickets, adj, trains, minKeep, maxKeep) {
-  const n = tickets.length;
-  const best = { value: -1, cost: 0, tickets: [], routes: [] };
-
-  const rec = (i, chosen, claimed, cost, value) => {
-    if (chosen.length >= minKeep && chosen.length <= maxKeep) {
-      if (value > best.value || (value === best.value && cost < best.cost)) {
-        best.value = value;
-        best.cost = cost;
-        best.tickets = chosen.slice();
-        best.routes = [...claimed];
-      }
+function combinations(arr, k) {
+  const out = [];
+  const rec = (start, acc) => {
+    if (acc.length === k) {
+      out.push(acc.slice());
+      return;
     }
-    if (i >= n || chosen.length >= maxKeep) return;
-    if (value + optimisticValue(tickets, i, maxKeep - chosen.length) < best.value) return;
-
-    const t = tickets[i];
-    const extra = dijkstra(adj, t.a, t.b, claimed);
-    if (extra && cost + extra.cost <= trains) {
-      const nextClaimed = cloneSet(claimed);
-      extra.path.forEach((id) => nextClaimed.add(id));
-      rec(i + 1, chosen.concat([t]), nextClaimed, cost + extra.cost, value + t.value);
+    for (let i = start; i <= arr.length - (k - acc.length); i++) {
+      acc.push(arr[i]);
+      rec(i + 1, acc);
+      acc.pop();
     }
-    rec(i + 1, chosen, claimed, cost, value);
   };
+  rec(0, []);
+  return out;
+}
 
-  rec(0, [], new Set(), 0, 0);
+function candidateOrders(tickets) {
+  const byRatio = tickets.slice().sort((a, b) => b.ratio - a.ratio || b.value - a.value || a.sp - b.sp);
+  const byValue = tickets.slice().sort((a, b) => b.value - a.value || a.sp - b.sp);
+  const bySp = tickets.slice().sort((a, b) => a.sp - b.sp || b.value - a.value);
+  return [byRatio, byValue, bySp, byRatio.slice().reverse(), tickets.slice()];
+}
+
+function minForest(tickets, adj, trains) {
+  let best = null;
+  const seen = new Set();
+  const consider = (order) => {
+    const key = order.map((t) => t.id).join("|");
+    if (seen.has(key)) return;
+    seen.add(key);
+    const next = rebuildNetwork(order, adj, 999, order.length);
+    if (next.tickets.length !== tickets.length) return;
+    if (!best || next.cost < best.cost) best = next;
+  };
+  for (const order of candidateOrders(tickets)) consider(order);
+  const needPerms =
+    tickets.length <= 4 || (tickets.length === 5 && (!best || best.cost > trains));
+  if (needPerms) {
+    for (const order of permute(tickets)) {
+      consider(order);
+      if (tickets.length === 5 && best && best.cost <= trains) break;
+    }
+  }
+  return best;
+}
+
+function exactByCombos(tickets, adj, trains, minKeep, maxKeep) {
+  const best = { value: -1, cost: 0, tickets: [], routes: [] };
+  const combos = [];
+  const kMax = Math.min(maxKeep, tickets.length);
+  for (let k = minKeep; k <= kMax; k++) {
+    for (const chosen of combinations(tickets, k)) {
+      combos.push({
+        chosen,
+        value: chosen.reduce((s, t) => s + t.value, 0),
+      });
+    }
+  }
+  combos.sort((a, b) => b.value - a.value || a.chosen.length - b.chosen.length);
+  for (const c of combos) {
+    if (c.value < best.value) break;
+    if (Math.max(...c.chosen.map((t) => t.sp)) > trains) continue;
+    const forest = minForest(c.chosen, adj, trains);
+    if (!forest || forest.cost > trains) continue;
+    if (c.value > best.value || (c.value === best.value && forest.cost < best.cost)) {
+      best.value = c.value;
+      best.cost = forest.cost;
+      best.tickets = forest.tickets;
+      best.routes = [...forest.claimed];
+    }
+  }
   return best;
 }
 
@@ -227,11 +258,15 @@ function greedyThenSearch(tickets, adj, trains, minKeep, maxKeep) {
   }
 
   let state = rebuildNetwork(chosen, adj, trains, maxKeep);
-  for (let round = 0; round < 3; round++) {
+  const optRounds = tickets.length > 48 ? 1 : 3;
+  const poolAll = tickets.filter((t) => !state.tickets.some((x) => x.id === t.id));
+  poolAll.sort((a, b) => b.value - a.value || a.sp - b.sp);
+  const pool = poolAll.slice(0, tickets.length > 48 ? 20 : poolAll.length);
+  for (let round = 0; round < optRounds; round++) {
     let improved = false;
-    const pool = tickets.filter((t) => !state.tickets.some((x) => x.id === t.id));
     for (let i = 0; i < state.tickets.length; i++) {
       for (const cand of pool) {
+        if (state.tickets.some((x) => x.id === cand.id)) continue;
         const trial = state.tickets.slice();
         trial[i] = cand;
         const next = rebuildNetwork(trial, adj, trains, maxKeep);
@@ -259,24 +294,30 @@ function greedyThenSearch(tickets, adj, trains, minKeep, maxKeep) {
 export function optimizeTickets({ data, regionSet, trains, minKeep, maxKeep }) {
   const { cities, adj, routes } = buildGraph(data, regionSet);
   const dist = shortestPaths(adj, cities);
+  const inDeck = data.tickets.filter((t) => regionSet.has(t.region));
+  let unreachable = 0;
+  for (const t of inDeck) {
+    if (dist.get(t.a)?.get(t.b) == null) unreachable += 1;
+  }
   let tickets = ticketsForRegions(data, regionSet, dist).filter((t) => t.sp <= trains);
   tickets.sort((a, b) => b.ratio - a.ratio || b.value - a.value || a.sp - b.sp);
 
-  const combinations = (n, k) => {
+  const combinationsCount = (n, k) => {
     if (k < 0 || k > n) return 0;
     k = Math.min(k, n - k);
     let r = 1;
     for (let i = 1; i <= k; i++) r = (r * (n - k + i)) / i;
     return r;
   };
-  const enumSize = Array.from({ length: maxKeep + 1 }, (_, k) =>
-    k < minKeep ? 0 : combinations(tickets.length, k)
+  const kMax = Math.min(maxKeep, tickets.length);
+  const enumSize = Array.from({ length: kMax + 1 }, (_, k) =>
+    k < minKeep ? 0 : combinationsCount(tickets.length, k)
   ).reduce((a, b) => a + b, 0);
 
   let raw =
-    tickets.length <= 36 && maxKeep <= 5 && enumSize <= 80000
-      ? dfsExact(tickets, adj, trains, minKeep, maxKeep)
-      : greedyThenSearch(tickets, adj, trains, minKeep, maxKeep);
+    tickets.length <= 36 && kMax <= 5 && enumSize <= 80000
+      ? exactByCombos(tickets, adj, trains, minKeep, kMax)
+      : greedyThenSearch(tickets, adj, trains, minKeep, kMax);
 
   if (raw.tickets?.length && raw.tickets.length <= 6) {
     const ordered = bestOrder(raw.tickets, adj);
@@ -302,6 +343,8 @@ export function optimizeTickets({ data, regionSet, trains, minKeep, maxKeep }) {
     tickets: raw.tickets,
     routes: claimedRoutes,
     availableTickets: tickets.length,
+    deckTickets: inDeck.length,
+    unreachableTickets: unreachable,
     cityCount: cities.size,
     routeCount: routes.size,
   };
