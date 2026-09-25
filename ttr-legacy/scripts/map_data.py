@@ -1,9 +1,11 @@
 """Ticket to Ride Legacy: Legends of the West — map graph and tickets.
 
-Route lengths are reconstructed from published board photographs
-(East Coast start map + completed campaign boards). A player may claim
-only one track of a double/triple route, so doubles do not change the
-cost graph for a single company.
+East Coast, Florida, Great Plains, Open Range, Badlands, California and
+Sierra Madre route lengths are counted from the campaign board (spaces
+between cities). Cascadia and Haunted Wastes interiors were not on the
+photographed pieces; those lengths stay as previously reconstructed.
+A player may claim only one track of a double route, so doubles do not
+change the cost graph for a single company.
 """
 
 REGIONS = [
@@ -87,8 +89,8 @@ CITIES = {
 
 # (a, b, length, region, tracks)  tracks=1 single, 2 double
 ROUTES = [
-    # East Coast
-    ("Quebec", "Montreal", 1, "ec", 1),
+    # East Coast — counted from the campaign board
+    ("Quebec", "Montreal", 2, "ec", 1),
     ("Quebec", "Bangor", 2, "ec", 1),
     ("Bangor", "Boston", 2, "ec", 2),
     ("Montreal", "Buffalo", 2, "ec", 2),
@@ -97,18 +99,19 @@ ROUTES = [
     ("Buffalo", "New York", 3, "ec", 1),
     ("Buffalo", "Detroit", 2, "ec", 2),
     ("Buffalo", "Pittsburgh", 2, "ec", 1),
-    ("Albany", "Boston", 2, "ec", 1),
-    ("Albany", "New York", 2, "ec", 1),
+    ("Albany", "Boston", 2, "ec", 2),
+    ("Albany", "New York", 2, "ec", 2),
     ("Boston", "New York", 2, "ec", 2),
-    ("New York", "Philadelphia", 1, "ec", 2),
-    ("Philadelphia", "Baltimore", 2, "ec", 1),
-    ("Philadelphia", "Norfolk", 2, "ec", 1),
+    ("New York", "Philadelphia", 2, "ec", 2),
+    ("Philadelphia", "Baltimore", 2, "ec", 2),
+    ("Philadelphia", "Norfolk", 3, "ec", 1),
     ("Baltimore", "Norfolk", 2, "ec", 1),
-    ("Baltimore", "Pittsburgh", 3, "ec", 1),
+    ("Baltimore", "Pittsburgh", 2, "ec", 1),
     ("Baltimore", "Lewisburg", 2, "ec", 2),
     ("Baltimore", "Charlotte", 2, "ec", 1),
-    ("Norfolk", "Charlotte", 2, "ec", 1),
-    ("Detroit", "Chicago", 2, "ec", 1),
+    ("Norfolk", "Charlotte", 3, "ec", 1),
+    ("Norfolk", "Charleston", 3, "ec", 2),
+    ("Detroit", "Chicago", 2, "ec", 2),
     ("Detroit", "Pittsburgh", 2, "ec", 1),
     ("Chicago", "Pittsburgh", 3, "ec", 1),
     ("Chicago", "Cincinnati", 2, "ec", 1),
@@ -116,21 +119,21 @@ ROUTES = [
     ("Cincinnati", "Lewisburg", 3, "ec", 1),
     ("Cincinnati", "Knoxville", 2, "ec", 1),
     ("Cincinnati", "Nashville", 2, "ec", 1),
-    ("Lewisburg", "Knoxville", 3, "ec", 1),
-    ("Lewisburg", "Charlotte", 3, "ec", 1),
+    ("Lewisburg", "Knoxville", 2, "ec", 1),
+    ("Lewisburg", "Charlotte", 2, "ec", 1),
     ("Knoxville", "Nashville", 2, "ec", 1),
     ("Knoxville", "Atlanta", 2, "ec", 1),
     ("Knoxville", "Charlotte", 2, "ec", 1),
     ("Nashville", "Atlanta", 2, "ec", 1),
-    ("Nashville", "Mobile", 3, "ec", 1),
+    ("Nashville", "New Orleans", 4, "ec", 2),
     ("Atlanta", "Charlotte", 2, "ec", 1),
     ("Atlanta", "Charleston", 3, "ec", 1),
     ("Atlanta", "Mobile", 3, "ec", 1),
-    ("Atlanta", "Savannah", 2, "ec", 1),
+    ("Atlanta", "Savannah", 3, "ec", 1),
     ("Charlotte", "Charleston", 2, "ec", 1),
     ("Charleston", "Savannah", 2, "ec", 2),
-    ("Mobile", "New Orleans", 2, "ec", 1),
-    ("Mobile", "Savannah", 3, "ec", 1),
+    ("Mobile", "New Orleans", 2, "ec", 2),
+    ("Mobile", "Savannah", 2, "ec", 2),
     # Florida
     ("Savannah", "Jacksonville", 2, "fl", 1),
     ("Jacksonville", "Miami", 3, "fl", 1),
@@ -152,7 +155,7 @@ ROUTES = [
     ("Kansas City", "Oklahoma City", 2, "gp", 1),
     ("Kansas City", "Omaha", 2, "gp", 1),
     ("Kansas City", "St. Louis", 2, "gp", 1),
-    ("Omaha", "St. Paul", 3, "gp", 1),
+    ("Omaha", "St. Paul", 2, "gp", 1),
     ("St. Louis", "Chicago", 2, "gp", 1),
     ("St. Louis", "Cincinnati", 3, "gp", 1),
     ("St. Louis", "Nashville", 2, "gp", 1),
@@ -163,7 +166,7 @@ ROUTES = [
     ("Dodge City", "Santa Fe", 3, "or", 1),
     ("Dallas", "El Paso", 3, "or", 1),
     ("Dallas", "Little Rock", 2, "or", 1),
-    ("Dallas", "Oklahoma City", 2, "or", 1),
+    ("Dallas", "Oklahoma City", 3, "or", 1),
     ("Dallas", "Houston", 2, "or", 1),
     ("Dallas", "San Antonio", 2, "or", 2),
     ("Houston", "Little Rock", 3, "or", 1),
@@ -172,16 +175,16 @@ ROUTES = [
     ("Little Rock", "Nashville", 2, "or", 1),
     ("Little Rock", "New Orleans", 3, "or", 1),
     ("Little Rock", "Oklahoma City", 2, "or", 1),
-    ("Little Rock", "St. Louis", 3, "or", 1),
+    ("Little Rock", "St. Louis", 2, "or", 1),
     ("Oklahoma City", "Santa Fe", 3, "or", 1),
     # Badlands
-    ("Fargo", "Miles City", 3, "bl", 1),
+    ("Fargo", "Miles City", 3, "bl", 2),
     ("Fargo", "St. Paul", 2, "bl", 1),
     ("Fargo", "Winnipeg", 2, "bl", 1),
     ("Miles City", "Regina", 2, "bl", 1),
     ("Miles City", "Winnipeg", 3, "bl", 1),
     ("Regina", "Winnipeg", 2, "bl", 1),
-    # Haunted Wastes
+    # Haunted Wastes (board not in the photos — previous reconstruction)
     ("Cheyenne", "Denver", 2, "hw", 1),
     ("Cheyenne", "Fargo", 3, "hw", 1),
     ("Cheyenne", "Helena", 3, "hw", 1),
@@ -196,7 +199,7 @@ ROUTES = [
     ("Phoenix", "Salt Lake City", 3, "hw", 1),
     ("Phoenix", "Santa Fe", 3, "hw", 1),
     ("Salt Lake City", "Spokane", 3, "hw", 1),
-    # Cascadia
+    # Cascadia (board not in the photos — previous reconstruction)
     ("Calgary", "Helena", 2, "cs", 1),
     ("Calgary", "Miles City", 2, "cs", 1),
     ("Calgary", "Regina", 3, "cs", 1),
@@ -211,16 +214,16 @@ ROUTES = [
     ("Seattle", "Spokane", 3, "cs", 1),
     ("Seattle", "Vancouver", 1, "cs", 2),
     ("Spokane", "Vancouver", 3, "cs", 1),
-    # California
-    ("Nuevos Angeles", "Sacramento", 3, "ca", 1),
+    # California — gray bridge tracks on the frontier piece
     ("Sacramento", "San Francisco", 2, "ca", 1),
     ("Sacramento", "Cemetery City", 2, "ca", 1),
-    ("Sacramento", "Portland", 3, "ca", 1),
-    ("San Francisco", "Pacific Haven", 2, "ca", 1),
+    ("Sacramento", "Portland", 2, "ca", 1),
+    ("San Francisco", "Pacific Haven", 3, "ca", 1),
     ("Pacific Haven", "Nuevos Angeles", 2, "ca", 1),
     ("Nuevos Angeles", "Baja", 2, "ca", 1),
     ("Nuevos Angeles", "Cemetery City", 2, "ca", 1),
-    ("Cemetery City", "Baja", 2, "ca", 1),
+    ("Nuevos Angeles", "Phoenix", 4, "ca", 2),
+    ("Baja", "Hermosillo", 3, "ca", 2),
     # Sierra Madre
     ("Chihuahua", "El Paso", 2, "sm", 1),
     ("Chihuahua", "Hermosillo", 2, "sm", 1),
@@ -231,7 +234,7 @@ ROUTES = [
     ("El Paso", "San Antonio", 3, "sm", 1),
     ("El Paso", "Santa Fe", 3, "sm", 1),
     ("Hermosillo", "Phoenix", 3, "sm", 1),
-    ("Monterrey", "San Antonio", 3, "sm", 1),
+    ("Monterrey", "San Antonio", 2, "sm", 1),
 ]
 
 TICKETS = [
@@ -441,6 +444,7 @@ def build_payload():
                 "Вагоны за маршруты очков не дают — только за билеты, цвет компании, события и остаток вагонов.",
                 "В партиях на 2–3 игроков из двойного маршрута доступен только один путь.",
                 "Регионы открывает победитель (иногда проигравший) — состав карты не фиксирован годом.",
+                "Длины EC/FL/GP/OR/BL/CA/SM сняты с поля кампании. Cascadia и внутренность Haunted Wastes — по более ранней реконструкции.",
             ],
         },
     }

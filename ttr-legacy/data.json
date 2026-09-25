@@ -469,7 +469,7 @@
       "id": "Montreal|Quebec",
       "a": "Quebec",
       "b": "Montreal",
-      "length": 1,
+      "length": 2,
       "region": "ec",
       "tracks": 1
     },
@@ -543,7 +543,7 @@
       "b": "Boston",
       "length": 2,
       "region": "ec",
-      "tracks": 1
+      "tracks": 2
     },
     {
       "id": "Albany|New York",
@@ -551,7 +551,7 @@
       "b": "New York",
       "length": 2,
       "region": "ec",
-      "tracks": 1
+      "tracks": 2
     },
     {
       "id": "Boston|New York",
@@ -565,7 +565,7 @@
       "id": "New York|Philadelphia",
       "a": "New York",
       "b": "Philadelphia",
-      "length": 1,
+      "length": 2,
       "region": "ec",
       "tracks": 2
     },
@@ -575,13 +575,13 @@
       "b": "Baltimore",
       "length": 2,
       "region": "ec",
-      "tracks": 1
+      "tracks": 2
     },
     {
       "id": "Norfolk|Philadelphia",
       "a": "Philadelphia",
       "b": "Norfolk",
-      "length": 2,
+      "length": 3,
       "region": "ec",
       "tracks": 1
     },
@@ -597,7 +597,7 @@
       "id": "Baltimore|Pittsburgh",
       "a": "Baltimore",
       "b": "Pittsburgh",
-      "length": 3,
+      "length": 2,
       "region": "ec",
       "tracks": 1
     },
@@ -621,9 +621,17 @@
       "id": "Charlotte|Norfolk",
       "a": "Norfolk",
       "b": "Charlotte",
-      "length": 2,
+      "length": 3,
       "region": "ec",
       "tracks": 1
+    },
+    {
+      "id": "Charleston|Norfolk",
+      "a": "Norfolk",
+      "b": "Charleston",
+      "length": 3,
+      "region": "ec",
+      "tracks": 2
     },
     {
       "id": "Chicago|Detroit",
@@ -631,7 +639,7 @@
       "b": "Chicago",
       "length": 2,
       "region": "ec",
-      "tracks": 1
+      "tracks": 2
     },
     {
       "id": "Detroit|Pittsburgh",
@@ -693,7 +701,7 @@
       "id": "Knoxville|Lewisburg",
       "a": "Lewisburg",
       "b": "Knoxville",
-      "length": 3,
+      "length": 2,
       "region": "ec",
       "tracks": 1
     },
@@ -701,7 +709,7 @@
       "id": "Charlotte|Lewisburg",
       "a": "Lewisburg",
       "b": "Charlotte",
-      "length": 3,
+      "length": 2,
       "region": "ec",
       "tracks": 1
     },
@@ -738,12 +746,12 @@
       "tracks": 1
     },
     {
-      "id": "Mobile|Nashville",
+      "id": "Nashville|New Orleans",
       "a": "Nashville",
-      "b": "Mobile",
-      "length": 3,
+      "b": "New Orleans",
+      "length": 4,
       "region": "ec",
-      "tracks": 1
+      "tracks": 2
     },
     {
       "id": "Atlanta|Charlotte",
@@ -773,7 +781,7 @@
       "id": "Atlanta|Savannah",
       "a": "Atlanta",
       "b": "Savannah",
-      "length": 2,
+      "length": 3,
       "region": "ec",
       "tracks": 1
     },
@@ -799,15 +807,15 @@
       "b": "New Orleans",
       "length": 2,
       "region": "ec",
-      "tracks": 1
+      "tracks": 2
     },
     {
       "id": "Mobile|Savannah",
       "a": "Mobile",
       "b": "Savannah",
-      "length": 3,
+      "length": 2,
       "region": "ec",
-      "tracks": 1
+      "tracks": 2
     },
     {
       "id": "Jacksonville|Savannah",
@@ -965,7 +973,7 @@
       "id": "Omaha|St. Paul",
       "a": "Omaha",
       "b": "St. Paul",
-      "length": 3,
+      "length": 2,
       "region": "gp",
       "tracks": 1
     },
@@ -1045,7 +1053,7 @@
       "id": "Dallas|Oklahoma City",
       "a": "Dallas",
       "b": "Oklahoma City",
-      "length": 2,
+      "length": 3,
       "region": "or",
       "tracks": 1
     },
@@ -1117,7 +1125,7 @@
       "id": "Little Rock|St. Louis",
       "a": "Little Rock",
       "b": "St. Louis",
-      "length": 3,
+      "length": 2,
       "region": "or",
       "tracks": 1
     },
@@ -1135,7 +1143,7 @@
       "b": "Miles City",
       "length": 3,
       "region": "bl",
-      "tracks": 1
+      "tracks": 2
     },
     {
       "id": "Fargo|St. Paul",
@@ -1402,14 +1410,6 @@
       "tracks": 1
     },
     {
-      "id": "Nuevos Angeles|Sacramento",
-      "a": "Nuevos Angeles",
-      "b": "Sacramento",
-      "length": 3,
-      "region": "ca",
-      "tracks": 1
-    },
-    {
       "id": "Sacramento|San Francisco",
       "a": "Sacramento",
       "b": "San Francisco",
@@ -1429,7 +1429,7 @@
       "id": "Portland|Sacramento",
       "a": "Sacramento",
       "b": "Portland",
-      "length": 3,
+      "length": 2,
       "region": "ca",
       "tracks": 1
     },
@@ -1437,7 +1437,7 @@
       "id": "Pacific Haven|San Francisco",
       "a": "San Francisco",
       "b": "Pacific Haven",
-      "length": 2,
+      "length": 3,
       "region": "ca",
       "tracks": 1
     },
@@ -1466,12 +1466,20 @@
       "tracks": 1
     },
     {
-      "id": "Baja|Cemetery City",
-      "a": "Cemetery City",
-      "b": "Baja",
-      "length": 2,
+      "id": "Nuevos Angeles|Phoenix",
+      "a": "Nuevos Angeles",
+      "b": "Phoenix",
+      "length": 4,
       "region": "ca",
-      "tracks": 1
+      "tracks": 2
+    },
+    {
+      "id": "Baja|Hermosillo",
+      "a": "Baja",
+      "b": "Hermosillo",
+      "length": 3,
+      "region": "ca",
+      "tracks": 2
     },
     {
       "id": "Chihuahua|El Paso",
@@ -1549,7 +1557,7 @@
       "id": "Monterrey|San Antonio",
       "a": "Monterrey",
       "b": "San Antonio",
-      "length": 3,
+      "length": 2,
       "region": "sm",
       "tracks": 1
     }

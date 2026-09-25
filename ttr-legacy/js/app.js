@@ -75,7 +75,7 @@ function render() {
     warn.textContent =
       `${r.unreachableTickets} билетов выбранных регионов недостижимы: нет стыка с Восточным побережьем. ` +
       `Badlands и Haunted Wastes стыкуются через Great Plains; Cascadia — через Badlands или Haunted Wastes; ` +
-      `California — через Cascadia (Sacramento—Portland); Sierra Madre — через Open Range.`;
+      `California — через Cascadia (Sacramento—Portland), Haunted Wastes (Nuevos Angeles—Phoenix) или Sierra Madre (Baja—Hermosillo); Sierra Madre — через Open Range.`;
   } else {
     warn.hidden = true;
     warn.textContent = "";
