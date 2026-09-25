@@ -646,7 +646,7 @@
       ],
       "postsCount": 27,
       "hasDetail": true,
-      "generatedAt": "2026-09-25T08:02:26.594Z",
+      "generatedAt": "2026-09-25T12:00:26.093Z",
       "trendingTopic": "Hosts Chinese President Xi Jinping for White House meetings, ceremonies, and military reviews",
       "trendingName": "Xi Jinping",
       "secondaryHighlights": [
@@ -665,27 +665,39 @@
     {
       "date": "2026-09-25",
       "counts": {
-        "positive": 0,
-        "neutral": 0,
+        "positive": 1,
+        "neutral": 2,
         "negative": 0
       },
-      "summary": "positive:0 neutral:0 negative:0",
-      "topics": [],
-      "postsCount": 0,
+      "summary": "positive:1 neutral:2 negative:0",
+      "topics": [
+        "Census Bureau reports on income, poverty, and health insurance coverage",
+        "Trump mourns James Copenhaver and honors his family"
+      ],
+      "postsCount": 3,
       "hasDetail": true,
-      "generatedAt": "2026-09-25T08:02:28.958Z",
+      "generatedAt": "2026-09-25T12:00:46.752Z",
+      "trendingTopic": "Census Bureau releases annual report on income, poverty, and health insurance coverage",
+      "secondaryHighlights": [
+        {
+          "topic": "Trump mourns James Copenhaver and honors his family"
+        }
+      ],
       "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-25T08:02:28.958Z",
-  "trendingTopic": "Defends the Iran war while portraying Iran as collapsing under military and economic pressure",
+  "generatedAt": "2026-09-25T12:00:46.752Z",
+  "trendingTopic": "Trump portrays Iran as collapsing while defending military operations and discussing oil, weapons, and negotiations",
   "secondaryHighlights": [
     {
-      "topic": "Battles CNN, MSNBC, MS NOW, and Politico over coverage and White House access"
+      "topic": "Trump touts higher household incomes, lower poverty, and improving prices"
     },
     {
-      "topic": "Touts jobs, household incomes, lower poverty, and economic gains while demanding lower interest rates"
+      "topic": "Trump battles CNN, Politico, and MS NOW over White House press access"
+    },
+    {
+      "topic": "Trump promotes artificial intelligence leadership while dismissing catastrophic-risk warnings"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:24:777cb2a945732a449159ad85"
+  "topicsCacheKey": "month-themes-v5:25:cecffd1ef0aa685ca0505d7f"
 }
