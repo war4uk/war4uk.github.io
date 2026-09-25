@@ -142,6 +142,17 @@ select {
   margin: 0.35rem 0 0;
 }
 
+.warn {
+  font-size: 0.88rem;
+  color: #7a2e18;
+  background: #f6e1cf;
+  border: 1px solid #e0b08a;
+  border-radius: 8px;
+  padding: 0.5rem 0.65rem;
+  line-height: 1.4;
+  margin: 0.45rem 0 0.2rem;
+}
+
 .year-note {
   font-size: 0.88rem;
   color: var(--navy);
