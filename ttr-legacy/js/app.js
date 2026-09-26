@@ -18,6 +18,8 @@ function syncYearDefaults() {
   const y = yearMeta();
   $("#trains").value = y.trains;
   $("#trainsOut").textContent = y.trains;
+  $("#ticketCount").value = y.deal;
+  $("#ticketCountOut").textContent = y.deal;
   $("#yearNote").textContent = y.note;
   readRegions();
 }
@@ -29,10 +31,8 @@ function readRegions() {
 }
 
 function keepBounds() {
-  const y = yearMeta();
-  const mode = document.querySelector("input[name=mode]:checked").value;
-  if (mode === "opening") return { minKeep: y.keepMin, maxKeep: y.deal };
-  return { minKeep: 1, maxKeep: state.data.tickets.length };
+  const n = Math.max(1, Number($("#ticketCount").value) || 1);
+  return { minKeep: 1, maxKeep: n };
 }
 
 function solve() {
@@ -61,13 +61,13 @@ function render() {
   $("#statTrains").textContent = `${r.cost} / ${trains}`;
   $("#statLeft").textContent = `${r.trainsLeft} (бонус $${bonus})`;
   $("#statCount").textContent = String(r.tickets.length);
-  const mode = document.querySelector("input[name=mode]:checked").value;
-  const modeNote =
-    mode === "opening"
-      ? `стартовая рука: лучшие ${yearMeta().deal} из всей колоды, не случайная раздача`
-      : "с добором: все билеты колоды, пока хватает вагонов";
+  const wanted = Number($("#ticketCount").value);
+  const countNote =
+    r.tickets.length === wanted
+      ? `набор из ${wanted} билетов`
+      : `набор из ${r.tickets.length} билетов (запрошено ${wanted}, в вагоны больше не влезает)`;
   $("#availMeta").textContent =
-    `${r.availableTickets} достижимых билетов · ${r.cityCount} городов · ${r.routeCount} путей · ${r.elapsed} мс · ${modeNote}`;
+    `${r.availableTickets} достижимых билетов · ${r.cityCount} городов · ${r.routeCount} путей · ${r.elapsed} мс · ${countNote}`;
 
   const warn = $("#regionWarn");
   if (r.unreachableTickets) {
@@ -142,8 +142,11 @@ async function main() {
     $("#trainsOut").textContent = $("#trains").value;
   });
   $("#trains").addEventListener("change", solve);
+  $("#ticketCount").addEventListener("input", () => {
+    $("#ticketCountOut").textContent = $("#ticketCount").value;
+  });
+  $("#ticketCount").addEventListener("change", solve);
   $("#regions").addEventListener("change", solve);
-  document.querySelectorAll("input[name=mode]").forEach((el) => el.addEventListener("change", solve));
   syncYearDefaults();
   solve();
 }
