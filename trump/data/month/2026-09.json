@@ -677,7 +677,7 @@
       ],
       "postsCount": 8,
       "hasDetail": true,
-      "generatedAt": "2026-09-26T00:02:21.028Z",
+      "generatedAt": "2026-09-26T04:03:18.892Z",
       "trendingTopic": "Trump and Xi discuss U.S.-China ties and schedule future meetings",
       "trendingName": "Xi Jinping",
       "secondaryHighlights": [
@@ -698,30 +698,46 @@
     {
       "date": "2026-09-26",
       "counts": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 0
+        "positive": 10,
+        "neutral": 13,
+        "negative": 1
       },
-      "summary": "positive:0 neutral:0 negative:0",
-      "topics": [],
-      "postsCount": 0,
+      "summary": "positive:10 neutral:13 negative:1",
+      "topics": [
+        "Trump and Melania host an incredible White House state dinner",
+        "Trump and Xi Jinping appear together in pro-American political imagery",
+        "Infographic compares days of crude oil above $100 under Obama, Trump, and Biden"
+      ],
+      "postsCount": 24,
       "hasDetail": true,
-      "generatedAt": "2026-09-26T00:02:02.738Z",
-      "selfPraiseCount": 0
+      "generatedAt": "2026-09-26T04:04:12.174Z",
+      "trendingTopic": "Donald and Melania Trump host an incredible White House state dinner",
+      "secondaryHighlights": [
+        {
+          "topic": "Trump and Xi Jinping appear together in pro-American political imagery"
+        },
+        {
+          "topic": "Graphic promotes labeling the waterway near Iran as the Trump Strait"
+        },
+        {
+          "topic": "Trump says sending killers, drug dealers, and thugs away is driving crime to record lows"
+        }
+      ],
+      "selfPraiseCount": 7
     }
   ],
-  "generatedAt": "2026-09-26T00:02:21.028Z",
-  "trendingTopic": "Trump escalates Iran conflict rhetoric as attacks and economic pressure mount",
+  "generatedAt": "2026-09-26T04:04:12.174Z",
+  "trendingTopic": "Trump touts victory in the Iran conflict, Iran’s economic collapse, and control of the Strait of Hormuz",
   "secondaryHighlights": [
     {
-      "topic": "Trump promotes Republican candidates and rallies voters for the midterm elections"
+      "topic": "Trump promotes grand White House renovations, military complexes, and renamed monuments"
     },
     {
-      "topic": "Trump promotes artificial intelligence expansion and U.S. data-center leadership"
+      "topic": "Trump claims record incomes, lower poverty, and stronger household finances"
     },
     {
-      "topic": "Trump advances White House renovations, military facilities, and patriotic monument projects"
+      "topic": "Trump endorses candidates across congressional, Senate, gubernatorial, and primary races"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:25:f4c00762fdfb914eb3ea451e"
+  "topicsCacheKey": "month-themes-v5:26:a28048fe710b8ec8643838b3"
 }
