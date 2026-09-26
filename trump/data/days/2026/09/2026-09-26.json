@@ -6,7 +6,7 @@
     "negative": 1
   },
   "summary": "positive:10 neutral:13 negative:1",
-  "generatedAt": "2026-09-26T04:04:12.174Z",
+  "generatedAt": "2026-09-26T08:02:25.776Z",
   "topics": [
     "Trump and Melania host an incredible White House state dinner",
     "Trump and Xi Jinping appear together in pro-American political imagery",
@@ -25,6 +25,17 @@
     }
   ],
   "selfPraiseCount": 7,
+  "topicsCacheKey": "day-themes-v11:24:7ef7dd9bc8d04e563ac6bbec",
+  "selfPraiseCacheKey": "self-praise-v2:24:7ef7dd9bc8d04e563ac6bbec",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41897",
+    "https://www.trumpstruth.org/statuses/41905",
+    "https://www.trumpstruth.org/statuses/41904",
+    "https://www.trumpstruth.org/statuses/41903",
+    "https://www.trumpstruth.org/statuses/41901",
+    "https://www.trumpstruth.org/statuses/41909",
+    "https://www.trumpstruth.org/statuses/41908"
+  ],
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41891",
@@ -628,16 +639,5 @@
       "rationale": "The post contains no text or discernible sentiment.",
       "analyzedAt": "2026-09-26T04:03:51.280Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v11:24:7ef7dd9bc8d04e563ac6bbec",
-  "selfPraiseCacheKey": "self-praise-v2:24:7ef7dd9bc8d04e563ac6bbec",
-  "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/41897",
-    "https://www.trumpstruth.org/statuses/41905",
-    "https://www.trumpstruth.org/statuses/41904",
-    "https://www.trumpstruth.org/statuses/41903",
-    "https://www.trumpstruth.org/statuses/41901",
-    "https://www.trumpstruth.org/statuses/41909",
-    "https://www.trumpstruth.org/statuses/41908"
   ]
 }
