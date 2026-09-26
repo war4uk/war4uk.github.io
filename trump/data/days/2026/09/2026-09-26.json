@@ -1,32 +1,29 @@
 {
   "date": "2026-09-26",
   "counts": {
-    "positive": 10,
-    "neutral": 13,
-    "negative": 1
+    "positive": 16,
+    "neutral": 14,
+    "negative": 5
   },
-  "summary": "positive:10 neutral:13 negative:1",
-  "generatedAt": "2026-09-26T08:02:25.776Z",
+  "summary": "positive:16 neutral:14 negative:5",
+  "generatedAt": "2026-09-26T12:03:59.431Z",
   "topics": [
-    "Trump and Melania host an incredible White House state dinner",
-    "Trump and Xi Jinping appear together in pro-American political imagery",
-    "Infographic compares days of crude oil above $100 under Obama, Trump, and Biden"
+    "Trump and Melania host a White House state dinner amid celebratory imagery with Xi Jinping",
+    "Trump administration advances voter citizenship checks and nationwide election-fraud prosecutions",
+    "White House restricts press access while an alternative pool feed challenges the media monopoly"
   ],
-  "trendingTopic": "Donald and Melania Trump host an incredible White House state dinner",
+  "trendingTopic": "Trump and Melania's White House state dinner dominates posts alongside celebratory images with Xi Jinping",
   "secondaryHighlights": [
     {
-      "topic": "Trump and Xi Jinping appear together in pro-American political imagery"
+      "topic": "Trump administration advances voter citizenship checks and nationwide election-fraud prosecutions"
     },
     {
-      "topic": "Graphic promotes labeling the waterway near Iran as the Trump Strait"
-    },
-    {
-      "topic": "Trump says sending killers, drug dealers, and thugs away is driving crime to record lows"
+      "topic": "White House restricts press access while an alternative pool feed challenges the media monopoly"
     }
   ],
-  "selfPraiseCount": 7,
-  "topicsCacheKey": "day-themes-v11:24:7ef7dd9bc8d04e563ac6bbec",
-  "selfPraiseCacheKey": "self-praise-v2:24:7ef7dd9bc8d04e563ac6bbec",
+  "selfPraiseCount": 11,
+  "topicsCacheKey": "day-themes-v11:35:42df95de69df389fd7a713dd",
+  "selfPraiseCacheKey": "self-praise-v2:35:42df95de69df389fd7a713dd",
   "selfPraisePostIds": [
     "https://www.trumpstruth.org/statuses/41897",
     "https://www.trumpstruth.org/statuses/41905",
@@ -34,7 +31,11 @@
     "https://www.trumpstruth.org/statuses/41903",
     "https://www.trumpstruth.org/statuses/41901",
     "https://www.trumpstruth.org/statuses/41909",
-    "https://www.trumpstruth.org/statuses/41908"
+    "https://www.trumpstruth.org/statuses/41908",
+    "https://www.trumpstruth.org/statuses/41916",
+    "https://www.trumpstruth.org/statuses/41920",
+    "https://www.trumpstruth.org/statuses/41924",
+    "https://www.trumpstruth.org/statuses/41923"
   ],
   "posts": [
     {
@@ -492,6 +493,204 @@
         "guid": "https://www.trumpstruth.org/statuses/41913",
         "isoDate": "2026-09-26T03:26:18.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41916",
+      "publishedAt": "2026-09-26T10:27:52.000Z",
+      "title": "A big WIN for Republicans!!!Trump stacks wins: SCOTUS unleashes voter citizenship checks while feds put machines on leash:",
+      "text": "<p>A big WIN for Republicans!!!</p><p>Trump stacks wins: SCOTUS unleashes voter citizenship checks while feds put machines on leash: <a href=\"https://justthenews.com/government/white-house/supreme-court-cisa\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/supreme-court-cisa</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41916",
+      "raw": {
+        "creator": "",
+        "title": "A big WIN for Republicans!!!Trump stacks wins: SCOTUS unleashes voter citizenship checks while feds put machines on leash:",
+        "link": "https://www.trumpstruth.org/statuses/41916",
+        "pubDate": "Sat, 26 Sep 2026 10:27:52 +0000",
+        "author": "",
+        "content": "<p>A big WIN for Republicans!!!</p><p>Trump stacks wins: SCOTUS unleashes voter citizenship checks while feds put machines on leash: <a href=\"https://justthenews.com/government/white-house/supreme-court-cisa\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/supreme-court-cisa</span></a></p>",
+        "contentSnippet": "A big WIN for Republicans!!!\nTrump stacks wins: SCOTUS unleashes voter citizenship checks while feds put machines on leash: https://justthenews.com/government/white-house/supreme-court-cisa",
+        "guid": "https://www.trumpstruth.org/statuses/41916",
+        "isoDate": "2026-09-26T10:27:52.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41915",
+      "publishedAt": "2026-09-26T10:28:17.000Z",
+      "title": "Two-tiered justice: Local DAs shield noncitizens from immigration consequences:",
+      "text": "<p>Two-tiered justice: Local DAs shield noncitizens from immigration consequences: <a href=\"https://justthenews.com/nation/crime/two-tiered-justice-local-das-shield-noncitizens-immigration-consequences\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/nation/crime/t</span><span class=\"invisible\">wo-tiered-justice-local-das-shield-noncitizens-immigration-consequences</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41915",
+      "raw": {
+        "creator": "",
+        "title": "Two-tiered justice: Local DAs shield noncitizens from immigration consequences:",
+        "link": "https://www.trumpstruth.org/statuses/41915",
+        "pubDate": "Sat, 26 Sep 2026 10:28:17 +0000",
+        "author": "",
+        "content": "<p>Two-tiered justice: Local DAs shield noncitizens from immigration consequences: <a href=\"https://justthenews.com/nation/crime/two-tiered-justice-local-das-shield-noncitizens-immigration-consequences\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/nation/crime/t</span><span class=\"invisible\">wo-tiered-justice-local-das-shield-noncitizens-immigration-consequences</span></a></p>",
+        "contentSnippet": "Two-tiered justice: Local DAs shield noncitizens from immigration consequences: https://justthenews.com/nation/crime/two-tiered-justice-local-das-shield-noncitizens-immigration-consequences",
+        "guid": "https://www.trumpstruth.org/statuses/41915",
+        "isoDate": "2026-09-26T10:28:17.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41914",
+      "publishedAt": "2026-09-26T10:28:36.000Z",
+      "title": "Justice Department charges four aliens in Pennsylvania with election fraud:",
+      "text": "<p>Justice Department charges four aliens in Pennsylvania with election fraud: <a href=\"https://justthenews.com/government/federal-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/fed</span><span class=\"invisible\">eral-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41914",
+      "raw": {
+        "creator": "",
+        "title": "Justice Department charges four aliens in Pennsylvania with election fraud:",
+        "link": "https://www.trumpstruth.org/statuses/41914",
+        "pubDate": "Sat, 26 Sep 2026 10:28:36 +0000",
+        "author": "",
+        "content": "<p>Justice Department charges four aliens in Pennsylvania with election fraud: <a href=\"https://justthenews.com/government/federal-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/fed</span><span class=\"invisible\">eral-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud</span></a></p>",
+        "contentSnippet": "Justice Department charges four aliens in Pennsylvania with election fraud: https://justthenews.com/government/federal-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud",
+        "guid": "https://www.trumpstruth.org/statuses/41914",
+        "isoDate": "2026-09-26T10:28:36.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41922",
+      "publishedAt": "2026-09-26T10:30:06.000Z",
+      "title": "Fantastic news for America!SCOTUS reinstates Trump's voter citizenship verification rules:",
+      "text": "<p>Fantastic news for America!</p><p>SCOTUS reinstates Trump's voter citizenship verification rules: <a href=\"https://justthenews.com/government/courts-law/scotus-reinstates-trumps-voter-citizenship-verification-rules\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/cou</span><span class=\"invisible\">rts-law/scotus-reinstates-trumps-voter-citizenship-verification-rules</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41922",
+      "raw": {
+        "creator": "",
+        "title": "Fantastic news for America!SCOTUS reinstates Trump's voter citizenship verification rules:",
+        "link": "https://www.trumpstruth.org/statuses/41922",
+        "pubDate": "Sat, 26 Sep 2026 10:30:06 +0000",
+        "author": "",
+        "content": "<p>Fantastic news for America!</p><p>SCOTUS reinstates Trump's voter citizenship verification rules: <a href=\"https://justthenews.com/government/courts-law/scotus-reinstates-trumps-voter-citizenship-verification-rules\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/cou</span><span class=\"invisible\">rts-law/scotus-reinstates-trumps-voter-citizenship-verification-rules</span></a></p>",
+        "contentSnippet": "Fantastic news for America!\nSCOTUS reinstates Trump's voter citizenship verification rules: https://justthenews.com/government/courts-law/scotus-reinstates-trumps-voter-citizenship-verification-rules",
+        "guid": "https://www.trumpstruth.org/statuses/41922",
+        "isoDate": "2026-09-26T10:30:06.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41921",
+      "publishedAt": "2026-09-26T10:30:35.000Z",
+      "title": "White House press monopoly exposes risks of news blackout, as RAV steps in with new pool feed:",
+      "text": "<p>White House press monopoly exposes risks of news blackout, as RAV steps in with new pool feed: <a href=\"https://justthenews.com/government/white-house/real-first-amendment-issue-press-monopoly-creates-gaps-coverage-limits-news\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/real-first-amendment-issue-press-monopoly-creates-gaps-coverage-limits-news</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41921",
+      "raw": {
+        "creator": "",
+        "title": "White House press monopoly exposes risks of news blackout, as RAV steps in with new pool feed:",
+        "link": "https://www.trumpstruth.org/statuses/41921",
+        "pubDate": "Sat, 26 Sep 2026 10:30:35 +0000",
+        "author": "",
+        "content": "<p>White House press monopoly exposes risks of news blackout, as RAV steps in with new pool feed: <a href=\"https://justthenews.com/government/white-house/real-first-amendment-issue-press-monopoly-creates-gaps-coverage-limits-news\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/real-first-amendment-issue-press-monopoly-creates-gaps-coverage-limits-news</span></a></p>",
+        "contentSnippet": "White House press monopoly exposes risks of news blackout, as RAV steps in with new pool feed: https://justthenews.com/government/white-house/real-first-amendment-issue-press-monopoly-creates-gaps-coverage-limits-news",
+        "guid": "https://www.trumpstruth.org/statuses/41921",
+        "isoDate": "2026-09-26T10:30:35.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41920",
+      "publishedAt": "2026-09-26T10:31:22.000Z",
+      "title": "Trump’s U.N. speech reveals a world realigned by his policy and pressure, with China in the wings:",
+      "text": "<p>Trump’s U.N. speech reveals a world realigned by his policy and pressure, with China in the wings: <a href=\"https://justthenews.com/government/white-house/trump-0\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/trump-0</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41920",
+      "raw": {
+        "creator": "",
+        "title": "Trump’s U.N. speech reveals a world realigned by his policy and pressure, with China in the wings:",
+        "link": "https://www.trumpstruth.org/statuses/41920",
+        "pubDate": "Sat, 26 Sep 2026 10:31:22 +0000",
+        "author": "",
+        "content": "<p>Trump’s U.N. speech reveals a world realigned by his policy and pressure, with China in the wings: <a href=\"https://justthenews.com/government/white-house/trump-0\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/trump-0</span></a></p>",
+        "contentSnippet": "Trump’s U.N. speech reveals a world realigned by his policy and pressure, with China in the wings: https://justthenews.com/government/white-house/trump-0",
+        "guid": "https://www.trumpstruth.org/statuses/41920",
+        "isoDate": "2026-09-26T10:31:22.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41919",
+      "publishedAt": "2026-09-26T10:31:46.000Z",
+      "title": "Agent in Jack Smith case says he was kept in dark that subpoenaed phone data belonged to Congress:",
+      "text": "<p>Agent in Jack Smith case says he was kept in dark that subpoenaed phone data belonged to Congress: <a href=\"https://justthenews.com/accountability/political-ethics/agent-jack-smith-case-says-he-was-kept-dark-subpoenaed-phone-data\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/accountability</span><span class=\"invisible\">/political-ethics/agent-jack-smith-case-says-he-was-kept-dark-subpoenaed-phone-data</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41919",
+      "raw": {
+        "creator": "",
+        "title": "Agent in Jack Smith case says he was kept in dark that subpoenaed phone data belonged to Congress:",
+        "link": "https://www.trumpstruth.org/statuses/41919",
+        "pubDate": "Sat, 26 Sep 2026 10:31:46 +0000",
+        "author": "",
+        "content": "<p>Agent in Jack Smith case says he was kept in dark that subpoenaed phone data belonged to Congress: <a href=\"https://justthenews.com/accountability/political-ethics/agent-jack-smith-case-says-he-was-kept-dark-subpoenaed-phone-data\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/accountability</span><span class=\"invisible\">/political-ethics/agent-jack-smith-case-says-he-was-kept-dark-subpoenaed-phone-data</span></a></p>",
+        "contentSnippet": "Agent in Jack Smith case says he was kept in dark that subpoenaed phone data belonged to Congress: https://justthenews.com/accountability/political-ethics/agent-jack-smith-case-says-he-was-kept-dark-subpoenaed-phone-data",
+        "guid": "https://www.trumpstruth.org/statuses/41919",
+        "isoDate": "2026-09-26T10:31:46.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41918",
+      "publishedAt": "2026-09-26T10:32:04.000Z",
+      "title": "Feds arrest, indict hundreds in Trump voter fraud crackdown: 'Catching it all over the country':",
+      "text": "<p>Feds arrest, indict hundreds in Trump voter fraud crackdown: 'Catching it all over the country': <a href=\"https://justthenews.com/politics-policy/elections/feds-have-arrested-indicted-hundreds-voter-fraud-crackdown-catching-it\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/elections/feds-have-arrested-indicted-hundreds-voter-fraud-crackdown-catching-it</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41918",
+      "raw": {
+        "creator": "",
+        "title": "Feds arrest, indict hundreds in Trump voter fraud crackdown: 'Catching it all over the country':",
+        "link": "https://www.trumpstruth.org/statuses/41918",
+        "pubDate": "Sat, 26 Sep 2026 10:32:04 +0000",
+        "author": "",
+        "content": "<p>Feds arrest, indict hundreds in Trump voter fraud crackdown: 'Catching it all over the country': <a href=\"https://justthenews.com/politics-policy/elections/feds-have-arrested-indicted-hundreds-voter-fraud-crackdown-catching-it\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/elections/feds-have-arrested-indicted-hundreds-voter-fraud-crackdown-catching-it</span></a></p>",
+        "contentSnippet": "Feds arrest, indict hundreds in Trump voter fraud crackdown: 'Catching it all over the country': https://justthenews.com/politics-policy/elections/feds-have-arrested-indicted-hundreds-voter-fraud-crackdown-catching-it",
+        "guid": "https://www.trumpstruth.org/statuses/41918",
+        "isoDate": "2026-09-26T10:32:04.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41917",
+      "publishedAt": "2026-09-26T10:32:40.000Z",
+      "title": "Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion:",
+      "text": "<p>Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion: <a href=\"https://justthenews.com/government/federal-agencies/trumps-epa-gets-action-roots-out-30-billion-waste-fraud-and-abuse\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/fed</span><span class=\"invisible\">eral-agencies/trumps-epa-gets-action-roots-out-30-billion-waste-fraud-and-abuse</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41917",
+      "raw": {
+        "creator": "",
+        "title": "Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion:",
+        "link": "https://www.trumpstruth.org/statuses/41917",
+        "pubDate": "Sat, 26 Sep 2026 10:32:40 +0000",
+        "author": "",
+        "content": "<p>Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion: <a href=\"https://justthenews.com/government/federal-agencies/trumps-epa-gets-action-roots-out-30-billion-waste-fraud-and-abuse\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/fed</span><span class=\"invisible\">eral-agencies/trumps-epa-gets-action-roots-out-30-billion-waste-fraud-and-abuse</span></a></p>",
+        "contentSnippet": "Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion: https://justthenews.com/government/federal-agencies/trumps-epa-gets-action-roots-out-30-billion-waste-fraud-and-abuse",
+        "guid": "https://www.trumpstruth.org/statuses/41917",
+        "isoDate": "2026-09-26T10:32:40.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41924",
+      "publishedAt": "2026-09-26T10:50:57.000Z",
+      "title": "Animal welfare groups praise Trump administration for more moves to reduce animal testing:",
+      "text": "<p>Animal welfare groups praise Trump administration for more moves to reduce animal testing: <a href=\"https://justthenews.com/government/federal-agencies/animal-welfare-groups-praise-trump-administration-more-moves-reduce\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/fed</span><span class=\"invisible\">eral-agencies/animal-welfare-groups-praise-trump-administration-more-moves-reduce</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41924",
+      "raw": {
+        "creator": "",
+        "title": "Animal welfare groups praise Trump administration for more moves to reduce animal testing:",
+        "link": "https://www.trumpstruth.org/statuses/41924",
+        "pubDate": "Sat, 26 Sep 2026 10:50:57 +0000",
+        "author": "",
+        "content": "<p>Animal welfare groups praise Trump administration for more moves to reduce animal testing: <a href=\"https://justthenews.com/government/federal-agencies/animal-welfare-groups-praise-trump-administration-more-moves-reduce\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/fed</span><span class=\"invisible\">eral-agencies/animal-welfare-groups-praise-trump-administration-more-moves-reduce</span></a></p>",
+        "contentSnippet": "Animal welfare groups praise Trump administration for more moves to reduce animal testing: https://justthenews.com/government/federal-agencies/animal-welfare-groups-praise-trump-administration-more-moves-reduce",
+        "guid": "https://www.trumpstruth.org/statuses/41924",
+        "isoDate": "2026-09-26T10:50:57.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41923",
+      "publishedAt": "2026-09-26T10:51:35.000Z",
+      "title": "Why should perpetrators of FAKE NEWS, like CNN and MSDNC, be allowed access to a very sacred place, the White House? Despite my big Election Win, almost 100% of “TRUMP” coverage is negative, and has been for years!Defiant White House slaps down journalists: 'Access is a privilege - not a right':",
+      "text": "<p>Why should perpetrators of FAKE NEWS, like CNN and MSDNC, be allowed access to a very sacred place, the White House? Despite my big Election Win, almost 100% of “TRUMP” coverage is negative, and has been for years!</p><p>Defiant White House slaps down journalists: 'Access is a privilege - not a right': <a href=\"https://justthenews.com/politics-policy/defiant-white-house-slaps-down-journalists-access-privilege-not-right\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/defiant-white-house-slaps-down-journalists-access-privilege-not-right</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/41923",
+      "raw": {
+        "creator": "",
+        "title": "Why should perpetrators of FAKE NEWS, like CNN and MSDNC, be allowed access to a very sacred place, the White House? Despite my big Election Win, almost 100% of “TRUMP” coverage is negative, and has been for years!Defiant White House slaps down journalists: 'Access is a privilege - not a right':",
+        "link": "https://www.trumpstruth.org/statuses/41923",
+        "pubDate": "Sat, 26 Sep 2026 10:51:35 +0000",
+        "author": "",
+        "content": "<p>Why should perpetrators of FAKE NEWS, like CNN and MSDNC, be allowed access to a very sacred place, the White House? Despite my big Election Win, almost 100% of “TRUMP” coverage is negative, and has been for years!</p><p>Defiant White House slaps down journalists: 'Access is a privilege - not a right': <a href=\"https://justthenews.com/politics-policy/defiant-white-house-slaps-down-journalists-access-privilege-not-right\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/defiant-white-house-slaps-down-journalists-access-privilege-not-right</span></a></p>",
+        "contentSnippet": "Why should perpetrators of FAKE NEWS, like CNN and MSDNC, be allowed access to a very sacred place, the White House? Despite my big Election Win, almost 100% of “TRUMP” coverage is negative, and has been for years!\nDefiant White House slaps down journalists: 'Access is a privilege - not a right': https://justthenews.com/politics-policy/defiant-white-house-slaps-down-journalists-access-privilege-not-right",
+        "guid": "https://www.trumpstruth.org/statuses/41923",
+        "isoDate": "2026-09-26T10:51:35.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -638,6 +837,72 @@
       "label": "neutral",
       "rationale": "The post contains no text or discernible sentiment.",
       "analyzedAt": "2026-09-26T04:03:51.280Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41914",
+      "label": "neutral",
+      "rationale": "Reports criminal charges against four individuals in a factual, news-style manner without overt emotional language.",
+      "analyzedAt": "2026-09-26T12:03:31.479Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41915",
+      "label": "negative",
+      "rationale": "Uses the condemnatory phrase 'Two-tiered justice' to criticize local prosecutors for shielding noncitizens.",
+      "analyzedAt": "2026-09-26T12:03:31.479Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41916",
+      "label": "positive",
+      "rationale": "Explicitly celebrates a 'big WIN for Republicans' and portrays Trump's policies as a series of victories.",
+      "analyzedAt": "2026-09-26T12:03:31.479Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41917",
+      "label": "positive",
+      "rationale": "Frames the EPA rollback as beneficial by suggesting it will reduce government overreach and save ratepayers money.",
+      "analyzedAt": "2026-09-26T12:03:31.479Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41918",
+      "label": "positive",
+      "rationale": "Presents arrests and indictments in a voter fraud crackdown as a successful enforcement effort.",
+      "analyzedAt": "2026-09-26T12:03:31.479Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41919",
+      "label": "negative",
+      "rationale": "Highlights a troubling allegation that an agent was kept unaware of the ownership of subpoenaed phone data.",
+      "analyzedAt": "2026-09-26T12:03:31.479Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41920",
+      "label": "positive",
+      "rationale": "Portrays Trump's speech and policies as influential in reshaping global relations.",
+      "analyzedAt": "2026-09-26T12:03:31.479Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41921",
+      "label": "negative",
+      "rationale": "Warns of risks associated with a press monopoly, news blackout, and limited coverage.",
+      "analyzedAt": "2026-09-26T12:03:31.479Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41922",
+      "label": "positive",
+      "rationale": "Explicitly celebrates the Supreme Court's reinstatement of Trump's voter citizenship verification rules.",
+      "analyzedAt": "2026-09-26T12:03:31.479Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41923",
+      "label": "negative",
+      "rationale": "Uses hostile language to attack CNN, MSNBC, and coverage of Trump as fake and overwhelmingly negative.",
+      "analyzedAt": "2026-09-26T12:03:31.479Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41924",
+      "label": "positive",
+      "rationale": "Praises the Trump administration for reducing animal testing.",
+      "analyzedAt": "2026-09-26T12:03:31.479Z"
     }
   ]
 }

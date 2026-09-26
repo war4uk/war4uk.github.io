@@ -677,7 +677,7 @@
       ],
       "postsCount": 8,
       "hasDetail": true,
-      "generatedAt": "2026-09-26T08:02:19.840Z",
+      "generatedAt": "2026-09-26T12:03:15.820Z",
       "trendingTopic": "Trump and Xi discuss U.S.-China ties and schedule future meetings",
       "trendingName": "Xi Jinping",
       "secondaryHighlights": [
@@ -698,46 +698,43 @@
     {
       "date": "2026-09-26",
       "counts": {
-        "positive": 10,
-        "neutral": 13,
-        "negative": 1
+        "positive": 16,
+        "neutral": 14,
+        "negative": 5
       },
-      "summary": "positive:10 neutral:13 negative:1",
+      "summary": "positive:16 neutral:14 negative:5",
       "topics": [
-        "Trump and Melania host an incredible White House state dinner",
-        "Trump and Xi Jinping appear together in pro-American political imagery",
-        "Infographic compares days of crude oil above $100 under Obama, Trump, and Biden"
+        "Trump and Melania host a White House state dinner amid celebratory imagery with Xi Jinping",
+        "Trump administration advances voter citizenship checks and nationwide election-fraud prosecutions",
+        "White House restricts press access while an alternative pool feed challenges the media monopoly"
       ],
-      "postsCount": 24,
+      "postsCount": 35,
       "hasDetail": true,
-      "generatedAt": "2026-09-26T08:02:25.776Z",
-      "trendingTopic": "Donald and Melania Trump host an incredible White House state dinner",
+      "generatedAt": "2026-09-26T12:03:59.431Z",
+      "trendingTopic": "Trump and Melania's White House state dinner dominates posts alongside celebratory images with Xi Jinping",
       "secondaryHighlights": [
         {
-          "topic": "Trump and Xi Jinping appear together in pro-American political imagery"
+          "topic": "Trump administration advances voter citizenship checks and nationwide election-fraud prosecutions"
         },
         {
-          "topic": "Graphic promotes labeling the waterway near Iran as the Trump Strait"
-        },
-        {
-          "topic": "Trump says sending killers, drug dealers, and thugs away is driving crime to record lows"
+          "topic": "White House restricts press access while an alternative pool feed challenges the media monopoly"
         }
       ],
-      "selfPraiseCount": 7
+      "selfPraiseCount": 11
     }
   ],
-  "generatedAt": "2026-09-26T08:02:25.776Z",
-  "trendingTopic": "Trump touts victory in the Iran conflict, Iran’s economic collapse, and control of the Strait of Hormuz",
+  "generatedAt": "2026-09-26T12:03:59.431Z",
+  "trendingTopic": "Promotes grand White House and Washington construction, renovation, and military projects",
   "secondaryHighlights": [
     {
-      "topic": "Trump promotes grand White House renovations, military complexes, and renamed monuments"
+      "topic": "Frames Iran as collapsing through war, oil pressure, and possible negotiations"
     },
     {
-      "topic": "Trump claims record incomes, lower poverty, and stronger household finances"
+      "topic": "Battles CNN, Politico, MS NOW, and White House press access"
     },
     {
-      "topic": "Trump endorses candidates across congressional, Senate, gubernatorial, and primary races"
+      "topic": "Endorses candidates across multiple state and congressional races"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:26:a28048fe710b8ec8643838b3"
+  "topicsCacheKey": "month-themes-v5:26:24769288e75d300fa8f1122c"
 }
