@@ -35,6 +35,17 @@ function keepBounds() {
   return { minKeep: 1, maxKeep: n };
 }
 
+function ticketsWord(n, form) {
+  const n10 = n % 10;
+  const n100 = n % 100;
+  if (form === "genitive") {
+    return n10 === 1 && n100 !== 11 ? "билета" : "билетов";
+  }
+  if (n10 === 1 && n100 !== 11) return "билет";
+  if (n10 >= 2 && n10 <= 4 && (n100 < 12 || n100 > 14)) return "билета";
+  return "билетов";
+}
+
 function solve() {
   readRegions();
   const trains = Number($("#trains").value);
@@ -62,10 +73,11 @@ function render() {
   $("#statLeft").textContent = `${r.trainsLeft} (бонус $${bonus})`;
   $("#statCount").textContent = String(r.tickets.length);
   const wanted = Number($("#ticketCount").value);
+  const got = r.tickets.length;
   const countNote =
-    r.tickets.length === wanted
-      ? `набор из ${wanted} билетов`
-      : `набор из ${r.tickets.length} билетов (запрошено ${wanted}, в вагоны больше не влезает)`;
+    got === wanted
+      ? `набор из ${got} ${ticketsWord(got, "genitive")}`
+      : `набор из ${got} ${ticketsWord(got, "genitive")} (запрошено ${wanted}, в вагоны больше не влезает)`;
   $("#availMeta").textContent =
     `${r.availableTickets} достижимых билетов · ${r.cityCount} городов · ${r.routeCount} путей · ${r.elapsed} мс · ${countNote}`;
 
@@ -87,7 +99,7 @@ function render() {
       ? "из двойных путей доступен только один"
       : "оба пути двойного маршрута в игре";
   $("#playerNote").textContent =
-    `${players} игрока: в раздаче ${y.deal} билета, оставить не меньше ${y.keepMin}. Газет в колоде поездов: ${papers}. ${doubles}.`;
+    `${players} игрока: в раздаче ${y.deal} ${ticketsWord(y.deal)}, оставить не меньше ${y.keepMin}. Газет в колоде поездов: ${papers}. ${doubles}.`;
 
   $("#tickets").innerHTML = r.tickets.length
     ? r.tickets
