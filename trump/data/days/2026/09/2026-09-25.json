@@ -2,29 +2,34 @@
   "date": "2026-09-25",
   "counts": {
     "positive": 5,
-    "neutral": 2,
+    "neutral": 3,
     "negative": 0
   },
-  "summary": "positive:5 neutral:2 negative:0",
-  "generatedAt": "2026-09-25T20:04:12.651Z",
+  "summary": "positive:5 neutral:3 negative:0",
+  "generatedAt": "2026-09-26T00:02:21.028Z",
   "topics": [
-    "Trump describes Xi meeting as productive and schedules follow-up U.S.-China talks in November and December",
-    "Census Bureau releases 2025 income, poverty, and health insurance coverage statistics",
-    "Trump denies Scott Bessent will become artificial intelligence czar and says he will remain Treasury secretary"
+    "Census Bureau reports on U.S. income, poverty, and health insurance coverage",
+    "Trump and Xi discuss U.S.-China ties and schedule future meetings",
+    "Trump mourns American patriot James Copenhaver"
   ],
-  "trendingTopic": "Trump describes Xi meeting as productive and schedules follow-up U.S.-China talks in November and December",
+  "trendingTopic": "Trump and Xi discuss U.S.-China ties and schedule future meetings",
+  "trendingName": "Xi Jinping",
   "secondaryHighlights": [
     {
-      "topic": "Census Bureau releases 2025 income, poverty, and health insurance coverage statistics"
+      "topic": "Trump denies Scott Bessent will become artificial intelligence czar",
+      "name": "Scott Bessent"
     },
     {
-      "topic": "Trump denies Scott Bessent will become artificial intelligence czar and says he will remain Treasury secretary",
-      "name": "Scott Bessent"
+      "topic": "Trump congratulates Jerry Kassar on reelection as New York Conservative Party chairman",
+      "name": "Jerry Kassar"
+    },
+    {
+      "topic": "Census Bureau reports on U.S. income, poverty, and health insurance coverage"
     }
   ],
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v11:7:225ebec4ee58d3ca325b45df",
-  "selfPraiseCacheKey": "self-praise-v2:7:225ebec4ee58d3ca325b45df",
+  "topicsCacheKey": "day-themes-v11:8:2d686d6b98985909f103af10",
+  "selfPraiseCacheKey": "self-praise-v2:8:2d686d6b98985909f103af10",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41884",
@@ -151,6 +156,24 @@
         "guid": "https://www.trumpstruth.org/statuses/41888",
         "isoDate": "2026-09-25T18:11:59.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41889",
+      "publishedAt": "2026-09-25T22:43:01.000Z",
+      "title": "[No Title] - Post from September 25, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41889",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 25, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41889",
+        "pubDate": "Fri, 25 Sep 2026 22:43:01 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41889",
+        "isoDate": "2026-09-25T22:43:01.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -195,7 +218,12 @@
       "label": "positive",
       "rationale": "Celebrates Jerry Kassar's unanimous reelection, praises his dedication and abilities, and expresses optimism about future victories.",
       "analyzedAt": "2026-09-25T20:03:56.338Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41889",
+      "label": "neutral",
+      "rationale": "The text contains no substantive content or sentiment.",
+      "analyzedAt": "2026-09-26T00:02:00.304Z"
     }
-  ],
-  "trendingName": "Xi Jinping"
+  ]
 }

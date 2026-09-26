@@ -666,41 +666,62 @@
       "date": "2026-09-25",
       "counts": {
         "positive": 5,
-        "neutral": 2,
+        "neutral": 3,
         "negative": 0
       },
-      "summary": "positive:5 neutral:2 negative:0",
+      "summary": "positive:5 neutral:3 negative:0",
       "topics": [
-        "Trump describes Xi meeting as productive and schedules follow-up U.S.-China talks in November and December",
-        "Census Bureau releases 2025 income, poverty, and health insurance coverage statistics",
-        "Trump denies Scott Bessent will become artificial intelligence czar and says he will remain Treasury secretary"
+        "Census Bureau reports on U.S. income, poverty, and health insurance coverage",
+        "Trump and Xi discuss U.S.-China ties and schedule future meetings",
+        "Trump mourns American patriot James Copenhaver"
       ],
-      "postsCount": 7,
+      "postsCount": 8,
       "hasDetail": true,
-      "generatedAt": "2026-09-25T20:04:12.651Z",
-      "trendingTopic": "Trump describes Xi meeting as productive and schedules follow-up U.S.-China talks in November and December",
+      "generatedAt": "2026-09-26T00:02:21.028Z",
+      "trendingTopic": "Trump and Xi discuss U.S.-China ties and schedule future meetings",
       "trendingName": "Xi Jinping",
       "secondaryHighlights": [
         {
-          "topic": "Census Bureau releases 2025 income, poverty, and health insurance coverage statistics"
+          "topic": "Trump denies Scott Bessent will become artificial intelligence czar",
+          "name": "Scott Bessent"
         },
         {
-          "topic": "Trump denies Scott Bessent will become artificial intelligence czar and says he will remain Treasury secretary",
-          "name": "Scott Bessent"
+          "topic": "Trump congratulates Jerry Kassar on reelection as New York Conservative Party chairman",
+          "name": "Jerry Kassar"
+        },
+        {
+          "topic": "Census Bureau reports on U.S. income, poverty, and health insurance coverage"
         }
       ],
       "selfPraiseCount": 0
-    }
-  ],
-  "generatedAt": "2026-09-25T20:04:12.651Z",
-  "trendingTopic": "Trump defends the Iran war while portraying Iran’s economy and military position as collapsing",
-  "secondaryHighlights": [
-    {
-      "topic": "Trump promotes White House renovations, a ballroom, helipad, and monumental military projects"
     },
     {
-      "topic": "Trump touts strong household finances, low poverty, jobs, and economic gains while seeking lower interest rates"
+      "date": "2026-09-26",
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "positive:0 neutral:0 negative:0",
+      "topics": [],
+      "postsCount": 0,
+      "hasDetail": true,
+      "generatedAt": "2026-09-26T00:02:02.738Z",
+      "selfPraiseCount": 0
     }
   ],
-  "topicsCacheKey": "month-themes-v5:25:c16d44a8a54752f1ceea9ae7"
+  "generatedAt": "2026-09-26T00:02:21.028Z",
+  "trendingTopic": "Trump escalates Iran conflict rhetoric as attacks and economic pressure mount",
+  "secondaryHighlights": [
+    {
+      "topic": "Trump promotes Republican candidates and rallies voters for the midterm elections"
+    },
+    {
+      "topic": "Trump promotes artificial intelligence expansion and U.S. data-center leadership"
+    },
+    {
+      "topic": "Trump advances White House renovations, military facilities, and patriotic monument projects"
+    }
+  ],
+  "topicsCacheKey": "month-themes-v5:25:f4c00762fdfb914eb3ea451e"
 }
