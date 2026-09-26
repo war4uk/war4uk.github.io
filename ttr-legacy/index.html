@@ -43,21 +43,16 @@
         <input id="trains" type="range" min="15" max="56" value="20" />
         <p class="hint">Шкала на обороте коробки компании растёт от 20 в 1865 до 56 к финалу. Значение можно поправить вручную.</p>
 
+        <div class="row-inline">
+          <label for="ticketCount">Билеты</label>
+          <span class="num" id="ticketCountOut">4</span>
+        </div>
+        <input id="ticketCount" type="range" min="1" max="24" value="4" />
+        <p class="hint">Сколько карточек держать в оптимуме. 4 — стартовая рука (в 1901 — 5). Больше — как с добором в партии. Если в вагоны не влезает, набор будет короче.</p>
+
         <span class="lbl">Регионы</span>
         <div class="regions" id="regions"></div>
         <p class="hint">East Coast открыт всегда. Остальные фронтиры выбирает победитель (иногда проигравший) — год сам по себе регионы не фиксирует.</p>
-
-        <span class="lbl">Какие билеты считать</span>
-        <div class="modes">
-          <label class="chk">
-            <input type="radio" name="mode" value="opening" checked />
-            <span>Только стартовая рука: математически лучшие 4 из всей колоды (в 1901: 5). Это не случайная раздача.</span>
-          </label>
-          <label class="chk">
-            <input type="radio" name="mode" value="draws" />
-            <span>С добором в партии: любые билеты из доступной колоды, пока хватает вагонов (без потолка в 16 карт)</span>
-          </label>
-        </div>
       </aside>
 
       <main>

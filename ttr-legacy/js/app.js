@@ -18,6 +18,8 @@ function syncYearDefaults() {
   const y = yearMeta();
   $("#trains").value = y.trains;
   $("#trainsOut").textContent = y.trains;
+  $("#ticketCount").value = y.deal;
+  $("#ticketCountOut").textContent = y.deal;
   $("#yearNote").textContent = y.note;
   readRegions();
 }
@@ -29,10 +31,19 @@ function readRegions() {
 }
 
 function keepBounds() {
-  const y = yearMeta();
-  const mode = document.querySelector("input[name=mode]:checked").value;
-  if (mode === "opening") return { minKeep: y.keepMin, maxKeep: y.deal };
-  return { minKeep: 1, maxKeep: state.data.tickets.length };
+  const n = Math.max(1, Number($("#ticketCount").value) || 1);
+  return { minKeep: 1, maxKeep: n };
+}
+
+function ticketsWord(n, form) {
+  const n10 = n % 10;
+  const n100 = n % 100;
+  if (form === "genitive") {
+    return n10 === 1 && n100 !== 11 ? "билета" : "билетов";
+  }
+  if (n10 === 1 && n100 !== 11) return "билет";
+  if (n10 >= 2 && n10 <= 4 && (n100 < 12 || n100 > 14)) return "билета";
+  return "билетов";
 }
 
 function solve() {
@@ -61,13 +72,14 @@ function render() {
   $("#statTrains").textContent = `${r.cost} / ${trains}`;
   $("#statLeft").textContent = `${r.trainsLeft} (бонус $${bonus})`;
   $("#statCount").textContent = String(r.tickets.length);
-  const mode = document.querySelector("input[name=mode]:checked").value;
-  const modeNote =
-    mode === "opening"
-      ? `стартовая рука: лучшие ${yearMeta().deal} из всей колоды, не случайная раздача`
-      : "с добором: все билеты колоды, пока хватает вагонов";
+  const wanted = Number($("#ticketCount").value);
+  const got = r.tickets.length;
+  const countNote =
+    got === wanted
+      ? `набор из ${got} ${ticketsWord(got, "genitive")}`
+      : `набор из ${got} ${ticketsWord(got, "genitive")} (запрошено ${wanted}, в вагоны больше не влезает)`;
   $("#availMeta").textContent =
-    `${r.availableTickets} достижимых билетов · ${r.cityCount} городов · ${r.routeCount} путей · ${r.elapsed} мс · ${modeNote}`;
+    `${r.availableTickets} достижимых билетов · ${r.cityCount} городов · ${r.routeCount} путей · ${r.elapsed} мс · ${countNote}`;
 
   const warn = $("#regionWarn");
   if (r.unreachableTickets) {
@@ -87,7 +99,7 @@ function render() {
       ? "из двойных путей доступен только один"
       : "оба пути двойного маршрута в игре";
   $("#playerNote").textContent =
-    `${players} игрока: в раздаче ${y.deal} билета, оставить не меньше ${y.keepMin}. Газет в колоде поездов: ${papers}. ${doubles}.`;
+    `${players} игрока: в раздаче ${y.deal} ${ticketsWord(y.deal)}, оставить не меньше ${y.keepMin}. Газет в колоде поездов: ${papers}. ${doubles}.`;
 
   $("#tickets").innerHTML = r.tickets.length
     ? r.tickets
@@ -142,8 +154,11 @@ async function main() {
     $("#trainsOut").textContent = $("#trains").value;
   });
   $("#trains").addEventListener("change", solve);
+  $("#ticketCount").addEventListener("input", () => {
+    $("#ticketCountOut").textContent = $("#ticketCount").value;
+  });
+  $("#ticketCount").addEventListener("change", solve);
   $("#regions").addEventListener("change", solve);
-  document.querySelectorAll("input[name=mode]").forEach((el) => el.addEventListener("change", solve));
   syncYearDefaults();
   solve();
 }
