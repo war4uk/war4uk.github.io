@@ -61,12 +61,6 @@ function scheduleSolve() {
   }, 0);
 }
 
-function readRegions() {
-  state.regionSet = new Set(
-    [...document.querySelectorAll(".region-box:checked")].map((b) => b.value)
-  );
-}
-
 function keepBounds() {
   const n = Math.max(1, Number($("#ticketCount").value) || 1);
   return { minKeep: 1, maxKeep: n };
