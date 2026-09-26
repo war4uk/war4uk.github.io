@@ -2,28 +2,31 @@
   "date": "2026-09-26",
   "counts": {
     "positive": 16,
-    "neutral": 14,
-    "negative": 5
+    "neutral": 31,
+    "negative": 8
   },
-  "summary": "positive:16 neutral:14 negative:5",
-  "generatedAt": "2026-09-26T12:03:59.431Z",
+  "summary": "positive:16 neutral:31 negative:8",
+  "generatedAt": "2026-09-26T16:04:45.633Z",
   "topics": [
-    "Trump and Melania host a White House state dinner amid celebratory imagery with Xi Jinping",
-    "Trump administration advances voter citizenship checks and nationwide election-fraud prosecutions",
-    "White House restricts press access while an alternative pool feed challenges the media monopoly"
+    "Trump administration spotlights voter citizenship checks and nationwide election-fraud prosecutions",
+    "Trump and White House allies attack media access and alleged fake-news coverage",
+    "Trump promotes lower energy costs while challenging climate policies and the climate hoax"
   ],
-  "trendingTopic": "Trump and Melania's White House state dinner dominates posts alongside celebratory images with Xi Jinping",
+  "trendingTopic": "Trump administration spotlights voter citizenship checks and nationwide election-fraud prosecutions",
   "secondaryHighlights": [
     {
-      "topic": "Trump administration advances voter citizenship checks and nationwide election-fraud prosecutions"
+      "topic": "Trump and Melania host and receive praise for a White House state dinner"
     },
     {
-      "topic": "White House restricts press access while an alternative pool feed challenges the media monopoly"
+      "topic": "Images portray Donald Trump and Xi Jinping as partners in a renewed U.S.-China relationship"
+    },
+    {
+      "topic": "Trump warns that Iran cannot obtain a nuclear weapon"
     }
   ],
-  "selfPraiseCount": 11,
-  "topicsCacheKey": "day-themes-v11:35:42df95de69df389fd7a713dd",
-  "selfPraiseCacheKey": "self-praise-v2:35:42df95de69df389fd7a713dd",
+  "selfPraiseCount": 12,
+  "topicsCacheKey": "day-themes-v11:55:ac78bb839d71afbeaa08c0fb",
+  "selfPraiseCacheKey": "self-praise-v2:55:ac78bb839d71afbeaa08c0fb",
   "selfPraisePostIds": [
     "https://www.trumpstruth.org/statuses/41897",
     "https://www.trumpstruth.org/statuses/41905",
@@ -35,7 +38,8 @@
     "https://www.trumpstruth.org/statuses/41916",
     "https://www.trumpstruth.org/statuses/41920",
     "https://www.trumpstruth.org/statuses/41924",
-    "https://www.trumpstruth.org/statuses/41923"
+    "https://www.trumpstruth.org/statuses/41923",
+    "https://www.trumpstruth.org/statuses/41925"
   ],
   "posts": [
     {
@@ -691,6 +695,366 @@
         "guid": "https://www.trumpstruth.org/statuses/41923",
         "isoDate": "2026-09-26T10:51:35.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41925",
+      "publishedAt": "2026-09-26T12:15:35.000Z",
+      "title": "A MUST SEE ON THE CLIMATE HOAX. President DJT",
+      "text": "<p>A MUST SEE ON THE CLIMATE HOAX. President DJT</p>",
+      "url": "https://www.trumpstruth.org/statuses/41925",
+      "raw": {
+        "creator": "",
+        "title": "A MUST SEE ON THE CLIMATE HOAX. President DJT",
+        "link": "https://www.trumpstruth.org/statuses/41925",
+        "pubDate": "Sat, 26 Sep 2026 12:15:35 +0000",
+        "author": "",
+        "content": "<p>A MUST SEE ON THE CLIMATE HOAX. President DJT</p>",
+        "contentSnippet": "A MUST SEE ON THE CLIMATE HOAX. President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/41925",
+        "isoDate": "2026-09-26T12:15:35.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41927",
+      "publishedAt": "2026-09-26T12:18:04.000Z",
+      "title": "IRAN CAN NOT HAVE A NUCLEAR WEAPON!!! President DJT",
+      "text": "<p>IRAN CAN NOT HAVE A NUCLEAR WEAPON!!! President DJT</p>",
+      "url": "https://www.trumpstruth.org/statuses/41927",
+      "raw": {
+        "creator": "",
+        "title": "IRAN CAN NOT HAVE A NUCLEAR WEAPON!!! President DJT",
+        "link": "https://www.trumpstruth.org/statuses/41927",
+        "pubDate": "Sat, 26 Sep 2026 12:18:04 +0000",
+        "author": "",
+        "content": "<p>IRAN CAN NOT HAVE A NUCLEAR WEAPON!!! President DJT</p>",
+        "contentSnippet": "IRAN CAN NOT HAVE A NUCLEAR WEAPON!!! President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/41927",
+        "isoDate": "2026-09-26T12:18:04.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41926",
+      "publishedAt": "2026-09-26T12:22:53.000Z",
+      "title": "FAKE NEWS SHOULD NOT BE ALLOWED IN THE WHITE HOUSE!!! IT HAS GONE ON FAR TOO LONG, AT A TREMENDOUS COST TO OUR COUNTRY. President DJT",
+      "text": "<p>FAKE NEWS SHOULD NOT BE ALLOWED IN THE WHITE HOUSE!!! IT HAS GONE ON FAR TOO LONG, AT A TREMENDOUS COST TO OUR COUNTRY. President DJT</p>",
+      "url": "https://www.trumpstruth.org/statuses/41926",
+      "raw": {
+        "creator": "",
+        "title": "FAKE NEWS SHOULD NOT BE ALLOWED IN THE WHITE HOUSE!!! IT HAS GONE ON FAR TOO LONG, AT A TREMENDOUS COST TO OUR COUNTRY. President DJT",
+        "link": "https://www.trumpstruth.org/statuses/41926",
+        "pubDate": "Sat, 26 Sep 2026 12:22:53 +0000",
+        "author": "",
+        "content": "<p>FAKE NEWS SHOULD NOT BE ALLOWED IN THE WHITE HOUSE!!! IT HAS GONE ON FAR TOO LONG, AT A TREMENDOUS COST TO OUR COUNTRY. President DJT</p>",
+        "contentSnippet": "FAKE NEWS SHOULD NOT BE ALLOWED IN THE WHITE HOUSE!!! IT HAS GONE ON FAR TOO LONG, AT A TREMENDOUS COST TO OUR COUNTRY. President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/41926",
+        "isoDate": "2026-09-26T12:22:53.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41928",
+      "publishedAt": "2026-09-26T13:13:15.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41928",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41928",
+        "pubDate": "Sat, 26 Sep 2026 13:13:15 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41928",
+        "isoDate": "2026-09-26T13:13:15.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41932",
+      "publishedAt": "2026-09-26T13:18:16.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41932",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41932",
+        "pubDate": "Sat, 26 Sep 2026 13:18:16 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41932",
+        "isoDate": "2026-09-26T13:18:16.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41931",
+      "publishedAt": "2026-09-26T13:18:47.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41931",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41931",
+        "pubDate": "Sat, 26 Sep 2026 13:18:47 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41931",
+        "isoDate": "2026-09-26T13:18:47.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41930",
+      "publishedAt": "2026-09-26T13:19:03.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41930",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41930",
+        "pubDate": "Sat, 26 Sep 2026 13:19:03 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41930",
+        "isoDate": "2026-09-26T13:19:03.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41929",
+      "publishedAt": "2026-09-26T13:19:14.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41929",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41929",
+        "pubDate": "Sat, 26 Sep 2026 13:19:14 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41929",
+        "isoDate": "2026-09-26T13:19:14.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41940",
+      "publishedAt": "2026-09-26T13:19:50.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41940",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41940",
+        "pubDate": "Sat, 26 Sep 2026 13:19:50 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41940",
+        "isoDate": "2026-09-26T13:19:50.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41939",
+      "publishedAt": "2026-09-26T13:20:37.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41939",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41939",
+        "pubDate": "Sat, 26 Sep 2026 13:20:37 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41939",
+        "isoDate": "2026-09-26T13:20:37.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41938",
+      "publishedAt": "2026-09-26T13:20:53.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41938",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41938",
+        "pubDate": "Sat, 26 Sep 2026 13:20:53 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41938",
+        "isoDate": "2026-09-26T13:20:53.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41937",
+      "publishedAt": "2026-09-26T13:22:46.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41937",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41937",
+        "pubDate": "Sat, 26 Sep 2026 13:22:46 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41937",
+        "isoDate": "2026-09-26T13:22:46.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41936",
+      "publishedAt": "2026-09-26T13:23:09.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41936",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41936",
+        "pubDate": "Sat, 26 Sep 2026 13:23:09 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41936",
+        "isoDate": "2026-09-26T13:23:09.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41935",
+      "publishedAt": "2026-09-26T13:23:19.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41935",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41935",
+        "pubDate": "Sat, 26 Sep 2026 13:23:19 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41935",
+        "isoDate": "2026-09-26T13:23:19.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41934",
+      "publishedAt": "2026-09-26T13:23:21.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41934",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41934",
+        "pubDate": "Sat, 26 Sep 2026 13:23:21 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41934",
+        "isoDate": "2026-09-26T13:23:21.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41933",
+      "publishedAt": "2026-09-26T13:23:27.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41933",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41933",
+        "pubDate": "Sat, 26 Sep 2026 13:23:27 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41933",
+        "isoDate": "2026-09-26T13:23:27.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41944",
+      "publishedAt": "2026-09-26T13:25:01.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41944",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41944",
+        "pubDate": "Sat, 26 Sep 2026 13:25:01 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41944",
+        "isoDate": "2026-09-26T13:25:01.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41943",
+      "publishedAt": "2026-09-26T13:25:09.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41943",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41943",
+        "pubDate": "Sat, 26 Sep 2026 13:25:09 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41943",
+        "isoDate": "2026-09-26T13:25:09.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41942",
+      "publishedAt": "2026-09-26T13:25:20.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41942",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41942",
+        "pubDate": "Sat, 26 Sep 2026 13:25:20 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41942",
+        "isoDate": "2026-09-26T13:25:20.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41941",
+      "publishedAt": "2026-09-26T13:25:28.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41941",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41941",
+        "pubDate": "Sat, 26 Sep 2026 13:25:28 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41941",
+        "isoDate": "2026-09-26T13:25:28.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -903,6 +1267,126 @@
       "label": "positive",
       "rationale": "Praises the Trump administration for reducing animal testing.",
       "analyzedAt": "2026-09-26T12:03:31.479Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41925",
+      "label": "negative",
+      "rationale": "The post dismisses climate change as a hoax, conveying a negative and critical stance.",
+      "analyzedAt": "2026-09-26T16:04:17.842Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41926",
+      "label": "negative",
+      "rationale": "The post uses hostile language to condemn alleged fake news and expresses strong frustration.",
+      "analyzedAt": "2026-09-26T16:04:17.842Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41927",
+      "label": "negative",
+      "rationale": "The post expresses alarm and opposition regarding Iran obtaining a nuclear weapon.",
+      "analyzedAt": "2026-09-26T16:04:17.842Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41928",
+      "label": "neutral",
+      "rationale": "No text content provided.",
+      "analyzedAt": "2026-09-26T16:04:17.842Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41929",
+      "label": "neutral",
+      "rationale": "No text content provided.",
+      "analyzedAt": "2026-09-26T16:04:17.842Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41930",
+      "label": "neutral",
+      "rationale": "No text content provided.",
+      "analyzedAt": "2026-09-26T16:04:17.842Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41931",
+      "label": "neutral",
+      "rationale": "No text content provided.",
+      "analyzedAt": "2026-09-26T16:04:17.842Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41932",
+      "label": "neutral",
+      "rationale": "No text content provided.",
+      "analyzedAt": "2026-09-26T16:04:17.842Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41933",
+      "label": "neutral",
+      "rationale": "No text content provided.",
+      "analyzedAt": "2026-09-26T16:04:17.842Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41934",
+      "label": "neutral",
+      "rationale": "No text content provided.",
+      "analyzedAt": "2026-09-26T16:04:17.842Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41935",
+      "label": "neutral",
+      "rationale": "No text content provided.",
+      "analyzedAt": "2026-09-26T16:04:17.842Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41936",
+      "label": "neutral",
+      "rationale": "No text content provided.",
+      "analyzedAt": "2026-09-26T16:04:17.842Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41937",
+      "label": "neutral",
+      "rationale": "No text content provided.",
+      "analyzedAt": "2026-09-26T16:04:17.842Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41938",
+      "label": "neutral",
+      "rationale": "No text content provided.",
+      "analyzedAt": "2026-09-26T16:04:17.842Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41939",
+      "label": "neutral",
+      "rationale": "No text content provided.",
+      "analyzedAt": "2026-09-26T16:04:17.842Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41940",
+      "label": "neutral",
+      "rationale": "No text content provided.",
+      "analyzedAt": "2026-09-26T16:04:17.842Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41941",
+      "label": "neutral",
+      "rationale": "No text content provided.",
+      "analyzedAt": "2026-09-26T16:04:17.842Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41942",
+      "label": "neutral",
+      "rationale": "No text content provided.",
+      "analyzedAt": "2026-09-26T16:04:17.842Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41943",
+      "label": "neutral",
+      "rationale": "No text content provided.",
+      "analyzedAt": "2026-09-26T16:04:17.842Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41944",
+      "label": "neutral",
+      "rationale": "No text content provided.",
+      "analyzedAt": "2026-09-26T16:04:17.842Z"
     }
   ]
 }
