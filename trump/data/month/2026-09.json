@@ -677,7 +677,7 @@
       ],
       "postsCount": 8,
       "hasDetail": true,
-      "generatedAt": "2026-09-26T16:03:58.848Z",
+      "generatedAt": "2026-09-26T20:03:58.827Z",
       "trendingTopic": "Trump and Xi discuss U.S.-China ties and schedule future meetings",
       "trendingName": "Xi Jinping",
       "secondaryHighlights": [
@@ -698,46 +698,46 @@
     {
       "date": "2026-09-26",
       "counts": {
-        "positive": 16,
-        "neutral": 31,
+        "positive": 18,
+        "neutral": 33,
         "negative": 8
       },
-      "summary": "positive:16 neutral:31 negative:8",
+      "summary": "positive:18 neutral:33 negative:8",
       "topics": [
-        "Trump administration spotlights voter citizenship checks and nationwide election-fraud prosecutions",
-        "Trump and White House allies attack media access and alleged fake-news coverage",
-        "Trump promotes lower energy costs while challenging climate policies and the climate hoax"
+        "Trump-backed voter-integrity crackdown expands with citizenship checks and election-fraud prosecutions",
+        "Trump administration confronts White House media outlets over press access and coverage",
+        "Trump and Melania host an evening state dinner at the White House"
       ],
-      "postsCount": 55,
+      "postsCount": 59,
       "hasDetail": true,
-      "generatedAt": "2026-09-26T16:04:45.633Z",
-      "trendingTopic": "Trump administration spotlights voter citizenship checks and nationwide election-fraud prosecutions",
+      "generatedAt": "2026-09-26T20:04:43.953Z",
+      "trendingTopic": "Trump-backed voter-integrity crackdown expands with citizenship checks and election-fraud prosecutions",
       "secondaryHighlights": [
         {
-          "topic": "Trump and Melania host and receive praise for a White House state dinner"
+          "topic": "Trump approves fuel-economy standards ending Biden’s electric-vehicle mandate and promoting U.S. auto manufacturing"
         },
         {
-          "topic": "Images portray Donald Trump and Xi Jinping as partners in a renewed U.S.-China relationship"
+          "topic": "Trump promotes claims of record U.S. business growth, household income, exports, and investment"
         },
         {
-          "topic": "Trump warns that Iran cannot obtain a nuclear weapon"
+          "topic": "Trump administration advances environmental and animal-testing rollbacks while attacking climate policies"
         }
       ],
       "selfPraiseCount": 12
     }
   ],
-  "generatedAt": "2026-09-26T16:04:45.633Z",
-  "trendingTopic": "Trump portrays Iran as collapsing while defending military operations and warning against nuclear ambitions",
+  "generatedAt": "2026-09-26T20:04:43.953Z",
+  "trendingTopic": "Donald Trump frames Iran as collapsing while defending U.S. military operations and pressure on its oil economy",
   "secondaryHighlights": [
     {
-      "topic": "Trump battles CNN, MSNBC, Politico, and other outlets over White House access and coverage"
+      "topic": "Trump touts stronger household finances, lower poverty, and economic growth"
     },
     {
-      "topic": "Trump promotes U.S. artificial intelligence expansion while dismissing catastrophic-risk warnings"
+      "topic": "Trump endorses candidates and celebrates Republican primary victories across multiple states"
     },
     {
-      "topic": "Trump touts stronger incomes, lower poverty, and improving prices under his economic agenda"
+      "topic": "Trump clashes with CNN, Politico, and MS NOW over White House press access"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:26:c62560f5ccc51f909eeb01aa"
+  "topicsCacheKey": "month-themes-v5:26:0ec632670251c0acf7910745"
 }
