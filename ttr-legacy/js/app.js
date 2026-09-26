@@ -16,12 +16,49 @@ function yearMeta() {
 
 function syncYearDefaults() {
   const y = yearMeta();
-  $("#trains").value = y.trains;
-  $("#trainsOut").textContent = y.trains;
-  $("#ticketCount").value = y.deal;
-  $("#ticketCountOut").textContent = y.deal;
+  setRange($("#trains"), $("#trainsOut"), y.trains);
+  setRange($("#ticketCount"), $("#ticketCountOut"), y.deal);
   $("#yearNote").textContent = y.note;
   readRegions();
+}
+
+function readRegions() {
+  state.regionSet = new Set(
+    [...document.querySelectorAll(".region-box:checked")].map((b) => b.value)
+  );
+}
+
+function setRange(el, out, value) {
+  const min = Number(el.min);
+  const max = Number(el.max);
+  const next = Math.min(max, Math.max(min, Number(value)));
+  el.value = String(next);
+  out.textContent = String(next);
+}
+
+function nudgeRange(el, out, delta) {
+  setRange(el, out, Number(el.value) + delta);
+  scheduleSolve();
+}
+
+function bindRange(el, out) {
+  const onMove = () => {
+    out.textContent = el.value;
+    scheduleSolve();
+  };
+  el.addEventListener("input", onMove);
+  el.addEventListener("change", onMove);
+  el.addEventListener("touchend", onMove);
+  el.addEventListener("pointerup", onMove);
+}
+
+let solveTimer = 0;
+function scheduleSolve() {
+  if (solveTimer) clearTimeout(solveTimer);
+  solveTimer = setTimeout(() => {
+    solveTimer = 0;
+    solve();
+  }, 0);
 }
 
 function readRegions() {
@@ -47,19 +84,26 @@ function ticketsWord(n, form) {
 }
 
 function solve() {
-  readRegions();
-  const trains = Number($("#trains").value);
-  const { minKeep, maxKeep } = keepBounds();
-  const t0 = performance.now();
-  state.result = optimizeTickets({
-    data: state.data,
-    regionSet: state.regionSet,
-    trains,
-    minKeep,
-    maxKeep,
-  });
-  state.result.elapsed = Math.round(performance.now() - t0);
-  render();
+  try {
+    readRegions();
+    const trains = Number($("#trains").value);
+    const { minKeep, maxKeep } = keepBounds();
+    const t0 = performance.now();
+    state.result = optimizeTickets({
+      data: state.data,
+      regionSet: state.regionSet,
+      trains,
+      minKeep,
+      maxKeep,
+    });
+    state.result.elapsed = Math.round(performance.now() - t0);
+    render();
+  } catch (err) {
+    console.error(err);
+    const warn = $("#regionWarn");
+    warn.hidden = false;
+    warn.textContent = "Не удалось посчитать набор. Попробуйте меньше регионов или перезагрузить страницу.";
+  }
 }
 
 function render() {
@@ -150,14 +194,20 @@ async function main() {
     solve();
   });
   $("#players").addEventListener("change", solve);
-  $("#trains").addEventListener("input", () => {
-    $("#trainsOut").textContent = $("#trains").value;
-  });
-  $("#trains").addEventListener("change", solve);
-  $("#ticketCount").addEventListener("input", () => {
-    $("#ticketCountOut").textContent = $("#ticketCount").value;
-  });
-  $("#ticketCount").addEventListener("change", solve);
+  bindRange($("#trains"), $("#trainsOut"));
+  bindRange($("#ticketCount"), $("#ticketCountOut"));
+  $("#trainsMinus").addEventListener("click", () =>
+    nudgeRange($("#trains"), $("#trainsOut"), -1)
+  );
+  $("#trainsPlus").addEventListener("click", () =>
+    nudgeRange($("#trains"), $("#trainsOut"), 1)
+  );
+  $("#ticketCountMinus").addEventListener("click", () =>
+    nudgeRange($("#ticketCount"), $("#ticketCountOut"), -1)
+  );
+  $("#ticketCountPlus").addEventListener("click", () =>
+    nudgeRange($("#ticketCount"), $("#ticketCountOut"), 1)
+  );
   $("#regions").addEventListener("change", solve);
   syncYearDefaults();
   solve();
