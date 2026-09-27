@@ -1,14 +1,53 @@
 {
   "date": "2026-09-27",
   "counts": {
-    "positive": 0,
+    "positive": 1,
     "neutral": 0,
     "negative": 0
   },
-  "summary": "positive:0 neutral:0 negative:0",
-  "generatedAt": "2026-09-27T00:06:25.762Z",
-  "topics": [],
-  "selfPraiseCount": 0,
-  "posts": [],
-  "sentiments": []
+  "summary": "positive:1 neutral:0 negative:0",
+  "generatedAt": "2026-09-27T04:04:08.929Z",
+  "topics": [
+    "Trump touts the best financial numbers ever and accuses media of ignoring them"
+  ],
+  "trendingTopic": "Donald Trump touts record financial numbers while accusing the media of refusing to report them",
+  "selfPraiseCount": 1,
+  "posts": [
+    {
+      "id": "https://www.trumpstruth.org/statuses/41973",
+      "publishedAt": "2026-09-27T00:59:56.000Z",
+      "title": "We have the BEST FINANCIAL NUMBERS EVER, and the FAKE NEWS MEDIA refuses to report them!!! President DJT",
+      "text": "<p>We have the BEST FINANCIAL NUMBERS EVER, and the FAKE NEWS MEDIA refuses to report them!!! President DJT</p>",
+      "url": "https://www.trumpstruth.org/statuses/41973",
+      "raw": {
+        "creator": "",
+        "title": "We have the BEST FINANCIAL NUMBERS EVER, and the FAKE NEWS MEDIA refuses to report them!!! President DJT",
+        "link": "https://www.trumpstruth.org/statuses/41973",
+        "pubDate": "Sun, 27 Sep 2026 00:59:56 +0000",
+        "author": "",
+        "content": "<p>We have the BEST FINANCIAL NUMBERS EVER, and the FAKE NEWS MEDIA refuses to report them!!! President DJT</p>",
+        "contentSnippet": "We have the BEST FINANCIAL NUMBERS EVER, and the FAKE NEWS MEDIA refuses to report them!!! President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/41973",
+        "isoDate": "2026-09-27T00:59:56.000Z"
+      }
+    }
+  ],
+  "sentiments": [
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41973",
+      "label": "positive",
+      "rationale": "Praises the financial numbers as the best ever, though it criticizes the media for not reporting them.",
+      "analyzedAt": "2026-09-27T04:04:01.003Z"
+    }
+  ],
+  "topicsCacheKey": "day-themes-v11:1:c887701154857c5832b05722",
+  "selfPraiseCacheKey": "self-praise-v2:1:c887701154857c5832b05722",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41973"
+  ],
+  "secondaryHighlights": [
+    {
+      "topic": "We have the BEST FINANCIAL NUMBERS EVER, and the FAKE NEWS MEDIA refuses to report them!!!"
+    }
+  ]
 }

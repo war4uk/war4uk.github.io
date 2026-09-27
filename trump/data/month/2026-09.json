@@ -710,7 +710,7 @@
       ],
       "postsCount": 82,
       "hasDetail": true,
-      "generatedAt": "2026-09-27T00:06:48.698Z",
+      "generatedAt": "2026-09-27T04:03:55.262Z",
       "trendingTopic": "Rep. María Elvira Salazar faces MAGA backlash after criticizing Trump over immigration policy",
       "trendingName": "María Elvira Salazar",
       "secondaryHighlights": [
@@ -729,27 +729,39 @@
     {
       "date": "2026-09-27",
       "counts": {
-        "positive": 0,
+        "positive": 1,
         "neutral": 0,
         "negative": 0
       },
-      "summary": "positive:0 neutral:0 negative:0",
-      "topics": [],
-      "postsCount": 0,
+      "summary": "positive:1 neutral:0 negative:0",
+      "topics": [
+        "Trump touts the best financial numbers ever and accuses media of ignoring them"
+      ],
+      "postsCount": 1,
       "hasDetail": true,
-      "generatedAt": "2026-09-27T00:06:25.762Z",
-      "selfPraiseCount": 0
+      "generatedAt": "2026-09-27T04:04:08.929Z",
+      "trendingTopic": "Donald Trump touts record financial numbers while accusing the media of refusing to report them",
+      "secondaryHighlights": [
+        {
+          "topic": "We have the BEST FINANCIAL NUMBERS EVER, and the FAKE NEWS MEDIA refuses to report them!!!"
+        }
+      ],
+      "selfPraiseCount": 1
     }
   ],
-  "generatedAt": "2026-09-27T00:06:48.698Z",
-  "trendingTopic": "Defends the Iran campaign while portraying the country as economically and militarily under pressure",
+  "generatedAt": "2026-09-27T04:04:08.929Z",
+  "trendingTopic": "Defends the Iran war while portraying the country as collapsing and threatening oil security",
   "secondaryHighlights": [
     {
-      "topic": "Promotes Americanized place names and expansive Washington landmark projects"
+      "topic": "Endorses candidates and mobilizes Republicans for congressional, gubernatorial, and midterm races"
     },
     {
-      "topic": "Touts lower poverty, higher incomes, job growth, and other economic gains"
+      "topic": "Hosts Xi Jinping for U.S.-China meetings, ceremonies, and state-visit celebrations",
+      "name": "Xi Jinping"
+    },
+    {
+      "topic": "Promotes White House renovations, a ballroom, military facilities, and Washington monuments"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:26:33584544605aadb9b024125a"
+  "topicsCacheKey": "month-themes-v5:27:293db833f423f091acc0e563"
 }

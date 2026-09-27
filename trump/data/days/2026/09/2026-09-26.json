@@ -6,13 +6,14 @@
     "negative": 21
   },
   "summary": "positive:19 neutral:42 negative:21",
-  "generatedAt": "2026-09-27T00:06:48.698Z",
+  "generatedAt": "2026-09-27T04:03:55.262Z",
   "topics": [
     "Rep. María Elvira Salazar faces backlash over immigration and amnesty views",
     "Trump and Xi Jinping feature in U.S.-China state-visit and dinner celebrations",
     "Trump administration promotes voter citizenship checks and election-fraud prosecutions"
   ],
   "trendingTopic": "Rep. María Elvira Salazar faces MAGA backlash after criticizing Trump over immigration policy",
+  "trendingName": "María Elvira Salazar",
   "secondaryHighlights": [
     {
       "topic": "Trump attacks major news outlets and defends restricting White House press access"
@@ -2092,6 +2093,5 @@
       "rationale": "The text is empty and expresses no sentiment.",
       "analyzedAt": "2026-09-27T00:06:23.034Z"
     }
-  ],
-  "trendingName": "María Elvira Salazar"
+  ]
 }
