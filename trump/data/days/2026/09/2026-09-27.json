@@ -1,26 +1,29 @@
 {
   "date": "2026-09-27",
   "counts": {
-    "positive": 1,
-    "neutral": 0,
-    "negative": 0
+    "positive": 3,
+    "neutral": 2,
+    "negative": 1
   },
-  "summary": "positive:1 neutral:0 negative:0",
-  "generatedAt": "2026-09-27T12:01:41.157Z",
+  "summary": "positive:3 neutral:2 negative:1",
+  "generatedAt": "2026-09-27T16:04:38.666Z",
   "topics": [
-    "Trump touts the best financial numbers ever and accuses media of ignoring them"
+    "Trump touts record financial performance and U.S. employment",
+    "Trump criticizes Supreme Court rulings affecting Missouri election security"
   ],
-  "trendingTopic": "Donald Trump touts record financial numbers while accusing the media of refusing to report them",
+  "trendingTopic": "Trump touts record financial performance and the highest U.S. employment in history",
   "secondaryHighlights": [
     {
-      "topic": "We have the BEST FINANCIAL NUMBERS EVER, and the FAKE NEWS MEDIA refuses to report them!!!"
+      "topic": "Trump criticizes the Supreme Court for overturning Missouri election rulings"
     }
   ],
-  "selfPraiseCount": 1,
-  "topicsCacheKey": "day-themes-v11:1:c887701154857c5832b05722",
-  "selfPraiseCacheKey": "self-praise-v2:1:c887701154857c5832b05722",
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:6:17abe1be93945df43ef92b92",
+  "selfPraiseCacheKey": "self-praise-v2:6:17abe1be93945df43ef92b92",
   "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/41973"
+    "https://www.trumpstruth.org/statuses/41973",
+    "https://www.trumpstruth.org/statuses/41976",
+    "https://www.trumpstruth.org/statuses/41980"
   ],
   "posts": [
     {
@@ -40,6 +43,96 @@
         "guid": "https://www.trumpstruth.org/statuses/41973",
         "isoDate": "2026-09-27T00:59:56.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41976",
+      "publishedAt": "2026-09-27T12:09:39.000Z",
+      "title": "More people working in the United States right now than at any point in the History of our Country! President DJT",
+      "text": "<p>More people working in the United States right now than at any point in the History of our Country! President DJT</p>",
+      "url": "https://www.trumpstruth.org/statuses/41976",
+      "raw": {
+        "creator": "",
+        "title": "More people working in the United States right now than at any point in the History of our Country! President DJT",
+        "link": "https://www.trumpstruth.org/statuses/41976",
+        "pubDate": "Sun, 27 Sep 2026 12:09:39 +0000",
+        "author": "",
+        "content": "<p>More people working in the United States right now than at any point in the History of our Country! President DJT</p>",
+        "contentSnippet": "More people working in the United States right now than at any point in the History of our Country! President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/41976",
+        "isoDate": "2026-09-27T12:09:39.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41979",
+      "publishedAt": "2026-09-27T13:06:46.000Z",
+      "title": "[No Title] - Post from September 27, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41979",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 27, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41979",
+        "pubDate": "Sun, 27 Sep 2026 13:06:46 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41979",
+        "isoDate": "2026-09-27T13:06:46.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41978",
+      "publishedAt": "2026-09-27T13:06:56.000Z",
+      "title": "[No Title] - Post from September 27, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41978",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 27, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41978",
+        "pubDate": "Sun, 27 Sep 2026 13:06:56 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41978",
+        "isoDate": "2026-09-27T13:06:56.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41977",
+      "publishedAt": "2026-09-27T13:07:03.000Z",
+      "title": "RT @realDonaldTrumpMore people working in the United States right now than at any point in the History of our Country! President DJT",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span>More people working in the United States right now than at any point in the History of our Country! President DJT</p>",
+      "url": "https://www.trumpstruth.org/statuses/41977",
+      "raw": {
+        "creator": "",
+        "title": "RT @realDonaldTrumpMore people working in the United States right now than at any point in the History of our Country! President DJT",
+        "link": "https://www.trumpstruth.org/statuses/41977",
+        "pubDate": "Sun, 27 Sep 2026 13:07:03 +0000",
+        "author": "",
+        "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span>More people working in the United States right now than at any point in the History of our Country! President DJT</p>",
+        "contentSnippet": "RT @realDonaldTrumpMore people working in the United States right now than at any point in the History of our Country! President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/41977",
+        "isoDate": "2026-09-27T13:07:03.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41980",
+      "publishedAt": "2026-09-27T15:19:01.000Z",
+      "title": "The Supreme Court of the United States will just not let Missouri have an Election Victory. They continuously, three times now, overrule Judges who came to the correct decisions. Thank you to the Governor, and all of the Great People of Missouri, who are fighting so hard for Fairness and Election Security. Such tremendous Spirit and Love of our Country. I won Missouri BIG, all three times, and I couldn’t be more proud of doing so. A great place — I love you all! President DONALD J. TRUMP",
+      "text": "<p>The Supreme Court of the United States will just not let Missouri have an Election Victory. They continuously, three times now, overrule Judges who came to the correct decisions. Thank you to the Governor, and all of the Great People of Missouri, who are fighting so hard for Fairness and Election Security. Such tremendous Spirit and Love of our Country. I won Missouri BIG, all three times, and I couldn’t be more proud of doing so. A great place — I love you all! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/41980",
+      "raw": {
+        "creator": "",
+        "title": "The Supreme Court of the United States will just not let Missouri have an Election Victory. They continuously, three times now, overrule Judges who came to the correct decisions. Thank you to the Governor, and all of the Great People of Missouri, who are fighting so hard for Fairness and Election Security. Such tremendous Spirit and Love of our Country. I won Missouri BIG, all three times, and I couldn’t be more proud of doing so. A great place — I love you all! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/41980",
+        "pubDate": "Sun, 27 Sep 2026 15:19:01 +0000",
+        "author": "",
+        "content": "<p>The Supreme Court of the United States will just not let Missouri have an Election Victory. They continuously, three times now, overrule Judges who came to the correct decisions. Thank you to the Governor, and all of the Great People of Missouri, who are fighting so hard for Fairness and Election Security. Such tremendous Spirit and Love of our Country. I won Missouri BIG, all three times, and I couldn’t be more proud of doing so. A great place — I love you all! President DONALD J. TRUMP</p>",
+        "contentSnippet": "The Supreme Court of the United States will just not let Missouri have an Election Victory. They continuously, three times now, overrule Judges who came to the correct decisions. Thank you to the Governor, and all of the Great People of Missouri, who are fighting so hard for Fairness and Election Security. Such tremendous Spirit and Love of our Country. I won Missouri BIG, all three times, and I couldn’t be more proud of doing so. A great place — I love you all! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/41980",
+        "isoDate": "2026-09-27T15:19:01.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -48,6 +141,36 @@
       "label": "positive",
       "rationale": "Praises the financial numbers as the best ever, though it criticizes the media for not reporting them.",
       "analyzedAt": "2026-09-27T04:04:01.003Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41976",
+      "label": "positive",
+      "rationale": "The post celebrates historically high employment in the United States.",
+      "analyzedAt": "2026-09-27T16:04:27.259Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41977",
+      "label": "positive",
+      "rationale": "The post celebrates historically high employment in the United States.",
+      "analyzedAt": "2026-09-27T16:04:27.259Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41978",
+      "label": "neutral",
+      "rationale": "The post contains no text or sentiment.",
+      "analyzedAt": "2026-09-27T16:04:27.259Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41979",
+      "label": "neutral",
+      "rationale": "The post contains no text or sentiment.",
+      "analyzedAt": "2026-09-27T16:04:27.259Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41980",
+      "label": "negative",
+      "rationale": "The post expresses strong frustration and criticism toward the Supreme Court, despite praising Missouri and its supporters.",
+      "analyzedAt": "2026-09-27T16:04:27.259Z"
     }
   ]
 }

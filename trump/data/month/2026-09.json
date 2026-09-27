@@ -710,7 +710,7 @@
       ],
       "postsCount": 82,
       "hasDetail": true,
-      "generatedAt": "2026-09-27T12:01:38.109Z",
+      "generatedAt": "2026-09-27T16:04:17.616Z",
       "trendingTopic": "Rep. María Elvira Salazar faces MAGA backlash after criticizing Trump over immigration policy",
       "trendingName": "María Elvira Salazar",
       "secondaryHighlights": [
@@ -729,39 +729,39 @@
     {
       "date": "2026-09-27",
       "counts": {
-        "positive": 1,
-        "neutral": 0,
-        "negative": 0
+        "positive": 3,
+        "neutral": 2,
+        "negative": 1
       },
-      "summary": "positive:1 neutral:0 negative:0",
+      "summary": "positive:3 neutral:2 negative:1",
       "topics": [
-        "Trump touts the best financial numbers ever and accuses media of ignoring them"
+        "Trump touts record financial performance and U.S. employment",
+        "Trump criticizes Supreme Court rulings affecting Missouri election security"
       ],
-      "postsCount": 1,
+      "postsCount": 6,
       "hasDetail": true,
-      "generatedAt": "2026-09-27T12:01:41.157Z",
-      "trendingTopic": "Donald Trump touts record financial numbers while accusing the media of refusing to report them",
+      "generatedAt": "2026-09-27T16:04:38.666Z",
+      "trendingTopic": "Trump touts record financial performance and the highest U.S. employment in history",
       "secondaryHighlights": [
         {
-          "topic": "We have the BEST FINANCIAL NUMBERS EVER, and the FAKE NEWS MEDIA refuses to report them!!!"
+          "topic": "Trump criticizes the Supreme Court for overturning Missouri election rulings"
         }
       ],
-      "selfPraiseCount": 1
+      "selfPraiseCount": 3
     }
   ],
-  "generatedAt": "2026-09-27T12:01:41.157Z",
-  "trendingTopic": "Defends the Iran war while portraying the country as collapsing and threatening oil security",
+  "generatedAt": "2026-09-27T16:04:38.666Z",
+  "trendingTopic": "Trump portrays Iran as collapsing while defending military action and leveraging oil pressure",
   "secondaryHighlights": [
     {
-      "topic": "Endorses candidates and mobilizes Republicans for congressional, gubernatorial, and midterm races"
+      "topic": "Trump touts stronger household finances, lower poverty, and economic growth"
     },
     {
-      "topic": "Hosts Xi Jinping for U.S.-China meetings, ceremonies, and state-visit celebrations",
-      "name": "Xi Jinping"
+      "topic": "Trump attacks major news outlets and restricts White House press access"
     },
     {
-      "topic": "Promotes White House renovations, a ballroom, military facilities, and Washington monuments"
+      "topic": "Trump hosts Xi Jinping for a high-profile U.S.-China state visit"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:27:293db833f423f091acc0e563"
+  "topicsCacheKey": "month-themes-v5:27:d30d7799abd3cceb00388164"
 }
