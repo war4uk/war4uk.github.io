@@ -698,46 +698,58 @@
     {
       "date": "2026-09-26",
       "counts": {
-        "positive": 18,
-        "neutral": 33,
-        "negative": 8
+        "positive": 19,
+        "neutral": 42,
+        "negative": 21
       },
-      "summary": "positive:18 neutral:33 negative:8",
+      "summary": "positive:19 neutral:42 negative:21",
       "topics": [
-        "Trump-backed voter-integrity crackdown expands with citizenship checks and election-fraud prosecutions",
-        "Trump administration confronts White House media outlets over press access and coverage",
-        "Trump and Melania host an evening state dinner at the White House"
+        "Rep. María Elvira Salazar faces backlash over immigration and amnesty views",
+        "Trump and Xi Jinping feature in U.S.-China state-visit and dinner celebrations",
+        "Trump administration promotes voter citizenship checks and election-fraud prosecutions"
       ],
-      "postsCount": 59,
+      "postsCount": 82,
       "hasDetail": true,
-      "generatedAt": "2026-09-26T20:04:43.953Z",
-      "trendingTopic": "Trump-backed voter-integrity crackdown expands with citizenship checks and election-fraud prosecutions",
+      "generatedAt": "2026-09-27T00:06:48.698Z",
+      "trendingTopic": "Rep. María Elvira Salazar faces MAGA backlash after criticizing Trump over immigration policy",
+      "trendingName": "María Elvira Salazar",
       "secondaryHighlights": [
         {
-          "topic": "Trump approves fuel-economy standards ending Biden’s electric-vehicle mandate and promoting U.S. auto manufacturing"
+          "topic": "Trump attacks major news outlets and defends restricting White House press access"
         },
         {
-          "topic": "Trump promotes claims of record U.S. business growth, household income, exports, and investment"
+          "topic": "Trump claims strong economic growth, record incomes, low poverty, and surging exports"
         },
         {
-          "topic": "Trump administration advances environmental and animal-testing rollbacks while attacking climate policies"
+          "topic": "Trump ends Biden-era electric-vehicle mandate with new fuel-economy standards for automakers"
         }
       ],
       "selfPraiseCount": 12
+    },
+    {
+      "date": "2026-09-27",
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "positive:0 neutral:0 negative:0",
+      "topics": [],
+      "postsCount": 0,
+      "hasDetail": true,
+      "generatedAt": "2026-09-27T00:06:25.762Z",
+      "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-26T20:04:43.953Z",
-  "trendingTopic": "Donald Trump frames Iran as collapsing while defending U.S. military operations and pressure on its oil economy",
+  "generatedAt": "2026-09-27T00:06:48.698Z",
+  "trendingTopic": "Defends the Iran campaign while portraying the country as economically and militarily under pressure",
   "secondaryHighlights": [
     {
-      "topic": "Trump touts stronger household finances, lower poverty, and economic growth"
+      "topic": "Promotes Americanized place names and expansive Washington landmark projects"
     },
     {
-      "topic": "Trump endorses candidates and celebrates Republican primary victories across multiple states"
-    },
-    {
-      "topic": "Trump clashes with CNN, Politico, and MS NOW over White House press access"
+      "topic": "Touts lower poverty, higher incomes, job growth, and other economic gains"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:26:0ec632670251c0acf7910745"
+  "topicsCacheKey": "month-themes-v5:26:33584544605aadb9b024125a"
 }

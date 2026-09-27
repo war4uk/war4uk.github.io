@@ -1,32 +1,32 @@
 {
   "date": "2026-09-26",
   "counts": {
-    "positive": 18,
-    "neutral": 33,
-    "negative": 8
+    "positive": 19,
+    "neutral": 42,
+    "negative": 21
   },
-  "summary": "positive:18 neutral:33 negative:8",
-  "generatedAt": "2026-09-26T20:04:43.953Z",
+  "summary": "positive:19 neutral:42 negative:21",
+  "generatedAt": "2026-09-27T00:06:48.698Z",
   "topics": [
-    "Trump-backed voter-integrity crackdown expands with citizenship checks and election-fraud prosecutions",
-    "Trump administration confronts White House media outlets over press access and coverage",
-    "Trump and Melania host an evening state dinner at the White House"
+    "Rep. María Elvira Salazar faces backlash over immigration and amnesty views",
+    "Trump and Xi Jinping feature in U.S.-China state-visit and dinner celebrations",
+    "Trump administration promotes voter citizenship checks and election-fraud prosecutions"
   ],
-  "trendingTopic": "Trump-backed voter-integrity crackdown expands with citizenship checks and election-fraud prosecutions",
+  "trendingTopic": "Rep. María Elvira Salazar faces MAGA backlash after criticizing Trump over immigration policy",
   "secondaryHighlights": [
     {
-      "topic": "Trump approves fuel-economy standards ending Biden’s electric-vehicle mandate and promoting U.S. auto manufacturing"
+      "topic": "Trump attacks major news outlets and defends restricting White House press access"
     },
     {
-      "topic": "Trump promotes claims of record U.S. business growth, household income, exports, and investment"
+      "topic": "Trump claims strong economic growth, record incomes, low poverty, and surging exports"
     },
     {
-      "topic": "Trump administration advances environmental and animal-testing rollbacks while attacking climate policies"
+      "topic": "Trump ends Biden-era electric-vehicle mandate with new fuel-economy standards for automakers"
     }
   ],
   "selfPraiseCount": 12,
-  "topicsCacheKey": "day-themes-v11:59:9b0d98b9ff53918da5082e40",
-  "selfPraiseCacheKey": "self-praise-v2:59:9b0d98b9ff53918da5082e40",
+  "topicsCacheKey": "day-themes-v11:82:744bcc2c5a044b96d58e4ec4",
+  "selfPraiseCacheKey": "self-praise-v2:82:744bcc2c5a044b96d58e4ec4",
   "selfPraisePostIds": [
     "https://www.trumpstruth.org/statuses/41897",
     "https://www.trumpstruth.org/statuses/41905",
@@ -1127,6 +1127,476 @@
         "guid": "https://www.trumpstruth.org/statuses/41949",
         "isoDate": "2026-09-26T19:14:48.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41951",
+      "publishedAt": "2026-09-26T21:46:16.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41951",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41951",
+        "pubDate": "Sat, 26 Sep 2026 21:46:16 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41951",
+        "isoDate": "2026-09-26T21:46:16.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41950",
+      "publishedAt": "2026-09-26T21:47:27.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "<p><a href=\"https://www.washingtonpost.com/politics/2026/09/23/after-publicly-criticizing-trump-rep-mara-elvira-salazar-faces-backlash/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/politics/20</span><span class=\"invisible\">26/09/23/after-publicly-criticizing-trump-rep-mara-elvira-salazar-faces-backlash/</span></a></p>\n\n[Image] A screenshot of an OpenSourceZone post quotes The Washington Post about Rep. María Elvira Salazar criticizing Donald Trump’s immigration policies as “too far.” The attached photo shows Salazar, a Miami Republican, speaking at a microphone and gesturing with one raised hand. The caption says Latino voters’ support for Donald Trump remains strong while Salazar faces backlash.",
+      "url": "https://www.trumpstruth.org/statuses/41950",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41950",
+        "pubDate": "Sat, 26 Sep 2026 21:47:27 +0000",
+        "author": "",
+        "content": "<p><a href=\"https://www.washingtonpost.com/politics/2026/09/23/after-publicly-criticizing-trump-rep-mara-elvira-salazar-faces-backlash/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/politics/20</span><span class=\"invisible\">26/09/23/after-publicly-criticizing-trump-rep-mara-elvira-salazar-faces-backlash/</span></a></p>",
+        "contentSnippet": "https://www.washingtonpost.com/politics/2026/09/23/after-publicly-criticizing-trump-rep-mara-elvira-salazar-faces-backlash/",
+        "guid": "https://www.trumpstruth.org/statuses/41950",
+        "isoDate": "2026-09-26T21:47:27.000Z"
+      },
+      "imageDescribedAt": "2026-09-27T00:06:11.733Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18260/233c2a4026ba4ab5-eb9af25896e3.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41964",
+      "publishedAt": "2026-09-26T22:01:04.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "[Image] A screenshot of a social-media post by HowlingBunghole, dated September 24, 2026, says Hispanic voters in a woman’s district are unrelated to the issue being discussed. It describes Homestead, Florida, as a major agricultural area known as the East Coast’s “winter salad bowl,” then alleges the policy is intended to please donors employing undocumented immigrants.",
+      "url": "https://www.trumpstruth.org/statuses/41964",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41964",
+        "pubDate": "Sat, 26 Sep 2026 22:01:04 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41964",
+        "isoDate": "2026-09-26T22:01:04.000Z"
+      },
+      "imageDescribedAt": "2026-09-27T00:06:08.460Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18274/ac659d16b8dab6bf-01da71d2b495.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41963",
+      "publishedAt": "2026-09-26T22:01:20.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "[Image] A screenshot of a social media post from the verified account “Mom of Krills,” dated Sep. 24. The post reads, “She’s openly pro-amnesty. I think it's her own personal agenda, not just about donors.” Reply, repost, like, view-count, bookmark, and share icons appear below, with a visible count of 9 beside the analytics icon.",
+      "url": "https://www.trumpstruth.org/statuses/41963",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41963",
+        "pubDate": "Sat, 26 Sep 2026 22:01:20 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41963",
+        "isoDate": "2026-09-26T22:01:20.000Z"
+      },
+      "imageDescribedAt": "2026-09-27T00:06:05.090Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18273/d45c7bbad5c21d06-86cad610244b.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41962",
+      "publishedAt": "2026-09-26T22:01:36.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "[Image] A screenshot of a post on X by Dave Roman (@DaveRom86052473), showing a verified account. The post reads, “Find out who PAID her to say those things.... Press, DO YOUR JOB!!!” It is timestamped 2:09 PM on Sep. 24, 2026, and shows 58 views. No photo or recognizable public figure is visible.",
+      "url": "https://www.trumpstruth.org/statuses/41962",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41962",
+        "pubDate": "Sat, 26 Sep 2026 22:01:36 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41962",
+        "isoDate": "2026-09-26T22:01:36.000Z"
+      },
+      "imageDescribedAt": "2026-09-27T00:06:02.262Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18272/8c766b4d1cc99b2a-1e3c71a45618.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41961",
+      "publishedAt": "2026-09-26T22:01:50.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "[Image] A screenshot of a social media post by John Hodnett, with a verified account badge and the handle @JohnHodnett. The circular profile image appears to show Donald Trump. The post reads, “She tried a stunt and it back fired!” and shows a timestamp of 2:26 PM on Sep. 24, 2026, with 66 views.",
+      "url": "https://www.trumpstruth.org/statuses/41961",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41961",
+        "pubDate": "Sat, 26 Sep 2026 22:01:50 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41961",
+        "isoDate": "2026-09-26T22:01:50.000Z"
+      },
+      "imageDescribedAt": "2026-09-27T00:05:59.899Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18271/e18a77f2e68711fc-b50d8a432508.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41960",
+      "publishedAt": "2026-09-26T22:02:02.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "[Image] A screenshot of a social media post from Daniel Dawson (@DanielD10532930) reads, “Why would a person go against the constituents in her own District?? Find the money and follow it.” The post is timestamped 4:07 PM on September 25, 2026, and shows seven views. A generic gray profile avatar appears beside the account name.",
+      "url": "https://www.trumpstruth.org/statuses/41960",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41960",
+        "pubDate": "Sat, 26 Sep 2026 22:02:02 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41960",
+        "isoDate": "2026-09-26T22:02:02.000Z"
+      },
+      "imageDescribedAt": "2026-09-27T00:05:57.346Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18270/fed0387b6d61ef2f-489363c230a6.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41959",
+      "publishedAt": "2026-09-26T22:02:14.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "[Image] A screenshot of a social media post by James Vinson (@steelerjmv) reads, “She is nothing but a back stabber. I’m glad the Latino support hasn’t wavered.” It was posted at 6:38 PM on September 25, 2026, and shows 10 views. The account’s circular profile photo is too small to identify clearly.",
+      "url": "https://www.trumpstruth.org/statuses/41959",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41959",
+        "pubDate": "Sat, 26 Sep 2026 22:02:14 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41959",
+        "isoDate": "2026-09-26T22:02:14.000Z"
+      },
+      "imageDescribedAt": "2026-09-27T00:05:54.888Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18269/00a7f9eb4d5d3774-39229a89f9c2.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41958",
+      "publishedAt": "2026-09-26T22:02:23.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "[Image] A screenshot of a social-media post from Juan Pablo, whose profile includes U.S., French, and LGBTQ-themed emojis. The post reads, “Didn’t she vote with Trump 99% of the time? Trump must remove his endorsement from her.” It was posted at 10:18 PM on September 23, 2026, and shows 997 views.",
+      "url": "https://www.trumpstruth.org/statuses/41958",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41958",
+        "pubDate": "Sat, 26 Sep 2026 22:02:23 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41958",
+        "isoDate": "2026-09-26T22:02:23.000Z"
+      },
+      "imageDescribedAt": "2026-09-27T00:05:51.923Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18268/c9bbdd43f1ff831f-eb99050cc85d.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41957",
+      "publishedAt": "2026-09-26T22:02:33.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "[Image] A screenshot of a social media post from RT, using the handle @RobertT89252313. The post reads, “So we need a NEW Republican to Replace Salazar.” It is timestamped 2:32 PM on Sep. 24, 2026, and shows 23 views. A small circular profile image and platform icon appear near the top.",
+      "url": "https://www.trumpstruth.org/statuses/41957",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41957",
+        "pubDate": "Sat, 26 Sep 2026 22:02:33 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41957",
+        "isoDate": "2026-09-26T22:02:33.000Z"
+      },
+      "imageDescribedAt": "2026-09-27T00:05:49.155Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18267/7fb2d3054ced6df8-5ac4bbff9847.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41956",
+      "publishedAt": "2026-09-26T22:02:44.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "[Image] A screenshot of a social media post by JohnSpartan (@johnspartan620). The post reads, “Thats cause people that came here legally hate people skipping ahead of the line.” It was posted at 3:57 PM on September 24, 2026, and had 43 views. A small profile photo and platform icons appear near the top.",
+      "url": "https://www.trumpstruth.org/statuses/41956",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41956",
+        "pubDate": "Sat, 26 Sep 2026 22:02:44 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41956",
+        "isoDate": "2026-09-26T22:02:44.000Z"
+      },
+      "imageDescribedAt": "2026-09-27T00:05:46.363Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18266/13339a2e6821fb8b-c3a48cc033db.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41955",
+      "publishedAt": "2026-09-26T22:02:55.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "[Image] A screenshot of a social-media post by “Nype” (@Nvpe_) shows the text: “Primary her in two years and see how she likes to keep criticising Trump then.” The post is timestamped 11:41 AM on September 24, 2026, and has 69 views. A circular, multicolored profile image appears beside the username.",
+      "url": "https://www.trumpstruth.org/statuses/41955",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41955",
+        "pubDate": "Sat, 26 Sep 2026 22:02:55 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41955",
+        "isoDate": "2026-09-26T22:02:55.000Z"
+      },
+      "imageDescribedAt": "2026-09-27T00:05:44.447Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18265/108ec0fc835c74d6-219ecff6bfdf.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41954",
+      "publishedAt": "2026-09-26T22:03:05.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "[Image] A screenshot of a social media post by David B. (@Davidab79), with a profile photo showing a city skyline. The post reads, “I am one of those voters in her district. I should have voted for the guy that primaried her.” It was posted at 6:55 PM on September 24, 2026, and had 16 views.",
+      "url": "https://www.trumpstruth.org/statuses/41954",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41954",
+        "pubDate": "Sat, 26 Sep 2026 22:03:05 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41954",
+        "isoDate": "2026-09-26T22:03:05.000Z"
+      },
+      "imageDescribedAt": "2026-09-27T00:05:41.308Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18264/b7c6fba6d0937249-40c8b437f281.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41953",
+      "publishedAt": "2026-09-26T22:03:15.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "[Image] A screenshot of a social-media post from Krom (@krommufc). The post reads, “I guess she misread the tea leaves...” It was posted at 3:51 AM on September 24, 2026, and shows 160 views. A small circular profile photo and the platform’s menu icon appear in the header.",
+      "url": "https://www.trumpstruth.org/statuses/41953",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41953",
+        "pubDate": "Sat, 26 Sep 2026 22:03:15 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41953",
+        "isoDate": "2026-09-26T22:03:15.000Z"
+      },
+      "imageDescribedAt": "2026-09-27T00:05:38.458Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18263/6cef383c1d3c1f7b-ea0ce94fc803.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41952",
+      "publishedAt": "2026-09-26T22:03:53.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "[Image] A screenshot of a social-media post from Gina (@springstorm24), posted at 6:31 PM on September 24, 2026. The post reads, “She wants amnesty for the ppl how criminally crossed our borders defying our laws.” It shows 8 views and includes a small circular profile image of an animal-faced figure.",
+      "url": "https://www.trumpstruth.org/statuses/41952",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41952",
+        "pubDate": "Sat, 26 Sep 2026 22:03:53 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41952",
+        "isoDate": "2026-09-26T22:03:53.000Z"
+      },
+      "imageDescribedAt": "2026-09-27T00:05:35.637Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18262/6c6ac2d33f65eb7e-bfc4c9d7f22c.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41967",
+      "publishedAt": "2026-09-26T22:11:27.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41967",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41967",
+        "pubDate": "Sat, 26 Sep 2026 22:11:27 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41967",
+        "isoDate": "2026-09-26T22:11:27.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41966",
+      "publishedAt": "2026-09-26T22:11:30.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41966",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41966",
+        "pubDate": "Sat, 26 Sep 2026 22:11:30 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41966",
+        "isoDate": "2026-09-26T22:11:30.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41965",
+      "publishedAt": "2026-09-26T22:12:14.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41965",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41965",
+        "pubDate": "Sat, 26 Sep 2026 22:12:14 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41965",
+        "isoDate": "2026-09-26T22:12:14.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41968",
+      "publishedAt": "2026-09-26T22:16:11.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41968",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41968",
+        "pubDate": "Sat, 26 Sep 2026 22:16:11 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41968",
+        "isoDate": "2026-09-26T22:16:11.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41969",
+      "publishedAt": "2026-09-26T22:21:52.000Z",
+      "title": "RT @realDonaldTrump",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p>",
+      "url": "https://www.trumpstruth.org/statuses/41969",
+      "raw": {
+        "creator": "",
+        "title": "RT @realDonaldTrump",
+        "link": "https://www.trumpstruth.org/statuses/41969",
+        "pubDate": "Sat, 26 Sep 2026 22:21:52 +0000",
+        "author": "",
+        "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p>",
+        "contentSnippet": "RT @realDonaldTrump",
+        "guid": "https://www.trumpstruth.org/statuses/41969",
+        "isoDate": "2026-09-26T22:21:52.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41972",
+      "publishedAt": "2026-09-26T22:27:16.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41972",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41972",
+        "pubDate": "Sat, 26 Sep 2026 22:27:16 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41972",
+        "isoDate": "2026-09-26T22:27:16.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41971",
+      "publishedAt": "2026-09-26T22:27:19.000Z",
+      "title": "A 5000 Dollar Dividend to all adults if Republicans WIN! Dumocrats can’t do this!",
+      "text": "<p>A 5000 Dollar Dividend to all adults if Republicans WIN! Dumocrats can’t do this!</p>",
+      "url": "https://www.trumpstruth.org/statuses/41971",
+      "raw": {
+        "creator": "",
+        "title": "A 5000 Dollar Dividend to all adults if Republicans WIN! Dumocrats can’t do this!",
+        "link": "https://www.trumpstruth.org/statuses/41971",
+        "pubDate": "Sat, 26 Sep 2026 22:27:19 +0000",
+        "author": "",
+        "content": "<p>A 5000 Dollar Dividend to all adults if Republicans WIN! Dumocrats can’t do this!</p>",
+        "contentSnippet": "A 5000 Dollar Dividend to all adults if Republicans WIN! Dumocrats can’t do this!",
+        "guid": "https://www.trumpstruth.org/statuses/41971",
+        "isoDate": "2026-09-26T22:27:19.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41970",
+      "publishedAt": "2026-09-26T22:28:09.000Z",
+      "title": "[No Title] - Post from September 26, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41970",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 26, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41970",
+        "pubDate": "Sat, 26 Sep 2026 22:28:09 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41970",
+        "isoDate": "2026-09-26T22:28:09.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -1483,6 +1953,145 @@
       "label": "positive",
       "rationale": "Celebrates new auto standards, lower prices, investment, and returning jobs while expressing optimism about America.",
       "analyzedAt": "2026-09-26T20:04:14.764Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41950",
+      "label": "neutral",
+      "rationale": "It primarily shares a news article and summarizes a political controversy without clearly expressing the poster's own sentiment.",
+      "analyzedAt": "2026-09-27T00:06:23.034Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41951",
+      "label": "neutral",
+      "rationale": "The text is empty and expresses no sentiment.",
+      "analyzedAt": "2026-09-27T00:06:23.034Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41952",
+      "label": "negative",
+      "rationale": "The post criticizes a politician for allegedly supporting amnesty for people who entered the country illegally.",
+      "analyzedAt": "2026-09-27T00:06:23.034Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41953",
+      "label": "negative",
+      "rationale": "The remark implies criticism or disappointment toward the subject for misreading political signals.",
+      "analyzedAt": "2026-09-27T00:06:23.034Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41954",
+      "label": "negative",
+      "rationale": "The writer expresses regret about supporting the politician and says they should have voted for her primary challenger.",
+      "analyzedAt": "2026-09-27T00:06:23.034Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41955",
+      "label": "negative",
+      "rationale": "It calls for the politician to be challenged in a future primary and criticizes her conduct.",
+      "analyzedAt": "2026-09-27T00:06:23.034Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41956",
+      "label": "negative",
+      "rationale": "The statement expresses resentment toward people who allegedly bypass legal immigration procedures.",
+      "analyzedAt": "2026-09-27T00:06:23.034Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41957",
+      "label": "negative",
+      "rationale": "It calls for replacing the current Republican representative, expressing opposition to her.",
+      "analyzedAt": "2026-09-27T00:06:23.034Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41958",
+      "label": "negative",
+      "rationale": "It criticizes the politician and urges Trump to withdraw his endorsement.",
+      "analyzedAt": "2026-09-27T00:06:23.034Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41959",
+      "label": "negative",
+      "rationale": "It labels the politician a backstabber, expressing strong hostility toward her.",
+      "analyzedAt": "2026-09-27T00:06:23.034Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41960",
+      "label": "negative",
+      "rationale": "It accuses the politician of acting against her constituents and suggests following the money.",
+      "analyzedAt": "2026-09-27T00:06:23.034Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41961",
+      "label": "negative",
+      "rationale": "It describes the politician's action as a failed stunt, conveying ridicule and criticism.",
+      "analyzedAt": "2026-09-27T00:06:23.034Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41962",
+      "label": "negative",
+      "rationale": "It insinuates that the politician was paid to make statements and demands an investigation.",
+      "analyzedAt": "2026-09-27T00:06:23.034Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41963",
+      "label": "negative",
+      "rationale": "It criticizes the politician as openly pro-amnesty and alleges that her position serves a personal or donor agenda.",
+      "analyzedAt": "2026-09-27T00:06:23.034Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41964",
+      "label": "negative",
+      "rationale": "It alleges that immigration policy is designed to benefit donors employing undocumented immigrants, expressing distrust and criticism.",
+      "analyzedAt": "2026-09-27T00:06:23.034Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41965",
+      "label": "neutral",
+      "rationale": "The text is empty and expresses no sentiment.",
+      "analyzedAt": "2026-09-27T00:06:23.034Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41966",
+      "label": "neutral",
+      "rationale": "The text is empty and expresses no sentiment.",
+      "analyzedAt": "2026-09-27T00:06:23.034Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41967",
+      "label": "neutral",
+      "rationale": "The text is empty and expresses no sentiment.",
+      "analyzedAt": "2026-09-27T00:06:23.034Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41968",
+      "label": "neutral",
+      "rationale": "The text is empty and expresses no sentiment.",
+      "analyzedAt": "2026-09-27T00:06:23.034Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41969",
+      "label": "neutral",
+      "rationale": "It only indicates a repost of another account without expressing sentiment.",
+      "analyzedAt": "2026-09-27T00:06:23.034Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41970",
+      "label": "neutral",
+      "rationale": "The text is empty and expresses no sentiment.",
+      "analyzedAt": "2026-09-27T00:06:23.034Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41971",
+      "label": "positive",
+      "rationale": "It promotes a proposed $5,000 dividend and frames a Republican victory favorably, though it also disparages Democrats.",
+      "analyzedAt": "2026-09-27T00:06:23.034Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41972",
+      "label": "neutral",
+      "rationale": "The text is empty and expresses no sentiment.",
+      "analyzedAt": "2026-09-27T00:06:23.034Z"
     }
-  ]
+  ],
+  "trendingName": "María Elvira Salazar"
 }
