@@ -6,12 +6,22 @@
     "negative": 0
   },
   "summary": "positive:1 neutral:0 negative:0",
-  "generatedAt": "2026-09-27T04:04:08.929Z",
+  "generatedAt": "2026-09-27T08:04:47.920Z",
   "topics": [
     "Trump touts the best financial numbers ever and accuses media of ignoring them"
   ],
   "trendingTopic": "Donald Trump touts record financial numbers while accusing the media of refusing to report them",
+  "secondaryHighlights": [
+    {
+      "topic": "We have the BEST FINANCIAL NUMBERS EVER, and the FAKE NEWS MEDIA refuses to report them!!!"
+    }
+  ],
   "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v11:1:c887701154857c5832b05722",
+  "selfPraiseCacheKey": "self-praise-v2:1:c887701154857c5832b05722",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/41973"
+  ],
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/41973",
@@ -38,16 +48,6 @@
       "label": "positive",
       "rationale": "Praises the financial numbers as the best ever, though it criticizes the media for not reporting them.",
       "analyzedAt": "2026-09-27T04:04:01.003Z"
-    }
-  ],
-  "topicsCacheKey": "day-themes-v11:1:c887701154857c5832b05722",
-  "selfPraiseCacheKey": "self-praise-v2:1:c887701154857c5832b05722",
-  "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/41973"
-  ],
-  "secondaryHighlights": [
-    {
-      "topic": "We have the BEST FINANCIAL NUMBERS EVER, and the FAKE NEWS MEDIA refuses to report them!!!"
     }
   ]
 }
