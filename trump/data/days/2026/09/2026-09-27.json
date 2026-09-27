@@ -2,24 +2,24 @@
   "date": "2026-09-27",
   "counts": {
     "positive": 3,
-    "neutral": 2,
+    "neutral": 4,
     "negative": 1
   },
-  "summary": "positive:3 neutral:2 negative:1",
-  "generatedAt": "2026-09-27T16:04:38.666Z",
+  "summary": "positive:3 neutral:4 negative:1",
+  "generatedAt": "2026-09-27T20:02:14.035Z",
   "topics": [
-    "Trump touts record financial performance and U.S. employment",
+    "Trump touts record financial numbers and highest-ever U.S. employment",
     "Trump criticizes Supreme Court rulings affecting Missouri election security"
   ],
-  "trendingTopic": "Trump touts record financial performance and the highest U.S. employment in history",
+  "trendingTopic": "Trump touts record financial numbers and highest-ever employment in U.S. history",
   "secondaryHighlights": [
     {
-      "topic": "Trump criticizes the Supreme Court for overturning Missouri election rulings"
+      "topic": "Trump criticizes Supreme Court rulings affecting Missouri election security"
     }
   ],
   "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v11:6:17abe1be93945df43ef92b92",
-  "selfPraiseCacheKey": "self-praise-v2:6:17abe1be93945df43ef92b92",
+  "topicsCacheKey": "day-themes-v11:8:884480cff1bb83d96ef28dd1",
+  "selfPraiseCacheKey": "self-praise-v2:8:884480cff1bb83d96ef28dd1",
   "selfPraisePostIds": [
     "https://www.trumpstruth.org/statuses/41973",
     "https://www.trumpstruth.org/statuses/41976",
@@ -133,6 +133,42 @@
         "guid": "https://www.trumpstruth.org/statuses/41980",
         "isoDate": "2026-09-27T15:19:01.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41981",
+      "publishedAt": "2026-09-27T15:56:43.000Z",
+      "title": "[No Title] - Post from September 27, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41981",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 27, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41981",
+        "pubDate": "Sun, 27 Sep 2026 15:56:43 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41981",
+        "isoDate": "2026-09-27T15:56:43.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41982",
+      "publishedAt": "2026-09-27T19:59:01.000Z",
+      "title": "[No Title] - Post from September 27, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41982",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 27, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41982",
+        "pubDate": "Sun, 27 Sep 2026 19:59:01 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41982",
+        "isoDate": "2026-09-27T19:59:01.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -171,6 +207,18 @@
       "label": "negative",
       "rationale": "The post expresses strong frustration and criticism toward the Supreme Court, despite praising Missouri and its supporters.",
       "analyzedAt": "2026-09-27T16:04:27.259Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41981",
+      "label": "neutral",
+      "rationale": "The text is empty and expresses no sentiment.",
+      "analyzedAt": "2026-09-27T20:02:00.193Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41982",
+      "label": "neutral",
+      "rationale": "The text is empty and expresses no sentiment.",
+      "analyzedAt": "2026-09-27T20:02:00.193Z"
     }
   ]
 }

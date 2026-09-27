@@ -710,7 +710,7 @@
       ],
       "postsCount": 82,
       "hasDetail": true,
-      "generatedAt": "2026-09-27T16:04:17.616Z",
+      "generatedAt": "2026-09-27T20:01:52.253Z",
       "trendingTopic": "Rep. María Elvira Salazar faces MAGA backlash after criticizing Trump over immigration policy",
       "trendingName": "María Elvira Salazar",
       "secondaryHighlights": [
@@ -730,38 +730,38 @@
       "date": "2026-09-27",
       "counts": {
         "positive": 3,
-        "neutral": 2,
+        "neutral": 4,
         "negative": 1
       },
-      "summary": "positive:3 neutral:2 negative:1",
+      "summary": "positive:3 neutral:4 negative:1",
       "topics": [
-        "Trump touts record financial performance and U.S. employment",
+        "Trump touts record financial numbers and highest-ever U.S. employment",
         "Trump criticizes Supreme Court rulings affecting Missouri election security"
       ],
-      "postsCount": 6,
+      "postsCount": 8,
       "hasDetail": true,
-      "generatedAt": "2026-09-27T16:04:38.666Z",
-      "trendingTopic": "Trump touts record financial performance and the highest U.S. employment in history",
+      "generatedAt": "2026-09-27T20:02:14.035Z",
+      "trendingTopic": "Trump touts record financial numbers and highest-ever employment in U.S. history",
       "secondaryHighlights": [
         {
-          "topic": "Trump criticizes the Supreme Court for overturning Missouri election rulings"
+          "topic": "Trump criticizes Supreme Court rulings affecting Missouri election security"
         }
       ],
       "selfPraiseCount": 3
     }
   ],
-  "generatedAt": "2026-09-27T16:04:38.666Z",
-  "trendingTopic": "Trump portrays Iran as collapsing while defending military action and leveraging oil pressure",
+  "generatedAt": "2026-09-27T20:02:14.035Z",
+  "trendingTopic": "Trump portrays Iran as collapsing under military, oil, and economic pressure while weighing negotiations",
   "secondaryHighlights": [
     {
-      "topic": "Trump touts stronger household finances, lower poverty, and economic growth"
+      "topic": "Trump restricts and attacks CNN, MSNBC, Politico, and other critical outlets"
     },
     {
-      "topic": "Trump attacks major news outlets and restricts White House press access"
+      "topic": "Trump endorses candidates across congressional, gubernatorial, and Senate races"
     },
     {
-      "topic": "Trump hosts Xi Jinping for a high-profile U.S.-China state visit"
+      "topic": "Trump hosts Xi Jinping for a White House state visit and future U.S.-China talks"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:27:d30d7799abd3cceb00388164"
+  "topicsCacheKey": "month-themes-v5:27:3fd009753401a796ab3cfbb6"
 }
