@@ -730,38 +730,60 @@
       "date": "2026-09-27",
       "counts": {
         "positive": 3,
-        "neutral": 4,
+        "neutral": 21,
         "negative": 1
       },
-      "summary": "positive:3 neutral:4 negative:1",
+      "summary": "positive:3 neutral:21 negative:1",
       "topics": [
-        "Trump touts record financial numbers and highest-ever U.S. employment",
+        "Donald Trump hosts Xi Jinping for a formal White House state visit and diplomatic meetings",
+        "Trump touts record financial results and historically high U.S. employment",
         "Trump criticizes Supreme Court rulings affecting Missouri election security"
       ],
-      "postsCount": 8,
+      "postsCount": 25,
       "hasDetail": true,
-      "generatedAt": "2026-09-27T20:02:14.035Z",
-      "trendingTopic": "Trump touts record financial numbers and highest-ever employment in U.S. history",
+      "generatedAt": "2026-09-28T00:03:49.303Z",
+      "trendingTopic": "Donald Trump hosts Xi Jinping for a formal White House state visit and diplomatic meetings",
       "secondaryHighlights": [
         {
+          "topic": "Trump touts record financial results and historically high U.S. employment"
+        },
+        {
           "topic": "Trump criticizes Supreme Court rulings affecting Missouri election security"
+        },
+        {
+          "topic": "Trump imagery proposes renaming the Strait of Hormuz the Trump Strait"
         }
       ],
-      "selfPraiseCount": 3
+      "selfPraiseCount": 4
+    },
+    {
+      "date": "2026-09-28",
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "positive:0 neutral:0 negative:0",
+      "topics": [],
+      "postsCount": 0,
+      "hasDetail": true,
+      "generatedAt": "2026-09-28T00:03:33.368Z",
+      "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-27T20:02:14.035Z",
-  "trendingTopic": "Trump portrays Iran as collapsing under military, oil, and economic pressure while weighing negotiations",
+  "generatedAt": "2026-09-28T00:03:49.303Z",
+  "trendingTopic": "Donald Trump defends military pressure on Iran while portraying its economy, oil exports, and strategic position as collapsing",
   "secondaryHighlights": [
     {
-      "topic": "Trump restricts and attacks CNN, MSNBC, Politico, and other critical outlets"
+      "topic": "Trump attacks CNN, Politico, MS NOW, and other outlets while restricting White House press access"
     },
     {
-      "topic": "Trump endorses candidates across congressional, gubernatorial, and Senate races"
+      "topic": "Trump endorses candidates across congressional, Senate, gubernatorial, and primary races"
     },
     {
-      "topic": "Trump hosts Xi Jinping for a White House state visit and future U.S.-China talks"
+      "topic": "Donald Trump hosts Xi Jinping for a formal White House state visit and diplomatic meetings",
+      "name": "Xi Jinping"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:27:3fd009753401a796ab3cfbb6"
+  "topicsCacheKey": "month-themes-v5:27:57b9429c940be8ac8a2030e8"
 }

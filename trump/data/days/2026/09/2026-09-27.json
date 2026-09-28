@@ -2,28 +2,36 @@
   "date": "2026-09-27",
   "counts": {
     "positive": 3,
-    "neutral": 4,
+    "neutral": 21,
     "negative": 1
   },
-  "summary": "positive:3 neutral:4 negative:1",
-  "generatedAt": "2026-09-27T20:02:14.035Z",
+  "summary": "positive:3 neutral:21 negative:1",
+  "generatedAt": "2026-09-28T00:03:49.303Z",
   "topics": [
-    "Trump touts record financial numbers and highest-ever U.S. employment",
+    "Donald Trump hosts Xi Jinping for a formal White House state visit and diplomatic meetings",
+    "Trump touts record financial results and historically high U.S. employment",
     "Trump criticizes Supreme Court rulings affecting Missouri election security"
   ],
-  "trendingTopic": "Trump touts record financial numbers and highest-ever employment in U.S. history",
+  "trendingTopic": "Donald Trump hosts Xi Jinping for a formal White House state visit and diplomatic meetings",
   "secondaryHighlights": [
     {
+      "topic": "Trump touts record financial results and historically high U.S. employment"
+    },
+    {
       "topic": "Trump criticizes Supreme Court rulings affecting Missouri election security"
+    },
+    {
+      "topic": "Trump imagery proposes renaming the Strait of Hormuz the Trump Strait"
     }
   ],
-  "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v11:8:884480cff1bb83d96ef28dd1",
-  "selfPraiseCacheKey": "self-praise-v2:8:884480cff1bb83d96ef28dd1",
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v11:25:b7b4723fb45b8c5f785cd913",
+  "selfPraiseCacheKey": "self-praise-v2:25:b7b4723fb45b8c5f785cd913",
   "selfPraisePostIds": [
     "https://www.trumpstruth.org/statuses/41973",
     "https://www.trumpstruth.org/statuses/41976",
-    "https://www.trumpstruth.org/statuses/41980"
+    "https://www.trumpstruth.org/statuses/41980",
+    "https://www.trumpstruth.org/statuses/41983"
   ],
   "posts": [
     {
@@ -156,7 +164,7 @@
       "id": "https://www.trumpstruth.org/statuses/41982",
       "publishedAt": "2026-09-27T19:59:01.000Z",
       "title": "[No Title] - Post from September 27, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A split image contrasts two spaces labeled “Fake News Before” and “FDR Pool After.” The left side shows an empty White House-style press briefing room with rows of seats, cameras, a lectern, and an American flag. The right side shows an ornate indoor swimming pool with white-and-gold decoration, tall windows, chandeliers, and an eagle emblem.",
       "url": "https://www.trumpstruth.org/statuses/41982",
       "raw": {
         "creator": "",
@@ -168,6 +176,380 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/41982",
         "isoDate": "2026-09-27T19:59:01.000Z"
+      },
+      "imageDescribedAt": "2026-09-28T00:02:38.892Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18287/cad19c30e56c358f-1e63a595b665.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41983",
+      "publishedAt": "2026-09-27T20:01:56.000Z",
+      "title": "[No Title] - Post from September 27, 2026",
+      "text": "[Image] A graphic map of the Persian Gulf shows Iran on the northeast coast and Iraq, Kuwait, Saudi Arabia, the United Arab Emirates, and Oman around the waterway. A circled area marks the Strait of Hormuz, with a pointer leading to a dark blue banner reading “TRUMP STRAIT,” referring to Donald Trump.",
+      "url": "https://www.trumpstruth.org/statuses/41983",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 27, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41983",
+        "pubDate": "Sun, 27 Sep 2026 20:01:56 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41983",
+        "isoDate": "2026-09-27T20:01:56.000Z"
+      },
+      "imageDescribedAt": "2026-09-28T00:03:21.698Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18288/ffa4a500dfcd50c0-9dd6ea908ee0.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41990",
+      "publishedAt": "2026-09-27T20:50:24.000Z",
+      "title": "[No Title] - Post from September 27, 2026",
+      "text": "[Image] Donald Trump stands on the steps of the White House beside Melania Trump, saluting as a Marine Corps ceremonial unit marches in the foreground with rifles. Chinese President Xi Jinping and Peng Liyuan stand behind them. U.S. and Chinese flags hang around the entrance, creating a formal state-ceremony setting.",
+      "url": "https://www.trumpstruth.org/statuses/41990",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 27, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41990",
+        "pubDate": "Sun, 27 Sep 2026 20:50:24 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41990",
+        "isoDate": "2026-09-27T20:50:24.000Z"
+      },
+      "imageDescribedAt": "2026-09-28T00:03:18.947Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18295/79bf385d0ad0d310-85b5d6ba06b4.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41989",
+      "publishedAt": "2026-09-27T20:50:36.000Z",
+      "title": "[No Title] - Post from September 27, 2026",
+      "text": "[Image] Peng Liyuan, Xi Jinping, Donald Trump, and Melania Trump stand together on the steps of a building. Peng and Xi wear dark blue formal attire, while Donald Trump wears a navy suit and red tie, and Melania Trump wears a black skirt suit. U.S. and Chinese flags hang behind them.",
+      "url": "https://www.trumpstruth.org/statuses/41989",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 27, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41989",
+        "pubDate": "Sun, 27 Sep 2026 20:50:36 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41989",
+        "isoDate": "2026-09-27T20:50:36.000Z"
+      },
+      "imageDescribedAt": "2026-09-28T00:03:16.330Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18294/4b1d008c2a4d70a8-aba8e9cf4110.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41988",
+      "publishedAt": "2026-09-27T20:51:21.000Z",
+      "title": "[No Title] - Post from September 27, 2026",
+      "text": "[Image] Donald Trump and Xi Jinping walk side by side through a bright, columned White House corridor. Xi gestures toward a wall displaying framed black-and-white portraits, gold decorative ornaments, and dark plaques with text. Trump wears a dark suit with a pink tie, while Xi wears a dark suit with a red tie. Manicured gardens are visible beyond the columns.",
+      "url": "https://www.trumpstruth.org/statuses/41988",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 27, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41988",
+        "pubDate": "Sun, 27 Sep 2026 20:51:21 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41988",
+        "isoDate": "2026-09-27T20:51:21.000Z"
+      },
+      "imageDescribedAt": "2026-09-28T00:03:14.107Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18293/83568a756f902444-0560050b1fd0.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41987",
+      "publishedAt": "2026-09-27T20:51:29.000Z",
+      "title": "[No Title] - Post from September 27, 2026",
+      "text": "[Image] Donald Trump and Chinese President Xi Jinping stand together in a formal room decorated with Chinese and American flags. Trump is seen from behind, extending a hand toward Xi, who is clapping. Melania Trump sits beside a podium bearing the U.S. presidential seal, also applauding. Ornate chairs, dark curtains, and diplomatic decor fill the background.",
+      "url": "https://www.trumpstruth.org/statuses/41987",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 27, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41987",
+        "pubDate": "Sun, 27 Sep 2026 20:51:29 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41987",
+        "isoDate": "2026-09-27T20:51:29.000Z"
+      },
+      "imageDescribedAt": "2026-09-28T00:03:11.142Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18292/9d82df6c6e49c58e-7157ebc753d3.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41986",
+      "publishedAt": "2026-09-27T20:51:40.000Z",
+      "title": "[No Title] - Post from September 27, 2026",
+      "text": "[Image] A U.S. presidential helicopter marked “United States of America” is parked on the White House lawn, with its side door open and an American flag emblem on the fuselage. Several suited officials stand beside it with a uniformed Marine guard. The Washington Monument and Jefferson Memorial are visible in the landscaped background.",
+      "url": "https://www.trumpstruth.org/statuses/41986",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 27, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41986",
+        "pubDate": "Sun, 27 Sep 2026 20:51:40 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41986",
+        "isoDate": "2026-09-27T20:51:40.000Z"
+      },
+      "imageDescribedAt": "2026-09-28T00:03:08.662Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18291/0be0352ad16dbfe2-041cd62e77b6.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41985",
+      "publishedAt": "2026-09-27T20:51:47.000Z",
+      "title": "[No Title] - Post from September 27, 2026",
+      "text": "[Image] A United States government helicopter rests on a circular presidential seal landing pad on the White House South Lawn. The Washington Monument rises in the background, with the Jefferson Memorial visible beyond the trees. The landscaped grounds are neatly trimmed under a cloudy sky, and no people are visible.",
+      "url": "https://www.trumpstruth.org/statuses/41985",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 27, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41985",
+        "pubDate": "Sun, 27 Sep 2026 20:51:47 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41985",
+        "isoDate": "2026-09-27T20:51:47.000Z"
+      },
+      "imageDescribedAt": "2026-09-28T00:03:05.173Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18290/24c522a2f56295bb-9461a2dbd47f.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41984",
+      "publishedAt": "2026-09-27T20:51:58.000Z",
+      "title": "[No Title] - Post from September 27, 2026",
+      "text": "[Image] Donald Trump and Melania Trump stand beside Chinese President Xi Jinping and Peng Liyuan in an ornate room filled with framed portraits, gilded decorations, lamps, and cream-colored sofas. Trump gives a thumbs-up while the others face the camera. A model aircraft rests on a polished table bearing the presidential seal.",
+      "url": "https://www.trumpstruth.org/statuses/41984",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 27, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41984",
+        "pubDate": "Sun, 27 Sep 2026 20:51:58 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41984",
+        "isoDate": "2026-09-27T20:51:58.000Z"
+      },
+      "imageDescribedAt": "2026-09-28T00:03:02.832Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18289/d18b12036ca5928a-3cc6892b36e4.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41991",
+      "publishedAt": "2026-09-27T21:10:18.000Z",
+      "title": "[No Title] - Post from September 27, 2026",
+      "text": "[Image] Donald Trump and Chinese President Xi Jinping stand on the White House steps with Melania Trump and Peng Liyuan. U.S. and Chinese flags flank the entrance beneath a sign reading “The Oval Office.” Two ceremonial guards in red uniforms are in the foreground, one carrying a rifle with a fixed bayonet.",
+      "url": "https://www.trumpstruth.org/statuses/41991",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 27, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41991",
+        "pubDate": "Sun, 27 Sep 2026 21:10:18 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41991",
+        "isoDate": "2026-09-27T21:10:18.000Z"
+      },
+      "imageDescribedAt": "2026-09-28T00:03:00.244Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18296/87687c49812bf17b-df2ff2486572.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41996",
+      "publishedAt": "2026-09-27T21:35:58.000Z",
+      "title": "[No Title] - Post from September 27, 2026",
+      "text": "[Image] Donald Trump walks beside Chinese President Xi Jinping on a marked tarmac in front of a dark green U.S. government helicopter bearing an American flag and the words “UNITED STATES OF AMERICA.” Both wear dark suits and ties, while another suited official follows behind them. The helicopter’s open side door and landing gear are visible.",
+      "url": "https://www.trumpstruth.org/statuses/41996",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 27, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41996",
+        "pubDate": "Sun, 27 Sep 2026 21:35:58 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41996",
+        "isoDate": "2026-09-27T21:35:58.000Z"
+      },
+      "imageDescribedAt": "2026-09-28T00:02:58.087Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18301/3826b8f99055aa3b-ef1b55548d8f.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41995",
+      "publishedAt": "2026-09-27T21:36:06.000Z",
+      "title": "[No Title] - Post from September 27, 2026",
+      "text": "[Image] Donald Trump and Chinese President Xi Jinping stand together on a paved area marked with large white stars and directional arrows. Trump, wearing a dark suit and red tie, gestures toward Xi, who carries a briefcase and wears a matching suit and red tie. A third suited man holding papers stands beside them, with a strip of grass visible at the edge.",
+      "url": "https://www.trumpstruth.org/statuses/41995",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 27, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41995",
+        "pubDate": "Sun, 27 Sep 2026 21:36:06 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41995",
+        "isoDate": "2026-09-27T21:36:06.000Z"
+      },
+      "imageDescribedAt": "2026-09-28T00:02:55.897Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18300/e8dd900121e5d6b8-3183932b4f3d.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41994",
+      "publishedAt": "2026-09-27T21:36:16.000Z",
+      "title": "[No Title] - Post from September 27, 2026",
+      "text": "[Image] Donald Trump stands beside Marine One, gesturing while speaking with Xi Jinping, who wears a dark suit and red tie. Two other suited officials stand nearby, one holding documents. A U.S. Marine in dress uniform salutes at the helicopter’s open doorway. The green aircraft displays the presidential seal and “United States of America.”",
+      "url": "https://www.trumpstruth.org/statuses/41994",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 27, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41994",
+        "pubDate": "Sun, 27 Sep 2026 21:36:16 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41994",
+        "isoDate": "2026-09-27T21:36:16.000Z"
+      },
+      "imageDescribedAt": "2026-09-28T00:02:53.734Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18299/355b0012747269a4-d6662d6294a2.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41993",
+      "publishedAt": "2026-09-27T21:36:26.000Z",
+      "title": "[No Title] - Post from September 27, 2026",
+      "text": "[Image] Donald Trump speaks with Chinese President Xi Jinping beside Marine One, a dark green presidential helicopter, on a helipad. Two other officials stand nearby, while a U.S. Marine in dress uniform salutes beside the open aircraft door. The helicopter bears the presidential seal, and a crew member is visible through the cockpit window.",
+      "url": "https://www.trumpstruth.org/statuses/41993",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 27, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41993",
+        "pubDate": "Sun, 27 Sep 2026 21:36:26 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41993",
+        "isoDate": "2026-09-27T21:36:26.000Z"
+      },
+      "imageDescribedAt": "2026-09-28T00:02:50.132Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18298/7114dc441ade602f-77a4c6fb7657.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41992",
+      "publishedAt": "2026-09-27T21:36:35.000Z",
+      "title": "[No Title] - Post from September 27, 2026",
+      "text": "[Image] Donald Trump stands on a paved driveway, gesturing while speaking with two Asian officials in dark suits. Another suited official carrying a briefcase stands beside them. Several more officials, mostly Asian men, gather near a building in the background, with a lawn and trees visible behind them. All appear to be attending a formal diplomatic event.",
+      "url": "https://www.trumpstruth.org/statuses/41992",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 27, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41992",
+        "pubDate": "Sun, 27 Sep 2026 21:36:35 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41992",
+        "isoDate": "2026-09-27T21:36:35.000Z"
+      },
+      "imageDescribedAt": "2026-09-28T00:02:47.609Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18297/907170f4022d0a55-f3d02c2d3008.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41998",
+      "publishedAt": "2026-09-27T21:36:48.000Z",
+      "title": "[No Title] - Post from September 27, 2026",
+      "text": "[Image] Donald Trump and Chinese President Xi Jinping walk side by side across a large helipad marked with stars and military insignia. A third suited official walks between them. Behind them is a dark green aircraft or helicopter bearing the words “UNITED STATES OF AMERICA,” with landing gear and cameras visible. Both leaders wear dark suits and red ties.",
+      "url": "https://www.trumpstruth.org/statuses/41998",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 27, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41998",
+        "pubDate": "Sun, 27 Sep 2026 21:36:48 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41998",
+        "isoDate": "2026-09-27T21:36:48.000Z"
+      },
+      "imageDescribedAt": "2026-09-28T00:02:44.854Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18303/6823b5676de121b5-eb69571fae24.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41997",
+      "publishedAt": "2026-09-27T21:36:53.000Z",
+      "title": "[No Title] - Post from September 27, 2026",
+      "text": "[Image] Donald Trump walks beside Chinese President Xi Jinping, gesturing toward something off frame. Both wear dark suits and ties as they move across a paved area. Several Chinese officials follow behind them, with a small pavilion, trees, and a large tree trunk visible in the background. A few officials wear red circular pins on their jackets.",
+      "url": "https://www.trumpstruth.org/statuses/41997",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 27, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41997",
+        "pubDate": "Sun, 27 Sep 2026 21:36:53 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41997",
+        "isoDate": "2026-09-27T21:36:53.000Z"
+      },
+      "imageDescribedAt": "2026-09-28T00:02:42.058Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18302/ce0ec0eb2d17f3f2-615d8c4dc42e.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/41999",
+      "publishedAt": "2026-09-27T22:08:20.000Z",
+      "title": "[No Title] - Post from September 27, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/41999",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 27, 2026",
+        "link": "https://www.trumpstruth.org/statuses/41999",
+        "pubDate": "Sun, 27 Sep 2026 22:08:20 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/41999",
+        "isoDate": "2026-09-27T22:08:20.000Z"
       }
     }
   ],
@@ -219,6 +601,108 @@
       "label": "neutral",
       "rationale": "The text is empty and expresses no sentiment.",
       "analyzedAt": "2026-09-27T20:02:00.193Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41983",
+      "label": "neutral",
+      "rationale": "Describes a map and the proposed “TRUMP STRAIT” label without explicit sentiment.",
+      "analyzedAt": "2026-09-28T00:03:30.254Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41984",
+      "label": "neutral",
+      "rationale": "Describes a posed diplomatic group photograph in factual terms.",
+      "analyzedAt": "2026-09-28T00:03:30.254Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41985",
+      "label": "neutral",
+      "rationale": "Describes a helicopter and Washington landmarks without sentiment.",
+      "analyzedAt": "2026-09-28T00:03:30.254Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41986",
+      "label": "neutral",
+      "rationale": "Factual description of a presidential helicopter and officials.",
+      "analyzedAt": "2026-09-28T00:03:30.254Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41987",
+      "label": "neutral",
+      "rationale": "Describes an applauding diplomatic gathering without evaluative language.",
+      "analyzedAt": "2026-09-28T00:03:30.254Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41988",
+      "label": "neutral",
+      "rationale": "Factual description of Trump and Xi walking through a White House corridor.",
+      "analyzedAt": "2026-09-28T00:03:30.254Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41989",
+      "label": "neutral",
+      "rationale": "Describes a formal group appearance with national flags and no sentiment.",
+      "analyzedAt": "2026-09-28T00:03:30.254Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41990",
+      "label": "neutral",
+      "rationale": "Depicts a ceremonial salute and military procession without evaluation.",
+      "analyzedAt": "2026-09-28T00:03:30.254Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41991",
+      "label": "neutral",
+      "rationale": "Depicts a formal state ceremony without positive or negative commentary.",
+      "analyzedAt": "2026-09-28T00:03:30.254Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41992",
+      "label": "neutral",
+      "rationale": "Depicts a formal diplomatic interaction without expressed sentiment.",
+      "analyzedAt": "2026-09-28T00:03:30.254Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41993",
+      "label": "neutral",
+      "rationale": "Describes a diplomatic meeting and ceremonial salute in factual terms.",
+      "analyzedAt": "2026-09-28T00:03:30.254Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41994",
+      "label": "neutral",
+      "rationale": "Factual depiction of Trump, Xi, and Marine One with no sentiment.",
+      "analyzedAt": "2026-09-28T00:03:30.254Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41995",
+      "label": "neutral",
+      "rationale": "Describes the leaders standing together on a marked paved area without evaluation.",
+      "analyzedAt": "2026-09-28T00:03:30.254Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41996",
+      "label": "neutral",
+      "rationale": "Factual description of Trump and Xi walking near a government helicopter.",
+      "analyzedAt": "2026-09-28T00:03:30.254Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41997",
+      "label": "neutral",
+      "rationale": "Describes a formal walk between Trump and Xi without evaluative language.",
+      "analyzedAt": "2026-09-28T00:03:30.254Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41998",
+      "label": "neutral",
+      "rationale": "Provides a factual description of leaders walking near a U.S. aircraft.",
+      "analyzedAt": "2026-09-28T00:03:30.254Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/41999",
+      "label": "neutral",
+      "rationale": "No text or sentiment is provided.",
+      "analyzedAt": "2026-09-28T00:03:30.254Z"
     }
   ]
 }
