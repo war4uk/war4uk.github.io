@@ -2,16 +2,21 @@
   "date": "2026-09-28",
   "counts": {
     "positive": 0,
-    "neutral": 1,
+    "neutral": 8,
     "negative": 0
   },
-  "summary": "positive:0 neutral:1 negative:0",
-  "generatedAt": "2026-09-28T04:03:48.541Z",
+  "summary": "positive:0 neutral:8 negative:0",
+  "generatedAt": "2026-09-28T08:03:04.256Z",
   "topics": [
-    "Graphic portrays Donald Trump with the Western Hemisphere under the banner \"His Hemisphere\""
+    "Shares “His Hemisphere” graphic depicting Donald Trump over a globe"
   ],
-  "trendingTopic": "Graphic portrays Donald Trump alongside a globe under the banner \"His Hemisphere\"",
+  "trendingTopic": "Donald Trump is depicted over a globe in a graphic titled “His Hemisphere”",
   "selfPraiseCount": 1,
+  "topicsCacheKey": "day-themes-v11:8:e66aa4dd6d52c87717c2d7b6",
+  "selfPraiseCacheKey": "self-praise-v2:8:e66aa4dd6d52c87717c2d7b6",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/42000"
+  ],
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/42000",
@@ -34,6 +39,132 @@
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18305/b1ea04f9ec340268-bb64e7e188b4.jpg"
       ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42001",
+      "publishedAt": "2026-09-28T04:25:05.000Z",
+      "title": "[No Title] - Post from September 28, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42001",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 28, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42001",
+        "pubDate": "Mon, 28 Sep 2026 04:25:05 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42001",
+        "isoDate": "2026-09-28T04:25:05.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42007",
+      "publishedAt": "2026-09-28T04:26:44.000Z",
+      "title": "[No Title] - Post from September 28, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42007",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 28, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42007",
+        "pubDate": "Mon, 28 Sep 2026 04:26:44 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42007",
+        "isoDate": "2026-09-28T04:26:44.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42006",
+      "publishedAt": "2026-09-28T04:26:58.000Z",
+      "title": "[No Title] - Post from September 28, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42006",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 28, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42006",
+        "pubDate": "Mon, 28 Sep 2026 04:26:58 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42006",
+        "isoDate": "2026-09-28T04:26:58.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42005",
+      "publishedAt": "2026-09-28T04:27:32.000Z",
+      "title": "[No Title] - Post from September 28, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42005",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 28, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42005",
+        "pubDate": "Mon, 28 Sep 2026 04:27:32 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42005",
+        "isoDate": "2026-09-28T04:27:32.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42004",
+      "publishedAt": "2026-09-28T04:27:49.000Z",
+      "title": "[No Title] - Post from September 28, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42004",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 28, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42004",
+        "pubDate": "Mon, 28 Sep 2026 04:27:49 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42004",
+        "isoDate": "2026-09-28T04:27:49.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42003",
+      "publishedAt": "2026-09-28T04:28:13.000Z",
+      "title": "[No Title] - Post from September 28, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42003",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 28, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42003",
+        "pubDate": "Mon, 28 Sep 2026 04:28:13 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42003",
+        "isoDate": "2026-09-28T04:28:13.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42002",
+      "publishedAt": "2026-09-28T04:29:12.000Z",
+      "title": "[No Title] - Post from September 28, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42002",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 28, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42002",
+        "pubDate": "Mon, 28 Sep 2026 04:29:12 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42002",
+        "isoDate": "2026-09-28T04:29:12.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -42,12 +173,49 @@
       "label": "neutral",
       "rationale": "The description presents a political graphic featuring Donald Trump and the phrase “His Hemisphere,” but does not express a clearly positive or negative sentiment.",
       "analyzedAt": "2026-09-28T04:03:39.685Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42001",
+      "label": "neutral",
+      "rationale": "The text is empty and contains no sentiment.",
+      "analyzedAt": "2026-09-28T08:02:56.111Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42002",
+      "label": "neutral",
+      "rationale": "The text is empty and contains no sentiment.",
+      "analyzedAt": "2026-09-28T08:02:56.111Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42003",
+      "label": "neutral",
+      "rationale": "The text is empty and contains no sentiment.",
+      "analyzedAt": "2026-09-28T08:02:56.111Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42004",
+      "label": "neutral",
+      "rationale": "The text is empty and contains no sentiment.",
+      "analyzedAt": "2026-09-28T08:02:56.111Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42005",
+      "label": "neutral",
+      "rationale": "The text is empty and contains no sentiment.",
+      "analyzedAt": "2026-09-28T08:02:56.111Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42006",
+      "label": "neutral",
+      "rationale": "The text is empty and contains no sentiment.",
+      "analyzedAt": "2026-09-28T08:02:56.111Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42007",
+      "label": "neutral",
+      "rationale": "The text is empty and contains no sentiment.",
+      "analyzedAt": "2026-09-28T08:02:56.111Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v11:1:d026ff1d2629c33bc53e97e2",
-  "selfPraiseCacheKey": "self-praise-v2:1:d026ff1d2629c33bc53e97e2",
-  "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/42000"
   ],
   "secondaryHighlights": [
     {
