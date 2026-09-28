@@ -741,7 +741,7 @@
       ],
       "postsCount": 25,
       "hasDetail": true,
-      "generatedAt": "2026-09-28T08:02:46.953Z",
+      "generatedAt": "2026-09-28T12:03:47.828Z",
       "trendingTopic": "Donald Trump hosts Xi Jinping for a formal White House state visit and diplomatic meetings",
       "secondaryHighlights": [
         {
@@ -759,39 +759,46 @@
     {
       "date": "2026-09-28",
       "counts": {
-        "positive": 0,
-        "neutral": 8,
-        "negative": 0
+        "positive": 4,
+        "neutral": 9,
+        "negative": 4
       },
-      "summary": "positive:0 neutral:8 negative:0",
+      "summary": "positive:4 neutral:9 negative:4",
       "topics": [
-        "Shares “His Hemisphere” graphic depicting Donald Trump over a globe"
+        "Supreme Court reinstates Trump administration voter-citizenship verification rules",
+        "Justice Department charges four Pennsylvania migrants with election fraud",
+        "Trump pledges financial support for Republicans in the upcoming midterm elections"
       ],
-      "postsCount": 8,
+      "postsCount": 17,
       "hasDetail": true,
-      "generatedAt": "2026-09-28T08:03:04.256Z",
-      "trendingTopic": "Donald Trump is depicted over a globe in a graphic titled “His Hemisphere”",
+      "generatedAt": "2026-09-28T12:04:29.222Z",
+      "trendingTopic": "Supreme Court reinstates Trump administration voter-citizenship verification rules",
       "secondaryHighlights": [
         {
-          "topic": "[Image] A graphic depicts Donald Trump in a black-and-white close-up, partially obscured behind a large globe centered on the Arctic and North Atlantic."
+          "topic": "Justice Department charges four Pennsylvania migrants with election fraud"
+        },
+        {
+          "topic": "Trump touts historically strong U.S. employment numbers"
+        },
+        {
+          "topic": "Trump criticizes local prosecutors for shielding noncitizens from immigration consequences"
         }
       ],
-      "selfPraiseCount": 1
+      "selfPraiseCount": 4
     }
   ],
-  "generatedAt": "2026-09-28T08:03:04.256Z",
-  "trendingTopic": "Trump touts record incomes, low poverty, and strong economic gains",
+  "generatedAt": "2026-09-28T12:04:29.222Z",
+  "trendingTopic": "Trump touts strong jobs, incomes, low poverty, and improving prices",
   "secondaryHighlights": [
     {
-      "topic": "Trump battles CNN, Politico, and MS NOW over White House press access"
+      "topic": "Trump expands U.S. artificial-intelligence leadership while dismissing catastrophic-risk warnings"
     },
     {
-      "topic": "Trump hosts Xi Jinping for a White House state visit and U.S.-China meetings",
-      "name": "Xi Jinping"
+      "topic": "Trump hosts Xi Jinping for a White House state visit and discusses U.S.-China ties"
     },
     {
-      "topic": "Trump expands U.S. artificial-intelligence infrastructure and creates an AI Force"
+      "topic": "Trump endorses candidates across congressional, Senate, gubernatorial, and state races"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:28:3419c34623912f06a82e4dfb"
+  "topicsCacheKey": "month-themes-v5:28:759543f05597aef88c165aa0"
 }
