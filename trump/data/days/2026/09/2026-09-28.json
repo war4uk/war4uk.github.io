@@ -2,13 +2,56 @@
   "date": "2026-09-28",
   "counts": {
     "positive": 0,
-    "neutral": 0,
+    "neutral": 1,
     "negative": 0
   },
-  "summary": "positive:0 neutral:0 negative:0",
-  "generatedAt": "2026-09-28T00:03:33.368Z",
-  "topics": [],
-  "selfPraiseCount": 0,
-  "posts": [],
-  "sentiments": []
+  "summary": "positive:0 neutral:1 negative:0",
+  "generatedAt": "2026-09-28T04:03:48.541Z",
+  "topics": [
+    "Graphic portrays Donald Trump with the Western Hemisphere under the banner \"His Hemisphere\""
+  ],
+  "trendingTopic": "Graphic portrays Donald Trump alongside a globe under the banner \"His Hemisphere\"",
+  "selfPraiseCount": 1,
+  "posts": [
+    {
+      "id": "https://www.trumpstruth.org/statuses/42000",
+      "publishedAt": "2026-09-28T01:33:57.000Z",
+      "title": "[No Title] - Post from September 28, 2026",
+      "text": "[Image] A graphic depicts Donald Trump in a black-and-white close-up, partially obscured behind a large globe centered on the Arctic and North Atlantic. Red and pink concentric arcs form the background, while large red text at the top reads “His Hemisphere.”",
+      "url": "https://www.trumpstruth.org/statuses/42000",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 28, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42000",
+        "pubDate": "Mon, 28 Sep 2026 01:33:57 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42000",
+        "isoDate": "2026-09-28T01:33:57.000Z"
+      },
+      "imageDescribedAt": "2026-09-28T04:03:37.521Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18305/b1ea04f9ec340268-bb64e7e188b4.jpg"
+      ]
+    }
+  ],
+  "sentiments": [
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42000",
+      "label": "neutral",
+      "rationale": "The description presents a political graphic featuring Donald Trump and the phrase “His Hemisphere,” but does not express a clearly positive or negative sentiment.",
+      "analyzedAt": "2026-09-28T04:03:39.685Z"
+    }
+  ],
+  "topicsCacheKey": "day-themes-v11:1:d026ff1d2629c33bc53e97e2",
+  "selfPraiseCacheKey": "self-praise-v2:1:d026ff1d2629c33bc53e97e2",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/42000"
+  ],
+  "secondaryHighlights": [
+    {
+      "topic": "[Image] A graphic depicts Donald Trump in a black-and-white close-up, partially obscured behind a large globe centered on the Arctic and North Atlantic."
+    }
+  ]
 }

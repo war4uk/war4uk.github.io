@@ -741,7 +741,7 @@
       ],
       "postsCount": 25,
       "hasDetail": true,
-      "generatedAt": "2026-09-28T00:03:49.303Z",
+      "generatedAt": "2026-09-28T04:03:31.794Z",
       "trendingTopic": "Donald Trump hosts Xi Jinping for a formal White House state visit and diplomatic meetings",
       "secondaryHighlights": [
         {
@@ -760,30 +760,38 @@
       "date": "2026-09-28",
       "counts": {
         "positive": 0,
-        "neutral": 0,
+        "neutral": 1,
         "negative": 0
       },
-      "summary": "positive:0 neutral:0 negative:0",
-      "topics": [],
-      "postsCount": 0,
+      "summary": "positive:0 neutral:1 negative:0",
+      "topics": [
+        "Graphic portrays Donald Trump with the Western Hemisphere under the banner \"His Hemisphere\""
+      ],
+      "postsCount": 1,
       "hasDetail": true,
-      "generatedAt": "2026-09-28T00:03:33.368Z",
-      "selfPraiseCount": 0
+      "generatedAt": "2026-09-28T04:03:48.541Z",
+      "trendingTopic": "Graphic portrays Donald Trump alongside a globe under the banner \"His Hemisphere\"",
+      "secondaryHighlights": [
+        {
+          "topic": "[Image] A graphic depicts Donald Trump in a black-and-white close-up, partially obscured behind a large globe centered on the Arctic and North Atlantic."
+        }
+      ],
+      "selfPraiseCount": 1
     }
   ],
-  "generatedAt": "2026-09-28T00:03:49.303Z",
-  "trendingTopic": "Donald Trump defends military pressure on Iran while portraying its economy, oil exports, and strategic position as collapsing",
+  "generatedAt": "2026-09-28T04:03:48.541Z",
+  "trendingTopic": "Trump reshapes American landmarks and place names through grand construction, monuments, and renaming campaigns",
   "secondaryHighlights": [
     {
-      "topic": "Trump attacks CNN, Politico, MS NOW, and other outlets while restricting White House press access"
+      "topic": "Trump attacks CNN, MSNBC, and Politico while restricting White House press access"
     },
     {
-      "topic": "Trump endorses candidates across congressional, Senate, gubernatorial, and primary races"
-    },
-    {
-      "topic": "Donald Trump hosts Xi Jinping for a formal White House state visit and diplomatic meetings",
+      "topic": "Trump hosts Xi Jinping for a White House state visit and future U.S.-China talks",
       "name": "Xi Jinping"
+    },
+    {
+      "topic": "Trump endorses candidates across congressional, gubernatorial, and Senate races"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:27:57b9429c940be8ac8a2030e8"
+  "topicsCacheKey": "month-themes-v5:28:8d10adc0b1dbc7d840a92ac9"
 }
