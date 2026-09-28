@@ -3,30 +3,27 @@
   "counts": {
     "positive": 4,
     "neutral": 9,
-    "negative": 4
+    "negative": 5
   },
-  "summary": "positive:4 neutral:9 negative:4",
-  "generatedAt": "2026-09-28T12:04:29.222Z",
+  "summary": "positive:4 neutral:9 negative:5",
+  "generatedAt": "2026-09-28T16:04:51.047Z",
   "topics": [
-    "Supreme Court reinstates Trump administration voter-citizenship verification rules",
-    "Justice Department charges four Pennsylvania migrants with election fraud",
-    "Trump pledges financial support for Republicans in the upcoming midterm elections"
+    "Supreme Court reinstates Trump administration’s voter citizenship verification rules for federal elections",
+    "Trump attacks Bill Maher and Joe Scarborough over low ratings and weak Republican media outreach",
+    "Justice Department charges four noncitizens in Pennsylvania with election fraud"
   ],
-  "trendingTopic": "Supreme Court reinstates Trump administration voter-citizenship verification rules",
+  "trendingTopic": "Supreme Court reinstates Trump administration’s voter citizenship verification rules for federal elections",
   "secondaryHighlights": [
     {
-      "topic": "Justice Department charges four Pennsylvania migrants with election fraud"
+      "topic": "Trump attacks Bill Maher and Joe Scarborough over low ratings and weak Republican media outreach"
     },
     {
-      "topic": "Trump touts historically strong U.S. employment numbers"
-    },
-    {
-      "topic": "Trump criticizes local prosecutors for shielding noncitizens from immigration consequences"
+      "topic": "Justice Department charges four noncitizens in Pennsylvania with election fraud"
     }
   ],
   "selfPraiseCount": 4,
-  "topicsCacheKey": "day-themes-v11:17:8ad73169696c96a081a3f7b5",
-  "selfPraiseCacheKey": "self-praise-v2:17:8ad73169696c96a081a3f7b5",
+  "topicsCacheKey": "day-themes-v11:18:dad3c62e2d648933a6725abf",
+  "selfPraiseCacheKey": "self-praise-v2:18:dad3c62e2d648933a6725abf",
   "selfPraisePostIds": [
     "https://www.trumpstruth.org/statuses/42000",
     "https://www.trumpstruth.org/statuses/42011",
@@ -343,6 +340,24 @@
         "guid": "https://www.trumpstruth.org/statuses/42014",
         "isoDate": "2026-09-28T11:57:28.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42017",
+      "publishedAt": "2026-09-28T12:02:36.000Z",
+      "title": "Joe Scarborough’s show has been cut way back, and will soon be “dead!” Too predictable and boring! REALLY BAD RATINGS, just like the rest of MSNOW (MSDNC!). President DJT",
+      "text": "<p>Joe Scarborough’s show has been cut way back, and will soon be “dead!” Too predictable and boring! REALLY BAD RATINGS, just like the rest of MSNOW (MSDNC!). President DJT</p>",
+      "url": "https://www.trumpstruth.org/statuses/42017",
+      "raw": {
+        "creator": "",
+        "title": "Joe Scarborough’s show has been cut way back, and will soon be “dead!” Too predictable and boring! REALLY BAD RATINGS, just like the rest of MSNOW (MSDNC!). President DJT",
+        "link": "https://www.trumpstruth.org/statuses/42017",
+        "pubDate": "Mon, 28 Sep 2026 12:02:36 +0000",
+        "author": "",
+        "content": "<p>Joe Scarborough’s show has been cut way back, and will soon be “dead!” Too predictable and boring! REALLY BAD RATINGS, just like the rest of MSNOW (MSDNC!). President DJT</p>",
+        "contentSnippet": "Joe Scarborough’s show has been cut way back, and will soon be “dead!” Too predictable and boring! REALLY BAD RATINGS, just like the rest of MSNOW (MSDNC!). President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/42017",
+        "isoDate": "2026-09-28T12:02:36.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -447,6 +462,12 @@
       "label": "neutral",
       "rationale": "The post contains no substantive text.",
       "analyzedAt": "2026-09-28T12:04:05.273Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42017",
+      "label": "negative",
+      "rationale": "The text uses strongly derogatory language to criticize Joe Scarborough’s show and its ratings, calling it predictable, boring, and soon to be dead.",
+      "analyzedAt": "2026-09-28T16:04:31.001Z"
     }
   ]
 }

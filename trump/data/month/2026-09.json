@@ -741,7 +741,7 @@
       ],
       "postsCount": 25,
       "hasDetail": true,
-      "generatedAt": "2026-09-28T12:03:47.828Z",
+      "generatedAt": "2026-09-28T16:04:09.636Z",
       "trendingTopic": "Donald Trump hosts Xi Jinping for a formal White House state visit and diplomatic meetings",
       "secondaryHighlights": [
         {
@@ -761,44 +761,41 @@
       "counts": {
         "positive": 4,
         "neutral": 9,
-        "negative": 4
+        "negative": 5
       },
-      "summary": "positive:4 neutral:9 negative:4",
+      "summary": "positive:4 neutral:9 negative:5",
       "topics": [
-        "Supreme Court reinstates Trump administration voter-citizenship verification rules",
-        "Justice Department charges four Pennsylvania migrants with election fraud",
-        "Trump pledges financial support for Republicans in the upcoming midterm elections"
+        "Supreme Court reinstates Trump administration’s voter citizenship verification rules for federal elections",
+        "Trump attacks Bill Maher and Joe Scarborough over low ratings and weak Republican media outreach",
+        "Justice Department charges four noncitizens in Pennsylvania with election fraud"
       ],
-      "postsCount": 17,
+      "postsCount": 18,
       "hasDetail": true,
-      "generatedAt": "2026-09-28T12:04:29.222Z",
-      "trendingTopic": "Supreme Court reinstates Trump administration voter-citizenship verification rules",
+      "generatedAt": "2026-09-28T16:04:51.047Z",
+      "trendingTopic": "Supreme Court reinstates Trump administration’s voter citizenship verification rules for federal elections",
       "secondaryHighlights": [
         {
-          "topic": "Justice Department charges four Pennsylvania migrants with election fraud"
+          "topic": "Trump attacks Bill Maher and Joe Scarborough over low ratings and weak Republican media outreach"
         },
         {
-          "topic": "Trump touts historically strong U.S. employment numbers"
-        },
-        {
-          "topic": "Trump criticizes local prosecutors for shielding noncitizens from immigration consequences"
+          "topic": "Justice Department charges four noncitizens in Pennsylvania with election fraud"
         }
       ],
       "selfPraiseCount": 4
     }
   ],
-  "generatedAt": "2026-09-28T12:04:29.222Z",
-  "trendingTopic": "Trump touts strong jobs, incomes, low poverty, and improving prices",
+  "generatedAt": "2026-09-28T16:04:51.047Z",
+  "trendingTopic": "Trump defends the Iran war while portraying Iran as economically and militarily collapsing",
   "secondaryHighlights": [
     {
-      "topic": "Trump expands U.S. artificial-intelligence leadership while dismissing catastrophic-risk warnings"
+      "topic": "Trump hosts Xi Jinping for a White House state visit and U.S.-China meetings"
     },
     {
-      "topic": "Trump hosts Xi Jinping for a White House state visit and discusses U.S.-China ties"
+      "topic": "Trump endorses candidates and celebrates victories across congressional, Senate, gubernatorial, and primary races"
     },
     {
-      "topic": "Trump endorses candidates across congressional, Senate, gubernatorial, and state races"
+      "topic": "Trump promotes White House renovations, a ballroom, helipad, statues, and new Washington military projects"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:28:759543f05597aef88c165aa0"
+  "topicsCacheKey": "month-themes-v5:28:195b0b3ec7dada6dbdf86764"
 }
