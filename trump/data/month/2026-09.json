@@ -771,7 +771,7 @@
       ],
       "postsCount": 19,
       "hasDetail": true,
-      "generatedAt": "2026-09-29T00:04:14.222Z",
+      "generatedAt": "2026-09-29T04:01:20.303Z",
       "trendingTopic": "Supreme Court reinstates Trump-backed voter citizenship verification rules",
       "secondaryHighlights": [
         {
@@ -789,31 +789,38 @@
     {
       "date": "2026-09-29",
       "counts": {
-        "positive": 0,
-        "neutral": 0,
+        "positive": 1,
+        "neutral": 1,
         "negative": 0
       },
-      "summary": "positive:0 neutral:0 negative:0",
-      "topics": [],
-      "postsCount": 0,
+      "summary": "positive:1 neutral:1 negative:0",
+      "topics": [
+        "Senate passes the Protect College Sport Act 77-22, with Randy Levine praised for helping save college sports"
+      ],
+      "postsCount": 2,
       "hasDetail": true,
-      "generatedAt": "2026-09-29T00:03:57.871Z",
+      "generatedAt": "2026-09-29T04:01:35.123Z",
+      "trendingTopic": "Senate passes the Protect College Sport Act 77-22 to preserve college sports and universities",
+      "secondaryHighlights": [
+        {
+          "topic": "The Protect College Sport Act just passed in the U.S. Senate by a vote of 77-22"
+        }
+      ],
       "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-29T00:04:14.222Z",
-  "trendingTopic": "Trump escalates pressure on Iran while touting military gains, economic collapse, and negotiations",
+  "generatedAt": "2026-09-29T04:01:35.123Z",
+  "trendingTopic": "Trump presses Iran military campaign while touting its economic collapse and oil pressure",
   "secondaryHighlights": [
     {
-      "topic": "Trump hosts Xi Jinping for a White House state visit and advances U.S.-China ties",
-      "name": "Xi Jinping"
+      "topic": "Trump battles CNN, MSNBC, Politico, and other outlets over coverage and press access"
     },
     {
-      "topic": "Trump endorses candidates across congressional, Senate, gubernatorial, and primary races"
+      "topic": "Trump hosts Xi Jinping for an extended U.S.-China state visit"
     },
     {
-      "topic": "Trump promotes artificial intelligence leadership while dismissing catastrophic-risk warnings"
+      "topic": "Trump promotes artificial intelligence expansion while dismissing catastrophic-risk warnings"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:28:2545d93cfad9819951eac7fa"
+  "topicsCacheKey": "month-themes-v5:29:e9efa043900be70785533a38"
 }
