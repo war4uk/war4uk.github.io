@@ -6,7 +6,7 @@
     "negative": 0
   },
   "summary": "positive:2 neutral:2 negative:0",
-  "generatedAt": "2026-09-29T16:02:36.877Z",
+  "generatedAt": "2026-09-29T20:02:53.757Z",
   "topics": [
     "Celebrates Senate passage of the Protect College Sports Act by a 77-22 vote",
     "Praises an unnamed journalist"
@@ -79,7 +79,7 @@
       "id": "https://www.trumpstruth.org/statuses/42022",
       "publishedAt": "2026-09-29T15:54:42.000Z",
       "title": "[No Title] - Post from September 29, 2026",
-      "text": "<p></p>",
+      "text": "[Image] A seating chart for the “Super Intelligence Luncheon” in the East Room on Tuesday, September 29, 2026. It shows a long central table with guests listed on both sides, including Jeff Bezos, Satya Nadella, Mark Zuckerberg, Jensen Huang, Elon Musk, Sundar Pichai, Sam Altman, and Secretary Scott Bessent. Seats labeled VPOTUS and POTUS are highlighted or emphasized.",
       "url": "https://www.trumpstruth.org/statuses/42022",
       "raw": {
         "creator": "",
@@ -91,7 +91,11 @@
         "contentSnippet": "",
         "guid": "https://www.trumpstruth.org/statuses/42022",
         "isoDate": "2026-09-29T15:54:42.000Z"
-      }
+      },
+      "imageDescribedAt": "2026-09-29T20:02:53.314Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18316/b6475643d39f4b3f-e6818d0e27a4.jpg"
+      ]
     }
   ],
   "sentiments": [
