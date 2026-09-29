@@ -771,7 +771,7 @@
       ],
       "postsCount": 19,
       "hasDetail": true,
-      "generatedAt": "2026-09-29T12:02:33.232Z",
+      "generatedAt": "2026-09-29T16:02:19.266Z",
       "trendingTopic": "Supreme Court reinstates Trump-backed voter citizenship verification rules",
       "secondaryHighlights": [
         {
@@ -789,38 +789,40 @@
     {
       "date": "2026-09-29",
       "counts": {
-        "positive": 1,
-        "neutral": 1,
+        "positive": 2,
+        "neutral": 2,
         "negative": 0
       },
-      "summary": "positive:1 neutral:1 negative:0",
+      "summary": "positive:2 neutral:2 negative:0",
       "topics": [
-        "Senate passes the Protect College Sport Act 77-22, with Randy Levine praised for helping save college sports"
+        "Celebrates Senate passage of the Protect College Sports Act by a 77-22 vote",
+        "Praises an unnamed journalist"
       ],
-      "postsCount": 2,
+      "postsCount": 4,
       "hasDetail": true,
-      "generatedAt": "2026-09-29T12:02:36.357Z",
-      "trendingTopic": "Senate passes the Protect College Sport Act 77-22 to preserve college sports and universities",
+      "generatedAt": "2026-09-29T16:02:36.877Z",
+      "trendingTopic": "Senate passes the Protect College Sports Act 77-22, drawing praise for Randy Levine and supporters",
       "secondaryHighlights": [
         {
-          "topic": "The Protect College Sport Act just passed in the U.S. Senate by a vote of 77-22"
+          "topic": "Praises an unnamed journalist"
         }
       ],
       "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-29T12:02:36.357Z",
-  "trendingTopic": "Trump presses Iran military campaign while touting its economic collapse and oil pressure",
+  "generatedAt": "2026-09-29T16:02:36.877Z",
+  "trendingTopic": "Trump portrays Iran as collapsing while defending military pressure and control of regional oil routes",
   "secondaryHighlights": [
     {
-      "topic": "Trump battles CNN, MSNBC, Politico, and other outlets over coverage and press access"
+      "topic": "Trump hosts Xi Jinping for a White House state visit and advances U.S.-China ties",
+      "name": "Xi Jinping"
     },
     {
-      "topic": "Trump hosts Xi Jinping for an extended U.S.-China state visit"
+      "topic": "Trump endorses candidates across congressional, Senate, gubernatorial, and primary races"
     },
     {
-      "topic": "Trump promotes artificial intelligence expansion while dismissing catastrophic-risk warnings"
+      "topic": "Trump elevates the Dallas Republican convention ahead of the midterm elections"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:29:e9efa043900be70785533a38"
+  "topicsCacheKey": "month-themes-v5:29:ace040aa2eb0f1d5d14fb384"
 }
