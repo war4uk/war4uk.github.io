@@ -3,27 +3,30 @@
   "counts": {
     "positive": 4,
     "neutral": 9,
-    "negative": 5
+    "negative": 6
   },
-  "summary": "positive:4 neutral:9 negative:5",
-  "generatedAt": "2026-09-28T20:01:07.785Z",
+  "summary": "positive:4 neutral:9 negative:6",
+  "generatedAt": "2026-09-29T00:04:14.222Z",
   "topics": [
-    "Supreme Court reinstates Trump administration’s voter citizenship verification rules for federal elections",
-    "Trump attacks Bill Maher and Joe Scarborough over low ratings and weak Republican media outreach",
-    "Justice Department charges four noncitizens in Pennsylvania with election fraud"
+    "Supreme Court reinstates Trump-backed voter citizenship verification rules",
+    "Trump attacks low ratings of Bill Maher and Joe Scarborough shows",
+    "Posts highlight legal actions involving noncitizens and election fraud"
   ],
-  "trendingTopic": "Supreme Court reinstates Trump administration’s voter citizenship verification rules for federal elections",
+  "trendingTopic": "Supreme Court reinstates Trump-backed voter citizenship verification rules",
   "secondaryHighlights": [
     {
-      "topic": "Trump attacks Bill Maher and Joe Scarborough over low ratings and weak Republican media outreach"
+      "topic": "Fauci diary describes alarm over U.S. Army aerosolized Ebola testing"
     },
     {
-      "topic": "Justice Department charges four noncitizens in Pennsylvania with election fraud"
+      "topic": "Trump promotes Republican midterm prospects and pledges campaign spending"
+    },
+    {
+      "topic": "Trump denies offering Iran sanctions relief or access to frozen funds"
     }
   ],
   "selfPraiseCount": 4,
-  "topicsCacheKey": "day-themes-v11:18:dad3c62e2d648933a6725abf",
-  "selfPraiseCacheKey": "self-praise-v2:18:dad3c62e2d648933a6725abf",
+  "topicsCacheKey": "day-themes-v11:19:f81ed3ce09548f4839e93030",
+  "selfPraiseCacheKey": "self-praise-v2:19:f81ed3ce09548f4839e93030",
   "selfPraisePostIds": [
     "https://www.trumpstruth.org/statuses/42000",
     "https://www.trumpstruth.org/statuses/42011",
@@ -358,6 +361,24 @@
         "guid": "https://www.trumpstruth.org/statuses/42017",
         "isoDate": "2026-09-28T12:02:36.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42018",
+      "publishedAt": "2026-09-28T21:34:27.000Z",
+      "title": "Axios just released a story that “Trump” offered Sanctions Relief and Frozen Funds to Iran. This is untrue. I offered them NOTHING! Axios’ story, like most others, is a HOAX, used only for purposes of satisfying their Trump Derangement Syndrome. They should withdraw this fake story, IMMEDIATELY! President DONALD J. TRUMP",
+      "text": "<p>Axios just released a story that “Trump” offered Sanctions Relief and Frozen Funds to Iran. This is untrue. I offered them NOTHING! Axios’ story, like most others, is a HOAX, used only for purposes of satisfying their Trump Derangement Syndrome. They should withdraw this fake story, IMMEDIATELY! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/42018",
+      "raw": {
+        "creator": "",
+        "title": "Axios just released a story that “Trump” offered Sanctions Relief and Frozen Funds to Iran. This is untrue. I offered them NOTHING! Axios’ story, like most others, is a HOAX, used only for purposes of satisfying their Trump Derangement Syndrome. They should withdraw this fake story, IMMEDIATELY! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42018",
+        "pubDate": "Mon, 28 Sep 2026 21:34:27 +0000",
+        "author": "",
+        "content": "<p>Axios just released a story that “Trump” offered Sanctions Relief and Frozen Funds to Iran. This is untrue. I offered them NOTHING! Axios’ story, like most others, is a HOAX, used only for purposes of satisfying their Trump Derangement Syndrome. They should withdraw this fake story, IMMEDIATELY! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Axios just released a story that “Trump” offered Sanctions Relief and Frozen Funds to Iran. This is untrue. I offered them NOTHING! Axios’ story, like most others, is a HOAX, used only for purposes of satisfying their Trump Derangement Syndrome. They should withdraw this fake story, IMMEDIATELY! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42018",
+        "isoDate": "2026-09-28T21:34:27.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -468,6 +489,12 @@
       "label": "negative",
       "rationale": "The text uses strongly derogatory language to criticize Joe Scarborough’s show and its ratings, calling it predictable, boring, and soon to be dead.",
       "analyzedAt": "2026-09-28T16:04:31.001Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42018",
+      "label": "negative",
+      "rationale": "The text uses hostile and accusatory language, calling the report untrue, a hoax, and demanding its immediate withdrawal.",
+      "analyzedAt": "2026-09-29T00:03:55.452Z"
     }
   ]
 }
