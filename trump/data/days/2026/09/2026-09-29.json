@@ -6,12 +6,19 @@
     "negative": 0
   },
   "summary": "positive:1 neutral:1 negative:0",
-  "generatedAt": "2026-09-29T04:01:35.123Z",
+  "generatedAt": "2026-09-29T08:03:36.633Z",
   "topics": [
     "Senate passes the Protect College Sport Act 77-22, with Randy Levine praised for helping save college sports"
   ],
   "trendingTopic": "Senate passes the Protect College Sport Act 77-22 to preserve college sports and universities",
+  "secondaryHighlights": [
+    {
+      "topic": "The Protect College Sport Act just passed in the U.S. Senate by a vote of 77-22"
+    }
+  ],
   "selfPraiseCount": 0,
+  "topicsCacheKey": "day-themes-v11:2:e3297c7d960df41adbd2fd9a",
+  "selfPraiseCacheKey": "self-praise-v2:2:e3297c7d960df41adbd2fd9a",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/42019",
@@ -62,13 +69,6 @@
       "label": "neutral",
       "rationale": "The text contains no substantive content.",
       "analyzedAt": "2026-09-29T04:01:26.065Z"
-    }
-  ],
-  "topicsCacheKey": "day-themes-v11:2:e3297c7d960df41adbd2fd9a",
-  "selfPraiseCacheKey": "self-praise-v2:2:e3297c7d960df41adbd2fd9a",
-  "secondaryHighlights": [
-    {
-      "topic": "The Protect College Sport Act just passed in the U.S. Senate by a vote of 77-22"
     }
   ]
 }
