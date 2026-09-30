@@ -1,19 +1,32 @@
 {
   "date": "2026-09-30",
   "counts": {
-    "positive": 0,
+    "positive": 2,
     "neutral": 2,
-    "negative": 0
+    "negative": 1
   },
-  "summary": "positive:0 neutral:2 negative:0",
-  "generatedAt": "2026-09-30T16:02:59.151Z",
+  "summary": "positive:2 neutral:2 negative:1",
+  "generatedAt": "2026-09-30T20:01:22.573Z",
   "topics": [
-    "Shares purported White House order replacing “Artificial Intelligence” with “Super Intelligence”"
+    "Trump announces U.S. forces’ withdrawal from Iraq and declares victory over ISIS",
+    "Trump attacks Fox News for amplifying Democratic criticism of Republicans and his presidency",
+    "Trump touts strong national performance metrics while accusing media of suppressing them"
   ],
-  "trendingTopic": "Purported White House order directs agencies to replace “Artificial Intelligence” with “Super Intelligence”",
-  "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v11:2:638d50da559a264161d60e54",
-  "selfPraiseCacheKey": "self-praise-v2:2:638d50da559a264161d60e54",
+  "trendingTopic": "Trump announces the final withdrawal of American forces from Iraq after declaring ISIS defeated",
+  "secondaryHighlights": [
+    {
+      "topic": "Purported Trump executive order directs agencies to replace “Artificial Intelligence” with “Super Intelligence”"
+    },
+    {
+      "topic": "Trump attacks Fox News for amplifying Democratic criticism of Republicans and his presidency"
+    },
+    {
+      "topic": "Trump touts strong national performance metrics while accusing media of suppressing them"
+    }
+  ],
+  "selfPraiseCount": 3,
+  "topicsCacheKey": "day-themes-v11:5:49d0eecd2d5f5126211a4c83",
+  "selfPraiseCacheKey": "self-praise-v2:5:49d0eecd2d5f5126211a4c83",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/42026",
@@ -56,6 +69,60 @@
         "guid": "https://www.trumpstruth.org/statuses/42027",
         "isoDate": "2026-09-30T14:55:37.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42028",
+      "publishedAt": "2026-09-30T16:15:31.000Z",
+      "title": "Why does FoxNews always put Chuck Schumer, Hakeem Jeffries, Jessica Tarlov, and every Democrat on, saying bad things about the Republican Party and, of course, me? I actually think they get more airtime than Pro Republicans. This is why MAGA, and REAL Patriots, will never like Fox! They repeat a completely negative narrative, on and on it goes, and then we get a quick retort. It’s truly amazing that I won all three Elections. The opposition is enormous, but the fight goes on! President DONALD J. TRUMP",
+      "text": "<p>Why does FoxNews always put Chuck Schumer, Hakeem Jeffries, Jessica Tarlov, and every Democrat on, saying bad things about the Republican Party and, of course, me? I actually think they get more airtime than Pro Republicans. This is why MAGA, and REAL Patriots, will never like Fox! They repeat a completely negative narrative, on and on it goes, and then we get a quick retort. It’s truly amazing that I won all three Elections. The opposition is enormous, but the fight goes on! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/42028",
+      "raw": {
+        "creator": "",
+        "title": "Why does FoxNews always put Chuck Schumer, Hakeem Jeffries, Jessica Tarlov, and every Democrat on, saying bad things about the Republican Party and, of course, me? I actually think they get more airtime than Pro Republicans. This is why MAGA, and REAL Patriots, will never like Fox! They repeat a completely negative narrative, on and on it goes, and then we get a quick retort. It’s truly amazing that I won all three Elections. The opposition is enormous, but the fight goes on! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42028",
+        "pubDate": "Wed, 30 Sep 2026 16:15:31 +0000",
+        "author": "",
+        "content": "<p>Why does FoxNews always put Chuck Schumer, Hakeem Jeffries, Jessica Tarlov, and every Democrat on, saying bad things about the Republican Party and, of course, me? I actually think they get more airtime than Pro Republicans. This is why MAGA, and REAL Patriots, will never like Fox! They repeat a completely negative narrative, on and on it goes, and then we get a quick retort. It’s truly amazing that I won all three Elections. The opposition is enormous, but the fight goes on! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Why does FoxNews always put Chuck Schumer, Hakeem Jeffries, Jessica Tarlov, and every Democrat on, saying bad things about the Republican Party and, of course, me? I actually think they get more airtime than Pro Republicans. This is why MAGA, and REAL Patriots, will never like Fox! They repeat a completely negative narrative, on and on it goes, and then we get a quick retort. It’s truly amazing that I won all three Elections. The opposition is enormous, but the fight goes on! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42028",
+        "isoDate": "2026-09-30T16:15:31.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42029",
+      "publishedAt": "2026-09-30T16:54:55.000Z",
+      "title": "Our Nation is doing really well, in many ways, better than ever before, but the Public just doesn’t know how well we’re doing. The Fake News Media refuses to disseminate our Record Setting Numbers, so I’m doing the best I can to do it myself! President DONALD J. TRUMP",
+      "text": "<p>Our Nation is doing really well, in many ways, better than ever before, but the Public just doesn’t know how well we’re doing. The Fake News Media refuses to disseminate our Record Setting Numbers, so I’m doing the best I can to do it myself! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/42029",
+      "raw": {
+        "creator": "",
+        "title": "Our Nation is doing really well, in many ways, better than ever before, but the Public just doesn’t know how well we’re doing. The Fake News Media refuses to disseminate our Record Setting Numbers, so I’m doing the best I can to do it myself! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42029",
+        "pubDate": "Wed, 30 Sep 2026 16:54:55 +0000",
+        "author": "",
+        "content": "<p>Our Nation is doing really well, in many ways, better than ever before, but the Public just doesn’t know how well we’re doing. The Fake News Media refuses to disseminate our Record Setting Numbers, so I’m doing the best I can to do it myself! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Our Nation is doing really well, in many ways, better than ever before, but the Public just doesn’t know how well we’re doing. The Fake News Media refuses to disseminate our Record Setting Numbers, so I’m doing the best I can to do it myself! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42029",
+        "isoDate": "2026-09-30T16:54:55.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42030",
+      "publishedAt": "2026-09-30T17:17:33.000Z",
+      "title": "Today, I am pleased to announce, that the last American Forces are leaving Iraq! It has been a long time, with very bad decision-making that got us involved in this quagmire in the first place, but soon, that will be part of History. This is a Great Day for America and, importantly, we leave with Iraq having a wonderful new Prime Minister, Ali al-Zaidi, somebody I supported from the beginning and fully endorsed. He won an Election that he was not expected to win, and did so, in a landslide!Launched in 2003 under the presidency of George W. Bush, and continued under the Administration of Barack Hussein Obama in 2014, and Sleepy Joe Biden, Operation Inherent Resolve ends in 2026 under the leadership of President Donald J. Trump. This Day is a victory for the United States, a victory for Iraq, and a decisive victory over ISIS, which has been completely decimated by the Trump Administration, First Term, along with other very bad and dangerous players. Unlike Afghanistan, where much Military Equipment and everything else was left behind, and 13 Warriors lie dead, with many badly wounded, this orderly departure of Coalition forces and equipment from Erbil Air Base marks the end of a very expensive excursion into Hell. I set a clear mission, gave our Commanders the tools to finish it, and refused to let a temporary presence become a permanent one. I had a choice to stay or to leave, and felt, without question, that it was time for America to go home! Prime Minister al-Zaidi, is outstanding, and he will hopefully be able to handle things very well. We came to fight a caliphate. There is no longer a caliphate. We are going home! President DONALD J. TRUMP",
+      "text": "<p>Today, I am pleased to announce, that the last American Forces are leaving Iraq! It has been a long time, with very bad decision-making that got us involved in this quagmire in the first place, but soon, that will be part of History. This is a Great Day for America and, importantly, we leave with Iraq having a wonderful new Prime Minister, Ali al-Zaidi, somebody I supported from the beginning and fully endorsed. He won an Election that he was not expected to win, and did so, in a landslide!</p><p>Launched in 2003 under the presidency of George W. Bush, and continued under the Administration of Barack Hussein Obama in 2014, and Sleepy Joe Biden, Operation Inherent Resolve ends in 2026 under the leadership of President Donald J. Trump. This Day is a victory for the United States, a victory for Iraq, and a decisive victory over ISIS, which has been completely decimated by the Trump Administration, First Term, along with other very bad and dangerous players. Unlike Afghanistan, where much Military Equipment and everything else was left behind, and 13 Warriors lie dead, with many badly wounded, this orderly departure of Coalition forces and equipment from Erbil Air Base marks the end of a very expensive excursion into Hell. I set a clear mission, gave our Commanders the tools to finish it, and refused to let a temporary presence become a permanent one. I had a choice to stay or to leave, and felt, without question, that it was time for America to go home! Prime Minister al-Zaidi, is outstanding, and he will hopefully be able to handle things very well. We came to fight a caliphate. There is no longer a caliphate. We are going home! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/42030",
+      "raw": {
+        "creator": "",
+        "title": "Today, I am pleased to announce, that the last American Forces are leaving Iraq! It has been a long time, with very bad decision-making that got us involved in this quagmire in the first place, but soon, that will be part of History. This is a Great Day for America and, importantly, we leave with Iraq having a wonderful new Prime Minister, Ali al-Zaidi, somebody I supported from the beginning and fully endorsed. He won an Election that he was not expected to win, and did so, in a landslide!Launched in 2003 under the presidency of George W. Bush, and continued under the Administration of Barack Hussein Obama in 2014, and Sleepy Joe Biden, Operation Inherent Resolve ends in 2026 under the leadership of President Donald J. Trump. This Day is a victory for the United States, a victory for Iraq, and a decisive victory over ISIS, which has been completely decimated by the Trump Administration, First Term, along with other very bad and dangerous players. Unlike Afghanistan, where much Military Equipment and everything else was left behind, and 13 Warriors lie dead, with many badly wounded, this orderly departure of Coalition forces and equipment from Erbil Air Base marks the end of a very expensive excursion into Hell. I set a clear mission, gave our Commanders the tools to finish it, and refused to let a temporary presence become a permanent one. I had a choice to stay or to leave, and felt, without question, that it was time for America to go home! Prime Minister al-Zaidi, is outstanding, and he will hopefully be able to handle things very well. We came to fight a caliphate. There is no longer a caliphate. We are going home! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42030",
+        "pubDate": "Wed, 30 Sep 2026 17:17:33 +0000",
+        "author": "",
+        "content": "<p>Today, I am pleased to announce, that the last American Forces are leaving Iraq! It has been a long time, with very bad decision-making that got us involved in this quagmire in the first place, but soon, that will be part of History. This is a Great Day for America and, importantly, we leave with Iraq having a wonderful new Prime Minister, Ali al-Zaidi, somebody I supported from the beginning and fully endorsed. He won an Election that he was not expected to win, and did so, in a landslide!</p><p>Launched in 2003 under the presidency of George W. Bush, and continued under the Administration of Barack Hussein Obama in 2014, and Sleepy Joe Biden, Operation Inherent Resolve ends in 2026 under the leadership of President Donald J. Trump. This Day is a victory for the United States, a victory for Iraq, and a decisive victory over ISIS, which has been completely decimated by the Trump Administration, First Term, along with other very bad and dangerous players. Unlike Afghanistan, where much Military Equipment and everything else was left behind, and 13 Warriors lie dead, with many badly wounded, this orderly departure of Coalition forces and equipment from Erbil Air Base marks the end of a very expensive excursion into Hell. I set a clear mission, gave our Commanders the tools to finish it, and refused to let a temporary presence become a permanent one. I had a choice to stay or to leave, and felt, without question, that it was time for America to go home! Prime Minister al-Zaidi, is outstanding, and he will hopefully be able to handle things very well. We came to fight a caliphate. There is no longer a caliphate. We are going home! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Today, I am pleased to announce, that the last American Forces are leaving Iraq! It has been a long time, with very bad decision-making that got us involved in this quagmire in the first place, but soon, that will be part of History. This is a Great Day for America and, importantly, we leave with Iraq having a wonderful new Prime Minister, Ali al-Zaidi, somebody I supported from the beginning and fully endorsed. He won an Election that he was not expected to win, and did so, in a landslide!\nLaunched in 2003 under the presidency of George W. Bush, and continued under the Administration of Barack Hussein Obama in 2014, and Sleepy Joe Biden, Operation Inherent Resolve ends in 2026 under the leadership of President Donald J. Trump. This Day is a victory for the United States, a victory for Iraq, and a decisive victory over ISIS, which has been completely decimated by the Trump Administration, First Term, along with other very bad and dangerous players. Unlike Afghanistan, where much Military Equipment and everything else was left behind, and 13 Warriors lie dead, with many badly wounded, this orderly departure of Coalition forces and equipment from Erbil Air Base marks the end of a very expensive excursion into Hell. I set a clear mission, gave our Commanders the tools to finish it, and refused to let a temporary presence become a permanent one. I had a choice to stay or to leave, and felt, without question, that it was time for America to go home! Prime Minister al-Zaidi, is outstanding, and he will hopefully be able to handle things very well. We came to fight a caliphate. There is no longer a caliphate. We are going home! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42030",
+        "isoDate": "2026-09-30T17:17:33.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -70,11 +137,29 @@
       "label": "neutral",
       "rationale": "The text contains no substantive content or sentiment.",
       "analyzedAt": "2026-09-30T16:02:50.257Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42028",
+      "label": "negative",
+      "rationale": "Uses hostile and critical language toward Fox News, Democrats, and the opposition, portraying them as unfairly negative toward the Republican Party and the speaker.",
+      "analyzedAt": "2026-09-30T20:01:09.016Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42029",
+      "label": "positive",
+      "rationale": "Expresses strong optimism about the nation's performance and highlights record-setting numbers, despite criticizing the media for not reporting them.",
+      "analyzedAt": "2026-09-30T20:01:09.016Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42030",
+      "label": "positive",
+      "rationale": "Celebrates the end of U.S. forces' presence in Iraq as a victory for America and Iraq, praises the new prime minister, and emphasizes the defeat of ISIS and a successful departure.",
+      "analyzedAt": "2026-09-30T20:01:09.016Z"
     }
   ],
-  "secondaryHighlights": [
-    {
-      "topic": "[Image] Three scanned pages show a purported White House executive order titled “Inaugurating the Era of Super Intelligence,” dated September 29, 2026."
-    }
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/42028",
+    "https://www.trumpstruth.org/statuses/42029",
+    "https://www.trumpstruth.org/statuses/42030"
   ]
 }
