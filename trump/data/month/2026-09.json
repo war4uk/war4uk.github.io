@@ -801,7 +801,7 @@
       ],
       "postsCount": 7,
       "hasDetail": true,
-      "generatedAt": "2026-09-30T12:03:35.243Z",
+      "generatedAt": "2026-09-30T16:02:44.603Z",
       "trendingTopic": "Trump convenes tech leaders and signs White House accord on frontier artificial-intelligence responsibilities",
       "secondaryHighlights": [
         {
@@ -817,17 +817,17 @@
       "date": "2026-09-30",
       "counts": {
         "positive": 0,
-        "neutral": 1,
+        "neutral": 2,
         "negative": 0
       },
-      "summary": "positive:0 neutral:1 negative:0",
+      "summary": "positive:0 neutral:2 negative:0",
       "topics": [
-        "Purported White House executive order proposes replacing “artificial intelligence” with “super intelligence”"
+        "Shares purported White House order replacing “Artificial Intelligence” with “Super Intelligence”"
       ],
-      "postsCount": 1,
+      "postsCount": 2,
       "hasDetail": true,
-      "generatedAt": "2026-09-30T12:03:37.692Z",
-      "trendingTopic": "Purported White House executive order proposes replacing “artificial intelligence” with “super intelligence”",
+      "generatedAt": "2026-09-30T16:02:59.151Z",
+      "trendingTopic": "Purported White House order directs agencies to replace “Artificial Intelligence” with “Super Intelligence”",
       "secondaryHighlights": [
         {
           "topic": "[Image] Three scanned pages show a purported White House executive order titled “Inaugurating the Era of Super Intelligence,” dated September 29, 2026."
@@ -836,18 +836,18 @@
       "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-30T12:03:37.692Z",
-  "trendingTopic": "Trump portrays Iran as collapsing and claims control of the Strait of Hormuz",
+  "generatedAt": "2026-09-30T16:02:59.151Z",
+  "trendingTopic": "Trump portrays Iran as collapsing while claiming U.S. control of the Strait of Hormuz",
   "secondaryHighlights": [
     {
-      "topic": "Trump drives Republican midterm campaigns through endorsements, rallies, and convention events"
+      "topic": "Trump promotes artificial intelligence, creates an AI Force, and sets frontier-AI responsibilities"
     },
     {
-      "topic": "Trump attacks major news outlets and restricts White House press access"
+      "topic": "Trump hosts Xi Jinping for a White House state visit and advances U.S.-China ties"
     },
     {
-      "topic": "Trump promotes U.S. artificial-intelligence leadership while dismissing catastrophic-risk warnings"
+      "topic": "Trump endorses candidates across congressional, Senate, gubernatorial, and Republican primary races"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:30:d6e0d58af26fc91a8679e1a9"
+  "topicsCacheKey": "month-themes-v5:30:89f724fbdc80792fa224e05b"
 }

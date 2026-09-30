@@ -2,23 +2,18 @@
   "date": "2026-09-30",
   "counts": {
     "positive": 0,
-    "neutral": 1,
+    "neutral": 2,
     "negative": 0
   },
-  "summary": "positive:0 neutral:1 negative:0",
-  "generatedAt": "2026-09-30T12:03:37.692Z",
+  "summary": "positive:0 neutral:2 negative:0",
+  "generatedAt": "2026-09-30T16:02:59.151Z",
   "topics": [
-    "Purported White House executive order proposes replacing “artificial intelligence” with “super intelligence”"
+    "Shares purported White House order replacing “Artificial Intelligence” with “Super Intelligence”"
   ],
-  "trendingTopic": "Purported White House executive order proposes replacing “artificial intelligence” with “super intelligence”",
-  "secondaryHighlights": [
-    {
-      "topic": "[Image] Three scanned pages show a purported White House executive order titled “Inaugurating the Era of Super Intelligence,” dated September 29, 2026."
-    }
-  ],
+  "trendingTopic": "Purported White House order directs agencies to replace “Artificial Intelligence” with “Super Intelligence”",
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v11:1:5977ad84e16af804f0b22af1",
-  "selfPraiseCacheKey": "self-praise-v2:1:5977ad84e16af804f0b22af1",
+  "topicsCacheKey": "day-themes-v11:2:638d50da559a264161d60e54",
+  "selfPraiseCacheKey": "self-praise-v2:2:638d50da559a264161d60e54",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/42026",
@@ -43,6 +38,24 @@
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18321/ffa5a10b3c71fbc5-d2db81f08b85.jpg",
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18322/993bc6741ac7f2a8-ee6dfea1ffbe.jpg"
       ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42027",
+      "publishedAt": "2026-09-30T14:55:37.000Z",
+      "title": "[No Title] - Post from September 30, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42027",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 30, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42027",
+        "pubDate": "Wed, 30 Sep 2026 14:55:37 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42027",
+        "isoDate": "2026-09-30T14:55:37.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -51,6 +64,17 @@
       "label": "neutral",
       "rationale": "The text neutrally describes scanned pages and the contents of a purported executive order without expressing approval, criticism, or other sentiment.",
       "analyzedAt": "2026-09-30T04:01:50.484Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42027",
+      "label": "neutral",
+      "rationale": "The text contains no substantive content or sentiment.",
+      "analyzedAt": "2026-09-30T16:02:50.257Z"
+    }
+  ],
+  "secondaryHighlights": [
+    {
+      "topic": "[Image] Three scanned pages show a purported White House executive order titled “Inaugurating the Era of Super Intelligence,” dated September 29, 2026."
     }
   ]
 }
