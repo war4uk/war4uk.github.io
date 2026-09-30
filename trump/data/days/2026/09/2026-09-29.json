@@ -1,25 +1,29 @@
 {
   "date": "2026-09-29",
   "counts": {
-    "positive": 2,
-    "neutral": 2,
-    "negative": 0
+    "positive": 3,
+    "neutral": 3,
+    "negative": 1
   },
-  "summary": "positive:2 neutral:2 negative:0",
-  "generatedAt": "2026-09-29T20:02:53.757Z",
+  "summary": "positive:3 neutral:3 negative:1",
+  "generatedAt": "2026-09-30T00:04:27.463Z",
   "topics": [
-    "Celebrates Senate passage of the Protect College Sports Act by a 77-22 vote",
-    "Praises an unnamed journalist"
+    "Trump convenes tech leaders and signs White House accord on frontier artificial-intelligence responsibilities",
+    "U.S. military claims Iran has lost control of the Strait of Hormuz",
+    "Senate passes the Protect College Sports Act by a 77-22 vote"
   ],
-  "trendingTopic": "Senate passes the Protect College Sports Act 77-22, drawing praise for Randy Levine and supporters",
+  "trendingTopic": "Trump convenes tech leaders and signs White House accord on frontier artificial-intelligence responsibilities",
   "secondaryHighlights": [
     {
-      "topic": "Praises an unnamed journalist"
+      "topic": "U.S. military claims Iran has lost control of the Strait of Hormuz"
+    },
+    {
+      "topic": "Senate passes the Protect College Sports Act by a 77-22 vote"
     }
   ],
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v11:4:b74f28c6305a23b94abcc773",
-  "selfPraiseCacheKey": "self-praise-v2:4:b74f28c6305a23b94abcc773",
+  "topicsCacheKey": "day-themes-v11:7:1c610897df39a9544280d991",
+  "selfPraiseCacheKey": "self-praise-v2:7:1c610897df39a9544280d991",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/42019",
@@ -96,6 +100,69 @@
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18316/b6475643d39f4b3f-e6818d0e27a4.jpg"
       ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42024",
+      "publishedAt": "2026-09-29T20:59:54.000Z",
+      "title": "[No Title] - Post from September 29, 2026",
+      "text": "[Image] A screenshot of a post by Mark Dubowitz (@mdubowitz) states: “Admiral Cooper and the remarkable men and women of the U.S. military have won the Battle of Hormuz. The regime in Iran doesn’t control the Strait.” The post tags @centcomcdr and @CENTCOM and shows a timestamp of 7:14 AM on September 28, 2026, with 14.3K views.",
+      "url": "https://www.trumpstruth.org/statuses/42024",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 29, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42024",
+        "pubDate": "Tue, 29 Sep 2026 20:59:54 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42024",
+        "isoDate": "2026-09-29T20:59:54.000Z"
+      },
+      "imageDescribedAt": "2026-09-30T00:04:07.821Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18317/e234dfbee10abd07-f05b9363d577.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42023",
+      "publishedAt": "2026-09-29T21:00:34.000Z",
+      "title": "Iran Has Lost Control of the Strait:",
+      "text": "<p>Iran Has Lost Control of the Strait: <a href=\"https://x.com/BurggrabenH/status/2104361288000221497\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/BurggrabenH/status/21043</span><span class=\"invisible\">61288000221497</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/42023",
+      "raw": {
+        "creator": "",
+        "title": "Iran Has Lost Control of the Strait:",
+        "link": "https://www.trumpstruth.org/statuses/42023",
+        "pubDate": "Tue, 29 Sep 2026 21:00:34 +0000",
+        "author": "",
+        "content": "<p>Iran Has Lost Control of the Strait: <a href=\"https://x.com/BurggrabenH/status/2104361288000221497\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/BurggrabenH/status/21043</span><span class=\"invisible\">61288000221497</span></a></p>",
+        "contentSnippet": "Iran Has Lost Control of the Strait: https://x.com/BurggrabenH/status/2104361288000221497",
+        "guid": "https://www.trumpstruth.org/statuses/42023",
+        "isoDate": "2026-09-29T21:00:34.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42025",
+      "publishedAt": "2026-09-29T21:24:58.000Z",
+      "title": "[No Title] - Post from September 29, 2026",
+      "text": "[Image] Two-page document titled “White House Accord on Super Intelligence: Joint Commitment on Frontier Responsibilities.” It outlines safety controls, internal monitoring, independent audits, and board oversight for companies developing frontier AI. The signature page includes Donald Trump, Sundar Pichai, Dario Amodei, Mark Zuckerberg, Greg Brockman, Elon Musk, and Jensen Huang.",
+      "url": "https://www.trumpstruth.org/statuses/42025",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 29, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42025",
+        "pubDate": "Tue, 29 Sep 2026 21:24:58 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42025",
+        "isoDate": "2026-09-29T21:24:58.000Z"
+      },
+      "imageDescribedAt": "2026-09-30T00:04:04.688Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18318/f469ac2b8d8005a1-76682b650bd4.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18319/b209eb47b2729b10-8924f0119e00.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -122,6 +189,24 @@
       "label": "neutral",
       "rationale": "The text contains no substantive content or sentiment.",
       "analyzedAt": "2026-09-29T16:02:25.902Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42023",
+      "label": "negative",
+      "rationale": "States that Iran has lost control of the Strait, conveying a negative assessment of Iran's position.",
+      "analyzedAt": "2026-09-30T00:04:11.751Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42024",
+      "label": "positive",
+      "rationale": "Celebrates the U.S. military's claimed victory in the Battle of Hormuz and praises its personnel.",
+      "analyzedAt": "2026-09-30T00:04:11.751Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42025",
+      "label": "neutral",
+      "rationale": "Describes a joint AI safety agreement and its signatories in a factual, informational manner.",
+      "analyzedAt": "2026-09-30T00:04:11.751Z"
     }
   ]
 }

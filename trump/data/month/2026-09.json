@@ -789,40 +789,57 @@
     {
       "date": "2026-09-29",
       "counts": {
-        "positive": 2,
-        "neutral": 2,
-        "negative": 0
+        "positive": 3,
+        "neutral": 3,
+        "negative": 1
       },
-      "summary": "positive:2 neutral:2 negative:0",
+      "summary": "positive:3 neutral:3 negative:1",
       "topics": [
-        "Celebrates Senate passage of the Protect College Sports Act by a 77-22 vote",
-        "Praises an unnamed journalist"
+        "Trump convenes tech leaders and signs White House accord on frontier artificial-intelligence responsibilities",
+        "U.S. military claims Iran has lost control of the Strait of Hormuz",
+        "Senate passes the Protect College Sports Act by a 77-22 vote"
       ],
-      "postsCount": 4,
+      "postsCount": 7,
       "hasDetail": true,
-      "generatedAt": "2026-09-29T20:02:53.757Z",
-      "trendingTopic": "Senate passes the Protect College Sports Act 77-22, drawing praise for Randy Levine and supporters",
+      "generatedAt": "2026-09-30T00:04:27.463Z",
+      "trendingTopic": "Trump convenes tech leaders and signs White House accord on frontier artificial-intelligence responsibilities",
       "secondaryHighlights": [
         {
-          "topic": "Praises an unnamed journalist"
+          "topic": "U.S. military claims Iran has lost control of the Strait of Hormuz"
+        },
+        {
+          "topic": "Senate passes the Protect College Sports Act by a 77-22 vote"
         }
       ],
       "selfPraiseCount": 0
+    },
+    {
+      "date": "2026-09-30",
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "positive:0 neutral:0 negative:0",
+      "topics": [],
+      "postsCount": 0,
+      "hasDetail": true,
+      "generatedAt": "2026-09-30T00:04:14.101Z",
+      "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-29T20:02:53.757Z",
-  "trendingTopic": "Trump portrays Iran as collapsing while defending military pressure and control of regional oil routes",
+  "generatedAt": "2026-09-30T00:04:27.463Z",
+  "trendingTopic": "Trump claims Iran has lost control of the Strait of Hormuz amid military and economic pressure",
   "secondaryHighlights": [
     {
-      "topic": "Trump hosts Xi Jinping for a White House state visit and advances U.S.-China ties",
-      "name": "Xi Jinping"
+      "topic": "Trump hosts Xi Jinping for White House meetings, ceremonies, and state-visit celebrations"
     },
     {
-      "topic": "Trump endorses candidates across congressional, Senate, gubernatorial, and primary races"
+      "topic": "Trump promotes artificial-intelligence expansion while dismissing catastrophic-risk warnings"
     },
     {
-      "topic": "Trump elevates the Dallas Republican convention ahead of the midterm elections"
+      "topic": "Trump battles major news outlets over White House press access and coverage"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:29:ace040aa2eb0f1d5d14fb384"
+  "topicsCacheKey": "month-themes-v5:29:858e1d085d2075269677519b"
 }
