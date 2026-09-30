@@ -801,7 +801,7 @@
       ],
       "postsCount": 7,
       "hasDetail": true,
-      "generatedAt": "2026-09-30T00:04:27.463Z",
+      "generatedAt": "2026-09-30T04:01:41.051Z",
       "trendingTopic": "Trump convenes tech leaders and signs White House accord on frontier artificial-intelligence responsibilities",
       "secondaryHighlights": [
         {
@@ -817,29 +817,37 @@
       "date": "2026-09-30",
       "counts": {
         "positive": 0,
-        "neutral": 0,
+        "neutral": 1,
         "negative": 0
       },
-      "summary": "positive:0 neutral:0 negative:0",
-      "topics": [],
-      "postsCount": 0,
+      "summary": "positive:0 neutral:1 negative:0",
+      "topics": [
+        "Purported White House executive order proposes replacing “artificial intelligence” with “super intelligence”"
+      ],
+      "postsCount": 1,
       "hasDetail": true,
-      "generatedAt": "2026-09-30T00:04:14.101Z",
+      "generatedAt": "2026-09-30T04:01:59.211Z",
+      "trendingTopic": "Purported White House executive order proposes replacing “artificial intelligence” with “super intelligence”",
+      "secondaryHighlights": [
+        {
+          "topic": "[Image] Three scanned pages show a purported White House executive order titled “Inaugurating the Era of Super Intelligence,” dated September 29, 2026."
+        }
+      ],
       "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-09-30T00:04:27.463Z",
-  "trendingTopic": "Trump claims Iran has lost control of the Strait of Hormuz amid military and economic pressure",
+  "generatedAt": "2026-09-30T04:01:59.211Z",
+  "trendingTopic": "Trump portrays Iran as collapsing and claims control of the Strait of Hormuz",
   "secondaryHighlights": [
     {
-      "topic": "Trump hosts Xi Jinping for White House meetings, ceremonies, and state-visit celebrations"
+      "topic": "Trump drives Republican midterm campaigns through endorsements, rallies, and convention events"
     },
     {
-      "topic": "Trump promotes artificial-intelligence expansion while dismissing catastrophic-risk warnings"
+      "topic": "Trump attacks major news outlets and restricts White House press access"
     },
     {
-      "topic": "Trump battles major news outlets over White House press access and coverage"
+      "topic": "Trump promotes U.S. artificial-intelligence leadership while dismissing catastrophic-risk warnings"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:29:858e1d085d2075269677519b"
+  "topicsCacheKey": "month-themes-v5:30:d6e0d58af26fc91a8679e1a9"
 }
