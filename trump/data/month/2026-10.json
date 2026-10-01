@@ -4,47 +4,44 @@
     {
       "date": "2026-10-01",
       "counts": {
-        "positive": 11,
-        "neutral": 7,
+        "positive": 16,
+        "neutral": 11,
         "negative": 7
       },
-      "summary": "positive:11 neutral:7 negative:7",
+      "summary": "positive:16 neutral:11 negative:7",
       "topics": [
-        "Jack Smith faces allegations of privilege violations, media spying, and potential criminal prosecution",
-        "Trump administration finalizes lower fuel-economy standards, reducing costs and favoring gas-powered vehicles",
-        "Trump nominates Todd Butler and Philip Aubart to federal judgeships"
+        "Nominates three federal judges for courts in Mississippi and North Carolina",
+        "Jack Smith faces accusations of privilege violations, media spying, and calls for prosecution",
+        "Trump administration finalizes lower fuel-economy standards that reduce new-car costs"
       ],
-      "postsCount": 25,
+      "postsCount": 34,
       "hasDetail": true,
-      "generatedAt": "2026-10-01T16:01:47.510Z",
-      "trendingTopic": "Jack Smith’s team accused of violating privileges and spying on media while targeting Trump",
-      "trendingName": "Jack Smith",
+      "generatedAt": "2026-10-01T20:04:28.412Z",
+      "trendingTopic": "Trump nominates Todd Butler, Philip Aubart, and Brian Meyers to federal judgeships",
       "secondaryHighlights": [
         {
-          "topic": "I am pleased to announce the nomination of Philip Aubart to the United States District Court for the Middle District of North Carolina!",
-          "name": "Philip Aubart"
+          "topic": "Trump and Scott Bessent tout pressure on Iran as its economy and nuclear threat face collapse"
         },
         {
-          "topic": "Congratulations to the GREAT Boeing Company for producing a plane, the 737 Max, that was able to withstand G Forces and Strain far beyond what it was designed and expected to do."
+          "topic": "Trump administration cancels nearly $1 billion for illegal-immigrant and race-focused programs"
         },
         {
-          "topic": "Jack Smith’s Team Ignored Attorney-Client And Speech Or Debate Privileges To Get Trump",
-          "name": "Jack Smith"
+          "topic": "Trump says prices are falling rapidly after Biden-era inflation"
         }
       ],
-      "selfPraiseCount": 2
+      "selfPraiseCount": 5
     }
   ],
-  "generatedAt": "2026-10-01T16:01:47.510Z",
-  "trendingTopic": "Jack Smith faces allegations of privilege violations, media spying, and potential criminal prosecution",
-  "trendingName": "Jack Smith",
+  "generatedAt": "2026-10-01T20:04:28.412Z",
+  "trendingTopic": "Nominates three federal judges for courts in Mississippi and North Carolina",
   "secondaryHighlights": [
     {
-      "topic": "Trump administration finalizes lower fuel-economy standards favoring gas-powered vehicles"
+      "topic": "Jack Smith faces accusations of privilege violations, media spying, and calls for prosecution",
+      "name": "Jack Smith"
     },
     {
-      "topic": "Trump nominates Todd Butler and Philip Aubart to federal judgeships"
+      "topic": "Finalizes lower fuel-economy standards to reduce new-car costs"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:1:c8826e3a9bfb235d6b2f5c9f"
+  "topicsCacheKey": "month-themes-v5:1:4137a37ef82ae176a78141bc"
 }

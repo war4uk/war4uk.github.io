@@ -1,25 +1,38 @@
 {
   "date": "2026-10-01",
   "counts": {
-    "positive": 11,
-    "neutral": 7,
+    "positive": 16,
+    "neutral": 11,
     "negative": 7
   },
-  "summary": "positive:11 neutral:7 negative:7",
-  "generatedAt": "2026-10-01T16:01:47.510Z",
+  "summary": "positive:16 neutral:11 negative:7",
+  "generatedAt": "2026-10-01T20:04:28.412Z",
   "topics": [
-    "Jack Smith faces allegations of privilege violations, media spying, and potential criminal prosecution",
-    "Trump administration finalizes lower fuel-economy standards, reducing costs and favoring gas-powered vehicles",
-    "Trump nominates Todd Butler and Philip Aubart to federal judgeships"
+    "Nominates three federal judges for courts in Mississippi and North Carolina",
+    "Jack Smith faces accusations of privilege violations, media spying, and calls for prosecution",
+    "Trump administration finalizes lower fuel-economy standards that reduce new-car costs"
   ],
-  "trendingTopic": "Jack Smith’s team accused of violating privileges and spying on media while targeting Trump",
-  "trendingName": "Jack Smith",
-  "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v11:25:cbeec9a00f5e637b73c752d0",
-  "selfPraiseCacheKey": "self-praise-v2:25:cbeec9a00f5e637b73c752d0",
+  "trendingTopic": "Trump nominates Todd Butler, Philip Aubart, and Brian Meyers to federal judgeships",
+  "secondaryHighlights": [
+    {
+      "topic": "Trump and Scott Bessent tout pressure on Iran as its economy and nuclear threat face collapse"
+    },
+    {
+      "topic": "Trump administration cancels nearly $1 billion for illegal-immigrant and race-focused programs"
+    },
+    {
+      "topic": "Trump says prices are falling rapidly after Biden-era inflation"
+    }
+  ],
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v11:34:8762978312d967c70cc00662",
+  "selfPraiseCacheKey": "self-praise-v2:34:8762978312d967c70cc00662",
   "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/42043",
     "https://www.trumpstruth.org/statuses/42042",
-    "https://www.trumpstruth.org/statuses/42060"
+    "https://www.trumpstruth.org/statuses/42067",
+    "https://www.trumpstruth.org/statuses/42069",
+    "https://www.trumpstruth.org/statuses/42072"
   ],
   "posts": [
     {
@@ -484,6 +497,176 @@
         "guid": "https://www.trumpstruth.org/statuses/42063",
         "isoDate": "2026-10-01T15:57:58.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42064",
+      "publishedAt": "2026-10-01T16:27:00.000Z",
+      "title": "I am pleased to announce the nomination of Brian Meyers to the United States District Court for the Eastern District of North Carolina! Currently a Magistrate Judge on that same Court, Brian previously served as an Assistant U.S. Attorney for more than a decade in the Eastern District of North Carolina and, as an attorney in the U.S. Marine Corps. Brian graduated from Davidson College (where he starred at Varsity Baseball!), and the University of Richmond School of Law. Before earning his Law Degree, Brian worked for the late Senator Jesse Helms. With the strong support of both of North Carolina’s Senators, Ted Budd and Thom Tillis, and Republican Candidate for United States Senate, and former Head of the Republican Party, Michael Whatley, Brian will continue to strongly protect and defend the Constitution on the Federal Bench. Congratulations Brian! President DONALD J. TRUMP",
+      "text": "<p>I am pleased to announce the nomination of Brian Meyers to the United States District Court for the Eastern District of North Carolina! Currently a Magistrate Judge on that same Court, Brian previously served as an Assistant U.S. Attorney for more than a decade in the Eastern District of North Carolina and, as an attorney in the U.S. Marine Corps. Brian graduated from Davidson College (where he starred at Varsity Baseball!), and the University of Richmond School of Law. Before earning his Law Degree, Brian worked for the late Senator Jesse Helms. With the strong support of both of North Carolina’s Senators, Ted Budd and Thom Tillis, and Republican Candidate for United States Senate, and former Head of the Republican Party, Michael Whatley, Brian will continue to strongly protect and defend the Constitution on the Federal Bench. Congratulations Brian! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/42064",
+      "raw": {
+        "creator": "",
+        "title": "I am pleased to announce the nomination of Brian Meyers to the United States District Court for the Eastern District of North Carolina! Currently a Magistrate Judge on that same Court, Brian previously served as an Assistant U.S. Attorney for more than a decade in the Eastern District of North Carolina and, as an attorney in the U.S. Marine Corps. Brian graduated from Davidson College (where he starred at Varsity Baseball!), and the University of Richmond School of Law. Before earning his Law Degree, Brian worked for the late Senator Jesse Helms. With the strong support of both of North Carolina’s Senators, Ted Budd and Thom Tillis, and Republican Candidate for United States Senate, and former Head of the Republican Party, Michael Whatley, Brian will continue to strongly protect and defend the Constitution on the Federal Bench. Congratulations Brian! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42064",
+        "pubDate": "Thu, 01 Oct 2026 16:27:00 +0000",
+        "author": "",
+        "content": "<p>I am pleased to announce the nomination of Brian Meyers to the United States District Court for the Eastern District of North Carolina! Currently a Magistrate Judge on that same Court, Brian previously served as an Assistant U.S. Attorney for more than a decade in the Eastern District of North Carolina and, as an attorney in the U.S. Marine Corps. Brian graduated from Davidson College (where he starred at Varsity Baseball!), and the University of Richmond School of Law. Before earning his Law Degree, Brian worked for the late Senator Jesse Helms. With the strong support of both of North Carolina’s Senators, Ted Budd and Thom Tillis, and Republican Candidate for United States Senate, and former Head of the Republican Party, Michael Whatley, Brian will continue to strongly protect and defend the Constitution on the Federal Bench. Congratulations Brian! President DONALD J. TRUMP</p>",
+        "contentSnippet": "I am pleased to announce the nomination of Brian Meyers to the United States District Court for the Eastern District of North Carolina! Currently a Magistrate Judge on that same Court, Brian previously served as an Assistant U.S. Attorney for more than a decade in the Eastern District of North Carolina and, as an attorney in the U.S. Marine Corps. Brian graduated from Davidson College (where he starred at Varsity Baseball!), and the University of Richmond School of Law. Before earning his Law Degree, Brian worked for the late Senator Jesse Helms. With the strong support of both of North Carolina’s Senators, Ted Budd and Thom Tillis, and Republican Candidate for United States Senate, and former Head of the Republican Party, Michael Whatley, Brian will continue to strongly protect and defend the Constitution on the Federal Bench. Congratulations Brian! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42064",
+        "isoDate": "2026-10-01T16:27:00.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42066",
+      "publishedAt": "2026-10-01T17:32:06.000Z",
+      "title": "[No Title] - Post from October 1, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42066",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 1, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42066",
+        "pubDate": "Thu, 01 Oct 2026 17:32:06 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42066",
+        "isoDate": "2026-10-01T17:32:06.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42065",
+      "publishedAt": "2026-10-01T17:32:17.000Z",
+      "title": "[No Title] - Post from October 1, 2026",
+      "text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117366844728020252</span></p>\n\n[Image] A social media post from an account named “John Fitzgerald Kennedy Jr” and handle @realJohnJohnJr is shown, with a blue verification badge and a profile photo of a dark-haired man. The post says, “BREAKING: Thousands of Iranians are on the streets preparing to take back their country from the radical Islamists,” followed by, “Why is the Legacy Media not reporting this?”",
+      "url": "https://www.trumpstruth.org/statuses/42065",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 1, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42065",
+        "pubDate": "Thu, 01 Oct 2026 17:32:17 +0000",
+        "author": "",
+        "content": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117366844728020252</span></p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117366844728020252",
+        "guid": "https://www.trumpstruth.org/statuses/42065",
+        "isoDate": "2026-10-01T17:32:17.000Z"
+      },
+      "imageDescribedAt": "2026-10-01T20:03:48.773Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18335/4e04398859ae1e72-23c1854265a6.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42067",
+      "publishedAt": "2026-10-01T17:54:47.000Z",
+      "title": "I stated, numerous times, that it would take 4-6 weeks to get rid of THE IRAN NUCLEAR THREAT, and I did it in one night! The rest of the time is just to make sure it stays that way. President DONALD J. TRUMP",
+      "text": "<p>I stated, numerous times, that it would take 4-6 weeks to get rid of THE IRAN NUCLEAR THREAT, and I did it in one night! The rest of the time is just to make sure it stays that way. President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/42067",
+      "raw": {
+        "creator": "",
+        "title": "I stated, numerous times, that it would take 4-6 weeks to get rid of THE IRAN NUCLEAR THREAT, and I did it in one night! The rest of the time is just to make sure it stays that way. President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42067",
+        "pubDate": "Thu, 01 Oct 2026 17:54:47 +0000",
+        "author": "",
+        "content": "<p>I stated, numerous times, that it would take 4-6 weeks to get rid of THE IRAN NUCLEAR THREAT, and I did it in one night! The rest of the time is just to make sure it stays that way. President DONALD J. TRUMP</p>",
+        "contentSnippet": "I stated, numerous times, that it would take 4-6 weeks to get rid of THE IRAN NUCLEAR THREAT, and I did it in one night! The rest of the time is just to make sure it stays that way. President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42067",
+        "isoDate": "2026-10-01T17:54:47.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42068",
+      "publishedAt": "2026-10-01T18:06:46.000Z",
+      "title": "[No Title] - Post from October 1, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42068",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 1, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42068",
+        "pubDate": "Thu, 01 Oct 2026 18:06:46 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42068",
+        "isoDate": "2026-10-01T18:06:46.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42071",
+      "publishedAt": "2026-10-01T18:11:23.000Z",
+      "title": "[No Title] - Post from October 1, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42071",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 1, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42071",
+        "pubDate": "Thu, 01 Oct 2026 18:11:23 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42071",
+        "isoDate": "2026-10-01T18:11:23.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42070",
+      "publishedAt": "2026-10-01T18:11:40.000Z",
+      "title": "[No Title] - Post from October 1, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42070",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 1, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42070",
+        "pubDate": "Thu, 01 Oct 2026 18:11:40 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42070",
+        "isoDate": "2026-10-01T18:11:40.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42069",
+      "publishedAt": "2026-10-01T18:12:07.000Z",
+      "title": "[No Title] - Post from October 1, 2026",
+      "text": "[Image] An infographic titled “Endorsement Record in Republican Primaries” presents a 2026 record. A large green ring states that 98.37% of endorsed candidates won, or 241 of 245. Smaller rings show a 98% success rate for U.S. House candidates, 216 of 220, and 100% for U.S. Senate candidates, 25 of 25.",
+      "url": "https://www.trumpstruth.org/statuses/42069",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 1, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42069",
+        "pubDate": "Thu, 01 Oct 2026 18:12:07 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42069",
+        "isoDate": "2026-10-01T18:12:07.000Z"
+      },
+      "imageDescribedAt": "2026-10-01T20:03:44.999Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18338/b882f16bad05a867-8f409b1e4266.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42072",
+      "publishedAt": "2026-10-01T18:38:20.000Z",
+      "title": "Prices are way down from what Biden and the Dumocrats left us. It’s why I won the Election, and now prices are coming down, RAPIDLY. It’s the Dumocrats’ fault, not the fault of the Republicans — But we are fixing it! President DONALD J. TRUMP",
+      "text": "<p>Prices are way down from what Biden and the Dumocrats left us. It’s why I won the Election, and now prices are coming down, RAPIDLY. It’s the Dumocrats’ fault, not the fault of the Republicans — But we are fixing it! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/42072",
+      "raw": {
+        "creator": "",
+        "title": "Prices are way down from what Biden and the Dumocrats left us. It’s why I won the Election, and now prices are coming down, RAPIDLY. It’s the Dumocrats’ fault, not the fault of the Republicans — But we are fixing it! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42072",
+        "pubDate": "Thu, 01 Oct 2026 18:38:20 +0000",
+        "author": "",
+        "content": "<p>Prices are way down from what Biden and the Dumocrats left us. It’s why I won the Election, and now prices are coming down, RAPIDLY. It’s the Dumocrats’ fault, not the fault of the Republicans — But we are fixing it! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Prices are way down from what Biden and the Dumocrats left us. It’s why I won the Election, and now prices are coming down, RAPIDLY. It’s the Dumocrats’ fault, not the fault of the Republicans — But we are fixing it! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42072",
+        "isoDate": "2026-10-01T18:38:20.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -636,19 +819,60 @@
       "label": "positive",
       "rationale": "Expresses strong approval of Philip Aubart, praising his qualifications, endorsements, law-and-order record, and nomination.",
       "analyzedAt": "2026-10-01T16:01:15.749Z"
-    }
-  ],
-  "secondaryHighlights": [
-    {
-      "topic": "I am pleased to announce the nomination of Philip Aubart to the United States District Court for the Middle District of North Carolina!",
-      "name": "Philip Aubart"
     },
     {
-      "topic": "Congratulations to the GREAT Boeing Company for producing a plane, the 737 Max, that was able to withstand G Forces and Strain far beyond what it was designed and expected to do."
+      "postId": "https://www.trumpstruth.org/statuses/42064",
+      "label": "positive",
+      "rationale": "Announces and praises a judicial nomination, emphasizing the nominee's qualifications and expressing congratulations.",
+      "analyzedAt": "2026-10-01T20:03:59.894Z"
     },
     {
-      "topic": "Jack Smith’s Team Ignored Attorney-Client And Speech Or Debate Privileges To Get Trump",
-      "name": "Jack Smith"
+      "postId": "https://www.trumpstruth.org/statuses/42065",
+      "label": "positive",
+      "rationale": "Shares a favorable claim about Iranians opposing the current regime, framed as a hopeful political development.",
+      "analyzedAt": "2026-10-01T20:03:59.894Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42066",
+      "label": "neutral",
+      "rationale": "The post contains no substantive text or sentiment.",
+      "analyzedAt": "2026-10-01T20:03:59.894Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42067",
+      "label": "positive",
+      "rationale": "Boasts of successfully eliminating the Iranian nuclear threat and expresses confidence that the result will be maintained.",
+      "analyzedAt": "2026-10-01T20:03:59.894Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42068",
+      "label": "neutral",
+      "rationale": "The post contains no substantive text or sentiment.",
+      "analyzedAt": "2026-10-01T20:03:59.894Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42069",
+      "label": "positive",
+      "rationale": "Highlights a very high success rate for endorsed Republican candidates in primary elections.",
+      "analyzedAt": "2026-10-01T20:03:59.894Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42070",
+      "label": "neutral",
+      "rationale": "The post contains no substantive text or sentiment.",
+      "analyzedAt": "2026-10-01T20:03:59.894Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42071",
+      "label": "neutral",
+      "rationale": "The post contains no substantive text or sentiment.",
+      "analyzedAt": "2026-10-01T20:03:59.894Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42072",
+      "label": "positive",
+      "rationale": "Claims that prices are rapidly falling and presents this as a successful accomplishment of the speaker's administration.",
+      "analyzedAt": "2026-10-01T20:03:59.894Z"
     }
   ]
 }
