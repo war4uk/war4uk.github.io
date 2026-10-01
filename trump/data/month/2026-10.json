@@ -4,42 +4,42 @@
     {
       "date": "2026-10-01",
       "counts": {
-        "positive": 6,
+        "positive": 7,
         "neutral": 7,
-        "negative": 5
+        "negative": 7
       },
-      "summary": "positive:6 neutral:7 negative:5",
+      "summary": "positive:7 neutral:7 negative:7",
       "topics": [
-        "Trump administration finalizes lower fuel economy standards, reducing new-vehicle costs and boosting gas-powered cars",
-        "Reports allege Jack Smith’s team violated legal privileges while investigating Trump and media outlets",
-        "Trump administration cancels nearly $1 billion for illegal immigrant and race-focused programs"
+        "Jack Smith faces allegations of violating privileges and calls for criminal prosecution",
+        "Trump administration finalizes lower fuel-economy standards, reducing costs for gas-powered vehicles",
+        "Trump receives cheers and praise at major college football and Presidents Cup events"
       ],
-      "postsCount": 18,
+      "postsCount": 21,
       "hasDetail": true,
-      "generatedAt": "2026-10-01T04:05:15.216Z",
-      "trendingTopic": "Trump administration finalizes lower fuel economy standards, reducing new-vehicle costs and boosting gas-powered cars",
+      "generatedAt": "2026-10-01T08:03:12.555Z",
+      "trendingTopic": "Jack Smith faces allegations of violating privileges and calls for criminal prosecution",
+      "trendingName": "Jack Smith",
       "secondaryHighlights": [
         {
-          "topic": "Reports allege Jack Smith’s team violated legal privileges while investigating Trump and media outlets",
-          "name": "Jack Smith"
+          "topic": "Trump administration finalizes lower fuel-economy standards, reducing costs for gas-powered vehicles"
         },
         {
-          "topic": "Trump administration cancels nearly $1 billion for illegal immigrant and race-focused programs"
+          "topic": "Trump receives cheers and praise at major college football and Presidents Cup events"
         }
       ],
       "selfPraiseCount": 2
     }
   ],
-  "generatedAt": "2026-10-01T04:05:15.216Z",
-  "trendingTopic": "Lowers fuel economy standards to reduce new-vehicle costs and boost gas-powered cars",
+  "generatedAt": "2026-10-01T08:03:12.555Z",
+  "trendingTopic": "Trump administration finalizes lower fuel-economy standards, reducing costs for gas-powered vehicles",
   "secondaryHighlights": [
     {
-      "topic": "Jack Smith team accused of violating legal privileges in Trump investigation",
-      "name": "Jack Smith"
+      "topic": "Trump receives cheers and praise at major college football and Presidents Cup events"
     },
     {
-      "topic": "Trump administration cancels nearly $1 billion for illegal immigrant and race-focused programs"
+      "topic": "Jack Smith faces allegations of violating privileges and calls for criminal prosecution",
+      "name": "Jack Smith"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:1:90b868c99437c45406fb058b"
+  "topicsCacheKey": "month-themes-v5:1:60bdd04c9d167eda039384b0"
 }

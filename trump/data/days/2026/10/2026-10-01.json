@@ -1,28 +1,33 @@
 {
   "date": "2026-10-01",
   "counts": {
-    "positive": 6,
+    "positive": 7,
     "neutral": 7,
-    "negative": 5
+    "negative": 7
   },
-  "summary": "positive:6 neutral:7 negative:5",
-  "generatedAt": "2026-10-01T04:05:15.216Z",
+  "summary": "positive:7 neutral:7 negative:7",
+  "generatedAt": "2026-10-01T08:03:12.555Z",
   "topics": [
-    "Trump administration finalizes lower fuel economy standards, reducing new-vehicle costs and boosting gas-powered cars",
-    "Reports allege Jack Smith’s team violated legal privileges while investigating Trump and media outlets",
-    "Trump administration cancels nearly $1 billion for illegal immigrant and race-focused programs"
+    "Jack Smith faces allegations of violating privileges and calls for criminal prosecution",
+    "Trump administration finalizes lower fuel-economy standards, reducing costs for gas-powered vehicles",
+    "Trump receives cheers and praise at major college football and Presidents Cup events"
   ],
-  "trendingTopic": "Trump administration finalizes lower fuel economy standards, reducing new-vehicle costs and boosting gas-powered cars",
+  "trendingTopic": "Jack Smith faces allegations of violating privileges and calls for criminal prosecution",
   "secondaryHighlights": [
     {
-      "topic": "Reports allege Jack Smith’s team violated legal privileges while investigating Trump and media outlets",
-      "name": "Jack Smith"
+      "topic": "Trump administration finalizes lower fuel-economy standards, reducing costs for gas-powered vehicles"
     },
     {
-      "topic": "Trump administration cancels nearly $1 billion for illegal immigrant and race-focused programs"
+      "topic": "Trump receives cheers and praise at major college football and Presidents Cup events"
     }
   ],
   "selfPraiseCount": 2,
+  "topicsCacheKey": "day-themes-v11:21:8ce1e5aa9bf245c3fe3b3122",
+  "selfPraiseCacheKey": "self-praise-v2:21:8ce1e5aa9bf245c3fe3b3122",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/42043",
+    "https://www.trumpstruth.org/statuses/42042"
+  ],
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/42039",
@@ -339,6 +344,42 @@
       }
     },
     {
+      "id": "https://www.trumpstruth.org/statuses/42058",
+      "publishedAt": "2026-10-01T03:28:42.000Z",
+      "title": "Senator who sued Jack Smith says she thinks he should be criminally prosecuted too:",
+      "text": "<p>Senator who sued Jack Smith says she thinks he should be criminally prosecuted too: <a href=\"https://justthenews.com/accountability/political-ethics/th-us-senator-who-sued-jack-smith-says-she-thinks-he-should-be\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/accountability</span><span class=\"invisible\">/political-ethics/th-us-senator-who-sued-jack-smith-says-she-thinks-he-should-be</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/42058",
+      "raw": {
+        "creator": "",
+        "title": "Senator who sued Jack Smith says she thinks he should be criminally prosecuted too:",
+        "link": "https://www.trumpstruth.org/statuses/42058",
+        "pubDate": "Thu, 01 Oct 2026 03:28:42 +0000",
+        "author": "",
+        "content": "<p>Senator who sued Jack Smith says she thinks he should be criminally prosecuted too: <a href=\"https://justthenews.com/accountability/political-ethics/th-us-senator-who-sued-jack-smith-says-she-thinks-he-should-be\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/accountability</span><span class=\"invisible\">/political-ethics/th-us-senator-who-sued-jack-smith-says-she-thinks-he-should-be</span></a></p>",
+        "contentSnippet": "Senator who sued Jack Smith says she thinks he should be criminally prosecuted too: https://justthenews.com/accountability/political-ethics/th-us-senator-who-sued-jack-smith-says-she-thinks-he-should-be",
+        "guid": "https://www.trumpstruth.org/statuses/42058",
+        "isoDate": "2026-10-01T03:28:42.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42057",
+      "publishedAt": "2026-10-01T03:29:01.000Z",
+      "title": "Another leftist race narrative bites the dust: Mississippi hanging edition:",
+      "text": "<p>Another leftist race narrative bites the dust: Mississippi hanging edition: <a href=\"https://justthenews.com/nation/another-radical-left-narrative-bites-dust-mississippi-hangin-edition\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/nation/another</span><span class=\"invisible\">-radical-left-narrative-bites-dust-mississippi-hangin-edition</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/42057",
+      "raw": {
+        "creator": "",
+        "title": "Another leftist race narrative bites the dust: Mississippi hanging edition:",
+        "link": "https://www.trumpstruth.org/statuses/42057",
+        "pubDate": "Thu, 01 Oct 2026 03:29:01 +0000",
+        "author": "",
+        "content": "<p>Another leftist race narrative bites the dust: Mississippi hanging edition: <a href=\"https://justthenews.com/nation/another-radical-left-narrative-bites-dust-mississippi-hangin-edition\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/nation/another</span><span class=\"invisible\">-radical-left-narrative-bites-dust-mississippi-hangin-edition</span></a></p>",
+        "contentSnippet": "Another leftist race narrative bites the dust: Mississippi hanging edition: https://justthenews.com/nation/another-radical-left-narrative-bites-dust-mississippi-hangin-edition",
+        "guid": "https://www.trumpstruth.org/statuses/42057",
+        "isoDate": "2026-10-01T03:29:01.000Z"
+      }
+    },
+    {
       "id": "https://www.trumpstruth.org/statuses/42056",
       "publishedAt": "2026-10-01T03:29:22.000Z",
       "title": "Media coverage of Trump's CNN ouster, Jack Smith spying on news outlets exposes double standard:",
@@ -354,6 +395,24 @@
         "contentSnippet": "Media coverage of Trump's CNN ouster, Jack Smith spying on news outlets exposes double standard: https://justthenews.com/government/white-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-when",
         "guid": "https://www.trumpstruth.org/statuses/42056",
         "isoDate": "2026-10-01T03:29:22.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42059",
+      "publishedAt": "2026-10-01T04:40:35.000Z",
+      "title": "Congratulations to the GREAT Boeing Company for producing a plane, the 737 Max, that was able to withstand G Forces and Strain far beyond what it was designed and expected to do. It was an amazing show of precise and powerful structural planning and design. It is about time that The Boeing Company, which builds, by far, the finest commercial airliners in the sky, was given credit for this airplane’s incredible “genius!” To Kelly Ortberg, and all of his officers and associates at Boeing, congratulations on a job well done!!! President DONALD J. TRUMP",
+      "text": "<p>Congratulations to the GREAT Boeing Company for producing a plane, the 737 Max, that was able to withstand G Forces and Strain far beyond what it was designed and expected to do. It was an amazing show of precise and powerful structural planning and design. It is about time that The Boeing Company, which builds, by far, the finest commercial airliners in the sky, was given credit for this airplane’s incredible “genius!” To Kelly Ortberg, and all of his officers and associates at Boeing, congratulations on a job well done!!! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/42059",
+      "raw": {
+        "creator": "",
+        "title": "Congratulations to the GREAT Boeing Company for producing a plane, the 737 Max, that was able to withstand G Forces and Strain far beyond what it was designed and expected to do. It was an amazing show of precise and powerful structural planning and design. It is about time that The Boeing Company, which builds, by far, the finest commercial airliners in the sky, was given credit for this airplane’s incredible “genius!” To Kelly Ortberg, and all of his officers and associates at Boeing, congratulations on a job well done!!! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42059",
+        "pubDate": "Thu, 01 Oct 2026 04:40:35 +0000",
+        "author": "",
+        "content": "<p>Congratulations to the GREAT Boeing Company for producing a plane, the 737 Max, that was able to withstand G Forces and Strain far beyond what it was designed and expected to do. It was an amazing show of precise and powerful structural planning and design. It is about time that The Boeing Company, which builds, by far, the finest commercial airliners in the sky, was given credit for this airplane’s incredible “genius!” To Kelly Ortberg, and all of his officers and associates at Boeing, congratulations on a job well done!!! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Congratulations to the GREAT Boeing Company for producing a plane, the 737 Max, that was able to withstand G Forces and Strain far beyond what it was designed and expected to do. It was an amazing show of precise and powerful structural planning and design. It is about time that The Boeing Company, which builds, by far, the finest commercial airliners in the sky, was given credit for this airplane’s incredible “genius!” To Kelly Ortberg, and all of his officers and associates at Boeing, congratulations on a job well done!!! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42059",
+        "isoDate": "2026-10-01T04:40:35.000Z"
       }
     }
   ],
@@ -465,12 +524,25 @@
       "label": "negative",
       "rationale": "Accuses media coverage and Jack Smith's team of exposing a double standard.",
       "analyzedAt": "2026-10-01T04:04:59.003Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42057",
+      "label": "negative",
+      "rationale": "Uses dismissive language to attack a leftist racial narrative.",
+      "analyzedAt": "2026-10-01T08:02:55.921Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42058",
+      "label": "negative",
+      "rationale": "Reports negatively on Jack Smith by highlighting calls for his criminal prosecution.",
+      "analyzedAt": "2026-10-01T08:02:55.921Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42059",
+      "label": "positive",
+      "rationale": "Praises Boeing's engineering and congratulates its leadership for producing a highly resilient aircraft.",
+      "analyzedAt": "2026-10-01T08:02:55.921Z"
     }
   ],
-  "topicsCacheKey": "day-themes-v11:18:b336d403536490324c6e607e",
-  "selfPraiseCacheKey": "self-praise-v2:18:b336d403536490324c6e607e",
-  "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/42043",
-    "https://www.trumpstruth.org/statuses/42042"
-  ]
+  "trendingName": "Jack Smith"
 }
