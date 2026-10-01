@@ -1,0 +1,20 @@
+{
+  "month": "2026-10",
+  "days": [
+    {
+      "date": "2026-10-01",
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "positive:0 neutral:0 negative:0",
+      "topics": [],
+      "postsCount": 0,
+      "hasDetail": true,
+      "generatedAt": "2026-10-01T00:05:07.396Z",
+      "selfPraiseCount": 0
+    }
+  ],
+  "generatedAt": "2026-10-01T00:05:07.396Z"
+}

@@ -816,46 +816,44 @@
     {
       "date": "2026-09-30",
       "counts": {
-        "positive": 2,
-        "neutral": 2,
+        "positive": 3,
+        "neutral": 6,
         "negative": 1
       },
-      "summary": "positive:2 neutral:2 negative:1",
+      "summary": "positive:3 neutral:6 negative:1",
       "topics": [
-        "Trump announces U.S. forces’ withdrawal from Iraq and declares victory over ISIS",
-        "Trump attacks Fox News for amplifying Democratic criticism of Republicans and his presidency",
-        "Trump touts strong national performance metrics while accusing media of suppressing them"
+        "Trump attacks Fox News and mainstream media for negative coverage and withholding his administration’s achievements",
+        "Trump announces the withdrawal of all remaining American forces from Iraq",
+        "Purported executive order proposes replacing “Artificial Intelligence” with “Super Intelligence”"
       ],
-      "postsCount": 5,
+      "postsCount": 10,
       "hasDetail": true,
-      "generatedAt": "2026-09-30T20:01:22.573Z",
-      "trendingTopic": "Trump announces the final withdrawal of American forces from Iraq after declaring ISIS defeated",
+      "generatedAt": "2026-10-01T00:05:21.094Z",
+      "trendingTopic": "Trump attacks Fox News and mainstream media for negative coverage and withholding his administration’s achievements",
       "secondaryHighlights": [
         {
-          "topic": "Purported Trump executive order directs agencies to replace “Artificial Intelligence” with “Super Intelligence”"
+          "topic": "Trump announces the withdrawal of all remaining American forces from Iraq"
         },
         {
-          "topic": "Trump attacks Fox News for amplifying Democratic criticism of Republicans and his presidency"
-        },
-        {
-          "topic": "Trump touts strong national performance metrics while accusing media of suppressing them"
+          "topic": "Purported executive order proposes replacing “Artificial Intelligence” with “Super Intelligence”"
         }
       ],
       "selfPraiseCount": 3
     }
   ],
-  "generatedAt": "2026-09-30T20:01:22.573Z",
+  "generatedAt": "2026-10-01T00:05:21.094Z",
   "trendingTopic": "Trump portrays Iran as collapsing and claims U.S. control of the Strait of Hormuz",
   "secondaryHighlights": [
     {
-      "topic": "Trump escalates attacks on major news outlets while restricting White House press access"
+      "topic": "Trump promotes artificial-intelligence expansion, data centers, and a new AI Force"
     },
     {
-      "topic": "Trump hosts Xi Jinping for a U.S.-China state visit and diplomatic meetings"
+      "topic": "Trump hosts Xi Jinping for White House meetings, state-visit ceremonies, and future U.S.-China talks",
+      "name": "Xi Jinping"
     },
     {
-      "topic": "Trump promotes artificial-intelligence expansion, a new AI Force and frontier-tech rules"
+      "topic": "Trump endorses candidates across congressional, Senate, gubernatorial, and primary races"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:30:5109e83a742467d411dc9fc2"
+  "topicsCacheKey": "month-themes-v5:30:d46a7a56cf18f1956eca99ea"
 }

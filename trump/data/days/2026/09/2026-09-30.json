@@ -1,32 +1,34 @@
 {
   "date": "2026-09-30",
   "counts": {
-    "positive": 2,
-    "neutral": 2,
+    "positive": 3,
+    "neutral": 6,
     "negative": 1
   },
-  "summary": "positive:2 neutral:2 negative:1",
-  "generatedAt": "2026-09-30T20:01:22.573Z",
+  "summary": "positive:3 neutral:6 negative:1",
+  "generatedAt": "2026-10-01T00:05:21.094Z",
   "topics": [
-    "Trump announces U.S. forces’ withdrawal from Iraq and declares victory over ISIS",
-    "Trump attacks Fox News for amplifying Democratic criticism of Republicans and his presidency",
-    "Trump touts strong national performance metrics while accusing media of suppressing them"
+    "Trump attacks Fox News and mainstream media for negative coverage and withholding his administration’s achievements",
+    "Trump announces the withdrawal of all remaining American forces from Iraq",
+    "Purported executive order proposes replacing “Artificial Intelligence” with “Super Intelligence”"
   ],
-  "trendingTopic": "Trump announces the final withdrawal of American forces from Iraq after declaring ISIS defeated",
+  "trendingTopic": "Trump attacks Fox News and mainstream media for negative coverage and withholding his administration’s achievements",
   "secondaryHighlights": [
     {
-      "topic": "Purported Trump executive order directs agencies to replace “Artificial Intelligence” with “Super Intelligence”"
+      "topic": "Trump announces the withdrawal of all remaining American forces from Iraq"
     },
     {
-      "topic": "Trump attacks Fox News for amplifying Democratic criticism of Republicans and his presidency"
-    },
-    {
-      "topic": "Trump touts strong national performance metrics while accusing media of suppressing them"
+      "topic": "Purported executive order proposes replacing “Artificial Intelligence” with “Super Intelligence”"
     }
   ],
   "selfPraiseCount": 3,
-  "topicsCacheKey": "day-themes-v11:5:49d0eecd2d5f5126211a4c83",
-  "selfPraiseCacheKey": "self-praise-v2:5:49d0eecd2d5f5126211a4c83",
+  "topicsCacheKey": "day-themes-v11:10:b42f3ad383504001f672c164",
+  "selfPraiseCacheKey": "self-praise-v2:10:b42f3ad383504001f672c164",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/42028",
+    "https://www.trumpstruth.org/statuses/42029",
+    "https://www.trumpstruth.org/statuses/42030"
+  ],
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/42026",
@@ -123,6 +125,96 @@
         "guid": "https://www.trumpstruth.org/statuses/42030",
         "isoDate": "2026-09-30T17:17:33.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42035",
+      "publishedAt": "2026-09-30T23:08:36.000Z",
+      "title": "[No Title] - Post from September 30, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42035",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 30, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42035",
+        "pubDate": "Wed, 30 Sep 2026 23:08:36 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42035",
+        "isoDate": "2026-09-30T23:08:36.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42034",
+      "publishedAt": "2026-09-30T23:08:59.000Z",
+      "title": "[No Title] - Post from September 30, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42034",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 30, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42034",
+        "pubDate": "Wed, 30 Sep 2026 23:08:59 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42034",
+        "isoDate": "2026-09-30T23:08:59.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42033",
+      "publishedAt": "2026-09-30T23:10:19.000Z",
+      "title": "[No Title] - Post from September 30, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42033",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 30, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42033",
+        "pubDate": "Wed, 30 Sep 2026 23:10:19 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42033",
+        "isoDate": "2026-09-30T23:10:19.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42032",
+      "publishedAt": "2026-09-30T23:10:21.000Z",
+      "title": "[No Title] - Post from September 30, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42032",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from September 30, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42032",
+        "pubDate": "Wed, 30 Sep 2026 23:10:21 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42032",
+        "isoDate": "2026-09-30T23:10:21.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42036",
+      "publishedAt": "2026-09-30T23:30:40.000Z",
+      "title": "RT @realDonaldTrumpToday, I am pleased to announce, that the last American Forces are leaving Iraq! It has been a long time, with very bad decision-making that got us involved in this quagmire in the first place, but soon, that will be part of History. This is a Great Day for America and, importantly, we leave with Iraq having a wonderful new Prime Minister, Ali al-Zaidi, somebody I supported from the beginning and fully endorsed. He won an Election that he was not expected to win, and did so, in a landslide!Launched in 2003 under the presidency of George W. Bush, and continued under the Administration of Barack Hussein Obama in 2014, and Sleepy Joe Biden, Operation Inherent Resolve ends in 2026 under the leadership of President Donald J. Trump. This Day is a victory for the United States, a victory for Iraq, and a decisive victory over ISIS, which has been completely decimated by the Trump Administration, First Term, along with other very bad and dangerous players. Unlike Afghanistan, where much Military Equipment and everything else was left behind, and 13 Warriors lie dead, with many badly wounded, this orderly departure of Coalition forces and equipment from Erbil Air Base marks the end of a very expensive excursion into Hell. I set a clear mission, gave our Commanders the tools to finish it, and refused to let a temporary presence become a permanent one. I had a choice to stay or to leave, and felt, without question, that it was time for America to go home! Prime Minister al-Zaidi, is outstanding, and he will hopefully be able to handle things very well. We came to fight a caliphate. There is no longer a caliphate. We are going home! President DONALD J. TRUMP",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span>Today, I am pleased to announce, that the last American Forces are leaving Iraq! It has been a long time, with very bad decision-making that got us involved in this quagmire in the first place, but soon, that will be part of History. This is a Great Day for America and, importantly, we leave with Iraq having a wonderful new Prime Minister, Ali al-Zaidi, somebody I supported from the beginning and fully endorsed. He won an Election that he was not expected to win, and did so, in a landslide!</p><p>Launched in 2003 under the presidency of George W. Bush, and continued under the Administration of Barack Hussein Obama in 2014, and Sleepy Joe Biden, Operation Inherent Resolve ends in 2026 under the leadership of President Donald J. Trump. This Day is a victory for the United States, a victory for Iraq, and a decisive victory over ISIS, which has been completely decimated by the Trump Administration, First Term, along with other very bad and dangerous players. Unlike Afghanistan, where much Military Equipment and everything else was left behind, and 13 Warriors lie dead, with many badly wounded, this orderly departure of Coalition forces and equipment from Erbil Air Base marks the end of a very expensive excursion into Hell. I set a clear mission, gave our Commanders the tools to finish it, and refused to let a temporary presence become a permanent one. I had a choice to stay or to leave, and felt, without question, that it was time for America to go home! Prime Minister al-Zaidi, is outstanding, and he will hopefully be able to handle things very well. We came to fight a caliphate. There is no longer a caliphate. We are going home! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/42036",
+      "raw": {
+        "creator": "",
+        "title": "RT @realDonaldTrumpToday, I am pleased to announce, that the last American Forces are leaving Iraq! It has been a long time, with very bad decision-making that got us involved in this quagmire in the first place, but soon, that will be part of History. This is a Great Day for America and, importantly, we leave with Iraq having a wonderful new Prime Minister, Ali al-Zaidi, somebody I supported from the beginning and fully endorsed. He won an Election that he was not expected to win, and did so, in a landslide!Launched in 2003 under the presidency of George W. Bush, and continued under the Administration of Barack Hussein Obama in 2014, and Sleepy Joe Biden, Operation Inherent Resolve ends in 2026 under the leadership of President Donald J. Trump. This Day is a victory for the United States, a victory for Iraq, and a decisive victory over ISIS, which has been completely decimated by the Trump Administration, First Term, along with other very bad and dangerous players. Unlike Afghanistan, where much Military Equipment and everything else was left behind, and 13 Warriors lie dead, with many badly wounded, this orderly departure of Coalition forces and equipment from Erbil Air Base marks the end of a very expensive excursion into Hell. I set a clear mission, gave our Commanders the tools to finish it, and refused to let a temporary presence become a permanent one. I had a choice to stay or to leave, and felt, without question, that it was time for America to go home! Prime Minister al-Zaidi, is outstanding, and he will hopefully be able to handle things very well. We came to fight a caliphate. There is no longer a caliphate. We are going home! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42036",
+        "pubDate": "Wed, 30 Sep 2026 23:30:40 +0000",
+        "author": "",
+        "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span>Today, I am pleased to announce, that the last American Forces are leaving Iraq! It has been a long time, with very bad decision-making that got us involved in this quagmire in the first place, but soon, that will be part of History. This is a Great Day for America and, importantly, we leave with Iraq having a wonderful new Prime Minister, Ali al-Zaidi, somebody I supported from the beginning and fully endorsed. He won an Election that he was not expected to win, and did so, in a landslide!</p><p>Launched in 2003 under the presidency of George W. Bush, and continued under the Administration of Barack Hussein Obama in 2014, and Sleepy Joe Biden, Operation Inherent Resolve ends in 2026 under the leadership of President Donald J. Trump. This Day is a victory for the United States, a victory for Iraq, and a decisive victory over ISIS, which has been completely decimated by the Trump Administration, First Term, along with other very bad and dangerous players. Unlike Afghanistan, where much Military Equipment and everything else was left behind, and 13 Warriors lie dead, with many badly wounded, this orderly departure of Coalition forces and equipment from Erbil Air Base marks the end of a very expensive excursion into Hell. I set a clear mission, gave our Commanders the tools to finish it, and refused to let a temporary presence become a permanent one. I had a choice to stay or to leave, and felt, without question, that it was time for America to go home! Prime Minister al-Zaidi, is outstanding, and he will hopefully be able to handle things very well. We came to fight a caliphate. There is no longer a caliphate. We are going home! President DONALD J. TRUMP</p>",
+        "contentSnippet": "RT @realDonaldTrumpToday, I am pleased to announce, that the last American Forces are leaving Iraq! It has been a long time, with very bad decision-making that got us involved in this quagmire in the first place, but soon, that will be part of History. This is a Great Day for America and, importantly, we leave with Iraq having a wonderful new Prime Minister, Ali al-Zaidi, somebody I supported from the beginning and fully endorsed. He won an Election that he was not expected to win, and did so, in a landslide!\nLaunched in 2003 under the presidency of George W. Bush, and continued under the Administration of Barack Hussein Obama in 2014, and Sleepy Joe Biden, Operation Inherent Resolve ends in 2026 under the leadership of President Donald J. Trump. This Day is a victory for the United States, a victory for Iraq, and a decisive victory over ISIS, which has been completely decimated by the Trump Administration, First Term, along with other very bad and dangerous players. Unlike Afghanistan, where much Military Equipment and everything else was left behind, and 13 Warriors lie dead, with many badly wounded, this orderly departure of Coalition forces and equipment from Erbil Air Base marks the end of a very expensive excursion into Hell. I set a clear mission, gave our Commanders the tools to finish it, and refused to let a temporary presence become a permanent one. I had a choice to stay or to leave, and felt, without question, that it was time for America to go home! Prime Minister al-Zaidi, is outstanding, and he will hopefully be able to handle things very well. We came to fight a caliphate. There is no longer a caliphate. We are going home! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42036",
+        "isoDate": "2026-09-30T23:30:40.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -155,11 +247,36 @@
       "label": "positive",
       "rationale": "Celebrates the end of U.S. forces' presence in Iraq as a victory for America and Iraq, praises the new prime minister, and emphasizes the defeat of ISIS and a successful departure.",
       "analyzedAt": "2026-09-30T20:01:09.016Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42032",
+      "label": "neutral",
+      "rationale": "The post contains no text to express sentiment.",
+      "analyzedAt": "2026-10-01T00:05:04.981Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42033",
+      "label": "neutral",
+      "rationale": "The post contains no text to express sentiment.",
+      "analyzedAt": "2026-10-01T00:05:04.981Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42034",
+      "label": "neutral",
+      "rationale": "The post contains no text to express sentiment.",
+      "analyzedAt": "2026-10-01T00:05:04.981Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42035",
+      "label": "neutral",
+      "rationale": "The post contains no text to express sentiment.",
+      "analyzedAt": "2026-10-01T00:05:04.981Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42036",
+      "label": "positive",
+      "rationale": "Celebrates the withdrawal of American forces from Iraq as a victory for the United States and Iraq, praises the Iraqi prime minister, and presents ISIS as defeated.",
+      "analyzedAt": "2026-10-01T00:05:04.981Z"
     }
-  ],
-  "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/42028",
-    "https://www.trumpstruth.org/statuses/42029",
-    "https://www.trumpstruth.org/statuses/42030"
   ]
 }
