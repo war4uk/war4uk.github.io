@@ -6,13 +6,14 @@
     "negative": 7
   },
   "summary": "positive:7 neutral:7 negative:7",
-  "generatedAt": "2026-10-01T08:03:12.555Z",
+  "generatedAt": "2026-10-01T12:01:18.319Z",
   "topics": [
     "Jack Smith faces allegations of violating privileges and calls for criminal prosecution",
     "Trump administration finalizes lower fuel-economy standards, reducing costs for gas-powered vehicles",
     "Trump receives cheers and praise at major college football and Presidents Cup events"
   ],
   "trendingTopic": "Jack Smith faces allegations of violating privileges and calls for criminal prosecution",
+  "trendingName": "Jack Smith",
   "secondaryHighlights": [
     {
       "topic": "Trump administration finalizes lower fuel-economy standards, reducing costs for gas-powered vehicles"
@@ -543,6 +544,5 @@
       "rationale": "Praises Boeing's engineering and congratulates its leadership for producing a highly resilient aircraft.",
       "analyzedAt": "2026-10-01T08:02:55.921Z"
     }
-  ],
-  "trendingName": "Jack Smith"
+  ]
 }
