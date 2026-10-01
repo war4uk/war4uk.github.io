@@ -1,33 +1,25 @@
 {
   "date": "2026-10-01",
   "counts": {
-    "positive": 7,
+    "positive": 11,
     "neutral": 7,
     "negative": 7
   },
-  "summary": "positive:7 neutral:7 negative:7",
-  "generatedAt": "2026-10-01T12:01:18.319Z",
+  "summary": "positive:11 neutral:7 negative:7",
+  "generatedAt": "2026-10-01T16:01:47.510Z",
   "topics": [
-    "Jack Smith faces allegations of violating privileges and calls for criminal prosecution",
-    "Trump administration finalizes lower fuel-economy standards, reducing costs for gas-powered vehicles",
-    "Trump receives cheers and praise at major college football and Presidents Cup events"
+    "Jack Smith faces allegations of privilege violations, media spying, and potential criminal prosecution",
+    "Trump administration finalizes lower fuel-economy standards, reducing costs and favoring gas-powered vehicles",
+    "Trump nominates Todd Butler and Philip Aubart to federal judgeships"
   ],
-  "trendingTopic": "Jack Smith faces allegations of violating privileges and calls for criminal prosecution",
+  "trendingTopic": "Jack Smith’s team accused of violating privileges and spying on media while targeting Trump",
   "trendingName": "Jack Smith",
-  "secondaryHighlights": [
-    {
-      "topic": "Trump administration finalizes lower fuel-economy standards, reducing costs for gas-powered vehicles"
-    },
-    {
-      "topic": "Trump receives cheers and praise at major college football and Presidents Cup events"
-    }
-  ],
   "selfPraiseCount": 2,
-  "topicsCacheKey": "day-themes-v11:21:8ce1e5aa9bf245c3fe3b3122",
-  "selfPraiseCacheKey": "self-praise-v2:21:8ce1e5aa9bf245c3fe3b3122",
+  "topicsCacheKey": "day-themes-v11:25:cbeec9a00f5e637b73c752d0",
+  "selfPraiseCacheKey": "self-praise-v2:25:cbeec9a00f5e637b73c752d0",
   "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/42043",
-    "https://www.trumpstruth.org/statuses/42042"
+    "https://www.trumpstruth.org/statuses/42042",
+    "https://www.trumpstruth.org/statuses/42060"
   ],
   "posts": [
     {
@@ -415,6 +407,83 @@
         "guid": "https://www.trumpstruth.org/statuses/42059",
         "isoDate": "2026-10-01T04:40:35.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42060",
+      "publishedAt": "2026-10-01T14:56:36.000Z",
+      "title": "[No Title] - Post from October 1, 2026",
+      "text": "[Image] Two-page typed speech headed “Hispanic Heritage Month.” The text describes a White House celebration, praises Hispanic Americans, and discusses policies and economic claims under Donald Trump’s administration. It names Marco Rubio, Sean Duffy, Leah Campos, and other guests, while criticizing Joe Biden and warning against communism, socialism, and the political left.",
+      "url": "https://www.trumpstruth.org/statuses/42060",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 1, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42060",
+        "pubDate": "Thu, 01 Oct 2026 14:56:36 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42060",
+        "isoDate": "2026-10-01T14:56:36.000Z"
+      },
+      "imageDescribedAt": "2026-10-01T16:01:10.307Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18333/660ba8c7d192139b-154dc0620833.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18334/a6c7dbd4613b1c5e-a7282eb34833.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42061",
+      "publishedAt": "2026-10-01T14:58:51.000Z",
+      "title": "RT @realDonaldTrumpCongratulations to the GREAT Boeing Company for producing a plane, the 737 Max, that was able to withstand G Forces and Strain far beyond what it was designed and expected to do. It was an amazing show of precise and powerful structural planning and design. It is about time that The Boeing Company, which builds, by far, the finest commercial airliners in the sky, was given credit for this airplane’s incredible “genius!” To Kelly Ortberg, and all of his officers and associates at Boeing, congratulations on a job well done!!! President DONALD J. TRUMP",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span>Congratulations to the GREAT Boeing Company for producing a plane, the 737 Max, that was able to withstand G Forces and Strain far beyond what it was designed and expected to do. It was an amazing show of precise and powerful structural planning and design. It is about time that The Boeing Company, which builds, by far, the finest commercial airliners in the sky, was given credit for this airplane’s incredible “genius!” To Kelly Ortberg, and all of his officers and associates at Boeing, congratulations on a job well done!!! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/42061",
+      "raw": {
+        "creator": "",
+        "title": "RT @realDonaldTrumpCongratulations to the GREAT Boeing Company for producing a plane, the 737 Max, that was able to withstand G Forces and Strain far beyond what it was designed and expected to do. It was an amazing show of precise and powerful structural planning and design. It is about time that The Boeing Company, which builds, by far, the finest commercial airliners in the sky, was given credit for this airplane’s incredible “genius!” To Kelly Ortberg, and all of his officers and associates at Boeing, congratulations on a job well done!!! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42061",
+        "pubDate": "Thu, 01 Oct 2026 14:58:51 +0000",
+        "author": "",
+        "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span>Congratulations to the GREAT Boeing Company for producing a plane, the 737 Max, that was able to withstand G Forces and Strain far beyond what it was designed and expected to do. It was an amazing show of precise and powerful structural planning and design. It is about time that The Boeing Company, which builds, by far, the finest commercial airliners in the sky, was given credit for this airplane’s incredible “genius!” To Kelly Ortberg, and all of his officers and associates at Boeing, congratulations on a job well done!!! President DONALD J. TRUMP</p>",
+        "contentSnippet": "RT @realDonaldTrumpCongratulations to the GREAT Boeing Company for producing a plane, the 737 Max, that was able to withstand G Forces and Strain far beyond what it was designed and expected to do. It was an amazing show of precise and powerful structural planning and design. It is about time that The Boeing Company, which builds, by far, the finest commercial airliners in the sky, was given credit for this airplane’s incredible “genius!” To Kelly Ortberg, and all of his officers and associates at Boeing, congratulations on a job well done!!! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42061",
+        "isoDate": "2026-10-01T14:58:51.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42062",
+      "publishedAt": "2026-10-01T15:38:09.000Z",
+      "title": "I am pleased to announce the nomination of Todd Butler to the United States Court of Appeals for the Fifth Circuit! A proud graduate of Mississippi State University and Mississippi College of Law (Graduating summa cum laude from both!), Todd is currently a Partner at Phelps Dunbar in Jackson, Mississippi. He has argued numerous times before the Fifth Circuit, previously clerked for highly respected Judge, Leslie Southwick, and has been a strong defender of Law Enforcement throughout his career. Todd has the unwavering support of Senators Roger Wicker and Cindy Hyde-Smith. The wonderful people of the Great State of Mississippi (one of my favorites!), and the rest of the Fifth Circuit, can count on Todd to protect the Constitution and the Rule of Law. Congratulations Todd! President DONALD J. TRUMP",
+      "text": "<p>I am pleased to announce the nomination of Todd Butler to the United States Court of Appeals for the Fifth Circuit! A proud graduate of Mississippi State University and Mississippi College of Law (Graduating summa cum laude from both!), Todd is currently a Partner at Phelps Dunbar in Jackson, Mississippi. He has argued numerous times before the Fifth Circuit, previously clerked for highly respected Judge, Leslie Southwick, and has been a strong defender of Law Enforcement throughout his career. Todd has the unwavering support of Senators Roger Wicker and Cindy Hyde-Smith. The wonderful people of the Great State of Mississippi (one of my favorites!), and the rest of the Fifth Circuit, can count on Todd to protect the Constitution and the Rule of Law. Congratulations Todd! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/42062",
+      "raw": {
+        "creator": "",
+        "title": "I am pleased to announce the nomination of Todd Butler to the United States Court of Appeals for the Fifth Circuit! A proud graduate of Mississippi State University and Mississippi College of Law (Graduating summa cum laude from both!), Todd is currently a Partner at Phelps Dunbar in Jackson, Mississippi. He has argued numerous times before the Fifth Circuit, previously clerked for highly respected Judge, Leslie Southwick, and has been a strong defender of Law Enforcement throughout his career. Todd has the unwavering support of Senators Roger Wicker and Cindy Hyde-Smith. The wonderful people of the Great State of Mississippi (one of my favorites!), and the rest of the Fifth Circuit, can count on Todd to protect the Constitution and the Rule of Law. Congratulations Todd! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42062",
+        "pubDate": "Thu, 01 Oct 2026 15:38:09 +0000",
+        "author": "",
+        "content": "<p>I am pleased to announce the nomination of Todd Butler to the United States Court of Appeals for the Fifth Circuit! A proud graduate of Mississippi State University and Mississippi College of Law (Graduating summa cum laude from both!), Todd is currently a Partner at Phelps Dunbar in Jackson, Mississippi. He has argued numerous times before the Fifth Circuit, previously clerked for highly respected Judge, Leslie Southwick, and has been a strong defender of Law Enforcement throughout his career. Todd has the unwavering support of Senators Roger Wicker and Cindy Hyde-Smith. The wonderful people of the Great State of Mississippi (one of my favorites!), and the rest of the Fifth Circuit, can count on Todd to protect the Constitution and the Rule of Law. Congratulations Todd! President DONALD J. TRUMP</p>",
+        "contentSnippet": "I am pleased to announce the nomination of Todd Butler to the United States Court of Appeals for the Fifth Circuit! A proud graduate of Mississippi State University and Mississippi College of Law (Graduating summa cum laude from both!), Todd is currently a Partner at Phelps Dunbar in Jackson, Mississippi. He has argued numerous times before the Fifth Circuit, previously clerked for highly respected Judge, Leslie Southwick, and has been a strong defender of Law Enforcement throughout his career. Todd has the unwavering support of Senators Roger Wicker and Cindy Hyde-Smith. The wonderful people of the Great State of Mississippi (one of my favorites!), and the rest of the Fifth Circuit, can count on Todd to protect the Constitution and the Rule of Law. Congratulations Todd! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42062",
+        "isoDate": "2026-10-01T15:38:09.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42063",
+      "publishedAt": "2026-10-01T15:57:58.000Z",
+      "title": "I am pleased to announce the nomination of Philip Aubart to the United States District Court for the Middle District of North Carolina! Phil is currently the First Assistant U.S. Attorney in the Eastern District of North Carolina, where he once served in the Office’s Violent Crimes Section, and is also a member of the U.S. Army JAG Corps. A graduate of Dartmouth College and Duke University School of Law, Phil previously clerked for Judge Terrence Boyle on the Eastern District of North Carolina, and has always delivered strong results for the Great People of North Carolina. Phil has earned the backing of both of his State’s Senators, Ted Budd and Thom Tillis and, additionally, is strongly recommended by Republican Candidate for United States Senate, and former Head of the Republican Party, Michael Whatley. North Carolina can count on Phil to protect Law and Order — He will not let you down. Congratulations Phil! President DONALD J. TRUMP",
+      "text": "<p>I am pleased to announce the nomination of Philip Aubart to the United States District Court for the Middle District of North Carolina! Phil is currently the First Assistant U.S. Attorney in the Eastern District of North Carolina, where he once served in the Office’s Violent Crimes Section, and is also a member of the U.S. Army JAG Corps. A graduate of Dartmouth College and Duke University School of Law, Phil previously clerked for Judge Terrence Boyle on the Eastern District of North Carolina, and has always delivered strong results for the Great People of North Carolina. Phil has earned the backing of both of his State’s Senators, Ted Budd and Thom Tillis and, additionally, is strongly recommended by Republican Candidate for United States Senate, and former Head of the Republican Party, Michael Whatley. North Carolina can count on Phil to protect Law and Order — He will not let you down. Congratulations Phil! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/42063",
+      "raw": {
+        "creator": "",
+        "title": "I am pleased to announce the nomination of Philip Aubart to the United States District Court for the Middle District of North Carolina! Phil is currently the First Assistant U.S. Attorney in the Eastern District of North Carolina, where he once served in the Office’s Violent Crimes Section, and is also a member of the U.S. Army JAG Corps. A graduate of Dartmouth College and Duke University School of Law, Phil previously clerked for Judge Terrence Boyle on the Eastern District of North Carolina, and has always delivered strong results for the Great People of North Carolina. Phil has earned the backing of both of his State’s Senators, Ted Budd and Thom Tillis and, additionally, is strongly recommended by Republican Candidate for United States Senate, and former Head of the Republican Party, Michael Whatley. North Carolina can count on Phil to protect Law and Order — He will not let you down. Congratulations Phil! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42063",
+        "pubDate": "Thu, 01 Oct 2026 15:57:58 +0000",
+        "author": "",
+        "content": "<p>I am pleased to announce the nomination of Philip Aubart to the United States District Court for the Middle District of North Carolina! Phil is currently the First Assistant U.S. Attorney in the Eastern District of North Carolina, where he once served in the Office’s Violent Crimes Section, and is also a member of the U.S. Army JAG Corps. A graduate of Dartmouth College and Duke University School of Law, Phil previously clerked for Judge Terrence Boyle on the Eastern District of North Carolina, and has always delivered strong results for the Great People of North Carolina. Phil has earned the backing of both of his State’s Senators, Ted Budd and Thom Tillis and, additionally, is strongly recommended by Republican Candidate for United States Senate, and former Head of the Republican Party, Michael Whatley. North Carolina can count on Phil to protect Law and Order — He will not let you down. Congratulations Phil! President DONALD J. TRUMP</p>",
+        "contentSnippet": "I am pleased to announce the nomination of Philip Aubart to the United States District Court for the Middle District of North Carolina! Phil is currently the First Assistant U.S. Attorney in the Eastern District of North Carolina, where he once served in the Office’s Violent Crimes Section, and is also a member of the U.S. Army JAG Corps. A graduate of Dartmouth College and Duke University School of Law, Phil previously clerked for Judge Terrence Boyle on the Eastern District of North Carolina, and has always delivered strong results for the Great People of North Carolina. Phil has earned the backing of both of his State’s Senators, Ted Budd and Thom Tillis and, additionally, is strongly recommended by Republican Candidate for United States Senate, and former Head of the Republican Party, Michael Whatley. North Carolina can count on Phil to protect Law and Order — He will not let you down. Congratulations Phil! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42063",
+        "isoDate": "2026-10-01T15:57:58.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -543,6 +612,43 @@
       "label": "positive",
       "rationale": "Praises Boeing's engineering and congratulates its leadership for producing a highly resilient aircraft.",
       "analyzedAt": "2026-10-01T08:02:55.921Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42060",
+      "label": "positive",
+      "rationale": "Celebrates Hispanic Americans and the administration's policies, while including critical remarks about political opponents and ideologies.",
+      "analyzedAt": "2026-10-01T16:01:15.749Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42061",
+      "label": "positive",
+      "rationale": "Offers enthusiastic congratulations and praise to Boeing for the aircraft's engineering and performance.",
+      "analyzedAt": "2026-10-01T16:01:15.749Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42062",
+      "label": "positive",
+      "rationale": "Strongly praises Todd Butler's credentials, legal career, support, and expected commitment to the Constitution and rule of law.",
+      "analyzedAt": "2026-10-01T16:01:15.749Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42063",
+      "label": "positive",
+      "rationale": "Expresses strong approval of Philip Aubart, praising his qualifications, endorsements, law-and-order record, and nomination.",
+      "analyzedAt": "2026-10-01T16:01:15.749Z"
+    }
+  ],
+  "secondaryHighlights": [
+    {
+      "topic": "I am pleased to announce the nomination of Philip Aubart to the United States District Court for the Middle District of North Carolina!",
+      "name": "Philip Aubart"
+    },
+    {
+      "topic": "Congratulations to the GREAT Boeing Company for producing a plane, the 737 Max, that was able to withstand G Forces and Strain far beyond what it was designed and expected to do."
+    },
+    {
+      "topic": "Jack Smith’s Team Ignored Attorney-Client And Speech Or Debate Privileges To Get Trump",
+      "name": "Jack Smith"
     }
   ]
 }

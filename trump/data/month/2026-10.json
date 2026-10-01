@@ -4,42 +4,47 @@
     {
       "date": "2026-10-01",
       "counts": {
-        "positive": 7,
+        "positive": 11,
         "neutral": 7,
         "negative": 7
       },
-      "summary": "positive:7 neutral:7 negative:7",
+      "summary": "positive:11 neutral:7 negative:7",
       "topics": [
-        "Jack Smith faces allegations of violating privileges and calls for criminal prosecution",
-        "Trump administration finalizes lower fuel-economy standards, reducing costs for gas-powered vehicles",
-        "Trump receives cheers and praise at major college football and Presidents Cup events"
+        "Jack Smith faces allegations of privilege violations, media spying, and potential criminal prosecution",
+        "Trump administration finalizes lower fuel-economy standards, reducing costs and favoring gas-powered vehicles",
+        "Trump nominates Todd Butler and Philip Aubart to federal judgeships"
       ],
-      "postsCount": 21,
+      "postsCount": 25,
       "hasDetail": true,
-      "generatedAt": "2026-10-01T12:01:18.319Z",
-      "trendingTopic": "Jack Smith faces allegations of violating privileges and calls for criminal prosecution",
+      "generatedAt": "2026-10-01T16:01:47.510Z",
+      "trendingTopic": "Jack Smith’s team accused of violating privileges and spying on media while targeting Trump",
       "trendingName": "Jack Smith",
       "secondaryHighlights": [
         {
-          "topic": "Trump administration finalizes lower fuel-economy standards, reducing costs for gas-powered vehicles"
+          "topic": "I am pleased to announce the nomination of Philip Aubart to the United States District Court for the Middle District of North Carolina!",
+          "name": "Philip Aubart"
         },
         {
-          "topic": "Trump receives cheers and praise at major college football and Presidents Cup events"
+          "topic": "Congratulations to the GREAT Boeing Company for producing a plane, the 737 Max, that was able to withstand G Forces and Strain far beyond what it was designed and expected to do."
+        },
+        {
+          "topic": "Jack Smith’s Team Ignored Attorney-Client And Speech Or Debate Privileges To Get Trump",
+          "name": "Jack Smith"
         }
       ],
       "selfPraiseCount": 2
     }
   ],
-  "generatedAt": "2026-10-01T12:01:18.319Z",
-  "trendingTopic": "Trump administration finalizes lower fuel-economy standards, reducing costs for gas-powered vehicles",
+  "generatedAt": "2026-10-01T16:01:47.510Z",
+  "trendingTopic": "Jack Smith faces allegations of privilege violations, media spying, and potential criminal prosecution",
+  "trendingName": "Jack Smith",
   "secondaryHighlights": [
     {
-      "topic": "Trump receives cheers and praise at major college football and Presidents Cup events"
+      "topic": "Trump administration finalizes lower fuel-economy standards favoring gas-powered vehicles"
     },
     {
-      "topic": "Jack Smith faces allegations of violating privileges and calls for criminal prosecution",
-      "name": "Jack Smith"
+      "topic": "Trump nominates Todd Butler and Philip Aubart to federal judgeships"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:1:60bdd04c9d167eda039384b0"
+  "topicsCacheKey": "month-themes-v5:1:c8826e3a9bfb235d6b2f5c9f"
 }
