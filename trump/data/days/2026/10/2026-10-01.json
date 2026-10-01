@@ -1,14 +1,476 @@
 {
   "date": "2026-10-01",
   "counts": {
-    "positive": 0,
-    "neutral": 0,
-    "negative": 0
+    "positive": 6,
+    "neutral": 7,
+    "negative": 5
   },
-  "summary": "positive:0 neutral:0 negative:0",
-  "generatedAt": "2026-10-01T00:05:07.396Z",
-  "topics": [],
-  "selfPraiseCount": 0,
-  "posts": [],
-  "sentiments": []
+  "summary": "positive:6 neutral:7 negative:5",
+  "generatedAt": "2026-10-01T04:05:15.216Z",
+  "topics": [
+    "Trump administration finalizes lower fuel economy standards, reducing new-vehicle costs and boosting gas-powered cars",
+    "Reports allege Jack Smith’s team violated legal privileges while investigating Trump and media outlets",
+    "Trump administration cancels nearly $1 billion for illegal immigrant and race-focused programs"
+  ],
+  "trendingTopic": "Trump administration finalizes lower fuel economy standards, reducing new-vehicle costs and boosting gas-powered cars",
+  "secondaryHighlights": [
+    {
+      "topic": "Reports allege Jack Smith’s team violated legal privileges while investigating Trump and media outlets",
+      "name": "Jack Smith"
+    },
+    {
+      "topic": "Trump administration cancels nearly $1 billion for illegal immigrant and race-focused programs"
+    }
+  ],
+  "selfPraiseCount": 2,
+  "posts": [
+    {
+      "id": "https://www.trumpstruth.org/statuses/42039",
+      "publishedAt": "2026-10-01T01:36:57.000Z",
+      "title": "[No Title] - Post from October 1, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42039",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 1, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42039",
+        "pubDate": "Thu, 01 Oct 2026 01:36:57 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42039",
+        "isoDate": "2026-10-01T01:36:57.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42038",
+      "publishedAt": "2026-10-01T01:37:09.000Z",
+      "title": "[No Title] - Post from October 1, 2026",
+      "text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117363088922196903</span></p>\n\n[Image] A screenshot of a social media post by Jason Brodsky (@JasonMBrodsky), whose profile photo and verified badge appear at the top. The post says Donald Trump was asked how to make a deal with “crazy people” in Iran’s regime and quotes him answering, “maybe blow them up,” followed by “The time for a decision is coming.”",
+      "url": "https://www.trumpstruth.org/statuses/42038",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 1, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42038",
+        "pubDate": "Thu, 01 Oct 2026 01:37:09 +0000",
+        "author": "",
+        "content": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117363088922196903</span></p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117363088922196903",
+        "guid": "https://www.trumpstruth.org/statuses/42038",
+        "isoDate": "2026-10-01T01:37:09.000Z"
+      },
+      "imageDescribedAt": "2026-10-01T04:04:45.496Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18328/f1fcaf8a3c6ecf76-065c96062c30.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42041",
+      "publishedAt": "2026-10-01T01:43:16.000Z",
+      "title": "[No Title] - Post from October 1, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42041",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 1, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42041",
+        "pubDate": "Thu, 01 Oct 2026 01:43:16 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42041",
+        "isoDate": "2026-10-01T01:43:16.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42040",
+      "publishedAt": "2026-10-01T01:47:40.000Z",
+      "title": "[No Title] - Post from October 1, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42040",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 1, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42040",
+        "pubDate": "Thu, 01 Oct 2026 01:47:40 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42040",
+        "isoDate": "2026-10-01T01:47:40.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42055",
+      "publishedAt": "2026-10-01T02:17:58.000Z",
+      "title": "Exclusive: Trump Cancels Nearly $1B In Funding For Illegal Immigrants And Race-Focused Programs In New ‘Pocket’ Rescission:",
+      "text": "<p>Exclusive: Trump Cancels Nearly $1B In Funding For Illegal Immigrants And Race-Focused Programs In New ‘Pocket’ Rescission: <a href=\"https://nypost.com/2026/09/25/us-news/trump-cancels-nearly-1b-in-funding-for-illegal-immigrants-and-race-focused-programs-in-new-pocket-rescission/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/09/25/us-news/</span><span class=\"invisible\">trump-cancels-nearly-1b-in-funding-for-illegal-immigrants-and-race-focused-programs-in-new-pocket-rescission/</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/42055",
+      "raw": {
+        "creator": "",
+        "title": "Exclusive: Trump Cancels Nearly $1B In Funding For Illegal Immigrants And Race-Focused Programs In New ‘Pocket’ Rescission:",
+        "link": "https://www.trumpstruth.org/statuses/42055",
+        "pubDate": "Thu, 01 Oct 2026 02:17:58 +0000",
+        "author": "",
+        "content": "<p>Exclusive: Trump Cancels Nearly $1B In Funding For Illegal Immigrants And Race-Focused Programs In New ‘Pocket’ Rescission: <a href=\"https://nypost.com/2026/09/25/us-news/trump-cancels-nearly-1b-in-funding-for-illegal-immigrants-and-race-focused-programs-in-new-pocket-rescission/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/09/25/us-news/</span><span class=\"invisible\">trump-cancels-nearly-1b-in-funding-for-illegal-immigrants-and-race-focused-programs-in-new-pocket-rescission/</span></a></p>",
+        "contentSnippet": "Exclusive: Trump Cancels Nearly $1B In Funding For Illegal Immigrants And Race-Focused Programs In New ‘Pocket’ Rescission: https://nypost.com/2026/09/25/us-news/trump-cancels-nearly-1b-in-funding-for-illegal-immigrants-and-race-focused-programs-in-new-pocket-rescission/",
+        "guid": "https://www.trumpstruth.org/statuses/42055",
+        "isoDate": "2026-10-01T02:17:58.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42043",
+      "publishedAt": "2026-10-01T02:18:21.000Z",
+      "title": "Trump met with roaring cheers at University of Tennessee-Texas Longhorns college football game:",
+      "text": "<p>Trump met with roaring cheers at University of Tennessee-Texas Longhorns college football game: <a href=\"https://nypost.com/2026/09/26/us-news/trump-met-cheered-at-university-of-tennessee-ut-football-game/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/09/26/us-news/</span><span class=\"invisible\">trump-met-cheered-at-university-of-tennessee-ut-football-game/</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/42043",
+      "raw": {
+        "creator": "",
+        "title": "Trump met with roaring cheers at University of Tennessee-Texas Longhorns college football game:",
+        "link": "https://www.trumpstruth.org/statuses/42043",
+        "pubDate": "Thu, 01 Oct 2026 02:18:21 +0000",
+        "author": "",
+        "content": "<p>Trump met with roaring cheers at University of Tennessee-Texas Longhorns college football game: <a href=\"https://nypost.com/2026/09/26/us-news/trump-met-cheered-at-university-of-tennessee-ut-football-game/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/09/26/us-news/</span><span class=\"invisible\">trump-met-cheered-at-university-of-tennessee-ut-football-game/</span></a></p>",
+        "contentSnippet": "Trump met with roaring cheers at University of Tennessee-Texas Longhorns college football game: https://nypost.com/2026/09/26/us-news/trump-met-cheered-at-university-of-tennessee-ut-football-game/",
+        "guid": "https://www.trumpstruth.org/statuses/42043",
+        "isoDate": "2026-10-01T02:18:21.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42042",
+      "publishedAt": "2026-10-01T02:18:40.000Z",
+      "title": "Team USA captain thanks Trump after massive Presidents Cup comeback: ‘He gets all the credit’:",
+      "text": "<p>Team USA captain thanks Trump after massive Presidents Cup comeback: ‘He gets all the credit’: <a href=\"https://www.foxnews.com/outkick-sports/team-usa-captain-thanks-trump-massive-presidents-cup-comeback-gets-all-credit\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/outkick-sports/tea</span><span class=\"invisible\">m-usa-captain-thanks-trump-massive-presidents-cup-comeback-gets-all-credit</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/42042",
+      "raw": {
+        "creator": "",
+        "title": "Team USA captain thanks Trump after massive Presidents Cup comeback: ‘He gets all the credit’:",
+        "link": "https://www.trumpstruth.org/statuses/42042",
+        "pubDate": "Thu, 01 Oct 2026 02:18:40 +0000",
+        "author": "",
+        "content": "<p>Team USA captain thanks Trump after massive Presidents Cup comeback: ‘He gets all the credit’: <a href=\"https://www.foxnews.com/outkick-sports/team-usa-captain-thanks-trump-massive-presidents-cup-comeback-gets-all-credit\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/outkick-sports/tea</span><span class=\"invisible\">m-usa-captain-thanks-trump-massive-presidents-cup-comeback-gets-all-credit</span></a></p>",
+        "contentSnippet": "Team USA captain thanks Trump after massive Presidents Cup comeback: ‘He gets all the credit’: https://www.foxnews.com/outkick-sports/team-usa-captain-thanks-trump-massive-presidents-cup-comeback-gets-all-credit",
+        "guid": "https://www.trumpstruth.org/statuses/42042",
+        "isoDate": "2026-10-01T02:18:40.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42054",
+      "publishedAt": "2026-10-01T02:19:05.000Z",
+      "title": "Iran’s economy will have ‘nothing’ left ‘within two weeks,’ Scott Bessent warns:",
+      "text": "<p>Iran’s economy will have ‘nothing’ left ‘within two weeks,’ Scott Bessent warns: <a href=\"https://nypost.com/2026/09/27/us-news/irans-economy-will-have-nothing-left-within-two-weeks-scott-bessent-warns/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/09/27/us-news/</span><span class=\"invisible\">irans-economy-will-have-nothing-left-within-two-weeks-scott-bessent-warns/</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/42054",
+      "raw": {
+        "creator": "",
+        "title": "Iran’s economy will have ‘nothing’ left ‘within two weeks,’ Scott Bessent warns:",
+        "link": "https://www.trumpstruth.org/statuses/42054",
+        "pubDate": "Thu, 01 Oct 2026 02:19:05 +0000",
+        "author": "",
+        "content": "<p>Iran’s economy will have ‘nothing’ left ‘within two weeks,’ Scott Bessent warns: <a href=\"https://nypost.com/2026/09/27/us-news/irans-economy-will-have-nothing-left-within-two-weeks-scott-bessent-warns/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/09/27/us-news/</span><span class=\"invisible\">irans-economy-will-have-nothing-left-within-two-weeks-scott-bessent-warns/</span></a></p>",
+        "contentSnippet": "Iran’s economy will have ‘nothing’ left ‘within two weeks,’ Scott Bessent warns: https://nypost.com/2026/09/27/us-news/irans-economy-will-have-nothing-left-within-two-weeks-scott-bessent-warns/",
+        "guid": "https://www.trumpstruth.org/statuses/42054",
+        "isoDate": "2026-10-01T02:19:05.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42053",
+      "publishedAt": "2026-10-01T02:19:24.000Z",
+      "title": "US finalizes new lower fuel economy standards in boost for gas-powered vehicles:",
+      "text": "<p>US finalizes new lower fuel economy standards in boost for gas-powered vehicles: <a href=\"https://www.reuters.com/business/autos-transportation/us-finalizes-new-lower-fuel-economy-standards-2026-09-28/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">reuters.com/business/autos-tra</span><span class=\"invisible\">nsportation/us-finalizes-new-lower-fuel-economy-standards-2026-09-28/</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/42053",
+      "raw": {
+        "creator": "",
+        "title": "US finalizes new lower fuel economy standards in boost for gas-powered vehicles:",
+        "link": "https://www.trumpstruth.org/statuses/42053",
+        "pubDate": "Thu, 01 Oct 2026 02:19:24 +0000",
+        "author": "",
+        "content": "<p>US finalizes new lower fuel economy standards in boost for gas-powered vehicles: <a href=\"https://www.reuters.com/business/autos-transportation/us-finalizes-new-lower-fuel-economy-standards-2026-09-28/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">reuters.com/business/autos-tra</span><span class=\"invisible\">nsportation/us-finalizes-new-lower-fuel-economy-standards-2026-09-28/</span></a></p>",
+        "contentSnippet": "US finalizes new lower fuel economy standards in boost for gas-powered vehicles: https://www.reuters.com/business/autos-transportation/us-finalizes-new-lower-fuel-economy-standards-2026-09-28/",
+        "guid": "https://www.trumpstruth.org/statuses/42053",
+        "isoDate": "2026-10-01T02:19:24.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42052",
+      "publishedAt": "2026-10-01T02:19:48.000Z",
+      "title": "Trump administration reinstates sexual misconduct rule for schools:",
+      "text": "<p>Trump administration reinstates sexual misconduct rule for schools: <a href=\"https://www.politico.com/news/2026/09/28/trump-administration-finalizes-repeal-of-biden-era-title-ix-rule-01094990\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">politico.com/news/2026/09/28/t</span><span class=\"invisible\">rump-administration-finalizes-repeal-of-biden-era-title-ix-rule-01094990</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/42052",
+      "raw": {
+        "creator": "",
+        "title": "Trump administration reinstates sexual misconduct rule for schools:",
+        "link": "https://www.trumpstruth.org/statuses/42052",
+        "pubDate": "Thu, 01 Oct 2026 02:19:48 +0000",
+        "author": "",
+        "content": "<p>Trump administration reinstates sexual misconduct rule for schools: <a href=\"https://www.politico.com/news/2026/09/28/trump-administration-finalizes-repeal-of-biden-era-title-ix-rule-01094990\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">politico.com/news/2026/09/28/t</span><span class=\"invisible\">rump-administration-finalizes-repeal-of-biden-era-title-ix-rule-01094990</span></a></p>",
+        "contentSnippet": "Trump administration reinstates sexual misconduct rule for schools: https://www.politico.com/news/2026/09/28/trump-administration-finalizes-repeal-of-biden-era-title-ix-rule-01094990",
+        "guid": "https://www.trumpstruth.org/statuses/42052",
+        "isoDate": "2026-10-01T02:19:48.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42051",
+      "publishedAt": "2026-10-01T02:20:11.000Z",
+      "title": "Trump envoys tout ‘real progress’ after marathon meetings at UN General Assembly: ‘Hope and promise’:",
+      "text": "<p>Trump envoys tout ‘real progress’ after marathon meetings at UN General Assembly: ‘Hope and promise’: <a href=\"https://nypost.com/2026/09/28/world-news/trump-envoys-tout-real-progress-after-marathon-meetings-at-un-general-assembly/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/09/28/world-ne</span><span class=\"invisible\">ws/trump-envoys-tout-real-progress-after-marathon-meetings-at-un-general-assembly/</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/42051",
+      "raw": {
+        "creator": "",
+        "title": "Trump envoys tout ‘real progress’ after marathon meetings at UN General Assembly: ‘Hope and promise’:",
+        "link": "https://www.trumpstruth.org/statuses/42051",
+        "pubDate": "Thu, 01 Oct 2026 02:20:11 +0000",
+        "author": "",
+        "content": "<p>Trump envoys tout ‘real progress’ after marathon meetings at UN General Assembly: ‘Hope and promise’: <a href=\"https://nypost.com/2026/09/28/world-news/trump-envoys-tout-real-progress-after-marathon-meetings-at-un-general-assembly/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/09/28/world-ne</span><span class=\"invisible\">ws/trump-envoys-tout-real-progress-after-marathon-meetings-at-un-general-assembly/</span></a></p>",
+        "contentSnippet": "Trump envoys tout ‘real progress’ after marathon meetings at UN General Assembly: ‘Hope and promise’: https://nypost.com/2026/09/28/world-news/trump-envoys-tout-real-progress-after-marathon-meetings-at-un-general-assembly/",
+        "guid": "https://www.trumpstruth.org/statuses/42051",
+        "isoDate": "2026-10-01T02:20:11.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42050",
+      "publishedAt": "2026-10-01T02:20:41.000Z",
+      "title": "EXCLUSIVE: Jack Smith’s Team Ignored Attorney-Client And Speech Or Debate Privileges To Get Trump:",
+      "text": "<p>EXCLUSIVE: Jack Smith’s Team Ignored Attorney-Client And Speech Or Debate Privileges To Get Trump: <br /><a href=\"https://thefederalist.com/2026/09/28/exclusive-jack-smiths-team-ignored-attorney-client-and-speech-or-debate-privileges-to-get-trump/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">thefederalist.com/2026/09/28/e</span><span class=\"invisible\">xclusive-jack-smiths-team-ignored-attorney-client-and-speech-or-debate-privileges-to-get-trump/</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/42050",
+      "raw": {
+        "creator": "",
+        "title": "EXCLUSIVE: Jack Smith’s Team Ignored Attorney-Client And Speech Or Debate Privileges To Get Trump:",
+        "link": "https://www.trumpstruth.org/statuses/42050",
+        "pubDate": "Thu, 01 Oct 2026 02:20:41 +0000",
+        "author": "",
+        "content": "<p>EXCLUSIVE: Jack Smith’s Team Ignored Attorney-Client And Speech Or Debate Privileges To Get Trump: <br /><a href=\"https://thefederalist.com/2026/09/28/exclusive-jack-smiths-team-ignored-attorney-client-and-speech-or-debate-privileges-to-get-trump/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">thefederalist.com/2026/09/28/e</span><span class=\"invisible\">xclusive-jack-smiths-team-ignored-attorney-client-and-speech-or-debate-privileges-to-get-trump/</span></a></p>",
+        "contentSnippet": "EXCLUSIVE: Jack Smith’s Team Ignored Attorney-Client And Speech Or Debate Privileges To Get Trump: \nhttps://thefederalist.com/2026/09/28/exclusive-jack-smiths-team-ignored-attorney-client-and-speech-or-debate-privileges-to-get-trump/",
+        "guid": "https://www.trumpstruth.org/statuses/42050",
+        "isoDate": "2026-10-01T02:20:41.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42045",
+      "publishedAt": "2026-10-01T02:21:37.000Z",
+      "title": "Trump Admin Kills Biden’s Fuel Economy Rules, Says New Cars Will Cost $1,300 Less:",
+      "text": "<p>Trump Admin Kills Biden’s Fuel Economy Rules, Says New Cars Will Cost $1,300 Less: <a href=\"https://dailycaller.com/2026/09/28/trump-fuel-economy-standards-ev-mandate-duffy-nhtsa-steve-milloy-jason-isaac/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dailycaller.com/2026/09/28/tru</span><span class=\"invisible\">mp-fuel-economy-standards-ev-mandate-duffy-nhtsa-steve-milloy-jason-isaac/</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/42045",
+      "raw": {
+        "creator": "",
+        "title": "Trump Admin Kills Biden’s Fuel Economy Rules, Says New Cars Will Cost $1,300 Less:",
+        "link": "https://www.trumpstruth.org/statuses/42045",
+        "pubDate": "Thu, 01 Oct 2026 02:21:37 +0000",
+        "author": "",
+        "content": "<p>Trump Admin Kills Biden’s Fuel Economy Rules, Says New Cars Will Cost $1,300 Less: <a href=\"https://dailycaller.com/2026/09/28/trump-fuel-economy-standards-ev-mandate-duffy-nhtsa-steve-milloy-jason-isaac/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dailycaller.com/2026/09/28/tru</span><span class=\"invisible\">mp-fuel-economy-standards-ev-mandate-duffy-nhtsa-steve-milloy-jason-isaac/</span></a></p>",
+        "contentSnippet": "Trump Admin Kills Biden’s Fuel Economy Rules, Says New Cars Will Cost $1,300 Less: https://dailycaller.com/2026/09/28/trump-fuel-economy-standards-ev-mandate-duffy-nhtsa-steve-milloy-jason-isaac/",
+        "guid": "https://www.trumpstruth.org/statuses/42045",
+        "isoDate": "2026-10-01T02:21:37.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42044",
+      "publishedAt": "2026-10-01T02:22:03.000Z",
+      "title": "Exclusive: Hegseth directs Defense Dept. to fight foreigners who \"meddle\" in U.S. elections:",
+      "text": "<p>Exclusive: Hegseth directs Defense Dept. to fight foreigners who \"meddle\" in U.S. elections: <a href=\"https://www.axios.com/2026/09/28/hegseth-elections-security-order\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">axios.com/2026/09/28/hegseth-e</span><span class=\"invisible\">lections-security-order</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/42044",
+      "raw": {
+        "creator": "",
+        "title": "Exclusive: Hegseth directs Defense Dept. to fight foreigners who \"meddle\" in U.S. elections:",
+        "link": "https://www.trumpstruth.org/statuses/42044",
+        "pubDate": "Thu, 01 Oct 2026 02:22:03 +0000",
+        "author": "",
+        "content": "<p>Exclusive: Hegseth directs Defense Dept. to fight foreigners who \"meddle\" in U.S. elections: <a href=\"https://www.axios.com/2026/09/28/hegseth-elections-security-order\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">axios.com/2026/09/28/hegseth-e</span><span class=\"invisible\">lections-security-order</span></a></p>",
+        "contentSnippet": "Exclusive: Hegseth directs Defense Dept. to fight foreigners who \"meddle\" in U.S. elections: https://www.axios.com/2026/09/28/hegseth-elections-security-order",
+        "guid": "https://www.trumpstruth.org/statuses/42044",
+        "isoDate": "2026-10-01T02:22:03.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42049",
+      "publishedAt": "2026-10-01T02:24:52.000Z",
+      "title": "[No Title] - Post from October 1, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42049",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 1, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42049",
+        "pubDate": "Thu, 01 Oct 2026 02:24:52 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42049",
+        "isoDate": "2026-10-01T02:24:52.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42047",
+      "publishedAt": "2026-10-01T02:25:24.000Z",
+      "title": "RT @realDonaldTrump",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p>\n\n[Image] A screenshot of a social-media post by Jason Brodsky (@JasonMBrodsky), shown with his profile photo and a verified badge. The post says that Donald Trump was asked how to reach a deal with “crazy people” in Iran’s regime and answered, “maybe blow them up,” adding that the time for a decision is coming.",
+      "url": "https://www.trumpstruth.org/statuses/42047",
+      "raw": {
+        "creator": "",
+        "title": "RT @realDonaldTrump",
+        "link": "https://www.trumpstruth.org/statuses/42047",
+        "pubDate": "Thu, 01 Oct 2026 02:25:24 +0000",
+        "author": "",
+        "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p>",
+        "contentSnippet": "RT @realDonaldTrump",
+        "guid": "https://www.trumpstruth.org/statuses/42047",
+        "isoDate": "2026-10-01T02:25:24.000Z"
+      },
+      "imageDescribedAt": "2026-10-01T04:04:39.984Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18328/f1fcaf8a3c6ecf76-065c96062c30.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42046",
+      "publishedAt": "2026-10-01T02:25:30.000Z",
+      "title": "RT @realDonaldTrump",
+      "text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p>",
+      "url": "https://www.trumpstruth.org/statuses/42046",
+      "raw": {
+        "creator": "",
+        "title": "RT @realDonaldTrump",
+        "link": "https://www.trumpstruth.org/statuses/42046",
+        "pubDate": "Thu, 01 Oct 2026 02:25:30 +0000",
+        "author": "",
+        "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p>",
+        "contentSnippet": "RT @realDonaldTrump",
+        "guid": "https://www.trumpstruth.org/statuses/42046",
+        "isoDate": "2026-10-01T02:25:30.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42056",
+      "publishedAt": "2026-10-01T03:29:22.000Z",
+      "title": "Media coverage of Trump's CNN ouster, Jack Smith spying on news outlets exposes double standard:",
+      "text": "<p>Media coverage of Trump's CNN ouster, Jack Smith spying on news outlets exposes double standard: <a href=\"https://justthenews.com/government/white-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-when\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-when</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/42056",
+      "raw": {
+        "creator": "",
+        "title": "Media coverage of Trump's CNN ouster, Jack Smith spying on news outlets exposes double standard:",
+        "link": "https://www.trumpstruth.org/statuses/42056",
+        "pubDate": "Thu, 01 Oct 2026 03:29:22 +0000",
+        "author": "",
+        "content": "<p>Media coverage of Trump's CNN ouster, Jack Smith spying on news outlets exposes double standard: <a href=\"https://justthenews.com/government/white-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-when\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-when</span></a></p>",
+        "contentSnippet": "Media coverage of Trump's CNN ouster, Jack Smith spying on news outlets exposes double standard: https://justthenews.com/government/white-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-when",
+        "guid": "https://www.trumpstruth.org/statuses/42056",
+        "isoDate": "2026-10-01T03:29:22.000Z"
+      }
+    }
+  ],
+  "sentiments": [
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42038",
+      "label": "negative",
+      "rationale": "Repeats a threatening statement about possibly attacking people in Iran.",
+      "analyzedAt": "2026-10-01T04:04:59.003Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42039",
+      "label": "neutral",
+      "rationale": "Contains no substantive text.",
+      "analyzedAt": "2026-10-01T04:04:59.003Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42040",
+      "label": "neutral",
+      "rationale": "Contains no substantive text.",
+      "analyzedAt": "2026-10-01T04:04:59.003Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42041",
+      "label": "neutral",
+      "rationale": "Contains no substantive text.",
+      "analyzedAt": "2026-10-01T04:04:59.003Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42042",
+      "label": "positive",
+      "rationale": "Praises Trump by attributing credit to him after a major sports comeback.",
+      "analyzedAt": "2026-10-01T04:04:59.003Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42043",
+      "label": "positive",
+      "rationale": "Describes Trump receiving roaring cheers at a football game.",
+      "analyzedAt": "2026-10-01T04:04:59.003Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42044",
+      "label": "neutral",
+      "rationale": "Reports a Defense Department directive in a factual, headline-style manner.",
+      "analyzedAt": "2026-10-01T04:04:59.003Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42045",
+      "label": "positive",
+      "rationale": "Presents the administration's policy change as beneficial because new cars will cost less.",
+      "analyzedAt": "2026-10-01T04:04:59.003Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42046",
+      "label": "neutral",
+      "rationale": "Contains only a repost attribution without substantive content.",
+      "analyzedAt": "2026-10-01T04:04:59.003Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42047",
+      "label": "negative",
+      "rationale": "Reports a threatening statement about potentially blowing up people in Iran.",
+      "analyzedAt": "2026-10-01T04:04:59.003Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42049",
+      "label": "neutral",
+      "rationale": "Contains no substantive text.",
+      "analyzedAt": "2026-10-01T04:04:59.003Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42050",
+      "label": "negative",
+      "rationale": "Accuses Jack Smith's team of improperly ignoring legal privileges.",
+      "analyzedAt": "2026-10-01T04:04:59.003Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42051",
+      "label": "positive",
+      "rationale": "Highlights reported progress and hope from diplomatic meetings involving Trump's envoys.",
+      "analyzedAt": "2026-10-01T04:04:59.003Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42052",
+      "label": "neutral",
+      "rationale": "States a policy action without clear emotional or evaluative language.",
+      "analyzedAt": "2026-10-01T04:04:59.003Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42053",
+      "label": "positive",
+      "rationale": "Describes the standards change as a boost for gas-powered vehicles.",
+      "analyzedAt": "2026-10-01T04:04:59.003Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42054",
+      "label": "negative",
+      "rationale": "Warns of Iran's economy being left with nothing within two weeks.",
+      "analyzedAt": "2026-10-01T04:04:59.003Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42055",
+      "label": "positive",
+      "rationale": "Frames Trump's cancellation of nearly $1 billion in funding as a favorable action.",
+      "analyzedAt": "2026-10-01T04:04:59.003Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42056",
+      "label": "negative",
+      "rationale": "Accuses media coverage and Jack Smith's team of exposing a double standard.",
+      "analyzedAt": "2026-10-01T04:04:59.003Z"
+    }
+  ],
+  "topicsCacheKey": "day-themes-v11:18:b336d403536490324c6e607e",
+  "selfPraiseCacheKey": "self-praise-v2:18:b336d403536490324c6e607e",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/42043",
+    "https://www.trumpstruth.org/statuses/42042"
+  ]
 }
