@@ -16,7 +16,7 @@
       ],
       "postsCount": 37,
       "hasDetail": true,
-      "generatedAt": "2026-10-02T16:00:20.893Z",
+      "generatedAt": "2026-10-02T20:00:40.227Z",
       "trendingTopic": "Trump nominates three attorneys to federal judgeships in Mississippi and North Carolina",
       "secondaryHighlights": [
         {
@@ -32,23 +32,23 @@
     {
       "date": "2026-10-02",
       "counts": {
-        "positive": 4,
-        "neutral": 1,
+        "positive": 5,
+        "neutral": 2,
         "negative": 0
       },
-      "summary": "positive:4 neutral:1 negative:0",
+      "summary": "positive:5 neutral:2 negative:0",
       "topics": [
-        "Trump highlights South Korean oil investment and European diesel release as energy-security gains",
-        "Trump announces imminent arrival in Oklahoma",
+        "Trump announces South Korean oil project and European diesel release to strengthen energy security",
+        "Trump arrives in Oklahoma",
         "Trump says America belongs to those who love it"
       ],
-      "postsCount": 5,
+      "postsCount": 7,
       "hasDetail": true,
-      "generatedAt": "2026-10-02T16:00:41.376Z",
-      "trendingTopic": "Trump highlights South Korean oil investment and European diesel release as energy-security gains",
+      "generatedAt": "2026-10-02T20:01:03.664Z",
+      "trendingTopic": "Trump announces South Korean oil project and European diesel release to strengthen energy security",
       "secondaryHighlights": [
         {
-          "topic": "Trump announces imminent arrival in Oklahoma"
+          "topic": "Trump arrives in Oklahoma"
         },
         {
           "topic": "Trump says America belongs to those who love it"
@@ -57,18 +57,19 @@
       "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-10-02T16:00:41.376Z",
+  "generatedAt": "2026-10-02T20:01:03.664Z",
   "trendingTopic": "Trump nominates three attorneys to federal judgeships in Mississippi and North Carolina",
   "secondaryHighlights": [
     {
-      "topic": "Trump highlights South Korean oil investment and European diesel release as energy-security gains"
+      "topic": "Jack Smith faces allegations of privilege violations and calls for criminal prosecution",
+      "name": "Jack Smith"
     },
     {
-      "topic": "Trump announces imminent arrival in Oklahoma"
+      "topic": "Trump claims Iran’s nuclear threat was eliminated as officials warn its economy faces collapse"
     },
     {
-      "topic": "Trump says America belongs to those who love it"
+      "topic": "Trump announces South Korean oil project and European diesel release to strengthen energy security"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:2:4c7379c51f458decebdc8dac"
+  "topicsCacheKey": "month-themes-v5:2:4e38a354dd36e7e8ae8ba47a"
 }

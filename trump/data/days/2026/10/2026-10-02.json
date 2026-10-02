@@ -1,29 +1,29 @@
 {
   "date": "2026-10-02",
   "counts": {
-    "positive": 4,
-    "neutral": 1,
+    "positive": 5,
+    "neutral": 2,
     "negative": 0
   },
-  "summary": "positive:4 neutral:1 negative:0",
-  "generatedAt": "2026-10-02T16:00:41.376Z",
+  "summary": "positive:5 neutral:2 negative:0",
+  "generatedAt": "2026-10-02T20:01:03.664Z",
   "topics": [
-    "Trump highlights South Korean oil investment and European diesel release as energy-security gains",
-    "Trump announces imminent arrival in Oklahoma",
+    "Trump announces South Korean oil project and European diesel release to strengthen energy security",
+    "Trump arrives in Oklahoma",
     "Trump says America belongs to those who love it"
   ],
-  "trendingTopic": "Trump highlights South Korean oil investment and European diesel release as energy-security gains",
+  "trendingTopic": "Trump announces South Korean oil project and European diesel release to strengthen energy security",
   "secondaryHighlights": [
     {
-      "topic": "Trump announces imminent arrival in Oklahoma"
+      "topic": "Trump arrives in Oklahoma"
     },
     {
       "topic": "Trump says America belongs to those who love it"
     }
   ],
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v11:5:d11995302675466dcd79751f",
-  "selfPraiseCacheKey": "self-praise-v2:5:d11995302675466dcd79751f",
+  "topicsCacheKey": "day-themes-v11:7:93576809a3ebdaedb2ad0773",
+  "selfPraiseCacheKey": "self-praise-v2:7:93576809a3ebdaedb2ad0773",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/42076",
@@ -114,6 +114,46 @@
         "guid": "https://www.trumpstruth.org/statuses/42081",
         "isoDate": "2026-10-02T14:01:01.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42083",
+      "publishedAt": "2026-10-02T18:38:09.000Z",
+      "title": "[No Title] - Post from October 2, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42083",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 2, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42083",
+        "pubDate": "Fri, 02 Oct 2026 18:38:09 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42083",
+        "isoDate": "2026-10-02T18:38:09.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42082",
+      "publishedAt": "2026-10-02T18:38:20.000Z",
+      "title": "[No Title] - Post from October 2, 2026",
+      "text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117372766735299421</span></p>\n\n[Image] A screenshot of an X post by Laura Loomer discusses Yaniv Hayoun, an Israeli plumber credited with helping prevent a hijacked aircraft from crashing. The post quotes him asking Benjamin Netanyahu to tell Donald Trump that he supports him and suggests sending Hayoun a signed MAGA hat. An embedded post by Benjamin Netanyahu mentions meeting heroes of the Dubai flight.",
+      "url": "https://www.trumpstruth.org/statuses/42082",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 2, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42082",
+        "pubDate": "Fri, 02 Oct 2026 18:38:20 +0000",
+        "author": "",
+        "content": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117372766735299421</span></p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117372766735299421",
+        "guid": "https://www.trumpstruth.org/statuses/42082",
+        "isoDate": "2026-10-02T18:38:20.000Z"
+      },
+      "imageDescribedAt": "2026-10-02T20:00:47.806Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18344/79649d0975e30fb7-3a602fa2ac35.png"
+      ]
     }
   ],
   "sentiments": [
@@ -146,6 +186,18 @@
       "label": "positive",
       "rationale": "Celebrates Europe's agreement to release diesel oil and expresses gratitude.",
       "analyzedAt": "2026-10-02T16:00:28.433Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42082",
+      "label": "positive",
+      "rationale": "The post highlights a heroic act and expresses support for Donald Trump, including a suggestion to honor the individual with a MAGA hat.",
+      "analyzedAt": "2026-10-02T20:00:50.670Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42083",
+      "label": "neutral",
+      "rationale": "The post contains no substantive text or sentiment.",
+      "analyzedAt": "2026-10-02T20:00:50.670Z"
     }
   ]
 }
