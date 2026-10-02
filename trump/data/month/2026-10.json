@@ -16,7 +16,7 @@
       ],
       "postsCount": 37,
       "hasDetail": true,
-      "generatedAt": "2026-10-02T04:03:59.372Z",
+      "generatedAt": "2026-10-02T08:02:06.739Z",
       "trendingTopic": "Trump nominates three attorneys to federal judgeships in Mississippi and North Carolina",
       "secondaryHighlights": [
         {
@@ -32,32 +32,40 @@
     {
       "date": "2026-10-02",
       "counts": {
-        "positive": 1,
-        "neutral": 0,
+        "positive": 2,
+        "neutral": 1,
         "negative": 0
       },
-      "summary": "positive:1 neutral:0 negative:0",
+      "summary": "positive:2 neutral:1 negative:0",
       "topics": [
-        "Trump announces he is minutes away from arriving in Oklahoma"
+        "Donald Trump announces he is minutes away from arriving in Oklahoma",
+        "Donald Trump says America belongs to those who love it"
       ],
-      "postsCount": 1,
+      "postsCount": 3,
       "hasDetail": true,
-      "generatedAt": "2026-10-02T04:04:02.697Z",
+      "generatedAt": "2026-10-02T08:02:23.662Z",
       "trendingTopic": "Donald Trump announces he is minutes away from arriving in Oklahoma",
       "secondaryHighlights": [
         {
-          "topic": "I’m almost there Oklahoma"
+          "topic": "Donald Trump says America belongs to those who love it"
         }
       ],
       "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-10-02T04:04:02.697Z",
-  "trendingTopic": "Trump nominates three attorneys to federal judgeships in Mississippi and North Carolina",
+  "generatedAt": "2026-10-02T08:02:23.662Z",
+  "trendingTopic": "Nominates three attorneys to federal judgeships in Mississippi and North Carolina",
   "secondaryHighlights": [
+    {
+      "topic": "Jack Smith faces allegations of privilege violations and calls for criminal prosecution",
+      "name": "Jack Smith"
+    },
+    {
+      "topic": "Claims Iran’s nuclear threat was eliminated as its economy faces collapse"
+    },
     {
       "topic": "Donald Trump announces he is minutes away from arriving in Oklahoma"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:2:6d59cd2606542c2581defa07"
+  "topicsCacheKey": "month-themes-v5:2:0d653f0adc08cec0340a42b5"
 }

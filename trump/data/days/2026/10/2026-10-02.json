@@ -1,24 +1,25 @@
 {
   "date": "2026-10-02",
   "counts": {
-    "positive": 1,
-    "neutral": 0,
+    "positive": 2,
+    "neutral": 1,
     "negative": 0
   },
-  "summary": "positive:1 neutral:0 negative:0",
-  "generatedAt": "2026-10-02T04:04:02.697Z",
+  "summary": "positive:2 neutral:1 negative:0",
+  "generatedAt": "2026-10-02T08:02:23.662Z",
   "topics": [
-    "Trump announces he is minutes away from arriving in Oklahoma"
+    "Donald Trump announces he is minutes away from arriving in Oklahoma",
+    "Donald Trump says America belongs to those who love it"
   ],
   "trendingTopic": "Donald Trump announces he is minutes away from arriving in Oklahoma",
   "secondaryHighlights": [
     {
-      "topic": "I’m almost there Oklahoma"
+      "topic": "Donald Trump says America belongs to those who love it"
     }
   ],
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v11:1:f1ad4f7a05df518006e7ffca",
-  "selfPraiseCacheKey": "self-praise-v2:1:f1ad4f7a05df518006e7ffca",
+  "topicsCacheKey": "day-themes-v11:3:161d1d87cfb0872c7fcffead",
+  "selfPraiseCacheKey": "self-praise-v2:3:161d1d87cfb0872c7fcffead",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/42076",
@@ -37,6 +38,42 @@
         "guid": "https://www.trumpstruth.org/statuses/42076",
         "isoDate": "2026-10-02T00:01:16.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42078",
+      "publishedAt": "2026-10-02T04:36:54.000Z",
+      "title": "America does not belong to those who hate it. America belongs to those who love it! President DONALD J. TRUMP",
+      "text": "<p>America does not belong to those who hate it. America belongs to those who love it! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/42078",
+      "raw": {
+        "creator": "",
+        "title": "America does not belong to those who hate it. America belongs to those who love it! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42078",
+        "pubDate": "Fri, 02 Oct 2026 04:36:54 +0000",
+        "author": "",
+        "content": "<p>America does not belong to those who hate it. America belongs to those who love it! President DONALD J. TRUMP</p>",
+        "contentSnippet": "America does not belong to those who hate it. America belongs to those who love it! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42078",
+        "isoDate": "2026-10-02T04:36:54.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42079",
+      "publishedAt": "2026-10-02T06:29:16.000Z",
+      "title": "[No Title] - Post from October 2, 2026",
+      "text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117367780569149238</span></p>",
+      "url": "https://www.trumpstruth.org/statuses/42079",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 2, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42079",
+        "pubDate": "Fri, 02 Oct 2026 06:29:16 +0000",
+        "author": "",
+        "content": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117367780569149238</span></p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117367780569149238",
+        "guid": "https://www.trumpstruth.org/statuses/42079",
+        "isoDate": "2026-10-02T06:29:16.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -45,6 +82,18 @@
       "label": "positive",
       "rationale": "The message conveys upbeat anticipation about arriving soon in Oklahoma.",
       "analyzedAt": "2026-10-02T00:02:22.925Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42078",
+      "label": "positive",
+      "rationale": "Expresses love and belonging toward America in an affirming patriotic statement.",
+      "analyzedAt": "2026-10-02T08:02:13.408Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42079",
+      "label": "neutral",
+      "rationale": "Contains only a repost link without substantive sentiment.",
+      "analyzedAt": "2026-10-02T08:02:13.408Z"
     }
   ]
 }
