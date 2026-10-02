@@ -4,44 +4,60 @@
     {
       "date": "2026-10-01",
       "counts": {
-        "positive": 16,
-        "neutral": 11,
+        "positive": 17,
+        "neutral": 13,
         "negative": 7
       },
-      "summary": "positive:16 neutral:11 negative:7",
+      "summary": "positive:17 neutral:13 negative:7",
       "topics": [
-        "Nominates three federal judges for courts in Mississippi and North Carolina",
-        "Jack Smith faces accusations of privilege violations, media spying, and calls for prosecution",
-        "Trump administration finalizes lower fuel-economy standards that reduce new-car costs"
+        "Trump nominates three attorneys to federal judgeships in Mississippi and North Carolina",
+        "Jack Smith faces allegations of privilege violations and calls for criminal prosecution over his investigations",
+        "Trump claims Iran’s nuclear threat was eliminated as officials warn its economy faces collapse"
       ],
-      "postsCount": 34,
+      "postsCount": 37,
       "hasDetail": true,
-      "generatedAt": "2026-10-01T20:04:28.412Z",
-      "trendingTopic": "Trump nominates Todd Butler, Philip Aubart, and Brian Meyers to federal judgeships",
+      "generatedAt": "2026-10-02T00:02:39.631Z",
+      "trendingTopic": "Trump nominates three attorneys to federal judgeships in Mississippi and North Carolina",
       "secondaryHighlights": [
         {
-          "topic": "Trump and Scott Bessent tout pressure on Iran as its economy and nuclear threat face collapse"
+          "topic": "Jack Smith faces allegations of privilege violations and calls for criminal prosecution over his investigations",
+          "name": "Jack Smith"
         },
         {
-          "topic": "Trump administration cancels nearly $1 billion for illegal-immigrant and race-focused programs"
-        },
-        {
-          "topic": "Trump says prices are falling rapidly after Biden-era inflation"
+          "topic": "Trump claims Iran’s nuclear threat was eliminated as officials warn its economy faces collapse"
         }
       ],
-      "selfPraiseCount": 5
-    }
-  ],
-  "generatedAt": "2026-10-01T20:04:28.412Z",
-  "trendingTopic": "Nominates three federal judges for courts in Mississippi and North Carolina",
-  "secondaryHighlights": [
-    {
-      "topic": "Jack Smith faces accusations of privilege violations, media spying, and calls for prosecution",
-      "name": "Jack Smith"
+      "selfPraiseCount": 6
     },
     {
-      "topic": "Finalizes lower fuel-economy standards to reduce new-car costs"
+      "date": "2026-10-02",
+      "counts": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "positive:1 neutral:0 negative:0",
+      "topics": [
+        "Trump announces he is minutes away from arriving in Oklahoma"
+      ],
+      "postsCount": 1,
+      "hasDetail": true,
+      "generatedAt": "2026-10-02T00:02:42.406Z",
+      "trendingTopic": "Donald Trump announces he is minutes away from arriving in Oklahoma",
+      "secondaryHighlights": [
+        {
+          "topic": "I’m almost there Oklahoma"
+        }
+      ],
+      "selfPraiseCount": 0
     }
   ],
-  "topicsCacheKey": "month-themes-v5:1:4137a37ef82ae176a78141bc"
+  "generatedAt": "2026-10-02T00:02:42.406Z",
+  "trendingTopic": "Trump nominates three attorneys to federal judgeships in Mississippi and North Carolina",
+  "secondaryHighlights": [
+    {
+      "topic": "Donald Trump announces he is minutes away from arriving in Oklahoma"
+    }
+  ],
+  "topicsCacheKey": "month-themes-v5:2:6d59cd2606542c2581defa07"
 }

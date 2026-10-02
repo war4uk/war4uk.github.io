@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-02",
+  "counts": {
+    "positive": 1,
+    "neutral": 0,
+    "negative": 0
+  },
+  "summary": "positive:1 neutral:0 negative:0",
+  "generatedAt": "2026-10-02T00:02:42.406Z",
+  "topics": [
+    "Trump announces he is minutes away from arriving in Oklahoma"
+  ],
+  "trendingTopic": "Donald Trump announces he is minutes away from arriving in Oklahoma",
+  "selfPraiseCount": 0,
+  "posts": [
+    {
+      "id": "https://www.trumpstruth.org/statuses/42076",
+      "publishedAt": "2026-10-02T00:01:16.000Z",
+      "title": "I’m almost there Oklahoma — 10 minutes! President DONALD J. TRUMP",
+      "text": "<p>I’m almost there Oklahoma — 10 minutes! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/42076",
+      "raw": {
+        "creator": "",
+        "title": "I’m almost there Oklahoma — 10 minutes! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42076",
+        "pubDate": "Fri, 02 Oct 2026 00:01:16 +0000",
+        "author": "",
+        "content": "<p>I’m almost there Oklahoma — 10 minutes! President DONALD J. TRUMP</p>",
+        "contentSnippet": "I’m almost there Oklahoma — 10 minutes! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42076",
+        "isoDate": "2026-10-02T00:01:16.000Z"
+      }
+    }
+  ],
+  "sentiments": [
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42076",
+      "label": "positive",
+      "rationale": "The message conveys upbeat anticipation about arriving soon in Oklahoma.",
+      "analyzedAt": "2026-10-02T00:02:22.925Z"
+    }
+  ],
+  "topicsCacheKey": "day-themes-v11:1:f1ad4f7a05df518006e7ffca",
+  "selfPraiseCacheKey": "self-praise-v2:1:f1ad4f7a05df518006e7ffca",
+  "secondaryHighlights": [
+    {
+      "topic": "I’m almost there Oklahoma"
+    }
+  ]
+}

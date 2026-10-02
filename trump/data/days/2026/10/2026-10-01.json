@@ -1,38 +1,37 @@
 {
   "date": "2026-10-01",
   "counts": {
-    "positive": 16,
-    "neutral": 11,
+    "positive": 17,
+    "neutral": 13,
     "negative": 7
   },
-  "summary": "positive:16 neutral:11 negative:7",
-  "generatedAt": "2026-10-01T20:04:28.412Z",
+  "summary": "positive:17 neutral:13 negative:7",
+  "generatedAt": "2026-10-02T00:02:39.631Z",
   "topics": [
-    "Nominates three federal judges for courts in Mississippi and North Carolina",
-    "Jack Smith faces accusations of privilege violations, media spying, and calls for prosecution",
-    "Trump administration finalizes lower fuel-economy standards that reduce new-car costs"
+    "Trump nominates three attorneys to federal judgeships in Mississippi and North Carolina",
+    "Jack Smith faces allegations of privilege violations and calls for criminal prosecution over his investigations",
+    "Trump claims Iran’s nuclear threat was eliminated as officials warn its economy faces collapse"
   ],
-  "trendingTopic": "Trump nominates Todd Butler, Philip Aubart, and Brian Meyers to federal judgeships",
+  "trendingTopic": "Trump nominates three attorneys to federal judgeships in Mississippi and North Carolina",
   "secondaryHighlights": [
     {
-      "topic": "Trump and Scott Bessent tout pressure on Iran as its economy and nuclear threat face collapse"
+      "topic": "Jack Smith faces allegations of privilege violations and calls for criminal prosecution over his investigations",
+      "name": "Jack Smith"
     },
     {
-      "topic": "Trump administration cancels nearly $1 billion for illegal-immigrant and race-focused programs"
-    },
-    {
-      "topic": "Trump says prices are falling rapidly after Biden-era inflation"
+      "topic": "Trump claims Iran’s nuclear threat was eliminated as officials warn its economy faces collapse"
     }
   ],
-  "selfPraiseCount": 5,
-  "topicsCacheKey": "day-themes-v11:34:8762978312d967c70cc00662",
-  "selfPraiseCacheKey": "self-praise-v2:34:8762978312d967c70cc00662",
+  "selfPraiseCount": 6,
+  "topicsCacheKey": "day-themes-v11:37:3a701e0f7b5056ed2c3660c0",
+  "selfPraiseCacheKey": "self-praise-v2:37:3a701e0f7b5056ed2c3660c0",
   "selfPraisePostIds": [
     "https://www.trumpstruth.org/statuses/42043",
     "https://www.trumpstruth.org/statuses/42042",
     "https://www.trumpstruth.org/statuses/42067",
     "https://www.trumpstruth.org/statuses/42069",
-    "https://www.trumpstruth.org/statuses/42072"
+    "https://www.trumpstruth.org/statuses/42072",
+    "https://www.trumpstruth.org/statuses/42075"
   ],
   "posts": [
     {
@@ -667,6 +666,60 @@
         "guid": "https://www.trumpstruth.org/statuses/42072",
         "isoDate": "2026-10-01T18:38:20.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42073",
+      "publishedAt": "2026-10-01T21:30:06.000Z",
+      "title": "[No Title] - Post from October 1, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42073",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 1, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42073",
+        "pubDate": "Thu, 01 Oct 2026 21:30:06 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42073",
+        "isoDate": "2026-10-01T21:30:06.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42074",
+      "publishedAt": "2026-10-01T23:33:40.000Z",
+      "title": "[No Title] - Post from October 1, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42074",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 1, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42074",
+        "pubDate": "Thu, 01 Oct 2026 23:33:40 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42074",
+        "isoDate": "2026-10-01T23:33:40.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42075",
+      "publishedAt": "2026-10-01T23:39:11.000Z",
+      "title": "To the Great People of Oklahoma, stay tuned — I’ll be there soon! There was a major weather delay, and the planes and helicopters were not able to land, so we’re driving up from Texas. They wanted me to postpone the event, and I said, “NO WAY, I’M GOING TO OKLAHOMA!” “The Beast” is going faster than it has ever gone before. It won’t be long. I love you all! See you in a little while. President DONALD J. TRUMP",
+      "text": "<p>To the Great People of Oklahoma, stay tuned — I’ll be there soon! There was a major weather delay, and the planes and helicopters were not able to land, so we’re driving up from Texas. They wanted me to postpone the event, and I said, “NO WAY, I’M GOING TO OKLAHOMA!” “The Beast” is going faster than it has ever gone before. It won’t be long. I love you all! See you in a little while. President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/42075",
+      "raw": {
+        "creator": "",
+        "title": "To the Great People of Oklahoma, stay tuned — I’ll be there soon! There was a major weather delay, and the planes and helicopters were not able to land, so we’re driving up from Texas. They wanted me to postpone the event, and I said, “NO WAY, I’M GOING TO OKLAHOMA!” “The Beast” is going faster than it has ever gone before. It won’t be long. I love you all! See you in a little while. President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42075",
+        "pubDate": "Thu, 01 Oct 2026 23:39:11 +0000",
+        "author": "",
+        "content": "<p>To the Great People of Oklahoma, stay tuned — I’ll be there soon! There was a major weather delay, and the planes and helicopters were not able to land, so we’re driving up from Texas. They wanted me to postpone the event, and I said, “NO WAY, I’M GOING TO OKLAHOMA!” “The Beast” is going faster than it has ever gone before. It won’t be long. I love you all! See you in a little while. President DONALD J. TRUMP</p>",
+        "contentSnippet": "To the Great People of Oklahoma, stay tuned — I’ll be there soon! There was a major weather delay, and the planes and helicopters were not able to land, so we’re driving up from Texas. They wanted me to postpone the event, and I said, “NO WAY, I’M GOING TO OKLAHOMA!” “The Beast” is going faster than it has ever gone before. It won’t be long. I love you all! See you in a little while. President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42075",
+        "isoDate": "2026-10-01T23:39:11.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -873,6 +926,24 @@
       "label": "positive",
       "rationale": "Claims that prices are rapidly falling and presents this as a successful accomplishment of the speaker's administration.",
       "analyzedAt": "2026-10-01T20:03:59.894Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42073",
+      "label": "neutral",
+      "rationale": "The text is empty and conveys no sentiment.",
+      "analyzedAt": "2026-10-02T00:02:18.581Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42074",
+      "label": "neutral",
+      "rationale": "The text is empty and conveys no sentiment.",
+      "analyzedAt": "2026-10-02T00:02:18.581Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42075",
+      "label": "positive",
+      "rationale": "Expresses enthusiasm, determination, and affection toward the people of Oklahoma despite the travel delay.",
+      "analyzedAt": "2026-10-02T00:02:18.581Z"
     }
   ]
 }
