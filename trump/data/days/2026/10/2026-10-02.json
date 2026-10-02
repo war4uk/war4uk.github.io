@@ -1,25 +1,29 @@
 {
   "date": "2026-10-02",
   "counts": {
-    "positive": 2,
+    "positive": 4,
     "neutral": 1,
     "negative": 0
   },
-  "summary": "positive:2 neutral:1 negative:0",
-  "generatedAt": "2026-10-02T12:01:09.166Z",
+  "summary": "positive:4 neutral:1 negative:0",
+  "generatedAt": "2026-10-02T16:00:41.376Z",
   "topics": [
-    "Donald Trump announces he is minutes away from arriving in Oklahoma",
-    "Donald Trump says America belongs to those who love it"
+    "Trump highlights South Korean oil investment and European diesel release as energy-security gains",
+    "Trump announces imminent arrival in Oklahoma",
+    "Trump says America belongs to those who love it"
   ],
-  "trendingTopic": "Donald Trump announces he is minutes away from arriving in Oklahoma",
+  "trendingTopic": "Trump highlights South Korean oil investment and European diesel release as energy-security gains",
   "secondaryHighlights": [
     {
-      "topic": "Donald Trump says America belongs to those who love it"
+      "topic": "Trump announces imminent arrival in Oklahoma"
+    },
+    {
+      "topic": "Trump says America belongs to those who love it"
     }
   ],
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v11:3:161d1d87cfb0872c7fcffead",
-  "selfPraiseCacheKey": "self-praise-v2:3:161d1d87cfb0872c7fcffead",
+  "topicsCacheKey": "day-themes-v11:5:d11995302675466dcd79751f",
+  "selfPraiseCacheKey": "self-praise-v2:5:d11995302675466dcd79751f",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/42076",
@@ -74,6 +78,42 @@
         "guid": "https://www.trumpstruth.org/statuses/42079",
         "isoDate": "2026-10-02T06:29:16.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42080",
+      "publishedAt": "2026-10-02T12:38:49.000Z",
+      "title": "I am thrilled to announce the Republic of Korea Deal keeps getting BETTER! 8.4 Billion Dollars for an enhanced Oil Recovery Project. Producing more Oil and Gas means American Energy Dominance and Energy Security in the World for the Future! President DONALD J. TRUMP",
+      "text": "<p>I am thrilled to announce the Republic of Korea Deal keeps getting BETTER! 8.4 Billion Dollars for an enhanced Oil Recovery Project. Producing more Oil and Gas means American Energy Dominance and Energy Security in the World for the Future! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/42080",
+      "raw": {
+        "creator": "",
+        "title": "I am thrilled to announce the Republic of Korea Deal keeps getting BETTER! 8.4 Billion Dollars for an enhanced Oil Recovery Project. Producing more Oil and Gas means American Energy Dominance and Energy Security in the World for the Future! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42080",
+        "pubDate": "Fri, 02 Oct 2026 12:38:49 +0000",
+        "author": "",
+        "content": "<p>I am thrilled to announce the Republic of Korea Deal keeps getting BETTER! 8.4 Billion Dollars for an enhanced Oil Recovery Project. Producing more Oil and Gas means American Energy Dominance and Energy Security in the World for the Future! President DONALD J. TRUMP</p>",
+        "contentSnippet": "I am thrilled to announce the Republic of Korea Deal keeps getting BETTER! 8.4 Billion Dollars for an enhanced Oil Recovery Project. Producing more Oil and Gas means American Energy Dominance and Energy Security in the World for the Future! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42080",
+        "isoDate": "2026-10-02T12:38:49.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42081",
+      "publishedAt": "2026-10-02T14:01:01.000Z",
+      "title": "Europe has just agreed to release a massive amount of their heavily stocked Diesel Oil. The process will begin immediately. Thank you for your attention to this matter! President DJT",
+      "text": "<p>Europe has just agreed to release a massive amount of their heavily stocked Diesel Oil. The process will begin immediately. Thank you for your attention to this matter! President DJT</p>",
+      "url": "https://www.trumpstruth.org/statuses/42081",
+      "raw": {
+        "creator": "",
+        "title": "Europe has just agreed to release a massive amount of their heavily stocked Diesel Oil. The process will begin immediately. Thank you for your attention to this matter! President DJT",
+        "link": "https://www.trumpstruth.org/statuses/42081",
+        "pubDate": "Fri, 02 Oct 2026 14:01:01 +0000",
+        "author": "",
+        "content": "<p>Europe has just agreed to release a massive amount of their heavily stocked Diesel Oil. The process will begin immediately. Thank you for your attention to this matter! President DJT</p>",
+        "contentSnippet": "Europe has just agreed to release a massive amount of their heavily stocked Diesel Oil. The process will begin immediately. Thank you for your attention to this matter! President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/42081",
+        "isoDate": "2026-10-02T14:01:01.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -94,6 +134,18 @@
       "label": "neutral",
       "rationale": "Contains only a repost link without substantive sentiment.",
       "analyzedAt": "2026-10-02T08:02:13.408Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42080",
+      "label": "positive",
+      "rationale": "Expresses enthusiasm about an improving deal and frames the investment as strengthening American energy production and security.",
+      "analyzedAt": "2026-10-02T16:00:28.433Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42081",
+      "label": "positive",
+      "rationale": "Celebrates Europe's agreement to release diesel oil and expresses gratitude.",
+      "analyzedAt": "2026-10-02T16:00:28.433Z"
     }
   ]
 }

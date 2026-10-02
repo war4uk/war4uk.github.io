@@ -16,7 +16,7 @@
       ],
       "postsCount": 37,
       "hasDetail": true,
-      "generatedAt": "2026-10-02T12:01:06.022Z",
+      "generatedAt": "2026-10-02T16:00:20.893Z",
       "trendingTopic": "Trump nominates three attorneys to federal judgeships in Mississippi and North Carolina",
       "secondaryHighlights": [
         {
@@ -32,40 +32,43 @@
     {
       "date": "2026-10-02",
       "counts": {
-        "positive": 2,
+        "positive": 4,
         "neutral": 1,
         "negative": 0
       },
-      "summary": "positive:2 neutral:1 negative:0",
+      "summary": "positive:4 neutral:1 negative:0",
       "topics": [
-        "Donald Trump announces he is minutes away from arriving in Oklahoma",
-        "Donald Trump says America belongs to those who love it"
+        "Trump highlights South Korean oil investment and European diesel release as energy-security gains",
+        "Trump announces imminent arrival in Oklahoma",
+        "Trump says America belongs to those who love it"
       ],
-      "postsCount": 3,
+      "postsCount": 5,
       "hasDetail": true,
-      "generatedAt": "2026-10-02T12:01:09.166Z",
-      "trendingTopic": "Donald Trump announces he is minutes away from arriving in Oklahoma",
+      "generatedAt": "2026-10-02T16:00:41.376Z",
+      "trendingTopic": "Trump highlights South Korean oil investment and European diesel release as energy-security gains",
       "secondaryHighlights": [
         {
-          "topic": "Donald Trump says America belongs to those who love it"
+          "topic": "Trump announces imminent arrival in Oklahoma"
+        },
+        {
+          "topic": "Trump says America belongs to those who love it"
         }
       ],
       "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-10-02T12:01:09.166Z",
-  "trendingTopic": "Nominates three attorneys to federal judgeships in Mississippi and North Carolina",
+  "generatedAt": "2026-10-02T16:00:41.376Z",
+  "trendingTopic": "Trump nominates three attorneys to federal judgeships in Mississippi and North Carolina",
   "secondaryHighlights": [
     {
-      "topic": "Jack Smith faces allegations of privilege violations and calls for criminal prosecution",
-      "name": "Jack Smith"
+      "topic": "Trump highlights South Korean oil investment and European diesel release as energy-security gains"
     },
     {
-      "topic": "Claims Iran’s nuclear threat was eliminated as its economy faces collapse"
+      "topic": "Trump announces imminent arrival in Oklahoma"
     },
     {
-      "topic": "Donald Trump announces he is minutes away from arriving in Oklahoma"
+      "topic": "Trump says America belongs to those who love it"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:2:0d653f0adc08cec0340a42b5"
+  "topicsCacheKey": "month-themes-v5:2:4c7379c51f458decebdc8dac"
 }
