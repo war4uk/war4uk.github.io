@@ -6,7 +6,7 @@
     "negative": 3
   },
   "summary": "positive:10 neutral:2 negative:3",
-  "generatedAt": "2026-10-03T04:04:10.989Z",
+  "generatedAt": "2026-10-03T08:01:55.179Z",
   "topics": [
     "Trump promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel",
     "Trump endorses Katherine Robertson and Cindy Byrd for Alabama and Oklahoma statewide offices",
@@ -25,6 +25,14 @@
     }
   ],
   "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v11:15:293ebcbf9d2192021805677f",
+  "selfPraiseCacheKey": "self-praise-v2:15:293ebcbf9d2192021805677f",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/42093",
+    "https://www.trumpstruth.org/statuses/42099",
+    "https://www.trumpstruth.org/statuses/42098",
+    "https://www.trumpstruth.org/statuses/42101"
+  ],
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/42088",
@@ -413,13 +421,5 @@
       "rationale": "Promotes a proposal honoring President Trump in an enthusiastic, favorable tone.",
       "analyzedAt": "2026-10-03T04:03:53.997Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v11:15:293ebcbf9d2192021805677f",
-  "selfPraiseCacheKey": "self-praise-v2:15:293ebcbf9d2192021805677f",
-  "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/42093",
-    "https://www.trumpstruth.org/statuses/42099",
-    "https://www.trumpstruth.org/statuses/42098",
-    "https://www.trumpstruth.org/statuses/42101"
   ]
 }
