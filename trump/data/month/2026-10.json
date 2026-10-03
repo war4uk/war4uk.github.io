@@ -44,7 +44,7 @@
       ],
       "postsCount": 10,
       "hasDetail": true,
-      "generatedAt": "2026-10-03T00:01:32.077Z",
+      "generatedAt": "2026-10-03T04:03:23.977Z",
       "trendingTopic": "Trump appears in Oklahoma and thanks supporters",
       "secondaryHighlights": [
         {
@@ -59,30 +59,44 @@
     {
       "date": "2026-10-03",
       "counts": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 0
+        "positive": 10,
+        "neutral": 2,
+        "negative": 3
       },
-      "summary": "positive:0 neutral:0 negative:0",
-      "topics": [],
-      "postsCount": 0,
+      "summary": "positive:10 neutral:2 negative:3",
+      "topics": [
+        "Trump promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel",
+        "Trump endorses Katherine Robertson and Cindy Byrd for Alabama and Oklahoma statewide offices",
+        "Trump announces nearly $100 Medicare checks for more than 20 million seniors"
+      ],
+      "postsCount": 15,
       "hasDetail": true,
-      "generatedAt": "2026-10-03T00:01:18.257Z",
-      "selfPraiseCount": 0
+      "generatedAt": "2026-10-03T04:04:10.989Z",
+      "trendingTopic": "Trump promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel",
+      "secondaryHighlights": [
+        {
+          "topic": "Trump announces nearly $100 Medicare checks for more than 20 million seniors"
+        },
+        {
+          "topic": "Trump rejects reports on Federal Reserve renovation investigation and backs independent audit"
+        },
+        {
+          "topic": "Trump highlights new White House ballroom and military complex construction"
+        }
+      ],
+      "selfPraiseCount": 4
     }
   ],
-  "generatedAt": "2026-10-03T00:01:32.077Z",
+  "generatedAt": "2026-10-03T04:04:10.989Z",
   "trendingTopic": "Trump nominates three attorneys to federal judgeships in Mississippi and North Carolina",
   "secondaryHighlights": [
     {
-      "topic": "Trump appears in Oklahoma and thanks supporters"
+      "topic": "Jack Smith faces allegations of privilege violations and calls for criminal prosecution",
+      "name": "Jack Smith"
     },
     {
-      "topic": "Trump touts an $8.4 billion South Korean oil project and European diesel release"
-    },
-    {
-      "topic": "Trump questions New York Governor Kathy Hochul’s prosecutor appointment in Cornell rape case"
+      "topic": "Trump claims Iran’s nuclear threat was eliminated as officials warn its economy faces collapse"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:2:3526a7a95773f7e7d604c0c9"
+  "topicsCacheKey": "month-themes-v5:3:6f8c36bc6855a42a848c6ed9"
 }
