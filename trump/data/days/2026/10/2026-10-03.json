@@ -3,33 +3,32 @@
   "counts": {
     "positive": 22,
     "neutral": 11,
-    "negative": 3
+    "negative": 4
   },
-  "summary": "positive:22 neutral:11 negative:3",
-  "generatedAt": "2026-10-03T16:04:35.852Z",
+  "summary": "positive:22 neutral:11 negative:4",
+  "generatedAt": "2026-10-03T20:04:57.728Z",
   "topics": [
-    "Trump endorses five Republican candidates for Alabama, Oklahoma, Alaska, and New Mexico offices",
-    "Trump urges Republican turnout in the 2026 midterm elections and promises $5,000 checks",
-    "Trump promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel"
+    "Endorses Republican candidates for Alabama, Oklahoma, Alaska, and New Mexico offices",
+    "Promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel",
+    "Urges Republican turnout in the 2026 midterm elections and promises a $5,000 dividend"
   ],
-  "trendingTopic": "Trump endorses five Republican candidates for Alabama, Oklahoma, Alaska, and New Mexico offices",
+  "trendingTopic": "Endorses Katherine Robertson, Cindy Byrd, Nick Begich, Greg Cunningham, and Dan Sullivan for office",
   "secondaryHighlights": [
     {
-      "topic": "Trump urges Republican turnout in the 2026 midterm elections and promises $5,000 checks"
+      "topic": "Promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel"
     },
     {
-      "topic": "Trump promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel"
+      "topic": "Urges Republican turnout in the 2026 midterm elections and promises a $5,000 dividend"
     }
   ],
-  "selfPraiseCount": 5,
-  "topicsCacheKey": "day-themes-v11:36:ed833c1a49155a2a932bf819",
-  "selfPraiseCacheKey": "self-praise-v2:36:ed833c1a49155a2a932bf819",
+  "selfPraiseCount": 4,
+  "topicsCacheKey": "day-themes-v11:37:104472ee874e86829a279f3d",
+  "selfPraiseCacheKey": "self-praise-v2:37:104472ee874e86829a279f3d",
   "selfPraisePostIds": [
     "https://www.trumpstruth.org/statuses/42093",
     "https://www.trumpstruth.org/statuses/42098",
     "https://www.trumpstruth.org/statuses/42101",
-    "https://www.trumpstruth.org/statuses/42102",
-    "https://www.trumpstruth.org/statuses/42122"
+    "https://www.trumpstruth.org/statuses/42102"
   ],
   "posts": [
     {
@@ -729,6 +728,24 @@
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18377/d1d95617b05e62af-3a0c5bd14ee8.jpg",
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18378/f5912cf8e6287cca-ee1fbe44d232.jpg"
       ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42124",
+      "publishedAt": "2026-10-03T18:26:27.000Z",
+      "title": "I don’t know about anyone else, but a table full of very distinguished people just told me that they HATE, immediately after a mandatory time change, going home at night – and it’s DARK. It’s depressing! One of the gentleman stated that, “I just hate going home in darkness.” It’s also, in Crime Ridden Blue States, a lot more dangerous to be walking home in the dark! President DONALD J. TRUMP",
+      "text": "<p>I don’t know about anyone else, but a table full of very distinguished people just told me that they HATE, immediately after a mandatory time change, going home at night – and it’s DARK. It’s depressing! One of the gentleman stated that, “I just hate going home in darkness.” It’s also, in Crime Ridden Blue States, a lot more dangerous to be walking home in the dark! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/42124",
+      "raw": {
+        "creator": "",
+        "title": "I don’t know about anyone else, but a table full of very distinguished people just told me that they HATE, immediately after a mandatory time change, going home at night – and it’s DARK. It’s depressing! One of the gentleman stated that, “I just hate going home in darkness.” It’s also, in Crime Ridden Blue States, a lot more dangerous to be walking home in the dark! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42124",
+        "pubDate": "Sat, 03 Oct 2026 18:26:27 +0000",
+        "author": "",
+        "content": "<p>I don’t know about anyone else, but a table full of very distinguished people just told me that they HATE, immediately after a mandatory time change, going home at night – and it’s DARK. It’s depressing! One of the gentleman stated that, “I just hate going home in darkness.” It’s also, in Crime Ridden Blue States, a lot more dangerous to be walking home in the dark! President DONALD J. TRUMP</p>",
+        "contentSnippet": "I don’t know about anyone else, but a table full of very distinguished people just told me that they HATE, immediately after a mandatory time change, going home at night – and it’s DARK. It’s depressing! One of the gentleman stated that, “I just hate going home in darkness.” It’s also, in Crime Ridden Blue States, a lot more dangerous to be walking home in the dark! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42124",
+        "isoDate": "2026-10-03T18:26:27.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -947,6 +964,12 @@
       "label": "positive",
       "rationale": "Strongly promotes the Sunshine Protection Act and urges support for its passage, despite criticizing Tom Cotton for blocking it.",
       "analyzedAt": "2026-10-03T16:04:18.091Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42124",
+      "label": "negative",
+      "rationale": "The text expresses strong dislike and depression about darkness after the time change and highlights danger in crime-ridden states.",
+      "analyzedAt": "2026-10-03T20:04:36.231Z"
     }
   ]
 }
