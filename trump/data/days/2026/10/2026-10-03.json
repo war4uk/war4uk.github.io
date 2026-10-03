@@ -1,35 +1,35 @@
 {
   "date": "2026-10-03",
   "counts": {
-    "positive": 15,
-    "neutral": 8,
+    "positive": 22,
+    "neutral": 11,
     "negative": 3
   },
-  "summary": "positive:15 neutral:8 negative:3",
-  "generatedAt": "2026-10-03T12:05:39.044Z",
+  "summary": "positive:22 neutral:11 negative:3",
+  "generatedAt": "2026-10-03T16:04:35.852Z",
   "topics": [
-    "Promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel",
-    "Endorses Katherine Robertson for Alabama attorney general and Cindy Byrd for Oklahoma treasurer",
-    "Announces nearly $100 Medicare premium checks for more than 20 million seniors"
+    "Trump endorses five Republican candidates for Alabama, Oklahoma, Alaska, and New Mexico offices",
+    "Trump urges Republican turnout in the 2026 midterm elections and promises $5,000 checks",
+    "Trump promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel"
   ],
-  "trendingTopic": "Promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel",
+  "trendingTopic": "Trump endorses five Republican candidates for Alabama, Oklahoma, Alaska, and New Mexico offices",
   "secondaryHighlights": [
     {
-      "topic": "Endorses Katherine Robertson for Alabama attorney general and Cindy Byrd for Oklahoma treasurer"
+      "topic": "Trump urges Republican turnout in the 2026 midterm elections and promises $5,000 checks"
     },
     {
-      "topic": "Announces nearly $100 Medicare premium checks for more than 20 million seniors"
+      "topic": "Trump promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel"
     }
   ],
   "selfPraiseCount": 5,
-  "topicsCacheKey": "day-themes-v11:26:3967547a26bcc0dfd89a9ab7",
-  "selfPraiseCacheKey": "self-praise-v2:26:3967547a26bcc0dfd89a9ab7",
+  "topicsCacheKey": "day-themes-v11:36:ed833c1a49155a2a932bf819",
+  "selfPraiseCacheKey": "self-praise-v2:36:ed833c1a49155a2a932bf819",
   "selfPraisePostIds": [
     "https://www.trumpstruth.org/statuses/42093",
-    "https://www.trumpstruth.org/statuses/42099",
     "https://www.trumpstruth.org/statuses/42098",
     "https://www.trumpstruth.org/statuses/42101",
-    "https://www.trumpstruth.org/statuses/42102"
+    "https://www.trumpstruth.org/statuses/42102",
+    "https://www.trumpstruth.org/statuses/42122"
   ],
   "posts": [
     {
@@ -527,7 +527,7 @@
       "id": "https://www.trumpstruth.org/statuses/42111",
       "publishedAt": "2026-10-03T11:57:58.000Z",
       "title": "[No Title] - Post from October 3, 2026",
-      "text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376854745686677</span></p>",
+      "text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376854745686677</span></p>\n\n[Image] A social-media post from user @JayTC53 displays the quote, “America does not belong to those who hate it, America belongs to those who love it” – President Trump. It also says, “The crowd erupts in ‘USA’ chants. The patriotism is off the charts,” followed by an American flag emoji. The post includes a profile photo, verified badge, and Follow button.",
       "url": "https://www.trumpstruth.org/statuses/42111",
       "raw": {
         "creator": "",
@@ -539,7 +539,196 @@
         "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376854745686677",
         "guid": "https://www.trumpstruth.org/statuses/42111",
         "isoDate": "2026-10-03T11:57:58.000Z"
+      },
+      "imageDescribedAt": "2026-10-03T16:04:01.591Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18366/611785f9cd3ae074-91fb2aaef796.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42113",
+      "publishedAt": "2026-10-03T12:51:39.000Z",
+      "title": "Nick Begich has my Complete and Total Endorsement for Re-Election as U.S. Representative from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "text": "<p>Nick Begich has my Complete and Total Endorsement for Re-Election as U.S. Representative from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/42113",
+      "raw": {
+        "creator": "",
+        "title": "Nick Begich has my Complete and Total Endorsement for Re-Election as U.S. Representative from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42113",
+        "pubDate": "Sat, 03 Oct 2026 12:51:39 +0000",
+        "author": "",
+        "content": "<p>Nick Begich has my Complete and Total Endorsement for Re-Election as U.S. Representative from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Nick Begich has my Complete and Total Endorsement for Re-Election as U.S. Representative from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42113",
+        "isoDate": "2026-10-03T12:51:39.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42115",
+      "publishedAt": "2026-10-03T12:53:07.000Z",
+      "title": "Greg Cunningham has my Complete and Total Endorsement to be the next U.S. Representative from New Mexico’s 2nd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "text": "<p>Greg Cunningham has my Complete and Total Endorsement to be the next U.S. Representative from New Mexico’s 2nd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/42115",
+      "raw": {
+        "creator": "",
+        "title": "Greg Cunningham has my Complete and Total Endorsement to be the next U.S. Representative from New Mexico’s 2nd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42115",
+        "pubDate": "Sat, 03 Oct 2026 12:53:07 +0000",
+        "author": "",
+        "content": "<p>Greg Cunningham has my Complete and Total Endorsement to be the next U.S. Representative from New Mexico’s 2nd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Greg Cunningham has my Complete and Total Endorsement to be the next U.S. Representative from New Mexico’s 2nd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42115",
+        "isoDate": "2026-10-03T12:53:07.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42114",
+      "publishedAt": "2026-10-03T12:53:45.000Z",
+      "title": "PENNSYLVANIA — Early Voting is UNDERWAY. Get out and VOTE REPUBLICAN! President DONALD J. TRUMP",
+      "text": "<p>PENNSYLVANIA — Early Voting is UNDERWAY. Get out and VOTE REPUBLICAN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/42114",
+      "raw": {
+        "creator": "",
+        "title": "PENNSYLVANIA — Early Voting is UNDERWAY. Get out and VOTE REPUBLICAN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42114",
+        "pubDate": "Sat, 03 Oct 2026 12:53:45 +0000",
+        "author": "",
+        "content": "<p>PENNSYLVANIA — Early Voting is UNDERWAY. Get out and VOTE REPUBLICAN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "PENNSYLVANIA — Early Voting is UNDERWAY. Get out and VOTE REPUBLICAN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42114",
+        "isoDate": "2026-10-03T12:53:45.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42116",
+      "publishedAt": "2026-10-03T12:56:42.000Z",
+      "title": "If Republicans win the House of Representatives and the Senate in the 2026 Midterm Elections, I’m going to give all Adult Citizens in the United States of America, $5,000. Thank you for your attention to this matter, and I look forward to signing those checks! President DONALD J. TRUMP",
+      "text": "<p>If Republicans win the House of Representatives and the Senate in the 2026 Midterm Elections, I’m going to give all Adult Citizens in the United States of America, $5,000. Thank you for your attention to this matter, and I look forward to signing those checks! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/42116",
+      "raw": {
+        "creator": "",
+        "title": "If Republicans win the House of Representatives and the Senate in the 2026 Midterm Elections, I’m going to give all Adult Citizens in the United States of America, $5,000. Thank you for your attention to this matter, and I look forward to signing those checks! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42116",
+        "pubDate": "Sat, 03 Oct 2026 12:56:42 +0000",
+        "author": "",
+        "content": "<p>If Republicans win the House of Representatives and the Senate in the 2026 Midterm Elections, I’m going to give all Adult Citizens in the United States of America, $5,000. Thank you for your attention to this matter, and I look forward to signing those checks! President DONALD J. TRUMP</p>",
+        "contentSnippet": "If Republicans win the House of Representatives and the Senate in the 2026 Midterm Elections, I’m going to give all Adult Citizens in the United States of America, $5,000. Thank you for your attention to this matter, and I look forward to signing those checks! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42116",
+        "isoDate": "2026-10-03T12:56:42.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42120",
+      "publishedAt": "2026-10-03T13:10:46.000Z",
+      "title": "Republicans must WIN the 2026 Midterm Elections, and we must use every appropriate tool — Whether you vote early, absentee, by mail, or in-person, we must “swamp” the Radical Left Dumocrats with massive turnout! SO IMPORTANT — PLEASE GET OUT AND VOTE. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+      "text": "<p>Republicans must WIN the 2026 Midterm Elections, and we must use every appropriate tool — Whether you vote early, absentee, by mail, or in-person, we must “swamp” the Radical Left Dumocrats with massive turnout! SO IMPORTANT — PLEASE GET OUT AND VOTE. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/</span><span class=\"invisible\"></span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/42120",
+      "raw": {
+        "creator": "",
+        "title": "Republicans must WIN the 2026 Midterm Elections, and we must use every appropriate tool — Whether you vote early, absentee, by mail, or in-person, we must “swamp” the Radical Left Dumocrats with massive turnout! SO IMPORTANT — PLEASE GET OUT AND VOTE. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42120",
+        "pubDate": "Sat, 03 Oct 2026 13:10:46 +0000",
+        "author": "",
+        "content": "<p>Republicans must WIN the 2026 Midterm Elections, and we must use every appropriate tool — Whether you vote early, absentee, by mail, or in-person, we must “swamp” the Radical Left Dumocrats with massive turnout! SO IMPORTANT — PLEASE GET OUT AND VOTE. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/</span><span class=\"invisible\"></span></a></p>",
+        "contentSnippet": "Republicans must WIN the 2026 Midterm Elections, and we must use every appropriate tool — Whether you vote early, absentee, by mail, or in-person, we must “swamp” the Radical Left Dumocrats with massive turnout! SO IMPORTANT — PLEASE GET OUT AND VOTE. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP\nhttps://swampthevoteusa.com/",
+        "guid": "https://www.trumpstruth.org/statuses/42120",
+        "isoDate": "2026-10-03T13:10:46.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42119",
+      "publishedAt": "2026-10-03T13:12:37.000Z",
+      "title": "[No Title] - Post from October 3, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42119",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 3, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42119",
+        "pubDate": "Sat, 03 Oct 2026 13:12:37 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42119",
+        "isoDate": "2026-10-03T13:12:37.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42118",
+      "publishedAt": "2026-10-03T13:12:52.000Z",
+      "title": "[No Title] - Post from October 3, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42118",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 3, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42118",
+        "pubDate": "Sat, 03 Oct 2026 13:12:52 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42118",
+        "isoDate": "2026-10-03T13:12:52.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42117",
+      "publishedAt": "2026-10-03T13:12:56.000Z",
+      "title": "[No Title] - Post from October 3, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42117",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 3, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42117",
+        "pubDate": "Sat, 03 Oct 2026 13:12:56 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42117",
+        "isoDate": "2026-10-03T13:12:56.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42121",
+      "publishedAt": "2026-10-03T14:01:45.000Z",
+      "title": "Dan S. Sullivan has my Complete and Total Endorsement for Re-Election as U.S. Senator from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "text": "<p>Dan S. Sullivan has my Complete and Total Endorsement for Re-Election as U.S. Senator from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/42121",
+      "raw": {
+        "creator": "",
+        "title": "Dan S. Sullivan has my Complete and Total Endorsement for Re-Election as U.S. Senator from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42121",
+        "pubDate": "Sat, 03 Oct 2026 14:01:45 +0000",
+        "author": "",
+        "content": "<p>Dan S. Sullivan has my Complete and Total Endorsement for Re-Election as U.S. Senator from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Dan S. Sullivan has my Complete and Total Endorsement for Re-Election as U.S. Senator from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42121",
+        "isoDate": "2026-10-03T14:01:45.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42122",
+      "publishedAt": "2026-10-03T14:32:20.000Z",
+      "title": "Everybody in Arkansas, Tom Cotton, a friend of mine, is holding up a very important Bill. It’s called, “The Sunshine Protection Act” or, “We Don’t Want to Change Our Clocks Twice a Year Act.” For some reason, Tom is stopping the Bill and, in the Senate, it’s very easy to do, it only takes one! It should pass overwhelmingly, in a Bipartisan fashion. So, everyone in Arkansas, a State I love, and won 3 times, the last by by 34 points, tell Tom to, GET IT DONE! It will be appreciated by all. Nobody wants to spend their precious time running all over the place, turning Clocks back twice a year and, having sunshine in the afternoon is better than early in the morning! The PGA TOUR, as an example, needs more Daylight in the afternoon in order to finish their Tournaments. Likewise, regular Golfers, Tennis Players, Hunters and, perhaps most importantly, Farmers who want more Daylight to play or work. See letter from Brian Rolapp, CEO of the PGA TOUR below. 65% PLUS want more sun in the afternoon, Daylight Saving Time (The way it is now!), but 100% don’t want to change their Clocks twice a year. They want to, as they say, “LOCK THE CLOCK!” Who doesn’t? It’s very expensive for our Nation where you have high and dangerous steeples to reach, like on churches and municipal buildings. Almost everybody wants “The Sunshine Protection Act” to pass, except for Tom Cotton. To the Great People of Arkansas, please let your Senator know it would be a GREAT Bipartisan WIN for the United States Senate, and for America, itself. Call Tom on his cellphone at,  479-453-0533, and let him know. “The Sunshine Protection Act” was passed in the House by a Vote of 308 to 117. HAVE THE SENATE VOTE, NOW! Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "text": "<p>Everybody in Arkansas, Tom Cotton, a friend of mine, is holding up a very important Bill. It’s called, “The Sunshine Protection Act” or, “We Don’t Want to Change Our Clocks Twice a Year Act.” For some reason, Tom is stopping the Bill and, in the Senate, it’s very easy to do, it only takes one! It should pass overwhelmingly, in a Bipartisan fashion. So, everyone in Arkansas, a State I love, and won 3 times, the last by by 34 points, tell Tom to, GET IT DONE! It will be appreciated by all. Nobody wants to spend their precious time running all over the place, turning Clocks back twice a year and, having sunshine in the afternoon is better than early in the morning! The PGA TOUR, as an example, needs more Daylight in the afternoon in order to finish their Tournaments. Likewise, regular Golfers, Tennis Players, Hunters and, perhaps most importantly, Farmers who want more Daylight to play or work. See letter from Brian Rolapp, CEO of the PGA TOUR below. 65% PLUS want more sun in the afternoon, Daylight Saving Time (The way it is now!), but 100% don’t want to change their Clocks twice a year. They want to, as they say, “LOCK THE CLOCK!” Who doesn’t? It’s very expensive for our Nation where you have high and dangerous steeples to reach, like on churches and municipal buildings. Almost everybody wants “The Sunshine Protection Act” to pass, except for Tom Cotton. To the Great People of Arkansas, please let your Senator know it would be a GREAT Bipartisan WIN for the United States Senate, and for America, itself. Call Tom on his cellphone at,  479-453-0533, and let him know. “The Sunshine Protection Act” was passed in the House by a Vote of 308 to 117. HAVE THE SENATE VOTE, NOW! Thank you for your attention to this matter. President DONALD J. TRUMP</p>\n\n[Image] Two-page letter on PGA Tour letterhead from CEO Brian Rolapp to “The President,” dated October 1, 2026. Rolapp thanks the president for attending the Presidents Cup and expresses the PGA Tour’s support for the Sunshine Protection Act, citing benefits of permanent daylight saving time for golf participation, revenue, broadcasting, and public health. It is signed by Rolapp.",
+      "url": "https://www.trumpstruth.org/statuses/42122",
+      "raw": {
+        "creator": "",
+        "title": "Everybody in Arkansas, Tom Cotton, a friend of mine, is holding up a very important Bill. It’s called, “The Sunshine Protection Act” or, “We Don’t Want to Change Our Clocks Twice a Year Act.” For some reason, Tom is stopping the Bill and, in the Senate, it’s very easy to do, it only takes one! It should pass overwhelmingly, in a Bipartisan fashion. So, everyone in Arkansas, a State I love, and won 3 times, the last by by 34 points, tell Tom to, GET IT DONE! It will be appreciated by all. Nobody wants to spend their precious time running all over the place, turning Clocks back twice a year and, having sunshine in the afternoon is better than early in the morning! The PGA TOUR, as an example, needs more Daylight in the afternoon in order to finish their Tournaments. Likewise, regular Golfers, Tennis Players, Hunters and, perhaps most importantly, Farmers who want more Daylight to play or work. See letter from Brian Rolapp, CEO of the PGA TOUR below. 65% PLUS want more sun in the afternoon, Daylight Saving Time (The way it is now!), but 100% don’t want to change their Clocks twice a year. They want to, as they say, “LOCK THE CLOCK!” Who doesn’t? It’s very expensive for our Nation where you have high and dangerous steeples to reach, like on churches and municipal buildings. Almost everybody wants “The Sunshine Protection Act” to pass, except for Tom Cotton. To the Great People of Arkansas, please let your Senator know it would be a GREAT Bipartisan WIN for the United States Senate, and for America, itself. Call Tom on his cellphone at,  479-453-0533, and let him know. “The Sunshine Protection Act” was passed in the House by a Vote of 308 to 117. HAVE THE SENATE VOTE, NOW! Thank you for your attention to this matter. President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42122",
+        "pubDate": "Sat, 03 Oct 2026 14:32:20 +0000",
+        "author": "",
+        "content": "<p>Everybody in Arkansas, Tom Cotton, a friend of mine, is holding up a very important Bill. It’s called, “The Sunshine Protection Act” or, “We Don’t Want to Change Our Clocks Twice a Year Act.” For some reason, Tom is stopping the Bill and, in the Senate, it’s very easy to do, it only takes one! It should pass overwhelmingly, in a Bipartisan fashion. So, everyone in Arkansas, a State I love, and won 3 times, the last by by 34 points, tell Tom to, GET IT DONE! It will be appreciated by all. Nobody wants to spend their precious time running all over the place, turning Clocks back twice a year and, having sunshine in the afternoon is better than early in the morning! The PGA TOUR, as an example, needs more Daylight in the afternoon in order to finish their Tournaments. Likewise, regular Golfers, Tennis Players, Hunters and, perhaps most importantly, Farmers who want more Daylight to play or work. See letter from Brian Rolapp, CEO of the PGA TOUR below. 65% PLUS want more sun in the afternoon, Daylight Saving Time (The way it is now!), but 100% don’t want to change their Clocks twice a year. They want to, as they say, “LOCK THE CLOCK!” Who doesn’t? It’s very expensive for our Nation where you have high and dangerous steeples to reach, like on churches and municipal buildings. Almost everybody wants “The Sunshine Protection Act” to pass, except for Tom Cotton. To the Great People of Arkansas, please let your Senator know it would be a GREAT Bipartisan WIN for the United States Senate, and for America, itself. Call Tom on his cellphone at,  479-453-0533, and let him know. “The Sunshine Protection Act” was passed in the House by a Vote of 308 to 117. HAVE THE SENATE VOTE, NOW! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+        "contentSnippet": "Everybody in Arkansas, Tom Cotton, a friend of mine, is holding up a very important Bill. It’s called, “The Sunshine Protection Act” or, “We Don’t Want to Change Our Clocks Twice a Year Act.” For some reason, Tom is stopping the Bill and, in the Senate, it’s very easy to do, it only takes one! It should pass overwhelmingly, in a Bipartisan fashion. So, everyone in Arkansas, a State I love, and won 3 times, the last by by 34 points, tell Tom to, GET IT DONE! It will be appreciated by all. Nobody wants to spend their precious time running all over the place, turning Clocks back twice a year and, having sunshine in the afternoon is better than early in the morning! The PGA TOUR, as an example, needs more Daylight in the afternoon in order to finish their Tournaments. Likewise, regular Golfers, Tennis Players, Hunters and, perhaps most importantly, Farmers who want more Daylight to play or work. See letter from Brian Rolapp, CEO of the PGA TOUR below. 65% PLUS want more sun in the afternoon, Daylight Saving Time (The way it is now!), but 100% don’t want to change their Clocks twice a year. They want to, as they say, “LOCK THE CLOCK!” Who doesn’t? It’s very expensive for our Nation where you have high and dangerous steeples to reach, like on churches and municipal buildings. Almost everybody wants “The Sunshine Protection Act” to pass, except for Tom Cotton. To the Great People of Arkansas, please let your Senator know it would be a GREAT Bipartisan WIN for the United States Senate, and for America, itself. Call Tom on his cellphone at,  479-453-0533, and let him know. “The Sunshine Protection Act” was passed in the House by a Vote of 308 to 117. HAVE THE SENATE VOTE, NOW! Thank you for your attention to this matter. President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42122",
+        "isoDate": "2026-10-03T14:32:20.000Z"
+      },
+      "imageDescribedAt": "2026-10-03T16:04:08.339Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18377/d1d95617b05e62af-3a0c5bd14ee8.jpg",
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18378/f5912cf8e6287cca-ee1fbe44d232.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -698,6 +887,66 @@
       "label": "neutral",
       "rationale": "The post contains no text.",
       "analyzedAt": "2026-10-03T12:05:19.443Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42113",
+      "label": "positive",
+      "rationale": "Expresses strong approval and confidence in Nick Begich through a complete endorsement.",
+      "analyzedAt": "2026-10-03T16:04:18.091Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42114",
+      "label": "positive",
+      "rationale": "Urges Pennsylvania voters to participate in early voting and support Republicans.",
+      "analyzedAt": "2026-10-03T16:04:18.091Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42115",
+      "label": "positive",
+      "rationale": "Expresses strong approval and confidence in Greg Cunningham through a complete endorsement.",
+      "analyzedAt": "2026-10-03T16:04:18.091Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42116",
+      "label": "positive",
+      "rationale": "Offers a substantial financial benefit to citizens if Republicans win, presenting the proposal enthusiastically.",
+      "analyzedAt": "2026-10-03T16:04:18.091Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42117",
+      "label": "neutral",
+      "rationale": "The post contains no substantive text or sentiment.",
+      "analyzedAt": "2026-10-03T16:04:18.091Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42118",
+      "label": "neutral",
+      "rationale": "The post contains no substantive text or sentiment.",
+      "analyzedAt": "2026-10-03T16:04:18.091Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42119",
+      "label": "neutral",
+      "rationale": "The post contains no substantive text or sentiment.",
+      "analyzedAt": "2026-10-03T16:04:18.091Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42120",
+      "label": "positive",
+      "rationale": "Encourages Republican voters to turn out in large numbers and uses optimistic campaign language about winning and making America great.",
+      "analyzedAt": "2026-10-03T16:04:18.091Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42121",
+      "label": "positive",
+      "rationale": "Expresses strong approval and confidence in Dan Sullivan by giving him a complete endorsement.",
+      "analyzedAt": "2026-10-03T16:04:18.091Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42122",
+      "label": "positive",
+      "rationale": "Strongly promotes the Sunshine Protection Act and urges support for its passage, despite criticizing Tom Cotton for blocking it.",
+      "analyzedAt": "2026-10-03T16:04:18.091Z"
     }
   ]
 }

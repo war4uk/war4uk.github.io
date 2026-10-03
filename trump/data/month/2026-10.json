@@ -44,7 +44,7 @@
       ],
       "postsCount": 10,
       "hasDetail": true,
-      "generatedAt": "2026-10-03T12:04:55.660Z",
+      "generatedAt": "2026-10-03T16:03:52.481Z",
       "trendingTopic": "Trump appears in Oklahoma and thanks supporters",
       "secondaryHighlights": [
         {
@@ -59,44 +59,40 @@
     {
       "date": "2026-10-03",
       "counts": {
-        "positive": 15,
-        "neutral": 8,
+        "positive": 22,
+        "neutral": 11,
         "negative": 3
       },
-      "summary": "positive:15 neutral:8 negative:3",
+      "summary": "positive:22 neutral:11 negative:3",
       "topics": [
-        "Promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel",
-        "Endorses Katherine Robertson for Alabama attorney general and Cindy Byrd for Oklahoma treasurer",
-        "Announces nearly $100 Medicare premium checks for more than 20 million seniors"
+        "Trump endorses five Republican candidates for Alabama, Oklahoma, Alaska, and New Mexico offices",
+        "Trump urges Republican turnout in the 2026 midterm elections and promises $5,000 checks",
+        "Trump promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel"
       ],
-      "postsCount": 26,
+      "postsCount": 36,
       "hasDetail": true,
-      "generatedAt": "2026-10-03T12:05:39.044Z",
-      "trendingTopic": "Promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel",
+      "generatedAt": "2026-10-03T16:04:35.852Z",
+      "trendingTopic": "Trump endorses five Republican candidates for Alabama, Oklahoma, Alaska, and New Mexico offices",
       "secondaryHighlights": [
         {
-          "topic": "Endorses Katherine Robertson for Alabama attorney general and Cindy Byrd for Oklahoma treasurer"
+          "topic": "Trump urges Republican turnout in the 2026 midterm elections and promises $5,000 checks"
         },
         {
-          "topic": "Announces nearly $100 Medicare premium checks for more than 20 million seniors"
+          "topic": "Trump promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel"
         }
       ],
       "selfPraiseCount": 5
     }
   ],
-  "generatedAt": "2026-10-03T12:05:39.044Z",
-  "trendingTopic": "Trump nominates three attorneys to federal judgeships in Mississippi and North Carolina",
+  "generatedAt": "2026-10-03T16:04:35.852Z",
+  "trendingTopic": "Nominates three attorneys to federal judgeships in Mississippi and North Carolina",
   "secondaryHighlights": [
     {
-      "topic": "Jack Smith faces allegations of privilege violations and calls for criminal prosecution",
-      "name": "Jack Smith"
+      "topic": "Endorses five Republican candidates across four states"
     },
     {
-      "topic": "Promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel"
-    },
-    {
-      "topic": "Endorses Katherine Robertson for Alabama attorney general and Cindy Byrd for Oklahoma treasurer"
+      "topic": "Claims Iran’s nuclear threat was eliminated as officials warn of economic collapse"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:3:9c5dff5d1dc106d8395c5e5d"
+  "topicsCacheKey": "month-themes-v5:3:e153ad93c443cb4d06dc3baf"
 }
