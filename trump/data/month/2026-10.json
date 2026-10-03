@@ -44,7 +44,7 @@
       ],
       "postsCount": 10,
       "hasDetail": true,
-      "generatedAt": "2026-10-03T08:01:51.104Z",
+      "generatedAt": "2026-10-03T12:04:55.660Z",
       "trendingTopic": "Trump appears in Oklahoma and thanks supporters",
       "secondaryHighlights": [
         {
@@ -59,35 +59,32 @@
     {
       "date": "2026-10-03",
       "counts": {
-        "positive": 10,
-        "neutral": 2,
+        "positive": 15,
+        "neutral": 8,
         "negative": 3
       },
-      "summary": "positive:10 neutral:2 negative:3",
+      "summary": "positive:15 neutral:8 negative:3",
       "topics": [
-        "Trump promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel",
-        "Trump endorses Katherine Robertson and Cindy Byrd for Alabama and Oklahoma statewide offices",
-        "Trump announces nearly $100 Medicare checks for more than 20 million seniors"
+        "Promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel",
+        "Endorses Katherine Robertson for Alabama attorney general and Cindy Byrd for Oklahoma treasurer",
+        "Announces nearly $100 Medicare premium checks for more than 20 million seniors"
       ],
-      "postsCount": 15,
+      "postsCount": 26,
       "hasDetail": true,
-      "generatedAt": "2026-10-03T08:01:55.179Z",
-      "trendingTopic": "Trump promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel",
+      "generatedAt": "2026-10-03T12:05:39.044Z",
+      "trendingTopic": "Promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel",
       "secondaryHighlights": [
         {
-          "topic": "Trump announces nearly $100 Medicare checks for more than 20 million seniors"
+          "topic": "Endorses Katherine Robertson for Alabama attorney general and Cindy Byrd for Oklahoma treasurer"
         },
         {
-          "topic": "Trump rejects reports on Federal Reserve renovation investigation and backs independent audit"
-        },
-        {
-          "topic": "Trump highlights new White House ballroom and military complex construction"
+          "topic": "Announces nearly $100 Medicare premium checks for more than 20 million seniors"
         }
       ],
-      "selfPraiseCount": 4
+      "selfPraiseCount": 5
     }
   ],
-  "generatedAt": "2026-10-03T08:01:55.179Z",
+  "generatedAt": "2026-10-03T12:05:39.044Z",
   "trendingTopic": "Trump nominates three attorneys to federal judgeships in Mississippi and North Carolina",
   "secondaryHighlights": [
     {
@@ -95,8 +92,11 @@
       "name": "Jack Smith"
     },
     {
-      "topic": "Trump claims Iran’s nuclear threat was eliminated as officials warn its economy faces collapse"
+      "topic": "Promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel"
+    },
+    {
+      "topic": "Endorses Katherine Robertson for Alabama attorney general and Cindy Byrd for Oklahoma treasurer"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:3:6f8c36bc6855a42a848c6ed9"
+  "topicsCacheKey": "month-themes-v5:3:9c5dff5d1dc106d8395c5e5d"
 }

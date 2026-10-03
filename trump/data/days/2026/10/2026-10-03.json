@@ -1,37 +1,35 @@
 {
   "date": "2026-10-03",
   "counts": {
-    "positive": 10,
-    "neutral": 2,
+    "positive": 15,
+    "neutral": 8,
     "negative": 3
   },
-  "summary": "positive:10 neutral:2 negative:3",
-  "generatedAt": "2026-10-03T08:01:55.179Z",
+  "summary": "positive:15 neutral:8 negative:3",
+  "generatedAt": "2026-10-03T12:05:39.044Z",
   "topics": [
-    "Trump promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel",
-    "Trump endorses Katherine Robertson and Cindy Byrd for Alabama and Oklahoma statewide offices",
-    "Trump announces nearly $100 Medicare checks for more than 20 million seniors"
+    "Promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel",
+    "Endorses Katherine Robertson for Alabama attorney general and Cindy Byrd for Oklahoma treasurer",
+    "Announces nearly $100 Medicare premium checks for more than 20 million seniors"
   ],
-  "trendingTopic": "Trump promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel",
+  "trendingTopic": "Promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel",
   "secondaryHighlights": [
     {
-      "topic": "Trump announces nearly $100 Medicare checks for more than 20 million seniors"
+      "topic": "Endorses Katherine Robertson for Alabama attorney general and Cindy Byrd for Oklahoma treasurer"
     },
     {
-      "topic": "Trump rejects reports on Federal Reserve renovation investigation and backs independent audit"
-    },
-    {
-      "topic": "Trump highlights new White House ballroom and military complex construction"
+      "topic": "Announces nearly $100 Medicare premium checks for more than 20 million seniors"
     }
   ],
-  "selfPraiseCount": 4,
-  "topicsCacheKey": "day-themes-v11:15:293ebcbf9d2192021805677f",
-  "selfPraiseCacheKey": "self-praise-v2:15:293ebcbf9d2192021805677f",
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v11:26:3967547a26bcc0dfd89a9ab7",
+  "selfPraiseCacheKey": "self-praise-v2:26:3967547a26bcc0dfd89a9ab7",
   "selfPraisePostIds": [
     "https://www.trumpstruth.org/statuses/42093",
     "https://www.trumpstruth.org/statuses/42099",
     "https://www.trumpstruth.org/statuses/42098",
-    "https://www.trumpstruth.org/statuses/42101"
+    "https://www.trumpstruth.org/statuses/42101",
+    "https://www.trumpstruth.org/statuses/42102"
   ],
   "posts": [
     {
@@ -328,6 +326,220 @@
         "guid": "https://www.trumpstruth.org/statuses/42100",
         "isoDate": "2026-10-03T03:37:10.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42102",
+      "publishedAt": "2026-10-03T11:12:09.000Z",
+      "title": "Roger Stone: Donald Trump is the Greatest Campaigner in the History of the Republican Party:",
+      "text": "<p>Roger Stone: Donald Trump is the Greatest Campaigner in the History of the Republican Party: <a href=\"https://rumble.com/v7gauli-roger-stone-donald-trump-is-the-greatest-campaigner-in-the-history-of-the-r.html\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">rumble.com/v7gauli-roger-stone</span><span class=\"invisible\">-donald-trump-is-the-greatest-campaigner-in-the-history-of-the-r.html</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/42102",
+      "raw": {
+        "creator": "",
+        "title": "Roger Stone: Donald Trump is the Greatest Campaigner in the History of the Republican Party:",
+        "link": "https://www.trumpstruth.org/statuses/42102",
+        "pubDate": "Sat, 03 Oct 2026 11:12:09 +0000",
+        "author": "",
+        "content": "<p>Roger Stone: Donald Trump is the Greatest Campaigner in the History of the Republican Party: <a href=\"https://rumble.com/v7gauli-roger-stone-donald-trump-is-the-greatest-campaigner-in-the-history-of-the-r.html\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">rumble.com/v7gauli-roger-stone</span><span class=\"invisible\">-donald-trump-is-the-greatest-campaigner-in-the-history-of-the-r.html</span></a></p>",
+        "contentSnippet": "Roger Stone: Donald Trump is the Greatest Campaigner in the History of the Republican Party: https://rumble.com/v7gauli-roger-stone-donald-trump-is-the-greatest-campaigner-in-the-history-of-the-r.html",
+        "guid": "https://www.trumpstruth.org/statuses/42102",
+        "isoDate": "2026-10-03T11:12:09.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42110",
+      "publishedAt": "2026-10-03T11:17:40.000Z",
+      "title": "[No Title] - Post from October 3, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42110",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 3, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42110",
+        "pubDate": "Sat, 03 Oct 2026 11:17:40 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42110",
+        "isoDate": "2026-10-03T11:17:40.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42109",
+      "publishedAt": "2026-10-03T11:18:35.000Z",
+      "title": "[No Title] - Post from October 3, 2026",
+      "text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376697000958924</span></p>\n\n[Image] A white graphic contains black text claiming, “I am in tears. President Trump just walked out to a HUGE Crowd of New York Police Officers chanting: ‘USA USA USA’ with a massive standing ovation.” The message ends with the slogan “Make America SAFE Again.” No people or photographs are visible.",
+      "url": "https://www.trumpstruth.org/statuses/42109",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 3, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42109",
+        "pubDate": "Sat, 03 Oct 2026 11:18:35 +0000",
+        "author": "",
+        "content": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376697000958924</span></p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376697000958924",
+        "guid": "https://www.trumpstruth.org/statuses/42109",
+        "isoDate": "2026-10-03T11:18:35.000Z"
+      },
+      "imageDescribedAt": "2026-10-03T12:05:13.322Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18364/93b761681bd6da94-f7e1559af4ba.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42108",
+      "publishedAt": "2026-10-03T11:19:48.000Z",
+      "title": "[No Title] - Post from October 3, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42108",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 3, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42108",
+        "pubDate": "Sat, 03 Oct 2026 11:19:48 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42108",
+        "isoDate": "2026-10-03T11:19:48.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42107",
+      "publishedAt": "2026-10-03T11:19:59.000Z",
+      "title": "[No Title] - Post from October 3, 2026",
+      "text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376705404850468</span></p>\n\n[Image] A screenshot of a social-media post from the account “Apple Lamps” (@lamps_apple), marked with a blue verification badge. The post reads, “Trump spotted hauling ass down a Texas highway on his way to Oklahoma” followed by a laughing emoji. No photograph of Donald Trump is visible; the image shows only the post interface and text.",
+      "url": "https://www.trumpstruth.org/statuses/42107",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 3, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42107",
+        "pubDate": "Sat, 03 Oct 2026 11:19:59 +0000",
+        "author": "",
+        "content": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376705404850468</span></p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376705404850468",
+        "guid": "https://www.trumpstruth.org/statuses/42107",
+        "isoDate": "2026-10-03T11:19:59.000Z"
+      },
+      "imageDescribedAt": "2026-10-03T12:05:10.448Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18362/a512367dae9783fd-a1496e9559e8.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42106",
+      "publishedAt": "2026-10-03T11:20:13.000Z",
+      "title": "[No Title] - Post from October 3, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42106",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 3, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42106",
+        "pubDate": "Sat, 03 Oct 2026 11:20:13 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42106",
+        "isoDate": "2026-10-03T11:20:13.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42105",
+      "publishedAt": "2026-10-03T11:20:50.000Z",
+      "title": "[No Title] - Post from October 3, 2026",
+      "text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376707058642062</span></p>\n\n[Image] A screenshot of a post by Eric Daugherty (@EricLDaugh) says an Israeli plumber restrained an Islamist terrorist aboard a FlyDubai flight and later leveled the plane. It claims he supports Donald Trump and received a signed red MAGA hat from him, with praise from Ambassador Mike Huckabee. The post also praises an Indian pilot and calls the incident a major win over Islamism.",
+      "url": "https://www.trumpstruth.org/statuses/42105",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 3, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42105",
+        "pubDate": "Sat, 03 Oct 2026 11:20:50 +0000",
+        "author": "",
+        "content": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376707058642062</span></p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376707058642062",
+        "guid": "https://www.trumpstruth.org/statuses/42105",
+        "isoDate": "2026-10-03T11:20:50.000Z"
+      },
+      "imageDescribedAt": "2026-10-03T12:05:07.728Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18360/776bf1380e7bad5e-b78dce78935b.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42104",
+      "publishedAt": "2026-10-03T11:21:02.000Z",
+      "title": "[No Title] - Post from October 3, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42104",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 3, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42104",
+        "pubDate": "Sat, 03 Oct 2026 11:21:02 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42104",
+        "isoDate": "2026-10-03T11:21:02.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42103",
+      "publishedAt": "2026-10-03T11:21:16.000Z",
+      "title": "[No Title] - Post from October 3, 2026",
+      "text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376710253781330</span></p>\n\n[Image] A screenshot of a post from the account “Rapid Response 47” reads: “Patriots of all stripes are TURNING OUT in Alabama — with the line stretching for blocks ahead of President Trump’s speech later tonight.” The post ends with “MAKE AMERICA GREAT AGAIN!” and includes a red Rapid Response profile image and verification symbols.",
+      "url": "https://www.trumpstruth.org/statuses/42103",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 3, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42103",
+        "pubDate": "Sat, 03 Oct 2026 11:21:16 +0000",
+        "author": "",
+        "content": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376710253781330</span></p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376710253781330",
+        "guid": "https://www.trumpstruth.org/statuses/42103",
+        "isoDate": "2026-10-03T11:21:16.000Z"
+      },
+      "imageDescribedAt": "2026-10-03T12:05:04.195Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18358/4931a5820d80fd4f-f54cf04394d0.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42112",
+      "publishedAt": "2026-10-03T11:57:47.000Z",
+      "title": "[No Title] - Post from October 3, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42112",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 3, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42112",
+        "pubDate": "Sat, 03 Oct 2026 11:57:47 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42112",
+        "isoDate": "2026-10-03T11:57:47.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42111",
+      "publishedAt": "2026-10-03T11:57:58.000Z",
+      "title": "[No Title] - Post from October 3, 2026",
+      "text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376854745686677</span></p>",
+      "url": "https://www.trumpstruth.org/statuses/42111",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 3, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42111",
+        "pubDate": "Sat, 03 Oct 2026 11:57:58 +0000",
+        "author": "",
+        "content": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376854745686677</span></p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376854745686677",
+        "guid": "https://www.trumpstruth.org/statuses/42111",
+        "isoDate": "2026-10-03T11:57:58.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -420,6 +632,72 @@
       "label": "positive",
       "rationale": "Promotes a proposal honoring President Trump in an enthusiastic, favorable tone.",
       "analyzedAt": "2026-10-03T04:03:53.997Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42102",
+      "label": "positive",
+      "rationale": "Praises Donald Trump as the greatest campaigner in Republican Party history.",
+      "analyzedAt": "2026-10-03T12:05:19.443Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42103",
+      "label": "positive",
+      "rationale": "Praises strong turnout for Trump's speech and promotes the pro-Trump MAGA message.",
+      "analyzedAt": "2026-10-03T12:05:19.443Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42104",
+      "label": "neutral",
+      "rationale": "The post contains no text.",
+      "analyzedAt": "2026-10-03T12:05:19.443Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42105",
+      "label": "positive",
+      "rationale": "Celebrates opposition to Islamism, praises Trump supporters, and highlights a MAGA-related honor.",
+      "analyzedAt": "2026-10-03T12:05:19.443Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42106",
+      "label": "neutral",
+      "rationale": "The post contains no text.",
+      "analyzedAt": "2026-10-03T12:05:19.443Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42107",
+      "label": "positive",
+      "rationale": "Uses amused, approving language about Trump traveling quickly to an event.",
+      "analyzedAt": "2026-10-03T12:05:19.443Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42108",
+      "label": "neutral",
+      "rationale": "The post contains no text.",
+      "analyzedAt": "2026-10-03T12:05:19.443Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42109",
+      "label": "positive",
+      "rationale": "Expresses enthusiastic admiration for Trump's reception by police and promotes his safety-focused slogan.",
+      "analyzedAt": "2026-10-03T12:05:19.443Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42110",
+      "label": "neutral",
+      "rationale": "The post contains no text.",
+      "analyzedAt": "2026-10-03T12:05:19.443Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42111",
+      "label": "neutral",
+      "rationale": "Contains only a repost link with no substantive text or sentiment.",
+      "analyzedAt": "2026-10-03T12:05:19.443Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42112",
+      "label": "neutral",
+      "rationale": "The post contains no text.",
+      "analyzedAt": "2026-10-03T12:05:19.443Z"
     }
   ]
 }
