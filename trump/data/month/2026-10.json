@@ -32,44 +32,57 @@
     {
       "date": "2026-10-02",
       "counts": {
-        "positive": 5,
-        "neutral": 2,
-        "negative": 0
+        "positive": 6,
+        "neutral": 3,
+        "negative": 1
       },
-      "summary": "positive:5 neutral:2 negative:0",
+      "summary": "positive:6 neutral:3 negative:1",
       "topics": [
-        "Trump announces South Korean oil project and European diesel release to strengthen energy security",
-        "Trump arrives in Oklahoma",
-        "Trump says America belongs to those who love it"
+        "Trump appears in Oklahoma and thanks supporters",
+        "Trump touts an $8.4 billion South Korean oil project and European diesel release",
+        "Trump questions New York Governor Kathy Hochul’s prosecutor appointment in Cornell rape case"
       ],
-      "postsCount": 7,
+      "postsCount": 10,
       "hasDetail": true,
-      "generatedAt": "2026-10-02T20:01:03.664Z",
-      "trendingTopic": "Trump announces South Korean oil project and European diesel release to strengthen energy security",
+      "generatedAt": "2026-10-03T00:01:32.077Z",
+      "trendingTopic": "Trump appears in Oklahoma and thanks supporters",
       "secondaryHighlights": [
         {
-          "topic": "Trump arrives in Oklahoma"
+          "topic": "Trump touts an $8.4 billion South Korean oil project and European diesel release"
         },
         {
-          "topic": "Trump says America belongs to those who love it"
+          "topic": "Trump questions New York Governor Kathy Hochul’s prosecutor appointment in Cornell rape case"
         }
       ],
       "selfPraiseCount": 0
+    },
+    {
+      "date": "2026-10-03",
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "positive:0 neutral:0 negative:0",
+      "topics": [],
+      "postsCount": 0,
+      "hasDetail": true,
+      "generatedAt": "2026-10-03T00:01:18.257Z",
+      "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-10-02T20:01:03.664Z",
+  "generatedAt": "2026-10-03T00:01:32.077Z",
   "trendingTopic": "Trump nominates three attorneys to federal judgeships in Mississippi and North Carolina",
   "secondaryHighlights": [
     {
-      "topic": "Jack Smith faces allegations of privilege violations and calls for criminal prosecution",
-      "name": "Jack Smith"
+      "topic": "Trump appears in Oklahoma and thanks supporters"
     },
     {
-      "topic": "Trump claims Iran’s nuclear threat was eliminated as officials warn its economy faces collapse"
+      "topic": "Trump touts an $8.4 billion South Korean oil project and European diesel release"
     },
     {
-      "topic": "Trump announces South Korean oil project and European diesel release to strengthen energy security"
+      "topic": "Trump questions New York Governor Kathy Hochul’s prosecutor appointment in Cornell rape case"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:2:4e38a354dd36e7e8ae8ba47a"
+  "topicsCacheKey": "month-themes-v5:2:3526a7a95773f7e7d604c0c9"
 }

@@ -1,29 +1,29 @@
 {
   "date": "2026-10-02",
   "counts": {
-    "positive": 5,
-    "neutral": 2,
-    "negative": 0
+    "positive": 6,
+    "neutral": 3,
+    "negative": 1
   },
-  "summary": "positive:5 neutral:2 negative:0",
-  "generatedAt": "2026-10-02T20:01:03.664Z",
+  "summary": "positive:6 neutral:3 negative:1",
+  "generatedAt": "2026-10-03T00:01:32.077Z",
   "topics": [
-    "Trump announces South Korean oil project and European diesel release to strengthen energy security",
-    "Trump arrives in Oklahoma",
-    "Trump says America belongs to those who love it"
+    "Trump appears in Oklahoma and thanks supporters",
+    "Trump touts an $8.4 billion South Korean oil project and European diesel release",
+    "Trump questions New York Governor Kathy Hochul’s prosecutor appointment in Cornell rape case"
   ],
-  "trendingTopic": "Trump announces South Korean oil project and European diesel release to strengthen energy security",
+  "trendingTopic": "Trump appears in Oklahoma and thanks supporters",
   "secondaryHighlights": [
     {
-      "topic": "Trump arrives in Oklahoma"
+      "topic": "Trump touts an $8.4 billion South Korean oil project and European diesel release"
     },
     {
-      "topic": "Trump says America belongs to those who love it"
+      "topic": "Trump questions New York Governor Kathy Hochul’s prosecutor appointment in Cornell rape case"
     }
   ],
   "selfPraiseCount": 0,
-  "topicsCacheKey": "day-themes-v11:7:93576809a3ebdaedb2ad0773",
-  "selfPraiseCacheKey": "self-praise-v2:7:93576809a3ebdaedb2ad0773",
+  "topicsCacheKey": "day-themes-v11:10:5e05c7e9e16d646aea3f5a27",
+  "selfPraiseCacheKey": "self-praise-v2:10:5e05c7e9e16d646aea3f5a27",
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/42076",
@@ -154,6 +154,64 @@
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18344/79649d0975e30fb7-3a602fa2ac35.png"
       ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42085",
+      "publishedAt": "2026-10-02T21:03:08.000Z",
+      "title": "[No Title] - Post from October 2, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42085",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 2, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42085",
+        "pubDate": "Fri, 02 Oct 2026 21:03:08 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42085",
+        "isoDate": "2026-10-02T21:03:08.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42084",
+      "publishedAt": "2026-10-02T21:16:16.000Z",
+      "title": "Why would the Governor of New York, Kathy Hochul, appoint a Corrupt Prosecutor, Letitia “Peekaboo\" James, to represent the State in the highly controversial Cornell University rape case?",
+      "text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117373336850052625</span>Why would the Governor of New York, Kathy Hochul, appoint a Corrupt Prosecutor, Letitia “Peekaboo\" James, to represent the State in the highly controversial Cornell University rape case?</p>",
+      "url": "https://www.trumpstruth.org/statuses/42084",
+      "raw": {
+        "creator": "",
+        "title": "Why would the Governor of New York, Kathy Hochul, appoint a Corrupt Prosecutor, Letitia “Peekaboo\" James, to represent the State in the highly controversial Cornell University rape case?",
+        "link": "https://www.trumpstruth.org/statuses/42084",
+        "pubDate": "Fri, 02 Oct 2026 21:16:16 +0000",
+        "author": "",
+        "content": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117373336850052625</span>Why would the Governor of New York, Kathy Hochul, appoint a Corrupt Prosecutor, Letitia “Peekaboo\" James, to represent the State in the highly controversial Cornell University rape case?</p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117373336850052625Why would the Governor of New York, Kathy Hochul, appoint a Corrupt Prosecutor, Letitia “Peekaboo\" James, to represent the State in the highly controversial Cornell University rape case?",
+        "guid": "https://www.trumpstruth.org/statuses/42084",
+        "isoDate": "2026-10-02T21:16:16.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42086",
+      "publishedAt": "2026-10-02T22:06:31.000Z",
+      "title": "Thank you Oklahoma! President DONALD J. TRUMP",
+      "text": "<p>Thank you Oklahoma! President DONALD J. TRUMP</p>\n\n[Image] A newspaper page carries the headline “Loyalists Cheer Trump at GOP Campaign Rally” and labels the event Election 2026. The main photograph shows Donald Trump in a dark suit and red tie raising a clenched fist before rows of American flags. A lower photograph shows a large crowd cheering and holding signs at the rally. Text identifies the event as taking place in Durant, Oklahoma.",
+      "url": "https://www.trumpstruth.org/statuses/42086",
+      "raw": {
+        "creator": "",
+        "title": "Thank you Oklahoma! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42086",
+        "pubDate": "Fri, 02 Oct 2026 22:06:31 +0000",
+        "author": "",
+        "content": "<p>Thank you Oklahoma! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Thank you Oklahoma! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42086",
+        "isoDate": "2026-10-02T22:06:31.000Z"
+      },
+      "imageDescribedAt": "2026-10-03T00:01:12.146Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18347/48aa2c74268e587e-51a9b9540001.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -198,6 +256,24 @@
       "label": "neutral",
       "rationale": "The post contains no substantive text or sentiment.",
       "analyzedAt": "2026-10-02T20:00:50.670Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42084",
+      "label": "negative",
+      "rationale": "Uses accusatory and disparaging language toward Governor Kathy Hochul and Prosecutor Letitia James.",
+      "analyzedAt": "2026-10-03T00:01:15.915Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42085",
+      "label": "neutral",
+      "rationale": "The post contains no substantive text or sentiment.",
+      "analyzedAt": "2026-10-03T00:01:15.915Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42086",
+      "label": "positive",
+      "rationale": "Expresses gratitude to Oklahoma and depicts enthusiastic supporters cheering for Trump at a rally.",
+      "analyzedAt": "2026-10-03T00:01:15.915Z"
     }
   ]
 }
