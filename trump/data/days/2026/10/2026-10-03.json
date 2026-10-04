@@ -1,34 +1,38 @@
 {
   "date": "2026-10-03",
   "counts": {
-    "positive": 22,
+    "positive": 23,
     "neutral": 11,
     "negative": 4
   },
-  "summary": "positive:22 neutral:11 negative:4",
-  "generatedAt": "2026-10-03T20:04:57.728Z",
+  "summary": "positive:23 neutral:11 negative:4",
+  "generatedAt": "2026-10-04T00:05:06.758Z",
   "topics": [
-    "Endorses Republican candidates for Alabama, Oklahoma, Alaska, and New Mexico offices",
+    "Endorses five Republican candidates for Alabama, Oklahoma, Alaska, and New Mexico races",
     "Promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel",
-    "Urges Republican turnout in the 2026 midterm elections and promises a $5,000 dividend"
+    "Urges Republican turnout in the 2026 midterm elections and promises $5,000 checks"
   ],
-  "trendingTopic": "Endorses Katherine Robertson, Cindy Byrd, Nick Begich, Greg Cunningham, and Dan Sullivan for office",
+  "trendingTopic": "Endorses Republican candidates for Alabama, Oklahoma, Alaska, and New Mexico elections",
   "secondaryHighlights": [
     {
       "topic": "Promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel"
     },
     {
-      "topic": "Urges Republican turnout in the 2026 midterm elections and promises a $5,000 dividend"
+      "topic": "Urges Republican turnout in the 2026 midterm elections and promises $5,000 checks"
     }
   ],
-  "selfPraiseCount": 4,
-  "topicsCacheKey": "day-themes-v11:37:104472ee874e86829a279f3d",
-  "selfPraiseCacheKey": "self-praise-v2:37:104472ee874e86829a279f3d",
+  "selfPraiseCount": 8,
+  "topicsCacheKey": "day-themes-v11:38:e864d36187d07f758f6f9a15",
+  "selfPraiseCacheKey": "self-praise-v2:38:e864d36187d07f758f6f9a15",
   "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/42092",
     "https://www.trumpstruth.org/statuses/42093",
+    "https://www.trumpstruth.org/statuses/42099",
     "https://www.trumpstruth.org/statuses/42098",
     "https://www.trumpstruth.org/statuses/42101",
-    "https://www.trumpstruth.org/statuses/42102"
+    "https://www.trumpstruth.org/statuses/42102",
+    "https://www.trumpstruth.org/statuses/42122",
+    "https://www.trumpstruth.org/statuses/42125"
   ],
   "posts": [
     {
@@ -746,6 +750,24 @@
         "guid": "https://www.trumpstruth.org/statuses/42124",
         "isoDate": "2026-10-03T18:26:27.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42125",
+      "publishedAt": "2026-10-03T22:20:59.000Z",
+      "title": "HUGE NEWS FOR OHIO, where I am heading right now! Bayer just announced a brand new, 2.2 Billion Dollar Pharmaceutical Manufacturing Campus near Columbus. It will generate thousands of Jobs for Ohioans in Advanced Manufacturing, Scientific Research, Construction, and more. This massive Onshoring WIN is thanks to my strong Pharmaceutical Tariffs, which have led to over 600 BILLION DOLLARS in new Pharma Investments, and lower (MFN) Drug Prices. Companies everywhere are building in the U.S.A. BUILD IN AMERICA, HIRE AMERICAN WORKERS, AND PRICE DRUGS FOR AMERICAN PATIENTS FAIRLY — OR PAY. I LOVE OHIO! President DONALD J. TRUMP",
+      "text": "<p>HUGE NEWS FOR OHIO, where I am heading right now! Bayer just announced a brand new, 2.2 Billion Dollar Pharmaceutical Manufacturing Campus near Columbus. It will generate thousands of Jobs for Ohioans in Advanced Manufacturing, Scientific Research, Construction, and more. This massive Onshoring WIN is thanks to my strong Pharmaceutical Tariffs, which have led to over 600 BILLION DOLLARS in new Pharma Investments, and lower (MFN) Drug Prices. Companies everywhere are building in the U.S.A. BUILD IN AMERICA, HIRE AMERICAN WORKERS, AND PRICE DRUGS FOR AMERICAN PATIENTS FAIRLY — OR PAY. I LOVE OHIO! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/42125",
+      "raw": {
+        "creator": "",
+        "title": "HUGE NEWS FOR OHIO, where I am heading right now! Bayer just announced a brand new, 2.2 Billion Dollar Pharmaceutical Manufacturing Campus near Columbus. It will generate thousands of Jobs for Ohioans in Advanced Manufacturing, Scientific Research, Construction, and more. This massive Onshoring WIN is thanks to my strong Pharmaceutical Tariffs, which have led to over 600 BILLION DOLLARS in new Pharma Investments, and lower (MFN) Drug Prices. Companies everywhere are building in the U.S.A. BUILD IN AMERICA, HIRE AMERICAN WORKERS, AND PRICE DRUGS FOR AMERICAN PATIENTS FAIRLY — OR PAY. I LOVE OHIO! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42125",
+        "pubDate": "Sat, 03 Oct 2026 22:20:59 +0000",
+        "author": "",
+        "content": "<p>HUGE NEWS FOR OHIO, where I am heading right now! Bayer just announced a brand new, 2.2 Billion Dollar Pharmaceutical Manufacturing Campus near Columbus. It will generate thousands of Jobs for Ohioans in Advanced Manufacturing, Scientific Research, Construction, and more. This massive Onshoring WIN is thanks to my strong Pharmaceutical Tariffs, which have led to over 600 BILLION DOLLARS in new Pharma Investments, and lower (MFN) Drug Prices. Companies everywhere are building in the U.S.A. BUILD IN AMERICA, HIRE AMERICAN WORKERS, AND PRICE DRUGS FOR AMERICAN PATIENTS FAIRLY — OR PAY. I LOVE OHIO! President DONALD J. TRUMP</p>",
+        "contentSnippet": "HUGE NEWS FOR OHIO, where I am heading right now! Bayer just announced a brand new, 2.2 Billion Dollar Pharmaceutical Manufacturing Campus near Columbus. It will generate thousands of Jobs for Ohioans in Advanced Manufacturing, Scientific Research, Construction, and more. This massive Onshoring WIN is thanks to my strong Pharmaceutical Tariffs, which have led to over 600 BILLION DOLLARS in new Pharma Investments, and lower (MFN) Drug Prices. Companies everywhere are building in the U.S.A. BUILD IN AMERICA, HIRE AMERICAN WORKERS, AND PRICE DRUGS FOR AMERICAN PATIENTS FAIRLY — OR PAY. I LOVE OHIO! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42125",
+        "isoDate": "2026-10-03T22:20:59.000Z"
+      }
     }
   ],
   "sentiments": [
@@ -970,6 +992,12 @@
       "label": "negative",
       "rationale": "The text expresses strong dislike and depression about darkness after the time change and highlights danger in crime-ridden states.",
       "analyzedAt": "2026-10-03T20:04:36.231Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42125",
+      "label": "positive",
+      "rationale": "The text celebrates Bayer’s major Ohio investment, job creation, pharmaceutical manufacturing, and claimed economic successes, using strongly enthusiastic and approving language.",
+      "analyzedAt": "2026-10-04T00:04:42.551Z"
     }
   ]
 }

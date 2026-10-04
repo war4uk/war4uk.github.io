@@ -59,43 +59,55 @@
     {
       "date": "2026-10-03",
       "counts": {
-        "positive": 22,
+        "positive": 23,
         "neutral": 11,
         "negative": 4
       },
-      "summary": "positive:22 neutral:11 negative:4",
+      "summary": "positive:23 neutral:11 negative:4",
       "topics": [
-        "Endorses Republican candidates for Alabama, Oklahoma, Alaska, and New Mexico offices",
+        "Endorses five Republican candidates for Alabama, Oklahoma, Alaska, and New Mexico races",
         "Promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel",
-        "Urges Republican turnout in the 2026 midterm elections and promises a $5,000 dividend"
+        "Urges Republican turnout in the 2026 midterm elections and promises $5,000 checks"
       ],
-      "postsCount": 37,
+      "postsCount": 38,
       "hasDetail": true,
-      "generatedAt": "2026-10-03T20:04:57.728Z",
-      "trendingTopic": "Endorses Katherine Robertson, Cindy Byrd, Nick Begich, Greg Cunningham, and Dan Sullivan for office",
+      "generatedAt": "2026-10-04T00:05:06.758Z",
+      "trendingTopic": "Endorses Republican candidates for Alabama, Oklahoma, Alaska, and New Mexico elections",
       "secondaryHighlights": [
         {
           "topic": "Promotes new books by Charles Payne, Newt Gingrich, and Marc Siegel"
         },
         {
-          "topic": "Urges Republican turnout in the 2026 midterm elections and promises a $5,000 dividend"
+          "topic": "Urges Republican turnout in the 2026 midterm elections and promises $5,000 checks"
         }
       ],
-      "selfPraiseCount": 4
+      "selfPraiseCount": 8
+    },
+    {
+      "date": "2026-10-04",
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "summary": "positive:0 neutral:0 negative:0",
+      "topics": [],
+      "postsCount": 0,
+      "hasDetail": true,
+      "generatedAt": "2026-10-04T00:04:44.919Z",
+      "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-10-03T20:04:57.728Z",
-  "trendingTopic": "Endorses Republican candidates across Alabama, Oklahoma, Alaska, and New Mexico",
+  "generatedAt": "2026-10-04T00:05:06.758Z",
+  "trendingTopic": "Endorses Republican candidates and urges 2026 midterm turnout",
   "secondaryHighlights": [
     {
       "topic": "Nominates three attorneys to federal judgeships in Mississippi and North Carolina"
     },
     {
-      "topic": "Jack Smith faces allegations of privilege violations and calls for criminal prosecution"
-    },
-    {
-      "topic": "Claims Iran’s nuclear threat was eliminated as its economy faces collapse"
+      "topic": "Jack Smith faces allegations of privilege violations and calls for criminal prosecution over his investigations",
+      "name": "Jack Smith"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:3:d5b872047fb66be5b3a38438"
+  "topicsCacheKey": "month-themes-v5:3:e4b269e8d41df9453dedf585"
 }
