@@ -71,7 +71,7 @@
       ],
       "postsCount": 38,
       "hasDetail": true,
-      "generatedAt": "2026-10-04T12:02:26.083Z",
+      "generatedAt": "2026-10-04T16:01:22.920Z",
       "trendingTopic": "Endorses Republican candidates for Alabama, Oklahoma, Alaska, and New Mexico elections",
       "secondaryHighlights": [
         {
@@ -86,28 +86,45 @@
     {
       "date": "2026-10-04",
       "counts": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 0
+        "positive": 5,
+        "neutral": 2,
+        "negative": 3
       },
-      "summary": "positive:0 neutral:0 negative:0",
-      "topics": [],
-      "postsCount": 0,
+      "summary": "positive:5 neutral:2 negative:3",
+      "topics": [
+        "Trump praises Emily Miller for exposing alleged paid protesters opposing his developments and policies",
+        "Trump demands Fox News cover packed Republican rallies in Ohio, Alabama, Texas, and Oklahoma",
+        "Trump nominates John Coale as special presidential envoy for hostage affairs"
+      ],
+      "postsCount": 10,
       "hasDetail": true,
-      "generatedAt": "2026-10-04T12:02:28.405Z",
-      "selfPraiseCount": 0
+      "generatedAt": "2026-10-04T16:01:57.618Z",
+      "trendingTopic": "Trump praises Emily Miller for exposing alleged paid protesters opposing his developments and policies",
+      "trendingName": "Emily Miller",
+      "secondaryHighlights": [
+        {
+          "topic": "Trump announces a federal Super Intelligence Force led by senior technology and security officials"
+        },
+        {
+          "topic": "Trump says mainstream media is ignoring positive economic indicators in jobs, spending, and income"
+        },
+        {
+          "topic": "Trump attacks Jack Smith and disputes polling that underestimates MAGA support"
+        }
+      ],
+      "selfPraiseCount": 3
     }
   ],
-  "generatedAt": "2026-10-04T12:02:28.405Z",
-  "trendingTopic": "Endorses Republican candidates and urges 2026 midterm turnout",
+  "generatedAt": "2026-10-04T16:01:57.618Z",
+  "trendingTopic": "Trump attacks Jack Smith over alleged privilege violations and his investigations",
+  "trendingName": "Jack Smith",
   "secondaryHighlights": [
     {
-      "topic": "Nominates three attorneys to federal judgeships in Mississippi and North Carolina"
+      "topic": "Trump nominates federal judges and a special envoy for hostage affairs"
     },
     {
-      "topic": "Jack Smith faces allegations of privilege violations and calls for criminal prosecution over his investigations",
-      "name": "Jack Smith"
+      "topic": "Trump endorses Republican candidates and urges 2026 midterm turnout"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:3:e4b269e8d41df9453dedf585"
+  "topicsCacheKey": "month-themes-v5:4:19f688e499468b7e13a1e0a1"
 }

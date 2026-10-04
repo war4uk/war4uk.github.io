@@ -1,14 +1,288 @@
 {
   "date": "2026-10-04",
   "counts": {
-    "positive": 0,
-    "neutral": 0,
-    "negative": 0
+    "positive": 5,
+    "neutral": 2,
+    "negative": 3
   },
-  "summary": "positive:0 neutral:0 negative:0",
-  "generatedAt": "2026-10-04T12:02:28.405Z",
-  "topics": [],
-  "selfPraiseCount": 0,
-  "posts": [],
-  "sentiments": []
+  "summary": "positive:5 neutral:2 negative:3",
+  "generatedAt": "2026-10-04T16:01:57.618Z",
+  "topics": [
+    "Trump praises Emily Miller for exposing alleged paid protesters opposing his developments and policies",
+    "Trump demands Fox News cover packed Republican rallies in Ohio, Alabama, Texas, and Oklahoma",
+    "Trump nominates John Coale as special presidential envoy for hostage affairs"
+  ],
+  "trendingTopic": "Trump praises Emily Miller for exposing alleged paid protesters opposing his developments and policies",
+  "trendingName": "Emily Miller",
+  "secondaryHighlights": [
+    {
+      "topic": "Trump announces a federal Super Intelligence Force led by senior technology and security officials"
+    },
+    {
+      "topic": "Trump says mainstream media is ignoring positive economic indicators in jobs, spending, and income"
+    },
+    {
+      "topic": "Trump attacks Jack Smith and disputes polling that underestimates MAGA support"
+    }
+  ],
+  "selfPraiseCount": 3,
+  "posts": [
+    {
+      "id": "https://www.trumpstruth.org/statuses/42131",
+      "publishedAt": "2026-10-04T12:19:46.000Z",
+      "title": "[No Title] - Post from October 4, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42131",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 4, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42131",
+        "pubDate": "Sun, 04 Oct 2026 12:19:46 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42131",
+        "isoDate": "2026-10-04T12:19:46.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42130",
+      "publishedAt": "2026-10-04T12:21:46.000Z",
+      "title": "How much is she being paid, and by whom? She’s at all of my developments protesting. Others, likewise, are the same people. These are paid protestors, aren’t they?",
+      "text": "<p>How much is she being paid, and by whom? She’s at all of my developments protesting. Others, likewise, are the same people. These are paid protestors, aren’t they?</p>\n\n[Image] A collage titled “Same Lady - Paid Protesters?” shows the same Black woman in two outdoor protest scenes. In the left photo, labeled “Reflecting Pool,” she stands by a chain-link fence holding a handwritten sign mentioning billions and protesters. In the right photo, labeled “The Arch,” she holds a phone near a tree while wearing a white shirt; other people and protest signs are nearby.",
+      "url": "https://www.trumpstruth.org/statuses/42130",
+      "raw": {
+        "creator": "",
+        "title": "How much is she being paid, and by whom? She’s at all of my developments protesting. Others, likewise, are the same people. These are paid protestors, aren’t they?",
+        "link": "https://www.trumpstruth.org/statuses/42130",
+        "pubDate": "Sun, 04 Oct 2026 12:21:46 +0000",
+        "author": "",
+        "content": "<p>How much is she being paid, and by whom? She’s at all of my developments protesting. Others, likewise, are the same people. These are paid protestors, aren’t they?</p>",
+        "contentSnippet": "How much is she being paid, and by whom? She’s at all of my developments protesting. Others, likewise, are the same people. These are paid protestors, aren’t they?",
+        "guid": "https://www.trumpstruth.org/statuses/42130",
+        "isoDate": "2026-10-04T12:21:46.000Z"
+      },
+      "imageDescribedAt": "2026-10-04T16:01:34.125Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18383/02e52fd1552f6448-93da95003e18.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42129",
+      "publishedAt": "2026-10-04T12:21:55.000Z",
+      "title": "[No Title] - Post from October 4, 2026",
+      "text": "<p></p>",
+      "url": "https://www.trumpstruth.org/statuses/42129",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 4, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42129",
+        "pubDate": "Sun, 04 Oct 2026 12:21:55 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42129",
+        "isoDate": "2026-10-04T12:21:55.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42128",
+      "publishedAt": "2026-10-04T12:22:25.000Z",
+      "title": "Thank you Emily Miller. You are absolutely fantastic! There are many such people all over as the one you just caught, REDHANDED, who attempt to stop or defer Great Developments, Projects, and even Policies. They stand in the way of Greatness for our Country, but we are winning, and winning BIG, and it is driving those that hate America absolutely CRAZY. We are proud of the Emily Millers of the World. You keep the Artificial News on their toes. They’ll probably never be honest again, like in the old days, but at least they know we’re watching! President DONALD J. TRUMP",
+      "text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117382611962645893</span>Thank you Emily Miller. You are absolutely fantastic! There are many such people all over as the one you just caught, REDHANDED, who attempt to stop or defer Great Developments, Projects, and even Policies. They stand in the way of Greatness for our Country, but we are winning, and winning BIG, and it is driving those that hate America absolutely CRAZY. We are proud of the Emily Millers of the World. You keep the Artificial News on their toes. They’ll probably never be honest again, like in the old days, but at least they know we’re watching! President DONALD J. TRUMP</p>\n\n[Image] A screenshot of a social media post from verified account Emily Miller (@emilymiller). The post reads: “Algae protester at Lincoln Reflecting Pool exploded today! Accused me of getting her in trouble. Her profanity finally got shouted down by patriotic bystanders. Watch!” A Follow button and menu icon appear at the upper right.",
+      "url": "https://www.trumpstruth.org/statuses/42128",
+      "raw": {
+        "creator": "",
+        "title": "Thank you Emily Miller. You are absolutely fantastic! There are many such people all over as the one you just caught, REDHANDED, who attempt to stop or defer Great Developments, Projects, and even Policies. They stand in the way of Greatness for our Country, but we are winning, and winning BIG, and it is driving those that hate America absolutely CRAZY. We are proud of the Emily Millers of the World. You keep the Artificial News on their toes. They’ll probably never be honest again, like in the old days, but at least they know we’re watching! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42128",
+        "pubDate": "Sun, 04 Oct 2026 12:22:25 +0000",
+        "author": "",
+        "content": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117382611962645893</span>Thank you Emily Miller. You are absolutely fantastic! There are many such people all over as the one you just caught, REDHANDED, who attempt to stop or defer Great Developments, Projects, and even Policies. They stand in the way of Greatness for our Country, but we are winning, and winning BIG, and it is driving those that hate America absolutely CRAZY. We are proud of the Emily Millers of the World. You keep the Artificial News on their toes. They’ll probably never be honest again, like in the old days, but at least they know we’re watching! President DONALD J. TRUMP</p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117382611962645893Thank you Emily Miller. You are absolutely fantastic! There are many such people all over as the one you just caught, REDHANDED, who attempt to stop or defer Great Developments, Projects, and even Policies. They stand in the way of Greatness for our Country, but we are winning, and winning BIG, and it is driving those that hate America absolutely CRAZY. We are proud of the Emily Millers of the World. You keep the Artificial News on their toes. They’ll probably never be honest again, like in the old days, but at least they know we’re watching! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42128",
+        "isoDate": "2026-10-04T12:22:25.000Z"
+      },
+      "imageDescribedAt": "2026-10-04T16:01:30.288Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18381/dbac779f2cb2657a-a2a58ce5ceb6.png"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42127",
+      "publishedAt": "2026-10-04T12:22:49.000Z",
+      "title": "I am pleased to announce that John Coale, Esq., a great lawyer and my incredibly successful Envoy for Belarus, will be my new Nominee for Special Presidential Envoy for Hostage Affairs, with the rank of Ambassador. John has already secured the return of over 65 Americans and Allied Citizens from Belarus over the last year, and negotiated the release of more than 800 political prisoners from multiple countries in Eastern Europe. He will work tirelessly in this new post to bring American Citizens home. Adam Boehler, who has done an incredible job, bringing back 196 hostages, will continue to assist in other matters, as Senior Advisor. Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "text": "<p>I am pleased to announce that John Coale, Esq., a great lawyer and my incredibly successful Envoy for Belarus, will be my new Nominee for Special Presidential Envoy for Hostage Affairs, with the rank of Ambassador. John has already secured the return of over 65 Americans and Allied Citizens from Belarus over the last year, and negotiated the release of more than 800 political prisoners from multiple countries in Eastern Europe. He will work tirelessly in this new post to bring American Citizens home. Adam Boehler, who has done an incredible job, bringing back 196 hostages, will continue to assist in other matters, as Senior Advisor. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/42127",
+      "raw": {
+        "creator": "",
+        "title": "I am pleased to announce that John Coale, Esq., a great lawyer and my incredibly successful Envoy for Belarus, will be my new Nominee for Special Presidential Envoy for Hostage Affairs, with the rank of Ambassador. John has already secured the return of over 65 Americans and Allied Citizens from Belarus over the last year, and negotiated the release of more than 800 political prisoners from multiple countries in Eastern Europe. He will work tirelessly in this new post to bring American Citizens home. Adam Boehler, who has done an incredible job, bringing back 196 hostages, will continue to assist in other matters, as Senior Advisor. Thank you for your attention to this matter! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42127",
+        "pubDate": "Sun, 04 Oct 2026 12:22:49 +0000",
+        "author": "",
+        "content": "<p>I am pleased to announce that John Coale, Esq., a great lawyer and my incredibly successful Envoy for Belarus, will be my new Nominee for Special Presidential Envoy for Hostage Affairs, with the rank of Ambassador. John has already secured the return of over 65 Americans and Allied Citizens from Belarus over the last year, and negotiated the release of more than 800 political prisoners from multiple countries in Eastern Europe. He will work tirelessly in this new post to bring American Citizens home. Adam Boehler, who has done an incredible job, bringing back 196 hostages, will continue to assist in other matters, as Senior Advisor. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+        "contentSnippet": "I am pleased to announce that John Coale, Esq., a great lawyer and my incredibly successful Envoy for Belarus, will be my new Nominee for Special Presidential Envoy for Hostage Affairs, with the rank of Ambassador. John has already secured the return of over 65 Americans and Allied Citizens from Belarus over the last year, and negotiated the release of more than 800 political prisoners from multiple countries in Eastern Europe. He will work tirelessly in this new post to bring American Citizens home. Adam Boehler, who has done an incredible job, bringing back 196 hostages, will continue to assist in other matters, as Senior Advisor. Thank you for your attention to this matter! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42127",
+        "isoDate": "2026-10-04T12:22:49.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42126",
+      "publishedAt": "2026-10-04T12:23:09.000Z",
+      "title": "Following the Historic White House Accord on Super Intelligence, where the World's most important Technology Companies came together, and confirmed their responsibilities to the American People, I am announcing the formation of the Super Intelligence Force (SIF). The Super Intelligence Force is tasked with coordinating the effort of the Federal Government to ensure that America continues to lead the World in Super Intelligence, which many say is bigger than the Industrial Revolution, and the Internet, and will protect the interests, and improve the lives, of all Americans. The Super Intelligence Force will coordinate the Federal Government's engagement with Consumers, Public Interest Groups, Religious Organizations, Critical Infrastructure Providers, and Super Intelligence Companies, and will be led by Director of National Intelligence, Jay Clayton, Chairman of the Federal Trade Commission, Andrew Ferguson, Under Secretary of War for Research and Engineering, and Chief Technology Officer, Emil Michael, and Director of the Office of Personnel Management, Scott Kupor, and will report to the President of the United States (ME!), and the Chief of Staff, Susie Wiles. Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "text": "<p>Following the Historic White House Accord on Super Intelligence, where the World's most important Technology Companies came together, and confirmed their responsibilities to the American People, I am announcing the formation of the Super Intelligence <br />Force (SIF). The Super Intelligence Force is tasked with coordinating the effort of the Federal Government to ensure that America continues to lead the World in Super Intelligence, which many say is bigger than the Industrial Revolution, and the Internet, and will protect the interests, and improve the lives, of all Americans. The Super Intelligence Force will coordinate the Federal Government's engagement with Consumers, Public Interest Groups, Religious Organizations, Critical Infrastructure Providers, and Super Intelligence Companies, and will be led by Director of National Intelligence, Jay Clayton, Chairman of the Federal Trade Commission, Andrew Ferguson, Under Secretary of War for Research and Engineering, and Chief Technology Officer, Emil Michael, and Director of the Office of Personnel Management, Scott Kupor, and will report to the President of the United States (ME!), and the Chief of Staff, Susie Wiles. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "url": "https://www.trumpstruth.org/statuses/42126",
+      "raw": {
+        "creator": "",
+        "title": "Following the Historic White House Accord on Super Intelligence, where the World's most important Technology Companies came together, and confirmed their responsibilities to the American People, I am announcing the formation of the Super Intelligence Force (SIF). The Super Intelligence Force is tasked with coordinating the effort of the Federal Government to ensure that America continues to lead the World in Super Intelligence, which many say is bigger than the Industrial Revolution, and the Internet, and will protect the interests, and improve the lives, of all Americans. The Super Intelligence Force will coordinate the Federal Government's engagement with Consumers, Public Interest Groups, Religious Organizations, Critical Infrastructure Providers, and Super Intelligence Companies, and will be led by Director of National Intelligence, Jay Clayton, Chairman of the Federal Trade Commission, Andrew Ferguson, Under Secretary of War for Research and Engineering, and Chief Technology Officer, Emil Michael, and Director of the Office of Personnel Management, Scott Kupor, and will report to the President of the United States (ME!), and the Chief of Staff, Susie Wiles. Thank you for your attention to this matter! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42126",
+        "pubDate": "Sun, 04 Oct 2026 12:23:09 +0000",
+        "author": "",
+        "content": "<p>Following the Historic White House Accord on Super Intelligence, where the World's most important Technology Companies came together, and confirmed their responsibilities to the American People, I am announcing the formation of the Super Intelligence <br />Force (SIF). The Super Intelligence Force is tasked with coordinating the effort of the Federal Government to ensure that America continues to lead the World in Super Intelligence, which many say is bigger than the Industrial Revolution, and the Internet, and will protect the interests, and improve the lives, of all Americans. The Super Intelligence Force will coordinate the Federal Government's engagement with Consumers, Public Interest Groups, Religious Organizations, Critical Infrastructure Providers, and Super Intelligence Companies, and will be led by Director of National Intelligence, Jay Clayton, Chairman of the Federal Trade Commission, Andrew Ferguson, Under Secretary of War for Research and Engineering, and Chief Technology Officer, Emil Michael, and Director of the Office of Personnel Management, Scott Kupor, and will report to the President of the United States (ME!), and the Chief of Staff, Susie Wiles. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+        "contentSnippet": "Following the Historic White House Accord on Super Intelligence, where the World's most important Technology Companies came together, and confirmed their responsibilities to the American People, I am announcing the formation of the Super Intelligence \nForce (SIF). The Super Intelligence Force is tasked with coordinating the effort of the Federal Government to ensure that America continues to lead the World in Super Intelligence, which many say is bigger than the Industrial Revolution, and the Internet, and will protect the interests, and improve the lives, of all Americans. The Super Intelligence Force will coordinate the Federal Government's engagement with Consumers, Public Interest Groups, Religious Organizations, Critical Infrastructure Providers, and Super Intelligence Companies, and will be led by Director of National Intelligence, Jay Clayton, Chairman of the Federal Trade Commission, Andrew Ferguson, Under Secretary of War for Research and Engineering, and Chief Technology Officer, Emil Michael, and Director of the Office of Personnel Management, Scott Kupor, and will report to the President of the United States (ME!), and the Chief of Staff, Susie Wiles. Thank you for your attention to this matter! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42126",
+        "isoDate": "2026-10-04T12:23:09.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42132",
+      "publishedAt": "2026-10-04T13:11:14.000Z",
+      "title": "Sad to see that Fox &amp; Friends (Sunday) is not covering our packed house and incredibly enthusiastic (beyond!) Rally that took place in Ohio last night, or the ones in Alabama, Texas, or Oklahoma over the past two days. These Election Rallies were representative of what is really happening with our great Republican Party. They were all sold out, with thousands of people trying to get in, and are absolutely phenomenal, better than ever! It’s the old undercurrent at FoxNews! Other networks are reporting about these Rallies, and really positively, like “crazy!” Our people want to see our Rallies, and reports on our Rallies, on FoxNews, or they will very quickly stop watching (like I am doing right now!). Fix spends more time talking to Communists, Socialists, and Dumocrats, often without rebuttal, and MAGA is not, to put it mildly, happy. We don’t like stupid Jessica Tarlov, and all of the others, that are forced down MAGA’S throats. These Rallies are the hottest things out there, tremendous love in those sold out arenas, and nothing shows up on Fox! Also, phenomenal ratings for those that properly report. Who makes these decisions at FoxNews? Probably the same loser that fired the great Maria Bartiromo because she complained about not being allowed to cover “TRUMP.” She’ll end up bigger and better than ever - watch! Cover our “happenings,” and not the opposition to Greatness for America, or FoxNews will soon have the ratings of FAKE NEWS CNN or MSNOW (MSDNC). Remember, Fox tried this act once before, and almost went out of business (and always right before an election!). That can happen again! Thank you for your attention to this matter! President DJT",
+      "text": "<p>Sad to see that Fox &amp; Friends (Sunday) is not covering our packed house and incredibly enthusiastic (beyond!) Rally that took place in Ohio last night, or the ones in Alabama, Texas, or Oklahoma over the past two days. These Election Rallies were representative of what is really happening with our great Republican Party. They were all sold out, with thousands of people trying to get in, and are absolutely phenomenal, better than ever! It’s the old undercurrent at FoxNews! Other networks are reporting about these Rallies, and really positively, like “crazy!” Our people want to see our Rallies, and reports on our Rallies, on FoxNews, or they will very quickly stop watching (like I am doing right now!). Fix spends more time talking to Communists, Socialists, and Dumocrats, often without rebuttal, and MAGA is not, to put it mildly, happy. We don’t like stupid Jessica Tarlov, and all of the others, that are forced down MAGA’S throats. These Rallies are the hottest things out there, tremendous love in those sold out arenas, and nothing shows up on Fox! Also, phenomenal ratings for those that properly report. Who makes these decisions at FoxNews? Probably the same loser that fired the great Maria Bartiromo because she complained about not being allowed to cover “TRUMP.” She’ll end up bigger and better than ever - watch! Cover our “happenings,” and not the opposition to Greatness for America, or FoxNews will soon have the ratings of FAKE NEWS CNN or MSNOW (MSDNC). Remember, Fox tried this act once before, and almost went out of business (and always right before an election!). That can happen again! Thank you for your attention to this matter! President DJT</p>",
+      "url": "https://www.trumpstruth.org/statuses/42132",
+      "raw": {
+        "creator": "",
+        "title": "Sad to see that Fox &amp; Friends (Sunday) is not covering our packed house and incredibly enthusiastic (beyond!) Rally that took place in Ohio last night, or the ones in Alabama, Texas, or Oklahoma over the past two days. These Election Rallies were representative of what is really happening with our great Republican Party. They were all sold out, with thousands of people trying to get in, and are absolutely phenomenal, better than ever! It’s the old undercurrent at FoxNews! Other networks are reporting about these Rallies, and really positively, like “crazy!” Our people want to see our Rallies, and reports on our Rallies, on FoxNews, or they will very quickly stop watching (like I am doing right now!). Fix spends more time talking to Communists, Socialists, and Dumocrats, often without rebuttal, and MAGA is not, to put it mildly, happy. We don’t like stupid Jessica Tarlov, and all of the others, that are forced down MAGA’S throats. These Rallies are the hottest things out there, tremendous love in those sold out arenas, and nothing shows up on Fox! Also, phenomenal ratings for those that properly report. Who makes these decisions at FoxNews? Probably the same loser that fired the great Maria Bartiromo because she complained about not being allowed to cover “TRUMP.” She’ll end up bigger and better than ever - watch! Cover our “happenings,” and not the opposition to Greatness for America, or FoxNews will soon have the ratings of FAKE NEWS CNN or MSNOW (MSDNC). Remember, Fox tried this act once before, and almost went out of business (and always right before an election!). That can happen again! Thank you for your attention to this matter! President DJT",
+        "link": "https://www.trumpstruth.org/statuses/42132",
+        "pubDate": "Sun, 04 Oct 2026 13:11:14 +0000",
+        "author": "",
+        "content": "<p>Sad to see that Fox &amp; Friends (Sunday) is not covering our packed house and incredibly enthusiastic (beyond!) Rally that took place in Ohio last night, or the ones in Alabama, Texas, or Oklahoma over the past two days. These Election Rallies were representative of what is really happening with our great Republican Party. They were all sold out, with thousands of people trying to get in, and are absolutely phenomenal, better than ever! It’s the old undercurrent at FoxNews! Other networks are reporting about these Rallies, and really positively, like “crazy!” Our people want to see our Rallies, and reports on our Rallies, on FoxNews, or they will very quickly stop watching (like I am doing right now!). Fix spends more time talking to Communists, Socialists, and Dumocrats, often without rebuttal, and MAGA is not, to put it mildly, happy. We don’t like stupid Jessica Tarlov, and all of the others, that are forced down MAGA’S throats. These Rallies are the hottest things out there, tremendous love in those sold out arenas, and nothing shows up on Fox! Also, phenomenal ratings for those that properly report. Who makes these decisions at FoxNews? Probably the same loser that fired the great Maria Bartiromo because she complained about not being allowed to cover “TRUMP.” She’ll end up bigger and better than ever - watch! Cover our “happenings,” and not the opposition to Greatness for America, or FoxNews will soon have the ratings of FAKE NEWS CNN or MSNOW (MSDNC). Remember, Fox tried this act once before, and almost went out of business (and always right before an election!). That can happen again! Thank you for your attention to this matter! President DJT</p>",
+        "contentSnippet": "Sad to see that Fox & Friends (Sunday) is not covering our packed house and incredibly enthusiastic (beyond!) Rally that took place in Ohio last night, or the ones in Alabama, Texas, or Oklahoma over the past two days. These Election Rallies were representative of what is really happening with our great Republican Party. They were all sold out, with thousands of people trying to get in, and are absolutely phenomenal, better than ever! It’s the old undercurrent at FoxNews! Other networks are reporting about these Rallies, and really positively, like “crazy!” Our people want to see our Rallies, and reports on our Rallies, on FoxNews, or they will very quickly stop watching (like I am doing right now!). Fix spends more time talking to Communists, Socialists, and Dumocrats, often without rebuttal, and MAGA is not, to put it mildly, happy. We don’t like stupid Jessica Tarlov, and all of the others, that are forced down MAGA’S throats. These Rallies are the hottest things out there, tremendous love in those sold out arenas, and nothing shows up on Fox! Also, phenomenal ratings for those that properly report. Who makes these decisions at FoxNews? Probably the same loser that fired the great Maria Bartiromo because she complained about not being allowed to cover “TRUMP.” She’ll end up bigger and better than ever - watch! Cover our “happenings,” and not the opposition to Greatness for America, or FoxNews will soon have the ratings of FAKE NEWS CNN or MSNOW (MSDNC). Remember, Fox tried this act once before, and almost went out of business (and always right before an election!). That can happen again! Thank you for your attention to this matter! President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/42132",
+        "isoDate": "2026-10-04T13:11:14.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42135",
+      "publishedAt": "2026-10-04T14:10:22.000Z",
+      "title": "Mainstream media ignores positive Trump economic indicators in jobs, spending and income data:",
+      "text": "<p>Mainstream media ignores positive Trump economic indicators in jobs, spending and income data: <a href=\"https://justthenews.com/nation/economy/top-positive-us-economic-indicators-mainstream-media-not-reporting\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/nation/economy</span><span class=\"invisible\">/top-positive-us-economic-indicators-mainstream-media-not-reporting</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/42135",
+      "raw": {
+        "creator": "",
+        "title": "Mainstream media ignores positive Trump economic indicators in jobs, spending and income data:",
+        "link": "https://www.trumpstruth.org/statuses/42135",
+        "pubDate": "Sun, 04 Oct 2026 14:10:22 +0000",
+        "author": "",
+        "content": "<p>Mainstream media ignores positive Trump economic indicators in jobs, spending and income data: <a href=\"https://justthenews.com/nation/economy/top-positive-us-economic-indicators-mainstream-media-not-reporting\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/nation/economy</span><span class=\"invisible\">/top-positive-us-economic-indicators-mainstream-media-not-reporting</span></a></p>",
+        "contentSnippet": "Mainstream media ignores positive Trump economic indicators in jobs, spending and income data: https://justthenews.com/nation/economy/top-positive-us-economic-indicators-mainstream-media-not-reporting",
+        "guid": "https://www.trumpstruth.org/statuses/42135",
+        "isoDate": "2026-10-04T14:10:22.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42134",
+      "publishedAt": "2026-10-04T14:10:59.000Z",
+      "title": "Deranged Jack Smith is a Crooked Prosecutor! President DJTEx-Special Counsel Jack Smith sports Springsteen ‘No Kings’ shirt at ‘Power to the People Fest’:",
+      "text": "<p>Deranged Jack Smith is a Crooked Prosecutor! President DJT</p><p>Ex-Special Counsel Jack Smith sports Springsteen ‘No Kings’ shirt at ‘Power to the People Fest’:<br /><a href=\"https://justthenews.com/government/federal-agencies/ex-special-counsel-jack-smith-sports-springsteen-no-kings-shirt-power\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/fed</span><span class=\"invisible\">eral-agencies/ex-special-counsel-jack-smith-sports-springsteen-no-kings-shirt-power</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/42134",
+      "raw": {
+        "creator": "",
+        "title": "Deranged Jack Smith is a Crooked Prosecutor! President DJTEx-Special Counsel Jack Smith sports Springsteen ‘No Kings’ shirt at ‘Power to the People Fest’:",
+        "link": "https://www.trumpstruth.org/statuses/42134",
+        "pubDate": "Sun, 04 Oct 2026 14:10:59 +0000",
+        "author": "",
+        "content": "<p>Deranged Jack Smith is a Crooked Prosecutor! President DJT</p><p>Ex-Special Counsel Jack Smith sports Springsteen ‘No Kings’ shirt at ‘Power to the People Fest’:<br /><a href=\"https://justthenews.com/government/federal-agencies/ex-special-counsel-jack-smith-sports-springsteen-no-kings-shirt-power\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/fed</span><span class=\"invisible\">eral-agencies/ex-special-counsel-jack-smith-sports-springsteen-no-kings-shirt-power</span></a></p>",
+        "contentSnippet": "Deranged Jack Smith is a Crooked Prosecutor! President DJT\nEx-Special Counsel Jack Smith sports Springsteen ‘No Kings’ shirt at ‘Power to the People Fest’:\nhttps://justthenews.com/government/federal-agencies/ex-special-counsel-jack-smith-sports-springsteen-no-kings-shirt-power",
+        "guid": "https://www.trumpstruth.org/statuses/42134",
+        "isoDate": "2026-10-04T14:10:59.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42133",
+      "publishedAt": "2026-10-04T14:11:44.000Z",
+      "title": "The Polls have ALWAYS underestimated MAGA. They try to suppress the Vote, but I won all 7 Swing States, the Popular Vote, 86% of Counties, and 99% of Primaries this year. I AM ON THE BALLOT! President DONALD J. TRUMPFrom Dick Morris: “Since November of 2025 in monthly polls by McLaughlin, your job approval rating has always been between 47 and 50 percent. I have never seen anything like that in fifty years of polling. Almost every politician sees his numbers rise and fall each month but not you. You won the election in 2024 with 49.8 percent of the popular vote and the latest McLaughlin Poll, taken this month, has your job approval at 49% - the exact same as your vote share. No other political figure has ever had this level of consistency in his ratings. Through the Iran War and gas price rises and falls, your job approval is the same. It never changes. And 49% is enough to win - look at how that level of vote won in 2024! In the same Mclaughlin Poll, the generic ballot is 50-48 Democrat. That is also enough to keep the House Republican. Past history indicates that anything less than a four point margin for Democrats likely points to a Republican House victory. And almost all polls are showing Republican gains in the generic ballot.”",
+      "text": "<p>The Polls have ALWAYS underestimated MAGA. They try to suppress the Vote, but I won all 7 Swing States, the Popular Vote, 86% of Counties, and 99% of Primaries this year. I AM ON THE BALLOT! President DONALD J. TRUMP</p><p>From Dick Morris: “Since November of 2025 in monthly polls by McLaughlin, your job approval rating has always been between 47 and 50 percent. I have never seen anything like that in fifty years of polling. Almost every politician sees his numbers rise and fall each month but not you. You won the election in 2024 with 49.8 percent of the popular vote and the latest McLaughlin Poll, taken this month, has your job approval at 49% - the exact same as your vote share. No other political figure has ever had this level of consistency in his ratings. Through the Iran War and gas price rises and falls, your job approval is the same. It never changes. And 49% is enough to win - look at how that level of vote won in 2024! In the same Mclaughlin Poll, the generic ballot is 50-48 Democrat. That is also enough to keep the House Republican. Past history indicates that anything less than a four point margin for Democrats likely points to a Republican House victory. And almost all polls are showing Republican gains in the generic ballot.”</p>",
+      "url": "https://www.trumpstruth.org/statuses/42133",
+      "raw": {
+        "creator": "",
+        "title": "The Polls have ALWAYS underestimated MAGA. They try to suppress the Vote, but I won all 7 Swing States, the Popular Vote, 86% of Counties, and 99% of Primaries this year. I AM ON THE BALLOT! President DONALD J. TRUMPFrom Dick Morris: “Since November of 2025 in monthly polls by McLaughlin, your job approval rating has always been between 47 and 50 percent. I have never seen anything like that in fifty years of polling. Almost every politician sees his numbers rise and fall each month but not you. You won the election in 2024 with 49.8 percent of the popular vote and the latest McLaughlin Poll, taken this month, has your job approval at 49% - the exact same as your vote share. No other political figure has ever had this level of consistency in his ratings. Through the Iran War and gas price rises and falls, your job approval is the same. It never changes. And 49% is enough to win - look at how that level of vote won in 2024! In the same Mclaughlin Poll, the generic ballot is 50-48 Democrat. That is also enough to keep the House Republican. Past history indicates that anything less than a four point margin for Democrats likely points to a Republican House victory. And almost all polls are showing Republican gains in the generic ballot.”",
+        "link": "https://www.trumpstruth.org/statuses/42133",
+        "pubDate": "Sun, 04 Oct 2026 14:11:44 +0000",
+        "author": "",
+        "content": "<p>The Polls have ALWAYS underestimated MAGA. They try to suppress the Vote, but I won all 7 Swing States, the Popular Vote, 86% of Counties, and 99% of Primaries this year. I AM ON THE BALLOT! President DONALD J. TRUMP</p><p>From Dick Morris: “Since November of 2025 in monthly polls by McLaughlin, your job approval rating has always been between 47 and 50 percent. I have never seen anything like that in fifty years of polling. Almost every politician sees his numbers rise and fall each month but not you. You won the election in 2024 with 49.8 percent of the popular vote and the latest McLaughlin Poll, taken this month, has your job approval at 49% - the exact same as your vote share. No other political figure has ever had this level of consistency in his ratings. Through the Iran War and gas price rises and falls, your job approval is the same. It never changes. And 49% is enough to win - look at how that level of vote won in 2024! In the same Mclaughlin Poll, the generic ballot is 50-48 Democrat. That is also enough to keep the House Republican. Past history indicates that anything less than a four point margin for Democrats likely points to a Republican House victory. And almost all polls are showing Republican gains in the generic ballot.”</p>",
+        "contentSnippet": "The Polls have ALWAYS underestimated MAGA. They try to suppress the Vote, but I won all 7 Swing States, the Popular Vote, 86% of Counties, and 99% of Primaries this year. I AM ON THE BALLOT! President DONALD J. TRUMP\nFrom Dick Morris: “Since November of 2025 in monthly polls by McLaughlin, your job approval rating has always been between 47 and 50 percent. I have never seen anything like that in fifty years of polling. Almost every politician sees his numbers rise and fall each month but not you. You won the election in 2024 with 49.8 percent of the popular vote and the latest McLaughlin Poll, taken this month, has your job approval at 49% - the exact same as your vote share. No other political figure has ever had this level of consistency in his ratings. Through the Iran War and gas price rises and falls, your job approval is the same. It never changes. And 49% is enough to win - look at how that level of vote won in 2024! In the same Mclaughlin Poll, the generic ballot is 50-48 Democrat. That is also enough to keep the House Republican. Past history indicates that anything less than a four point margin for Democrats likely points to a Republican House victory. And almost all polls are showing Republican gains in the generic ballot.”",
+        "guid": "https://www.trumpstruth.org/statuses/42133",
+        "isoDate": "2026-10-04T14:11:44.000Z"
+      }
+    }
+  ],
+  "sentiments": [
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42126",
+      "label": "positive",
+      "rationale": "Announces an initiative intended to advance American leadership in superintelligence and improve lives.",
+      "analyzedAt": "2026-10-04T16:01:40.920Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42127",
+      "label": "positive",
+      "rationale": "Praises the nominee and celebrates achievements in securing hostages and prisoners' release.",
+      "analyzedAt": "2026-10-04T16:01:40.920Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42128",
+      "label": "positive",
+      "rationale": "Strongly praises Emily Miller and expresses confidence in political victories.",
+      "analyzedAt": "2026-10-04T16:01:40.920Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42129",
+      "label": "neutral",
+      "rationale": "Contains no substantive text or sentiment.",
+      "analyzedAt": "2026-10-04T16:01:40.920Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42130",
+      "label": "negative",
+      "rationale": "Expresses suspicion and accusatory concern about protesters allegedly being paid.",
+      "analyzedAt": "2026-10-04T16:01:40.920Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42131",
+      "label": "neutral",
+      "rationale": "Contains no substantive text or sentiment.",
+      "analyzedAt": "2026-10-04T16:01:40.920Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42132",
+      "label": "negative",
+      "rationale": "Complains angrily about Fox News and insults media figures and political opponents.",
+      "analyzedAt": "2026-10-04T16:01:40.920Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42133",
+      "label": "positive",
+      "rationale": "Expresses confidence in electoral success, approval ratings, and Republican prospects.",
+      "analyzedAt": "2026-10-04T16:01:40.920Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42134",
+      "label": "negative",
+      "rationale": "Uses derogatory language to attack Jack Smith and characterize him as corrupt.",
+      "analyzedAt": "2026-10-04T16:01:40.920Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42135",
+      "label": "positive",
+      "rationale": "Highlights favorable economic indicators involving jobs, spending, and income.",
+      "analyzedAt": "2026-10-04T16:01:40.920Z"
+    }
+  ],
+  "topicsCacheKey": "day-themes-v11:10:e3da953bd4f050b828f21b7a",
+  "selfPraiseCacheKey": "self-praise-v2:10:e3da953bd4f050b828f21b7a",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/42132",
+    "https://www.trumpstruth.org/statuses/42135",
+    "https://www.trumpstruth.org/statuses/42133"
+  ]
 }
