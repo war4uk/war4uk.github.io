@@ -1,31 +1,40 @@
 {
   "date": "2026-10-04",
   "counts": {
-    "positive": 5,
-    "neutral": 2,
-    "negative": 3
+    "positive": 13,
+    "neutral": 9,
+    "negative": 12
   },
-  "summary": "positive:5 neutral:2 negative:3",
-  "generatedAt": "2026-10-04T16:01:57.618Z",
+  "summary": "positive:13 neutral:9 negative:12",
+  "generatedAt": "2026-10-04T20:06:22.914Z",
   "topics": [
-    "Trump praises Emily Miller for exposing alleged paid protesters opposing his developments and policies",
-    "Trump demands Fox News cover packed Republican rallies in Ohio, Alabama, Texas, and Oklahoma",
-    "Trump nominates John Coale as special presidential envoy for hostage affairs"
+    "Trump says the Kennedy Center is crumbling and demands court permission to overhaul it",
+    "Trump and Xi Jinping appear together in multiple diplomatic images",
+    "Trump announces a federal Super Intelligence Force to coordinate U.S. artificial intelligence policy"
   ],
-  "trendingTopic": "Trump praises Emily Miller for exposing alleged paid protesters opposing his developments and policies",
-  "trendingName": "Emily Miller",
+  "trendingTopic": "Trump says the Kennedy Center is crumbling and demands court permission to overhaul it",
   "secondaryHighlights": [
     {
-      "topic": "Trump announces a federal Super Intelligence Force led by senior technology and security officials"
+      "topic": "Trump and Xi Jinping appear together in multiple diplomatic images",
+      "name": "Xi Jinping"
     },
     {
-      "topic": "Trump says mainstream media is ignoring positive economic indicators in jobs, spending, and income"
+      "topic": "Trump announces a federal Super Intelligence Force to coordinate U.S. artificial intelligence policy"
     },
     {
-      "topic": "Trump attacks Jack Smith and disputes polling that underestimates MAGA support"
+      "topic": "Trump accuses protesters of opposing his developments and proposed Arlington arch"
     }
   ],
-  "selfPraiseCount": 3,
+  "selfPraiseCount": 5,
+  "topicsCacheKey": "day-themes-v11:34:ce65f1cdd781b55f5e81e4d0",
+  "selfPraiseCacheKey": "self-praise-v2:34:ce65f1cdd781b55f5e81e4d0",
+  "selfPraisePostIds": [
+    "https://www.trumpstruth.org/statuses/42132",
+    "https://www.trumpstruth.org/statuses/42135",
+    "https://www.trumpstruth.org/statuses/42133",
+    "https://www.trumpstruth.org/statuses/42150",
+    "https://www.trumpstruth.org/statuses/42149"
+  ],
   "posts": [
     {
       "id": "https://www.trumpstruth.org/statuses/42131",
@@ -214,6 +223,530 @@
         "guid": "https://www.trumpstruth.org/statuses/42133",
         "isoDate": "2026-10-04T14:11:44.000Z"
       }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42152",
+      "publishedAt": "2026-10-04T17:03:35.000Z",
+      "title": "[No Title] - Post from October 4, 2026",
+      "text": "[Image] A white graphic is headed “Artificial News” in large black lettering. It displays the logos of Politico, MS NOW, MSNBC, NBC, CBS, and CNN in two columns, using their recognizable red, blue, black, and multicolored branding. No people or photographs appear in the image.",
+      "url": "https://www.trumpstruth.org/statuses/42152",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 4, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42152",
+        "pubDate": "Sun, 04 Oct 2026 17:03:35 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42152",
+        "isoDate": "2026-10-04T17:03:35.000Z"
+      },
+      "imageDescribedAt": "2026-10-04T20:05:47.098Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18401/4d16d3fa1bad1203-3f49c85b5c8c.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42151",
+      "publishedAt": "2026-10-04T17:03:52.000Z",
+      "title": "[No Title] - Post from October 4, 2026",
+      "text": "[Image] A meme shows side-by-side formal portraits of Barack Obama and Richard Nixon, both wearing dark suits and ties with American flags behind them. Large white text at the top states, “One of these men is the most corrupt president in the history of the United States,” while text at the bottom says, “The other is Richard Nixon.”",
+      "url": "https://www.trumpstruth.org/statuses/42151",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 4, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42151",
+        "pubDate": "Sun, 04 Oct 2026 17:03:52 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42151",
+        "isoDate": "2026-10-04T17:03:52.000Z"
+      },
+      "imageDescribedAt": "2026-10-04T20:05:44.385Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18400/f8b9b500171c1d7f-4cba5e59d5b4.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42150",
+      "publishedAt": "2026-10-04T17:04:13.000Z",
+      "title": "[No Title] - Post from October 4, 2026",
+      "text": "[Image] The image is a black-and-white portrait of Donald Trump leaning forward with both hands on a polished desk, wearing a dark suit, tie, and American flag lapel pin. Blurred flags and an ornate interior appear behind him. Large text at the top reads “Super Intelligence.”",
+      "url": "https://www.trumpstruth.org/statuses/42150",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 4, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42150",
+        "pubDate": "Sun, 04 Oct 2026 17:04:13 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42150",
+        "isoDate": "2026-10-04T17:04:13.000Z"
+      },
+      "imageDescribedAt": "2026-10-04T20:05:41.812Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18399/bafc2dbca6f8a908-6da8d0c20038.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42149",
+      "publishedAt": "2026-10-04T17:04:30.000Z",
+      "title": "[No Title] - Post from October 4, 2026",
+      "text": "[Image] A white graphic features large black text reading, “This Man is Our National Security,” with “is” underlined. Below is a formal portrait of Donald Trump wearing a dark blue suit, white shirt, and blue tie, with a U.S. flag lapel pin. An American flag and dark wood furnishings are visible behind him.",
+      "url": "https://www.trumpstruth.org/statuses/42149",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 4, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42149",
+        "pubDate": "Sun, 04 Oct 2026 17:04:30 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42149",
+        "isoDate": "2026-10-04T17:04:30.000Z"
+      },
+      "imageDescribedAt": "2026-10-04T20:05:39.642Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18398/91dd12d55abebf2f-9c9f8dbd8195.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42148",
+      "publishedAt": "2026-10-04T17:04:47.000Z",
+      "title": "[No Title] - Post from October 4, 2026",
+      "text": "[Image] A painted portrait shows Donald Trump seated at a large wooden desk, signing a document with a black pen while looking down. He wears a dark blue suit, white shirt, patterned tie, and American flag lapel pin. U.S. flags, gold curtains, framed photographs, a globe, and an eagle emblem decorate the office behind him.",
+      "url": "https://www.trumpstruth.org/statuses/42148",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 4, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42148",
+        "pubDate": "Sun, 04 Oct 2026 17:04:47 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42148",
+        "isoDate": "2026-10-04T17:04:47.000Z"
+      },
+      "imageDescribedAt": "2026-10-04T20:05:36.722Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18397/f0d79b57168b18a8-eefee093ec48.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42147",
+      "publishedAt": "2026-10-04T17:05:07.000Z",
+      "title": "[No Title] - Post from October 4, 2026",
+      "text": "[Image] A graphic displays the headline “President Trump gets YOUNGER” above a photograph of Donald Trump standing beside Xi Jinping. Both men wear dark blue suits and ties and face the camera outside an ornate building. Donald Trump is smiling broadly, while Xi Jinping has a neutral expression. The image presents them as formally posing together.",
+      "url": "https://www.trumpstruth.org/statuses/42147",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 4, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42147",
+        "pubDate": "Sun, 04 Oct 2026 17:05:07 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42147",
+        "isoDate": "2026-10-04T17:05:07.000Z"
+      },
+      "imageDescribedAt": "2026-10-04T20:05:34.117Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18396/023769a687f215af-094807f87e15.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42146",
+      "publishedAt": "2026-10-04T17:05:19.000Z",
+      "title": "[No Title] - Post from October 4, 2026",
+      "text": "[Image] Donald Trump and Xi Jinping stand side by side in dark suits, with Trump wearing a red tie and Xi wearing a burgundy tie. Alternating Chinese and American flags fill the background, with trees visible behind them. Both face the camera with neutral expressions in a formal diplomatic setting.",
+      "url": "https://www.trumpstruth.org/statuses/42146",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 4, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42146",
+        "pubDate": "Sun, 04 Oct 2026 17:05:19 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42146",
+        "isoDate": "2026-10-04T17:05:19.000Z"
+      },
+      "imageDescribedAt": "2026-10-04T20:05:31.329Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18395/d6655d176686e7a3-d3b9cd090636.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42145",
+      "publishedAt": "2026-10-04T17:05:32.000Z",
+      "title": "[No Title] - Post from October 4, 2026",
+      "text": "[Image] Donald Trump walks past a ceremonial military honor guard. The troops stand in several rows wearing dark dress uniforms, peaked caps, white gloves, and white belts while holding polished rifles with fixed bayonets. A partially visible red-and-yellow flag stands behind them, and trees form the dark background.",
+      "url": "https://www.trumpstruth.org/statuses/42145",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 4, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42145",
+        "pubDate": "Sun, 04 Oct 2026 17:05:32 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42145",
+        "isoDate": "2026-10-04T17:05:32.000Z"
+      },
+      "imageDescribedAt": "2026-10-04T20:05:29.399Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18394/e85012638895f8fd-36c41fe14063.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42144",
+      "publishedAt": "2026-10-04T17:05:44.000Z",
+      "title": "[No Title] - Post from October 4, 2026",
+      "text": "[Image] Donald Trump and Chinese President Xi Jinping shake hands on a red carpet outside a grand columned building. Both wear dark suits and ties. Large flowering plants in blue porcelain pots flank the steps, while uniformed ceremonial guards stand at attention near the entrance.",
+      "url": "https://www.trumpstruth.org/statuses/42144",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 4, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42144",
+        "pubDate": "Sun, 04 Oct 2026 17:05:44 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42144",
+        "isoDate": "2026-10-04T17:05:44.000Z"
+      },
+      "imageDescribedAt": "2026-10-04T20:05:26.746Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18393/060968558815e11b-d22ae33dd359.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42143",
+      "publishedAt": "2026-10-04T17:06:51.000Z",
+      "title": "[No Title] - Post from October 4, 2026",
+      "text": "[Image] A composite image shows Donald Trump towering behind a colorful Greenlandic town, with his hands resting on a rugged mountain ridge. Snow-capped peaks, rocky terrain, blue water, and a bright sky fill the background. Large green text across the top reads, “Hello, Greenland!”",
+      "url": "https://www.trumpstruth.org/statuses/42143",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 4, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42143",
+        "pubDate": "Sun, 04 Oct 2026 17:06:51 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42143",
+        "isoDate": "2026-10-04T17:06:51.000Z"
+      },
+      "imageDescribedAt": "2026-10-04T20:05:24.742Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18392/65e9cea3c5379b09-b33888d6c6fc.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42142",
+      "publishedAt": "2026-10-04T17:07:10.000Z",
+      "title": "[No Title] - Post from October 4, 2026",
+      "text": "[Image] Donald Trump, wearing a dark suit and red tie, bends over a large white stone slab outside the White House and signs it with a marker. The slab reads “Donald J. Trump, 45th President.” Construction workers in hard hats and bright safety vests stand behind him, with the White House columns, balcony, American flag, and a large tree visible.",
+      "url": "https://www.trumpstruth.org/statuses/42142",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 4, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42142",
+        "pubDate": "Sun, 04 Oct 2026 17:07:10 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42142",
+        "isoDate": "2026-10-04T17:07:10.000Z"
+      },
+      "imageDescribedAt": "2026-10-04T20:05:22.800Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18391/6874fd7837fda86d-0322aceb970d.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42141",
+      "publishedAt": "2026-10-04T17:07:30.000Z",
+      "title": "[No Title] - Post from October 4, 2026",
+      "text": "[Image] A graphic titled “Kennedy Center Disrepair” shows a narrow backstage or utility corridor lined with gray metal panels and equipment. Rust streaks, peeling surfaces, exposed insulation, plastic sheeting, warning signs, and a damaged-looking door convey poor maintenance. Fluorescent lights illuminate the corridor, which recedes into a darker passage.",
+      "url": "https://www.trumpstruth.org/statuses/42141",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 4, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42141",
+        "pubDate": "Sun, 04 Oct 2026 17:07:30 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42141",
+        "isoDate": "2026-10-04T17:07:30.000Z"
+      },
+      "imageDescribedAt": "2026-10-04T20:05:20.153Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18390/a7a6378b0aa669ec-29e1202d2449.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42140",
+      "publishedAt": "2026-10-04T17:07:59.000Z",
+      "title": "[No Title] - Post from October 4, 2026",
+      "text": "[Image] A graphic titled “Dilapidated Kennedy Center” shows a severely deteriorated interior space. Exposed concrete, crumbling walls, torn or unfinished surfaces, rusted electrical equipment, plastic sheeting, debris, and damaged flooring are visible. Bright work lights illuminate the industrial-looking area, which resembles a construction or renovation site.",
+      "url": "https://www.trumpstruth.org/statuses/42140",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 4, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42140",
+        "pubDate": "Sun, 04 Oct 2026 17:07:59 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42140",
+        "isoDate": "2026-10-04T17:07:59.000Z"
+      },
+      "imageDescribedAt": "2026-10-04T20:05:17.628Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18389/440179e9ade8e408-3c98ae156b60.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42139",
+      "publishedAt": "2026-10-04T17:08:12.000Z",
+      "title": "[No Title] - Post from October 4, 2026",
+      "text": "[Image] An image titled “Crumbling Kennedy Center” shows a severely deteriorated concrete surface with large cracks, broken sections, and exposed, corroded material. Several metal pipes and conduits run across the ceiling, with additional structural supports and wiring visible along the edges.",
+      "url": "https://www.trumpstruth.org/statuses/42139",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 4, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42139",
+        "pubDate": "Sun, 04 Oct 2026 17:08:12 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42139",
+        "isoDate": "2026-10-04T17:08:12.000Z"
+      },
+      "imageDescribedAt": "2026-10-04T20:05:15.345Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18388/67280a4c54ce39dc-1a2b6177c0ce.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42138",
+      "publishedAt": "2026-10-04T17:08:32.000Z",
+      "title": "[No Title] - Post from October 4, 2026",
+      "text": "[Image] A graphic reads “The Kennedy Center is Falling Apart” above a photograph of a deteriorating interior. The image shows exposed, damaged concrete, a large vertical hole or strip of missing material, visible wiring and pipes, a fluorescent light fixture, and worn ventilation or ductwork.",
+      "url": "https://www.trumpstruth.org/statuses/42138",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 4, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42138",
+        "pubDate": "Sun, 04 Oct 2026 17:08:32 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42138",
+        "isoDate": "2026-10-04T17:08:32.000Z"
+      },
+      "imageDescribedAt": "2026-10-04T20:05:12.920Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18387/267f09b629807a10-78eecbfe455c.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42137",
+      "publishedAt": "2026-10-04T17:08:57.000Z",
+      "title": "The Kennedy Center is crumbling, and a great danger to anyone who walks inside. It’s been this way for years, and will only get worse unless the Radical Left Judge, with his Trump Hating lawyer wife, allows me to do what must be done! President DONALD J. TRUMP",
+      "text": "<p>The Kennedy Center is crumbling, and a great danger to anyone who walks inside. It’s been this way for years, and will only get worse unless the Radical Left Judge, with his Trump Hating lawyer wife, allows me to do what must be done! President DONALD J. TRUMP</p>\n\n[Image] A large headline reads, “The Kennedy Center is Literally Falling Apart.” Below it, an empty interior lobby has red carpeting scattered with chunks of debris, dust, and fragments. A yellow bilingual caution sign warns of a wet floor. Glass doors and windows line the far wall, with a reception or service counter visible on the right.",
+      "url": "https://www.trumpstruth.org/statuses/42137",
+      "raw": {
+        "creator": "",
+        "title": "The Kennedy Center is crumbling, and a great danger to anyone who walks inside. It’s been this way for years, and will only get worse unless the Radical Left Judge, with his Trump Hating lawyer wife, allows me to do what must be done! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42137",
+        "pubDate": "Sun, 04 Oct 2026 17:08:57 +0000",
+        "author": "",
+        "content": "<p>The Kennedy Center is crumbling, and a great danger to anyone who walks inside. It’s been this way for years, and will only get worse unless the Radical Left Judge, with his Trump Hating lawyer wife, allows me to do what must be done! President DONALD J. TRUMP</p>",
+        "contentSnippet": "The Kennedy Center is crumbling, and a great danger to anyone who walks inside. It’s been this way for years, and will only get worse unless the Radical Left Judge, with his Trump Hating lawyer wife, allows me to do what must be done! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42137",
+        "isoDate": "2026-10-04T17:08:57.000Z"
+      },
+      "imageDescribedAt": "2026-10-04T20:05:10.477Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18386/4d2337cb4d932dab-b92138e109c6.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42136",
+      "publishedAt": "2026-10-04T17:09:24.000Z",
+      "title": "[No Title] - Post from October 4, 2026",
+      "text": "[Image] An image labeled “Grotesque Kennedy Center” shows a large, deep excavation beneath an outdoor paved terrace. Exposed concrete foundations, dark soil, pipes, cables, and construction debris fill the pit. White metal railings, patio furniture, and a traffic cone remain along the surrounding platform.",
+      "url": "https://www.trumpstruth.org/statuses/42136",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 4, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42136",
+        "pubDate": "Sun, 04 Oct 2026 17:09:24 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42136",
+        "isoDate": "2026-10-04T17:09:24.000Z"
+      },
+      "imageDescribedAt": "2026-10-04T20:05:07.873Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18385/2c02ddea5139e6e8-1e9ba77f6122.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42154",
+      "publishedAt": "2026-10-04T17:09:41.000Z",
+      "title": "[No Title] - Post from October 4, 2026",
+      "text": "[Image] A line chart titled “U.S. Natural Gas Production Hits Record High” shows production rising from about 70 Bcf/d in 2010 to 137 Bcf/d in July 2026. The blue line fluctuates but trends upward, with dark diamond markers indicating months when new records were set. The horizontal axis spans 2010–2026, and the vertical scale reaches 150 Bcf/d.",
+      "url": "https://www.trumpstruth.org/statuses/42154",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 4, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42154",
+        "pubDate": "Sun, 04 Oct 2026 17:09:41 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42154",
+        "isoDate": "2026-10-04T17:09:41.000Z"
+      },
+      "imageDescribedAt": "2026-10-04T20:05:04.998Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18403/7703381e9705fadf-4e376a608154.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42153",
+      "publishedAt": "2026-10-04T17:09:53.000Z",
+      "title": "[No Title] - Post from October 4, 2026",
+      "text": "[Image] A screenshot of a social-media post asks, “Do these people not have jobs?” The post says protesters, including Senator Tammy Duckworth, gathered against President Donald Trump’s proposed arch near Arlington Cemetery. Four photos show demonstrators with signs reading “Veterans Over Vanity,” “Sacred Space No Snipers,” and “Arch of Corruption,” along with American flags and empty rocking chairs.",
+      "url": "https://www.trumpstruth.org/statuses/42153",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 4, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42153",
+        "pubDate": "Sun, 04 Oct 2026 17:09:53 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42153",
+        "isoDate": "2026-10-04T17:09:53.000Z"
+      },
+      "imageDescribedAt": "2026-10-04T20:05:02.189Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18402/16810724cc53bb0a-fb7c80a4ebe1.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42155",
+      "publishedAt": "2026-10-04T17:38:02.000Z",
+      "title": "[No Title] - Post from October 4, 2026",
+      "text": "[Image] A screenshot of an X.com post from Elon Musk’s verified account, @elonmusk. The profile image shows a rocket launch or spacecraft, and the post displays the short text: “No more AI / SI / It’s better.” The footer shows 4:40 AM, 10/4/26, and 7.1 million views.",
+      "url": "https://www.trumpstruth.org/statuses/42155",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 4, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42155",
+        "pubDate": "Sun, 04 Oct 2026 17:38:02 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42155",
+        "isoDate": "2026-10-04T17:38:02.000Z"
+      },
+      "imageDescribedAt": "2026-10-04T20:04:58.405Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18404/fa54c2e6ff1f1561-137398a8e6cc.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42158",
+      "publishedAt": "2026-10-04T17:49:24.000Z",
+      "title": "Trump credits tariffs for bringing pharmaceutical manufacturing campus to Ohio:",
+      "text": "<p>Trump credits tariffs for bringing pharmaceutical manufacturing campus to Ohio: <a href=\"https://justthenews.com/government/white-house/trump-credits-tariffs-bringing-pharmaceutical-manufacturing-campus-ohio\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/trump-credits-tariffs-bringing-pharmaceutical-manufacturing-campus-ohio</span></a></p>",
+      "url": "https://www.trumpstruth.org/statuses/42158",
+      "raw": {
+        "creator": "",
+        "title": "Trump credits tariffs for bringing pharmaceutical manufacturing campus to Ohio:",
+        "link": "https://www.trumpstruth.org/statuses/42158",
+        "pubDate": "Sun, 04 Oct 2026 17:49:24 +0000",
+        "author": "",
+        "content": "<p>Trump credits tariffs for bringing pharmaceutical manufacturing campus to Ohio: <a href=\"https://justthenews.com/government/white-house/trump-credits-tariffs-bringing-pharmaceutical-manufacturing-campus-ohio\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/trump-credits-tariffs-bringing-pharmaceutical-manufacturing-campus-ohio</span></a></p>",
+        "contentSnippet": "Trump credits tariffs for bringing pharmaceutical manufacturing campus to Ohio: https://justthenews.com/government/white-house/trump-credits-tariffs-bringing-pharmaceutical-manufacturing-campus-ohio",
+        "guid": "https://www.trumpstruth.org/statuses/42158",
+        "isoDate": "2026-10-04T17:49:24.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42157",
+      "publishedAt": "2026-10-04T17:50:02.000Z",
+      "title": "[No Title] - Post from October 4, 2026",
+      "text": "[Image] The image is labeled “GREENLAND” above a snowy Arctic landscape with a glacier-covered mountain. Donald Trump, shown from behind in a dark suit with blond hair, faces a group of penguins wearing red, white, and blue sweaters. Several penguins hold American flags, while one stands in the foreground on the ice.",
+      "url": "https://www.trumpstruth.org/statuses/42157",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 4, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42157",
+        "pubDate": "Sun, 04 Oct 2026 17:50:02 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42157",
+        "isoDate": "2026-10-04T17:50:02.000Z"
+      },
+      "imageDescribedAt": "2026-10-04T20:04:54.869Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18406/c103dbec7486285e-09c8f9ad8747.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42156",
+      "publishedAt": "2026-10-04T17:50:13.000Z",
+      "title": "[No Title] - Post from October 4, 2026",
+      "text": "[Image] Donald Trump, wearing a dark suit and red tie, leans over a white concrete surface and signs it with a black marker. Two commemorative medallions are embedded nearby. Behind him, a group of construction workers in hard hats, safety vests, and high-visibility shirts watch the ceremony outside in bright sunlight.",
+      "url": "https://www.trumpstruth.org/statuses/42156",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 4, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42156",
+        "pubDate": "Sun, 04 Oct 2026 17:50:13 +0000",
+        "author": "",
+        "content": "<p></p>",
+        "contentSnippet": "",
+        "guid": "https://www.trumpstruth.org/statuses/42156",
+        "isoDate": "2026-10-04T17:50:13.000Z"
+      },
+      "imageDescribedAt": "2026-10-04T20:04:51.806Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18405/d0e37edd777b4d38-06c94fcd9b07.jpg"
+      ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42159",
+      "publishedAt": "2026-10-04T18:09:43.000Z",
+      "title": "A beautiful picture with the Great Leader of China, President Xi Jinping! President DONALD J. TRUMP",
+      "text": "<p>A beautiful picture with the Great Leader of China, President Xi Jinping! President DONALD J. TRUMP</p>\n\n[Image] Donald Trump and Chinese President Xi Jinping stand side by side on the steps of the Temple of Heaven in Beijing. Both wear dark suits and ties, facing the camera with the ornate blue-and-gold circular building behind them. White carved stone railings, stairways, and covered sections of the historic site fill the foreground.",
+      "url": "https://www.trumpstruth.org/statuses/42159",
+      "raw": {
+        "creator": "",
+        "title": "A beautiful picture with the Great Leader of China, President Xi Jinping! President DONALD J. TRUMP",
+        "link": "https://www.trumpstruth.org/statuses/42159",
+        "pubDate": "Sun, 04 Oct 2026 18:09:43 +0000",
+        "author": "",
+        "content": "<p>A beautiful picture with the Great Leader of China, President Xi Jinping! President DONALD J. TRUMP</p>",
+        "contentSnippet": "A beautiful picture with the Great Leader of China, President Xi Jinping! President DONALD J. TRUMP",
+        "guid": "https://www.trumpstruth.org/statuses/42159",
+        "isoDate": "2026-10-04T18:09:43.000Z"
+      },
+      "imageDescribedAt": "2026-10-04T20:04:48.952Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18407/41fb2535b3721707-c5b260292af7.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -276,13 +809,150 @@
       "label": "positive",
       "rationale": "Highlights favorable economic indicators involving jobs, spending, and income.",
       "analyzedAt": "2026-10-04T16:01:40.920Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42136",
+      "label": "negative",
+      "rationale": "The image labels the Kennedy Center grotesque and depicts severe excavation and deterioration.",
+      "analyzedAt": "2026-10-04T20:05:59.328Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42137",
+      "label": "negative",
+      "rationale": "It portrays the Kennedy Center as dangerous and crumbling and attacks a judge and the judge's wife.",
+      "analyzedAt": "2026-10-04T20:05:59.328Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42138",
+      "label": "negative",
+      "rationale": "The headline and image emphasize that the Kennedy Center is falling apart and in disrepair.",
+      "analyzedAt": "2026-10-04T20:05:59.328Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42139",
+      "label": "negative",
+      "rationale": "The image presents the Kennedy Center as severely deteriorated and structurally damaged.",
+      "analyzedAt": "2026-10-04T20:05:59.328Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42140",
+      "label": "negative",
+      "rationale": "The title and depicted conditions characterize the Kennedy Center as dilapidated and damaged.",
+      "analyzedAt": "2026-10-04T20:05:59.328Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42141",
+      "label": "negative",
+      "rationale": "The graphic emphasizes poor maintenance, rust, damage, and disrepair at the Kennedy Center.",
+      "analyzedAt": "2026-10-04T20:05:59.328Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42142",
+      "label": "neutral",
+      "rationale": "The image shows Trump signing a commemorative stone without explicit positive or negative commentary.",
+      "analyzedAt": "2026-10-04T20:05:59.328Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42143",
+      "label": "positive",
+      "rationale": "The greeting 'Hello, Greenland!' and triumphant composite presentation convey an upbeat, favorable tone.",
+      "analyzedAt": "2026-10-04T20:05:59.328Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42144",
+      "label": "neutral",
+      "rationale": "The image documents a formal diplomatic handshake without explicit evaluative language.",
+      "analyzedAt": "2026-10-04T20:05:59.328Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42145",
+      "label": "neutral",
+      "rationale": "It depicts Trump passing a ceremonial honor guard without a clear sentiment statement.",
+      "analyzedAt": "2026-10-04T20:05:59.328Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42146",
+      "label": "neutral",
+      "rationale": "The image presents Trump and Xi in a formal diplomatic setting with neutral expressions and no evaluative text.",
+      "analyzedAt": "2026-10-04T20:05:59.328Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42147",
+      "label": "positive",
+      "rationale": "The headline claims that President Trump gets younger and pairs him with a broad smile, conveying favorable sentiment.",
+      "analyzedAt": "2026-10-04T20:05:59.328Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42148",
+      "label": "neutral",
+      "rationale": "The painted portrait shows Trump signing a document but contains no explicit sentiment.",
+      "analyzedAt": "2026-10-04T20:05:59.328Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42149",
+      "label": "positive",
+      "rationale": "Calling Trump 'Our National Security' is strongly praising and supportive of him.",
+      "analyzedAt": "2026-10-04T20:05:59.328Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42150",
+      "label": "positive",
+      "rationale": "The phrase 'Super Intelligence' presents Trump in an admiring and complimentary manner.",
+      "analyzedAt": "2026-10-04T20:05:59.329Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42151",
+      "label": "negative",
+      "rationale": "The meme labels one depicted president as the most corrupt in U.S. history, conveying strong condemnation.",
+      "analyzedAt": "2026-10-04T20:05:59.329Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42152",
+      "label": "negative",
+      "rationale": "The label 'Artificial News' disparages the listed media organizations as deceptive or illegitimate.",
+      "analyzedAt": "2026-10-04T20:05:59.329Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42153",
+      "label": "negative",
+      "rationale": "The question implies that the protesters, including Senator Duckworth, are idle or illegitimate, while the signs criticize Trump's proposal.",
+      "analyzedAt": "2026-10-04T20:05:59.328Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42154",
+      "label": "positive",
+      "rationale": "It highlights record-high U.S. natural gas production and an upward trend.",
+      "analyzedAt": "2026-10-04T20:05:59.328Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42155",
+      "label": "neutral",
+      "rationale": "The post reproduces a brief statement about AI and SI without enough context for a clear overall sentiment.",
+      "analyzedAt": "2026-10-04T20:05:59.328Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42156",
+      "label": "neutral",
+      "rationale": "The post depicts Trump signing a surface during a construction ceremony without explicit evaluative language.",
+      "analyzedAt": "2026-10-04T20:05:59.328Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42157",
+      "label": "positive",
+      "rationale": "The patriotic and whimsical Greenland image presents Trump and American symbols in a favorable, celebratory way.",
+      "analyzedAt": "2026-10-04T20:05:59.328Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42158",
+      "label": "positive",
+      "rationale": "It favorably credits tariffs with bringing pharmaceutical manufacturing to Ohio.",
+      "analyzedAt": "2026-10-04T20:05:59.328Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42159",
+      "label": "positive",
+      "rationale": "Describes the picture with Xi Jinping as beautiful and uses honorific, celebratory language.",
+      "analyzedAt": "2026-10-04T20:05:59.328Z"
     }
-  ],
-  "topicsCacheKey": "day-themes-v11:10:e3da953bd4f050b828f21b7a",
-  "selfPraiseCacheKey": "self-praise-v2:10:e3da953bd4f050b828f21b7a",
-  "selfPraisePostIds": [
-    "https://www.trumpstruth.org/statuses/42132",
-    "https://www.trumpstruth.org/statuses/42135",
-    "https://www.trumpstruth.org/statuses/42133"
   ]
 }

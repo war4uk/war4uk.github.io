@@ -71,7 +71,7 @@
       ],
       "postsCount": 38,
       "hasDetail": true,
-      "generatedAt": "2026-10-04T16:01:22.920Z",
+      "generatedAt": "2026-10-04T20:04:38.315Z",
       "trendingTopic": "Endorses Republican candidates for Alabama, Oklahoma, Alaska, and New Mexico elections",
       "secondaryHighlights": [
         {
@@ -86,45 +86,44 @@
     {
       "date": "2026-10-04",
       "counts": {
-        "positive": 5,
-        "neutral": 2,
-        "negative": 3
+        "positive": 13,
+        "neutral": 9,
+        "negative": 12
       },
-      "summary": "positive:5 neutral:2 negative:3",
+      "summary": "positive:13 neutral:9 negative:12",
       "topics": [
-        "Trump praises Emily Miller for exposing alleged paid protesters opposing his developments and policies",
-        "Trump demands Fox News cover packed Republican rallies in Ohio, Alabama, Texas, and Oklahoma",
-        "Trump nominates John Coale as special presidential envoy for hostage affairs"
+        "Trump says the Kennedy Center is crumbling and demands court permission to overhaul it",
+        "Trump and Xi Jinping appear together in multiple diplomatic images",
+        "Trump announces a federal Super Intelligence Force to coordinate U.S. artificial intelligence policy"
       ],
-      "postsCount": 10,
+      "postsCount": 34,
       "hasDetail": true,
-      "generatedAt": "2026-10-04T16:01:57.618Z",
-      "trendingTopic": "Trump praises Emily Miller for exposing alleged paid protesters opposing his developments and policies",
-      "trendingName": "Emily Miller",
+      "generatedAt": "2026-10-04T20:06:22.914Z",
+      "trendingTopic": "Trump says the Kennedy Center is crumbling and demands court permission to overhaul it",
       "secondaryHighlights": [
         {
-          "topic": "Trump announces a federal Super Intelligence Force led by senior technology and security officials"
+          "topic": "Trump and Xi Jinping appear together in multiple diplomatic images",
+          "name": "Xi Jinping"
         },
         {
-          "topic": "Trump says mainstream media is ignoring positive economic indicators in jobs, spending, and income"
+          "topic": "Trump announces a federal Super Intelligence Force to coordinate U.S. artificial intelligence policy"
         },
         {
-          "topic": "Trump attacks Jack Smith and disputes polling that underestimates MAGA support"
+          "topic": "Trump accuses protesters of opposing his developments and proposed Arlington arch"
         }
       ],
-      "selfPraiseCount": 3
+      "selfPraiseCount": 5
     }
   ],
-  "generatedAt": "2026-10-04T16:01:57.618Z",
-  "trendingTopic": "Trump attacks Jack Smith over alleged privilege violations and his investigations",
-  "trendingName": "Jack Smith",
+  "generatedAt": "2026-10-04T20:06:22.914Z",
+  "trendingTopic": "Endorses five Republican candidates across Alabama, Oklahoma, Alaska and New Mexico",
   "secondaryHighlights": [
     {
-      "topic": "Trump nominates federal judges and a special envoy for hostage affairs"
+      "topic": "Nominates three attorneys to federal judgeships in Mississippi and North Carolina"
     },
     {
-      "topic": "Trump endorses Republican candidates and urges 2026 midterm turnout"
+      "topic": "Demands court permission to overhaul the crumbling Kennedy Center"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:4:19f688e499468b7e13a1e0a1"
+  "topicsCacheKey": "month-themes-v5:4:6704373f933d2688a6c540a0"
 }
