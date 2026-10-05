@@ -1,39 +1,40 @@
 {
   "date": "2026-10-04",
   "counts": {
-    "positive": 13,
+    "positive": 15,
     "neutral": 9,
     "negative": 12
   },
-  "summary": "positive:13 neutral:9 negative:12",
-  "generatedAt": "2026-10-04T20:06:22.914Z",
+  "summary": "positive:15 neutral:9 negative:12",
+  "generatedAt": "2026-10-05T00:03:25.338Z",
   "topics": [
-    "Trump says the Kennedy Center is crumbling and demands court permission to overhaul it",
-    "Trump and Xi Jinping appear together in multiple diplomatic images",
-    "Trump announces a federal Super Intelligence Force to coordinate U.S. artificial intelligence policy"
+    "Trump says the Kennedy Center is crumbling and seeks court approval to intervene",
+    "Trump highlights meetings and ceremonial appearances with Chinese President Xi Jinping",
+    "Trump announces a federal Super Intelligence Force to coordinate artificial-intelligence efforts"
   ],
-  "trendingTopic": "Trump says the Kennedy Center is crumbling and demands court permission to overhaul it",
+  "trendingTopic": "Trump says the Kennedy Center is crumbling and seeks court approval to intervene",
   "secondaryHighlights": [
     {
-      "topic": "Trump and Xi Jinping appear together in multiple diplomatic images",
-      "name": "Xi Jinping"
+      "topic": "Accuses protesters opposing his projects and Arlington arch of being paid activists"
     },
     {
-      "topic": "Trump announces a federal Super Intelligence Force to coordinate U.S. artificial intelligence policy"
+      "topic": "Trump promotes positive economic indicators, record natural-gas output, and Ohio pharmaceutical investment"
     },
     {
-      "topic": "Trump accuses protesters of opposing his developments and proposed Arlington arch"
+      "topic": "Trump criticizes Fox News for ignoring packed Republican election rallies"
     }
   ],
-  "selfPraiseCount": 5,
-  "topicsCacheKey": "day-themes-v11:34:ce65f1cdd781b55f5e81e4d0",
-  "selfPraiseCacheKey": "self-praise-v2:34:ce65f1cdd781b55f5e81e4d0",
+  "selfPraiseCount": 7,
+  "topicsCacheKey": "day-themes-v11:36:9a4db61678d181a30e8477d2",
+  "selfPraiseCacheKey": "self-praise-v2:36:9a4db61678d181a30e8477d2",
   "selfPraisePostIds": [
     "https://www.trumpstruth.org/statuses/42132",
     "https://www.trumpstruth.org/statuses/42135",
     "https://www.trumpstruth.org/statuses/42133",
     "https://www.trumpstruth.org/statuses/42150",
-    "https://www.trumpstruth.org/statuses/42149"
+    "https://www.trumpstruth.org/statuses/42149",
+    "https://www.trumpstruth.org/statuses/42147",
+    "https://www.trumpstruth.org/statuses/42143"
   ],
   "posts": [
     {
@@ -747,6 +748,46 @@
       "imageUrls": [
         "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18407/41fb2535b3721707-c5b260292af7.jpg"
       ]
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42161",
+      "publishedAt": "2026-10-04T20:50:00.000Z",
+      "title": "Thank you Mehek! President DJT",
+      "text": "<p>Thank you Mehek! President DJT</p>",
+      "url": "https://www.trumpstruth.org/statuses/42161",
+      "raw": {
+        "creator": "",
+        "title": "Thank you Mehek! President DJT",
+        "link": "https://www.trumpstruth.org/statuses/42161",
+        "pubDate": "Sun, 04 Oct 2026 20:50:00 +0000",
+        "author": "",
+        "content": "<p>Thank you Mehek! President DJT</p>",
+        "contentSnippet": "Thank you Mehek! President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/42161",
+        "isoDate": "2026-10-04T20:50:00.000Z"
+      }
+    },
+    {
+      "id": "https://www.trumpstruth.org/statuses/42160",
+      "publishedAt": "2026-10-04T20:50:34.000Z",
+      "title": "[No Title] - Post from October 4, 2026",
+      "text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117384609805773432</span></p>\n\n[Image] A Fox News graphic compares ACA enrollment from 2021 to 2025, showing increases from 12 million to 24 million: 15 million in 2022, 16 million in 2023, and 21 million in 2024. The headline references Donald Trump’s administration cracking down on alleged Obamacare fraud and says Biden-era enrollment more than doubled. A Fox News logo and promotional panel appear below.",
+      "url": "https://www.trumpstruth.org/statuses/42160",
+      "raw": {
+        "creator": "",
+        "title": "[No Title] - Post from October 4, 2026",
+        "link": "https://www.trumpstruth.org/statuses/42160",
+        "pubDate": "Sun, 04 Oct 2026 20:50:34 +0000",
+        "author": "",
+        "content": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117384609805773432</span></p>",
+        "contentSnippet": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117384609805773432",
+        "guid": "https://www.trumpstruth.org/statuses/42160",
+        "isoDate": "2026-10-04T20:50:34.000Z"
+      },
+      "imageDescribedAt": "2026-10-05T00:02:44.907Z",
+      "imageUrls": [
+        "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18408/fbe5d8c164328c6e-97820a258e05.jpg"
+      ]
     }
   ],
   "sentiments": [
@@ -953,6 +994,18 @@
       "label": "positive",
       "rationale": "Describes the picture with Xi Jinping as beautiful and uses honorific, celebratory language.",
       "analyzedAt": "2026-10-04T20:05:59.328Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42160",
+      "label": "positive",
+      "rationale": "The post favorably highlights the Trump administration's crackdown on alleged Obamacare fraud while portraying Biden-era enrollment growth negatively.",
+      "analyzedAt": "2026-10-05T00:02:48.573Z"
+    },
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42161",
+      "label": "positive",
+      "rationale": "The message expresses gratitude and uses an approving reference to President DJT.",
+      "analyzedAt": "2026-10-05T00:02:48.573Z"
     }
   ]
 }
