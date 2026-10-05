@@ -98,7 +98,7 @@
       ],
       "postsCount": 36,
       "hasDetail": true,
-      "generatedAt": "2026-10-05T00:03:25.338Z",
+      "generatedAt": "2026-10-05T04:03:42.014Z",
       "trendingTopic": "Trump says the Kennedy Center is crumbling and seeks court approval to intervene",
       "secondaryHighlights": [
         {
@@ -118,25 +118,33 @@
       "counts": {
         "positive": 0,
         "neutral": 0,
-        "negative": 0
+        "negative": 1
       },
-      "summary": "positive:0 neutral:0 negative:0",
-      "topics": [],
-      "postsCount": 0,
+      "summary": "positive:0 neutral:0 negative:1",
+      "topics": [
+        "Trump contrasts India's same-day election results with delayed U.S. voting, alleging American elections are corrupt"
+      ],
+      "postsCount": 1,
       "hasDetail": true,
-      "generatedAt": "2026-10-05T00:02:51.029Z",
+      "generatedAt": "2026-10-05T04:03:56.152Z",
+      "trendingTopic": "Trump contrasts India's same-day election results with delayed U.S. voting, alleging American elections are corrupt",
+      "secondaryHighlights": [
+        {
+          "topic": "125 Million People voted today in the first round of India’s Presidential Election"
+        }
+      ],
       "selfPraiseCount": 0
     }
   ],
-  "generatedAt": "2026-10-05T00:03:25.338Z",
-  "trendingTopic": "Backs Republican candidates and rallies support for the 2026 midterms",
+  "generatedAt": "2026-10-05T04:03:56.152Z",
+  "trendingTopic": "Trump intervenes in judicial nominations and legal disputes",
   "secondaryHighlights": [
     {
-      "topic": "Nominates three attorneys to federal judgeships in Mississippi and North Carolina"
+      "topic": "Trump promotes economic, energy, and investment gains"
     },
     {
-      "topic": "Seeks court approval to intervene as he says the Kennedy Center is crumbling"
+      "topic": "Trump endorses Republican candidates and mobilizes 2026 voters"
     }
   ],
-  "topicsCacheKey": "month-themes-v5:4:6fcb5d139c7f762c4454eca6"
+  "topicsCacheKey": "month-themes-v5:5:e22194b23d00c879db93b93c"
 }

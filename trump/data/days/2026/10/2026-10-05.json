@@ -3,12 +3,48 @@
   "counts": {
     "positive": 0,
     "neutral": 0,
-    "negative": 0
+    "negative": 1
   },
-  "summary": "positive:0 neutral:0 negative:0",
-  "generatedAt": "2026-10-05T00:02:51.029Z",
-  "topics": [],
+  "summary": "positive:0 neutral:0 negative:1",
+  "generatedAt": "2026-10-05T04:03:56.152Z",
+  "topics": [
+    "Trump contrasts India's same-day election results with delayed U.S. voting, alleging American elections are corrupt"
+  ],
+  "trendingTopic": "Trump contrasts India's same-day election results with delayed U.S. voting, alleging American elections are corrupt",
   "selfPraiseCount": 0,
-  "posts": [],
-  "sentiments": []
+  "posts": [
+    {
+      "id": "https://www.trumpstruth.org/statuses/42162",
+      "publishedAt": "2026-10-05T03:32:10.000Z",
+      "title": "125 Million People  voted today in the first round of India’s Presidential Election. The results came out shortly after the vote closed, on the SAME DAY! In Detroit, Philadelphia, California, and numerous other U.S. Cities and States, the results, with much smaller numbers, will often take weeks to Rig, I mean, calculate.  Voting in America is CORRUPT!!! President DJT",
+      "text": "<p>125 Million People  voted today in the first round of India’s Presidential Election. The results came out shortly after the vote closed, on the SAME DAY! In Detroit, Philadelphia, California, and numerous other U.S. Cities and States, the results, with much smaller numbers, will often take weeks to Rig, I mean, calculate.  Voting in America is CORRUPT!!! President DJT</p>",
+      "url": "https://www.trumpstruth.org/statuses/42162",
+      "raw": {
+        "creator": "",
+        "title": "125 Million People  voted today in the first round of India’s Presidential Election. The results came out shortly after the vote closed, on the SAME DAY! In Detroit, Philadelphia, California, and numerous other U.S. Cities and States, the results, with much smaller numbers, will often take weeks to Rig, I mean, calculate.  Voting in America is CORRUPT!!! President DJT",
+        "link": "https://www.trumpstruth.org/statuses/42162",
+        "pubDate": "Mon, 05 Oct 2026 03:32:10 +0000",
+        "author": "",
+        "content": "<p>125 Million People  voted today in the first round of India’s Presidential Election. The results came out shortly after the vote closed, on the SAME DAY! In Detroit, Philadelphia, California, and numerous other U.S. Cities and States, the results, with much smaller numbers, will often take weeks to Rig, I mean, calculate.  Voting in America is CORRUPT!!! President DJT</p>",
+        "contentSnippet": "125 Million People  voted today in the first round of India’s Presidential Election. The results came out shortly after the vote closed, on the SAME DAY! In Detroit, Philadelphia, California, and numerous other U.S. Cities and States, the results, with much smaller numbers, will often take weeks to Rig, I mean, calculate.  Voting in America is CORRUPT!!! President DJT",
+        "guid": "https://www.trumpstruth.org/statuses/42162",
+        "isoDate": "2026-10-05T03:32:10.000Z"
+      }
+    }
+  ],
+  "sentiments": [
+    {
+      "postId": "https://www.trumpstruth.org/statuses/42162",
+      "label": "negative",
+      "rationale": "The text expresses strong distrust and condemnation of U.S. election processes, calling voting corrupt and alleging results are manipulated.",
+      "analyzedAt": "2026-10-05T04:03:47.158Z"
+    }
+  ],
+  "topicsCacheKey": "day-themes-v11:1:7340bd71d79dccb6c70e5f5f",
+  "selfPraiseCacheKey": "self-praise-v2:1:7340bd71d79dccb6c70e5f5f",
+  "secondaryHighlights": [
+    {
+      "topic": "125 Million People voted today in the first round of India’s Presidential Election"
+    }
+  ]
 }
