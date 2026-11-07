@@ -1,0 +1,195 @@
+{
+  "generatedAt": "2026-11-07T09:03:35Z",
+  "displayTime": "7 ноября 2026, 13:03 (Тбилиси)",
+  "window": {
+    "hours": 168,
+    "start": "2026-10-31T09:03:35Z",
+    "end": "2026-11-07T09:03:35Z",
+    "label": "31 октября 13:03 — 7 ноября 13:03 (Тбилиси)"
+  },
+  "railway": {
+    "status": "estimated",
+    "plan": "Pro",
+    "planFeeUsd": 20,
+    "includedCreditFromLimitsApiUsd": 0,
+    "publishedIncludedCreditUsd": 20,
+    "weekUsd": 2.2294,
+    "dayUsd": 0.3269,
+    "averageDayUsd": 0.3185,
+    "runRate30dUsd": 9.5546,
+    "progressTargetUsd": 20.0,
+    "components": {
+      "cpu": 0.0135,
+      "memory": 2.1386,
+      "disk": 0.0748,
+      "egress": 0.0025
+    },
+    "projects": [
+      {
+        "name": "sm-tracker",
+        "weekUsd": 0.7594,
+        "dayUsd": 0.1014,
+        "openai": true
+      },
+      {
+        "name": "vintage",
+        "weekUsd": 0.5748,
+        "dayUsd": 0.0917,
+        "openai": true
+      },
+      {
+        "name": "generous-kindness",
+        "weekUsd": 0.4704,
+        "dayUsd": 0.068,
+        "openai": true
+      },
+      {
+        "name": "travels-history",
+        "weekUsd": 0.4248,
+        "dayUsd": 0.0658,
+        "openai": false
+      }
+    ],
+    "services": [
+      {
+        "project": "sm-tracker",
+        "service": "pipeline",
+        "openai": true,
+        "weekUsd": 0.6898,
+        "dayUsd": 0.0909,
+        "weekParts": {
+          "cpu": 0.0089,
+          "memory": 0.6779,
+          "disk": 0.003,
+          "egress": 0.0
+        }
+      },
+      {
+        "project": "vintage",
+        "service": "web",
+        "openai": true,
+        "weekUsd": 0.4473,
+        "dayUsd": 0.0733,
+        "weekParts": {
+          "cpu": 0.0,
+          "memory": 0.4473,
+          "disk": 0.0,
+          "egress": 0.0
+        }
+      },
+      {
+        "project": "travels-history",
+        "service": "web",
+        "openai": false,
+        "weekUsd": 0.3009,
+        "dayUsd": 0.0481,
+        "weekParts": {
+          "cpu": 0.0,
+          "memory": 0.3009,
+          "disk": 0.0,
+          "egress": 0.0
+        }
+      },
+      {
+        "project": "generous-kindness",
+        "service": "42bot",
+        "openai": true,
+        "weekUsd": 0.2266,
+        "dayUsd": 0.0331,
+        "weekParts": {
+          "cpu": 0.0,
+          "memory": 0.2241,
+          "disk": 0.0,
+          "egress": 0.0025
+        }
+      },
+      {
+        "project": "generous-kindness",
+        "service": "Postgres-dev",
+        "openai": false,
+        "weekUsd": 0.1474,
+        "dayUsd": 0.021,
+        "weekParts": {
+          "cpu": 0.0009,
+          "memory": 0.1422,
+          "disk": 0.0043,
+          "egress": 0.0
+        }
+      },
+      {
+        "project": "vintage",
+        "service": "Postgres",
+        "openai": false,
+        "weekUsd": 0.1275,
+        "dayUsd": 0.0184,
+        "weekParts": {
+          "cpu": 0.0014,
+          "memory": 0.0945,
+          "disk": 0.0316,
+          "egress": 0.0
+        }
+      },
+      {
+        "project": "travels-history",
+        "service": "Postgres",
+        "openai": false,
+        "weekUsd": 0.1239,
+        "dayUsd": 0.0177,
+        "weekParts": {
+          "cpu": 0.0014,
+          "memory": 0.0908,
+          "disk": 0.0317,
+          "egress": 0.0
+        }
+      },
+      {
+        "project": "generous-kindness",
+        "service": "Postgres",
+        "openai": false,
+        "weekUsd": 0.0964,
+        "dayUsd": 0.0139,
+        "weekParts": {
+          "cpu": 0.0009,
+          "memory": 0.0913,
+          "disk": 0.0042,
+          "egress": 0.0
+        }
+      },
+      {
+        "project": "sm-tracker",
+        "service": "web",
+        "openai": false,
+        "weekUsd": 0.0696,
+        "dayUsd": 0.0105,
+        "weekParts": {
+          "cpu": 0.0,
+          "memory": 0.0696,
+          "disk": 0.0,
+          "egress": 0.0
+        }
+      }
+    ],
+    "rates": {
+      "source": "https://railway.com/pricing",
+      "checked": "2026-11-07",
+      "cpuUsdPerVcpuSecond": 7.72e-06,
+      "memoryUsdPerGbSecond": 3.86e-06,
+      "diskUsdPerGbSecond": 6e-08,
+      "egressUsdPerGb": 0.05
+    }
+  },
+  "openai": {
+    "status": "no_invoice",
+    "projects": [
+      "sm-tracker",
+      "vintage",
+      "generous-kindness"
+    ],
+    "absent": [
+      "travels-history"
+    ]
+  },
+  "cursor": {
+    "status": "no_invoice"
+  }
+}
