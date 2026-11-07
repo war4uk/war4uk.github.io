@@ -218,6 +218,19 @@ class ProjectMonthsTest(unittest.TestCase):
         self.assertAlmostEqual(costs["p1"], 0.1 * 20 + 0.2 * 10)
         self.assertAlmostEqual(costs["p2"], 0.1)
 
+    def test_active_openai_key_names_map_to_railway_projects(self):
+        catalog = [
+            {"name": "generous-kindness", "services": ["42bot"]},
+            {"name": "sm-tracker", "services": ["pipeline"]},
+            {"name": "vintage", "services": ["web"]},
+        ]
+        self.assertEqual(collect_spend.match_api_key("42 bot api key", catalog), "generous-kindness")
+        self.assertEqual(collect_spend.match_api_key("42bot API key", catalog), "generous-kindness")
+        self.assertEqual(collect_spend.match_api_key("Trump review railway", catalog), "sm-tracker")
+        self.assertEqual(collect_spend.match_api_key("trump_review_railway", catalog), "sm-tracker")
+        self.assertEqual(collect_spend.match_api_key("Vintage api key", catalog), "vintage")
+        self.assertEqual(collect_spend.match_api_key("test agent workflow", catalog), "test agent workflow")
+
     def test_openai_service_name_maps_onto_railway_project(self):
         catalog = [
             {"name": "generous-kindness", "services": ["42bot", "Postgres"]},
