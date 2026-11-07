@@ -177,6 +177,22 @@ def project_aliases(project: dict) -> set[str]:
     return aliases
 
 
+OPENAI_KEY_RULES = (
+    (("42", "bot"), "generous-kindness"),
+    (("trump", "review"), "sm-tracker"),
+    (("vintage",), "vintage"),
+)
+
+
+def match_api_key(raw_name: str, catalog: list[dict]) -> str:
+    tokens = re.findall(r"[a-z0-9]+", str(raw_name or "").lower())
+    joined = "".join(tokens)
+    for needles, project in OPENAI_KEY_RULES:
+        if all(needle in tokens or needle in joined for needle in needles):
+            return project
+    return match_project_name(raw_name, catalog)
+
+
 def match_project_name(raw_name: str, catalog: list[dict]) -> str:
     folded = str(raw_name or "").strip().lower()
     for project in catalog:
@@ -567,7 +583,7 @@ def collect_openai(key: str, now: datetime, secrets: list[str] | None = None, ca
     known_catalog = catalog or []
     previous_start, current_start = month_pair(now)
     project_names = openai_project_names(key, known_secrets)
-    catalog_names = {project["name"] for project in known_catalog}
+    catalog_names = {project["name"] for project in known_catalog} | {project for _, project in OPENAI_KEY_RULES}
     key_names = openai_key_names(key, list(project_names), known_secrets)
     try:
         current_projects = openai_grouped_costs(key, current_start, now, "project_id")
@@ -579,23 +595,27 @@ def collect_openai(key: str, now: datetime, secrets: list[str] | None = None, ca
         current_projects, previous_projects = {}, {}
         current_keys, previous_keys = {}, {}
 
-    def named(by_id: dict[str, float], labels: dict[str, str]) -> dict[str, float]:
+    def named(by_id: dict[str, float], labels: dict[str, str], key_names: bool) -> dict[str, float]:
         named_costs: dict[str, float] = {}
         for group_id, amount in by_id.items():
-            raw_name = labels.get(group_id) or group_id
-            add_amount(named_costs, match_project_name(raw_name, known_catalog), amount)
+            raw_name = labels.get(group_id) or ""
+            if key_names:
+                label = match_api_key(raw_name, known_catalog) if raw_name and raw_name != "проект" else "Default project"
+            else:
+                label = match_project_name(raw_name or group_id, known_catalog)
+            add_amount(named_costs, label, amount)
         return named_costs
 
     by_key = {
-        "current": named(current_keys, key_names),
-        "previous": named(previous_keys, key_names),
+        "current": named(current_keys, key_names, True),
+        "previous": named(previous_keys, key_names, True),
     }
     if any(name in catalog_names for period in by_key.values() for name in period):
         months = by_key
     else:
         months = {
-            "current": named(current_projects, project_names),
-            "previous": named(previous_projects, project_names),
+            "current": named(current_projects, project_names, False),
+            "previous": named(previous_projects, project_names, False),
         }
     print(
         f"openai months: current ${sum(months['current'].values()):.2f}, previous ${sum(months['previous'].values()):.2f}",
