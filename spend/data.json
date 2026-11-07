@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T10:48:58Z",
-  "displayTime": "7 ноября 2026, 14:48 (Тбилиси)",
+  "generatedAt": "2026-11-07T12:29:15Z",
+  "displayTime": "7 ноября 2026, 16:29 (Тбилиси)",
   "window": {
     "hours": 168,
     "start": "2026-10-31T09:03:35Z",
@@ -209,12 +209,13 @@
           "usd": 0.2417
         }
       ]
-    }
+    },
+    "lastError": "HTTP 400"
   },
   "openai": {
     "status": "invoice",
     "source": "organization.costs",
-    "totalUsd": 1.1713,
+    "totalUsd": 1.1734,
     "limitUsd": null,
     "periodStart": "2026-11-01",
     "periodEnd": "2026-12-01",
@@ -245,9 +246,17 @@
       },
       {
         "date": "2026-11-07",
-        "usd": 0.0037
+        "usd": 0.0058
       }
     ],
+    "months": {
+      "current": {
+        "Default project": 1.1674
+      },
+      "previous": {
+        "Default project": 13.4987
+      }
+    },
     "detail": "за период",
     "projects": [
       "sm-tracker",
@@ -261,10 +270,10 @@
   "cursor": {
     "status": "invoice",
     "source": "dashboard.current-period",
-    "spentUsd": 56.36,
+    "spentUsd": 64.27,
     "includedUsd": 20.0,
     "limitUsd": 20.0,
-    "modelsPercent": 12.062222222222223,
+    "modelsPercent": 13.819999999999999,
     "otherPercent": 18.488888888888887,
     "onDemandUsd": 0,
     "onDemandLimitUsd": 10.0,
@@ -272,5 +281,24 @@
     "cycleEnd": "1796288910000",
     "detail": "лимиты периода"
   },
-  "updatedBy": "github-actions"
+  "updatedBy": "github-actions",
+  "projectSpend": {
+    "currentMonth": "2026-11",
+    "previousMonth": "2026-10",
+    "projects": [
+      {
+        "name": "Default project",
+        "current": 1.1674,
+        "previous": 13.4987,
+        "railway": {
+          "current": 0.0,
+          "previous": 0.0
+        },
+        "openai": {
+          "current": 1.1674,
+          "previous": 13.4987
+        }
+      }
+    ]
+  }
 }
