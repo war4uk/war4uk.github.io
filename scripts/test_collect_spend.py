@@ -215,7 +215,7 @@ class ProjectMonthsTest(unittest.TestCase):
             {"measurement": "MEMORY_USAGE_GB", "value": 0.2, "tags": {"projectId": "p1"}},
             {"measurement": "NETWORK_TX_GB", "value": 2, "tags": {"project_id": "p2"}},
         ])
-        self.assertAlmostEqual(costs["p1"], 0.1 * 20 + 0.2 * 10)
+        self.assertAlmostEqual(costs["p1"], 0.1 * 0.00000772 * 60 + 0.2 * 0.00000386 * 60)
         self.assertAlmostEqual(costs["p2"], 0.1)
 
     def test_active_openai_key_names_map_to_railway_projects(self):

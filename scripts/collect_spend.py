@@ -123,11 +123,14 @@ def graphql(token: str, query: str, variables: dict | None = None):
     return body.get("data") or {}, errors
 
 
+# Railway usage values are per-minute aggregates. CPU, memory and disk are
+# billed per second, so a minute of 1 vCPU or 1 GB costs sixty seconds of the
+# published rate. Network is already total gigabytes.
 USAGE_RATES = {
-    "CPU_USAGE": 20.0,
-    "CPU_USAGE_2": 20.0,
-    "MEMORY_USAGE_GB": 10.0,
-    "DISK_USAGE_GB": 0.15,
+    "CPU_USAGE": 0.00000772 * 60,
+    "CPU_USAGE_2": 0.00000772 * 60,
+    "MEMORY_USAGE_GB": 0.00000386 * 60,
+    "DISK_USAGE_GB": 0.00000006 * 60,
     "NETWORK_TX_GB": 0.05,
 }
 GENERIC_SERVICES = {"web", "postgres", "postgres-dev", "api", "app"}
@@ -333,7 +336,7 @@ def railway_window(token: str, workspace_id: str, start: datetime, end: datetime
       ) {
         measurement
         value
-        tags
+        tags { projectId }
       }
     }
     """
