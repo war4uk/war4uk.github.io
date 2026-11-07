@@ -212,21 +212,19 @@
       </div>
     </section>
     <section>
-      <h3>Из чего сложилась оценка</h3>
-      <div class="panel">
-        <div class="split" id="split"></div>
-        <div class="legend" id="legend"></div>
-      </div>
-    </section>
-    <section>
       <h3>Оценка сервисов за 7 суток</h3>
       <div class="panel" style="overflow-x:auto">
         <table>
           <thead>
             <tr>
-              <th>Проект</th>
-              <th>Сервис</th>
-              <th>OpenAI</th>
+              <th rowspan="2">Проект</th>
+              <th rowspan="2">Сервис</th>
+              <th class="num" colspan="2">Railway</th>
+              <th class="num" colspan="2">OpenAI</th>
+            </tr>
+            <tr>
+              <th class="num">7 суток</th>
+              <th class="num">Сутки</th>
               <th class="num">7 суток</th>
               <th class="num">Сутки</th>
             </tr>
@@ -459,43 +457,29 @@
         daysSection.hidden = true;
       }
 
-      const parts = rail.components ? [
-        ["память", rail.components.memory, "#9a3412"],
-        ["диск", rail.components.disk, "#1d4e89"],
-        ["процессор", rail.components.cpu, "#3f6212"],
-        ["исходящий трафик", rail.components.egress, "#0f766e"]
-      ] : [];
-      const split = document.getElementById("split");
-      const legend = document.getElementById("legend");
-      clear("split");
-      clear("legend");
-      for (const [label, value, color] of parts) {
-        const slice = document.createElement("i");
-        slice.style.width = (value / rail.weekUsd * 100) + "%";
-        slice.style.background = color;
-        split.appendChild(slice);
-        const item = document.createElement("span");
-        item.innerHTML = "<i class=\"swatch\"></i><b></b> ";
-        item.querySelector(".swatch").style.background = color;
-        item.querySelector("b").textContent = label;
-        item.append(document.createTextNode(" " + money(value)));
-        legend.appendChild(item);
-      }
-
       const body = document.getElementById("services");
       clear("services");
-      for (const service of rail.services || []) {
+      const serviceRows = data.serviceCosts || (rail.services || []).map((service) => ({
+        project: service.project,
+        service: service.service,
+        railwayWeek: service.weekUsd,
+        railwayDay: service.dayUsd,
+        openaiWeek: null,
+        openaiDay: null,
+      }));
+      for (const service of serviceRows) {
         const tr = document.createElement("tr");
         const cells = [
           service.project,
           service.service,
-          service.openai ? "да" : "—",
-          money(service.weekUsd),
-          money(service.dayUsd)
+          money(service.railwayWeek || 0),
+          money(service.railwayDay || 0),
+          service.openaiWeek == null ? "—" : money(service.openaiWeek),
+          service.openaiDay == null ? "—" : money(service.openaiDay),
         ];
         cells.forEach((text, index) => {
           const td = document.createElement("td");
-          if (index >= 3) td.className = "num";
+          if (index >= 2) td.className = "num";
           td.textContent = text;
           tr.appendChild(td);
         });

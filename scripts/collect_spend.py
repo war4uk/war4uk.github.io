@@ -14,7 +14,7 @@ import sys
 import urllib.error
 import urllib.parse
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -185,6 +185,40 @@ OPENAI_KEY_RULES = (
     (("trump", "review"), "sm-tracker"),
     (("vintage",), "vintage"),
 )
+
+
+def pick_service(project_name: str, raw_name: str, services: list[dict]) -> str:
+    rows = [row for row in services if row.get("project") == project_name]
+    compact = re.sub(r"[^a-z0-9]", "", str(raw_name or "").lower())
+    for row in rows:
+        service = re.sub(r"[^a-z0-9]", "", str(row.get("service") or "").lower())
+        if service and "postgres" not in service and service not in {"web", "api", "app"} and service in compact:
+            return row["service"]
+    for row in rows:
+        if "postgres" not in str(row.get("service") or "").lower():
+            return row["service"]
+    return rows[0]["service"] if rows else ""
+
+
+def service_window_costs(week_by_key, day_by_key, key_names: dict[str, str], services: list[dict], catalog: list[dict]) -> list[dict]:
+    totals: dict[tuple[str, str], dict[str, float]] = {}
+
+    def add(by_key: dict, field: str):
+        for key_id, amount in (by_key or {}).items():
+            raw_name = key_names.get(key_id) or ""
+            if not raw_name or raw_name == "проект":
+                continue
+            project = match_api_key(raw_name, catalog)
+            service = pick_service(project, raw_name, services)
+            slot = totals.setdefault((project, service), {"week": 0.0, "day": 0.0})
+            slot[field] += amount
+
+    add(week_by_key, "week")
+    add(day_by_key, "day")
+    return [
+        {"project": project, "service": service, "week": round(amounts["week"], 4), "day": round(amounts["day"], 4)}
+        for (project, service), amounts in totals.items()
+    ]
 
 
 def match_api_key(raw_name: str, catalog: list[dict]) -> str:
@@ -549,7 +583,7 @@ def openai_key_names(key: str, project_ids: list[str], secrets: list[str]) -> di
     return names
 
 
-def collect_openai(key: str, now: datetime, secrets: list[str] | None = None, catalog: list[dict] | None = None):
+def collect_openai(key: str, now: datetime, secrets: list[str] | None = None, catalog: list[dict] | None = None, services: list[dict] | None = None):
     start = period_start(now)
     limit = openai_limit_usd(key)
     page = None
@@ -624,6 +658,15 @@ def collect_openai(key: str, now: datetime, secrets: list[str] | None = None, ca
         f"openai months: current ${sum(months['current'].values()):.2f}, previous ${sum(months['previous'].values()):.2f}",
         flush=True,
     )
+    week_keys: dict[str, float] = {}
+    day_keys: dict[str, float] = {}
+    if key_names:
+        try:
+            week_keys = openai_grouped_costs(key, now - timedelta(days=7), now, "api_key_id")
+            day_keys = openai_grouped_costs(key, now - timedelta(days=1), now, "api_key_id")
+        except ProviderError as error:
+            print(f"openai recent: {redact(error, known_secrets)}", flush=True)
+    service_recent = service_window_costs(week_keys, day_keys, key_names, services or [], known_catalog)
     return {
         "status": "invoice",
         "source": "organization.costs",
@@ -633,6 +676,7 @@ def collect_openai(key: str, now: datetime, secrets: list[str] | None = None, ca
         "periodEnd": (start.replace(year=start.year + 1, month=1) if start.month == 12 else start.replace(month=start.month + 1)).date().isoformat(),
         "days": days,
         "months": months,
+        "serviceRecent": service_recent,
         "detail": "за период",
     }
 
@@ -768,7 +812,13 @@ def update(data: dict, now: datetime):
     if openai_key:
         try:
             catalog = ((data.get("railway") or {}).get("billing") or {}).get("catalog") or []
-            fresh = collect_openai(openai_key, now, secrets, catalog)
+            fresh = collect_openai(
+                openai_key,
+                now,
+                secrets,
+                catalog,
+                (data.get("railway") or {}).get("services") or [],
+            )
             previous = data.get("openai") or {}
             fresh["projects"] = previous.get("projects") or []
             fresh["absent"] = previous.get("absent") or []
@@ -799,6 +849,22 @@ def update(data: dict, now: datetime):
         railway_months = ((data.get("railway") or {}).get("billing") or {}).get("months")
         openai_months = (data.get("openai") or {}).get("months")
         catalog = ((data.get("railway") or {}).get("billing") or {}).get("catalog") or []
+        recent = {((item.get("project"), item.get("service"))): item for item in (data.get("openai") or {}).get("serviceRecent") or []}
+        service_rows = []
+        for service in (data.get("railway") or {}).get("services") or []:
+            extra = recent.get((service.get("project"), service.get("service"))) or {}
+            service_rows.append({
+                "project": service.get("project"),
+                "service": service.get("service"),
+                "railwayWeek": service.get("weekUsd") or 0,
+                "railwayDay": service.get("dayUsd") or 0,
+                "openaiWeek": extra.get("week") or 0,
+                "openaiDay": extra.get("day") or 0,
+            })
+        if service_rows:
+            data["serviceCosts"] = service_rows
+        if isinstance(data.get("openai"), dict):
+            data["openai"].pop("serviceRecent", None)
         data["projectSpend"] = {
             "currentMonth": current_start.strftime("%Y-%m"),
             "previousMonth": previous_start.strftime("%Y-%m"),
