@@ -14,7 +14,7 @@ import sys
 import urllib.error
 import urllib.parse
 import urllib.request
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -258,12 +258,36 @@ def collect_railway(token: str, workspace_id: str | None, secrets: list[str]):
     return billing
 
 
+def period_start(now: datetime) -> datetime:
+    current = now.astimezone(timezone.utc)
+    return current.replace(day=1, hour=0, minute=0, second=0, microsecond=0)
+
+
+def openai_limit_usd(key: str):
+    try:
+        status, body = request_json(
+            "https://api.openai.com/v1/organization/spend_limit",
+            headers={"Authorization": f"Bearer {key}"},
+        )
+    except ProviderError as error:
+        if str(error).startswith("HTTP 404"):
+            return None
+        raise
+    if status != 200 or not isinstance(body, dict):
+        return None
+    cents = number(body.get("threshold_amount"))
+    if cents is None:
+        return None
+    return round(cents / 100, 4)
+
+
 def collect_openai(key: str, now: datetime):
-    start = int((now - timedelta(days=31)).timestamp())
+    start = period_start(now)
+    limit = openai_limit_usd(key)
     page = None
     totals: dict[str, float] = {}
     for _ in range(12):
-        query = f"start_time={start}&bucket_width=1d&limit=31"
+        query = f"start_time={int(start.timestamp())}&bucket_width=1d&limit=31"
         if page:
             query += "&page=" + urllib.parse.quote(page)
         status, body = request_json(
@@ -277,6 +301,8 @@ def collect_openai(key: str, now: datetime):
             if stamp is None:
                 continue
             day = datetime.fromtimestamp(int(stamp), tz=timezone.utc).date().isoformat()
+            if day < start.date().isoformat():
+                continue
             amount = 0.0
             for result in bucket.get("results") or []:
                 value = number(((result or {}).get("amount") or {}).get("value"))
@@ -292,8 +318,10 @@ def collect_openai(key: str, now: datetime):
         "status": "invoice",
         "source": "organization.costs",
         "totalUsd": total,
+        "limitUsd": limit,
+        "periodStart": start.date().isoformat(),
         "days": days,
-        "detail": f"за {len(days)} суток",
+        "detail": "за период",
     }
 
 

@@ -160,7 +160,7 @@
     </header>
     <div class="grid" id="meters"></div>
     <section id="days-section" hidden>
-      <h3>OpenAI по дням</h3>
+      <h3>OpenAI за период</h3>
       <div class="panel">
         <div class="days" id="days"></div>
         <p class="note" id="days-note"></p>
@@ -209,6 +209,29 @@
     };
     const money = (n) => "$" + Number(n).toFixed(2);
 
+    function monthStart() {
+      const now = new Date();
+      return now.getUTCFullYear() + "-" + String(now.getUTCMonth() + 1).padStart(2, "0") + "-01";
+    }
+
+    function periodSpend(provider) {
+      if (!provider || (provider.totalUsd == null && !(provider.days || []).length)) return null;
+      const start = provider.periodStart || monthStart();
+      const days = (provider.days || []).filter((day) => day.date >= start);
+      const spent = days.length
+        ? days.reduce((sum, day) => sum + Number(day.usd || 0), 0)
+        : Number(provider.totalUsd);
+      return { spent, limit: provider.limitUsd || 0, days };
+    }
+
+    function progressMeter(title, spent, limit) {
+      if (limit) {
+        const pct = spent / limit * 100;
+        return meter(title, money(spent), "за период, " + pct.toFixed(0) + "% от " + money(limit), pct, false);
+      }
+      return meter(title, money(spent), "за период", 0, false);
+    }
+
     function meter(title, figure, sub, percent, empty) {
       const card = document.createElement("article");
       card.className = "card" + (empty ? " empty" : "");
@@ -252,20 +275,15 @@
         ));
       }
 
-      if (openai.totalUsd != null) {
-        const daysCount = (openai.days || []).length;
-        const sub = daysCount ? "за " + daysCount + " суток" : "за период";
-        meters.appendChild(meter("OpenAI", money(openai.totalUsd), sub, 0, false));
+      const openaiSpent = periodSpend(openai);
+      if (openaiSpent != null) {
+        meters.appendChild(progressMeter("OpenAI", openaiSpent.spent, openaiSpent.limit));
       } else {
         meters.appendChild(meter("OpenAI", "—", "Пока нет данных", 0, true));
       }
 
       if (cursor.spentUsd != null) {
-        const pct = cursor.limitUsd ? cursor.spentUsd / cursor.limitUsd * 100 : (cursor.percent || 0);
-        const sub = cursor.limitUsd
-          ? pct.toFixed(0) + "% от " + money(cursor.limitUsd)
-          : "за период";
-        meters.appendChild(meter("Cursor", money(cursor.spentUsd), sub, pct, false));
+        meters.appendChild(progressMeter("Cursor", cursor.spentUsd, cursor.limitUsd));
       } else {
         meters.appendChild(meter("Cursor", "—", "Пока нет данных", 0, true));
       }
@@ -306,7 +324,7 @@
           money(rail.averageDayUsd || 0) + " — темп " + paceWord + " среднего.";
       }
 
-      const days = openai.days || [];
+      const days = (openaiSpent && openaiSpent.days) || [];
       const daysSection = document.getElementById("days-section");
       if (days.length) {
         daysSection.hidden = false;
@@ -319,8 +337,9 @@
           bar.title = day.date + " " + money(day.usd);
           chart.appendChild(bar);
         }
+        const shown = days.reduce((sum, day) => sum + Number(day.usd || 0), 0);
         document.getElementById("days-note").textContent =
-          days[0].date + " — " + days[days.length - 1].date + ", вместе " + money(openai.totalUsd || 0);
+          days[0].date + " — " + days[days.length - 1].date + ", вместе " + money(shown);
       } else {
         daysSection.hidden = true;
       }
