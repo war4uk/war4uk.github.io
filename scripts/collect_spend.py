@@ -77,8 +77,24 @@ def request_json(url: str, method: str = "GET", payload: dict | None = None, hea
     except ProviderError:
         raise
     except urllib.error.HTTPError as error:
-        error.read(20_000)
-        raise ProviderError(f"HTTP {error.code}") from None
+        raw = error.read(4000)
+        detail = ""
+        try:
+            payload = json.loads(raw.decode("utf-8", "replace"))
+            if isinstance(payload, dict):
+                errors = payload.get("errors") or []
+                if errors and isinstance(errors[0], dict):
+                    detail = str(errors[0].get("message") or "")
+                elif isinstance(payload.get("error"), dict):
+                    detail = str(payload["error"].get("message") or "")
+                elif payload.get("error"):
+                    detail = str(payload["error"])
+        except (UnicodeDecodeError, json.JSONDecodeError, IndexError, AttributeError):
+            detail = ""
+        message = f"HTTP {error.code}"
+        if detail:
+            message += ": " + detail[:180]
+        raise ProviderError(message) from None
     except urllib.error.URLError:
         raise ProviderError("сеть недоступна") from None
     try:
@@ -120,7 +136,11 @@ GENERIC_SERVICES = {"web", "postgres", "postgres-dev", "api", "app"}
 def railway_projects(token: str):
     full = "{ projects { edges { node { id name workspaceId services { edges { node { name } } } } } } }"
     simple = "{ projects { edges { node { id name workspaceId } } } }"
-    data, errors = graphql(token, full)
+    try:
+        data, errors = graphql(token, full)
+    except ProviderError as error:
+        print(f"railway projects: {error}", flush=True)
+        data, errors = graphql(token, simple)
     if errors and not (data.get("projects") or {}):
         data, errors = graphql(token, simple)
     if errors and not data:
@@ -194,9 +214,13 @@ def add_amount(bucket: dict, name: str, amount: float):
     bucket[name] = round(bucket.get(name, 0.0) + amount, 4)
 
 
-def build_project_spend(railway_months, openai_months) -> list[dict]:
+def build_project_spend(railway_months, openai_months, required: list[str] | None = None) -> list[dict]:
     names = []
     seen = set()
+    for name in required or []:
+        if name and name not in seen:
+            seen.add(name)
+            names.append(name)
     for source in (railway_months or {}, openai_months or {}):
         for period in ("current", "previous"):
             for name in (source.get(period) or {}):
@@ -216,7 +240,8 @@ def build_project_spend(railway_months, openai_months) -> list[dict]:
             "railway": {"current": round(railway_current, 4), "previous": round(railway_previous, 4)},
             "openai": {"current": round(openai_current, 4), "previous": round(openai_previous, 4)},
         })
-    rows.sort(key=lambda row: row["current"] + row["previous"], reverse=True)
+    required_names = set(required or [])
+    rows.sort(key=lambda row: (row["name"] not in required_names, -(row["current"] + row["previous"])))
     return rows
 
 
@@ -296,11 +321,15 @@ def railway_window(token: str, workspace_id: str, start: datetime, end: datetime
       }
     }
     """
-    data, errors = graphql(token, query, {
-        "id": workspace_id,
-        "start": start.strftime("%Y-%m-%dT%H:%M:%S.000Z"),
-        "end": end.strftime("%Y-%m-%dT%H:%M:%S.000Z"),
-    })
+    try:
+        data, errors = graphql(token, query, {
+            "id": workspace_id,
+            "start": start.strftime("%Y-%m-%dT%H:%M:%S.000Z"),
+            "end": end.strftime("%Y-%m-%dT%H:%M:%S.000Z"),
+        })
+    except ProviderError as error:
+        print(f"railway usage: {error}", flush=True)
+        return {}
     if errors and not data.get("usage"):
         print(f"railway usage: {errors[0]}", flush=True)
         return {}
@@ -453,13 +482,13 @@ def openai_project_names(key: str, secrets: list[str]) -> dict[str, str]:
     return names
 
 
-def openai_costs_by_project(key: str, start: datetime, end: datetime) -> dict[str, float]:
+def openai_grouped_costs(key: str, start: datetime, end: datetime, field: str) -> dict[str, float]:
     page = None
     totals: dict[str, float] = {}
     for _ in range(12):
         query = (
             f"start_time={int(start.timestamp())}&end_time={int(end.timestamp())}"
-            f"&bucket_width=1d&limit=31&group_by=project_id"
+            f"&bucket_width=1d&limit=31&group_by={field}"
         )
         if page:
             query += "&page=" + urllib.parse.quote(page)
@@ -474,12 +503,31 @@ def openai_costs_by_project(key: str, start: datetime, end: datetime) -> dict[st
                 value = number(((result or {}).get("amount") or {}).get("value"))
                 if value is None:
                     continue
-                project_id = (result or {}).get("project_id") or "без проекта"
-                totals[project_id] = totals.get(project_id, 0.0) + value
+                group_id = (result or {}).get(field) or "без проекта"
+                totals[group_id] = totals.get(group_id, 0.0) + value
         if not body.get("has_more") or not body.get("next_page"):
             break
         page = str(body["next_page"])
-    return {key: round(value, 4) for key, value in totals.items()}
+    return {group_id: round(value, 4) for group_id, value in totals.items()}
+
+
+def openai_key_names(key: str, project_ids: list[str], secrets: list[str]) -> dict[str, str]:
+    names = {}
+    for project_id in project_ids:
+        try:
+            status, body = request_json(
+                f"https://api.openai.com/v1/organization/projects/{project_id}/api_keys?limit=100",
+                headers={"Authorization": f"Bearer {key}"},
+            )
+        except ProviderError as error:
+            print(f"openai keys: {redact(error, secrets)}", flush=True)
+            continue
+        if status != 200 or not isinstance(body, dict):
+            continue
+        for item in body.get("data") or []:
+            if item.get("id"):
+                names[item["id"]] = public_name(item.get("name"), secrets)
+    return names
 
 
 def collect_openai(key: str, now: datetime, secrets: list[str] | None = None, catalog: list[dict] | None = None):
@@ -519,21 +567,36 @@ def collect_openai(key: str, now: datetime, secrets: list[str] | None = None, ca
     known_catalog = catalog or []
     previous_start, current_start = month_pair(now)
     project_names = openai_project_names(key, known_secrets)
+    catalog_names = {project["name"] for project in known_catalog}
+    key_names = openai_key_names(key, list(project_names), known_secrets)
     try:
-        current_ids = openai_costs_by_project(key, current_start, now)
-        previous_ids = openai_costs_by_project(key, previous_start, current_start)
+        current_projects = openai_grouped_costs(key, current_start, now, "project_id")
+        previous_projects = openai_grouped_costs(key, previous_start, current_start, "project_id")
+        current_keys = openai_grouped_costs(key, current_start, now, "api_key_id") if key_names else {}
+        previous_keys = openai_grouped_costs(key, previous_start, current_start, "api_key_id") if key_names else {}
     except ProviderError as error:
         print(f"openai projects costs: {redact(error, known_secrets)}", flush=True)
-        current_ids, previous_ids = {}, {}
+        current_projects, previous_projects = {}, {}
+        current_keys, previous_keys = {}, {}
 
-    def named(by_id: dict[str, float]) -> dict[str, float]:
+    def named(by_id: dict[str, float], labels: dict[str, str]) -> dict[str, float]:
         named_costs: dict[str, float] = {}
-        for project_id, amount in by_id.items():
-            raw_name = project_names.get(project_id) or project_id
+        for group_id, amount in by_id.items():
+            raw_name = labels.get(group_id) or group_id
             add_amount(named_costs, match_project_name(raw_name, known_catalog), amount)
         return named_costs
 
-    months = {"current": named(current_ids), "previous": named(previous_ids)}
+    by_key = {
+        "current": named(current_keys, key_names),
+        "previous": named(previous_keys, key_names),
+    }
+    if any(name in catalog_names for period in by_key.values() for name in period):
+        months = by_key
+    else:
+        months = {
+            "current": named(current_projects, project_names),
+            "previous": named(previous_projects, project_names),
+        }
     print(
         f"openai months: current ${sum(months['current'].values()):.2f}, previous ${sum(months['previous'].values()):.2f}",
         flush=True,
@@ -712,10 +775,15 @@ def update(data: dict, now: datetime):
         previous_start, current_start = month_pair(now)
         railway_months = ((data.get("railway") or {}).get("billing") or {}).get("months")
         openai_months = (data.get("openai") or {}).get("months")
+        catalog = ((data.get("railway") or {}).get("billing") or {}).get("catalog") or []
         data["projectSpend"] = {
             "currentMonth": current_start.strftime("%Y-%m"),
             "previousMonth": previous_start.strftime("%Y-%m"),
-            "projects": build_project_spend(railway_months, openai_months),
+            "projects": build_project_spend(
+                railway_months,
+                openai_months,
+                [item.get("name") for item in catalog if item.get("name")],
+            ),
         }
         data["generatedAt"] = now.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
         data["displayTime"] = format_tbilisi(now)

@@ -118,11 +118,37 @@
       border-radius: 16px;
       padding: 16px;
     }
-    .project { padding: 14px 0; border-bottom: 1px solid var(--line); }
-    .project:last-child { border-bottom: 0; }
-    .project h4 { margin: 0 0 6px; font-size: 20px; }
-    .project p { margin: 3px 0; }
-    .project .kind { color: var(--muted); }
+    .project { padding: 16px 0 18px; border-bottom: 1px solid var(--line); }
+    .project:first-child { padding-top: 2px; }
+    .project:last-child { border-bottom: 0; padding-bottom: 2px; }
+    .project h4 { margin: 0 0 12px; font-size: 18px; letter-spacing: -0.02em; }
+    .compare { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+    .month-label {
+      margin: 0 0 4px;
+      color: var(--muted);
+      font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+      font-size: 11px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+    .month-total {
+      font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+      font-size: 22px;
+      letter-spacing: -0.03em;
+    }
+    .stack {
+      display: flex;
+      height: 8px;
+      margin: 8px 0;
+      overflow: hidden;
+      border-radius: 99px;
+      background: var(--track);
+    }
+    .stack i { display: block; height: 100%; }
+    .stack .rail { background: #9a3412; }
+    .stack .ai { background: #1d4e89; }
+    .fine { display: flex; justify-content: space-between; gap: 8px; color: var(--muted); font-size: 13px; }
+    .dot { display: inline-block; width: 7px; height: 7px; margin-right: 5px; border-radius: 99px; vertical-align: 1px; }
     .bar-row { display: grid; grid-template-columns: 168px 1fr 72px; gap: 10px; align-items: center; margin: 8px 0; }
     .bar-row span:last-child, .num {
       font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
@@ -363,8 +389,30 @@
         const month = Number(String(isoMonth || "").split("-")[1]);
         return monthNames[month - 1] || "";
       }
-      function pair(current, previous, currentMonth, previousMonth) {
-        return money(current) + " пока за " + currentMonth + " — " + money(previous) + " всего за " + previousMonth;
+      function monthColumn(label, total, railwayAmount, openaiAmount) {
+        const column = document.createElement("div");
+        const name = document.createElement("p");
+        name.className = "month-label";
+        name.textContent = label;
+        const figure = document.createElement("div");
+        figure.className = "month-total";
+        figure.textContent = money(total);
+        const stack = document.createElement("div");
+        stack.className = "stack";
+        const railwayShare = total ? railwayAmount / total * 100 : 0;
+        const openaiShare = total ? openaiAmount / total * 100 : 0;
+        const railwayBar = document.createElement("i");
+        railwayBar.className = "rail";
+        railwayBar.style.width = railwayShare + "%";
+        const openaiBar = document.createElement("i");
+        openaiBar.className = "ai";
+        openaiBar.style.width = openaiShare + "%";
+        stack.append(railwayBar, openaiBar);
+        const fine = document.createElement("div");
+        fine.className = "fine";
+        fine.innerHTML = "<span><i class=\"dot\" style=\"background:#9a3412\"></i>Railway " + money(railwayAmount) + "</span><span><i class=\"dot\" style=\"background:#1d4e89\"></i>OpenAI " + money(openaiAmount) + "</span>";
+        column.append(name, figure, stack, fine);
+        return column;
       }
       const spend = data.projectSpend;
       const projects = document.getElementById("projects");
@@ -377,20 +425,18 @@
           block.className = "project";
           const title = document.createElement("h4");
           title.textContent = project.name;
-          const total = document.createElement("p");
-          total.textContent = pair(project.current, project.previous, currentMonth, previousMonth);
-          const railwayLine = document.createElement("p");
-          railwayLine.className = "kind";
-          railwayLine.textContent = "Railway — " + pair(project.railway.current, project.railway.previous, currentMonth, previousMonth);
-          const openaiLine = document.createElement("p");
-          openaiLine.className = "kind";
-          openaiLine.textContent = "OpenAI — " + pair(project.openai.current, project.openai.previous, currentMonth, previousMonth);
-          block.append(title, total, railwayLine, openaiLine);
+          const compare = document.createElement("div");
+          compare.className = "compare";
+          compare.append(
+            monthColumn(currentMonth, project.current, project.railway.current, project.openai.current),
+            monthColumn(previousMonth, project.previous, project.railway.previous, project.openai.previous)
+          );
+          block.append(title, compare);
           projects.appendChild(block);
         }
         document.getElementById("pace").textContent = "";
       } else {
-        document.getElementById("pace").textContent = "По проектам появится после следующего снимка.";
+        document.getElementById("pace").textContent = "";
       }
 
       const days = (openaiSpent && openaiSpent.days) || [];
