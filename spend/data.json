@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T10:28:44Z",
-  "displayTime": "7 ноября 2026, 14:28 (Тбилиси)",
+  "generatedAt": "2026-11-07T10:48:58Z",
+  "displayTime": "7 ноября 2026, 14:48 (Тбилиси)",
   "window": {
     "hours": 168,
     "start": "2026-10-31T09:03:35Z",
@@ -180,7 +180,7 @@
     "billing": {
       "status": "invoice",
       "source": "customer.currentUsage",
-      "currentUsd": 6.3594,
+      "currentUsd": 6.3627,
       "creditBalanceUsd": 0.0,
       "softLimitUsd": null,
       "hardLimitUsd": null,
@@ -194,19 +194,19 @@
       "projects": [
         {
           "name": "vintage",
-          "usd": 2.3714
+          "usd": 2.3726
         },
         {
           "name": "generous-kindness",
-          "usd": 2.0032
+          "usd": 2.0042
         },
         {
           "name": "travels-history",
-          "usd": 1.7433
+          "usd": 1.7443
         },
         {
           "name": "sm-tracker",
-          "usd": 0.2416
+          "usd": 0.2417
         }
       ]
     }
@@ -217,6 +217,7 @@
     "totalUsd": 1.1713,
     "limitUsd": null,
     "periodStart": "2026-11-01",
+    "periodEnd": "2026-12-01",
     "days": [
       {
         "date": "2026-11-01",
@@ -260,13 +261,16 @@
   "cursor": {
     "status": "invoice",
     "source": "dashboard.current-period",
-    "spentUsd": 46.78,
+    "spentUsd": 56.36,
     "includedUsd": 20.0,
     "limitUsd": 20.0,
-    "percent": 100.0,
+    "modelsPercent": 12.062222222222223,
+    "otherPercent": 18.488888888888887,
+    "onDemandUsd": 0,
+    "onDemandLimitUsd": 10.0,
     "cycleStart": "1793696910000",
     "cycleEnd": "1796288910000",
-    "detail": "100% от $20"
+    "detail": "лимиты периода"
   },
   "updatedBy": "github-actions"
 }
