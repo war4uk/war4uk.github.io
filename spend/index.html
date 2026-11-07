@@ -282,8 +282,9 @@
         meters.appendChild(meter("OpenAI", "—", "Пока нет данных", 0, true));
       }
 
-      if (cursor.spentUsd != null) {
-        meters.appendChild(progressMeter("Cursor", cursor.spentUsd, cursor.limitUsd));
+      const cursorAllowance = cursor.includedUsd != null ? cursor.includedUsd : cursor.spentUsd;
+      if (cursorAllowance != null) {
+        meters.appendChild(progressMeter("Cursor", cursorAllowance, cursor.limitUsd));
       } else {
         meters.appendChild(meter("Cursor", "—", "Пока нет данных", 0, true));
       }

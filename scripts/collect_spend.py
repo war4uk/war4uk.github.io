@@ -385,20 +385,32 @@ def collect_cursor_session(token: str):
     if status != 200 or not isinstance(body, dict):
         raise ProviderError(f"Cursor HTTP {status}")
     plan = body.get("planUsage") or {}
-    spent = cents_to_usd(plan.get("totalSpend"))
+    total = cents_to_usd(plan.get("totalSpend"))
     included = cents_to_usd(plan.get("includedSpend"))
+    bonus = cents_to_usd(plan.get("bonusSpend"))
     limit = cents_to_usd(plan.get("limit"))
-    if spent is None:
+    if included is None:
+        included = total
+    if included is None:
         raise ProviderError("Cursor не отдал сумму периода")
-    percent = round(included / limit * 100, 1) if included is not None and limit else None
+    on_demand = body.get("spendLimitUsage") or {}
+    on_demand_spent = cents_to_usd(on_demand.get("totalSpend"))
+    on_demand_limit = cents_to_usd(
+        on_demand.get("individualLimit") if on_demand.get("individualLimit") is not None else on_demand.get("pooledLimit")
+    )
+    percent = round(included / limit * 100, 1) if limit else None
     detail = "за период"
     if percent is not None and limit is not None:
         detail = f"{percent:.0f}% от ${limit:.0f}"
     return {
         "status": "invoice",
         "source": "dashboard.current-period",
-        "spentUsd": spent,
+        "spentUsd": included,
+        "totalUsd": total,
         "includedUsd": included,
+        "bonusUsd": bonus,
+        "onDemandUsd": on_demand_spent,
+        "onDemandLimitUsd": on_demand_limit,
         "limitUsd": limit,
         "percent": percent,
         "cycleStart": body.get("billingCycleStart"),
