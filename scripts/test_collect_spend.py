@@ -126,7 +126,26 @@ class CollectSpendTest(unittest.TestCase):
         result = collect_spend.collect_cursor_session("session-token")
         self.assertEqual(result["spentUsd"], 15.16)
         self.assertEqual(result["limitUsd"], 20)
-        self.assertEqual(result["percent"], 75.8)
+        self.assertIsNone(result["modelsPercent"])
+
+    def test_cursor_matches_dashboard_quotas(self):
+        collect_spend.request_json = lambda url, method="GET", payload=None, headers=None: (200, {
+            "billingCycleStart": "1793696910000",
+            "billingCycleEnd": "1796288910000",
+            "planUsage": {
+                "totalSpend": 4678,
+                "includedSpend": 2000,
+                "limit": 2000,
+                "autoPercentUsed": 11.2,
+                "apiPercentUsed": 18.4,
+            },
+            "spendLimitUsage": {"totalSpend": 0, "individualLimit": 1000},
+        })
+        result = collect_spend.collect_cursor_session("session-token")
+        self.assertEqual(result["modelsPercent"], 11.2)
+        self.assertEqual(result["otherPercent"], 18.4)
+        self.assertEqual(result["onDemandUsd"], 0)
+        self.assertEqual(result["onDemandLimitUsd"], 10)
         with self.assertRaises(collect_spend.ProviderError):
             collect_spend.collect_cursor_session("bad;token=evil")
 

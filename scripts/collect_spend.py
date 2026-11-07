@@ -320,6 +320,7 @@ def collect_openai(key: str, now: datetime):
         "totalUsd": total,
         "limitUsd": limit,
         "periodStart": start.date().isoformat(),
+        "periodEnd": (start.replace(year=start.year + 1, month=1) if start.month == 12 else start.replace(month=start.month + 1)).date().isoformat(),
         "days": days,
         "detail": "за период",
     }
@@ -388,22 +389,28 @@ def collect_cursor_session(token: str):
     spent = cents_to_usd(plan.get("totalSpend"))
     included = cents_to_usd(plan.get("includedSpend"))
     limit = cents_to_usd(plan.get("limit"))
-    if spent is None:
+    models = number(plan.get("autoPercentUsed"))
+    other = number(plan.get("apiPercentUsed"))
+    on_demand = body.get("spendLimitUsage") or {}
+    on_demand_spent = cents_to_usd(on_demand.get("totalSpend"))
+    on_demand_limit = cents_to_usd(on_demand.get("individualLimit"))
+    if on_demand_limit is None:
+        on_demand_limit = cents_to_usd(on_demand.get("pooledLimit"))
+    if models is None and other is None and spent is None:
         raise ProviderError("Cursor не отдал сумму периода")
-    percent = round(included / limit * 100, 1) if included is not None and limit else None
-    detail = "за период"
-    if percent is not None and limit is not None:
-        detail = f"{percent:.0f}% от ${limit:.0f}"
     return {
         "status": "invoice",
         "source": "dashboard.current-period",
         "spentUsd": spent,
         "includedUsd": included,
         "limitUsd": limit,
-        "percent": percent,
+        "modelsPercent": models,
+        "otherPercent": other,
+        "onDemandUsd": on_demand_spent if on_demand_spent is not None else 0,
+        "onDemandLimitUsd": on_demand_limit,
         "cycleStart": body.get("billingCycleStart"),
         "cycleEnd": body.get("billingCycleEnd"),
-        "detail": detail,
+        "detail": "лимиты периода",
     }
 
 
