@@ -320,6 +320,7 @@ def collect_openai(key: str, now: datetime):
         "totalUsd": total,
         "limitUsd": limit,
         "periodStart": start.date().isoformat(),
+        "periodEnd": (start.replace(year=start.year + 1, month=1) if start.month == 12 else start.replace(month=start.month + 1)).date().isoformat(),
         "days": days,
         "detail": "за период",
     }

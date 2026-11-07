@@ -224,12 +224,43 @@
       return { spent, limit: provider.limitUsd || 0, days };
     }
 
-    function progressMeter(title, spent, limit) {
-      if (limit) {
-        const pct = spent / limit * 100;
-        return meter(title, money(spent), "за период, " + pct.toFixed(0) + "% от " + money(limit), pct, false);
+    const MONTHS = "января февраля марта апреля мая июня июля августа сентября октября ноября декабря".split(" ");
+
+    function parseTime(value) {
+      if (value == null || value === "") return null;
+      if (typeof value === "number" || /^\d+$/.test(String(value))) {
+        const n = Number(value);
+        return new Date(n > 1e12 ? n : n * 1000);
       }
-      return meter(title, money(spent), "за период", 0, false);
+      const date = new Date(value);
+      return Number.isNaN(date.getTime()) ? null : date;
+    }
+
+    function formatDate(value) {
+      const date = parseTime(value);
+      if (!date) return "";
+      return date.getUTCDate() + " " + MONTHS[date.getUTCMonth()] + " " + date.getUTCFullYear();
+    }
+
+    function nextMonth(isoDate) {
+      const [year, month] = isoDate.split("-").map(Number);
+      return new Date(Date.UTC(year, month, 1)).toISOString();
+    }
+
+    function elapsedPercent(start, end) {
+      const from = parseTime(start);
+      const to = parseTime(end);
+      if (!from || !to) return 0;
+      const span = to.getTime() - from.getTime();
+      if (span <= 0) return 0;
+      return Math.max(0, Math.min(100, (Date.now() - from.getTime()) / span * 100));
+    }
+
+    function periodCard(title, cost, start, end) {
+      if (cost == null || !start || !end) return meter(title, "—", "Пока нет данных", 0, true);
+      const pct = elapsedPercent(start, end);
+      const sub = formatDate(start) + " — " + formatDate(end) + " · " + pct.toFixed(0) + "% периода";
+      return meter(title, money(cost), sub, pct, false);
     }
 
     function meter(title, figure, sub, percent, empty) {
@@ -259,31 +290,23 @@
       const meters = document.getElementById("meters");
       clear("meters");
 
-      if (bill && bill.currentUsd != null) {
-        const target = bill.progressTargetUsd || 0;
-        const pct = target ? bill.currentUsd / target * 100 : 0;
-        const sub = target ? "за период, " + pct.toFixed(0) + "% от " + money(target) : "за период";
-        meters.appendChild(meter("Railway", money(bill.currentUsd), sub, pct, false));
+      const railPeriod = bill && bill.period;
+      if (bill && bill.currentUsd != null && railPeriod && railPeriod.start && railPeriod.end) {
+        meters.appendChild(periodCard("Railway", bill.currentUsd, railPeriod.start, railPeriod.end));
       } else {
-        const pct = rail.progressTargetUsd ? rail.runRate30dUsd / rail.progressTargetUsd * 100 : 0;
-        meters.appendChild(meter(
-          "Railway",
-          money(rail.weekUsd || 0),
-          "за 7 суток, темп " + money(rail.runRate30dUsd || 0) + " в месяц",
-          pct,
-          false
-        ));
+        meters.appendChild(meter("Railway", "—", "Пока нет данных", 0, true));
       }
 
       const openaiSpent = periodSpend(openai);
       if (openaiSpent != null) {
-        meters.appendChild(progressMeter("OpenAI", openaiSpent.spent, openaiSpent.limit));
+        const start = openai.periodStart || monthStart();
+        meters.appendChild(periodCard("OpenAI", openaiSpent.spent, start, openai.periodEnd || nextMonth(start)));
       } else {
         meters.appendChild(meter("OpenAI", "—", "Пока нет данных", 0, true));
       }
 
-      if (cursor.spentUsd != null) {
-        meters.appendChild(progressMeter("Cursor", cursor.spentUsd, cursor.limitUsd));
+      if (cursor.spentUsd != null && cursor.cycleStart && cursor.cycleEnd) {
+        meters.appendChild(periodCard("Cursor", cursor.spentUsd, cursor.cycleStart, cursor.cycleEnd));
       } else {
         meters.appendChild(meter("Cursor", "—", "Пока нет данных", 0, true));
       }
