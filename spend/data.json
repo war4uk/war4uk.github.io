@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T09:43:35Z",
-  "displayTime": "7 ноября 2026, 13:43 (Тбилиси)",
+  "generatedAt": "2026-11-07T10:28:44Z",
+  "displayTime": "7 ноября 2026, 14:28 (Тбилиси)",
   "window": {
     "hours": 168,
     "start": "2026-10-31T09:03:35Z",
@@ -180,7 +180,7 @@
     "billing": {
       "status": "invoice",
       "source": "customer.currentUsage",
-      "currentUsd": 6.3524,
+      "currentUsd": 6.3594,
       "creditBalanceUsd": 0.0,
       "softLimitUsd": null,
       "hardLimitUsd": null,
@@ -194,19 +194,19 @@
       "projects": [
         {
           "name": "vintage",
-          "usd": 2.3685
+          "usd": 2.3714
         },
         {
           "name": "generous-kindness",
-          "usd": 2.001
+          "usd": 2.0032
         },
         {
           "name": "travels-history",
-          "usd": 1.7415
+          "usd": 1.7433
         },
         {
           "name": "sm-tracker",
-          "usd": 0.2414
+          "usd": 0.2416
         }
       ]
     }
@@ -214,108 +214,10 @@
   "openai": {
     "status": "invoice",
     "source": "organization.costs",
-    "totalUsd": 12.6647,
+    "totalUsd": 1.1713,
+    "limitUsd": null,
+    "periodStart": "2026-11-01",
     "days": [
-      {
-        "date": "2026-10-07",
-        "usd": 0.0152
-      },
-      {
-        "date": "2026-10-08",
-        "usd": 0.1517
-      },
-      {
-        "date": "2026-10-09",
-        "usd": 0.1737
-      },
-      {
-        "date": "2026-10-10",
-        "usd": 1.5843
-      },
-      {
-        "date": "2026-10-11",
-        "usd": 0.0156
-      },
-      {
-        "date": "2026-10-12",
-        "usd": 0.6464
-      },
-      {
-        "date": "2026-10-13",
-        "usd": 0.0135
-      },
-      {
-        "date": "2026-10-14",
-        "usd": 1.2539
-      },
-      {
-        "date": "2026-10-15",
-        "usd": 1.8824
-      },
-      {
-        "date": "2026-10-16",
-        "usd": 3.0158
-      },
-      {
-        "date": "2026-10-17",
-        "usd": 1.0471
-      },
-      {
-        "date": "2026-10-18",
-        "usd": 0.6395
-      },
-      {
-        "date": "2026-10-19",
-        "usd": 0.108
-      },
-      {
-        "date": "2026-10-20",
-        "usd": 0.1844
-      },
-      {
-        "date": "2026-10-21",
-        "usd": 0.0209
-      },
-      {
-        "date": "2026-10-22",
-        "usd": 0.1164
-      },
-      {
-        "date": "2026-10-23",
-        "usd": 0.0722
-      },
-      {
-        "date": "2026-10-24",
-        "usd": 0.0216
-      },
-      {
-        "date": "2026-10-25",
-        "usd": 0.0204
-      },
-      {
-        "date": "2026-10-26",
-        "usd": 0.0143
-      },
-      {
-        "date": "2026-10-27",
-        "usd": 0.0514
-      },
-      {
-        "date": "2026-10-28",
-        "usd": 0.1106
-      },
-      {
-        "date": "2026-10-29",
-        "usd": 0.0362
-      },
-      {
-        "date": "2026-10-30",
-        "usd": 0.2197
-      },
-      {
-        "date": "2026-10-31",
-        "usd": 0.0782
-      },
       {
         "date": "2026-11-01",
         "usd": 0.0934
@@ -345,7 +247,7 @@
         "usd": 0.0037
       }
     ],
-    "detail": "за 32 суток",
+    "detail": "за период",
     "projects": [
       "sm-tracker",
       "vintage",
@@ -358,7 +260,7 @@
   "cursor": {
     "status": "invoice",
     "source": "dashboard.current-period",
-    "spentUsd": 42.39,
+    "spentUsd": 46.78,
     "includedUsd": 20.0,
     "limitUsd": 20.0,
     "percent": 100.0,
