@@ -147,7 +147,7 @@
     .stack i { display: block; height: 100%; }
     .stack .rail { background: #9a3412; }
     .stack .ai { background: #1d4e89; }
-    .fine { display: flex; justify-content: space-between; gap: 8px; color: var(--muted); font-size: 13px; }
+    .fine { display: grid; gap: 2px; color: var(--muted); font-size: 13px; }
     .dot { display: inline-block; width: 7px; height: 7px; margin-right: 5px; border-radius: 99px; vertical-align: 1px; }
     .bar-row { display: grid; grid-template-columns: 168px 1fr 72px; gap: 10px; align-items: center; margin: 8px 0; }
     .bar-row span:last-child, .num {
@@ -424,7 +424,7 @@
           const block = document.createElement("section");
           block.className = "project";
           const title = document.createElement("h4");
-          title.textContent = project.name;
+          title.textContent = project.name === "Default project" ? "Не привязано" : project.name;
           const compare = document.createElement("div");
           compare.className = "compare";
           compare.append(
@@ -454,7 +454,7 @@
         }
         const shown = days.reduce((sum, day) => sum + Number(day.usd || 0), 0);
         document.getElementById("days-note").textContent =
-          days[0].date + " — " + days[days.length - 1].date + ", вместе " + money(shown);
+          formatDate(days[0].date) + " — " + formatDate(days[days.length - 1].date) + " · " + money(shown);
       } else {
         daysSection.hidden = true;
       }
