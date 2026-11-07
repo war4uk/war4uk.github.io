@@ -88,24 +88,33 @@ class CollectSpendTest(unittest.TestCase):
         self.assertEqual(billing["projects"][0]["name"], "проект")
         self.assertNotIn(token, json.dumps(billing))
 
-    def test_openai_daily_totals_page_through(self):
+    def test_openai_keeps_current_month_and_spend_limit(self):
         key = "sk-admin-test-value"
+        now = datetime(2026, 11, 7, tzinfo=timezone.utc)
+        october = int(datetime(2026, 10, 20, tzinfo=timezone.utc).timestamp())
+        november = int(datetime(2026, 11, 4, tzinfo=timezone.utc).timestamp())
+        month = int(datetime(2026, 11, 1, tzinfo=timezone.utc).timestamp())
 
         def fake(url, method="GET", payload=None, headers=None):
+            if url.endswith("/organization/spend_limit"):
+                return 200, {"threshold_amount": 5000, "interval": "month"}
+            self.assertIn(f"start_time={month}", url)
             if "page=" not in url:
-                return 200, {"data": [{
-                    "start_time": 1761955200,
-                    "results": [{"amount": {"value": 0.5}}],
-                }], "has_more": True, "next_page": "next-1"}
+                return 200, {"data": [
+                    {"start_time": october, "results": [{"amount": {"value": 9}}]},
+                    {"start_time": november, "results": [{"amount": {"value": 1.5}}]},
+                ], "has_more": True, "next_page": "next-1"}
             return 200, {"data": [{
-                "start_time": 1762041600,
-                "results": [{"amount": {"value": "1.25"}}],
+                "start_time": november,
+                "results": [{"amount": {"value": "0.25"}}],
             }], "has_more": False, "next_page": None}
 
         collect_spend.request_json = fake
-        result = collect_spend.collect_openai(key, datetime(2026, 11, 7, tzinfo=timezone.utc))
+        result = collect_spend.collect_openai(key, now)
         self.assertEqual(result["totalUsd"], 1.75)
-        self.assertEqual(len(result["days"]), 2)
+        self.assertEqual(result["limitUsd"], 50)
+        self.assertEqual(result["periodStart"], "2026-11-01")
+        self.assertEqual(result["days"], [{"date": "2026-11-04", "usd": 1.75}])
         self.assertNotIn(key, json.dumps(result))
 
     def test_cursor_session_converts_cents_and_rejects_cookie_injection(self):
@@ -159,13 +168,16 @@ class CollectSpendTest(unittest.TestCase):
             collect_spend.os.environ.pop("CURSOR_ADMIN_API_KEY", None)
             collect_spend.os.environ.pop("CURSOR_SESSION_TOKEN", None)
             collect_spend.DATA_PATH = path
-            collect_spend.request_json = lambda url, method="GET", payload=None, headers=None: (200, {
-                "data": [{
-                    "start_time": 1761955200,
-                    "results": [{"amount": {"value": 0.4}}],
-                }],
-                "has_more": False,
-            })
+            stamp = int(datetime.now(timezone.utc).replace(day=3, hour=0, minute=0, second=0, microsecond=0).timestamp())
+            collect_spend.request_json = lambda url, method="GET", payload=None, headers=None: (
+                (200, {"threshold_amount": 2000}) if url.endswith("/organization/spend_limit") else (200, {
+                    "data": [{
+                        "start_time": stamp,
+                        "results": [{"amount": {"value": 0.4}}],
+                    }],
+                    "has_more": False,
+                })
+            )
             self.assertEqual(collect_spend.main(), 0)
             written = path.read_text(encoding="utf-8")
             self.assertNotIn("sk-admin-test-value", written)
