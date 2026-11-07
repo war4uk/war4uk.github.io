@@ -227,14 +227,15 @@ def collect_railway(token: str, workspace_id: str | None, secrets: list[str]):
     target_label = "лимит в Railway не задан, шкала $20"
     if soft and soft > 0:
         target = soft
-        target_label = "мягкий лимит"
+        target_label = "лимита"
     elif hard and hard > 0:
         target = hard
-        target_label = "жёсткий лимит"
+        target_label = "лимита"
     else:
         target = 20.0
+        target_label = "$20"
     percent = (current / target * 100) if target else None
-    detail = "счёт текущего периода"
+    detail = "за период"
     if percent is not None:
         detail += f", {percent:.0f}% от {target_label}"
     billing = {
@@ -292,7 +293,7 @@ def collect_openai(key: str, now: datetime):
         "source": "organization.costs",
         "totalUsd": total,
         "days": days,
-        "detail": f"за {len(days)} суток по admin API",
+        "detail": f"за {len(days)} суток",
     }
 
 
@@ -336,7 +337,7 @@ def collect_cursor_admin(key: str):
         "includedUsd": None,
         "percent": None,
         "cycleStart": cycle_start,
-        "detail": "счёт команды за текущий период",
+        "detail": "за период",
     }
 
 
@@ -362,9 +363,9 @@ def collect_cursor_session(token: str):
     if spent is None:
         raise ProviderError("Cursor не отдал сумму периода")
     percent = round(included / limit * 100, 1) if included is not None and limit else None
-    detail = "счёт текущего периода"
+    detail = "за период"
     if percent is not None and limit is not None:
-        detail = f"{percent:.0f}% включённого лимита ${limit:.2f}"
+        detail = f"{percent:.0f}% от ${limit:.0f}"
     return {
         "status": "invoice",
         "source": "dashboard.current-period",

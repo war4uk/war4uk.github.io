@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Публичный снимок трат Cursor, Railway и OpenAI. Только суммы, без ключей и токенов.">
+  <meta name="description" content="Траты Cursor, Railway и OpenAI.">
   <title>Траты подписок</title>
   <link rel="icon" href="/favicon.ico">
   <style>
@@ -142,14 +142,6 @@
       border-radius: 3px 3px 0 0;
       display: block;
     }
-    ol { margin: 8px 0 0; padding-left: 18px; }
-    li { margin: 6px 0; }
-    code {
-      font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
-      font-size: 0.92em;
-    }
-    footer { margin-top: 22px; color: var(--muted); font-size: 14px; }
-    footer p { margin: 0 0 10px; }
     a { color: var(--rail); }
     @media (max-width: 760px) {
       .grid { grid-template-columns: 1fr; }
@@ -162,7 +154,7 @@
 <body>
   <main>
     <header>
-      <p class="kicker">Публичный снимок · без ключей и токенов</p>
+      <p class="kicker">Cursor, Railway, OpenAI</p>
       <h1>Прогресс трат</h1>
       <p class="when" id="when"></p>
     </header>
@@ -205,22 +197,6 @@
         </table>
       </div>
     </section>
-    <section>
-      <h3>Откуда берутся суммы</h3>
-      <div class="panel">
-        <p>Ключи живут в секретах GitHub Actions, не в этом репозитории. Раз в сутки и по кнопке workflow <code>Spend snapshot</code> запускает <code>scripts/collect_spend.py</code>. Скрипт читает секреты, забирает счета и перезаписывает <code>spend/data.json</code>. В git попадают только суммы.</p>
-        <ol>
-          <li>Репозиторий → Settings → Secrets and variables → Actions → New repository secret.</li>
-          <li><code>RAILWAY_TOKEN</code> — account или workspace token Railway. Отдельного ключа только на чтение биллинга у Railway нет, этот токен может менять воркспейс.</li>
-          <li><code>OPENAI_ADMIN_KEY</code> — admin-ключ организации. Ключ проекта счёт не видит.</li>
-          <li><code>CURSOR_SESSION_TOKEN</code> — значение cookie <code>WorkosCursorSessionToken</code> с cursor.com. Это полный вход в аккаунт. Если есть командный admin-ключ, вместо cookie положи <code>CURSOR_ADMIN_API_KEY</code>: он ограничен API команды. Если заданы оба, берётся admin-ключ.</li>
-          <li><code>RAILWAY_WORKSPACE_ID</code> нужен только когда воркспейсов несколько.</li>
-          <li>После мержа в master: Actions → Spend snapshot → Run workflow. Дальше страница обновляется сама около 09:15 по Тбилиси.</li>
-        </ol>
-        <p class="note">Значения секретов не нужно присылать в чат и нельзя коммитить. Если кто-то с правом править workflow захочет, он сможет изменить скрипт так, чтобы секрет утёк в лог. Для личного репозитория это ты сам.</p>
-      </div>
-    </section>
-    <footer id="method"></footer>
   </main>
   <script id="spend" type="application/json">{"generatedAt": "2026-11-07T09:03:35Z", "displayTime": "7 ноября 2026, 13:03 (Тбилиси)", "window": {"hours": 168, "start": "2026-10-31T09:03:35Z", "end": "2026-11-07T09:03:35Z", "label": "31 октября 13:03 — 7 ноября 13:03 (Тбилиси)"}, "railway": {"status": "estimated", "plan": "Pro", "planFeeUsd": 20, "includedCreditFromLimitsApiUsd": 0, "publishedIncludedCreditUsd": 20, "weekUsd": 2.2294, "dayUsd": 0.3269, "averageDayUsd": 0.3185, "runRate30dUsd": 9.5546, "progressTargetUsd": 20.0, "components": {"cpu": 0.0135, "memory": 2.1386, "disk": 0.0748, "egress": 0.0025}, "projects": [{"name": "sm-tracker", "weekUsd": 0.7594, "dayUsd": 0.1014, "openai": true}, {"name": "vintage", "weekUsd": 0.5748, "dayUsd": 0.0917, "openai": true}, {"name": "generous-kindness", "weekUsd": 0.4704, "dayUsd": 0.068, "openai": true}, {"name": "travels-history", "weekUsd": 0.4248, "dayUsd": 0.0658, "openai": false}], "services": [{"project": "sm-tracker", "service": "pipeline", "openai": true, "weekUsd": 0.6898, "dayUsd": 0.0909, "weekParts": {"cpu": 0.0089, "memory": 0.6779, "disk": 0.003, "egress": 0.0}}, {"project": "vintage", "service": "web", "openai": true, "weekUsd": 0.4473, "dayUsd": 0.0733, "weekParts": {"cpu": 0.0, "memory": 0.4473, "disk": 0.0, "egress": 0.0}}, {"project": "travels-history", "service": "web", "openai": false, "weekUsd": 0.3009, "dayUsd": 0.0481, "weekParts": {"cpu": 0.0, "memory": 0.3009, "disk": 0.0, "egress": 0.0}}, {"project": "generous-kindness", "service": "42bot", "openai": true, "weekUsd": 0.2266, "dayUsd": 0.0331, "weekParts": {"cpu": 0.0, "memory": 0.2241, "disk": 0.0, "egress": 0.0025}}, {"project": "generous-kindness", "service": "Postgres-dev", "openai": false, "weekUsd": 0.1474, "dayUsd": 0.021, "weekParts": {"cpu": 0.0009, "memory": 0.1422, "disk": 0.0043, "egress": 0.0}}, {"project": "vintage", "service": "Postgres", "openai": false, "weekUsd": 0.1275, "dayUsd": 0.0184, "weekParts": {"cpu": 0.0014, "memory": 0.0945, "disk": 0.0316, "egress": 0.0}}, {"project": "travels-history", "service": "Postgres", "openai": false, "weekUsd": 0.1239, "dayUsd": 0.0177, "weekParts": {"cpu": 0.0014, "memory": 0.0908, "disk": 0.0317, "egress": 0.0}}, {"project": "generous-kindness", "service": "Postgres", "openai": false, "weekUsd": 0.0964, "dayUsd": 0.0139, "weekParts": {"cpu": 0.0009, "memory": 0.0913, "disk": 0.0042, "egress": 0.0}}, {"project": "sm-tracker", "service": "web", "openai": false, "weekUsd": 0.0696, "dayUsd": 0.0105, "weekParts": {"cpu": 0.0, "memory": 0.0696, "disk": 0.0, "egress": 0.0}}], "rates": {"source": "https://railway.com/pricing", "checked": "2026-11-07", "cpuUsdPerVcpuSecond": 7.72e-06, "memoryUsdPerGbSecond": 3.86e-06, "diskUsdPerGbSecond": 6e-08, "egressUsdPerGb": 0.05}}, "openai": {"status": "no_invoice", "projects": ["sm-tracker", "vintage", "generous-kindness"], "absent": ["travels-history"]}, "cursor": {"status": "no_invoice"}}</script>
   <script>
@@ -252,8 +228,7 @@
     }
 
     function render(data) {
-      const windowLabel = data.window && data.window.label ? " · окно оценки " + data.window.label : "";
-      document.getElementById("when").textContent = (data.displayTime || "") + windowLabel;
+      document.getElementById("when").textContent = data.displayTime || "";
       const rail = data.railway || {};
       const bill = rail.billing;
       const openai = data.openai || {};
@@ -264,52 +239,42 @@
       if (bill && bill.currentUsd != null) {
         const target = bill.progressTargetUsd || 0;
         const pct = target ? bill.currentUsd / target * 100 : 0;
-        meters.appendChild(meter("Railway", money(bill.currentUsd), bill.detail || "счёт текущего периода", pct, false));
+        const sub = target ? "за период, " + pct.toFixed(0) + "% от " + money(target) : "за период";
+        meters.appendChild(meter("Railway", money(bill.currentUsd), sub, pct, false));
       } else {
         const pct = rail.progressTargetUsd ? rail.runRate30dUsd / rail.progressTargetUsd * 100 : 0;
         meters.appendChild(meter(
           "Railway",
           money(rail.weekUsd || 0),
-          "оценка за 7 суток. Темп " + money(rail.runRate30dUsd || 0) + " / 30 суток, " + pct.toFixed(0) + "% от порога $20",
+          "за 7 суток, темп " + money(rail.runRate30dUsd || 0) + " в месяц",
           pct,
           false
         ));
       }
 
       if (openai.totalUsd != null) {
-        meters.appendChild(meter("OpenAI", money(openai.totalUsd), openai.detail || "счёт", 0, false));
+        const daysCount = (openai.days || []).length;
+        const sub = daysCount ? "за " + daysCount + " суток" : "за период";
+        meters.appendChild(meter("OpenAI", money(openai.totalUsd), sub, 0, false));
       } else {
-        const used = (openai.projects || []).join(", ") || "нет данных";
-        const absent = (openai.absent || []).join(", ");
-        meters.appendChild(meter(
-          "OpenAI",
-          "—",
-          "Счёта пока нет. API есть у " + used + (absent ? ". Нет у " + absent : "") + ".",
-          0,
-          true
-        ));
+        meters.appendChild(meter("OpenAI", "—", "Пока нет данных", 0, true));
       }
 
       if (cursor.spentUsd != null) {
         const pct = cursor.limitUsd ? cursor.spentUsd / cursor.limitUsd * 100 : (cursor.percent || 0);
-        meters.appendChild(meter("Cursor", money(cursor.spentUsd), cursor.detail || "счёт периода", pct, false));
+        const sub = cursor.limitUsd
+          ? pct.toFixed(0) + "% от " + money(cursor.limitUsd)
+          : "за период";
+        meters.appendChild(meter("Cursor", money(cursor.spentUsd), sub, pct, false));
       } else {
-        meters.appendChild(meter(
-          "Cursor",
-          "—",
-          cursor.lastError || "Счёт появится после секрета CURSOR_SESSION_TOKEN или CURSOR_ADMIN_API_KEY.",
-          0,
-          true
-        ));
+        meters.appendChild(meter("Cursor", "—", "Пока нет данных", 0, true));
       }
 
       const billedProjects = bill && bill.projects && bill.projects.length ? bill.projects : null;
       const rows = billedProjects
         ? billedProjects.map((project) => ({ name: project.name, usd: project.usd }))
         : (rail.projects || []).map((project) => ({ name: project.name, usd: project.weekUsd }));
-      document.getElementById("projects-title").textContent = billedProjects
-        ? "Railway: счёт по доле памяти"
-        : "Railway по проектам";
+      document.getElementById("projects-title").textContent = "Railway по проектам";
       const max = Math.max(...rows.map((project) => project.usd), 0.0001);
       const projects = document.getElementById("projects");
       clear("projects");
@@ -330,8 +295,7 @@
         projects.appendChild(row);
       }
       if (billedProjects) {
-        document.getElementById("pace").textContent =
-          "Общий счёт разложен по проектам пропорционально оценке памяти. Это не отдельный счёт каждого проекта.";
+        document.getElementById("pace").textContent = "";
       } else {
         const pace = rail.averageDayUsd ? rail.dayUsd / rail.averageDayUsd : 1;
         const paceWord = pace >= 1
@@ -403,12 +367,6 @@
         });
         body.appendChild(tr);
       }
-
-      const invoiceNote = bill && bill.currentUsd != null
-        ? "<p>Верхняя цифра Railway — поле <code>customer.currentUsage</code>, доллары текущего периода. Нижние таблицы остаются оценкой ресурсов, пока секрет не подложен или оценка ещё нужна для сравнения.</p>"
-        : "<p>Пока секрета Railway нет, верхняя цифра — оценка ресурсов за 7 суток: CPU × $20/vCPU·мес, память × $10/ГБ·мес, диск × $0.15/ГБ·мес, трафик × $0.05/ГБ. Тарифы с <a href=\"https://railway.com/pricing\">railway.com/pricing</a> на 7 ноября 2026. План Pro, абонентка $20. Публичный прайс включает $20 кредита, а запрос лимитов воркспейса вернул кредит $0.</p>";
-      document.getElementById("method").innerHTML = invoiceNote +
-        "<p>OpenAI берётся из <code>/v1/organization/costs</code>. Cursor — из счёта текущего периода дашборда или из admin API команды. Почты, имена участников и ключи на страницу не пишутся.</p>";
     }
 
     fetch("data.json", { cache: "no-store" })
