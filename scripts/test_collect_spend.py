@@ -231,6 +231,27 @@ class ProjectMonthsTest(unittest.TestCase):
         self.assertEqual(collect_spend.match_api_key("Vintage api key", catalog), "vintage")
         self.assertEqual(collect_spend.match_api_key("test agent workflow", catalog), "test agent workflow")
 
+    def test_recent_openai_cost_lands_on_the_matching_service(self):
+        services = [
+            {"project": "generous-kindness", "service": "42bot"},
+            {"project": "generous-kindness", "service": "Postgres"},
+            {"project": "sm-tracker", "service": "pipeline"},
+            {"project": "vintage", "service": "web"},
+        ]
+        catalog = [{"name": service["project"], "services": [service["service"]]} for service in services]
+        rows = collect_spend.service_window_costs(
+            {"k1": 0.5, "k2": 0.2},
+            {"k1": 0.1},
+            {"k1": "42 bot api key", "k2": "Vintage api key"},
+            services,
+            catalog,
+        )
+        by_service = {(row["project"], row["service"]): row for row in rows}
+        self.assertEqual(by_service[("generous-kindness", "42bot")]["week"], 0.5)
+        self.assertEqual(by_service[("generous-kindness", "42bot")]["day"], 0.1)
+        self.assertEqual(by_service[("vintage", "web")]["week"], 0.2)
+        self.assertNotIn(("generous-kindness", "Postgres"), by_service)
+
     def test_openai_service_name_maps_onto_railway_project(self):
         catalog = [
             {"name": "generous-kindness", "services": ["42bot", "Postgres"]},
