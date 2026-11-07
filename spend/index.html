@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Траты Cursor, Railway и OpenAI.">
+  <title>Траты подписок</title>
+  <link rel="icon" href="/favicon.ico">
+  <style>
+    :root {
+      --ink: #1c1915;
+      --muted: #5e584f;
+      --paper: #f3ecdf;
+      --card: #fffaf3;
+      --line: #e3d6c4;
+      --track: #e7dfd2;
+      --rail: #9a3412;
+      --sm: #9a3412;
+      --vintage: #1d4e89;
+      --kind: #3f6212;
+      --travel: #0f766e;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      color: var(--ink);
+      background: var(--paper);
+      font-family: "Iowan Old Style", Palatino, "Palatino Linotype", Georgia, serif;
+      line-height: 1.45;
+    }
+    main {
+      width: min(920px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 36px 0 72px;
+    }
+    header { margin-bottom: 28px; }
+    .kicker {
+      margin: 0 0 8px;
+      font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+      font-size: 12px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+    h1 {
+      margin: 0;
+      font-size: clamp(36px, 6vw, 52px);
+      font-weight: 560;
+      letter-spacing: -0.03em;
+      line-height: 0.95;
+    }
+    .when {
+      margin: 10px 0 0;
+      color: var(--muted);
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 14px;
+    }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 16px 16px 14px;
+      min-height: 196px;
+    }
+    .card h2 {
+      margin: 0;
+      font-size: 15px;
+      font-weight: 600;
+    }
+    .figure {
+      margin: 14px 0 2px;
+      font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+      font-size: 30px;
+      font-variant-numeric: tabular-nums;
+      letter-spacing: -0.04em;
+    }
+    .sub {
+      margin: 0;
+      color: var(--muted);
+      font-size: 14px;
+      min-height: 2.8em;
+    }
+    .track {
+      margin-top: 14px;
+      height: 10px;
+      background: var(--track);
+      border-radius: 99px;
+      overflow: hidden;
+    }
+    .fill {
+      height: 100%;
+      width: 0;
+      background: var(--rail);
+      border-radius: inherit;
+    }
+    .card.empty .track {
+      background: repeating-linear-gradient(-45deg, #efe6d8, #efe6d8 6px, #e4d8c6 6px, #e4d8c6 12px);
+    }
+    section { margin-top: 28px; }
+    h3 {
+      margin: 0 0 12px;
+      font-size: 22px;
+      font-weight: 560;
+    }
+    .panel {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 16px;
+    }
+    .bar-row { display: grid; grid-template-columns: 168px 1fr 72px; gap: 10px; align-items: center; margin: 8px 0; }
+    .bar-row span:last-child, .num {
+      font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+      font-variant-numeric: tabular-nums;
+      text-align: right;
+    }
+    .bar {
+      height: 18px;
+      background: var(--track);
+      border-radius: 6px;
+      overflow: hidden;
+    }
+    .bar i { display: block; height: 100%; border-radius: inherit; }
+    .split { display: flex; height: 18px; border-radius: 6px; overflow: hidden; background: var(--track); }
+    .split i { display: block; height: 100%; }
+    .legend { display: flex; flex-wrap: wrap; gap: 12px 18px; margin-top: 10px; color: var(--muted); font-size: 14px; }
+    .legend b { font-weight: 600; color: var(--ink); }
+    .swatch { display: inline-block; width: 9px; height: 9px; border-radius: 2px; margin-right: 6px; }
+    table { width: 100%; border-collapse: collapse; font-size: 15px; }
+    th, td { padding: 8px 6px; border-bottom: 1px solid var(--line); text-align: left; vertical-align: baseline; }
+    th { color: var(--muted); font-weight: 560; font-size: 13px; }
+    td.num, th.num { text-align: right; }
+    .note { margin: 8px 0 0; color: var(--muted); font-size: 14px; }
+    .days { display: flex; align-items: flex-end; gap: 3px; height: 140px; }
+    .days i {
+      flex: 1;
+      min-width: 6px;
+      background: #1d4e89;
+      border-radius: 3px 3px 0 0;
+      display: block;
+    }
+    a { color: var(--rail); }
+    @media (max-width: 760px) {
+      .grid { grid-template-columns: 1fr; }
+      .bar-row { grid-template-columns: 1fr auto; }
+      .bar-row .bar { grid-column: 1 / -1; }
+      .card { min-height: 0; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <p class="kicker">Cursor, Railway, OpenAI</p>
+      <h1>Прогресс трат</h1>
+      <p class="when" id="when"></p>
+    </header>
+    <div class="grid" id="meters"></div>
+    <section id="days-section" hidden>
+      <h3>OpenAI по дням</h3>
+      <div class="panel">
+        <div class="days" id="days"></div>
+        <p class="note" id="days-note"></p>
+      </div>
+    </section>
+    <section>
+      <h3 id="projects-title">Railway по проектам</h3>
+      <div class="panel">
+        <div id="projects"></div>
+        <p class="note" id="pace"></p>
+      </div>
+    </section>
+    <section>
+      <h3>Из чего сложилась оценка</h3>
+      <div class="panel">
+        <div class="split" id="split"></div>
+        <div class="legend" id="legend"></div>
+      </div>
+    </section>
+    <section>
+      <h3>Оценка сервисов за 7 суток</h3>
+      <div class="panel" style="overflow-x:auto">
+        <table>
+          <thead>
+            <tr>
+              <th>Проект</th>
+              <th>Сервис</th>
+              <th>OpenAI</th>
+              <th class="num">7 суток</th>
+              <th class="num">Сутки</th>
+            </tr>
+          </thead>
+          <tbody id="services"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+  <script id="spend" type="application/json">{"generatedAt": "2026-11-07T09:03:35Z", "displayTime": "7 ноября 2026, 13:03 (Тбилиси)", "window": {"hours": 168, "start": "2026-10-31T09:03:35Z", "end": "2026-11-07T09:03:35Z", "label": "31 октября 13:03 — 7 ноября 13:03 (Тбилиси)"}, "railway": {"status": "estimated", "plan": "Pro", "planFeeUsd": 20, "includedCreditFromLimitsApiUsd": 0, "publishedIncludedCreditUsd": 20, "weekUsd": 2.2294, "dayUsd": 0.3269, "averageDayUsd": 0.3185, "runRate30dUsd": 9.5546, "progressTargetUsd": 20.0, "components": {"cpu": 0.0135, "memory": 2.1386, "disk": 0.0748, "egress": 0.0025}, "projects": [{"name": "sm-tracker", "weekUsd": 0.7594, "dayUsd": 0.1014, "openai": true}, {"name": "vintage", "weekUsd": 0.5748, "dayUsd": 0.0917, "openai": true}, {"name": "generous-kindness", "weekUsd": 0.4704, "dayUsd": 0.068, "openai": true}, {"name": "travels-history", "weekUsd": 0.4248, "dayUsd": 0.0658, "openai": false}], "services": [{"project": "sm-tracker", "service": "pipeline", "openai": true, "weekUsd": 0.6898, "dayUsd": 0.0909, "weekParts": {"cpu": 0.0089, "memory": 0.6779, "disk": 0.003, "egress": 0.0}}, {"project": "vintage", "service": "web", "openai": true, "weekUsd": 0.4473, "dayUsd": 0.0733, "weekParts": {"cpu": 0.0, "memory": 0.4473, "disk": 0.0, "egress": 0.0}}, {"project": "travels-history", "service": "web", "openai": false, "weekUsd": 0.3009, "dayUsd": 0.0481, "weekParts": {"cpu": 0.0, "memory": 0.3009, "disk": 0.0, "egress": 0.0}}, {"project": "generous-kindness", "service": "42bot", "openai": true, "weekUsd": 0.2266, "dayUsd": 0.0331, "weekParts": {"cpu": 0.0, "memory": 0.2241, "disk": 0.0, "egress": 0.0025}}, {"project": "generous-kindness", "service": "Postgres-dev", "openai": false, "weekUsd": 0.1474, "dayUsd": 0.021, "weekParts": {"cpu": 0.0009, "memory": 0.1422, "disk": 0.0043, "egress": 0.0}}, {"project": "vintage", "service": "Postgres", "openai": false, "weekUsd": 0.1275, "dayUsd": 0.0184, "weekParts": {"cpu": 0.0014, "memory": 0.0945, "disk": 0.0316, "egress": 0.0}}, {"project": "travels-history", "service": "Postgres", "openai": false, "weekUsd": 0.1239, "dayUsd": 0.0177, "weekParts": {"cpu": 0.0014, "memory": 0.0908, "disk": 0.0317, "egress": 0.0}}, {"project": "generous-kindness", "service": "Postgres", "openai": false, "weekUsd": 0.0964, "dayUsd": 0.0139, "weekParts": {"cpu": 0.0009, "memory": 0.0913, "disk": 0.0042, "egress": 0.0}}, {"project": "sm-tracker", "service": "web", "openai": false, "weekUsd": 0.0696, "dayUsd": 0.0105, "weekParts": {"cpu": 0.0, "memory": 0.0696, "disk": 0.0, "egress": 0.0}}], "rates": {"source": "https://railway.com/pricing", "checked": "2026-11-07", "cpuUsdPerVcpuSecond": 7.72e-06, "memoryUsdPerGbSecond": 3.86e-06, "diskUsdPerGbSecond": 6e-08, "egressUsdPerGb": 0.05}}, "openai": {"status": "no_invoice", "projects": ["sm-tracker", "vintage", "generous-kindness"], "absent": ["travels-history"]}, "cursor": {"status": "no_invoice"}}</script>
+  <script>
+    const embedded = JSON.parse(document.getElementById("spend").textContent);
+    const colors = {
+      "sm-tracker": "#9a3412",
+      "vintage": "#1d4e89",
+      "generous-kindness": "#3f6212",
+      "travels-history": "#0f766e"
+    };
+    const money = (n) => "$" + Number(n).toFixed(2);
+
+    function meter(title, figure, sub, percent, empty) {
+      const card = document.createElement("article");
+      card.className = "card" + (empty ? " empty" : "");
+      const width = empty ? 0 : Math.max(0, Math.min(100, percent));
+      card.innerHTML =
+        "<h2></h2><p class=\"figure\"></p><p class=\"sub\"></p>" +
+        "<div class=\"track\"><div class=\"fill\"></div></div>";
+      card.querySelector("h2").textContent = title;
+      card.querySelector(".figure").textContent = figure;
+      card.querySelector(".sub").textContent = sub;
+      card.querySelector(".fill").style.width = width + "%";
+      return card;
+    }
+
+    function clear(id) {
+      document.getElementById(id).replaceChildren();
+    }
+
+    function render(data) {
+      document.getElementById("when").textContent = data.displayTime || "";
+      const rail = data.railway || {};
+      const bill = rail.billing;
+      const openai = data.openai || {};
+      const cursor = data.cursor || {};
+      const meters = document.getElementById("meters");
+      clear("meters");
+
+      if (bill && bill.currentUsd != null) {
+        const target = bill.progressTargetUsd || 0;
+        const pct = target ? bill.currentUsd / target * 100 : 0;
+        const sub = target ? "за период, " + pct.toFixed(0) + "% от " + money(target) : "за период";
+        meters.appendChild(meter("Railway", money(bill.currentUsd), sub, pct, false));
+      } else {
+        const pct = rail.progressTargetUsd ? rail.runRate30dUsd / rail.progressTargetUsd * 100 : 0;
+        meters.appendChild(meter(
+          "Railway",
+          money(rail.weekUsd || 0),
+          "за 7 суток, темп " + money(rail.runRate30dUsd || 0) + " в месяц",
+          pct,
+          false
+        ));
+      }
+
+      if (openai.totalUsd != null) {
+        const daysCount = (openai.days || []).length;
+        const sub = daysCount ? "за " + daysCount + " суток" : "за период";
+        meters.appendChild(meter("OpenAI", money(openai.totalUsd), sub, 0, false));
+      } else {
+        meters.appendChild(meter("OpenAI", "—", "Пока нет данных", 0, true));
+      }
+
+      if (cursor.spentUsd != null) {
+        const pct = cursor.limitUsd ? cursor.spentUsd / cursor.limitUsd * 100 : (cursor.percent || 0);
+        const sub = cursor.limitUsd
+          ? pct.toFixed(0) + "% от " + money(cursor.limitUsd)
+          : "за период";
+        meters.appendChild(meter("Cursor", money(cursor.spentUsd), sub, pct, false));
+      } else {
+        meters.appendChild(meter("Cursor", "—", "Пока нет данных", 0, true));
+      }
+
+      const billedProjects = bill && bill.projects && bill.projects.length ? bill.projects : null;
+      const rows = billedProjects
+        ? billedProjects.map((project) => ({ name: project.name, usd: project.usd }))
+        : (rail.projects || []).map((project) => ({ name: project.name, usd: project.weekUsd }));
+      document.getElementById("projects-title").textContent = "Railway по проектам";
+      const max = Math.max(...rows.map((project) => project.usd), 0.0001);
+      const projects = document.getElementById("projects");
+      clear("projects");
+      for (const project of rows) {
+        const row = document.createElement("div");
+        row.className = "bar-row";
+        const name = document.createElement("span");
+        name.textContent = project.name;
+        const bar = document.createElement("div");
+        bar.className = "bar";
+        const fill = document.createElement("i");
+        fill.style.width = (project.usd / max * 100) + "%";
+        fill.style.background = colors[project.name] || "#9a3412";
+        bar.appendChild(fill);
+        const value = document.createElement("span");
+        value.textContent = money(project.usd);
+        row.append(name, bar, value);
+        projects.appendChild(row);
+      }
+      if (billedProjects) {
+        document.getElementById("pace").textContent = "";
+      } else {
+        const pace = rail.averageDayUsd ? rail.dayUsd / rail.averageDayUsd : 1;
+        const paceWord = pace >= 1
+          ? "на " + Math.round((pace - 1) * 100) + "% выше"
+          : "на " + Math.round((1 - pace) * 100) + "% ниже";
+        document.getElementById("pace").textContent =
+          "Последние сутки " + money(rail.dayUsd || 0) + ", средний день этого окна " +
+          money(rail.averageDayUsd || 0) + " — темп " + paceWord + " среднего.";
+      }
+
+      const days = openai.days || [];
+      const daysSection = document.getElementById("days-section");
+      if (days.length) {
+        daysSection.hidden = false;
+        const peak = Math.max(...days.map((day) => day.usd), 0.0001);
+        const chart = document.getElementById("days");
+        clear("days");
+        for (const day of days) {
+          const bar = document.createElement("i");
+          bar.style.height = Math.max(4, day.usd / peak * 120) + "px";
+          bar.title = day.date + " " + money(day.usd);
+          chart.appendChild(bar);
+        }
+        document.getElementById("days-note").textContent =
+          days[0].date + " — " + days[days.length - 1].date + ", вместе " + money(openai.totalUsd || 0);
+      } else {
+        daysSection.hidden = true;
+      }
+
+      const parts = rail.components ? [
+        ["память", rail.components.memory, "#9a3412"],
+        ["диск", rail.components.disk, "#1d4e89"],
+        ["процессор", rail.components.cpu, "#3f6212"],
+        ["исходящий трафик", rail.components.egress, "#0f766e"]
+      ] : [];
+      const split = document.getElementById("split");
+      const legend = document.getElementById("legend");
+      clear("split");
+      clear("legend");
+      for (const [label, value, color] of parts) {
+        const slice = document.createElement("i");
+        slice.style.width = (value / rail.weekUsd * 100) + "%";
+        slice.style.background = color;
+        split.appendChild(slice);
+        const item = document.createElement("span");
+        item.innerHTML = "<i class=\"swatch\"></i><b></b> ";
+        item.querySelector(".swatch").style.background = color;
+        item.querySelector("b").textContent = label;
+        item.append(document.createTextNode(" " + money(value)));
+        legend.appendChild(item);
+      }
+
+      const body = document.getElementById("services");
+      clear("services");
+      for (const service of rail.services || []) {
+        const tr = document.createElement("tr");
+        const cells = [
+          service.project,
+          service.service,
+          service.openai ? "да" : "—",
+          money(service.weekUsd),
+          money(service.dayUsd)
+        ];
+        cells.forEach((text, index) => {
+          const td = document.createElement("td");
+          if (index >= 3) td.className = "num";
+          td.textContent = text;
+          tr.appendChild(td);
+        });
+        body.appendChild(tr);
+      }
+    }
+
+    fetch("data.json", { cache: "no-store" })
+      .then((response) => {
+        if (!response.ok) throw new Error("data");
+        return response.json();
+      })
+      .then(render)
+      .catch(() => render(embedded));
+  </script>
+</body>
+</html>
