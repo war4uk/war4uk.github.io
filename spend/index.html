@@ -99,6 +99,13 @@
     .card.empty .track {
       background: repeating-linear-gradient(-45deg, #efe6d8, #efe6d8 6px, #e4d8c6 6px, #e4d8c6 12px);
     }
+    .quota { margin-top: 12px; }
+    .quota-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 8px;
+      font-size: 14px;
+    }
     section { margin-top: 28px; }
     h3 {
       margin: 0 0 12px;
@@ -247,20 +254,55 @@
       return new Date(Date.UTC(year, month, 1)).toISOString();
     }
 
-    function elapsedPercent(start, end) {
-      const from = parseTime(start);
-      const to = parseTime(end);
-      if (!from || !to) return 0;
-      const span = to.getTime() - from.getTime();
-      if (span <= 0) return 0;
-      return Math.max(0, Math.min(100, (Date.now() - from.getTime()) / span * 100));
+    function limitCard(title, cost, limit, start, end) {
+      if (cost == null || !start || !end) return meter(title, "—", "Пока нет данных", 0, true);
+      const pct = limit ? cost / limit * 100 : 0;
+      const dates = formatDate(start) + " — " + formatDate(end);
+      const sub = limit ? dates + " · " + pct.toFixed(0) + "% от " + money(limit) : dates;
+      return meter(title, money(cost), sub, pct, false);
     }
 
-    function periodCard(title, cost, start, end) {
-      if (cost == null || !start || !end) return meter(title, "—", "Пока нет данных", 0, true);
-      const pct = elapsedPercent(start, end);
-      const sub = formatDate(start) + " — " + formatDate(end) + " · " + pct.toFixed(0) + "% периода";
-      return meter(title, money(cost), sub, pct, false);
+    function quotaRow(label, percent, valueText) {
+      const row = document.createElement("div");
+      row.className = "quota";
+      const head = document.createElement("div");
+      head.className = "quota-head";
+      const name = document.createElement("span");
+      name.textContent = label;
+      const value = document.createElement("span");
+      value.textContent = valueText;
+      head.append(name, value);
+      const track = document.createElement("div");
+      track.className = "track";
+      const fill = document.createElement("div");
+      fill.className = "fill";
+      fill.style.width = Math.max(0, Math.min(100, percent || 0)) + "%";
+      track.appendChild(fill);
+      row.append(head, track);
+      return row;
+    }
+
+    function cursorCard(cursor) {
+      const card = document.createElement("article");
+      card.className = "card";
+      const title = document.createElement("h2");
+      title.textContent = "Cursor";
+      const sub = document.createElement("p");
+      sub.className = "sub";
+      sub.textContent = formatDate(cursor.cycleStart) + " — " + formatDate(cursor.cycleEnd);
+      card.append(title, sub);
+      if (cursor.modelsPercent != null) {
+        card.appendChild(quotaRow("Cursor Models", cursor.modelsPercent, Math.round(cursor.modelsPercent) + "%"));
+      }
+      if (cursor.otherPercent != null) {
+        card.appendChild(quotaRow("Other Models", cursor.otherPercent, Math.round(cursor.otherPercent) + "%"));
+      }
+      if (cursor.onDemandLimitUsd != null) {
+        const used = cursor.onDemandUsd || 0;
+        const pct = cursor.onDemandLimitUsd ? used / cursor.onDemandLimitUsd * 100 : 0;
+        card.appendChild(quotaRow("On-demand", pct, money(used) + " / " + money(cursor.onDemandLimitUsd)));
+      }
+      return card;
     }
 
     function meter(title, figure, sub, percent, empty) {
@@ -292,7 +334,7 @@
 
       const railPeriod = bill && bill.period;
       if (bill && bill.currentUsd != null && railPeriod && railPeriod.start && railPeriod.end) {
-        meters.appendChild(periodCard("Railway", bill.currentUsd, railPeriod.start, railPeriod.end));
+        meters.appendChild(limitCard("Railway", bill.currentUsd, bill.progressTargetUsd, railPeriod.start, railPeriod.end));
       } else {
         meters.appendChild(meter("Railway", "—", "Пока нет данных", 0, true));
       }
@@ -300,13 +342,13 @@
       const openaiSpent = periodSpend(openai);
       if (openaiSpent != null) {
         const start = openai.periodStart || monthStart();
-        meters.appendChild(periodCard("OpenAI", openaiSpent.spent, start, openai.periodEnd || nextMonth(start)));
+        meters.appendChild(limitCard("OpenAI", openaiSpent.spent, openaiSpent.limit, start, openai.periodEnd || nextMonth(start)));
       } else {
         meters.appendChild(meter("OpenAI", "—", "Пока нет данных", 0, true));
       }
 
-      if (cursor.spentUsd != null && cursor.cycleStart && cursor.cycleEnd) {
-        meters.appendChild(periodCard("Cursor", cursor.spentUsd, cursor.cycleStart, cursor.cycleEnd));
+      if (cursor.cycleStart && cursor.cycleEnd && (cursor.modelsPercent != null || cursor.otherPercent != null || cursor.onDemandLimitUsd != null)) {
+        meters.appendChild(cursorCard(cursor));
       } else {
         meters.appendChild(meter("Cursor", "—", "Пока нет данных", 0, true));
       }
