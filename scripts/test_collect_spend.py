@@ -62,7 +62,7 @@ class CollectSpendTest(unittest.TestCase):
             }}}}
 
         collect_spend.request_json = fake
-        billing = collect_spend.collect_railway(token, None, [token])
+        billing = collect_spend.collect_railway(token, None, [token], datetime(2026, 11, 7, tzinfo=timezone.utc))
         self.assertEqual(billing["currentUsd"], 10)
         self.assertEqual(billing["softLimitUsd"], 25)
         self.assertEqual(billing["projects"], [
@@ -84,7 +84,7 @@ class CollectSpendTest(unittest.TestCase):
             ]}} if "estimatedUsage" in (payload or {}).get("query", "") else
             {"data": {"workspace": {"customer": {"currentUsage": 5, "creditBalance": 0, "usageLimit": None}}}}
         )
-        billing = collect_spend.collect_railway(token, None, [token])
+        billing = collect_spend.collect_railway(token, None, [token], datetime(2026, 11, 7, tzinfo=timezone.utc))
         self.assertEqual(billing["projects"][0]["name"], "проект")
         self.assertNotIn(token, json.dumps(billing))
 
@@ -98,6 +98,8 @@ class CollectSpendTest(unittest.TestCase):
         def fake(url, method="GET", payload=None, headers=None):
             if url.endswith("/organization/spend_limit"):
                 return 200, {"threshold_amount": 5000, "interval": "month"}
+            if "/organization/projects" in url or "group_by=project_id" in url:
+                return 200, {"data": [], "has_more": False}
             self.assertIn(f"start_time={month}", url)
             if "page=" not in url:
                 return 200, {"data": [
@@ -204,6 +206,37 @@ class CollectSpendTest(unittest.TestCase):
             self.assertEqual(saved["openai"]["totalUsd"], 0.4)
             self.assertEqual(saved["openai"]["projects"], ["vintage"])
             self.assertEqual(saved["updatedBy"], "github-actions")
+
+
+class ProjectMonthsTest(unittest.TestCase):
+    def test_usage_rows_become_dollars_by_project(self):
+        costs = collect_spend.cost_usage_rows([
+            {"measurement": "CPU_USAGE", "value": 0.1, "tags": {"projectId": "p1"}},
+            {"measurement": "MEMORY_USAGE_GB", "value": 0.2, "tags": {"projectId": "p1"}},
+            {"measurement": "NETWORK_TX_GB", "value": 2, "tags": {"project_id": "p2"}},
+        ])
+        self.assertAlmostEqual(costs["p1"], 0.1 * 20 + 0.2 * 10)
+        self.assertAlmostEqual(costs["p2"], 0.1)
+
+    def test_openai_service_name_maps_onto_railway_project(self):
+        catalog = [
+            {"name": "generous-kindness", "services": ["42bot", "Postgres"]},
+            {"name": "sm-tracker", "services": ["pipeline", "web"]},
+        ]
+        self.assertEqual(collect_spend.match_project_name("42bot", catalog), "generous-kindness")
+        self.assertEqual(collect_spend.match_project_name("sm-tracker", catalog), "sm-tracker")
+
+    def test_project_spend_splits_railway_and_openai(self):
+        rows = collect_spend.build_project_spend(
+            {"current": {"vintage": 1}, "previous": {"vintage": 3}},
+            {"current": {"vintage": 0.5, "42bot": 0.2}, "previous": {"vintage": 1}},
+        )
+        vintage = rows[0]
+        self.assertEqual(vintage["name"], "vintage")
+        self.assertEqual(vintage["current"], 1.5)
+        self.assertEqual(vintage["previous"], 4)
+        self.assertEqual(vintage["railway"]["current"], 1)
+        self.assertEqual(vintage["openai"]["previous"], 1)
 
 
 if __name__ == "__main__":

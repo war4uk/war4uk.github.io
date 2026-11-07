@@ -107,17 +107,117 @@ def graphql(token: str, query: str, variables: dict | None = None):
     return body.get("data") or {}, errors
 
 
+USAGE_RATES = {
+    "CPU_USAGE": 20.0,
+    "CPU_USAGE_2": 20.0,
+    "MEMORY_USAGE_GB": 10.0,
+    "DISK_USAGE_GB": 0.15,
+    "NETWORK_TX_GB": 0.05,
+}
+GENERIC_SERVICES = {"web", "postgres", "postgres-dev", "api", "app"}
+
+
 def railway_projects(token: str):
-    data, errors = graphql(token, "{ projects { edges { node { id name workspaceId } } } }")
+    full = "{ projects { edges { node { id name workspaceId services { edges { node { name } } } } } } }"
+    simple = "{ projects { edges { node { id name workspaceId } } } }"
+    data, errors = graphql(token, full)
+    if errors and not (data.get("projects") or {}):
+        data, errors = graphql(token, simple)
     if errors and not data:
         raise ProviderError(errors[0])
     edges = ((data.get("projects") or {}).get("edges")) or []
     projects = []
     for edge in edges:
         node = (edge or {}).get("node") or {}
-        if node.get("id") and node.get("workspaceId"):
-            projects.append(node)
+        if not node.get("id") or not node.get("workspaceId"):
+            continue
+        services = []
+        for service_edge in ((node.get("services") or {}).get("edges")) or []:
+            service = (service_edge or {}).get("node") or {}
+            if service.get("name"):
+                services.append(service["name"])
+        projects.append({
+            "id": node["id"],
+            "name": node.get("name"),
+            "workspaceId": node["workspaceId"],
+            "services": services,
+        })
     return projects
+
+
+def project_aliases(project: dict) -> set[str]:
+    aliases = set()
+    name = str(project.get("name") or "").strip().lower()
+    if len(name) >= 3:
+        aliases.add(name)
+    for service in project.get("services") or []:
+        service_name = str(service).strip().lower()
+        if len(service_name) >= 3 and service_name not in GENERIC_SERVICES:
+            aliases.add(service_name)
+    return aliases
+
+
+def match_project_name(raw_name: str, catalog: list[dict]) -> str:
+    folded = str(raw_name or "").strip().lower()
+    for project in catalog:
+        if folded in project_aliases(project):
+            return project["name"]
+    for project in catalog:
+        project_name = str(project.get("name") or "").strip().lower()
+        if len(project_name) >= 4 and project_name in folded:
+            return project["name"]
+    return str(raw_name or "").strip() or "проект"
+
+
+def tag_project_id(tags) -> str | None:
+    if not isinstance(tags, dict):
+        return None
+    for key in ("projectId", "project_id", "PROJECT_ID"):
+        if tags.get(key):
+            return str(tags[key])
+    return None
+
+
+def cost_usage_rows(rows) -> dict[str, float]:
+    totals: dict[str, float] = {}
+    for row in rows or []:
+        rate = USAGE_RATES.get(row.get("measurement"))
+        project_id = tag_project_id(row.get("tags") or {})
+        value = number(row.get("value")) or 0.0
+        if rate is None or not project_id:
+            continue
+        totals[project_id] = totals.get(project_id, 0.0) + value * rate
+    return totals
+
+
+def add_amount(bucket: dict, name: str, amount: float):
+    bucket[name] = round(bucket.get(name, 0.0) + amount, 4)
+
+
+def build_project_spend(railway_months, openai_months) -> list[dict]:
+    names = []
+    seen = set()
+    for source in (railway_months or {}, openai_months or {}):
+        for period in ("current", "previous"):
+            for name in (source.get(period) or {}):
+                if name not in seen:
+                    seen.add(name)
+                    names.append(name)
+    rows = []
+    for name in names:
+        railway_current = ((railway_months or {}).get("current") or {}).get(name, 0.0)
+        railway_previous = ((railway_months or {}).get("previous") or {}).get(name, 0.0)
+        openai_current = ((openai_months or {}).get("current") or {}).get(name, 0.0)
+        openai_previous = ((openai_months or {}).get("previous") or {}).get(name, 0.0)
+        rows.append({
+            "name": name,
+            "current": round(railway_current + openai_current, 4),
+            "previous": round(railway_previous + openai_previous, 4),
+            "railway": {"current": round(railway_current, 4), "previous": round(railway_previous, 4)},
+            "openai": {"current": round(openai_current, 4), "previous": round(openai_previous, 4)},
+        })
+    rows.sort(key=lambda row: row["current"] + row["previous"], reverse=True)
+    return rows
 
 
 def railway_customer(token: str, workspace_id: str):
@@ -180,7 +280,43 @@ def number(value):
         return None
 
 
-def collect_railway(token: str, workspace_id: str | None, secrets: list[str]):
+def railway_window(token: str, workspace_id: str, start: datetime, end: datetime) -> dict[str, float]:
+    query = """
+    query ($id: String!, $start: DateTime!, $end: DateTime!) {
+      usage(
+        workspaceId: $id
+        startDate: $start
+        endDate: $end
+        measurements: [CPU_USAGE, MEMORY_USAGE_GB, NETWORK_TX_GB, DISK_USAGE_GB]
+        groupBy: [PROJECT_ID]
+      ) {
+        measurement
+        value
+        tags
+      }
+    }
+    """
+    data, errors = graphql(token, query, {
+        "id": workspace_id,
+        "start": start.strftime("%Y-%m-%dT%H:%M:%S.000Z"),
+        "end": end.strftime("%Y-%m-%dT%H:%M:%S.000Z"),
+    })
+    if errors and not data.get("usage"):
+        print(f"railway usage: {errors[0]}", flush=True)
+        return {}
+    return cost_usage_rows(data.get("usage"))
+
+
+def month_pair(now: datetime):
+    current_start = period_start(now)
+    if current_start.month == 1:
+        previous_start = current_start.replace(year=current_start.year - 1, month=12)
+    else:
+        previous_start = current_start.replace(month=current_start.month - 1)
+    return previous_start, current_start
+
+
+def collect_railway(token: str, workspace_id: str | None, secrets: list[str], now: datetime):
     projects = railway_projects(token)
     names = {project["id"]: public_name(project.get("name"), secrets) for project in projects}
     workspaces = []
@@ -223,6 +359,19 @@ def collect_railway(token: str, workspace_id: str | None, secrets: list[str]):
             for name, value in memory.items():
                 allocated[name] = allocated.get(name, 0.0) + usage * value / memory_total
 
+    previous_start, current_start = month_pair(now)
+    current_named: dict[str, float] = {}
+    previous_named: dict[str, float] = {}
+    for workspace in workspaces:
+        for project_id, amount in railway_window(token, workspace, current_start, now).items():
+            add_amount(current_named, names.get(project_id) or "проект", amount)
+        for project_id, amount in railway_window(token, workspace, previous_start, current_start).items():
+            add_amount(previous_named, names.get(project_id) or "проект", amount)
+    print(
+        f"railway months: current ${sum(current_named.values()):.2f}, previous ${sum(previous_named.values()):.2f}",
+        flush=True,
+    )
+
     target = None
     target_label = "лимит в Railway не задан, шкала $20"
     if soft and soft > 0:
@@ -248,6 +397,11 @@ def collect_railway(token: str, workspace_id: str | None, secrets: list[str]):
         "progressTargetUsd": target,
         "detail": detail,
         "period": period,
+        "months": {"current": current_named, "previous": previous_named},
+        "catalog": [
+            {"name": names.get(project["id"]) or "проект", "services": project.get("services") or []}
+            for project in projects
+        ],
     }
     if allocated:
         billing["allocation"] = "memory-share"
@@ -281,7 +435,54 @@ def openai_limit_usd(key: str):
     return round(cents / 100, 4)
 
 
-def collect_openai(key: str, now: datetime):
+def openai_project_names(key: str, secrets: list[str]) -> dict[str, str]:
+    try:
+        status, body = request_json(
+            "https://api.openai.com/v1/organization/projects?limit=100",
+            headers={"Authorization": f"Bearer {key}"},
+        )
+    except ProviderError as error:
+        print(f"openai projects: {redact(error, secrets)}", flush=True)
+        return {}
+    if status != 200 or not isinstance(body, dict):
+        return {}
+    names = {}
+    for item in body.get("data") or []:
+        if item.get("id"):
+            names[item["id"]] = public_name(item.get("name"), secrets)
+    return names
+
+
+def openai_costs_by_project(key: str, start: datetime, end: datetime) -> dict[str, float]:
+    page = None
+    totals: dict[str, float] = {}
+    for _ in range(12):
+        query = (
+            f"start_time={int(start.timestamp())}&end_time={int(end.timestamp())}"
+            f"&bucket_width=1d&limit=31&group_by=project_id"
+        )
+        if page:
+            query += "&page=" + urllib.parse.quote(page)
+        status, body = request_json(
+            OPENAI_COSTS + "?" + query,
+            headers={"Authorization": f"Bearer {key}"},
+        )
+        if status != 200 or not isinstance(body, dict):
+            raise ProviderError(f"OpenAI HTTP {status}")
+        for bucket in body.get("data") or []:
+            for result in bucket.get("results") or []:
+                value = number(((result or {}).get("amount") or {}).get("value"))
+                if value is None:
+                    continue
+                project_id = (result or {}).get("project_id") or "без проекта"
+                totals[project_id] = totals.get(project_id, 0.0) + value
+        if not body.get("has_more") or not body.get("next_page"):
+            break
+        page = str(body["next_page"])
+    return {key: round(value, 4) for key, value in totals.items()}
+
+
+def collect_openai(key: str, now: datetime, secrets: list[str] | None = None, catalog: list[dict] | None = None):
     start = period_start(now)
     limit = openai_limit_usd(key)
     page = None
@@ -314,6 +515,29 @@ def collect_openai(key: str, now: datetime):
         page = str(body["next_page"])
     days = [{"date": day, "usd": round(amount, 4)} for day, amount in sorted(totals.items())]
     total = round(sum(item["usd"] for item in days), 4)
+    known_secrets = secrets or []
+    known_catalog = catalog or []
+    previous_start, current_start = month_pair(now)
+    project_names = openai_project_names(key, known_secrets)
+    try:
+        current_ids = openai_costs_by_project(key, current_start, now)
+        previous_ids = openai_costs_by_project(key, previous_start, current_start)
+    except ProviderError as error:
+        print(f"openai projects costs: {redact(error, known_secrets)}", flush=True)
+        current_ids, previous_ids = {}, {}
+
+    def named(by_id: dict[str, float]) -> dict[str, float]:
+        named_costs: dict[str, float] = {}
+        for project_id, amount in by_id.items():
+            raw_name = project_names.get(project_id) or project_id
+            add_amount(named_costs, match_project_name(raw_name, known_catalog), amount)
+        return named_costs
+
+    months = {"current": named(current_ids), "previous": named(previous_ids)}
+    print(
+        f"openai months: current ${sum(months['current'].values()):.2f}, previous ${sum(months['previous'].values()):.2f}",
+        flush=True,
+    )
     return {
         "status": "invoice",
         "source": "organization.costs",
@@ -322,6 +546,7 @@ def collect_openai(key: str, now: datetime):
         "periodStart": start.date().isoformat(),
         "periodEnd": (start.replace(year=start.year + 1, month=1) if start.month == 12 else start.replace(month=start.month + 1)).date().isoformat(),
         "days": days,
+        "months": months,
         "detail": "за период",
     }
 
@@ -442,7 +667,7 @@ def update(data: dict, now: datetime):
     if railway_token:
         try:
             data.setdefault("railway", {})["billing"] = collect_railway(
-                railway_token, secret("RAILWAY_WORKSPACE_ID"), secrets
+                railway_token, secret("RAILWAY_WORKSPACE_ID"), secrets, now
             )
             data["railway"].pop("lastError", None)
             lines.append(f"railway: ${data['railway']['billing']['currentUsd']:.2f}")
@@ -456,7 +681,8 @@ def update(data: dict, now: datetime):
     openai_key = secret("OPENAI_ADMIN_KEY")
     if openai_key:
         try:
-            fresh = collect_openai(openai_key, now)
+            catalog = ((data.get("railway") or {}).get("billing") or {}).get("catalog") or []
+            fresh = collect_openai(openai_key, now, secrets, catalog)
             previous = data.get("openai") or {}
             fresh["projects"] = previous.get("projects") or []
             fresh["absent"] = previous.get("absent") or []
@@ -483,6 +709,14 @@ def update(data: dict, now: datetime):
         lines.append("cursor: секрет CURSOR_SESSION_TOKEN или CURSOR_ADMIN_API_KEY не задан")
 
     if changed:
+        previous_start, current_start = month_pair(now)
+        railway_months = ((data.get("railway") or {}).get("billing") or {}).get("months")
+        openai_months = (data.get("openai") or {}).get("months")
+        data["projectSpend"] = {
+            "currentMonth": current_start.strftime("%Y-%m"),
+            "previousMonth": previous_start.strftime("%Y-%m"),
+            "projects": build_project_spend(railway_months, openai_months),
+        }
         data["generatedAt"] = now.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
         data["displayTime"] = format_tbilisi(now)
         data["updatedBy"] = "github-actions"
