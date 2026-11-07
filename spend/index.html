@@ -118,6 +118,11 @@
       border-radius: 16px;
       padding: 16px;
     }
+    .project { padding: 14px 0; border-bottom: 1px solid var(--line); }
+    .project:last-child { border-bottom: 0; }
+    .project h4 { margin: 0 0 6px; font-size: 20px; }
+    .project p { margin: 3px 0; }
+    .project .kind { color: var(--muted); }
     .bar-row { display: grid; grid-template-columns: 168px 1fr 72px; gap: 10px; align-items: center; margin: 8px 0; }
     .bar-row span:last-child, .num {
       font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
@@ -174,7 +179,7 @@
       </div>
     </section>
     <section>
-      <h3 id="projects-title">Railway по проектам</h3>
+      <h3 id="projects-title">Траты по проектам</h3>
       <div class="panel">
         <div id="projects"></div>
         <p class="note" id="pace"></p>
@@ -353,40 +358,39 @@
         meters.appendChild(meter("Cursor", "—", "Пока нет данных", 0, true));
       }
 
-      const billedProjects = bill && bill.projects && bill.projects.length ? bill.projects : null;
-      const rows = billedProjects
-        ? billedProjects.map((project) => ({ name: project.name, usd: project.usd }))
-        : (rail.projects || []).map((project) => ({ name: project.name, usd: project.weekUsd }));
-      document.getElementById("projects-title").textContent = "Railway по проектам";
-      const max = Math.max(...rows.map((project) => project.usd), 0.0001);
+      const monthNames = "январь февраль март апрель май июнь июль август сентябрь октябрь ноябрь декабрь".split(" ");
+      function monthTitle(isoMonth) {
+        const month = Number(String(isoMonth || "").split("-")[1]);
+        return monthNames[month - 1] || "";
+      }
+      function pair(current, previous, currentMonth, previousMonth) {
+        return money(current) + " пока за " + currentMonth + " — " + money(previous) + " всего за " + previousMonth;
+      }
+      const spend = data.projectSpend;
       const projects = document.getElementById("projects");
       clear("projects");
-      for (const project of rows) {
-        const row = document.createElement("div");
-        row.className = "bar-row";
-        const name = document.createElement("span");
-        name.textContent = project.name;
-        const bar = document.createElement("div");
-        bar.className = "bar";
-        const fill = document.createElement("i");
-        fill.style.width = (project.usd / max * 100) + "%";
-        fill.style.background = colors[project.name] || "#9a3412";
-        bar.appendChild(fill);
-        const value = document.createElement("span");
-        value.textContent = money(project.usd);
-        row.append(name, bar, value);
-        projects.appendChild(row);
-      }
-      if (billedProjects) {
+      if (spend && (spend.projects || []).length) {
+        const currentMonth = monthTitle(spend.currentMonth);
+        const previousMonth = monthTitle(spend.previousMonth);
+        for (const project of spend.projects) {
+          const block = document.createElement("section");
+          block.className = "project";
+          const title = document.createElement("h4");
+          title.textContent = project.name;
+          const total = document.createElement("p");
+          total.textContent = pair(project.current, project.previous, currentMonth, previousMonth);
+          const railwayLine = document.createElement("p");
+          railwayLine.className = "kind";
+          railwayLine.textContent = "Railway — " + pair(project.railway.current, project.railway.previous, currentMonth, previousMonth);
+          const openaiLine = document.createElement("p");
+          openaiLine.className = "kind";
+          openaiLine.textContent = "OpenAI — " + pair(project.openai.current, project.openai.previous, currentMonth, previousMonth);
+          block.append(title, total, railwayLine, openaiLine);
+          projects.appendChild(block);
+        }
         document.getElementById("pace").textContent = "";
       } else {
-        const pace = rail.averageDayUsd ? rail.dayUsd / rail.averageDayUsd : 1;
-        const paceWord = pace >= 1
-          ? "на " + Math.round((pace - 1) * 100) + "% выше"
-          : "на " + Math.round((1 - pace) * 100) + "% ниже";
-        document.getElementById("pace").textContent =
-          "Последние сутки " + money(rail.dayUsd || 0) + ", средний день этого окна " +
-          money(rail.averageDayUsd || 0) + " — темп " + paceWord + " среднего.";
+        document.getElementById("pace").textContent = "По проектам появится после следующего снимка.";
       }
 
       const days = (openaiSpent && openaiSpent.days) || [];
