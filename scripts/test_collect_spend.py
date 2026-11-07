@@ -125,8 +125,23 @@ class CollectSpendTest(unittest.TestCase):
         })
         result = collect_spend.collect_cursor_session("session-token")
         self.assertEqual(result["spentUsd"], 15.16)
+        self.assertEqual(result["includedUsd"], 15.16)
         self.assertEqual(result["limitUsd"], 20)
         self.assertEqual(result["percent"], 75.8)
+
+    def test_cursor_allowance_ignores_bonus_above_the_limit(self):
+        collect_spend.request_json = lambda url, method="GET", payload=None, headers=None: (200, {
+            "billingCycleStart": "1793696910000",
+            "billingCycleEnd": "1796288910000",
+            "planUsage": {"totalSpend": 4678, "includedSpend": 2000, "bonusSpend": 2678, "limit": 2000},
+            "spendLimitUsage": {"totalSpend": 0, "individualLimit": 0},
+        })
+        result = collect_spend.collect_cursor_session("session-token")
+        self.assertEqual(result["includedUsd"], 20)
+        self.assertEqual(result["spentUsd"], 20)
+        self.assertEqual(result["totalUsd"], 46.78)
+        self.assertEqual(result["bonusUsd"], 26.78)
+        self.assertEqual(result["percent"], 100)
         with self.assertRaises(collect_spend.ProviderError):
             collect_spend.collect_cursor_session("bad;token=evil")
 
