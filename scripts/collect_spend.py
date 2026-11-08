@@ -499,22 +499,67 @@ def period_start(now: datetime) -> datetime:
     return current.replace(day=1, hour=0, minute=0, second=0, microsecond=0)
 
 
-def openai_limit_usd(key: str):
-    try:
-        status, body = request_json(
-            "https://api.openai.com/v1/organization/spend_limit",
-            headers={"Authorization": f"Bearer {key}"},
-        )
-    except ProviderError as error:
-        if str(error).startswith("HTTP 404"):
-            return None
-        raise
-    if status != 200 or not isinstance(body, dict):
+def spend_threshold_usd(body) -> float | None:
+    if not isinstance(body, dict):
         return None
     cents = number(body.get("threshold_amount"))
-    if cents is None:
+    if cents is None or cents <= 0:
         return None
     return round(cents / 100, 4)
+
+
+def openai_get(key: str, url: str):
+    try:
+        return request_json(url, headers={"Authorization": f"Bearer {key}"})
+    except ProviderError as error:
+        if str(error).startswith("HTTP 404"):
+            return 404, None
+        raise
+
+
+def openai_limit_usd(key: str, project_ids: list[str]) -> float | None:
+    status, body = openai_get(key, "https://api.openai.com/v1/organization/spend_limit")
+    org = spend_threshold_usd(body) if status == 200 else None
+    if org is not None:
+        print(f"openai limit: ${org:.2f}", flush=True)
+        return org
+    project_limits = []
+    for project_id in project_ids:
+        status, body = openai_get(
+            key,
+            "https://api.openai.com/v1/organization/projects/"
+            + urllib.parse.quote(project_id, safe="")
+            + "/spend_limit",
+        )
+        value = spend_threshold_usd(body) if status == 200 else None
+        if value is not None:
+            project_limits.append(value)
+    if project_limits:
+        limit = round(sum(project_limits), 4)
+        print(f"openai limit: ${limit:.2f}", flush=True)
+        return limit
+    alert_caps = []
+    alert_urls = ["https://api.openai.com/v1/organization/spend_alerts?limit=100"]
+    alert_urls.extend(
+        "https://api.openai.com/v1/organization/projects/"
+        + urllib.parse.quote(project_id, safe="")
+        + "/spend_alerts?limit=100"
+        for project_id in project_ids
+    )
+    for url in alert_urls:
+        status, body = openai_get(key, url)
+        if status != 200 or not isinstance(body, dict):
+            continue
+        for item in body.get("data") or []:
+            value = spend_threshold_usd(item)
+            if value is not None:
+                alert_caps.append(value)
+    if not alert_caps:
+        print("openai limit: not set", flush=True)
+        return None
+    limit = round(max(alert_caps), 4)
+    print(f"openai limit: ${limit:.2f}", flush=True)
+    return limit
 
 
 def openai_project_names(key: str, secrets: list[str]) -> dict[str, str]:
@@ -585,7 +630,6 @@ def openai_key_names(key: str, project_ids: list[str], secrets: list[str]) -> di
 
 def collect_openai(key: str, now: datetime, secrets: list[str] | None = None, catalog: list[dict] | None = None, services: list[dict] | None = None):
     start = period_start(now)
-    limit = openai_limit_usd(key)
     page = None
     totals: dict[str, float] = {}
     for _ in range(12):
@@ -620,6 +664,7 @@ def collect_openai(key: str, now: datetime, secrets: list[str] | None = None, ca
     known_catalog = catalog or []
     previous_start, current_start = month_pair(now)
     project_names = openai_project_names(key, known_secrets)
+    limit = openai_limit_usd(key, list(project_names))
     catalog_names = {project["name"] for project in known_catalog} | {project for _, project in OPENAI_KEY_RULES}
     key_names = openai_key_names(key, list(project_names), known_secrets)
     try:
@@ -654,6 +699,19 @@ def collect_openai(key: str, now: datetime, secrets: list[str] | None = None, ca
             "current": named(current_projects, project_names, False),
             "previous": named(previous_projects, project_names, False),
         }
+    def cover_gap(bucket: dict[str, float], expected: float):
+        leftover = bucket.pop("Default project", 0.0)
+        gap = round(expected - (sum(bucket.values()) + leftover), 4)
+        extra = round(leftover + (gap if abs(gap) >= 0.005 else 0.0), 4)
+        if abs(extra) >= 0.005:
+            add_amount(bucket, "Не привязано", extra)
+
+    try:
+        previous_total = round(sum(openai_grouped_costs(key, previous_start, current_start, "line_item").values()), 4)
+    except ProviderError:
+        previous_total = round(sum(months["previous"].values()), 4)
+    cover_gap(months["current"], total)
+    cover_gap(months["previous"], previous_total)
     print(
         f"openai months: current ${sum(months['current'].values()):.2f}, previous ${sum(months['previous'].values()):.2f}",
         flush=True,
