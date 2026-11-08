@@ -119,6 +119,45 @@ class CollectSpendTest(unittest.TestCase):
         self.assertEqual(result["days"], [{"date": "2026-11-04", "usd": 1.75}])
         self.assertNotIn(key, json.dumps(result))
 
+    def test_openai_project_budget_is_the_monthly_limit(self):
+        now = datetime(2026, 11, 8, tzinfo=timezone.utc)
+        november = int(datetime(2026, 11, 4, tzinfo=timezone.utc).timestamp())
+
+        def fake(url, method="GET", payload=None, headers=None):
+            if url.endswith("/organization/spend_limit") or url.endswith("/spend_limit"):
+                if url.endswith("/projects/proj_default/spend_limit"):
+                    return 200, {"threshold_amount": 1000, "interval": "month"}
+                raise collect_spend.ProviderError("HTTP 404")
+            if url.endswith("/organization/projects?limit=100"):
+                return 200, {"data": [{"id": "proj_default", "name": "Default project"}]}
+            if "/api_keys" in url or "group_by=" in url or "/spend_alerts" in url:
+                return 200, {"data": [], "has_more": False}
+            return 200, {"data": [{
+                "start_time": november,
+                "results": [{"amount": {"value": 1.93}}],
+            }], "has_more": False}
+
+        collect_spend.request_json = fake
+        result = collect_spend.collect_openai("sk-admin-test-value", now)
+        self.assertEqual(result["totalUsd"], 1.93)
+        self.assertEqual(result["limitUsd"], 10)
+
+    def test_openai_alert_threshold_fills_in_when_no_spend_limit(self):
+        now = datetime(2026, 11, 8, tzinfo=timezone.utc)
+
+        def fake(url, method="GET", payload=None, headers=None):
+            if url.endswith("/spend_limit"):
+                raise collect_spend.ProviderError("HTTP 404")
+            if url.endswith("/organization/projects?limit=100"):
+                return 200, {"data": [{"id": "proj_default", "name": "Default project"}]}
+            if url.endswith("/spend_alerts?limit=100"):
+                return 200, {"data": [{"threshold_amount": 500}, {"threshold_amount": 1000}]}
+            return 200, {"data": [], "has_more": False}
+
+        collect_spend.request_json = fake
+        result = collect_spend.collect_openai("sk-admin-test-value", now)
+        self.assertEqual(result["limitUsd"], 10)
+
     def test_cursor_session_converts_cents_and_rejects_cookie_injection(self):
         collect_spend.request_json = lambda url, method="GET", payload=None, headers=None: (200, {
             "billingCycleStart": "1787040553000",
