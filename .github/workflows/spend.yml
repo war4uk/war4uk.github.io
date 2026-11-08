@@ -6,7 +6,9 @@ name: Spend snapshot
 on:
   workflow_dispatch:
   schedule:
-    - cron: "15 5 * * *"
+    # Every 4 hours at minute 15 UTC: 00:15, 04:15, 08:15, 12:15, 16:15, 20:15.
+    # That is 04:15, 08:15, 12:15, 16:15, 20:15, and 00:15 in Tbilisi (UTC+4).
+    - cron: "15 */4 * * *"
 
 permissions:
   contents: write
