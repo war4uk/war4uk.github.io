@@ -98,7 +98,7 @@ class CollectSpendTest(unittest.TestCase):
         def fake(url, method="GET", payload=None, headers=None):
             if url.endswith("/organization/spend_limit"):
                 return 200, {"threshold_amount": 5000, "interval": "month"}
-            if "/organization/projects" in url or "group_by=project_id" in url:
+            if "/organization/projects" in url or "group_by=" in url or "/api_keys" in url:
                 return 200, {"data": [], "has_more": False}
             self.assertIn(f"start_time={month}", url)
             if "page=" not in url:

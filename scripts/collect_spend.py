@@ -654,10 +654,25 @@ def collect_openai(key: str, now: datetime, secrets: list[str] | None = None, ca
             "current": named(current_projects, project_names, False),
             "previous": named(previous_projects, project_names, False),
         }
+    def cover_gap(bucket: dict[str, float], expected: float):
+        leftover = bucket.pop("Default project", 0.0)
+        gap = round(expected - (sum(bucket.values()) + leftover), 4)
+        extra = round(leftover + (gap if abs(gap) >= 0.005 else 0.0), 4)
+        if abs(extra) >= 0.005:
+            add_amount(bucket, "Не привязано", extra)
+
+    try:
+        previous_total = round(sum(openai_grouped_costs(key, previous_start, current_start, "line_item").values()), 4)
+    except ProviderError:
+        previous_total = round(sum(months["previous"].values()), 4)
+    cover_gap(months["current"], total)
+    cover_gap(months["previous"], previous_total)
     print(
         f"openai months: current ${sum(months['current'].values()):.2f}, previous ${sum(months['previous'].values()):.2f}",
         flush=True,
     )
+    if limit is None:
+        print("openai limit: not set", flush=True)
     week_keys: dict[str, float] = {}
     day_keys: dict[str, float] = {}
     if key_names:
