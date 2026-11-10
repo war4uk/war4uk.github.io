@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T02:45:03Z",
-  "displayTime": "10 ноября 2026, 06:45 (Тбилиси)",
+  "generatedAt": "2026-11-10T12:40:53Z",
+  "displayTime": "10 ноября 2026, 16:40 (Тбилиси)",
   "window": {
     "hours": 168,
     "start": "2026-10-31T09:03:35Z",
@@ -180,22 +180,23 @@
     "billing": {
       "status": "invoice",
       "source": "customer.currentUsage",
-      "currentUsd": 0.0909,
+      "currentUsd": 0.1902,
       "creditBalanceUsd": 0.0,
       "softLimitUsd": null,
       "hardLimitUsd": null,
       "progressTargetUsd": 20.0,
-      "detail": "за период, 0% от $20",
+      "detail": "за период, 1% от $20",
       "period": {
         "start": "2026-11-09T16:14:59.000Z",
         "end": "2026-12-09T16:14:59.000Z"
       },
       "months": {
         "current": {
-          "sm-tracker": 0.0925,
-          "vintage": 0.737,
-          "travels-history": 0.5539,
-          "generous-kindness": 0.6247
+          "sm-tracker": 0.0986,
+          "vintage": 0.7659,
+          "travels-history": 0.5814,
+          "generous-kindness": 0.6509,
+          "clank": 0.0109
         },
         "previous": {
           "sm-tracker": 0.2895,
@@ -205,6 +206,13 @@
         }
       },
       "catalog": [
+        {
+          "name": "clank",
+          "services": [
+            "Postgres",
+            "web"
+          ]
+        },
         {
           "name": "vintage",
           "services": [
@@ -239,19 +247,23 @@
       "projects": [
         {
           "name": "vintage",
-          "usd": 0.0329
+          "usd": 0.0679
         },
         {
           "name": "generous-kindness",
-          "usd": 0.0292
+          "usd": 0.0604
         },
         {
           "name": "travels-history",
-          "usd": 0.025
+          "usd": 0.0522
         },
         {
           "name": "sm-tracker",
-          "usd": 0.0038
+          "usd": 0.0082
+        },
+        {
+          "name": "clank",
+          "usd": 0.0015
         }
       ]
     }
@@ -259,7 +271,7 @@
   "openai": {
     "status": "invoice",
     "source": "organization.costs",
-    "totalUsd": 2.0193,
+    "totalUsd": 2.0223,
     "limitUsd": 10.0,
     "periodStart": "2026-11-01",
     "periodEnd": "2026-12-01",
@@ -302,14 +314,15 @@
       },
       {
         "date": "2026-11-10",
-        "usd": 0.004
+        "usd": 0.007
       }
     ],
     "months": {
       "current": {
         "sm-tracker": 0.6281,
         "generous-kindness": 1.3852,
-        "vintage": 0.0019
+        "vintage": 0.0019,
+        "Не привязано": 0.0071
       },
       "previous": {
         "generous-kindness": 0.3777,
@@ -330,10 +343,10 @@
   "cursor": {
     "status": "invoice",
     "source": "dashboard.current-period",
-    "spentUsd": 221.19,
+    "spentUsd": 270.76,
     "includedUsd": 20.0,
     "limitUsd": 20.0,
-    "modelsPercent": 46.586666666666666,
+    "modelsPercent": 57.602222222222224,
     "otherPercent": 100.0,
     "onDemandUsd": 10.53,
     "onDemandLimitUsd": 10.0,
@@ -348,10 +361,10 @@
     "projects": [
       {
         "name": "generous-kindness",
-        "current": 2.0099,
+        "current": 2.0361,
         "previous": 2.5043,
         "railway": {
-          "current": 0.6247,
+          "current": 0.6509,
           "previous": 2.1266
         },
         "openai": {
@@ -361,10 +374,10 @@
       },
       {
         "name": "vintage",
-        "current": 0.7389,
+        "current": 0.7678,
         "previous": 2.3613,
         "railway": {
-          "current": 0.737,
+          "current": 0.7659,
           "previous": 2.3613
         },
         "openai": {
@@ -374,10 +387,10 @@
       },
       {
         "name": "travels-history",
-        "current": 0.5539,
+        "current": 0.5814,
         "previous": 1.928,
         "railway": {
-          "current": 0.5539,
+          "current": 0.5814,
           "previous": 1.928
         },
         "openai": {
@@ -387,10 +400,10 @@
       },
       {
         "name": "sm-tracker",
-        "current": 0.7206,
+        "current": 0.7267,
         "previous": 0.653,
         "railway": {
-          "current": 0.0925,
+          "current": 0.0986,
           "previous": 0.2895
         },
         "openai": {
@@ -399,15 +412,28 @@
         }
       },
       {
+        "name": "clank",
+        "current": 0.0109,
+        "previous": 0.0,
+        "railway": {
+          "current": 0.0109,
+          "previous": 0.0
+        },
+        "openai": {
+          "current": 0.0,
+          "previous": 0.0
+        }
+      },
+      {
         "name": "Не привязано",
-        "current": 0.0,
+        "current": 0.0071,
         "previous": 12.7575,
         "railway": {
           "current": 0.0,
           "previous": 0.0
         },
         "openai": {
-          "current": 0.0,
+          "current": 0.0071,
           "previous": 12.7575
         }
       }
