@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T16:12:28Z",
-  "displayTime": "11 ноября 2026, 20:12 (Тбилиси)",
+  "generatedAt": "2026-11-11T22:44:39Z",
+  "displayTime": "12 ноября 2026, 02:44 (Тбилиси)",
   "window": {
     "hours": 168,
     "start": "2026-10-31T09:03:35Z",
@@ -180,7 +180,7 @@
     "billing": {
       "status": "invoice",
       "source": "customer.currentUsage",
-      "currentUsd": 0.5431,
+      "currentUsd": 0.622,
       "creditBalanceUsd": 0.0,
       "softLimitUsd": null,
       "hardLimitUsd": null,
@@ -192,11 +192,11 @@
       },
       "months": {
         "current": {
-          "sm-tracker": 0.1116,
-          "vintage": 0.8457,
-          "travels-history": 0.6663,
-          "generous-kindness": 0.7188,
-          "clank": 0.119
+          "sm-tracker": 0.1137,
+          "vintage": 0.8644,
+          "travels-history": 0.6848,
+          "generous-kindness": 0.7361,
+          "clank": 0.1413
         },
         "previous": {
           "sm-tracker": 0.2895,
@@ -247,23 +247,23 @@
       "projects": [
         {
           "name": "vintage",
-          "usd": 0.1763
+          "usd": 0.1982
         },
         {
           "name": "generous-kindness",
-          "usd": 0.1565
+          "usd": 0.1771
         },
         {
           "name": "travels-history",
-          "usd": 0.1442
+          "usd": 0.1643
         },
         {
           "name": "clank",
-          "usd": 0.0438
+          "usd": 0.0575
         },
         {
           "name": "sm-tracker",
-          "usd": 0.0223
+          "usd": 0.0249
         }
       ]
     }
@@ -271,7 +271,7 @@
   "openai": {
     "status": "invoice",
     "source": "organization.costs",
-    "totalUsd": 2.0361,
+    "totalUsd": 2.0394,
     "limitUsd": 10.0,
     "periodStart": "2026-11-01",
     "periodEnd": "2026-12-01",
@@ -318,7 +318,7 @@
       },
       {
         "date": "2026-11-11",
-        "usd": 0.0075
+        "usd": 0.0108
       }
     ],
     "months": {
@@ -326,7 +326,7 @@
         "sm-tracker": 0.6414,
         "generous-kindness": 1.3852,
         "vintage": 0.0019,
-        "Не привязано": 0.0076
+        "Не привязано": 0.0109
       },
       "previous": {
         "generous-kindness": 0.3777,
@@ -365,10 +365,10 @@
     "projects": [
       {
         "name": "generous-kindness",
-        "current": 2.104,
+        "current": 2.1213,
         "previous": 2.5043,
         "railway": {
-          "current": 0.7188,
+          "current": 0.7361,
           "previous": 2.1266
         },
         "openai": {
@@ -378,10 +378,10 @@
       },
       {
         "name": "vintage",
-        "current": 0.8476,
+        "current": 0.8663,
         "previous": 2.3613,
         "railway": {
-          "current": 0.8457,
+          "current": 0.8644,
           "previous": 2.3613
         },
         "openai": {
@@ -391,10 +391,10 @@
       },
       {
         "name": "travels-history",
-        "current": 0.6663,
+        "current": 0.6848,
         "previous": 1.928,
         "railway": {
-          "current": 0.6663,
+          "current": 0.6848,
           "previous": 1.928
         },
         "openai": {
@@ -404,10 +404,10 @@
       },
       {
         "name": "sm-tracker",
-        "current": 0.753,
+        "current": 0.7551,
         "previous": 0.653,
         "railway": {
-          "current": 0.1116,
+          "current": 0.1137,
           "previous": 0.2895
         },
         "openai": {
@@ -417,10 +417,10 @@
       },
       {
         "name": "clank",
-        "current": 0.119,
+        "current": 0.1413,
         "previous": 0.0,
         "railway": {
-          "current": 0.119,
+          "current": 0.1413,
           "previous": 0.0
         },
         "openai": {
@@ -430,14 +430,14 @@
       },
       {
         "name": "Не привязано",
-        "current": 0.0076,
+        "current": 0.0109,
         "previous": 12.7575,
         "railway": {
           "current": 0.0,
           "previous": 0.0
         },
         "openai": {
-          "current": 0.0076,
+          "current": 0.0109,
           "previous": 12.7575
         }
       }
