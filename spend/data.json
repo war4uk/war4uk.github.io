@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-15T15:40:21Z",
-  "displayTime": "15 ноября 2026, 19:40 (Тбилиси)",
+  "generatedAt": "2026-11-15T21:03:24Z",
+  "displayTime": "16 ноября 2026, 01:03 (Тбилиси)",
   "window": {
     "hours": 168,
     "start": "2026-10-31T09:03:35Z",
@@ -180,7 +180,7 @@
     "billing": {
       "status": "invoice",
       "source": "customer.currentUsage",
-      "currentUsd": 1.785,
+      "currentUsd": 1.8584,
       "creditBalanceUsd": 0.0,
       "softLimitUsd": null,
       "hardLimitUsd": null,
@@ -192,11 +192,11 @@
       },
       "months": {
         "current": {
-          "sm-tracker": 0.1528,
-          "vintage": 1.1596,
-          "travels-history": 0.9533,
-          "generous-kindness": 0.9833,
-          "clank": 0.4571
+          "sm-tracker": 0.1544,
+          "vintage": 1.1788,
+          "travels-history": 0.97,
+          "generous-kindness": 0.9989,
+          "clank": 0.4774
         },
         "previous": {
           "sm-tracker": 0.2895,
@@ -247,23 +247,23 @@
       "projects": [
         {
           "name": "vintage",
-          "usd": 0.4933
+          "usd": 0.5106
         },
         {
           "name": "generous-kindness",
-          "usd": 0.4367
+          "usd": 0.4516
         },
         {
           "name": "travels-history",
-          "usd": 0.4354
+          "usd": 0.4516
         },
         {
           "name": "clank",
-          "usd": 0.3569
+          "usd": 0.3803
         },
         {
           "name": "sm-tracker",
-          "usd": 0.0627
+          "usd": 0.0644
         }
       ]
     }
@@ -271,7 +271,7 @@
   "openai": {
     "status": "invoice",
     "source": "organization.costs",
-    "totalUsd": 2.1311,
+    "totalUsd": 2.141,
     "limitUsd": 10.0,
     "periodStart": "2026-11-01",
     "periodEnd": "2026-12-01",
@@ -334,7 +334,7 @@
       },
       {
         "date": "2026-11-15",
-        "usd": 0.0092
+        "usd": 0.0191
       }
     ],
     "months": {
@@ -342,7 +342,7 @@
         "sm-tracker": 0.7058,
         "generous-kindness": 1.414,
         "vintage": 0.0019,
-        "Не привязано": 0.0094
+        "Не привязано": 0.0193
       },
       "previous": {
         "generous-kindness": 0.3777,
@@ -381,10 +381,10 @@
     "projects": [
       {
         "name": "generous-kindness",
-        "current": 2.3973,
+        "current": 2.4129,
         "previous": 2.5043,
         "railway": {
-          "current": 0.9833,
+          "current": 0.9989,
           "previous": 2.1266
         },
         "openai": {
@@ -394,10 +394,10 @@
       },
       {
         "name": "vintage",
-        "current": 1.1615,
+        "current": 1.1807,
         "previous": 2.3613,
         "railway": {
-          "current": 1.1596,
+          "current": 1.1788,
           "previous": 2.3613
         },
         "openai": {
@@ -407,10 +407,10 @@
       },
       {
         "name": "travels-history",
-        "current": 0.9533,
+        "current": 0.97,
         "previous": 1.928,
         "railway": {
-          "current": 0.9533,
+          "current": 0.97,
           "previous": 1.928
         },
         "openai": {
@@ -420,10 +420,10 @@
       },
       {
         "name": "sm-tracker",
-        "current": 0.8586,
+        "current": 0.8602,
         "previous": 0.653,
         "railway": {
-          "current": 0.1528,
+          "current": 0.1544,
           "previous": 0.2895
         },
         "openai": {
@@ -433,10 +433,10 @@
       },
       {
         "name": "clank",
-        "current": 0.4571,
+        "current": 0.4774,
         "previous": 0.0,
         "railway": {
-          "current": 0.4571,
+          "current": 0.4774,
           "previous": 0.0
         },
         "openai": {
@@ -446,14 +446,14 @@
       },
       {
         "name": "Не привязано",
-        "current": 0.0094,
+        "current": 0.0193,
         "previous": 12.7575,
         "railway": {
           "current": 0.0,
           "previous": 0.0
         },
         "openai": {
-          "current": 0.0094,
+          "current": 0.0193,
           "previous": 12.7575
         }
       }
